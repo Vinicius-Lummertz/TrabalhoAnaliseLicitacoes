@@ -17,13 +17,9 @@ st.set_page_config(
 def limpar_texto_vazio(df):
     for col in df.columns:
         if df[col].dtype == "object":
-            df[col] = df[col].astype(str).str.strip()
-            df[col] = df[col].replace({
-                "": np.nan,
-                " ": np.nan,
-                "nan": np.nan,
-                "None": np.nan
-            })
+            s = df[col].astype("string").str.strip()
+            s = s.mask(s.isin(["", "nan", "None", "<NA>"]))
+            df[col] = s
     return df
 
 def para_numero(series):
@@ -65,11 +61,11 @@ def carregar_dados():
     # Datas
     for col in ["dataPublicacao", "dataHomologacao", "dataAberturaEnvelopes", "dataCriacao", "dataJulgamento"]:
         if col in df_processos.columns:
-            df_processos[col] = pd.to_datetime(df_processos[col], errors="coerce")
+            df_processos[col] = para_data_sem_tz(df_processos[col])
 
     for col in ["dataAssinatura", "dataCompetencia", "dataVigenciaInicial", "dataVigenciaFinal"]:
         if col in df_contratos.columns:
-            df_contratos[col] = pd.to_datetime(df_contratos[col], errors="coerce")
+            df_contratos[col] = para_data_sem_tz(df_contratos[col])
 
     # Base unificada:
     # Mantém processos como base principal e junta contratos quando houver chave compatível
@@ -157,7 +153,8 @@ def formatar_moeda(valor):
         return "N/A"
     return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
-
+def para_data_sem_tz(series):
+    return pd.to_datetime(series, errors="coerce", utc=True).dt.tz_localize(None)
 # =========================================================
 # CARREGAMENTO
 # =========================================================
