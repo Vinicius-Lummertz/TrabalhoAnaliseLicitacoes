@@ -13,7 +13,7 @@ A aplicação foi desenvolvida utilizando **Python + Streamlit**, permitindo vis
 ### ✅ 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/Vinicius-Lummertz/TrabalhoAnaliseLicitacoes.git
 cd SEU-REPO
 🐍 2. Instalar Python (caso não tenha)
 
@@ -32,11 +32,14 @@ python -m ensurepip --upgrade
 🧪 4. Criar ambiente virtual (venv)
 Criar:
 python -m venv venv
-Ativar:
+
+- Ativar -
 Windows:
 venv\Scripts\activate
+
 Linux/Mac:
 source venv/bin/activate
+
 📚 5. Instalar dependências
 
 Se existir requirements.txt:
@@ -46,6 +49,7 @@ pip install -r requirements.txt
 Ou manualmente:
 
 pip install streamlit pandas matplotlib seaborn numpy
+
 ▶️ 6. Rodar a aplicação
 streamlit run app.py
 
@@ -80,16 +84,12 @@ Outliers
 
 🎯 Storytelling para apresentação
 
-🧠 Tecnologias utilizadas
+🧠 Bibliotecas/Tecnologias utilizadas
 
 Python
-
 Streamlit
-
 Pandas
-
 Matplotlib
-
 Seaborn
 
 ⚠️ Problemas comuns
