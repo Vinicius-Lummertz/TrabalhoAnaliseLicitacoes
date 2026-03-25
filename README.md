@@ -14,7 +14,7 @@ A aplicação foi desenvolvida utilizando **Python + Streamlit**, permitindo vis
 
 ```bash
 git clone https://github.com/Vinicius-Lummertz/TrabalhoAnaliseLicitacoes.git
-cd SEU-REPO
+cd TrabalhoAnaliseLicitacoes
 🐍 2. Instalar Python (caso não tenha)
 
 Baixe em: https://www.python.org/downloads/
@@ -33,22 +33,16 @@ python -m ensurepip --upgrade
 Criar:
 python -m venv venv
 
-- Ativar -
+- Para ativar a venv digite no CMD(windows)/Bash(linux) um dos comandos abaixo -
 Windows:
 venv\Scripts\activate
 
 Linux/Mac:
 source venv/bin/activate
 
-📚 5. Instalar dependências
-
-Se existir requirements.txt:
+📚 5. Instalar dependências (comando no CMD/Bash)
 
 pip install -r requirements.txt
-
-Ou manualmente:
-
-pip install streamlit pandas matplotlib seaborn numpy
 
 ▶️ 6. Rodar a aplicação
 streamlit run app.py
@@ -56,6 +50,9 @@ streamlit run app.py
 Acesse no navegador:
 
 http://localhost:8501
+
+----------------------------------------
+
 📁 Estrutura do projeto
 .
 ├── app.py
