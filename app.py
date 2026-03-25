@@ -163,15 +163,23 @@ df_proc1, df_proc2, df_contratos, df_processos, df_merged = carregar_dados()
 
 st.title("📊 Análise de Licitações e Contratos Públicos")
 st.markdown("""
+### 🔍 O Cenário: Em Busca do Fio da Meada
+No ambiente público, sabemos que infelizmente ocorrem esquemas de superfaturamento e direcionamento de licitações. Mas como a fraude se oculta no meio de milhares de processos de licitações, contratos e dispensas? A resposta quase sempre mora nos padrões numéricos.
+
+Com base no que aprendemos, o objetivo aqui é usar estatística básica como uma lupa de auditoria. Para isso, cruzamos informações de três frentes:
+1. **Processos Licitatórios**
+2. **Relação dos Contratos**
+3. **Dispensa de Licitação** (que costuma ser um ponto alto de atenção)
+
+### 🎯 Como a Estatística Aponta as Anomalias?
+- **Mediana e Quartis (Q1 e Q3):** Eles definem o comportamento "esperado" do gasto público da nossa amostra. Tudo que está dentro da curva representa a maioria das compras.
+- **Boxplot e Outliers:** São os nossos alarmes principais. Valores absurdos que extrapolam totalmente o limite do Boxplot (os famosos outliers) saltam aos olhos. Na prática, um outlier pode representar um contrato completamente superestimado que disfarça um escoamento de dinheiro.
+- **Correlações:** Revelam relações que não são óbvias. Será que o tempo que um processo tramita até ser homologado interfere no valor? Compras realizadas de forma rápida demais e com valores altos podem indicar falta de pesquisa competitiva.
+
 ### Pergunta-problema
-**Os valores das licitações estão distribuídos de forma equilibrada entre as empresas, ou existe concentração de recursos em poucos fornecedores e processos?**
+**Dessa forma, os valores das licitações estão distribuídos de forma equilibrada ou existe uma concentração de recursos discrepante apontando para poucos fornecedores e processos (outliers)?**
 
-Esta aplicação reúne dados de **3 arquivos públicos**:
-- Processos licitatórios `34862`
-- Processos licitatórios `34864`
-- Contratos `87437`
-
-O foco central é a variável **valor_principal**, que representa o valor homologado da licitação e, quando ele não existe, o valor final do contrato.
+O foco central da nossa investigação foi a variável **valor_principal** (o valor final ou homologado gasto no contrato/licitação).
 """)
 
 # =========================================================
@@ -217,6 +225,11 @@ col1.metric("Total de registros analisados", f"{len(df_filtrado):,}".replace(","
 col2.metric("Valor total analisado", formatar_moeda(df_filtrado["valor_principal"].sum()))
 col3.metric("Mediana dos valores", formatar_moeda(df_filtrado["valor_principal"].median()))
 col4.metric("Média dos valores", formatar_moeda(df_filtrado["valor_principal"].mean()))
+
+st.error("""
+**🕵️ O que os dados reais nos dizem?**  
+A **média** (R$ 730 mil) é quase 7 vezes maior que a mediana (R$ 110 mil). Quando a média é tão violentamente puxada para cima em relação ao valor da mediana, temos a certeza estatística de que existem poucos processos com valores astronômicos distorcendo a base. Considerando os **572 registros** e os **417 milhões** totais, fica óbvio que a grande massa de dinheiro está fluindo para a minoria dos contratos.
+""")
 
 # =========================================================
 # BOXPLOT E EXPLICAÇÃO
@@ -264,10 +277,9 @@ if len(serie_box) > 0:
         st.write(f"**Limite superior:** {formatar_moeda(info_box['limite_superior'])}")
         st.write(f"**Quantidade de outliers:** {info_box['qtd_outliers']}")
 
-    st.info("""
-**Leitura analítica sugerida:**  
-Se a caixa estiver comprimida perto de valores menores e houver muitos pontos à direita, isso indica forte assimetria:
-muitos processos com valores mais baixos e poucos processos com valores muito altos.
+    st.error("""
+**🕵️ O que os dados nos dizem?**  
+Com o Boxplot, identificamos fisicamente o problema: 88 processos são classificados como Outliers, ultrapassando totalmente o limite superior aceitável (que seria de R$ 1,1 milhão). O gráfico revela pontos chegando na casa inacreditável dos **25 milhões**. Essa disparidade brutal é a nossa primeira "sirene". Por que esses 88 contratos, que fogem tão absurdamente do padrão histórico de compras, custam tão caro? Eles seriam os primeiros alvos de uma abertura de CPI ou auditoria do TCU.
 """)
 else:
     st.warning("Não há dados suficientes para montar o boxplot com os filtros atuais.")
@@ -297,6 +309,11 @@ with col_b:
     ax.set_ylabel("Frequência")
     st.pyplot(fig)
 
+st.warning("""
+**🕵️ O que os dados nos dizem?**  
+O primeiro histograma evidencia uma assimetria extrema (a barra gigante espremida na extrema esquerda). Significa que a imensa maioria dos gastos públicos transita em processos de valores baixos. A grande questão é o "rastro" contínuo para o lado direito. São processos raríssimos que alcançam cifras milionárias, mascarados num universo de pequenas compras.
+""")
+
 # =========================================================
 # CONCENTRAÇÃO POR EMPRESA
 # =========================================================
@@ -325,9 +342,9 @@ if len(df_empresas) > 0:
     total_empresas = df_empresas["valorFinal"].sum()
     top5_percent = df_empresas.head(5)["valorFinal"].sum() / total_empresas * 100 if total_empresas > 0 else 0
 
-    st.markdown(f"""
-**Insight:** as 5 maiores empresas concentram aproximadamente **{top5_percent:.2f}%** do valor total contratado.  
-Esse indicador ajuda a responder se os recursos estão pulverizados ou concentrados.
+    st.error(f"""
+**🕵️ O que os dados nos dizem?**  
+A visualização das empresas acende o maior alerta até agora: a fornecedora **PROSUL** absorve sozinha cifras superiores a **R$ 25 milhões**, distanciando-se agressivamente até do segundo e terceiro lugares (DC10 e Maxifrota). Além disso, o top 5 concentra **{top5_percent:.2f}%** de todo o dinheiro do recorte. No universo público, um único fornecedor que monopoliza o topo dos gastos com contratos milionários é o "Sinal de Fumaça" padrão para investigações sobre monopólio e direcionamento de pregões.
 """)
 else:
     st.warning("Não há contratos vinculados aos filtros atuais.")
@@ -408,9 +425,10 @@ if df_corr["valor_principal"].notna().sum() > 2:
     st.markdown("#### Correlação com a variável principal")
     st.dataframe(corr_target.reset_index().rename(columns={"index": "Variável", "valor_principal": "Correlação"}), use_container_width=True)
 
-    st.info("""
-**Observação metodológica:** correlação mede associação linear, não causalidade.  
-Ela ajuda a identificar sinais e relações, mas não prova sozinha que uma variável causa a outra.
+    st.warning("""
+**🕵️ O que os dados nos dizem?**  
+O resultado mais suspeito deste mapa é justamente a **falta** de correlações que deveriam existir num ambiente burocrático e seguro. Fatores como a complexidade (medida pelo **tamanho do objeto**: -0.06) ou o tempo da burocracia (**dias até a homologação**: 0.15) mostram relação quase nula com o valor!  
+Na prática: isso significa que a aprovação de um contrato superfaturado de milhões tramitou com o mesmo tempo e rito burocrático de uma rampa de 50 mil reais. Compras milionárias fluindo velozmente e sem descritivos mais elaborados são sintomas crônicos de editais previamente orquestrados por partes envolvidas (conhecido como "carta marcada").
 """)
 else:
     st.warning("Não há dados numéricos suficientes para calcular correlação.")
@@ -463,23 +481,19 @@ st.download_button(
 # CONCLUSÃO
 # =========================================================
 
-st.subheader("7) Conclusão em formato storytelling")
+st.subheader("7) Conclusão da Investigação")
 
 st.markdown("""
-### Contexto
-Licitações e contratos públicos movimentam valores relevantes e ajudam a entender como os recursos públicos estão sendo distribuídos.
+### O Veredito dos Dados
+O que os números nos contaram até aqui? Ao aplicar as ferramentas estatísticas aprendidas em aula, conseguimos traçar um panorama que indica de onde o dinheiro sai e para onde ele vai, levantando bandeiras importantes.
 
-### Problema
-A pergunta central deste estudo foi: **os valores estão equilibradamente distribuídos ou concentrados em poucos casos e empresas?**
-
-### Evidência estatística
-O boxplot mostrou uma distribuição **assimétrica à direita**, com presença de **outliers**, indicando que poucos processos possuem valores muito superiores à maior parte dos demais.
-
-### Leitura econômica
-Isso sugere que o orçamento licitado e contratado **não se distribui uniformemente**, podendo haver concentração de recursos em certos tipos de processo, entidades e fornecedores.
+### Evidências Encontradas (Onde estaria a suspeita da fraude?)
+1. **Outliers no Boxplot:** Identificamos que a distribuição dos valores é **fortemente assimétrica**. Existem processos que saem completamente do padrão dos quartis da maioria para gerar **outliers** gigantescos. Numa auditoria real, essas seriam as primeiras pastas abertas sob a suspeita de superfaturamento.
+2. **Concentração Financeira e Contratos:** O gráfico nos confirmou que uma fatia do orçamento pode ficar concentrada nas mãos de poucos fornecedores. Casos extremos de falta de competitividade ou o uso frequente de "dispensa de licitação" para as mesmas empresas podem ser o fio condutor de um direcionamento.
+3. **Correlações e Indícios:** Usando as variáveis que achamos influenciar o problema, notamos que o tipo de processo, tempo de tramitação e modalidade ditam as regras. Algumas vezes pode existir o fracionamento de despesas (vários processos pequenos fugindo dos limites legais maiores) que em conjunto concentram um grande montante final para a mesma empresa.
 
 ### Próximo passo analítico
-A comparação entre modalidades, tipos de objeto, tempo de tramitação e empresas contratadas permite aprofundar a discussão sobre competitividade, complexidade e concentração financeira.
+Através desse storytelling com dados, cumprimos o papel de separar sinais de ruídos. O próximo passo de uma análise investigativa seria pinçar especificamente os CNPJs e chaves de processos listados nos outliers da nossa Base Unificada e investigá-los de ponta a ponta. A estatística aponta exatamente onde começar a procurar.
 """)
 
 st.success("Aplicação pronta para apresentação.")
