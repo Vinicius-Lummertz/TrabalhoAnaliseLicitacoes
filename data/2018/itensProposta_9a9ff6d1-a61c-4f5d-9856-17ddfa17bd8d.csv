@@ -1,0 +1,92 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão de obra para manutenção de equipamentos",0,130,PERDEU," ",12322.58,94.7891
+"Carga de gás R-12/R-134 para geladeira e freezer",0,15,PERDEU," ",3056.95,203.7965
+"Capacitor para geladeira e freezer",0,10,PERDEU," ",426.55,42.6551
+"Damper controle",0,21,PERDEU," ",895.76,42.6551
+"KIT SENSOR",0,15,PERDEU," ",924.19,61.6129
+"Lâmpada para geladeira/freezer",0,20,PERDEU," ",417.07,20.8536
+"Motores (compressor)",0,10,PERDEU," ",4692.06,469.2059
+"Módulos para geladeira e freezer",0,6,PERDEU," ",773.48,128.9131
+"Resistência 220 v",0,6,PERDEU," ",540.3,90.0496
+"Borracha porta geladeira e freezer",0,20,PERDEU," ",1800.99,90.0496
+"Micro motor para geladeira e freezer",0,6,PERDEU," ",540.3,90.0496
+"Rede de sensor",0,13,PERDEU," ",800.97,61.6129
+TERMOSTATO,0,10,PERDEU," ",663.52,66.3523
+Bimetal,0,4,PERDEU," ",284.37,71.0918
+"Filtro Secador",0,4,PERDEU," ",132.7,33.1762
+"Protetor Térmico",0,4,PERDEU," ",132.7,33.1762
+"Controlador de Temperartura",0,30,PERDEU," ",4265.51,142.1836
+"Mão de obra para manutenção de equipamentos",0,40,VENCEU," ",3510.32,87.758
+"Termostato para forno elétrico",0,6,VENCEU," ",585.06,97.5093
+"Bicos injetores",0,10,VENCEU," ",39,3.9004
+"Abraçadeira BD 2 1/2",0,5,VENCEU," ",8.77,1.7532
+"Cotovelo latão MF 1/2 para fogão",0,21,VENCEU," ",163.81,7.8007
+"Cachimbo longo para fogão",0,5,VENCEU," ",268.15,53.6301
+"Cachimbo curto para fogão",0,5,VENCEU," ",243.77,48.7546
+"Espalhador pequeno para fogão",0,2,VENCEU," ",48.75,24.3773
+"Espalhador Grande para fogão",0,2,VENCEU," ",58.51,29.2528
+"Mangueira malha de aço 1,50mts para fogão industrial",0,2,VENCEU," ",97.51,48.7546
+"Mangueira ponta borracha P13 para fogão industrial",0,2,VENCEU," ",95.56,47.7795
+"Mangueira ponta rosca P45",0,2,VENCEU," ",87.76,43.8792
+"Usina Para Fogão",0,2,VENCEU," ",87.76,43.8792
+"Nível de redução 1 x 1/2, para fogão industrial",0,5,VENCEU," ",36.84,7.3674
+"Registro torneira para fogão industrial",0,5,VENCEU," ",142.13,28.4254
+"Registro de alta pressão para fogão industrial",0,3,VENCEU," ",204.18,68.0595
+"Regulador P13 para fogão industrial",0,5,VENCEU," ",219.4,43.8792
+"Regulador para Gás P45 RP21",0,5,VENCEU," ",243.77,48.7546
+"Regulador RP 21 para fogão industrial",0,20,VENCEU," ",1657.66,82.8829
+"Regulador de baixa pressão para fogão industrial",0,3,VENCEU," ",190.7,63.5682
+"Luva de redução 1/2 x 3/8, para fogão industrial",0,3,VENCEU," ",20.48,6.8256
+"Reforma Com Pintura Fogão Industrial",0,5,VENCEU," ",3169.05,633.8103
+"Ramal cavalete",0,30,VENCEU," ",585.06,19.5019
+"Queimador Duplo",0,30,VENCEU," ",1901.43,63.381
+"Vela Queimador",0,35,VENCEU," ",341.28,9.7509
+"Acessório Para Vela",0,4,VENCEU," ",370.54,92.6338
+"Queimador Longo",0,30,VENCEU," ",2632.75,87.7583
+"Mão de obra para manutenção de equipamentos",0,20,VENCEU," ",1389.81,69.4905
+"Placa Eletrônica Inter Face",0,6,VENCEU," ",708.79,118.1316
+"Placa de potência",0,4,VENCEU," ",778.28,194.5697
+"Motores Elétricos",0,5,VENCEU," ",1146.57,229.3143
+Pressostato,0,5,VENCEU," ",156.35,31.2701
+Eletrobomba,0,5,VENCEU," ",260.58,52.1169
+Eletroválvula,0,5,VENCEU," ",274.48,54.8965
+CORREIA,0,3,VENCEU," ",31.27,10.4234
+"Atuador de Freio",0,3,VENCEU," ",135.5,45.168
+"Coifa LR Consul",0,3,VENCEU," ",156.35,52.1169
+"Chave Rotativa Consul",0,3,VENCEU," ",93.81,31.2701
+"Válvula Solenoide Atuadora",0,3,VENCEU," ",114.66,38.2191
+"Mangueira de saída",0,3,VENCEU," ",41.69,13.8978
+"Mangueira de Entrada",0,3,VENCEU," ",41.69,13.8978
+"Termo Atuador",0,3,VENCEU," ",198.04,66.0147
+"Mecanismo Completo",0,3,VENCEU," ",760.91,253.6355
+"CHAVE SELETORA",0,3,VENCEU," ",198.04,66.0147
+"Chicote Superior",0,3,VENCEU," ",135.5,45.168
+"Retentor Tubo",0,3,VENCEU," ",31.27,10.4234
+"Selo Mecânico",0,3,VENCEU," ",72.96,24.3212
+"Kit Retentor",0,3,VENCEU," ",83.39,27.7957
+"Vara Suspensão",0,3,VENCEU," ",125.08,41.6935
+Agitador,0,3,VENCEU," ",281.43,93.8104
+"Placa De Controle",0,3,VENCEU," ",333.55,111.1827
+"Mão de obra para manutenção de equipamentos",0,80,VENCEU," ",4916.81,61.4601
+"Apoio Prato",0,10,VENCEU," ",84.57,8.4574
+"Cabo de Força",0,6,VENCEU," ",80.17,13.3609
+CAPACITOR,0,6,VENCEU," ",372.49,62.081
+"Diodo Terminal Largo",0,5,VENCEU," ",89.07,17.8145
+Magnetron,0,2,VENCEU," ",169.24,84.6191
+"Guia de Ondas",0,10,VENCEU," ",130.01,13.001
+LAMPADA,0,4,VENCEU," ",51.28,12.8211
+"Transformadora Tensão 220 v",0,6,VENCEU," ",555.81,92.6356
+RODIZIO,0,4,VENCEU," ",106.89,26.7218
+"Prato Para Microondas",0,4,VENCEU," ",206.65,51.6622
+"Membrana Microondas",0,10,VENCEU," ",427.55,42.7549
+"Motor Prato",0,6,VENCEU," ",209.46,34.9093
+"Mão de obra para manutenção de equipamentos",0,50,PERDEU," ",3050.12,61.0024
+"Timer Forno",0,3,PERDEU," ",106.09,35.3638
+"Termostato forno 50º a 320º",0,6,PERDEU," ",397.84,66.3072
+Porcelana,0,10,PERDEU," ",70.73,7.0728
+"CHAVE SELETORA",0,6,PERDEU," ",238.71,39.7843
+"Conjunto Trava Porta",0,6,PERDEU," ",63.66,10.6092
+"Vedação Porta do Forno",0,10,PERDEU," ",70.73,7.0728
+INTERRUPTOR,0,6,PERDEU," ",102.88,17.1461
+"Pé do Forno Elétrico",0,10,PERDEU," ",57.42,5.7422
+LAMPADA,0,10,PERDEU," ",176.82,17.6819

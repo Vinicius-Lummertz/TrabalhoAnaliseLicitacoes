@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira",4427403,3,DESCLASSIFICADO,UNI,750,250
+"Balança antropométrica mecânica  adulto",4427404,1,DESCLASSIFICADO,UN,1000,1000
+"Balança eletrônica infantil",4427405,1,DESCLASSIFICADO,UN,950,950
+"Biombo triplo",4427406,1,INABILITADO,UN,450,450
+"Cadeira de rodas adulto  manual",4427407,1,VENCEU,UN,1453,1453
+"Mesa Antropométrica com colchonete",4427408,1,VENCEU,UN,577,577
+"Aparelho para Inalação",4427409,1,VENCEU,UN,1376,1376
+"Escadinha hospitalar com 02 degraus",4427410,4,DESCLASSIFICADO,UN,1056,264
+"Foco clínico (LED) ginecológico portátil",4427411,1,PERDEU,UN,422,422
+"Lixeira cilíndrica",4427412,20,DESCLASSIFICADO,UNI,1300,65
+"MESA GINECOLOGICA",4427413,1,DESCLASSIFICADO,UN,1100,1100
+"Mesa para exame clínico",4427414,4,PERDEU,UNI,2000,500
+"Autoclave elétrica",4427415,1,PERDEU,UN,5070,5070
+"MESA AUXILIAR",4427416,3,DESCLASSIFICADO,UN,1500,500
+NEGATOSCOPIO,4427417,2,DESCLASSIFICADO,UNI,500,250
+OTOSCOPIO,4427418,2,INABILITADO,UN,1000,500
+"Suporte de soro",4427419,1,VENCEU,UN,177,177
+"Amalgamador capsular digital",4427420,1,INABILITADO,UN,650,650
+"Mesa auxiliar odontológica p/ Instrumental.",4427421,1,DESCLASSIFICADO,UN,600,600
+"Mocho giratório com encosto e rodízios",4427422,1,DESCLASSIFICADO,UN,650,650
+"Aparelho ultra-som (profilaxia)",4427423,1,VENCEU,UN,1348.5,1348.5
+"Conjunto de Oxigênio Portátil",4427424,1,PERDEU,UN,1093,1093
+"Carro de curativos",4427425,1,VENCEU,UN,464,464
+"Seladora térmica",4427426,1,PERDEU,UN,799,799
+"Detector cardíaco fetal portátil digital.",4427427,1,PERDEU,UN,513,513
+"COMPRESSOR ODONTOLÓGICO",4427428,1,VENCEU,UNI,2560,2560
+"Consultório Odontológico - Conjunto Odontológico.",4427429,1,INABILITADO,UN,14500,14500

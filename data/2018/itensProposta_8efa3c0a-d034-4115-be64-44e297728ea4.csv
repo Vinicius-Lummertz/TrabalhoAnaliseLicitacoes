@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"GASOLINA COMUM",4376606,18000,VENCEU,LS,77398.2,4.2999
+"DIESEL S-10",4376607,23000,VENCEU,LS,82777,3.599
+"ARLA em litros",4376608,2000,VENCEU,LT,6780,3.39
+"Gás de Cozinha P45",4376609,100,NAO_COTOU,UND,0,0

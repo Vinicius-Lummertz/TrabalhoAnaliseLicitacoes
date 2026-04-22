@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Freezer horizontal",4344594,8,VENCEU,UND,16796.8,2099.6
+"FREEZER VERTICAL",4344595,9,PERDEU,UND,19260,2140
+"Fogão Industrial à gás, 03 Bocas duplas, perfil 10",4344596,5,VENCEU,UND,5300,1060
+"Fogão Industrial à gás, 04 bocas, perfil 10",4344597,6,PERDEU,UND,6594,1099
+"Forno Elétrico",4344598,11,PERDEU,UND,5230.5,475.5
+"LAVA JATO",4344599,1,PERDEU,UND,836,836
+"LAVADORA DE ROUPAS",4344600,4,VENCEU,UND,6240,1560
+"REFRIGERADOR DUPLEX",4344601,9,PERDEU,UND,22991.4,2554.6
+"Liquidificador industrial",4344602,9,NAO_COTOU,UND,0,0

@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AGUA DESTILADA 5ML",1258422,15,5000,ATIVO,AMPOLA,780,0.156
+"Anlodipino,besilato 5mg",1258437,30,1800000,ATIVO,COMPRIMIDO,37800,0.021
+"Clorpromazina, cloridrato 5mg/mL, INJETÁVEL",1258455,83,500,ATIVO,AMP,525,1.05
+"Dexametasona 0,1% creme 10g",1258456,86,40000,ATIVO,BISNAGA,22600,0.565
+"Diazepam 5mg/ml solução injetavel 2ml",1258457,90,1000,ATIVO,AMP,580,0.58
+"Vitaminas do complexo B 2ml",1258482,247,6000,ATIVO,AMP,3900,0.65
+"Propranolol 40mg.",1258483,217,1300000,ATIVO,COMPRIMIDO,16510,0.0127
+"Nifedipino retard 20mg",1258484,196,200000,ATIVO,COMPRIMIDO,11400,0.057
+"Nifedipino 10mg",1258485,195,250000,ATIVO,COMPRIMIDO,5750,0.023
+"Midazolam, maleato 5mg/mL 3ml",1258486,189,1200,ATIVO,COMPRIMIDO,1080,0.9
+"Loratadina 10mg",1258487,171,120000,ATIVO,COMPRIMIDO,5184,0.0432
+"Lidocaina sem vaso constritor 2% 20ml",1258488,169,8000,ATIVO,"Frasco ampola",11600,1.45
+"Insulina NPH 100UI/mL 10ml",1258489,146,500,ATIVO,"Frasco ampola",5750,11.5
+"Doxiciclina 100mg",1258490,103,15000,ATIVO,COMPRIMIDO,1170,0.078

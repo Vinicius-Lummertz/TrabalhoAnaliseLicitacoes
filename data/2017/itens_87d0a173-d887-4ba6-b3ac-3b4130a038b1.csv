@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Areia fina sem especificação para construção civil",1292517,11,400,ATIVO,TONELADA,8160,20.4
+"Meio fio de concreto pré moldado de 12 x 30 x 80 cm",1292527,8,400,ATIVO,METRO,5360,13.4
+"Bloco de concreto sextavado com 8cm de espessura",1292531,4,100,ATIVO,"METRO QUADRADO",2750,27.5

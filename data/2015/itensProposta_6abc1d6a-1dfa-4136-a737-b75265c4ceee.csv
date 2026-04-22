@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Veículo utilitário novo tipo perua ou waggon",4427921,8,VENCEU,UNI,437600,54700
+"Veículo Automotor zero Km tipo minibus",4427922,4,PERDEU,UNI,510760,127690
+"Veículo de Passeio Automotor novo, tipo utilitário",4427923,1,PERDEU,UNI,71950,71950

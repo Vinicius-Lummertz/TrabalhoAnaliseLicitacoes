@@ -1,0 +1,65 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão de obra para manutenção de equipamentos",0,130,VENCEU," ",12473.77,95.9521
+"Carga de gás R-12/R-134 para geladeira e freezer",0,15,VENCEU," ",3022.49,201.4993
+"Capacitor para geladeira e freezer",0,10,VENCEU," ",431.78,43.1784
+"Damper controle",0,21,VENCEU," ",906.75,43.1784
+"KIT SENSOR",0,15,VENCEU," ",935.53,62.3688
+"Lâmpada para geladeira/freezer",0,20,VENCEU," ",422.19,21.1094
+"Motores (compressor)",0,10,VENCEU," ",4317.84,431.7841
+"Módulos para geladeira e freezer",0,6,VENCEU," ",777.21,129.5352
+"Resistência 220 v",0,6,VENCEU," ",518.14,86.3568
+"Borracha porta geladeira e freezer",0,20,VENCEU," ",1727.14,86.3568
+"Micro motor para geladeira e freezer",0,6,VENCEU," ",518.14,86.3568
+"Rede de sensor",0,13,VENCEU," ",748.43,57.5712
+TERMOSTATO,0,10,VENCEU," ",671.66,67.1664
+Bimetal,0,4,VENCEU," ",268.67,67.1664
+"Filtro Secador",0,4,VENCEU," ",115.14,28.7856
+"Protetor Térmico",0,4,VENCEU," ",115.14,28.7856
+"Controlador de Temperartura",0,30,VENCEU," ",4029.98,134.3328
+"Mão de obra para manutenção de equipamentos",0,20,PERDEU," ",1489.43,74.4715
+"Placa Eletrônica Inter Face",0,6,PERDEU," ",714.92,119.154
+"Placa de potência",0,4,PERDEU," ",774.5,193.6252
+"Motores Elétricos",0,5,PERDEU," ",1117.07,223.4137
+Pressostato,0,5,PERDEU," ",148.94,29.7885
+Eletrobomba,0,5,PERDEU," ",260.65,52.1299
+Eletroválvula,0,5,PERDEU," ",260.65,52.1299
+CORREIA,0,3,PERDEU," ",22.34,7.4471
+"Atuador de Freio",0,3,PERDEU," ",134.05,44.6827
+"Coifa LR Consul",0,3,PERDEU," ",156.39,52.1299
+"Chave Rotativa Consul",0,3,PERDEU," ",89.37,29.7885
+"Válvula Solenoide Atuadora",0,3,PERDEU," ",111.71,37.2356
+"Mangueira de saída",0,3,PERDEU," ",40.21,13.4048
+"Mangueira de Entrada",0,3,PERDEU," ",40.21,13.4048
+"Termo Atuador",0,3,PERDEU," ",201.07,67.0241
+"Mecanismo Completo",0,3,PERDEU," ",781.95,260.6493
+"CHAVE SELETORA",0,3,PERDEU," ",201.07,67.0241
+"Chicote Superior",0,3,PERDEU," ",134.05,44.6827
+"Retentor Tubo",0,3,PERDEU," ",31.28,10.426
+"Selo Mecânico",0,3,PERDEU," ",67.02,22.3414
+"Kit Retentor",0,3,PERDEU," ",78.19,26.0649
+"Vara Suspensão",0,3,PERDEU," ",111.71,37.2356
+Agitador,0,3,PERDEU," ",268.1,89.3655
+"Placa De Controle",0,3,PERDEU," ",335.12,111.7068
+"Mão de obra para manutenção de equipamentos",0,80,PERDEU," ",4997.94,62.47425
+"Apoio Prato",0,10,PERDEU," ",86.5,8.6503
+"Cabo de Força",0,6,PERDEU," ",69.2,11.5337
+CAPACITOR,0,6,PERDEU," ",346.01,57.6684
+"Diodo Terminal Largo",0,5,PERDEU," ",86.5,17.3005
+Magnetron,0,2,PERDEU," ",173.01,86.5026
+"Guia de Ondas",0,10,PERDEU," ",115.34,11.5337
+LAMPADA,0,4,PERDEU," ",46.13,11.5337
+"Transformadora Tensão 220 v",0,6,PERDEU," ",576.68,96.114
+RODIZIO,0,4,PERDEU," ",96.11,24.0285
+"Prato Para Microondas",0,4,PERDEU," ",192.23,48.057
+"Membrana Microondas",0,10,PERDEU," ",432.51,43.2513
+"Motor Prato",0,6,PERDEU," ",201.84,33.6399
+"Mão de obra para manutenção de equipamentos",0,50,PERDEU," ",3166.88,63.3377
+"Timer Forno",0,3,PERDEU," ",116.93,38.9771
+"Termostato forno 50º a 320º",0,6,PERDEU," ",409.26,68.2099
+Porcelana,0,10,PERDEU," ",68.21,6.821
+"CHAVE SELETORA",0,6,PERDEU," ",233.86,38.9771
+"Conjunto Trava Porta",0,6,PERDEU," ",58.47,9.7443
+"Vedação Porta do Forno",0,10,PERDEU," ",68.21,6.821
+INTERRUPTOR,0,6,PERDEU," ",93.54,15.5908
+"Pé do Forno Elétrico",0,10,PERDEU," ",58.47,5.8466
+LAMPADA,0,10,PERDEU," ",146.16,14.6164

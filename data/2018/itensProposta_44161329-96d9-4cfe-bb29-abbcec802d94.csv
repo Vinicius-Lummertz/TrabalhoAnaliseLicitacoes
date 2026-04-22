@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,10,PERDEU," ",450,45
+"Patch painel categoria 5E 24 portas",0,2,PERDEU," ",308,154
+"Rack 19 6U x 450mm parede",0,4,PERDEU," ",1808,452
+"Bucha 6",0,200,PERDEU," ",60,0.3
+"Cabo UTP LAN Cat5e",0,2500,PERDEU," ",5500,2.2
+"Canaleta x20x10",0,100,PERDEU," ",640,6.4
+"Canaleta x50x20x2000",0,100,PERDEU," ",1100,11
+"Switch 8 portas 10/100",0,4,PERDEU," ",428,107
+"Conector RJ45 Cat5E",0,150,PERDEU," ",177,1.18
+"Etiqueta de identificação p/ ponto de rede",0,150,PERDEU," ",30,0.2
+"Fio Elétrico Flexivel 2,5mm",0,1800,PERDEU," ",3402,1.89
+"Abraçadeira pacote c/ 100 unidades",0,3,PERDEU," ",81,27
+"Fita isolante rolo c/ 20m",0,15,PERDEU," ",85.8,5.72
+"PARAFUSO P/ BUCHA 6",0,200,PERDEU," ",66,0.33
+"Patch cord 1,5m cat5e",0,100,PERDEU," ",800,8
+"Switch 24 portas 10/100/1000",0,2,PERDEU," ",1532,766
+"Tomada 2P + T NBR",0,150,PERDEU," ",1875,12.5
+"Caixa sistema X 3x3",0,200,PERDEU," ",1120,5.6
+"Espelho sistema X 2 furos p/ RJ 45",0,100,PERDEU," ",480,4.8
+"Fio Telefônico FE100 (DROP)",0,200,PERDEU," ",256,1.28
+"Conjunto de Porca Gaiola M5",0,50,PERDEU," ",50,1
+"Jack rj 45 e femea (qestone)",0,300,PERDEU," ",2655,8.85
+"MAO DE OBRA",0,800,PERDEU," ",55200,69

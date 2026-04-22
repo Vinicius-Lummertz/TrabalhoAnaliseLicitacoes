@@ -1,0 +1,40 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Colchão.,4435939,20,PERDEU,UN,10200,510
+Rack,4435940,2,VENCEU,UN,960,480
+TRAVESSEIRO,4435941,20,PERDEU,UND,2140,107
+"TOALHA DE ROSTO FELPUDA",4435943,35,PERDEU,UN,507.5,14.5
+"Pano de prato",4435944,20,PERDEU,UND,66,3.3
+Freezer.,4435945,2,PERDEU,UN,3700,1850
+Liquidificador,4435946,2,PERDEU,UND,520,260
+"Porta Sabonete Liquido",4435947,8,PERDEU,UN,384,48
+"PORTA PAPEL TOALHA",4435948,8,PERDEU,UND,272,34
+"Garrafa Termica 1,8 litros inox",4435949,4,VENCEU,UN,396,99
+"Abridor de Latas",4435950,6,PERDEU,UN,40.8,6.8
+"Bacia grande",4435951,6,VENCEU,UN,66,11
+"Escorredor de Louça",4435953,2,PERDEU,UN,356,178
+"Potes Hermeticos de Plastico 1,5litro",4435955,6,PERDEU,UN,87,14.5
+"Potes Hermeticos de Plastico 600ml.",4435956,6,PERDEU,UN,61.2,10.2
+"Potes Hermeticos de Plastico 2,5 litro.",4435957,6,PERDEU,UN,90,15
+"Faca de corte para cozinha, nº8",4435958,2,VENCEU,UN,100,50
+"Faca de corte para cozinha, nº6",4435959,2,PERDEU,UN,70,35
+"Panela caldeirão de alumínio 10 litros",4435960,2,PERDEU,UN,114,57
+"Panela caçarola de alumínio 6,7 litros",4435961,4,VENCEU,UN,200,50
+"Panela caçarola de alumínio 9,5 litros",4435962,4,PERDEU,UN,520,130
+"Panela caçarola de alumínio 5,6 litros",4435963,2,PERDEU,UN,96,48
+"FACA DE MESA INOX",4435964,40,PERDEU,UN,144,3.6
+"GARFO DE MESA INOX",4435965,40,PERDEU,UN,108,2.7
+"COLHER DE MESA INOX",4435966,40,PERDEU,UN,100,2.5
+"Colher de sobremesa inox",4435967,20,PERDEU,UN,46,2.3
+"Colher grande de arroz",4435968,4,PERDEU,UN,120,30
+"Colher de chá inox",4435969,20,PERDEU,UN,38,1.9
+CONCHA,4435970,4,PERDEU,UN,56,14
+"PEGADOR DE SALADA",4435971,4,PERDEU,UND,53.6,13.4
+"Tigela 24cm",4435972,4,PERDEU,UN,140,35
+"Tigela 30cm",4435973,4,PERDEU,UN,256,64
+"Tabua de corte",4435974,2,PERDEU,UN,114,57
+"Bule de Café 2 litros",4435976,2,VENCEU,UN,108,54
+"Prato para Refeição de plástico",4435977,30,PERDEU,UN,165,5.5
+"Bandeja plástica para salada",4435978,8,PERDEU,UN,71.2,8.9
+"Jarra 3 litros",4435979,4,PERDEU,UN,61.6,15.4
+ESCUMADEIRA,4435980,2,PERDEU,UN,25.4,12.7
+"Pegador de massas",4435982,4,PERDEU,UN,53.6,13.4

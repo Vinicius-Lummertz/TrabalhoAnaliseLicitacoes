@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"COMPUTADOR BÁSICO - FORMATO REDUZIDO",0,24,NAO_COTOU," ",0,0
+"MONITOR DE VÍDEO",0,14,NAO_COTOU," ",0,0
+"SISTEMA OPERACIONAL",0,24,VENCEU," ",20350.08,847.92

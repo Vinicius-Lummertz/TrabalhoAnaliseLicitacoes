@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Oleo diesel S500",4357489,280000,PERDEU,LS,760200,2.715
+"Oleo diesel S10",4357490,125000,PERDEU,LS,354375,2.835
+"GASOLINA COMUM",4357491,215000,VENCEU,LS,725195,3.373

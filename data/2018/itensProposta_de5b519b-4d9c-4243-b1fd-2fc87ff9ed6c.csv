@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ração balanceada para caes filhotes",4433766,1000,VENCEU,KG,4280,4.28
+"Ração balanceada para caes adultos",4433767,3000,PERDEU,KG,11700,3.9
+"Ração balanceada para gatos Filhotes",4433768,50,VENCEU,KG,200,4
+"Ração balanceada para gatos adultos",4433769,100,VENCEU,KG,400,4
+"Comida enlatada para cães",4433770,60,VENCEU,UNI,240,4
+"Comedouros/ tigelas/ potes para ração de cães e gatos 1,5 a",4433771,30,VENCEU,UNI,306,10.2
+"Comedouros/ tigelas/ potes para ração de cães e gatos 2,5 a",4433772,20,VENCEU,UNI,440,22
+"Focinheira para cães nº 0",4433773,2,VENCEU,UNI,10,5
+"Focinheira para cães nº 1",4433774,2,VENCEU,UNI,10,5
+"Focinheira para cães nº 2",4433775,2,VENCEU,UNI,10,5
+"Focinheira para cães nº 3",4433776,2,VENCEU,UNI,13,6.5
+"Focinheira para cães nº 4",4433777,2,VENCEU,UNI,20,10
+"Focinheira para cães nº 5",4433778,2,VENCEU,UNI,28,14
+"Colar elizabetano para cães nº 1",4433779,2,VENCEU,UNI,20,10
+"Colar elizabetano para cães nº 2",4433780,2,VENCEU,UNI,24,12
+"Colar elizabetano para cães nº 3",4433781,2,VENCEU,UNI,26,13
+"Colar elizabetano para cães nº4",4433782,4,VENCEU,UNI,56,14
+"Colar elizabetano para cães nº 5",4433783,4,VENCEU,UNI,60,15
+"Colar elizabetano para cães nº 6",4433784,2,VENCEU,UNI,32,16
+"Colar elizabetano para cães nº 7",4433785,2,VENCEU,UNI,32,16
+"Colar elizabetano para cães nº 8",4433786,2,VENCEU,UNI,34,17
+"Colar elizabetano para cães nº 9",4433787,2,VENCEU,UNI,38,19
+"Colar elizabetano para cães nº 10",4433788,2,VENCEU,UNI,42,21
+"Rolo de corda",4433789,2,VENCEU,UND,316,158

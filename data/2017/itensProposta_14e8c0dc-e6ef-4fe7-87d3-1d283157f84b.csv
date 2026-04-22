@@ -1,0 +1,67 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água Sanitária 5 Litros.",4360660,400,VENCEU,GAL,1872,4.68
+"Álcool etílico em gel 70% (70 INPM) 500 gramas.",4360661,300,INABILITADO,FRA,1470,4.9
+"Álcool etílico hidratado 96% (92,8º INPM) 1 litro",4360662,300,PERDEU,LT,1560,5.2
+"Amaciante para tecidos 5 litros",4360663,70,PERDEU,GAL,492.8,7.04
+"Aplicador de cera 45 cm",4360664,2,PERDEU,UND,242,121
+"Refil para aplicador de cera 45 cm",4360665,2,PERDEU,UND,78,39
+"Balde Plástico Resistente",4360666,30,VENCEU,UND,228,7.6
+"Cabo de alumínio p/ suporte de Mop Úmido",4360667,10,PERDEU,UND,490,49
+"Cera alto-brilho 5 litros",4360668,15,DESCLASSIFICADO,GAL,1521,101.4
+"Copo descartável - 180 ml.",4360669,50,PERDEU,CX,2395,47.9
+"Copo descartável 300 ml 20x100 unid",4360670,10,VENCEU,CX,689,68.9
+"Alvejante a base de hipoclorito de sódio 5 litros",4360671,30,INABILITADO,GAL,328.5,10.95
+"Desinfetante de uso geral 5 Litros",4360672,500,PERDEU,GAL,4010,8.02
+"detergente neutro liquido 5 Lts .",4360673,440,PERDEU,GAL,3396.8,7.72
+"sabao liquido de coco 5 Lts",4360674,200,PERDEU,GAL,2320,11.6
+"Detergente com cera para veículos embalagem de geral 5 litro",4360675,60,PERDEU,GAL,1620,27
+"Escova de lavar roupa",4360676,50,PERDEU,UND,150,3
+"Escova para higienização de mãos e unhas",4360677,50,PERDEU,UND,162.5,3.25
+"Esfregão de Aço Nº 1",4360678,200,PERDEU,UND,118,0.59
+"Esfregão de Aço Nº 2",4360679,200,PERDEU,UND,116,0.58
+"Esfregão de Aço Nº 3",4360680,200,NAO_COTOU,UND,0,0
+"Esponja de - fibra sintética",4360681,700,PERDEU,UND,693,0.99
+"Esponja de lã de Aço",4360682,600,PERDEU,PCT,780,1.3
+"Flanela para limpeza",4360683,500,PERDEU,UND,600,1.2
+"Guardanapo de papel folha simples",4360684,500,PERDEU,UND,1050,2.1
+"Limpa pneus com silicone embalagem 5 lit.",4360685,20,PERDEU,GAL,540,27
+"Lixeira 50 litros com tampa e pedal em plastico resistente",4360686,7,DESCLASSIFICADO,UND,1330,190
+"Lixeira 100 litros com tampa e pedal em plastico resistente",4360687,7,DESCLASSIFICADO,UND,2030,290
+"Lixeira 5,4 litros em aço inox",4360688,10,VENCEU,UND,710,71
+"Lustra móveis 200mL",4360689,100,PERDEU,UND,300,3
+"Luva para limpeza, tamanho Grande - cano longo",4360690,100,DESCLASSIFICADO,PAR,790,7.9
+"Luva para limpeza, tamanho Médio - cano longo",4360691,100,DESCLASSIFICADO,PAR,790,7.9
+"Multi uso concentrado embalagem 5 litros.",4360692,120,PERDEU,GAL,2292,19.1
+"Balde Espremedor 2 águas",4360693,4,PERDEU,UND,1596,399
+"Refil Mopi úmido (refil)",4360694,90,PERDEU,UND,1125,12.5
+"Desodorizador de ambientes 360 ml.",4360695,200,PERDEU,FRA,1780,8.9
+"Pá coletora plástica",4360696,10,PERDEU,UND,380,38
+"Pá de lixo plástica",4360697,24,NAO_COTOU,UND,0,0
+"Pano de copa e cozinha,em algodão 0,43x0,70cm,100%",4360698,300,PERDEU,UND,720,2.4
+"Pano Multiúso.",4360699,22,PERDEU,UND,2310,105
+"Papel Toalha em bobina extra",4360700,50,VENCEU,CX,3150,63
+"Dispenser para papel Toalha.",4360701,10,NAO_COTOU,UND,0,0
+"Papel higiênico branco.",4360702,10,PERDEU,FRD,620,62
+"Porta Papel Higiênico Rolão Até 400mts",4360703,10,PERDEU,UND,240,24
+"Papel Higiênico Rolão Branco",4360704,100,PERDEU,FRD,3999,39.99
+"Pedra Sanitária.",4360705,300,PERDEU,UND,447,1.49
+"Rodo, base em alumínio , 55 cm,duas lâminas de borracha e ca",4360706,12,PERDEU,UND,468,39
+"Rodo, base em alumínio 30cm",4360707,12,PERDEU,UND,348,29
+"Sabão em barra..",4360708,120,PERDEU,PCT,684,5.7
+"Sabao em po com amaciante atomizado (granulado) 1kg",4360709,260,PERDEU,UND,806,3.1
+"Sabonete líquido .",4360710,90,PERDEU,GAL,1332,14.8
+"Saca de tecido crua:",4360711,600,PERDEU,UND,1548,2.58
+"Saco Plástico de lixo - 240 litros",4360712,60,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes100 Litros",4360713,20,DESCLASSIFICADO,PCT,3400,170
+"Saco para coleta de resíduos sólidos infectantes 30L",4360714,50,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 50L",4360715,50,NAO_COTOU,PCT,0,0
+"Saco plástico 100 litros",4360716,100,PERDEU,PCT,5225,52.25
+"Saco plástico de lixo 30 litros",4360717,150,PERDEU,PCT,1473,9.82
+"Saco plástico de lixo 50 litros",4360718,100,DESCLASSIFICADO,PCT,1530,15.3
+"Sapólio em pó.",4360719,500,VENCEU,CXA,750,1.5
+"Sapólio cremoso 300 ml",4360720,500,VENCEU,UND,1025,2.05
+"Tela odorizadora para Mictório fragrâncias diversas.",4360721,30,PERDEU,UND,118.5,3.95
+"Vassoura com cerdas",4360722,60,VENCEU,UND,262.8,4.38
+"VASSOURA DE PALHA",4360723,30,PERDEU,UND,441,14.7
+"Desinfetante Desengordurante galão de 5 Litros:",4360724,20,NAO_COTOU,GAL,0,0
+"Dispenser para Sabonete Líquido em Aço Inox",4360725,10,VENCEU,UND,1980,198

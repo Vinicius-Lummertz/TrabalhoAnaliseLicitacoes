@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ALOPURINOL 100 MG",1258384,19,100000,ATIVO,COMPRIMIDO,2900,0.029
+"Eritromicina, estolato",1258385,109,3000,ATIVO,COMPRIMIDO,1344,0.448
+"Fenitoina 50mg/mL solução injetável 5ml",1258386,113,500,ATIVO,AMP,447.5,0.895
+"Finasterida 5 mg",1258387,117,510,ATIVO,COMPRIMIDO,105.06,0.206
+"Fluoresceina sodica 1% solucao oftalmica 3ml",1258388,121,160,ATIVO,FRASCO,1704,10.65
+"Isossorbida, dinitrato 5mg sublingual",1258389,149,100000,ATIVO,COMPRIMIDO,16490,0.1649
+"Nortriptilina 50 mg",1258390,202,2000,ATIVO,COMPRIMIDO,711.6,0.3558
+"Óleo Mineral  100ml",1258391,203,8000,ATIVO,FRASCO,11928,1.491
+"Carbamazepina 20mg/mL",1258395,56,1700,ATIVO,FRASCO,6715,3.95

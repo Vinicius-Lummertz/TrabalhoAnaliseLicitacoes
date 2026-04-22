@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho para Exercicios Respiratórios",4332830,2,VENCEU,UND,60,30
+"Cadeira de Rodas.",4332831,2,PERDEU,UND,2138,1069
+"Esteira Profissional motor 1.2 HP",4332832,1,VENCEU,UND,2580,2580
+"CPM (Movimento Passivo Contínuo) de Tornozelo Com controle r",4332833,1,VENCEU,UND,5950,5950
+"Colete (cinturão) modelo pára-quedas, tamanho adulto",4332834,1,VENCEU,UND,1050,1050
+"Mesa tipo escrivaninha, em MDF Post Forming, espessura 25mm",4332835,1,NAO_COTOU,UND,0,0
+"Armário arquivo 4 gavetas para pasta suspensa em MDF post Fo",4332836,1,NAO_COTOU,UND,0,0
+"Armário 2 portas 25mm com chave",4332837,1,NAO_COTOU,UND,0,0
+"Cadeira (Poltrona) Presidente giratória em Tela",4332838,1,NAO_COTOU,UND,0,0
+"Impressora Multifuncional Laser Jet",4332839,1,NAO_COTOU,UND,0,0
+"Ar condicionado Q/F tipo split HI WALL",4332840,2,NAO_COTOU,UND,0,0

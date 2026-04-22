@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MICRO COMPUTADOR Processador: 3.1 GHz",4345103,5,DESCLASSIFICADO,UND,29425,5885
+"MICRO COMPUTADOR Processador: 3.7 GHz",4345104,5,INABILITADO,UND,16350,3270
+MONITOR,4345105,1,VENCEU,UND,625,625

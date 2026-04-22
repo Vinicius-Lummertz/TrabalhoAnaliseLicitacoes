@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amassadeira espiral",4376245,1,VENCEU,UND,21700,21700
+"Cilindro Sovador",4376246,1,PERDEU,UND,16350,16350
+"Divisora de pães",4376247,1,VENCEU,UND,1790,1790
+"Seladora de embalagens industrial com pedal ajustável",4376248,1,NAO_COTOU,UND,0,0
+"Lavatório em aço inox 304-  2000x400x300",4376249,10,NAO_COTOU,UND,0,0
+"Lavatório em  aço inox 304  - 3000x700x900",4376250,11,NAO_COTOU,UND,0,0
+"Bancada  de pia",4376251,1,NAO_COTOU,UND,0,0
+COIFA,4376252,1,NAO_COTOU,UND,0,0

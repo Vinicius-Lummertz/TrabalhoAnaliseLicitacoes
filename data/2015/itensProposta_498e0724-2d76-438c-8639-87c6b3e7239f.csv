@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P.",4427958,20000,INABILITADO,UNI,18800,0.94
+"Fralda descartável adulto tamanho M.",4427959,50000,PERDEU,UNI,45000,0.9
+"Fralda descartável adulto tamanho G.",4427960,55000,PERDEU,UNI,46750,0.85
+"Fralda descartável adulto tamanho XG.",4427961,50000,PERDEU,UNI,42500,0.85
+"Fralda descartável infantil tamanho P.",4427962,2000,DESCLASSIFICADO,UNI,780,0.39
+"Fralda descartável infantil tamanho M.",4427963,2000,DESCLASSIFICADO,UNI,900,0.45
+"Fralda descartável infantil tamanho G.",4427964,2000,DESCLASSIFICADO,UNI,1100,0.55
+"Fralda descartável infantil tamanho XG.",4427965,1000,DESCLASSIFICADO,UNI,550,0.55

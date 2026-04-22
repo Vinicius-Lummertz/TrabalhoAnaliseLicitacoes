@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento para lactentes menores de um ano de idade com intol",4429493,450,PERDEU,LAT,8604,19.12
+"Fórmula infantil de segmento, à base de leite de vaca",4429501,600,VENCEU,LAT,5022,8.37
+"Fórmula infantil de seguimento, a base de proteínas isolada",4429502,500,PERDEU,LAT,5925,11.85
+"Fórmula infantil para lactentes à base de proteínas isolada",4429503,500,VENCEU,LAT,6255,12.51
+"Fórmula infantil para lactentes até 06 meses",4429504,4200,PERDEU,LAT,35070,8.35
+"Fórmula infantil para recém-nascidos pré-termo e/ou de alto",4429506,300,VENCEU,LAT,7275,24.25

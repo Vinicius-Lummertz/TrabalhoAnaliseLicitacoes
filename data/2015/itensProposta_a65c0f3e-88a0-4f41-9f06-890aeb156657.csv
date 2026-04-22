@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Anti-A,4428077,8,PERDEU,FR.,169.76,21.22
+Anti-B,4428078,8,PERDEU,FR.,169.76,21.22
+Anti-D,4428079,10,PERDEU,FR.,471.5,47.15
+"Beta HCG teste rápido",4428081,1900,DESCLASSIFICADO,TEST,2584,1.36
+"Antiestreptolisina O.",4428082,1000,VENCEU,TEST,770,0.77
+"Fator reumatóide (látex)",4428083,2800,VENCEU,TEST,1876,0.67
+"Kit de proteína C Reativa",4428084,4500,VENCEU,TEST,2160,0.48
+"Teste imunocromatográfico.",4428085,800,PERDEU,TEST,4224,5.28
+"VDRL-latex c/ controle negativo e positivo",4428086,25000,PERDEU,TEST,3500,0.14
+"Lamínulas 20x20 cx c/ 50 unidades",4428087,100,PERDEU,CX,189,1.89
+"Laminas sem lapidação p/ microscópio- cx c/ 50 unidades",4428088,100,PERDEU,CX,270,2.7
+"Laminas com extremidade fosca para baciloscopia (tuberculose",4428089,100,DESCLASSIFICADO,CX,342,3.42
+"Corante p/ hematologia Giensa",4428092,18,PERDEU,L,908.64,50.48
+"Corante p/ hematologia May Grunwald",4428093,18,PERDEU,L,647.46,35.97
+"Tubo capilar s/ heparina-cx c/ 500 unidades",4428094,15,VENCEU,CX,93.6,6.24
+"Óleo de imersão p/ microscopia I.R(.23º )=1,505    //frasco",4428096,6,PERDEU,FR.,83.34,13.89
+"Adesivo (bandagem) estéril indicado p/ uso após punção venos",4428097,60000,PERDEU,UN,1440,0.024
+"Pipeta graduada westergrem 200mm p/ VHS",4428098,100,VENCEU,UNI,224,2.24

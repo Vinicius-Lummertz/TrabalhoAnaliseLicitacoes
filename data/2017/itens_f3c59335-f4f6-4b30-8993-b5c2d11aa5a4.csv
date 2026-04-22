@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto tipo Briquete com 8cm de espessura",1292528,7,500,ATIVO,"METRO QUADRADO",14500,29
+"Bloco de concreto sextavado com 6cm de espessura",1292530,5,400,ATIVO,"METRO QUADRADO",10800,27

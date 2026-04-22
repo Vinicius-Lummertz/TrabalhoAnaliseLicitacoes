@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vacina antirrábicainativada para cães e gatos",4428934,200,VENCEU,FR.,880,4.4
+"Vacina inativada contra Giardíase Canina (Giardia lamblia)",4428935,200,PERDEU,FR.,4600,23
+"Vacina viva atenuada para cães e gatos (polivalente)",4428936,200,PERDEU,FR.,1250,6.25
+"Solução para limpeza auricular de cães e gatos",4428941,4,PERDEU,FRA,78,19.5
+"Solução otológica para cães e gatos",4428942,4,PERDEU,FR,187.6,46.9
+"Ocitocina sintética injetável",4428943,4,PERDEU,FR.,8.8,2.2
+"Anti-inflamatório injetável - Meloxicam",4428945,25,PERDEU,FR.,1100,44
+"Antibiótico injetável - Ampicilina Sódica",4428946,20,INABILITADO,FR.,328,16.4
+"Antibiótico comprimido - Cefalexina",4428947,50,PERDEU,CP,2960,59.2
+"Antibiótico comprimido - Enrofloxacina",4428948,40,PERDEU,BLIST,596,14.9
+"Antitóxico e antiespasmódico - Sulfato de atropina",4428951,5,PERDEU,FR.,17.5,3.5
+"Probióticopara cães e gatos",4428952,3,PERDEU,SRS,41.7,13.9
+"Carvão vegetal ativado.",4428953,2,PERDEU,CX,90,45
+"Agente eutanásico",4428954,4,VENCEU,FR.,2000,500

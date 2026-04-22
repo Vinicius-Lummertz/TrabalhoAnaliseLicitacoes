@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,25,PERDEU," ",1041,41.64
+"Switch de 8 portas 10/100",0,15,PERDEU," ",1045.35,69.69
+"Switch de 16 portas 10/100",0,8,PERDEU," ",1584.16,198.02
+"Switch de 24 portas 10/100/1000",0,10,PERDEU," ",7308.9,730.89
+"Patch panel Cat 05E 24 portas",0,8,PERDEU," ",747.92,93.49
+"Interface de celular",0,6,PERDEU," ",2549.58,424.93
+"Rack de 19 7U x 450mm parede",0,10,PERDEU," ",3909.4,390.94
+"Estabilizador 500 VA",0,8,PERDEU," ",849.84,106.23
+"Bucha 6",0,1500,PERDEU," ",450,0.3
+"Cabo utp Lan Cat 5E",0,8000,PERDEU," ",12880,1.61
+"Canaleta sistema 20 x 10 x 2000mm",0,900,PERDEU," ",4662,5.18
+"Canaleta sistema 50 x 20 x 2000mm",0,500,PERDEU," ",5405,10.81
+"Conector RJ 11  4 x 4",0,1000,PERDEU," ",210,0.21
+"Conector RJ 45 cat 5e",0,1300,PERDEU," ",988,0.76
+"Etiqueta identificação ponto de rede",0,500,PERDEU," ",290,0.58
+"Cabo Telefônico CCI  50 x 10 pares",0,200,PERDEU," ",578,2.89
+"Cabo Telefônico CCI  50 x 20 pares",0,200,PERDEU," ",1156,5.78
+"Fio elétrico flexível 2,5 mm",0,9000,PERDEU," ",14490,1.61
+"Abraçadeira pct com 100 unidades",0,15,PERDEU," ",446.25,29.75
+"Fita isolante com 20m",0,30,PERDEU," ",160.5,5.35
+"Parafuso para bucha 6",0,1500,PERDEU," ",405,0.27
+"Patch Cord 2,5m Cat 5E",0,100,PERDEU," ",801,8.01
+"Patch cord  1,5m Cat 5E",0,100,PERDEU," ",603,6.03
+"Tomada 2P + terra NBR",0,200,PERDEU," ",1900,9.5
+"Caixa sist. X  3 x 3",0,400,PERDEU," ",1800,4.5
+"Espelho sistema X 2 furos para RJ45",0,200,PERDEU," ",846,4.23
+"Canaleta 40 x 15 x 20  com divisória",0,50,PERDEU," ",531,10.62
+"conector haste terra",0,30,PERDEU," ",198.9,6.63
+"Fio telefônico FE 100 (drop)",0,800,PERDEU," ",480,0.6
+"Conjunto de porca gaiola",0,50,PERDEU," ",58.5,1.17
+"Jack RJ 45 Keystone",0,300,PERDEU," ",3150,10.5
+"Serviços de instalação, revisão periódica e emergencial, bem",0,1800,PERDEU," ",109386,60.77

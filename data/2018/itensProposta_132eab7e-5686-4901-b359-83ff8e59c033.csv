@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 9",4433759,20,PERDEU,UND,29730,1486.5
+"Aparelho de Ar Condicionado tipo Split HI-WALL cap12.000 BTU",4433760,20,PERDEU,UNI,35320,1766
+"Aparelho de Ar Condicionado tipo Split HI-WALL cap12.000 BTU",4433761,60,VENCEU,UNI,105120,1752
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 1",4433762,10,VENCEU,UND,20390,2039
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 2",4433763,18,PERDEU,UN,58914,3273
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 3",4433764,3,PERDEU,UN,11919,3973

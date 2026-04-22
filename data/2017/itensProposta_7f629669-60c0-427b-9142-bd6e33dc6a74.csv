@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Notebook,4368311,2,NAO_COTOU,UND,0,0
+"CAIXA DE SOM MULTIUSO",4368312,1,NAO_COTOU,UND,0,0
+"MIDIA DVD GRAVÁVEL",4368313,300,PERDEU,UND,255,0.85
+"Projetor Multimídia",4368314,2,PERDEU,UND,4200,2100

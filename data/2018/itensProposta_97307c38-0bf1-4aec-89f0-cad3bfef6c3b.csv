@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Detergente Multienzimático",4437511,150,VENCEU,GL,12555,83.7
+"Detergente Multienzimático",4437512,450,PERDEU,GL,37665,83.7
+"Escova dental adulto macia",4437513,50,PERDEU,PCT,1550,31
+"ESCOVA DENTAL INFANTIL",4437514,40,VENCEU,PCT,1160,29
+"Papel toalha interfolhado .",4437521,4000,VENCEU,PCT,36000,9

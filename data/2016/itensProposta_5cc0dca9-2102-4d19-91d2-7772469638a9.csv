@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coffee Break Matutino",0,250,VENCEU," ",5442.5,21.77
+"Coffee Break Vespertino",0,250,VENCEU," ",5442.5,21.77
+"Água Mineral Palestrantes",0,12,VENCEU," ",50.76,4.23
+"Água Mineral Público",0,10,VENCEU," ",178.9,17.89
+Almoço,0,12,VENCEU," ",527.04,43.92
+"TRANSPORTE PARA EQUIPE DE APOIO",0,8,VENCEU," ",937.04,117.13
+"ESPAÇO FÍSICO",0,1,VENCEU," ",2244.91,2244.91
+Data-show,0,2,VENCEU," ",519.26,259.63
+"Tela de Projeção",0,2,VENCEU," ",195.2,97.6
+"Flipshart com Papel",0,1,VENCEU," ",78.08,78.08
+"Bloco de Folhas para Flipshart",0,2,VENCEU," ",97.6,48.8
+"MICROFONE Sem fio",0,5,VENCEU," ",292.8,58.56
+"Microfone com fio",0,2,VENCEU," ",117.12,58.56
+"Caneta Laser",0,2,VENCEU," ",97.6,48.8
+Notebook,0,3,VENCEU," ",439.23,146.41
+"Palestrante AMOVI",0,1,VENCEU," ",1952.09,1952.09
+"Palestrante ADVT",0,1,VENCEU," ",1952.09,1952.09
+"Palestrante FRSST",0,1,VENCEU," ",1952.09,1952.09
+"Palestrante Movimento Mulher",0,1,VENCEU," ",1952.09,1952.09
+"TRANSPORTE PARA OS PALESTRANTES",0,5,VENCEU," ",732.05,146.41
+CERTIFICADOS,0,275,VENCEU," ",2618,9.52
+"EMPRESA ORGANIZADORA DO EVENTO",0,1,VENCEU," ",2684.13,2684.13

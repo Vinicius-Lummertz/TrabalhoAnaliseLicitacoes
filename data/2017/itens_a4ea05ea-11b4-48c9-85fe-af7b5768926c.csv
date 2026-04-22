@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"base de brita graduada",1292519,14,1000,ATIVO,TONELADA,39000,39
+"PO DE PEDRA",1292523,13,400,ATIVO,TONELADA,15600,39
+"Brita ¾",1292524,12,200,ATIVO,"METRO CUBICO",8800,44
+"Areia lavada média",1292525,10,300,ATIVO,"METRO CUBICO",10200,34
+"Meio fio de concreto pré moldado de 15 x 30 x 80 cm",1292526,9,100,ATIVO,METRO,1400,14

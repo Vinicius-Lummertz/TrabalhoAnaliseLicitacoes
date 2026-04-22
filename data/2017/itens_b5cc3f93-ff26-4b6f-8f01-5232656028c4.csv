@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carga de gás de cozinha, P45",1292510,2,250,ATIVO,UNIDADE,70877.5,283.51
+"Casco para gás P13",1292511,3,20,ATIVO,UNIDADE,2900,145
+"Casco para gás P45",1292512,4,10,ATIVO,UNIDADE,4850,485
+"Carga de gás de cozinha, P13",1292513,1,1700,ATIVO,UNIDADE,102442,60.26

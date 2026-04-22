@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fabricação (mão de obra + material) de 06 grelhas de 0,50 m",4374558,6,PERDEU,UND,4902,817
+"Fabricação (mão de obra + material) de porta metálica de 0,9",4374559,2,PERDEU,UND,962,481
+"Fabricação (mão de obra + material) de porta metálica de 1,0",4374560,1,PERDEU,UND,1210,1210
+"Fabricação (mão de obra + material) de porta metálica de 1,1",4374561,1,PERDEU,UND,523,523
+"Fabricação (mão de obra + material) de porta metálica de 1,2",4374562,3,PERDEU,UND,2139,713
+"Fabricação (material + mão de obra) de portão de correr de 1",4374563,1,PERDEU,UND,12300,12300
+"Fabricação (material + mão de obra) de proteção para o silo",4374564,1,PERDEU,UND,2533,2533
+"Fabricação de Corrimão de 11,20m x 1,10m em cano 2 e cano",4374565,11,PERDEU,M,4213,383
+"Fabricação de Corrimão de: 11,20m x 1,10m em cano 2 e can",4374566,14,PERDEU,M,5362,383
+"Fabricação de portão de abertura lateral de 1,70 m x 1,00 m",4374567,1,PERDEU,UND,1083,1083
+"Fabricação de portas em 1,04m x 0,60m para abrigo de gás, em",4374568,10,PERDEU,UND,3610,361
+"Serviço de serralheiro/soldador sem deslocamento",4374569,140,PERDEU,HS,14000,100
+"Serviço de serralheiro/soldador com deslocamento",4374570,60,PERDEU,HS,9000,150

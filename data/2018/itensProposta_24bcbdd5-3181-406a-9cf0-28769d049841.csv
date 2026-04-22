@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Plantadeira com sistema de plantio direto",4373977,1,VENCEU,UND,17500,17500
+"Grade Hidráulica",4373978,1,VENCEU,UND,5700,5700
+"Carreta Agrícola Metálica Basculante",4373979,1,PERDEU,UND,17000,17000
+"COLHEDORA DE FORRAGENS",4373980,1,PERDEU,UND,19800,19800
+"Roçadeira Agrícola",4373981,1,VENCEU,UND,5300,5300
+"Arado de Aivecas",4373982,1,PERDEU,UND,8500,8500
+"Guincho Traseiro Agrícola",4373983,1,VENCEU,UND,999,999
+"GRADE ARADORA",4373984,1,PERDEU,UND,16190,16190
+"ARADO SUBSOLADOR",4373985,1,VENCEU,UND,3550,3550

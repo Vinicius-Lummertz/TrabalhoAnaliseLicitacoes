@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACIDO VALPROICO 250 MG",4431720,55000,PERDEU,CPLA,13750,0.25
+"ACIDO VALPROICO 250 MG",4431721,165000,PERDEU,CPLA,41250,0.25
+"ACIDO VALPROICO 500MG",4431722,75000,PERDEU,COMP,45000,0.6
+"ACIDO VALPROICO 500MG",4431723,225000,PERDEU,COMP,135000,0.6
+"colagenase - 0,6UI/a 1,2u/Ig  pomada  30 gr",4431812,3000,DESCLASSIFICADO,BIS,54000,18
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",4431883,60000,VENCEU,COMP,64200,1.07
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",4431884,180000,VENCEU,COMP,192600,1.07
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel",4431885,6000,VENCEU,COMP,9480,1.58
+"Levodopa 100mg + benserazida 25mg HBS",4431886,40000,VENCEU,COMP,63200,1.58

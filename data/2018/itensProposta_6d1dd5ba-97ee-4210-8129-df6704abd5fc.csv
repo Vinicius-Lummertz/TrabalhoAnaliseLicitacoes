@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bebedouro elétrico de coluna",4433108,3,PERDEU,UN,1618.5,539.5
+"Refrigerador tipo doméstico 2 portas",4433109,1,PERDEU,UN,1519.2,1519.2
+FRIGOBAR,4433110,3,DESCLASSIFICADO,UNI,3330.6,1110.2
+"Aparelho telefônico convencional de mesa com fio.",4433112,23,PERDEU,UN,937.48,40.76
+"Carro funcional  para limpeza",4433116,3,PERDEU,CNJ,2558.4,852.8
+"Lixeira cilíndrica em polietileno",4433118,2,VENCEU,UNI,62.4,31.2
+"Lixeira cilíndrica em polietileno",4433119,35,DESCLASSIFICADO,UNI,2639,75.4
+"Cesto redondo 12litros papeleira em ploietileno",4433120,30,VENCEU,UNI,390,13
+"Lixeira em polietileno resistente, capac. 50 litros",4433121,1,PERDEU,UN,461.5,461.5
+"Quadro de avisos",4433125,10,PERDEU,UNI,2535,253.5

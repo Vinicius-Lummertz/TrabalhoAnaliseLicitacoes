@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Servidor de dados com 2 processadores 2.10 Hz; 04 Mb Cachê",0,1,PERDEU," ",19830,19830
+"Serviços de instalação",0,1,PERDEU," ",2380,2380
+"Switch 48 portas 10/100/1000 + 4 portas mini-GBIC Gerenciáve",0,1,PERDEU," ",3127,3127
+"Thin Client",0,3,PERDEU," ",2904,968

@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Achocolatado líquido.",4430177,600,VENCEU,UN,1620,2.7
+"ACUCAR REFINADO",4430178,100,VENCEU,KG,289,2.89
+ADOCANTE,4430179,20,VENCEU,FRA,75.8,3.79
+"Biscoito de Chocolate",4430180,40,VENCEU,KG,178,4.45
+"Biscoito doce sem recheio",4430181,60,VENCEU,UNI,189,3.15
+"BISCOITO SALGADO INTEGRAL",4430182,30,VENCEU,PCT,112.5,3.75
+"BISCOITO SALGADO",4430183,30,VENCEU,UND,116.7,3.89
+"Bombom recheado",4430184,5,VENCEU,PCTE,194.45,38.89
+"CAFE EXTRA FORTE",4430185,264,VENCEU,KG,2373.36,8.99
+"Caixa de fósforos",4430186,12,VENCEU,UN,53.88,4.49
+"Embalagem plástica descartável para 3l",4430187,50,VENCEU,UN,795,15.9
+"Embalagem plástica descartável para 5l",4430188,50,VENCEU,UN,995,19.9
+"Filtro de papel para café",4430189,135,VENCEU,UN,498.15,3.69
+"Fita empacotamento",4430190,20,VENCEU,UN,99.8,4.99
+"Leite Integral UHT",4430191,25,VENCEU,CX,72.25,2.89
+"Papel Kraft natural",4430192,12,VENCEU,UN,760.8,63.4
+"Suco de fruta líquido",4430193,600,VENCEU,UN,1482,2.47

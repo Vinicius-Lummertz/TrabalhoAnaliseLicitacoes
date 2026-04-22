@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulha  preta 22G1 nº 7210 de acordo com a NR 32/Portaria GM",4430317,15000,INABILITADO,UNI,10050,0.67
+"Agulha verde 21G! nº 7212 de acordo com a NR 32/Portaria GM",4430318,60000,INABILITADO,UNI,40200,0.67
+"Fita de Urina c/10 parâmetros.",4430322,30000,VENCEU,TEST,19500,0.65
+"BETA HCG",4430323,1900,VENCEU,TEST,1178,0.62
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",4430327,1500,PERDEU,TEST,6975,4.65
+"VDRL-latex c/ controle negativo e positivo",4430328,20000,PERDEU,TEST,2800,0.14
+"Pote plástico com tampa de rosca descartável p/ coleta de 60",4430339,65000,DESCLASSIFICADO,UNI,26000,0.4
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",4430344,18000,PERDEU,UN,8100,0.45
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",4430345,100000,PERDEU,UN,50000,0.5
+"Tubo plástico sistema a vácuo c/ gel separador-c/ volume de",4430346,100000,PERDEU,UN,74000,0.74
+"Tubo plástico seco sistema a vácuo 9 ml",4430347,40000,PERDEU,UN,24800,0.62
+"Centrífuga de mesa com controle microprocessado",4430360,2,INABILITADO,UNI,18600,9300

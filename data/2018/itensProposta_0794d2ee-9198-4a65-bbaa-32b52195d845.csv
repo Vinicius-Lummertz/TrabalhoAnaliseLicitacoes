@@ -1,0 +1,30 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Conjunto coroa e Pinhão",0,1,VENCEU," ",2760,2760
+"Eixo TDF",0,1,VENCEU," ",1120,1120
+"Conjunto Diferencial Completo",0,1,VENCEU," ",2250,2250
+"Parafuso da Coroa",0,12,VENCEU," ",168,14
+"Rolamento Pinhão 5138664",0,1,VENCEU," ",508,508
+"Rolamento Pinhão 5130990",0,1,VENCEU," ",378.18,378.18
+"Rolamento Diferencial 24903480",0,1,VENCEU," ",275,275
+"Rolamento Diferencial 24903460",0,1,VENCEU," ",175,175
+"Porca Pinhão;",0,1,VENCEU," ",69,69
+"Pino 5173242",0,1,VENCEU," ",72,72
+"Pino 13807870",0,1,VENCEU," ",8,8
+"Pino 4998275",0,1,VENCEU," ",3,3
+"Arruela da porca do pinhao",0,1,VENCEU," ",8,8
+"Rolamento 2 gama 20141040",0,1,VENCEU," ",96,96
+"Rolamento 2 gama 5147070",0,1,VENCEU," ",453.92,453.92
+ANEL,0,1,VENCEU," ",7,7
+EIXO,0,1,VENCEU," ",1340,1340
+"Rolamento do eixo da tdf",0,1,VENCEU," ",70,70
+"Rolamento da Agulha",0,1,VENCEU," ",13,13
+"Anel 11068076",0,1,VENCEU," ",1,1
+"Retentor do reversor",0,1,VENCEU," ",19,19
+"OLEO CAIXA",0,3,VENCEU," ",912,304
+"FILTRO HIDRAULICO",0,1,VENCEU," ",99.9,99.9
+"LIQUIDO FREIO",0,1,VENCEU," ",70,70
+"Sincronizado reversor",0,1,VENCEU," ",1900,1900
+"COLA 3M",0,1,VENCEU," ",9,9
+"Anel oring",0,2,VENCEU," ",4,2
+"Retentor tdf",0,1,VENCEU," ",49,49
+"Serviços Mão de Obra Mecanica",0,1,VENCEU," ",1300,1300

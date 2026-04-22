@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel higiênico 300m, fardo com 8 unidades, folha simples, n",4358124,300,PERDEU,UND,10131,33.77
+"Papel Higiênico 30 m,fardo com 64 unidades",4358125,500,VENCEU,FRD,26720,53.44
+"Papel Higiênico 30 m,fardo com 64 unidades",4358126,1500,VENCEU,FRD,80160,53.44

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Armário com 2 portas, medindo 0,80x0,55x0,80. Em MDF 15mm.",0,5,VENCEU," ",2300,460
+"Armário com 2 portas, medindo 1,60x0,55x0,80. Em MDF 15mm.",0,5,VENCEU," ",2250,450
+"Armário para pasta suspensa medindo 0,48x1,60x0,60.",0,8,VENCEU," ",7800,975
+"Gaveteiro com 04 gavetas, medindo 0,60x0,45x0,45.",0,20,VENCEU," ",9600,480
+"Mesa em L sem gavetas, em MDF 15mm. Medindo 1,35x1,35.",0,24,VENCEU," ",10680,445
+"Mesa reta com 2 gavetas com tamanho interno de uma folha A4,",0,10,VENCEU," ",3450,345
+"Mesa reta, sem gavetas, medindo 0,90x0,60x0,75. Em MDF 15mm",0,10,VENCEU," ",2300,230

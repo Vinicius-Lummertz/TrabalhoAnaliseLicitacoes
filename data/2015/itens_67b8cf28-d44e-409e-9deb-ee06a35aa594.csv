@@ -1,0 +1,81 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"reator eletrônico afp 1x40w 220v",1275631,69,400,ATIVO,PECAS,3712,9.28
+"caixa multiuso 20x20mm",1275632,28,30,ATIVO,PECAS,870,29
+"caixa monofásica de policarbonato",1275633,27,30,ATIVO,PECAS,704.1,23.47
+"caixa de sobrepor 4x2",1275634,26,100,ATIVO,PECAS,145,1.45
+"caixa de inspeção de aterramento",1275635,25,150,ATIVO,PECAS,532.5,3.55
+"cabo sintenax 1kv 16mm preto",1275636,24,5000,ATIVO,METRO,23700,4.74
+"cabo sintenax 1kv 16mm azul",1275637,23,5000,ATIVO,METRO,23700,4.74
+"cabo sintenax 1kv 10mm preto",1275638,22,5000,ATIVO,METRO,15550,3.11
+"cabo sintenax 1kv 10mm azul",1275639,21,5000,ATIVO,METRO,15550,3.11
+"cabo flexivel 750v 6mm verde",1275640,20,7000,ATIVO,METRO,11620,1.66
+"cabo flexivel 750v 6mm preto",1275641,19,7000,ATIVO,METRO,11620,1.66
+"cabo flexivel 750v 6mm azul",1275642,18,7000,ATIVO,METRO,11620,1.66
+"cabo flexivel 750v 4mm vermelho",1275643,17,8000,ATIVO,METRO,10160,1.27
+"cabo flexivel 750v 4mm verde",1275644,16,8000,ATIVO,METRO,10160,1.27
+"cabo flexivel 750v 4mm preto",1275645,15,8000,ATIVO,METRO,10160,1.27
+"cabo flexivel 750v 4mm azul",1275646,14,8000,ATIVO,METRO,10160,1.27
+"cabo flexivel 750v 2,5mm vermelho",1275647,13,20000,ATIVO,METRO,13800,0.69
+"cabo flexivel 750v 2,5mm verde",1275648,12,20000,ATIVO,METRO,13800,0.69
+"caixa padrão de sobrepor para sistema x",1275649,29,2000,ATIVO,PECAS,2220,1.11
+"cabo flexivel 750v 2,5mm preto",1275650,11,20000,ATIVO,METRO,13800,0.69
+"cabo flexivel 750v 1,5mm verde",1275651,9,15000,ATIVO,METRO,6600,0.44
+"cabo flexivel 750v 1,5mm preto",1275652,8,15000,ATIVO,METRO,6600,0.44
+"cabo flexivel 750v 1,5mm branco",1275653,7,15000,ATIVO,METRO,6600,0.44
+"cabo flexivel 750v 1,5mm azul",1275654,6,15000,ATIVO,METRO,6600,0.44
+"c.d de distribuição para 24 disjuntores",1275655,5,30,ATIVO,PECAS,1506.3,50.21
+"bucha de pvc 6mm",1275656,4,20000,ATIVO,PECAS,1000,0.05
+"ARRUELA LISA 6MM",1275657,3,10000,ATIVO,PECAS,500,0.05
+"adaptador poliwetzel de 3/4",1275658,2,3000,ATIVO,PECAS,1500,0.5
+"abraçadeira poliwetzel de 3/4",1275659,1,150,ATIVO,PECAS,111,0.74
+"refletor de alumínio fundido de 250w",1275660,73,35,ATIVO,PECAS,1739.15,49.69
+"rele fotoelétrico de 1000w",1275661,74,50,ATIVO,PECAS,494,9.88
+"soquete anti-vibratório",1275662,75,15000,ATIVO,PECAS,8400,0.56
+"tomada de embutir 2p+t 20a branca",1275663,76,80,ATIVO,PECAS,364.8,4.56
+"tomada de embutir 2p+t branca",1275664,77,1200,ATIVO,PECAS,4224,3.52
+"tomada de sobrepor 2p+t sistema x branca",1275665,78,1200,ATIVO,PECAS,5160,4.3
+"tubo de pvc 2",1275666,79,150,ATIVO,METRO,931.5,6.21
+"ventilador de parede 50cm 220v",1275667,80,150,ATIVO,PECAS,17737.5,118.25
+"cabo flexivel 750v 2,5mm azul",1275668,10,20000,ATIVO,METRO,13800,0.69
+"reator eletrônico afp 2x20w 220v",1275669,70,250,ATIVO,PECAS,2360,9.44
+"caixa trifásica de policarbonato",1275670,30,20,ATIVO,PECAS,1390.6,69.53
+"canaleta branca 50x20mm sistema x",1275671,32,800,ATIVO,BARRA,9936,12.42
+"poste metálico galvanizado a fogo de 9 mts",1275672,68,30,ATIVO,PECAS,19600.8,653.36
+"poste de concreto duplo t 11/300",1275673,67,30,ATIVO,PECAS,14277,475.9
+"PARAFUSO 6MM",1275674,66,12000,ATIVO,PECAS,1800,0.15
+"luva de pvc 2",1275675,65,200,ATIVO,PECAS,154,0.77
+"luminária fluorescente 2x40w",1275676,64,3500,ATIVO,PECAS,22995,6.57
+"luminária fluorescente 2x20w",1275677,63,400,ATIVO,PECAS,2712,6.78
+"luminária fluorescente 1x40w",1275678,62,1000,ATIVO,PECAS,6780,6.78
+"lâmpada vapor de sódio de 250w",1275679,61,100,ATIVO,PECAS,2008,20.08
+"lâmpada fluorescente de 40w",1275680,60,10000,ATIVO,PECAS,31900,3.19
+"lâmpada fluorescente de 20w",1275681,59,800,ATIVO,PECAS,2552,3.19
+"kanaflex de 2",1275682,58,2000,ATIVO,METRO,3200,1.6
+"interruptor de sobrepor 1 tecla c/ tomada br. sist. x",1275683,57,500,ATIVO,PECAS,3700,7.4
+"interruptor de sobrepor 1 tecla branco sistema x",1275684,56,500,ATIVO,PECAS,1635,3.27
+"interruptor de embutir 2 tecla simples branco",1275685,55,500,ATIVO,PECAS,2660,5.32
+"Interruptor de embutir 1 tecla simples c/ tomada br.",1275686,54,600,ATIVO,PEÇA,3630,6.05
+"interruptor de embutir 1 tecla simples branco",1275687,53,1500,ATIVO,PECAS,4110,2.74
+"haste de terra 2,40mt 5/8 alta camada",1275688,52,200,ATIVO,PECAS,5660,28.3
+"canaleta branca 20x10mm sistema x",1275689,31,1500,ATIVO,BARRA,3090,2.06
+"fita isolante 20mt p-44 vermelha",1275690,51,50,ATIVO,ROLO,123,2.46
+"fita isolante 20mt p-44 branca",1275691,49,50,ATIVO,ROLO,123,2.46
+"fita isolante 20mt p-44 azul",1275692,48,50,ATIVO,ROLO,123,2.46
+"fita isolante 20mt p-44 amarela",1275693,47,50,ATIVO,ROLO,123,2.46
+"eletroduto cinza de pvc 3/4",1275694,46,400,ATIVO,BARRA,2896,7.24
+"reator eletrônico afp 2x40w 220v",1275695,71,4000,ATIVO,PECAS,51640,12.91
+"disjuntor trifásico 100a din",1275696,44,20,ATIVO,PECAS,881,44.05
+"disjuntor monofásico de 40a din",1275697,43,250,ATIVO,PECAS,990,3.96
+"disjuntor monofásico de 32a din",1275698,42,400,ATIVO,PECAS,1452,3.63
+"disjuntor monofásico 25a din",1275699,41,300,ATIVO,PECAS,1089,3.63
+"disjuntor monofásico 16a din",1275700,40,300,ATIVO,PECAS,1089,3.63
+"curva de pvc 2 90º",1275701,39,150,ATIVO,PECAS,253.5,1.69
+"cruzeta de concreto",1275702,38,40,ATIVO,PECAS,4010,100.25
+"controle de ventilador",1275703,37,50,ATIVO,PECAS,843,16.86
+"contator tripolar 9a 220v weg",1275704,36,10,ATIVO,PECAS,597.1,59.71
+"reator vapor de sódio de 250w",1275705,72,35,ATIVO,PECAS,1860.6,53.16
+"condulete poliwetzel de 3/4",1275706,34,400,ATIVO,PECAS,1348,3.37
+"cano galvanizado a fogo 2",1275707,33,300,ATIVO,METRO,5667,18.89
+"fita isolante 20mt p-44 preta",1275708,50,400,ATIVO,ROLO,984,2.46
+"disjuntor trifásico 50a din",1275709,45,30,ATIVO,PECAS,639,21.3
+"conector haste de terra 5/8",1275710,35,180,ATIVO,PECAS,307.8,1.71

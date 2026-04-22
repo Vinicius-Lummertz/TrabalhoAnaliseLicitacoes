@@ -1,0 +1,22 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ripa eucalipto 1 x 2´´",1275062,442,1000,ATIVO,METRO,680,0.68
+"TACAÇÃO DE PINUS P/ FORRO",1275086,467,5000,ATIVO,METRO,4950,0.99
+"tábua pinus seca beneficiada",1275087,466,15,ATIVO,"METRO CUBICO",11850,790
+"tabua de eucalipto beneficiada",1275088,465,7,ATIVO,"METRO CUBICO",9800,1400
+"tabua de cedro beneficiada",1275089,464,7,ATIVO,"METRO CUBICO",29400,4200
+"tabua de angelim beneficiada",1275090,463,7,ATIVO,"METRO CUBICO",30800,4400
+"prancha de itauba bruta",1275140,412,5,ATIVO,"METRO CUBICO",20780,4156
+"Prancha de eucalipto bruta",1275141,411,5,ATIVO,"METRO CUBICO",7000,1400
+"Prancha de cedro Brufa",1275142,410,6,ATIVO,"METRO CUBICO",17820,2970
+"Prancha de angelin bruTa",1275143,409,6,ATIVO,"METRO CUBICO",19560,3260
+"vara eucalipto para armação",1275182,567,2500,ATIVO,METRO,9500,3.8
+"Forro de pinus 1ª",1275258,245,800,ATIVO,"METRO QUADRADO",10560,13.2
+"Repartição de pinus encantilhada",1275301,202,400,ATIVO,"METRO QUADRADO",10000,25
+"Espelho cedro 14 cm",1275338,215,500,ATIVO,UNIDADE,6150,12.3
+"Espelho cedro 12 cm",1275339,214,500,ATIVO,UNIDADE,5450,10.9
+"marco cedro 0,60 x 2,10 x 0,16",1275366,357,30,ATIVO,UNIDADE,2970,99
+"Marco cedro 0,80 x 2,10 x 0,16",1275367,359,30,ATIVO,UNIDADE,2970,99
+"meia-cana pinus tamanho pádrão",1275386,364,1200,ATIVO,UNIDADE,1164,0.97
+"marco cedro 0,70 x 2,10 x 0,16",1275392,358,30,ATIVO,UNIDADE,2970,99
+"Assoalho eucalipto 1°",1275446,38,350,ATIVO,"METRO QUADRADO",13650,39
+"bardela eucalipto 3,5 x 5 cm",1275450,42,5000,ATIVO,METRO,6950,1.39

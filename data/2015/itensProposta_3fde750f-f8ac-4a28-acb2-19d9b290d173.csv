@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ivermectina 6mg.",4427820,5000,DESCLASSIFICADO,COMP,4700,0.94
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",4427822,130000,PERDEU,COMP,107770,0.829
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel",4427823,10000,PERDEU,COMP,11990,1.199
+"Levodopa 100mg + benserazida 25mg HBS",4427824,60000,PERDEU,COMP,71940,1.199
+"Varfarina sódica 5 mg",4427913,50000,DESCLASSIFICADO,COMP,7500,0.15

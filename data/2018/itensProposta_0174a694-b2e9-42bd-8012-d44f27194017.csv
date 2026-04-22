@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4435872,20000,PERDEU,UNI,40240,2.012
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",4435873,1000,VENCEU,UN,2509,2.509
+"SORO GLICOFISIOLOGICO 250ml",4435874,300,VENCEU,UN,674.7,2.249
+"SORO GLICOFISIOLOGICO 500ml",4435875,300,VENCEU,UNI,896.7,2.989
+"Soro Glicosado 250ml (solução de glicose a 5%).",4435876,300,VENCEU,UNI,653.7,2.179
+"Soro ringer lactato  500 ml",4435877,150,VENCEU,UNI,438.75,2.925

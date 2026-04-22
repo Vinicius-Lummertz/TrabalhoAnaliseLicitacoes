@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Desengraxantes para Chassi.",4376357,21,VENCEU,UND,2520,120
+"Fluído de Freio e Embreagem DOT4.",4376358,1,PERDEU,CX,693.6,693.6
+"Graxa a base de sabão de lítio .",4376359,10,VENCEU,BLD,2700,270
+"Graxa lubrificante a base de sabão de calcio e oleo mineral.",4376360,10,PERDEU,TB,9900,990
+"Oleo lubrificante multifuncional unitactor 10W30 para transm",4376361,50,VENCEU,BLD,11250,225
+"Óleo lubrificante multiviscoco SAE 15W40",4376362,2,PERDEU,TB,3700,1850
+"Óleo lubrificante multiviscoco SAE 15W40.",4376363,100,VENCEU,BLD,17500,175
+"Óleo lubrificante para caixa de direção hidráulica .",4376364,50,PERDEU,BLD,12250,245
+"Óleo lubrificante para caixa de marchas SAE 80W90 API GL3.",4376365,10,VENCEU,BLD,2150,215
+"Óleo lubrificante para caixa de transmissão (EATON).",4376366,10,INABILITADO,BLD,2587.3,258.73
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",4376367,50,INABILITADO,BLD,11698,233.96
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 515",4376368,150,PERDEU,BLD,25200,168
+"Óleo lubrificante para transmissões (caixas e diferenciais)",4376369,10,PERDEU,BLD,2705.5,270.55
+"Óleo lubrificante para transmissões automotivas SAE 85W140 A",4376370,10,PERDEU,BLD,5000,500
+"Oleo Mineral LHM, especifico para sistema hidraulico de frei",4376371,100,VENCEU,LT,6500,65
+"Oleo mineral para engrenagem fechadas ISO 150.",4376372,10,INABILITADO,BLD,2769,276.9
+"Oleo mineral para engrenagem fechadas ISO 220.",4376373,10,INABILITADO,BLD,3836.3,383.63
+"Oleo mineral para engrenagem fechadas ISO 460.",4376374,10,INABILITADO,BD,3672.3,367.23
+"Oleo parafinico refinado utilizado como fluido termico em si",4376375,10,INABILITADO,BLD,2649.9,264.99
+"Shampoo para Lavação de veículos",4376376,20,VENCEU,UND,1980,99

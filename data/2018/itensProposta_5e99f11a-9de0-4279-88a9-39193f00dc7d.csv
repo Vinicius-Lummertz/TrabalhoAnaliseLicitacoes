@@ -1,0 +1,106 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",4448621,5000,PERDEU,UNI,170,0.034
+"Atestado Médico",4448622,1000,DESCLASSIFICADO,BLC,2570,2.57
+"Atestado Médico para Gestantes",4448623,150,DESCLASSIFICADO,BLC,480,3.2
+"Auto para coleta de água para consumo humano",4448624,50,VENCEU,BLCO,399.5,7.99
+"Auto de intimação vigilancia sanitaria",4448625,30,VENCEU,BLCO,420,14
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",4448626,120,VENCEU,BLC,240,2
+"Bacteriologia da tuberculose .",4448627,30,PERDEU,BLC,114,3.8
+"BOLETIM DE ATENDIMENTO MEDICO",4448628,50,VENCEU,BLC,180,3.6
+"Boletim de atendimento médico 24hs",4448629,500,VENCEU,BLC,825,1.65
+"Boletim de Reconhecimento Geográfico (Dengue) 1 via",4448630,50,VENCEU,BLC,170,3.4
+"BPA consolidado 2 vias autocopiativo (braco/azul)",4448631,50,VENCEU,BLCO,299.5,5.99
+"BPA individualiazado 2 vias autocopiativo (braco/azul)",4448632,50,VENCEU,BLCO,375,7.5
+"Cartão de agendamento odontológico",4448633,4000,VENCEU,UNI,220,0.055
+"Cartão de agendamento medico",4448634,2000,VENCEU,UNI,168,0.084
+"Comprovante de Reuniões Educativas",4448635,10,PERDEU,BLC,100,10
+"Condição Sócio Econômica- CAPS II",4448636,10,VENCEU,BLC,88.9,8.89
+"Consentimento informado - 2 vias autocopiativo (braco/azul)",4448637,35,VENCEU,BLCO,339.5,9.7
+"Controle de TODO;",4448638,100,VENCEU,BLC,245,2.45
+"Cuidados para vasectomia",4448639,40,DESCLASSIFICADO,BLC,320,8
+"Dados do atendimento do paciente- RAAS CAPS II",4448640,40,VENCEU,BLC,154,3.85
+"Dados do atendimento do paciente- RAAS CAPS III",4448641,40,VENCEU,BLC,150,3.75
+"Declaração de Comparecimento",4448642,1200,VENCEU,BLC,1908,1.59
+"DOTS- Planilha Acompanhamento de Tratamento",4448643,7,PERDEU,BLC,84,12
+"Estudo sócio-econômica CAPS II ad-",4448644,10,PERDEU,BLC,110,11
+"Etique laboratório Dengue (picotado);",4448645,10,VENCEU,BLC,103,10.3
+"Evolução do paciente",4448646,300,VENCEU,BLC,1047,3.49
+"Exame parcial de urina",4448647,50,VENCEU,BLC,193.5,3.87
+"Ficha clínica odontológica.",4448648,250,VENCEU,BLC,747.5,2.99
+"Ficha clínica Tuberculose",4448649,10,VENCEU,BLC,85,8.5
+"Ficha Controle de Atendimento frente e verso",4448650,500,VENCEU,UNI,85,0.17
+"Ficha de acolhimento CAPS II ad 4 páginas(vias)",4448651,40,DESCLASSIFICADO,BLCO,520,13
+"Ficha de acolhimento CAPS II.",4448652,40,VENCEU,BLC,152,3.8
+"Ficha de acolhimento CAPS III",4448653,40,VENCEU,BLC,154,3.85
+"Ficha de atendimento SAMU .",4448654,50,VENCEU,BLC,399.5,7.99
+"Ficha de cadastro individual",4448655,500,VENCEU,BLC,880,1.76
+"ficha de Observação do animal agressor",4448656,20,DESCLASSIFICADO,BLCO,150,7.5
+"Ficha de Procedimento E-SUS",4448657,50,VENCEU,BLC,189.5,3.79
+"Ficha visita domiciliar e-sus",4448658,200,VENCEU,BLC,450,2.25
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",4448659,70,VENCEU,BLC,553,7.9
+"Ficha nominal- Programa Tuberculose",4448660,300,DESCLASSIFICADO,UNI,120,0.4
+"Fluxo e contra-fluxo",4448661,700,VENCEU,BLC,1183,1.69
+"Laudo Médico para emissão de BPA-I (anti - HCV)",4448662,5,PERDEU,BLC,110,22
+"Laudo Médico para Procedimento de Alta Complexidade APAC",4448663,200,DESCLASSIFICADO,BLC,2160,10.8
+"Laudo Médico para Procedimento de Alta Complexidade BPAI",4448664,200,DESCLASSIFICADO,BLCO,2160,10.8
+"Laudo médico tratamento fora domicilia para dentro do estado",4448665,100,VENCEU,BLC,695,6.95
+"Marcadores sorológicos - Hepatite A e B",4448666,10,VENCEU,BLC,95,9.5
+"Memorando interno - 2 vias autocopiativo",4448667,500,VENCEU,BLC,1600,3.2
+"Monitoramento das doenças Diarreicas Agudas- distribuição de",4448668,20,VENCEU,BLCO,116,5.8
+"Monitoramento das doenças Diarreicas Agudas-",4448669,20,VENCEU,BLCO,116.6,5.83
+"Orientações CAPS III- frente e verso",4448670,40,PERDEU,BLC,216,5.4
+"Planilha de visitas domiciliares- CAPS II",4448671,10,DESCLASSIFICADO,BLC,100,10
+"Plano Terapêutico singular CAPS II ad- frente e verso",4448672,20,PERDEU,BLC,100,5
+"Prescrição de Óculos",4448673,20,VENCEU,BLC,94,4.7
+"Programa de Combate a Tuberculose.",4448674,15,VENCEU,BLC,103.05,6.87
+"Programa de controle da febre amarela dengue",4448675,10000,PERDEU,UNI,450,0.045
+"Programa de Planejamento Familiar",4448676,80,VENCEU,BLCO,248,3.1
+"Programa Nacional de Controle da Dengue - PNCD",4448677,800,DESCLASSIFICADO,BLC,2120,2.65
+"Proposta de tratamento CAPS II ad",4448678,10,VENCEU,BLC,95,9.5
+"Receituário B2",4448680,500,DESCLASSIFICADO,BLC,500,1
+"Receituário de Controle especial",4448681,8000,VENCEU,BLC,22080,2.76
+"Receituário DST-HIV- AIDS- Profilaxia",4448682,20,VENCEU,BLCO,440,22
+"Receituário DST-HIV- AIDS- Tratamento",4448683,150,VENCEU,BLCO,1935,12.9
+"Receituário retinóide",4448684,50,PERDEU,BLCO,115,2.3
+"Receituário simples",4448685,10000,VENCEU,BLC,8200,0.82
+"Registro de falta de paciente a atendimento odontológico",4448686,10,PERDEU,BLCO,100,10
+"Registro diário do serviço antivetorial.",4448687,50,VENCEU,BLCO,193.5,3.87
+"Relatório Sócio Econômico",4448688,50,VENCEU,BLC,423.5,8.47
+"Requisição de clínica de RX",4448689,100,PERDEU,BLCO,454,4.54
+"Requisição de materiais e/ ou serviços",4448690,150,PERDEU,BLC,900,6
+"Requisição de ultrassonografia",4448691,300,DESCLASSIFICADO,BLCO,1290,4.3
+"Requisição para eletroencefalograma",4448692,30,PERDEU,BLCO,231,7.7
+"Requisição para exame laboratório Conveniado",4448693,300,DESCLASSIFICADO,BLCO,1290,4.3
+"Requisição para exame laboratório Municipal",4448694,300,DESCLASSIFICADO,BLCO,1290,4.3
+"Requisição para fisioterapia",4448695,50,PERDEU,BLC,425,8.5
+"SINAN - Acidente de Trabalho Grave",4448696,20,VENCEU,BLC,116,5.8
+"SINAN - Acidentes por Animais Peçonhentos",4448697,10,VENCEU,BLC,89,8.9
+"SINAN - Intoxicação exógena - frente e verso",4448698,10,VENCEU,BLC,89.5,8.95
+"SINAN- Atendimento Anti-Rábico Humano",4448699,20,VENCEU,BLCO,118,5.9
+"SINAN- Doenças exantemáticas febris",4448700,10,VENCEU,BLC,89.5,8.95
+"SINAN- Ficha de investigação da dengue",4448701,10,VENCEU,BLC,89.5,8.95
+"SINAN -Ficha de Notificação/ Conclusão",4448702,10,VENCEU,BLCO,89.5,8.95
+"SINAN- Síndrome Respiratória Aguda grave",4448703,10,VENCEU,BLC,89.6,8.96
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",4448704,10,PERDEU,BLC,89.6,8.96
+"SINAN-Ficha de investigação Hepatites Virais",4448705,10,VENCEU,BLC,79.9,7.99
+"SINAN-Ficha de notificação/ investigação Tuberculose",4448706,10,VENCEU,BLC,89.5,8.95
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",4448707,50,DESCLASSIFICADO,BLC,270,5.4
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",4448708,50,DESCLASSIFICADO,BLC,270,5.4
+"SISVAN- cadastro de domícilio",4448709,50,DESCLASSIFICADO,BLC,270,5.4
+"SISVAN- Mapa de Acompanhamento Nutricional",4448710,50,DESCLASSIFICADO,BLC,270,5.4
+"Sistema de informação de agravos de Notificação Municipal",4448711,30,VENCEU,BLC,153.3,5.11
+"Solicitação de Eletrocardiograma",4448712,150,VENCEU,BLC,363,2.42
+"Termo de compromisso - CAPS III",4448713,20,VENCEU,BLC,114.8,5.74
+"Termo de responsabilidade - CAPS III",4448714,20,VENCEU,BLC,114.2,5.71
+"Termo de solicitação e informação 2 vias autocopiativo",4448715,70,VENCEU,BLC,592.9,8.47
+"Tratamento cirúrgico",4448716,5000,VENCEU,UN,145,0.029
+BANNER,4448717,150,PERDEU,UNI,11700,78
+"Folder 21x29,7cm 2 dobras",4448718,10000,VENCEU,BLC,620,0.062
+"Folder 297x21cm 3 dobras",4448719,50000,DESCLASSIFICADO,UN,5500,0.11
+"Folder 297x21cm 2 dobras",4448720,50000,DESCLASSIFICADO,UN,5500,0.11
+"Folder 297x21cm 3 dobras",4448721,250000,DESCLASSIFICADO,UN,22500,0.09
+"Panfleto 15x21cm papel couche colorido 4x0 brilho frente  11",4448722,10000,PERDEU,UN,480,0.048
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",4448723,10000,VENCEU,UN,540,0.054
+"Panfleto 15x21cm papel sulfite colorido 4x0 brilho frente e",4448724,5000,PERDEU,UN,300,0.06
+"placa - adesivo 35,5x21cm",4448725,1000,PERDEU,UNI,14000,14
+"Placa Adesiva 20x10 cm",4448726,1000,PERDEU,UNI,8000,8

@@ -1,0 +1,53 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alicate Perfurador Ainsworth",4448531,6,CANCELADO,UN,384.9,64.15
+"Aplicador de Dycal- angulado, em aço inox",4448532,20,PERDEU,UN,125,6.25
+"Autoclave 21L",4448533,10,INABILITADO,UN,37450,3745
+"Cabo para bisturi nº3",4448535,30,DESCLASSIFICADO,UN,252.6,8.42
+"CABO P/ ESPELHO ODONTOLOGICO",4448536,150,DESCLASSIFICADO,UNI,931.5,6.21
+"Cureta dentina (escavador), nº 05 PEQUENA",4448543,30,CANCELADO,UN,214.5,7.15
+"Cureta dentina (escavador)nº20, GRANDE",4448544,30,CANCELADO,UNI,214.5,7.15
+"CURETA GRACEY 5-6 - EM AÇO INOX",4448545,100,DESCLASSIFICADO,UN,949,9.49
+"CURETA GRACEY 7-8 - EM AÇO INOX",4448546,50,DESCLASSIFICADO,UNI,474.5,9.49
+"CURETA GRACEY 11-12 - EM AÇO INOX",4448547,50,DESCLASSIFICADO,UNI,474.5,9.49
+"CURETA GRACEY 13-14 - EM AÇO INOX",4448548,50,DESCLASSIFICADO,UNI,474.5,9.49
+"ESPATULA DE INSERCAO",4448550,100,PERDEU,UN,860,8.6
+"Espátula Lecron",4448551,4,PERDEU,UN,34.4,8.6
+"Espátula para manipulação de cimento nº72",4448552,50,PERDEU,UN,430,8.6
+"Mini incubadora biológica",4448568,10,DESCLASSIFICADO,UN,2295.8,229.58
+"MOCHO ODONTOLÓGICO",4448570,15,CANCELADO,UNI,4933.5,328.9
+"Pinça clinica odotonlógia para algodão em aço inox",4448573,200,PERDEU,UN,1858,9.29
+"Pinça porta grampo palmer",4448574,6,PERDEU,UNI,345.3,57.55
+"PORTA MATRIZ TOFLEMAIR",4431381,30,CANCELADO,UNI,661.5,22.05
+"Porta - matriz Topflemire Infantil",4431382,10,CANCELADO,UN,220.5,22.05
+"Porta agulha Mayo-Hager 15 cm",4431383,80,CANCELADO,UN,1624,20.3
+"Seringa Carpule com refluxo - 12,5",4431387,100,PERDEU,UN,2793,27.93
+SINDESMOTOMO,4431388,50,CANCELADO,UNI,475,9.5
+"SONDA MILIMETRADA",4431389,40,CANCELADO,UNI,714.8,17.87
+"Sonda Exploradora Odontológica nº5",4431390,200,PERDEU,UNI,1252,6.26
+"Sonda Exploradora endodontica nº6",4431391,12,CANCELADO,UN,75.12,6.26
+"Suporte de fixação para caixa de luvas",4431392,15,VENCEU,UN,320.25,21.35
+"Suporte de fixação para coletor de material perfuro- cortant",4431393,15,VENCEU,UND,336.45,22.43
+"Tesoura cirúrgica Iris",4431394,80,DESCLASSIFICADO,UN,1255.2,15.69
+"Tesoura cirúrgica Mayo reta",4431395,20,DESCLASSIFICADO,UNI,529,26.45
+"Broca de alta rotação diamantada esferica 1012",4431421,400,PERDEU,UN,1172,2.93
+"Broca de alta rotação diamantada esférica 1014",4431422,400,PERDEU,UN,1172,2.93
+"Campo cirúrgico fenestrado 50 x 50 cm",4431461,45,PERDEU,UN,1455.75,32.35
+"Campo cirúrgico 60X60 cm",4431462,45,VENCEU,UN,1737,38.6
+"Coletor de material perfuro cortante. Caixa com 10 unid.",4431472,50,PERDEU,CX,996.5,19.93
+"Compressa de Gaze Hidrófila  7,5 x 7,5 cm 9 fios c/ 500 folh",4431473,1800,CANCELADO,PCT,28566,15.87
+"Esponja hemostática. Caixa com 10 unidades",4431513,100,VENCEU,CX,2284,22.84
+"Fio agulhado nylon, preto 3.0/EP2, siliconizado 45 cm",4431519,300,PERDEU,CX,7797,25.99
+"Fita autoclave. Rolo de 19mm x 30m",4431522,80,PERDEU,ROLO,239.2,2.99
+"Gorros descartáveis tipo touca com elástico",4431535,350,VENCEU,PCT,2152.5,6.15
+"Luva de Látex - tamanho PP",4431572,1000,VENCEU,CX,14740,14.74
+"Luva de Látex - tamanho P. Caixa com 100 unidades",4431573,1300,VENCEU,CX,19162,14.74
+"Luva de Látex 100% natural tam. M cx c/ 100.",4431574,600,VENCEU,CX,8844,14.74
+"Luva de Látex 100% natural tam. G cx c/ 100.",4431575,50,VENCEU,CX,737,14.74
+"Luvas látex, tamanho M, caixa c 100, livre de pó",4431576,100,VENCEU,CX,1588,15.88
+"Luvas látex, tamanho P, caica c/ 100,livres de pó",4431577,200,VENCEU,CX,3176,15.88
+"Luva cirúrgica, esterializada, tamanho 6,5",4431578,1500,VENCEU,PCT,1485,0.99
+"Luva Cirúrgica estéril Nº. 8.0",4431579,1650,VENCEU,PCT,1633.5,0.99
+"Máscara facial descartável com elástico tripla camada de pro",4431583,1000,VENCEU,CX,4890,4.89
+"Máscara cirúrgica facil nº95",4431584,110,PERDEU,CX,6493.3,59.03
+"Óculos de proteção de plástico",4431585,100,PERDEU,UNI,593,5.93
+"Papel grau cirúrgico 10cm x 100m",4431594,230,DESCLASSIFICADO,ROLO,11914,51.8

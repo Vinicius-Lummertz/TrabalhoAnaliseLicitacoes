@@ -1,0 +1,30 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4427383,7,PERDEU,UNI,1610,230
+BALCAO,4427384,4,PERDEU,UNI,1600,400
+Bancada,4427385,1,PERDEU,UNI,385,385
+"Balcão de atendimento com porta vai-vem",4427386,1,DESCLASSIFICADO,UN,3000,3000
+"Cadeira giratória tipo executiva.",4427387,12,DESCLASSIFICADO,UNI,3000,250
+"CADEIRA ESTOFADA",4427388,31,PERDEU,UN,1829,59
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4427390,2,DESCLASSIFICADO,UNI,700,350
+"Armário aberto tipo Prateleira 1,60 x 0,37 x 2,00m",4427391,3,DESCLASSIFICADO,UN,1320,440
+"Painel liso",4427392,1,PERDEU,UN,340,340
+"Armário arquivo.",4427394,12,PERDEU,UN,3780,315
+"Armário com 2 portas",4427395,10,PERDEU,UN,3300,330
+"Armário tipo Vestiário.",4427396,2,PERDEU,UNI,830,415
+"Balcão atendimento.",4427397,2,PERDEU,UN,5400,2700
+GAVETEIRO,4427398,4,PERDEU,UND,880,220
+"MESA SIMPLES",4427399,1,INABILITADO,UND,230,230
+"Suporte para CPU com rodízios.",4427400,5,DESCLASSIFICADO,UN,300,60
+"Armário com 2 portas",4427402,1,PERDEU,UN,390,390
+"Organizador (caixa plástica)",4427482,10,PERDEU,UN,600,60
+"Fichário de mesa",4427483,5,PERDEU,UN,275,55
+"Lixeiras de plástico com tampa",4427484,12,PERDEU,UNI,780,65
+"Contentor de lixo",4427485,1,PERDEU,UN,560,560
+"Carro funcional  para limpeza.",4427486,1,PERDEU,CNJ,1350,1350
+"Lixeira em polietileno Acompanha suporte em aço galvanizado",4427487,5,VENCEU,UN,870,174
+Lixeira,4427488,5,PERDEU,UND,500,100
+"APARELHO TELEFONICO",4427490,4,PERDEU,UND,180,45
+"APARELHO MICROONDAS",4427491,1,PERDEU,UNI,379,379
+"Refrigerador tipo doméstico 1 porta.",4427493,1,PERDEU,UN,1290,1290
+"Refrigerador tipo doméstico 2 portas",4427494,2,PERDEU,UN,3120,1560
+"Televisor colorido 40 polegadas",4427495,1,PERDEU,UN,1560,1560

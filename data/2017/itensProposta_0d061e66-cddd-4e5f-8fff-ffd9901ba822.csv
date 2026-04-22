@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa dagua fibra 10.000l",4463737,3,PERDEU,UND,10485,3495
+"Caixa dagua fibra 2.100l - tampa roscável",4463738,4,PERDEU,UND,4540,1135
+"Bomba águas residuárias 1cv",4463739,4,PERDEU,UND,1752,438
+"Tubo PVC leve 100mm",4463740,250,PERDEU,M,1775,7.1
+"Tubo PVC 50mm",4463741,60,PERDEU,M,572.4,9.54
+"Tubo 32mm",4463742,100,PERDEU,M,539,5.39
+"tubo 25mm",4463743,100,PERDEU,M,172,1.72
+"Mangueira preta 40mm",4463744,250,PERDEU,M,412.5,1.65
+Conexões,4463745,300,PERDEU,UND,2190,7.3

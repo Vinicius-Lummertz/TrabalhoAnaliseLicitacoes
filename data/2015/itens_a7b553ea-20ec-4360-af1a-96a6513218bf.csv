@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÓLEO DE SOJA.",1273638,37,11000,ATIVO,LITRO,26400,2.4
+VINAGRE;,1273675,40,6600,ATIVO,UNIDADE,5940,0.9
+"ACUCAR REFINADO",1273694,2,40000,ATIVO,kg,63200,1.58
+"Feijão preto Tipo 1",1273702,26,20000,ATIVO,kg,57400,2.87

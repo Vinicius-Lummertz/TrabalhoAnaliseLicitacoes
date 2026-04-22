@@ -1,0 +1,76 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária 1 Litro.",4377845,1900,PERDEU,UND,2869,1.51
+"Água Sanitária 5 Litros;",4377846,5650,DESCLASSIFICADO,GAL,37290,6.6
+"Álcool etílico em gel 70% (70 INPM) 500 gramas;",4377847,7000,DESCLASSIFICADO,FRA,40600,5.8
+"Álcool etílico hidratado 96% (92,8º INPM) 1 litro;",4377848,3800,DESCLASSIFICADO,LT,28842,7.59
+"Alvejante a base de hipoclorito de sódio 5 litros.",4377849,5500,VENCEU,GAL,50985,9.27
+"Amaciante para tecidos 5 litros.",4377850,3900,NAO_COTOU,GAL,0,0
+"Balde Plástico Resistente, capacidade 20 litros",4377851,970,PERDEU,UND,5878.2,6.06
+"Cabo de alumínio com suporte e adaptador para Mop Úmido",4377852,830,NAO_COTOU,UND,0,0
+"Cera auto-brilho 750 mL.",4377853,890,NAO_COTOU,CX,0,0
+"Cera em pasta 13 quilos.",4377854,180,NAO_COTOU,LAT,0,0
+"Conjunto Balde/Espremedor",4377855,131,PERDEU,CJT,32881,251
+"DESINCRUSTANTE 1litro",4377856,1160,NAO_COTOU,UND,0,0
+"LIMPADOR E NEUTRALIZADOR DE ODORES 5 lItros",4377857,410,NAO_COTOU,GAL,0,0
+"LIMPADOR E NEUTRALIZADOR DE ODORES 5 lItros",4377858,1230,NAO_COTOU,GAL,0,0
+"Desinfetante de uso geral 5 Litros.",4377859,7600,NAO_COTOU,GAL,0,0
+"Desinfetante de uso geral 500mL.",4377860,1200,NAO_COTOU,UND,0,0
+"Desinfetante Desengordurante - 5 litros",4377861,212,NAO_COTOU,GAL,0,0
+"Desinfetante Desengordurante - 5 litros",4377862,638,NAO_COTOU,GAL,0,0
+"Desodorizador de ambientes 360 mL;",4377863,2850,INABILITADO,FRA,26533.5,9.31
+"DETERGENTE DESENGRAXANTE 5 Litros.",4377864,272,NAO_COTOU,UND,0,0
+"DETERGENTE DESENGRAXANTE 5 Litros.",4377865,818,NAO_COTOU,UND,0,0
+"Detergente Líquido de uso geral 5 litros",4377866,6650,DESCLASSIFICADO,GAL,66234,9.96
+"Detergente Líquido Neutro de uso geral 500 mL.",4377867,4100,NAO_COTOU,UND,0,0
+"Dispensador em plástico rígido duplo para copos de café e ág",4377868,65,PERDEU,UND,1690,26
+"Escova para higienização de mãos e unhas",4377869,2070,DESCLASSIFICADO,UND,6210,3
+"Escova para limpeza em vaso sanitário",4377870,1760,DESCLASSIFICADO,UND,7673.6,4.36
+"Escova para Lavar Roupa em Madeira",4377871,1210,DESCLASSIFICADO,UND,3400.1,2.81
+"Escovão para Limpeza de chão",4377872,700,NAO_COTOU,UND,0,0
+"Esfregão de Aço, estilo palha de aço.",4377873,5800,NAO_COTOU,UND,0,0
+"Esponja de fibra sintética  100mmX180mmX25mm",4377874,13700,NAO_COTOU,UND,0,0
+"Esponja de fibra sintética  110mmX75mmX20mm",4377875,9250,NAO_COTOU,UND,0,0
+"Esponja de lã de Aço.",4377876,6400,NAO_COTOU,PCT,0,0
+"Flanela para limpeza na cor laranja",4377877,1950,NAO_COTOU,UND,0,0
+"LIMPADOR BACTERICIDA CONCENTRADO - 5 litros",4377878,282,NAO_COTOU,UND,0,0
+"LIMPADOR BACTERICIDA CONCENTRADO - 5 litros",4377879,848,NAO_COTOU,UND,0,0
+"LIMPADOR E DESINFETANTE DE USO GERAL A BASE DE QUARTENARIO D",4377880,1240,NAO_COTOU,UND,0,0
+"Lixeira 08 litros produzida em polietileno, vazada.",4377881,350,DESCLASSIFICADO,UND,2271.5,6.49
+"Lixeira 100 litros com tampa e pedal",4377882,320,DESCLASSIFICADO,UND,63680,199
+"Lixeira 15 litros com tampa e pedal",4377883,340,PERDEU,UND,6925.8,20.37
+"Lixeira 50 litros com tampa e pedal",4377884,250,NAO_COTOU,UND,0,0
+"Lustra móveis 200mL.",4377885,230,NAO_COTOU,UND,0,0
+"Luva Látex não Estéril Tamanho G",4377886,560,NAO_COTOU,CX,0,0
+"Luva Látex não Estéril Tamanho M",4377887,170,NAO_COTOU,CX,0,0
+"Luva para Limpeza Tamanho Grande cano 3/4",4377888,5300,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Medio cano 3/4",4377889,6700,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Pequeno cano 3/4",4377890,6200,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Pequeno",4377891,2650,PERDEU,PAR,7632,2.88
+"Luva para Limpeza Tamanho Grande cano longo",4377892,1850,PERDEU,PAR,5328,2.88
+"Luva para Limpeza Tamanho Médio cano longo",4377893,2500,PERDEU,PAR,7200,2.88
+"Mop úmido (refil)",4377894,1580,NAO_COTOU,UND,0,0
+"NEUTRALIZADOR DE ODORES 300 ml",4377895,940,NAO_COTOU,UND,0,0
+"Pá coletora plástica com tampa e cabo de alumínio 75cm",4377896,510,NAO_COTOU,UND,0,0
+"Pá de lixo plástica,com cabo em plástico rígido.Medindo 25cm",4377897,200,DESCLASSIFICADO,UND,564,2.82
+"Pano de copa e cozinha",4377898,2500,NAO_COTOU,UND,0,0
+"Rodo, base em alumínio , 55 cm",4377899,900,DESCLASSIFICADO,UND,18675,20.75
+"Rodo, base em alumínio 30cm.",4377900,720,PERDEU,UND,11484,15.95
+"Sabão em barra",4377901,3500,NAO_COTOU,PCT,0,0
+"Sabão em pó com amaciante atomizado (granulado) 1kg.",4377902,9400,NAO_COTOU,UND,0,0
+"Sabonete líquido.",4377903,2800,NAO_COTOU,GAL,0,0
+"Saca de tecido 100 % alvejado",4377904,7800,PERDEU,UND,24180,3.1
+"Saca de tecido crua",4377905,7100,DESCLASSIFICADO,PCT,23004,3.24
+"Saco para coleta de resíduos sólidos infectantes100 Litros.",4377906,1100,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes30 Litros",4377907,1100,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes50 Litros",4377908,1100,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo domestico de polietileno,com capacidad",4377909,1000,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo domestico de polietileno,com capacidad",4377910,3000,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo domestico 30 litros",4377911,2800,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo domestico 50 litros",4377912,2700,NAO_COTOU,PCT,0,0
+"SAPÓLIO CREMOSO",4377913,7500,PERDEU,FRA,18150,2.42
+"Tela Desodorizadora para Mictório",4377914,600,NAO_COTOU,UND,0,0
+"Touca descartável.",4377915,1240,NAO_COTOU,PCT,0,0
+"Vassoura com cerdas de aparação",4377916,2580,NAO_COTOU,UND,0,0
+"VASSOURA DE PALHA",4377917,5200,DESCLASSIFICADO,UND,64272,12.36
+"Pastilhas de agente de conservação para forno",4377918,10,NAO_COTOU,BLD,0,0
+"Pastilhas de detergente para forno Rational  Self Cooking Ce",4377919,10,NAO_COTOU,BLD,0,0

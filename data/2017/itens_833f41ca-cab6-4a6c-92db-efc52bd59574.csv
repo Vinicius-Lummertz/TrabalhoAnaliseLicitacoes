@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atadura de algodão Ortopédico 15 cm X 1,80 mt",1260304,18,10,ATIVO,UNIDADE,104.4,10.44
+"Atadura de algodão Ortopédico - 20 cm X 1,80MT.",1260305,19,10,ATIVO,UNIDADE,138,13.8
+"Clorexidina aquosa",1260306,54,500,ATIVO,UNIDADE,695,1.39
+"Garrote tubo látex no. 202",1260307,114,400,ATIVO,PACOTE,1192,2.98
+"GLUTARALDEIDO 2% GALÃO COM 5 LTS",1260308,118,24,ATIVO,GALAO,3162.24,131.76
+"Soro Fisiológico 500 ml (Cloreto de sódio 0,9%)",1260309,240,15000,ATIVO,UNIDADE,33300,2.22
+"Soro ringer lactato 500 ml",1260310,245,100,ATIVO,UNIDADE,240,2.4
+"Equipo tipo microgotas para solução parental - 60 mgts/ml",1328262,90,2000,ATIVO,UNIDADE,6280,3.14
+"Equipo tipo macrogotas para solução parenteral (20 gotas/ml)",1328263,89,35000,ATIVO,UNIDADE,29050,0.83

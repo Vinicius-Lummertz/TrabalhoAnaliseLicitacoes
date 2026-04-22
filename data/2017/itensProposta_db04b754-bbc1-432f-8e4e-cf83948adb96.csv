@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dieta nutricionalmente completa",4432209,2000,INABILITADO,LAT,66000,33
+"Espessante a base de amido de milho modificado",4432211,12,VENCEU,LAT,612,51
+"Módulo de carboidratos para dieta enteral e oral tendo",4432219,50,VENCEU,LAT,1000,20
+"Nutrição enteral, em pó, à base de proteína isolada de soja",4432220,200,VENCEU,LAT,8652,43.26
+"Suplemento Nutricional lácteo em pó, enriquecido com vitamin",4432221,300,PERDEU,LAT,4380,14.6

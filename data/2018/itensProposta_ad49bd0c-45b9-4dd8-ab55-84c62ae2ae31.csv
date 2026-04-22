@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Transporte com Van",4378153,4000,PERDEU,KM,20000,5
+"Transporte com Micro-ônibus",4378154,4000,VENCEU,KM,27800,6.95
+"Transporte com Ônibus",4378155,4000,PERDEU,KM,36000,9

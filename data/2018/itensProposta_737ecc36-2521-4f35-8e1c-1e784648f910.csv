@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AGUA DESTILADA 10ml, Ampola 10ml",4433203,30000,DESCLASSIFICADO,AMP,4800,0.16
+"Água destilada 5ml, Ampola 5ml",4433204,10000,PERDEU,AMP,1800,0.18
+"CLORETO DE SÓDIO 0,9% 250ML sistema fechado",4433340,3000,PERDEU,FR.,6060,2.02
+"CLORETO DE SÓDIO 0,9% 500ML  SISTEMA FECHADO",4433341,2000,PERDEU,FR.,5140,2.57

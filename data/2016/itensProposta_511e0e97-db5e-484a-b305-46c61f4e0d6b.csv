@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Conjunto para aluno tamanho 4, sendo a altura do aluno compr",4344433,184,INABILITADO,UND,26680,145
+"Conjunto para aluno tamanho 6, sendo a altura do aluno compr",4344434,1630,INABILITADO,UND,285250,175
+"Conjunto refeitório composto de mesa com 02 bancos para o en",4344435,42,VENCEU,UND,23100,550
+"Conjunto refeitório para pré escola composto de mesa com 02",4344436,125,VENCEU,UND,65625,525
+"Estante biblioteca dupla face",4344437,48,NAO_COTOU,UND,0,0
+"Conjunto Pré-Escolar Coletivo de quatro lugares.",4344438,300,PERDEU,UND,92940,309.8
+"Armário para sala de aula com 02 portas",4344439,417,DESCLASSIFICADO,UND,208500,500
+"Quadro branco",4344440,1,NAO_COTOU,UND,0,0
+"Camas empilháveis",4344441,2371,NAO_COTOU,UND,0,0
+"Mesa redonda para biblioteca com 04 cadeiras",4344442,25,DESCLASSIFICADO,UND,14500,580
+"Estante biblioteca",4344443,48,NAO_COTOU,UND,0,0

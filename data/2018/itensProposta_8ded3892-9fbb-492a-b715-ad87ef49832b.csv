@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno de concreto D=0,20",4370260,3000,PERDEU,M,45000,15
+"Dreno de concreto D=0,30",4370261,3000,VENCEU,M,51000,17
+"Dreno de concreto D=0,40",4370262,2000,VENCEU,M,41800,20.9
+"Dreno de concreto D=0,40 perfurado",4370263,1200,VENCEU,M,28680,23.9
+"Dreno de concreto D=0,50",4370264,400,PERDEU,M,13400,33.5
+"Dreno de concreto D=0,60",4370265,500,PERDEU,M,22500,45
+"Dreno de concreto D=0,80 CA 1",4370266,300,PERDEU,M,36000,120
+"Dreno de concreto D=1,00 CA 1",4370267,400,VENCEU,M,62000,155
+"Dreno de concreto D=1,20 CA 2",4370268,50,INABILITADO,M,16000,320

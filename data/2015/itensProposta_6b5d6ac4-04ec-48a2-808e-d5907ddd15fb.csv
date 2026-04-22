@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",4332859,20,PERDEU,UND,894,44.7
+"Central telefônica c/ 2 linhas e 8 ramais",4332860,1,PERDEU,UND,844,844
+"Central telefônica c/ 6 linhas e 16 ramais",4332861,1,PERDEU,UND,1550,1550
+"Patch panel categoria 5 E 24 portas",4332862,2,PERDEU,UND,340,170
+"Interface de celular GSM",4332863,2,PERDEU,UND,1280,640
+"Rack 19 6U x 450mmm parede",4332864,2,PERDEU,UND,716,358
+"Bucha 6",4332865,600,PERDEU,UND,216,0.36
+"Cabo UTP LAN Cat5e",4332866,2400,PERDEU,M,4272,1.78
+"Caneleta sistema x20x10",4332867,100,PERDEU,M,640,6.4
+"Canaleta x50x20x2000",4332868,100,PERDEU,M,920,9.2
+"Switch 8 portas 10/100",4332869,3,PERDEU,UND,246,82
+"Conector RJ 45 cat5e",4332870,480,PERDEU,UND,475.2,0.99
+"Etiqueta identificação ponto de rede",4332871,500,PERDEU,UND,115,0.23
+"Fio Elétrico Flexivel 2,5mm",4332872,3000,PERDEU,M,5250,1.75
+"Abraçadeira pct com 100 unidades",4332873,3,PERDEU,UND,37.86,12.62
+"Fita isolante rolo com 20 m",4332874,20,PERDEU,UND,64,3.2
+"Parafuso p/bucha 6",4332875,600,PERDEU,UND,228,0.38
+"Patch cord 1,5m cat5e",4332876,100,PERDEU,M,890,8.9
+"Switch 24 portas 10/100/1000",4332877,2,PERDEU,UND,1760,880
+"Tomada 2P + T NBR",4332878,150,PERDEU,UND,1725,11.5
+"Caixa sistema X 3x3",4332879,250,PERDEU,UND,1350,5.4
+"Espelho Sistema X 2 furos para RJ 45",4332880,100,PERDEU,UND,450,4.5
+"Fio Telefônico FE100 (DROP)",4332881,200,PERDEU,M,260,1.3
+"Conjunto de Porca Gaiola M5",4332882,50,PERDEU,UND,49.5,0.99
+"Jack rj 45 e femea (qestone)",4332883,250,PERDEU,UND,2000,8
+"MAO DE OBRA",4332884,800,PERDEU,SV,51120,63.9

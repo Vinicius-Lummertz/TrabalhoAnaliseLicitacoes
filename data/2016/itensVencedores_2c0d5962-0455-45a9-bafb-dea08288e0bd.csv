@@ -1,0 +1,15 @@
+cnpjCpfVencedor,codigo,descricao,numero,participanteVencedor,quantidade,unidadeMedida,valorTotalReferencia,valorTotalVencedor,valorUnitarioReferencia,valorUnitarioVencedor
+02.558.157/0001-62,10300222,"Assinatura mensal",1,"TELEFONICA BRASIL S.A.",48,UND,240,240,5,5
+02.558.157/0001-62,10371226,"Tarifa Zero Local (Intra-Grupo)",2,"TELEFONICA BRASIL S.A.",48,UND,240,240,5,5
+02.558.157/0001-62,10303450,"Gerenciador On-Line",3,"TELEFONICA BRASIL S.A.",48,UND,239.52,239.52,4.99,4.99
+02.558.157/0001-62,10370749,"Pacote de Dados - 3Gb",4,"TELEFONICA BRASIL S.A.",48,UND,3835.2,2491.2,79.9,51.9
+02.558.157/0001-62,10371227,"Ligações locais VC1-Intra rede",5,"TELEFONICA BRASIL S.A.",2400,MIN,720,720,0.3,0.3
+02.558.157/0001-62,10371228,"Ligações locais VC1 - para outras operadoras de celular",6,"TELEFONICA BRASIL S.A.",2400,MIN,720,720,0.3,0.3
+02.558.157/0001-62,10371229,"Ligações locais VC1- para telefone fixo",7,"TELEFONICA BRASIL S.A.",2400,MIN,720,720,0.3,0.3
+02.558.157/0001-62,10371230,"SMS- avulso",8,"TELEFONICA BRASIL S.A.",960,UND,336,336,0.35,0.35
+02.558.157/0001-62,10371231,"Ligações locais VC2- Intra rede",9,"TELEFONICA BRASIL S.A.",480,MIN,336,336,0.7,0.7
+02.558.157/0001-62,10371232,"Ligações locais  VC2- para outras operadoras de celular",10,"TELEFONICA BRASIL S.A.",480,MIN,480,480,1,1
+02.558.157/0001-62,10371233,"Ligações locais VC2- para telefone fixo",11,"TELEFONICA BRASIL S.A.",480,MIN,384,384,0.8,0.8
+02.558.157/0001-62,10371234,"Ligações locais VC3- Intra rede",12,"TELEFONICA BRASIL S.A.",480,MIN,336,336,0.7,0.7
+02.558.157/0001-62,10371235,"Ligações locais VC3- para outras operadoras de celular",13,"TELEFONICA BRASIL S.A.",480,MIN,480,480,1,1
+02.558.157/0001-62,10371236,"Ligações locais VC3-  para telefone fixo",14,"TELEFONICA BRASIL S.A.",480,MIN,384,384,0.8,0.8

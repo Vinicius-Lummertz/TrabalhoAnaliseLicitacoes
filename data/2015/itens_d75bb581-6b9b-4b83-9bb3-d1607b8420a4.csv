@@ -1,0 +1,140 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MiniDisjuntor monofásico 10 A, curva C, padrão IEC",1273994,81,48,ATIVO,UNIDADE,183.84,3.83
+"contator com bobina 220V para 25A regime AC3",1273995,82,48,ATIVO,UNIDADE,2284.8,47.6
+"contator com bobina 220V para 50A regime AC3",1273996,83,36,ATIVO,UNIDADE,5299.92,147.22
+"contator com bobina 220V para 100A Regime AC3",1273997,84,36,ATIVO,UNIDADE,10670.04,296.39
+"Eletroduto corrugado flexivel Kanaflex 1.1/4",1273998,85,2750,ATIVO,METRO,3382.5,1.23
+"Eletroduto corrugado flexivel Kanaflex 1.1/2",1273999,86,2750,ATIVO,METRO,4317.5,1.57
+"Eletroduto corrugado flexivel Kanaflex  2",1274000,87,2750,ATIVO,METRO,4867.5,1.77
+"Cabo Aluminio Multiplexado 3x1x25+1+25mm Monofásico",1274001,126,750,ATIVO,METRO,4822.5,6.43
+"Eletroduto rígido PVC 1.1/4  x 3m",1274002,88,330,ATIVO,METRO,1782,5.4
+"Eletroduto rígido PVC 1.1/2 x 3m -",1274003,89,330,ATIVO,METRO,2006.4,6.08
+"Eletroduto rígido PVC 2 x 3m",1274004,90,330,ATIVO,METRO,2428.8,7.36
+"Eletroduto de aço galvanizado a fogo 1.1/4x6mt- NBR 5598.",1274005,91,250,ATIVO,UNIDADE,4945,19.78
+"Eletroduto de aço galvanizado a fogo 1.1/2x6mt, NBR- 5598.",1274006,92,250,ATIVO,UNIDADE,6627.5,26.51
+"Eletroduto de aço galvanizado a fogo 2x6mt, NBR -5598",1274007,93,250,ATIVO,UNIDADE,8362.5,33.45
+"Eletroduto de aço galvanizado a fogo 3x6mt, NBR -5598",1274008,94,285,ATIVO,UNIDADE,73284.9,257.14
+"Eletroduto de aço galvanizado a fogo 4x6mt, NBR -5598",1274009,95,285,ATIVO,UNIDADE,116134.65,407.49
+"MiniDisjuntor monofásico 16 A, curva C, padrão IEC",1274010,80,48,ATIVO,UNIDADE,183.84,3.83
+"Curva PVC 1.1/4  90°",1274011,96,15,ATIVO,UNIDADE,14.1,0.94
+"MiniDisjuntor monofásico 25 A, curva C, padrão IEC",1274012,79,48,ATIVO,UNIDADE,183.84,3.83
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",1274013,77,24,ATIVO,UNIDADE,424.08,17.67
+"Chave para iluminação pública Bipolar 50 amperes",1274014,57,60,ATIVO,UNIDADE,8538.6,142.31
+"Armação secundária AR 22",1274015,58,145,ATIVO,UNIDADE,2134.4,14.72
+"Roldana de porcelana 76x79mm, para armação secundária",1274016,59,290,ATIVO,UNIDADE,745.3,2.57
+"Cinta circular para poste com dois parafusos e porca 160 mm",1274017,60,250,ATIVO,UNIDADE,3190,12.76
+"Cinta circular para poste com dois parafusos e porca 170mm",1274018,61,250,ATIVO,UNIDADE,3265,13.06
+"Cinta circular para poste com dois parafusos e porca 180mm",1274019,62,250,ATIVO,UNIDADE,3342.5,13.37
+"Cinta circular para poste com dois parafusos e porca 190 mm",1274020,63,250,ATIVO,UNIDADE,3435,13.74
+"Cinta circular para poste com dois parafusos e porca 200mm",1274021,64,250,ATIVO,UNIDADE,3442.5,13.77
+"Cinta circular para poste com dois parafusos e porca 210mm",1274022,65,250,ATIVO,UNIDADE,3677.5,14.71
+"Cinta circular para poste com dois parafusos e porca 220mm",1274023,66,250,ATIVO,UNIDADE,3705,14.82
+"Cinta circular para poste com dois parafusos e porca 230mm",1274024,67,250,ATIVO,UNIDADE,3827.5,15.31
+"Cinta circular para poste com dois parafusos e porca 240mm",1274025,68,250,ATIVO,UNIDADE,3900,15.6
+"Cinta circular para poste com dois parafusos e porca 250mm",1274026,69,250,ATIVO,UNIDADE,3925,15.7
+"Parafuso cabeça abaloada 16x75 mm com porca",1274027,70,1400,ATIVO,UNIDADE,2268,1.62
+"Porca quadrada 16 mm",1274028,71,1400,ATIVO,UNIDADE,1232,0.88
+"Parafuso máquina cabeça quadrada com porca 16x200mm",1274029,72,250,ATIVO,UNIDADE,810,3.24
+"Parafuso máquina cabeça quadrada com porca 16x300mm",1274030,74,250,ATIVO,UNIDADE,1105,4.42
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",1274031,75,24,ATIVO,UNIDADE,1062.24,44.26
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",1274032,76,24,ATIVO,UNIDADE,541.68,22.57
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",1274033,78,24,ATIVO,UNIDADE,447.6,18.65
+"Curva PVC 1.1/2 90°",1274034,97,15,ATIVO,UNIDADE,19.2,1.28
+"Luva PVC 1.1/2",1274035,100,25,ATIVO,UNIDADE,54.5,2.18
+"Luva PVC 1.1/4",1274036,99,25,ATIVO,UNIDADE,39.25,1.57
+"Suporte para instalação e fixação de 04 luminárias em topo d",1274037,139,100,ATIVO,UNIDADE,7549,75.49
+"Suporte para instalação e fixação de 03 luminárias em topo d",1274038,138,100,ATIVO,UNIDADE,7311,73.11
+"Suporte para instalação e fixação de 02 luminárias em topo d",1274039,137,100,ATIVO,UNIDADE,6754,67.54
+"Suporte para instalação e fixação de 01 luminárias",1274040,136,25,ATIVO,UNIDADE,1390.75,55.63
+"Núcleo central de aluminio fundido para o poste de 60,3mm p/",1274041,135,100,ATIVO,UNIDADE,19072,190.72
+"Núcleo central de aluminio fundido para o poste de 60,3mm -",1274042,134,90,ATIVO,UNIDADE,15734.7,174.83
+"Núcleo central de aluminio fundido para o poste de 60,3mm,pa",1274043,133,35,ATIVO,UNIDADE,4450.25,127.15
+"Conector perfurante (piercing) 10/70mm",1274044,132,725,ATIVO,UNIDADE,2182.25,3.01
+"Lâmpada vapor sódio alta pressão 1.000W, tubolar, E-40",1274045,131,110,ATIVO,UNIDADE,23427.8,212.98
+"Lâmpada multivaporer metálico 2.000W, tubolar, E-40",1274046,130,145,ATIVO,UNIDADE,58192.85,401.33
+"Braço para luminária iluminação pública com 4,0mt de comprim",1274047,129,350,ATIVO,UNIDADE,37786,107.96
+"Braço para luminária iluminação pública 2mt de comprimento c",1274048,128,725,ATIVO,UNIDADE,17146.25,23.65
+"Braço para luminária iluminação pública 1,5mt de comprimento",1274049,127,725,ATIVO,UNIDADE,14246.25,19.65
+"Cabo Aluminio Multiplexado 1x1x25+1+25mm Monofasico",1274050,125,750,ATIVO,METRO,2205,2.94
+"Cabo Aluminio Multiplexado 3x1x16+1+16mm Trifasico",1274051,124,750,ATIVO,METRO,3052.5,4.07
+"Cabo Aluminio Multiplexado 1x1x16+1+16mm Monofasico",1274052,123,750,ATIVO,METRO,1455,1.94
+"Cabo Aluminio Multiplexado 3x1x10+1+10mm Trifasico",1274053,122,750,ATIVO,METRO,2137.5,2.85
+"Cabo Aluminio Multiplexado 1x1x10+1+10mm Monofasico",1274054,121,1100,ATIVO,METRO,1441,1.31
+"Poste de ferro galvanizado a fogo conforme a NBR 6323",1274055,120,100,ATIVO,UNIDADE,137499,1374.99
+"Caixa de medição monofásca em policarbonato, padrão CELESC",1274056,119,35,ATIVO,UNIDADE,920.5,26.3
+"Caixa de medição trifásca em policarbonato, padrão CELESC",1274057,118,35,ATIVO,UNIDADE,2593.5,74.1
+"Cartucho Solda Conexão Exotérmica, nº 65",1274058,117,140,ATIVO,UNIDADE,728,5.2
+"Quadro de comando metalico 400x400x200 com flange",1274059,116,12,ATIVO,UNIDADE,1366.2,113.85
+"Projetor corpo de alumínio  RX7S para lâmpada 150w",1274060,115,145,ATIVO,UNIDADE,5578.15,38.47
+"Projetor corpo de alumínio  E40 para lâmpada 1000w",1274061,114,145,ATIVO,UNIDADE,38565.65,265.97
+"Projetor corpo de alumínio  E-40 para lâmpada 400w",1274062,113,145,ATIVO,UNIDADE,8540.5,58.9
+"Haste aterramento 5/8 2,4mt com conector",1274063,112,290,ATIVO,UNIDADE,8888.5,30.65
+"Luva de aço galvanizado a fogo 4, NBR 5598",1274064,111,76,ATIVO,UNIDADE,3676.88,48.38
+"Luva de aço galvanizado a fogo 3. NBR 5598",1274065,110,76,ATIVO,UNIDADE,2778.56,36.56
+"Luva de aço galvanizado a fogo 2, NBR 5598",1274066,109,24,ATIVO,UNIDADE,292.8,12.2
+"Luva de aço galvanizado a fogo 1.1/2, NBR 5598",1274067,108,24,ATIVO,UNIDADE,213.36,8.89
+"Luva de aço galvanizado a fogo 1.1/4, NBR 5598",1274068,107,24,ATIVO,UNIDADE,160.08,6.67
+"Curva de aço galvanizado a fogo 4. 90° NBR 5598",1274069,106,18,ATIVO,UNIDADE,3179.88,176.66
+"Curva de aço galvanizado a fogo 3, 90° NBR 5598",1274070,105,18,ATIVO,UNIDADE,1784.34,99.13
+"Curva de aço galvanizado a fogo 2,  90°, NBR 5598",1274071,104,18,ATIVO,UNIDADE,583.02,32.39
+"Curva de aço galvanizado a fogo 1.1/2,  90°, NBR 5598",1274072,103,18,ATIVO,UNIDADE,367.38,20.41
+"Curva de aço galvanizado a fogo 1.1/4,  90°, NBR 5598",1274073,102,18,ATIVO,UNIDADE,266.76,14.82
+"Luva PVC 2",1274074,101,25,ATIVO,UNIDADE,82,3.28
+"Chave para iluminação pública unipolar 50 amperes",1274075,56,60,ATIVO,UNIDADE,8244,137.4
+"Curva PVC 2 90°",1274076,98,15,ATIVO,UNIDADE,30.15,2.01
+"Cabo PP, de cobre, bitola 2 x 2,5mm, isolamento 1KV",1274077,55,2700,ATIVO,METRO,5832,2.16
+"Parafuso máquina cabeça quadrada com porca 16x250mm",1274078,73,250,ATIVO,UNIDADE,907.5,3.63
+"Cabo de cobre, isolamento 1kV, bitola 35 mm²",1274079,53,2500,ATIVO,METRO,28700,11.48
+"Relé fotoelétrico para iluminação pública 1000w com retardo.",1274080,24,4000,ATIVO,UNIDADE,41240,10.31
+"reator interno AFP, com ignitor vapor de sódio, para lampad",1274081,23,1100,ATIVO,UNIDADE,49445,44.95
+"Reator externo AFP para lâmpada multivapormetálico 1000 w",1274082,22,60,ATIVO,UNIDADE,11188.2,186.47
+"Reator externo AFP para lâmpada multivapor metálico 400w",1274083,21,300,ATIVO,UNIDADE,16500,55
+"Reator externo AFP para lâmpada multivapor metálico 250w",1274084,20,500,ATIVO,UNIDADE,24645,49.29
+"Reator interno AFP para lâmpada multivapor metálico 150w",1274085,19,300,ATIVO,UNIDADE,13875,46.25
+"Reator externo AFP para lâmpada vapor de sódio 1000w",1274086,18,50,ATIVO,UNIDADE,8627,172.54
+"Reator externo AFP para lâmpada vapor de sódio 600w",1274087,17,100,ATIVO,UNIDADE,12768,127.68
+"Reator externo AFP para lâmpada vapor de sódio 400w",1274088,16,300,ATIVO,UNIDADE,23259,77.53
+"Reator externo AFP para lâmpada vapor de sódio 250w",1274089,15,3000,ATIVO,UNIDADE,207420,69.14
+"Reator externo AFP para lâmpada vapor de sódio 150w",1274090,14,600,ATIVO,UNIDADE,31386,52.31
+"Base para relé fotoelétrico, com haste galvanizada",1274091,25,4800,ATIVO,UNIDADE,19536,4.07
+"Reator externo AFP para lampada vapor de sódio 100 w.",1274092,13,200,ATIVO,UNIDADE,8384,41.92
+"Lâmpada multivapores metálico 1000w",1274093,11,100,ATIVO,UNIDADE,35332,353.32
+"Lâmpada multivapores metálico 250w",1274094,9,300,ATIVO,UNIDADE,11160,37.2
+"Lâmpada multivapores metálicos 150w, RX7s-24",1274095,8,400,ATIVO,UNIDADE,11808,29.52
+"Lâmpada vapor sódio alta pressão 600w, bulbo ovóide ou tubol",1274096,7,110,ATIVO,UNIDADE,18153.3,165.03
+"Lâmpada vapor sódio alta pressão 400w, bulbo ovóide ou tubol",1274097,6,400,ATIVO,UNIDADE,11856,29.64
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubolar, E-40",1274098,5,1100,ATIVO,UNIDADE,32494,29.54
+"Lâmpada vapor sódio alta pressão 250w, bulbo ovóide ou tubol",1274099,4,8000,ATIVO,UNIDADE,155440,19.43
+"Lâmpada vapor sódio alta pressão 150w, bulbo ovóide ou tubul",1274100,3,1000,ATIVO,UNIDADE,22080,22.08
+"Lâmpada vapor sódio alta pressão 100w, bulbo tubolar, E-40",1274101,2,400,ATIVO,UNIDADE,6292,15.73
+"Lâmpada Vapor sódio alta pressão 70w bulbo ovóide E-27",1274102,1,10000,ATIVO,UNIDADE,118000,11.8
+"Cabo PP, de cobre, bitola 4 x 2,5mm, isolamento 1KV",1274103,54,2700,ATIVO,METRO,10611,3.93
+"Reator externo AFP para lâmpada vapor de sódio 70w",1274104,12,4000,ATIVO,UNIDADE,169240,42.31
+"Luminária para iluminação pública de alumínio estampado, com",1274105,26,100,ATIVO,UNIDADE,4416,44.16
+"Lâmpada multivapores metálico 400w",1274106,10,700,ATIVO,UNIDADE,28861,41.23
+"Lumináia para iluminação pública d aluminio difusor policarb",1274107,28,750,ATIVO,UNIDADE,118507.5,158.01
+"Cabo de cobre, isolamento 1kV, bitola 25 mm²",1274108,52,2500,ATIVO,METRO,20850,8.34
+"Luminaria para iluminação publica de aluminio estampado com",1274109,27,500,ATIVO,UNIDADE,16390,32.78
+"Cabo de cobre, isolamento 1kV, bitola 16 mm²",1274110,51,3000,ATIVO,METRO,15600,5.2
+"Cabo de cobre, isolamento 1kV, bitola 10 mm2",1274111,50,3000,ATIVO,METRO,10440,3.48
+"Cabo de cobre, isolamento 1kV, bitola 6 mm2",1274112,49,3000,ATIVO,METRO,6180,2.06
+"Cabo de cobre, isolamento 1kV, bitola 4 mm2",1274113,48,3000,ATIVO,METRO,4410,1.47
+"Cabo de cobre, isolamento 1kV, bitola 2,5 mm2",1274114,47,3000,ATIVO,METRO,2940,0.98
+"Fita isolante 19mm 20m certificado inmetro",1274115,45,600,ATIVO,ROLO,1416,2.36
+"Fio de cobre rígido, bitola 6 mm2 Isolamento 750 V",1274116,44,8000,ATIVO,METRO,13760,1.72
+"Fio de cobre rígido, bitola 4,0 mm2 Isolamento 750 V",1274117,43,11000,ATIVO,METRO,12430,1.13
+"Fio de cobre rígido, bitola 2,5 mm2 Isolamento 750 V",1274118,42,20000,ATIVO,METRO,14400,0.72
+"Fio de cobre rígido, bitola 1,5 mm2 Isolamento 750 V",1274119,41,20000,ATIVO,METRO,8800,0.44
+"Fita isolante de alta fusão pvc, espessura maior de 0,03 mm",1274120,46,150,ATIVO,ROLO,1324.5,8.83
+"Conector ampactinho tipo II",1274121,39,500,ATIVO,UNIDADE,930,1.86
+"Conector ampactinho tipo III",1274122,38,500,ATIVO,UNIDADE,735,1.47
+"Conector ampactinho tipo IV",1274123,37,500,ATIVO,UNIDADE,735,1.47
+"Conector ampactinho tipo V",1274124,36,500,ATIVO,UNIDADE,735,1.47
+"Receptáculo porcelana E-40 reforçado para iluminação pública",1274125,35,300,ATIVO,UNIDADE,2502,8.34
+"Receptáculo porcelana E 27 reforçado para iluminação pública",1274126,34,200,ATIVO,UNIDADE,372,1.86
+"braço para luminaria iluminaçao publica com 3,0m de comprime",1274127,33,750,ATIVO,UNIDADE,50955,67.94
+"Braço para luminária iluminação pública 1m de comprimento co",1274128,32,750,ATIVO,UNIDADE,11190,14.92
+"LUMINÁRIA P/A ILUMINAÇÃO PUBLICA DE ALUMINIO DIFUSOR POLICAR",1274129,31,1500,ATIVO,UNIDADE,81705,54.47
+"Conector ampactinho tipo B",1274130,40,500,ATIVO,UNIDADE,1425,2.85
+"LUMINÁRIA P ILUMINAÇÃO PUBLICA DE ALUMINIO DIFUSOR POLICARBO",1274131,29,1000,ATIVO,UNIDADE,86460,86.46
+"luminaria para iluminação publica de aluminio vidro plano te",1274132,30,1000,ATIVO,UNIDADE,231620,231.62

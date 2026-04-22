@@ -1,0 +1,23 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SORO GLICOFISIOLOGICO 500ml",1258931,201,1500,ATIVO,UNIDADE,3735,2.49
+"SORO GLICOSADO 250ml (SOLUÇAO DE GLICOSE A 5%)",1258932,202,5000,ATIVO,UNIDADE,11525,2.305
+"SORO GLICOSADO 500ml (SOLUÇAO DE GLICOSE A 5%)",1258933,203,3000,ATIVO,UNIDADE,8001,2.667
+Vaselina.,1258934,206,150,ATIVO,LITRO,2355,15.7
+"SORO GLICOFISIOLOGICO 250ml",1258940,200,3000,ATIVO,UNIDADE,7575,2.525
+"SORO FISIOLOGICO 500ml (SOLUÇAO DE CLORETO DE SODIO 0,9%)",1258952,199,10000,ATIVO,UNIDADE,24500,2.45
+"SORO FISIOLOGICO 1000ml (Solução de cloreto de sódio 0,9%)",1258954,196,1000,ATIVO,UNIDADE,3580,3.58
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",1258955,197,50000,ATIVO,UNIDADE,101000,2.02
+"Bateria de Líthium 123ª, para uso no desfribilador DEA-Zoll",1258961,26,10,ATIVO,JOGO,7050,705
+"Garrote tubo látex no. 202",1258962,87,30,ATIVO,PACOTE,39.9,1.33
+"GLICERINA LIQUIDA",1258963,90,150,ATIVO,LITRO,1725,11.5
+"HIPOCLORITO DE SÓDIO 1%",1258964,93,5000,ATIVO,LITRO,10000,2
+"Máscara de oxigênio com reservatório e de não reinalação Inf",1258966,127,10,ATIVO,UNIDADE,87,8.7
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",1258967,128,20,ATIVO,UNIDADE,238.2,11.91
+"Máscara facial de oxigênio venturi/infantil, não estéril (Ki",1258968,129,20,ATIVO,UNIDADE,238.2,11.91
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",1258969,140,3000,ATIVO,UNIDADE,2505,0.835
+Repelente,1258970,146,300,ATIVO,FRASCO,7734,25.78
+"Salto Ortopédico tamanho G;",1258971,147,18,ATIVO,PACOTE,210.96,11.72
+"Salto Ortopédico tamanho M;",1258972,148,18,ATIVO,PACOTE,180,10
+"Salto Ortopédico tamanho P;",1258973,149,15,ATIVO,PACOTE,137.85,9.19
+"Máscara de oxigênio com reservatório e de não reinalação Adu",1258974,126,10,ATIVO,UNIDADE,87,8.7
+"Solução de Manitol a 20%.",1258975,153,50,ATIVO,FRASCO,207.5,4.15

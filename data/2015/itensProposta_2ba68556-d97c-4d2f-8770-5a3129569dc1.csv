@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Autoclave horizontal de mesa, elétrica, a vapor, com reserva",4428282,1,INABILITADO,UNI,5240,5240
+"Centrífuga analógica de bancada, 28 tubos",4428283,2,INABILITADO,UNI,21480,10740
+"Microscópio biológico binocular",4428284,1,DESCLASSIFICADO,UNI,3625,3625
+"Suporte de soro com rodízios",4428288,2,VENCEU,UNI,200,100
+"Serra Mathieu para amputação, tamanho: 33 cm em aço inoxidáv",4428289,2,VENCEU,UNI,630,315
+"Serra de Weiss, tamanho: 25cm,  em aço inoxidável",4428290,2,VENCEU,UNI,640,320
+"Pinça Lowmann 20 cm, grande para ossos, em aço inoxidável",4428292,2,PERDEU,UNI,774,387
+"Pinça anatômica dissecção 20 cm em aço inoxidável",4428293,2,PERDEU,UNI,36,18
+"Pinça anatômica  Dente de Rato, tamanho 20 cm, em aço inoxid",4428294,2,PERDEU,UNI,36,18
+"Tesoura Enterótomo, tamanho 21 cm, em aço inoxidável",4428295,2,PERDEU,UNI,190,95
+"Tesoura cirúrgica 17 cm reta fina/fina, aço inoxidável",4428296,2,PERDEU,UNI,52,26
+"Tesoura Mayo Stille 19cm curva, em aço inoxidável",4428297,2,VENCEU,UNI,74.4,37.2
+"Faca Esmarch para gesso 18 cm (Bisturi), em aço inoxidável",4428299,2,PERDEU,UNI,160,80
+"Formão  Stille duplo bisel 15 mm, para necropsia com ponta b",4428303,2,VENCEU,UNI,188,94
+"Estojo (caixa) em aço Inoxidável liso, com tampa, cantos arr",4428304,2,PERDEU,UNI,620,310

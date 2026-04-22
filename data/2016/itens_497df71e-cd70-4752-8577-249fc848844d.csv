@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâminas sem lapidação p/ microscópio",1259904,14,100,ATIVO,CAIXA,230,2.3
+"VDRL-latex c/ controle negativo e positivo",1259905,12,20000,ATIVO,TESTE,2000,0.1
+"Kit de Proteína C Reativa com  controle positivo e negativo",1259906,10,4500,ATIVO,TESTE,2700,0.6
+"Antiestreptolisina O .",1259907,8,1000,ATIVO,TESTE,900,0.9
+"Anti-D: frasco de 10ml",1259908,5,15,ATIVO,FRASCO,390,26
+"Anti-B: frasco de 10ml",1259909,4,8,ATIVO,FRASCO,112,14
+"Anti-A : frasco de 10ml",1259910,3,8,ATIVO,FRASCO,112,14
+"TUBO CAPILAR S/ HEPARINA",1259919,20,10,ATIVO,CXS,90,9
+"Pipeta de vidro graduada com volume de 05 ml",1259933,21,50,ATIVO,UNIDADE,80,1.6
+"Adaptador universal  que se adapte aos itens 1, 2, 16 e 17,",1259935,33,500,ATIVO,UNIDADE,45,0.09
+"Escova para lavar tubos 12 x 75",1259936,35,60,ATIVO,UNIDADE,108,1.8
+"BASTAO DE VIDRO",1259937,40,200,ATIVO,UNIDADE,360,1.8
+"Adesivo (bandagem) estéril.",1259945,25,60000,ATIVO,UNIDADE,1380,0.023

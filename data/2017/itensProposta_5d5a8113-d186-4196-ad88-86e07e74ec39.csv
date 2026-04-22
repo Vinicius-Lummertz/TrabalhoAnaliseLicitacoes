@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Saúde Fly",0,6,VENCEU," ",186400.98,31066.83
+"saúde Domiciliar",0,6,VENCEU," ",35795.82,5965.97
+"Serviços técnicos dos aplicativos",0,200,VENCEU," ",15558,77.79

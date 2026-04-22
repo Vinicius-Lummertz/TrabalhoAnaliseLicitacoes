@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assinatura mensal",0,240,VENCEU," ",1680,7
+"Tarifa-Zero Intragrupo",0,240,VENCEU," ",2400,10
+"Pacote de dados 3GB",0,240,VENCEU," ",11976,49.9
+"Chamadas VC 1 (intra-rede)",0,7800,VENCEU," ",1950,0.25
+"Chamadas VC 1 (operadora diferente)",0,7800,VENCEU," ",1950,0.25
+"Chamadas VC 1 (telefone fixo)",0,7800,VENCEU," ",1950,0.25
+"Chamadas VC 2 (intra-rede)",0,1200,VENCEU," ",300,0.25
+"Chamadas VC 2 (operadora diferente)",0,600,VENCEU," ",480,0.8
+"Chamadas VC 2 (telefone fixo)",0,600,VENCEU," ",300,0.5
+"Chamadas VC 3 (intra-rede)",0,600,VENCEU," ",150,0.25
+"Chamadas VC 3 (operadora diferente)",0,600,VENCEU," ",480,0.8
+"Chamadas VC 3 (telefone fixo)",0,600,VENCEU," ",300,0.5
+MENSAGEM,0,600,VENCEU," ",150,0.25

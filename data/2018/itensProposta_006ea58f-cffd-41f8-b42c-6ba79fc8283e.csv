@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,10,PERDEU," ",505,50.5
+"Switch de 08 portas 10/100",0,3,PERDEU," ",330,110
+"Switch de 16 portas 10/100",0,2,PERDEU," ",628,314
+"Switch de 24 portas 10/100/100",0,1,PERDEU," ",947,947
+"Patch Painel 24 portas CAT 05 E",0,4,PERDEU," ",724,181
+"Bucha 6",0,200,PERDEU," ",96,0.48
+"Rack 7 US 19",0,2,PERDEU," ",1386,693
+"Cabo UTP Lan CAT 5 E",0,1200,PERDEU," ",2760,2.3
+"Canaleta Sistema 20x10x2000 MM",0,70,PERDEU," ",476,6.8
+"Canaleta Sistema 50x20x2000 MM",0,40,PERDEU," ",580,14.5
+"Conector RJ 45 CAT 5 E",0,200,PERDEU," ",280,1.4
+"Etiqueta identificação ponto de rede",0,150,PERDEU," ",82.5,0.55
+"Fio Elétrico Flexivel 2,5mm",0,700,PERDEU," ",1400,2
+"Abraçadeira pct com 100 unidades",0,2,PERDEU," ",98,49
+"Fita Isolante rolo com 20m",0,6,PERDEU," ",61.8,10.3
+"Parafuso para bucha 6",0,200,PERDEU," ",80,0.4
+"Patch cord 2,5m CAT 5 E",0,35,PERDEU," ",542.5,15.5
+"Patch cord 1,5m CAT 5 E",0,35,PERDEU," ",460.25,13.15
+"Tomada 2P + terra NBR",0,60,PERDEU," ",729,12.15
+"Caixa sist. x3x3",0,85,PERDEU," ",552.5,6.5
+"Espelho sistema X2 Furos para RJ 45",0,25,PERDEU," ",130,5.2
+"Haste terra",0,2,PERDEU," ",58,29
+"Conectora haste terra",0,2,PERDEU," ",12.4,6.2
+"Fio telefônico few 100 (drope)",0,200,PERDEU," ",320,1.6
+"Conjunto de porca gaiola",0,16,PERDEU," ",32,2
+"Jack RJ 45 Keystone",0,80,PERDEU," ",1240,15.5
+"MAO DE OBRA",0,510,PERDEU," ",40290,79

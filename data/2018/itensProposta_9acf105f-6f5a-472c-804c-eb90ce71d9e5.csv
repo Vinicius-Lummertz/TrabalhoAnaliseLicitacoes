@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Reparo no Cilindro da Lança",0,2,VENCEU," ",347,173.5
+"Reparo no Cilindro da Guia",0,2,VENCEU," ",367,183.5
+"Lança Manual Nova",0,1,VENCEU," ",1027,1027
+"Reparo no Cilindro de Inclinação",0,1,VENCEU," ",217,217
+"Reparo no Cilindro de Elevação",0,1,VENCEU," ",247,247
+"BOMBA HIDRAULICA",0,1,VENCEU," ",1427,1427
+"OLEO HIDRAULICO.",0,4,VENCEU," ",591,147.75
+"Filtro Hidráulico.",0,1,VENCEU," ",107,107
+"Mangueira Hidráulica.",0,5,VENCEU," ",1877,375.4
+"Rolete Sapata",0,2,VENCEU," ",167,83.5
+"Serviços de manutenção e reforma",0,1,VENCEU," ",4823,4823

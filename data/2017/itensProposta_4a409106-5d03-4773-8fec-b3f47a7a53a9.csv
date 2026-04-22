@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abrigo de Ônibus Tipo I",4367041,27,NAO_COTOU,UND,0,0
+"Abrigo de Ônibus Tipo I",4367042,83,PERDEU,UND,166000,2000
+"Abrigo de Ônibus tipo II",4367043,7,NAO_COTOU,UND,0,0
+"Abrigo de Ônibus tipo II",4367044,23,PERDEU,UND,73600,3200

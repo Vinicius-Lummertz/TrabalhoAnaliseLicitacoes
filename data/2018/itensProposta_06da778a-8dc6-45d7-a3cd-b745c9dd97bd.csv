@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"LINK DE INTERNET PRINCIPAL COM FIREWALL E FILTRO WEB",0,12,VENCEU," ",41400,3450
+"Interligação do DC do Paço Municipal X Terminal do Pinheirin",0,12,VENCEU," ",4800,400
+"Interligação do DC do Paço Municipal X Terminal da Prospera",0,12,VENCEU," ",4800,400
+"Interligação do DC do Paço Municipal X Terminal Central",0,12,VENCEU," ",15000,1250
+"Interligação do DC do Paço Municipal X Sede da Diretoria de",0,12,VENCEU," ",15000,1250
+"Interligação do DC do Paço Municipal X Estação Rodoviária",0,12,VENCEU," ",15000,1250
+"LINK DE INTERNET REDUNDANTE",0,12,VENCEU," ",0,0

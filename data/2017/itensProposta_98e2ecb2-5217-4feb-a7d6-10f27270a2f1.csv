@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"tubo de concreto D200mm",4360647,1000,VENCEU,M,16000,16
+"tubo de concreto D300mm",4360648,1000,VENCEU,M,20000,20
+"tubo de concreto D400mm",4360649,1000,VENCEU,M,30000,30
+"tubo de concreto D500mm",4360650,100,VENCEU,M,4500,45
+"tubo de concreto D600mm",4360651,150,VENCEU,M,9750,65
+"tubo de concreto D: 800 mm CA1",4360652,20,VENCEU,M,3700,185
+"tubo de concreto D: 1000 mm CA1",4360653,20,VENCEU,M,4400,220
+"Isodreno em PVC D=100mm Perfurado",4360654,200,NAO_COTOU,M,0,0

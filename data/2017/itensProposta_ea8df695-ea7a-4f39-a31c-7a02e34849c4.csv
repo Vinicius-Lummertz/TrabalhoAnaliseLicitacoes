@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOLA DE BASQUETE",4368162,60,PERDEU,UND,1107,18.45
+"Bola de borracha",4368163,800,PERDEU,UND,5840,7.3
+"Bola de Futebol Oficial",4368164,150,PERDEU,UND,17460,116.4
+"Bola de Futsal Oficial",4368165,100,VENCEU,UND,3730,37.3
+"Bola de Voleibol Oficial",4368166,120,PERDEU,UND,10068,83.9

@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Embalagem plástica descartável:",1261142,12,100,ATIVO,UNIDADE,1475,14.75
+"Achocolatado líquido: Contendo como ingredientes: Leite reco",1261143,1,600,ATIVO,UNIDADE,990,1.65
+"Adoçante: Adoçante liquido a base de sacarina sódica e cicla",1261144,3,20,ATIVO,UNIDADE,50,2.5
+"Biscoito doce sem recheio-",1261145,5,60,ATIVO,PACOTE,186,3.1
+"Biscoito salgado integral-",1261146,6,30,ATIVO,Pacote,109.5,3.65
+"Biscoito salgado-",1261147,7,30,ATIVO,UNIDADE,81,2.7
+"Bombom recheado: Ingredientes: açúcar, gordura vegetal, fari",1261148,8,5,ATIVO,UNIDADE,133.8,26.76
+"CAFE EXTRA FORTE",1261149,9,264,ATIVO,kg,2294.16,8.69
+"Caixa de fósforos",1261150,10,12,ATIVO,UNIDADE,27.6,2.3
+"Açúcar Refinado-",1261151,2,100,ATIVO,kg,255,2.55
+"Filtro de papel para café",1261152,13,135,ATIVO,UNIDADE,337.5,2.5
+"Fita empacotamento",1261153,14,20,ATIVO,UNIDADE,56,2.8
+"Leite Integral UHT",1261154,15,25,ATIVO,CAIXA,69.5,2.78
+"Papel Kraft natural",1261155,16,12,ATIVO,UNIDADE,672,56
+"Suco de fruta líquido",1261156,17,600,ATIVO,UNIDADE,1170,1.95
+"Embalagem plástica descartável",1261157,11,50,ATIVO,UNIDADE,640,12.8

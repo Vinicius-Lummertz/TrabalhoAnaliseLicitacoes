@@ -1,0 +1,19 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acido Acetilsalicilico 100mg",1258351,3,3600000,ATIVO,COMPRIMIDO,63720,0.0177
+"Ácido Ascórbico 100mg/ mL solução injetável",1258352,4,1200,ATIVO,AMP,780.36,0.6503
+"Adesivos de nicotina 14mg",1258353,10,500,ATIVO,"adesivo transdérmico",2761.9,5.5238
+"Adesivos de nicotina 21mg",1258354,11,500,ATIVO,"adesivo transdérmico",2885.7,5.7714
+"Adesivos de nicotina 7mg",1258355,12,500,ATIVO,"adesivo transdérmico",2635.35,5.2707
+"benzilpenicilina procaína + benzilpenicilina potássica",1258356,41,2000,ATIVO,"Frasco ampola",5680,2.84
+"Carvão ativado 1kg",1258358,60,5,ATIVO,PAC,156.46,31.2925
+"Carvedilol 25 mg",1258359,62,3000,ATIVO,COMPRIMIDO,320.7,0.1069
+"Carvedilol 6,25 mg",1258360,63,1500,ATIVO,COMPRIMIDO,89.85,0.0599
+"Digoxina 0,25mg.",1258361,94,250000,ATIVO,COMPRIMIDO,8175,0.0327
+"Dopamina 50 mg/ 10 ml",1258362,101,500,ATIVO,AMP,347.5,0.695
+"Fenobarbital 100mg/mL 1ml",1258363,115,500,ATIVO,AMP,644.9,1.2898
+"Gluconato de cálcio 10% 10ml",1258364,130,200,ATIVO,AMP,244.9,1.2245
+"Lidocaina 2% + epinefrina  1:100.000",1258365,167,2000,ATIVO,AMP,2449,1.2245
+"Prilocaína, cloridrato 3%  + felipressina 0,03UI/mL 1,8ml (u",1258366,214,300,ATIVO,AMP,244.89,0.8163
+"Salbutamol 0,4mg/mL",1258367,223,400,ATIVO,AMP,838.08,2.0952
+"Carvedilol 12,5 mg",1258369,61,3000,ATIVO,COMPRIMIDO,262.5,0.0875
+"ATENOLOL 50MG",1328260,31,1500000,ATIVO,COMPRIMIDO,36000,0.024

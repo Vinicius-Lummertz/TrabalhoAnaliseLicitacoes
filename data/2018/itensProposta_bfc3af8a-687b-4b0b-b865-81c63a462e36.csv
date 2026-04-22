@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto com d = 200 mm",0,500,VENCEU," ",7050,14.1
+"Tubo de concreto com d = 300 mm",0,800,VENCEU," ",18400,23
+"Tubo de concreto com d = 400 mm",0,800,VENCEU," ",23440,29.3
+"Tubo de concreto com d = 400 mm perfurado",0,200,VENCEU," ",5800,29
+"Tubo de concreto com d = 500 mm",0,300,VENCEU," ",13950,46.5
+"Tubo de concreto com d = 600 mm",0,350,VENCEU," ",19775,56.5
+"Tubo de concreto com d = 800 mm",0,400,VENCEU," ",29000,72.5
+"Tubo de concreto com d = 1000 mm",0,300,VENCEU," ",26700,89
+"Isodreno em pvc d = 100 mm perfurado",0,300,VENCEU," ",4500,15

@@ -1,0 +1,52 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Exame parcial de urina",1259644,31,100,ATIVO,BLOCO,220,2.2
+"Ficha de Observação do Animal Agressor.",1259645,44,20,ATIVO,BLOCO,76,3.8
+"Ficha clínica odontológica -frente e verso",1259646,32,15,ATIVO,BLOCO,81.3,5.42
+"Ficha clínica Tuberculose",1259647,33,10,ATIVO,BLOCO,65,6.5
+"Ficha de acolhimento CAPS II- frente verso",1259648,36,40,ATIVO,BLOCO,96,2.4
+"Ficha de acolhimento CAPS III - frente e verso",1259649,37,40,ATIVO,BLOCO,96,2.4
+"Ficha de atendimento individual e-sus - frente e verso",1259650,38,360,ATIVO,BLOCO,630,1.75
+"Ficha de atendimento odontológico individual- frente e verso",1259651,39,240,ATIVO,BLOCO,420,1.75
+"Formulário para pedido judicial de medicamentos- Frente vers",1259652,50,50,ATIVO,BLOCO,110,2.2
+"PMA2-C Odonto",1259653,63,5,ATIVO,BLOCO,55,11
+"Monitoramento das doenças Diarreicas Agudas - distribuição d",1259654,57,40,ATIVO,BLOCO,95.2,2.38
+"Monitoramento das doenças Diarreicas, Agudas planilha de cas",1259655,58,40,ATIVO,BLOCO,95.2,2.38
+"Orientações CAPS III- frente e verso",1259656,59,40,ATIVO,BLOCO,95.2,2.38
+"Planilha de visitas domiciliares- CAPS II",1259657,61,10,ATIVO,BLOCO,65,6.5
+"Plano Terapêutico singular CAPS II ad- frente e verso",1259658,62,20,ATIVO,BLOCO,76,3.8
+"Programa de Combate a Tuberculose.",1259659,65,15,ATIVO,BLOCO,97.5,6.5
+"Programa de Planejamento Familiar - frente e verso",1259660,68,70,ATIVO,BLOCO,154,2.2
+"Proposta de tratamento CAPS II ad",1259661,70,10,ATIVO,BLOCO,65,6.5
+"Estudo sócio-econômica CAPS II ad-  1 via",1259662,28,10,ATIVO,BLOCO,65,6.5
+"Laudo Médico para emissão de BPA-I (anti - HCV)",1259663,51,10,ATIVO,BLOCO,65,6.5
+"Dados do atendimento do paciente- RAAS CAPS III",1259664,25,40,ATIVO,BLOCO,96,2.4
+"Cuidados para vasectomia- 23x16 cm 2 vias autocopiativo",1259666,23,70,ATIVO,BLOCO,300.3,4.29
+"Recibo produtos fornecidos judicialmente- Estado",1259675,78,30,ATIVO,BLOCO,81.3,2.71
+"Dados do atendimento do paciente- RAAS CAPS II",1259676,24,40,ATIVO,BLOCO,96,2.4
+"Bacteriologia da Tuberculose.",1259678,6,100,ATIVO,BLOCO,110,1.1
+"BOLETIM DE ATENDIMENTO MEDICO",1259679,7,50,ATIVO,BLOCO,109,2.18
+"Boletim de procedimento odontológico BPA - consolidado",1259680,9,20,ATIVO,BLOCO,88,4.4
+"Boletim de Reconhecimento Geográfico (Dengue)",1259681,10,100,ATIVO,BLOCO,200,2
+"Boletim diário de odontologia na ESF- BDO- frente e verso",1259682,12,25,ATIVO,BLOCO,95,3.8
+"Comprovante de Reuniões Educativas",1259683,18,50,ATIVO,BLOCO,108.5,2.17
+"Condensado mensal de atividade educativa odontológica",1259684,19,10,ATIVO,BLOCO,65,6.5
+"Condição Sócio Econômica- CAPS II",1259685,20,10,ATIVO,BLOCO,65,6.5
+"Controle de TDO",1259686,22,100,ATIVO,BLOCO,195,1.95
+"Recibo produtos fornecidos judicialmente- Municipio",1259688,79,30,ATIVO,BLOCO,81.3,2.71
+"Prescrição de Óculos",1259689,64,100,ATIVO,BLOCO,130,1.3
+"Registro diário do serviço antivetorial (frente e verso)",1259690,81,50,ATIVO,BLOCO,110,2.2
+"Registro de falta de paciente a atendimento odontológico - F",1259694,80,10,ATIVO,BLOCO,65,6.5
+"Requerimento judicial medicamentos e insumos",1259729,83,50,ATIVO,BLOCO,110,2.2
+"SINAN - Acidente de trabalho grave- frente e verso",1259730,91,20,ATIVO,BLOCO,76,3.8
+"SINAN - Acidentes por animais peçonhentos - frente e verso",1259731,92,10,ATIVO,BLOCO,65,6.5
+"SINAN - Intoxicação exógena - frente e verso",1259732,93,30,ATIVO,BLOCO,81.3,2.71
+"SINAN- Atendimento Anti-Rábico Humano - frente e verso",1259733,94,40,ATIVO,BLOCO,96,2.4
+"SINAN- Doenças exantemáticas febris",1259734,95,10,ATIVO,BLOCO,65,6.5
+"SINAN- Ficha de investigação da dengue",1259735,96,10,ATIVO,BLOCO,65,6.5
+"SINAN -Ficha de Notificação/ Conclusão",1259736,97,20,ATIVO,BLOCO,76,3.8
+"SINAN- Síndrome Respiratória Aguda grave",1259737,98,20,ATIVO,BLOCO,76,3.8
+"SINAN-Ficha de notificação/ investigação Tuberculose",1259738,101,10,ATIVO,BLOCO,65,6.5
+"Termo de compromisso - CAPS III",1259740,107,20,ATIVO,BLOCO,34.6,1.73
+"Termo de responsabilidade - CAPS III",1259741,108,20,ATIVO,BLOCO,76,3.8
+"Urgência odontológica",1259742,111,50,ATIVO,BLOCO,110,2.2
+"Solicitação de Eletrocardiograma",1259745,106,300,ATIVO,BLOCO,519,1.73

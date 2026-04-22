@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acoplamento da bomba hidráulica",0,1,VENCEU," ",2496,2496
+"Coletor de escape descarga",0,1,VENCEU," ",1267.2,1267.2
+"Coxim motor",0,4,VENCEU," ",576,144
+"Dente da escavadeira",0,5,VENCEU," ",1104,220.8
+"embuchamento completo",0,1,VENCEU," ",20908,20908
+"filtro do ar condicionado duplo",0,1,VENCEU," ",115.2,115.2
+"filtro do ar condicionado",0,1,VENCEU," ",177.6,177.6
+"FILTRO DE AR PRIMARIO",0,1,VENCEU," ",307.2,307.2
+"Filtro de ar secundário",0,1,VENCEU," ",220.8,220.8
+"FilTRO DO DIESEL",0,1,VENCEU," ",168,168
+"FILTRO HIDRAULICO",0,2,VENCEU," ",940.8,470.4
+"FILTRO LUBRIFICANTE",0,1,VENCEU," ",115.2,115.2
+"FILTRO SEDIMENTADOR",0,1,VENCEU," ",92.16,92.16
+"Jg de pistão, tambor e vedações do motor",0,1,VENCEU," ",6988.8,6988.8
+"Junta coletora de escape",0,1,VENCEU," ",220.8,220.8
+"Junta silenciosa",0,1,VENCEU," ",44.16,44.16
+"JUNTA DA TURBINA",0,1,VENCEU," ",36.48,36.48
+"Kit borrachas de vidro",0,1,VENCEU," ",336,336
+"kit discos de freio",0,1,VENCEU," ",3148.8,3148.8
+"REPARO CAÇAMBA",0,1,VENCEU," ",940.8,940.8
+"Reparo levante",0,2,VENCEU," ",1516.8,758.4
+"Reparo da tampa e embolo",0,1,VENCEU," ",1180.8,1180.8
+"Reparo de vedação",0,1,VENCEU," ",1238.4,1238.4
+"Respiro do tanque hidráulico",0,1,VENCEU," ",105.6,105.6
+SILENCIADOR,0,1,VENCEU," ",3148.8,3148.8
+"Suporte do dente da escavadeira",0,5,VENCEU," ",1872,374.4
+"Trava dente",0,5,VENCEU," ",153.6,30.72
+"Vedação do freio",0,1,VENCEU," ",2544,2544
+"Vidro da cabine menor",0,1,VENCEU," ",1152,1152
+"Sv de chapeação geral",0,1,VENCEU," ",2208,2208
+"Sv de pintura geral",0,1,VENCEU," ",8160,8160
+"Sv de reparos geral (motor e bomba)",0,1,VENCEU," ",10512,10512
+"Sv reforma geral da caçamba com solda",0,1,VENCEU," ",6048,6048

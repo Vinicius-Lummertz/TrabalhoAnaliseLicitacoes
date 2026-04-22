@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biperideno, cloridrato 5mg/mL 1ml",4430257,500,VENCEU,AMP,850,1.7
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml",4430258,100,VENCEU,FR.,2126,21.26
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml",4430259,200,VENCEU,FR.,3906,19.53
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml",4430260,200,VENCEU,FR.,3690,18.45
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml",4430261,100,VENCEU,FR.,2113,21.13
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica 5ml",4430264,200,VENCEU,FR.,1418,7.09
+"Morfina 30 mg",4430283,1500,VENCEU,COMP,1429.5,0.953
+"Nitroglicerina 5mg/ml",4430284,20,VENCEU,AMP,512,25.6
+"Prednisona 20mg",4430286,100000,VENCEU,COMP,23400,0.234
+"Prednisona 20mg",4430287,300000,VENCEU,COMP,70200,0.234
+"Prednisona 5mg",4430288,220000,VENCEU,COMP,31020,0.141

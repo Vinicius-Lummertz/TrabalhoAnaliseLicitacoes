@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviços de ENCANADOR",0,200,VENCEU," ",5778,28.89
+"SERVIÇOS DE PEDREIRO",0,500,VENCEU," ",12640,25.28
+"Serviços de AUXILIAR DE PEDREIRO",0,500,VENCEU," ",9030,18.06
+"Serviço de CARPINTARIA",0,200,VENCEU," ",5778,28.89
+"Serviços de PINTURA",0,200,VENCEU," ",5778,28.89
+"Serviços de ELETRECISTA",0,200,VENCEU," ",6500,32.5

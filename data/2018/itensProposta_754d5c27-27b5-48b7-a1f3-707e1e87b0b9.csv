@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de serralheiro/soldador (mão de obra) sem deslocamen",0,50,VENCEU," ",5000,100
+"Serviço de serralheiro/soldador (mão de obra) com deslocamen",0,50,VENCEU," ",7500,150
+"Fabricação e instalação (material + mão de obra) de grade me",0,20,VENCEU," ",5000,250
+"Fabricação e instalação (material + mão de obra) de corrimão",0,20,VENCEU," ",4000,200
+"Fabricação e instalação (material + mão de obra) de cerca me",0,50,VENCEU," ",15000,300
+"Fabricação e instalação (material + mão de obra) de portão d",0,20,VENCEU," ",7000,350
+"Fabricação e instalação (material + mão de obra) de porta me",0,40,VENCEU," ",14000,350

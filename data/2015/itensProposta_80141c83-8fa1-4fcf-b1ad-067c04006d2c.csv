@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Portal de entrada - Etnias",0,7,DESCLASSIFICADO," ",2800,400
+"Balcões Frontais - Etnias",0,92,DESCLASSIFICADO," ",7360,80
+"Divisórias 01",0,240,DESCLASSIFICADO," ",3840,16
+"Divisórias 02",0,80,DESCLASSIFICADO," ",36000,450
+"Mobiliário: mesas plásticas",0,1000,DESCLASSIFICADO," ",4800,4.8
+"Mobiliário:cadeiras plásticas",0,4000,DESCLASSIFICADO," ",9600,2.4
+"Piso entrada/divisória: Tablado de madeira",0,56,DESCLASSIFICADO," ",957.6,17.1
+"Piso entrada/divisória: divisórias montadas com perfis de al",0,20,DESCLASSIFICADO," ",640,32
+"Camarins: camarins medindo 5x5m (25m²)",0,2,DESCLASSIFICADO," ",1280,640
+"Camarins: camarins medindo 3x5m (15m²)",0,1,DESCLASSIFICADO," ",960,960
+"Palco 01: Palco medindo 12x10m",0,1,DESCLASSIFICADO," ",13440,13440
+"Palco 02: Palco medindo 15x12m",0,1,DESCLASSIFICADO," ",9600,9600
+"Locação de barricadas de proteção de palco",0,300,DESCLASSIFICADO," ",14400,48
+Camarotes,0,5,DESCLASSIFICADO," ",2400,480
+Piso,0,1100,DESCLASSIFICADO," ",1012,0.92
+"Locação de bancadas",0,35,DESCLASSIFICADO," ",2800,80
+"Locação de armários",0,30,DESCLASSIFICADO," ",2760,92

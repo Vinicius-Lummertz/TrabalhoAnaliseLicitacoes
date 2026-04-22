@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Salbutamol 100 mcg aerossol oral com 200 doses 10ml",1258475,225,500,ATIVO,FRASCO,1845,3.69
+"RANITIDINA 50mg/2mL",1258476,219,6000,ATIVO,AMP,2994,0.499
+"Hidrocortisona 500mg",1258477,140,5000,ATIVO,"Frasco ampola",27950,5.59
+"Doxazosina 2 mg",1258478,102,30000,ATIVO,COMPRIMIDO,2070,0.069
+"Dipirona 500mg/ml 2ml",1258479,99,18000,ATIVO,AMP,7902,0.439
+"Clomipramina 25 mg",1258480,72,1000,ATIVO,COMPRIMIDO,597,0.597
+"ACIDO VALPROICO 250 MG",1258481,6,200000,ATIVO,CAPSULA,31600,0.158

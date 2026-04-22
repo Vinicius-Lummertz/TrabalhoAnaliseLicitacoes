@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Controlador Eletrônico 10/10 fases",0,6,PERDEU," ",50388,8398
+"Bolacha de LED Vermelha",0,25,PERDEU," ",5200,208
+"Bolacha de LED Verde",0,20,PERDEU," ",4160,208
+"Bolacha de LED Amarela",0,20,PERDEU," ",4160,208
+"Bolacha de LED com temporizador Vermelha",0,10,PERDEU," ",3190,319
+"Bolacha de LED com termporizador Verde",0,10,PERDEU," ",3190,319
+"Placa PCS",0,15,PERDEU," ",5955,397
+"Cabo para comunicação PCS e semáforo Temporizado",0,10,PERDEU," ",240,24

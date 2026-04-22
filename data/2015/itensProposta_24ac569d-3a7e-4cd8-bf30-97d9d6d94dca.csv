@@ -1,0 +1,41 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Refrigerador facilite frost free",0,1,VENCEU," ",1299,1299
+"COLHER ARROZ INOX",0,1,VENCEU," ",15,15
+"COLHER BAMBO",0,1,VENCEU," ",15,15
+"CADEIRA ATLÂNTIDA",0,4,VENCEU," ",196,49
+"Mesa retangular camboriu branca",0,1,VENCEU," ",207,207
+"Mangueira trancada 3/8",0,3,VENCEU," ",11.7,3.9
+"Regulador gas 506/01",0,1,VENCEU," ",27.5,27.5
+"Garrafa termica pressao 1.0L",0,10,VENCEU," ",530,53
+"Garrafa termica pressao 1.9L",0,20,VENCEU," ",1260,63
+"Garrafa termica GT inox 1.0L",0,1,VENCEU," ",79,79
+"Abracadeira aco carbono 3/4",0,2,VENCEU," ",1.66,0.83
+"Fogao IND. 4bocas s/ forno",0,1,VENCEU," ",770,770
+"FORNO MICROONDAS",0,1,VENCEU," ",430,430
+"Panelao de alum.fund 38X27 26L",0,1,VENCEU," ",225,225
+"Bule hotel 5 LT",0,1,VENCEU," ",75,75
+"Mesa capri pisani",0,26,VENCEU," ",7020,270
+Poltrona,0,108,VENCEU," ",4093.2,37.9
+"Pia inox aco 430 simples - 1.20M",0,1,VENCEU," ",115,115
+"Balcao pia cozinha 1,20 - branco",0,1,VENCEU," ",350.02,350.02
+"Assento sanitario plastico - branco",0,13,VENCEU," ",188.5,14.5
+"kit reparo completo valvula - 1.1/2",0,11,VENCEU," ",291.5,26.5
+"Porta demi-oca itauba 0.80x2.10m",0,7,VENCEU," ",812,116
+"Fechadura 803/21 inox",0,7,VENCEU," ",350,50
+"Bacia p/ cx acoplada diamantina",0,5,VENCEU," ",800,160
+"Anel cera bacia sanitaria",0,5,VENCEU," ",52.5,10.5
+"Parafuso WC cromado 10MM(par)",0,5,VENCEU," ",31.5,6.3
+"Cartucho silicone 300G",0,6,VENCEU," ",129,21.5
+"Tinta extra galao - branco",0,7,VENCEU," ",548.1,78.3
+"Solvente raz galao 5L",0,2,VENCEU," ",104,52
+"Dobradiça inox 3.1/2",0,5,VENCEU," ",174.5,34.9
+"Caixa dagua poliet 1000L",0,2,VENCEU," ",630,315
+"Flange cx dagua - 50X1.1/2",0,2,VENCEU," ",39.8,19.9
+"Tubo pvc agua 25MM",0,12,VENCEU," ",147.6,12.3
+"Tubo pvc esgoto 100MM",0,8,VENCEU," ",344,43
+"Joelho 90 graus 100 esgoto",0,3,VENCEU," ",16.8,5.6
+"Joelho 90 graus soldavel 25",0,10,VENCEU," ",5.5,0.55
+"Adesivo pvc frasco 175G",0,2,VENCEU," ",18.6,9.3
+"Luva simples 100 esgoto",0,1,VENCEU," ",5,5
+"Torneira lavatorio - alta",0,5,VENCEU," ",209.5,41.9
+"Lixa amarela 12.5X100",0,4,VENCEU," ",11.52,2.88

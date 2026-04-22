@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha em MDF",4427150,13,INABILITADO,UNI,2262,174
+"Balcão em MDF acoplado às bancadas de inox.",4427151,7,PERDEU,UN,2135,305
+"Bancada estrutura em madeira MDF",4427152,2,PERDEU,UN,1000,500
+"Cadeira giratória tipo executiva.",4427153,16,VENCEU,UNI,2320,145
+"CADEIRA ESTOFADA",4427154,43,VENCEU,UN,2317.7,53.9
+Poltrona,4427155,15,PERDEU,UND,3045,203
+"Armário aberto 1,00 x 0,30 x 2,00m",4427156,2,VENCEU,UN,568,284
+"Armário aberto 1,60 x 0,37 x 2,00m",4427157,3,VENCEU,UN,1020,340
+"Painel liso",4427158,2,VENCEU,UN,696,348
+"Quadro de avisos",4427159,3,VENCEU,UNI,615,205
+"Armário arquivo.",4427160,15,VENCEU,UN,4755,317
+"Armário com 2 portas",4427161,15,VENCEU,UN,4125,275
+"Armário tipo Vestiário .",4427162,2,INABILITADO,UN,1300,650
+"Balcão atendimento.",4427163,2,DESCLASSIFICADO,UN,7800,3900
+GAVETEIRO,4427164,6,PERDEU,UND,1080,180
+"MESA SIMPLES",4427165,1,DESCLASSIFICADO,UND,666.4,666.4
+"Suporte para CPU com rodízios.",4427166,5,DESCLASSIFICADO,UN,450,90
+"Mesa reunião oval",4427167,1,VENCEU,UN,320,320
+"Armário com 2 portas",4427168,1,VENCEU,UN,394,394
+"APARELHO MICROONDAS",4427255,1,PERDEU,UNI,349,349
+"Fogão 4 bocas",4427256,1,DESCLASSIFICADO,UN,729,729
+"APARELHO DVD",4427257,1,PERDEU,UNI,149,149
+"Refrigerador tipo doméstico 1 porta.",4427258,1,PERDEU,UN,1190,1190
+"Refrigerador tipo doméstico 2 portas",4427259,2,PERDEU,UN,3180,1590
+"Televisor colorido 40 polegadas",4427260,1,PERDEU,UN,1790,1790
+"Bebedouro elétrico de coluna",4427261,2,DESCLASSIFICADO,UN,1180,590

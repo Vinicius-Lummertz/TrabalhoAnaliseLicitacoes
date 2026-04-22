@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",1259706,1,12000,ATIVO,UNIDADE,240,0.02
+"Boletim de atendimento médico 24hs",1259708,8,150,ATIVO,BLOCO,447,2.98
+"Etique laboratório Dengue (picotado)",1259709,29,10,ATIVO,BLOCO,85,8.5
+"Ficha Controle de Atendimento frente e verso - papel offset",1259710,34,5000,ATIVO,UNIDADE,175,0.035
+"Ficha de acolhimento CAPS II ad 4 páginas",1259711,35,40,ATIVO,BLOCO,162,4.05
+"Ficha nominal- Programa Tuberculose- (papel offset 180gr)",1259712,48,500,ATIVO,UNIDADE,80,0.16
+"Marcadores sorológicos - Hepatite A e B",1259713,55,10,ATIVO,BLOCO,64.7,6.47
+"Programa de controle da dengue- ficha de visita (papel offse",1259714,66,500,ATIVO,UNIDADE,80,0.16
+"Programa de controle da febre amarela dengue- ficha de visit",1259715,67,2000,ATIVO,UNIDADE,98,0.049
+"Receituário B2- cor azul",1259716,72,3000,ATIVO,BLOCO,1197,0.399
+"Receituário retinóide - 21,5x8cm cor branca",1259717,76,100,ATIVO,BLOCO,98,0.98
+"Requisição de clínica de RX- Cabeçario cor azul",1259718,84,600,ATIVO,BLOCO,1494,2.49
+"Requisição de ultrassonografia- Cabeçario cor lilás",1259719,86,300,ATIVO,BLOCO,957,3.19
+"Requisição para fisioterapia -Cabeçario cor vermelha",1259720,90,150,ATIVO,BLOCO,478.5,3.19
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",1259721,99,5,ATIVO,BLOCO,72.5,14.5
+"SINAN-Ficha de investigação Hepatites Virais- frente e verso",1259722,100,10,ATIVO,BLOCO,85,8.5
+"Termo de solicitação e informação 2 vias autocopiativo",1259723,109,70,ATIVO,BLOCO,240.1,3.43
+"Tratamento cirúrgico - orientações após extração- papel offs",1259724,110,5000,ATIVO,UNIDADE,200,0.04
+"Cartão de TFD-  papel offset 180gr",1259725,17,32000,ATIVO,UNIDADE,544,0.017

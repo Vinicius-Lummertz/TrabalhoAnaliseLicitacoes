@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aspirador Frazier 3,0mm nasal",4430110,10,DESCLASSIFICADO,UNI,503,50.3
+"Cabo de bisturi n°. 3, para lâminas 10,11,12,15",4430115,150,PERDEU,UNI,1087.5,7.25
+"Cabo de bisturi n°. 4, para lâminas 20,21,22,23,24",4430116,80,PERDEU,UNI,592,7.4
+"Comadre em Aço Inoxidável",4430117,15,VENCEU,UNI,1440,96
+"Cuba bacia hospitalar redonda",4430118,125,VENCEU,UNI,1218.75,9.75
+"Cuba rim inox capacidade 700ml",4430119,150,VENCEU,UNI,3465,23.1
+"Espéculo  Nasal Hartmann Nº 2",4430122,10,PERDEU,UNI,701.6,70.16
+"Estojo com tampa, fabricado em aço inoxidável AISI-420, liso",4430123,5,VENCEU,UNI,800,160
+"Papagaio em Aço Inoxidável",4430124,15,VENCEU,UNI,945,63
+"PINCA ADSON COM DENTE",4430125,120,PERDEU,UN,1303.2,10.86
+"Pinça Adson com serrilha",4430126,120,PERDEU,UNI,1239.6,10.33
+"Pinça Anatômica dente de rato",4430127,100,PERDEU,UNI,1033,10.33
+"Pinça Anatômica Dissecção com Serrilha",4430128,300,PERDEU,UNI,2781,9.27
+"PINCA CHERON 25 CM",4430129,10,PERDEU,UN,447.5,44.75
+"Pinça Crile curva hemostática",4430130,200,DESCLASSIFICADO,UN,4290,21.45
+"Pinça Crile Reta hemostática",4430131,200,DESCLASSIFICADO,UNI,4290,21.45
+"Pinça de kocher reta com dente (hemostática)",4430133,300,PERDEU,UNI,8580,28.6
+"Pinça Halstead Mosquito (hemostática) curva",4430134,85,PERDEU,UNI,2431,28.6
+"Pinça Hartmann para corpo estranho com serrilha",4430137,15,PERDEU,UNI,1747.5,116.5
+"Pinça Hemostática Baby-Mixter curva",4430138,50,PERDEU,UNI,2356.5,47.13
+"Pinça Kelly Curva (Hemostática). 14 CM",4430141,200,PERDEU,UNI,4290,21.45
+"Pinça Kelly reta (Hemostática) com serrilha 14 CM",4430143,200,PERDEU,UNI,4290,21.45
+"Pinça Tentacânula 15 CM",4430144,125,DESCLASSIFICADO,UNI,795,6.36
+"Porta Agulha Mayo Hegar com Vídea",4430151,30,DESCLASSIFICADO,UNI,5485.8,182.86
+"Porta Agulha Mayo-Hegar",4430152,100,DESCLASSIFICADO,UNI,1990,19.9
+"Porta Agulha Mayo-Hegar",4430153,3,DESCLASSIFICADO,UNI,221.67,73.89
+"Tesoura cirúrgica standard reta romba/romba",4430154,200,DESCLASSIFICADO,UNI,3684,18.42
+"Tesoura Iris fina/fina reta",4430155,65,DESCLASSIFICADO,UNI,998.4,15.36
+"Tesoura mayo stille curva",4430156,150,PERDEU,UNI,3894,25.96
+"Tesoura mayo stille reta",4430157,150,PERDEU,UNI,3894,25.96
+"Tesoura Metzembaum curva",4430158,65,DESCLASSIFICADO,UNI,1841.45,28.33
+"Tesoura Spencer",4430159,120,VENCEU,UNI,2295.6,19.13

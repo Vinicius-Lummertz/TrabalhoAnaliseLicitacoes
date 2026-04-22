@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de impressão PB Tamanho A4 210X297 mm/ 75g/m² branco",1284692,1,30000,ATIVO,UNIDADE,4800,0.16
+"Serviço de impressão color Tamanho A4 210X297 mm/ 75g/m² bra",1284693,2,2000,ATIVO,UNIDADE,2500,1.25
+"Serviço de impressão color frente e verso papel colche A4 21",1284694,3,1000,ATIVO,UNIDADE,4490,4.49
+"Serviço de encadernação plástica com espiral de 50 a 500 fol",1284695,4,335,ATIVO,UNIDADE,934.65,2.79

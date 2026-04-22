@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"VERMIFUGO CAES",1261107,4,200,ATIVO,COMPRIMIDO,520,2.6
+Acepromazina.,1261120,1,2,ATIVO,FRASCO,57,28.5
+"vermifugo gatos",1261125,5,20,ATIVO,COMPRIMIDO,52,2.6
+"Cloridrato de xilazina 2%",1261126,7,10,ATIVO,FRASCO,160,16
+"Ivermectina injetavel frasco 50ml",1261127,13,5,ATIVO,FRASCO,80,16
+"Ocitocina sintética injetável",1261129,16,1,ATIVO,FRASCO,15.5,15.5
+"Probióticopara cães e gatos",1261130,17,2,ATIVO,SERINGA,56,28
+"Solução para limpeza auricular de cães e gatos",1261131,19,2,ATIVO,FRASCO,114,57
+Meloxicam,1261132,14,10,ATIVO,FRASCO,682,68.2
+"Vacina Anti-rábica para cães e gatos",1261139,21,200,ATIVO,FRASCO,1740,8.7

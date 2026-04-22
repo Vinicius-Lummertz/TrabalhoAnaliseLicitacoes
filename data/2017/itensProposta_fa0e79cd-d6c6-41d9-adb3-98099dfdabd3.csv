@@ -1,0 +1,38 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão de obra para manutenção de equipamentos",0,50,VENCEU," ",3165,63.3
+"Carga de gás R-12/R-134 para geladeira e freezer",0,12,VENCEU," ",2279.4,189.95
+"Capacitor para geladeira e freezer",0,17,VENCEU," ",624.75,36.75
+"Damper controle",0,18,VENCEU," ",680.22,37.79
+"KIT SENSOR",0,15,VENCEU," ",744,49.6
+"Lâmpada para geladeira/freezer",0,15,VENCEU," ",201,13.4
+"Motores (compressor)",0,5,VENCEU," ",1869.65,373.93
+"Módulos para geladeira e freezer",0,8,VENCEU," ",756.08,94.51
+"Resistência 220V",0,12,VENCEU," ",750,62.5
+"Borracha porta geladeira e freezer",0,15,VENCEU," ",1087.5,72.5
+"Micro motor para geladeira e freezer",0,10,VENCEU," ",805.1,80.51
+"Rede de sensor",0,14,VENCEU," ",567,40.5
+TERMOSTATO,0,15,VENCEU," ",847.5,56.5
+"Mão de obra para manutenção de equipamentos",0,69,VENCEU," ",4795.5,69.5
+"Termostato para forno elétrico",0,6,VENCEU," ",444,74
+"Bicos injetores",0,16,VENCEU," ",44,2.75
+"Abraçadeira BD 2 1/2",0,20,VENCEU," ",30,1.5
+"Cotovelo latão MF 1/2 para fogão",0,12,VENCEU," ",96,8
+"Cachimbo longo para fogão",0,5,VENCEU," ",275,55
+"Cachimbo curto para fogão",0,5,VENCEU," ",257.5,51.5
+"Espalhador pequeno para fogão",0,10,VENCEU," ",245,24.5
+"Espalhador Grande para fogão",0,10,VENCEU," ",310,31
+"Mangueira malha de aço 1,50mts para fogão industrial",0,8,VENCEU," ",420,52.5
+"Mangueira ponta borracha P13 para fogão industrial",0,10,VENCEU," ",495,49.5
+"Mangueira ponta rosca P45",0,10,VENCEU," ",465,46.5
+"Nipel de redução 1/2 x 3/8, para fogão",0,20,VENCEU," ",150,7.5
+"Nipel de redução 1 x 1/2, para fogão industrial",0,15,VENCEU," ",112.5,7.5
+"Registro torneira para fogão industrial",0,20,VENCEU," ",580,29
+"Registro de alta pressão para fogão industrial",0,15,VENCEU," ",1035,69
+"Regulador P13 para fogão industrial",0,15,VENCEU," ",675,45
+"Regulador para Gás P45 RP21",0,10,VENCEU," ",515,51.5
+"Regulador RP 21 para fogão industrial",0,8,VENCEU," ",704,88
+"Regulador de baixa pressão para fogão industrial",0,10,VENCEU," ",680,68
+"Luva de redução 1/2 x 3/8, para fogão industrial",0,12,VENCEU," ",90,7.5
+"Luva 1/2 x 1/2 para fogão industrial",0,12,VENCEU," ",90,7.5
+"Bico injetor para fogão",0,15,VENCEU," ",39,2.6
+"Braçadeira 1/2 para fogão industrial",0,20,VENCEU," ",29,1.45

@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Autoclave 21L",4434970,10,DESCLASSIFICADO,UN,49885.8,4988.58
+"Mini incubadora biológica",4435005,10,DESCLASSIFICADO,UN,1860,186
+"Tesoura cirúrgica Iris",4435032,80,VENCEU,UN,1279.2,15.99
+"Tesoura cirúrgica Mayo reta",4435033,20,VENCEU,UNI,540.2,27.01
+"Abaixador de lingua descartável",4435039,20,INABILITADO,PCT,62.6,3.13
+"Álcool 70% - Litro.",4435043,1600,PERDEU,L,6960,4.35
+"Álcool 96% - Litro.",4435044,25,PERDEU,L,130.5,5.22
+"Compressas de Gaze Hidrófila, 100% Algodão 7,5 x 7,5, com 9(",4435112,1800,VENCEU,PCT,31266,17.37
+"Detergente multienzimático;",4435133,250,CANCELADO,GAL,19202.5,76.81
+"Escova dental adulto macia",4435140,50,CANCELADO,PCT,33,0.66
+"ESCOVA DENTAL INFANTIL",4435141,40,CANCELADO,PCT,23.2,0.58
+"Gorros descartáveis tipo touca com elástico",4435173,350,VENCEU,PCT,2233,6.38
+"HASTE FLEXÍVEL EM ALGODÃO",4435175,150,VENCEU,CX,300,2
+"Indicador Biológico",4435180,500,PERDEU,CX,15950,31.9
+"Lâmina de bisturi nº 12, em aço inox. caixa com 100 un",4435187,10,DESCLASSIFICADO,CX,278.4,27.84
+"Lâmina de bisturi nº 15, em aço inox.caixa com 100 und",4435188,20,DESCLASSIFICADO,CX,556.8,27.84
+"LUVA DE LÁTEX - TAMANHO PP. Caixa com 100 unidades",4435209,1000,DESCLASSIFICADO,CX,17700,17.7
+"Luva de Látex tamanho P. Caixa c/ 100 unidades",4435210,1300,VENCEU,CX,23010,17.7
+"Luva de Látex tamanho M. Caixa c/ 100 unidades",4435211,600,DESCLASSIFICADO,CX,10620,17.7
+"Luvas Látex, tamanho G. Caixa com 100 unidades",4435212,50,DESCLASSIFICADO,CX,885,17.7
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",4435215,1500,VENCEU,PCT,1485,0.99
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",4435216,1650,VENCEU,PCT,1633.5,0.99
+"MÁSCARA FACIAL DESCARTÁVEL",4435220,1000,PERDEU,CX,5330,5.33
+"Máscara cirúrgica facial N95",4435221,80,VENCEU,CX,3888,48.6
+"Papel Crepado em folhas 40 x 40 cm gramatura 60g/m².",4435228,20,DESCLASSIFICADO,CX,1645.8,82.29
+"Papel grau cirúrgico; medindo 10 cm x 100m",4435231,230,VENCEU,BO,8158.1,35.47
+"Papel grau cirúrgico; medindo 25 cm x 100 m",4435232,300,DESCLASSIFICADO,BO,26070,86.9
+"SERINGA DESCARTAVEL 10 ML",4435261,20,VENCEU,UN,531.8,26.59
+"Coletor de material perfuro cortante",4435289,60,DESCLASSIFICADO,CX,1239.6,20.66
+"Pinça Hemostática kelly curva com 14cm",4435293,10,VENCEU,UN,223.3,22.33
+"Pinça Mosquito 12cm",4435294,10,VENCEU,UN,195.7,19.57
+"Pinça Hemostática kelly curva com 16cm",4435297,10,VENCEU,UN,264.6,26.46

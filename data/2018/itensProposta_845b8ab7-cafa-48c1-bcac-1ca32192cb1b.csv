@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amplificador de potência com 1000 whats rms em 2 ohms por ca",0,1,PERDEU," ",1810.6,1810.6003
+"Caixa de som passiva de 250 whats rms",0,3,PERDEU," ",3289.88,1096.6265
+"Caixa de som passiva de 200 whats rms",0,6,PERDEU," ",5403.8,900.6337
+"Caixa de sub grave ativa de 600 whats",0,1,PERDEU," ",2911.89,2911.8933
+"Mesa de som 12 canal",0,1,PERDEU," ",1763.94,1763.9354
+"Sistema de microfone sem fio",0,1,PERDEU," ",1371.95,1371.9497
+"Microfone dinamico cardioide",0,2,PERDEU," ",503.98,251.9908
+"Rack de instalação de equipamentos",0,1,PERDEU," ",298.66,298.6557
+"Filtro de linha de 25 amperes",0,1,PERDEU," ",415.32,415.3181
+"Painéis Montagens de AC",0,3,PERDEU," ",419.98,139.9949
+"Projetor de video de 2500 anci lumins",0,1,PERDEU," ",2005.92,2005.92
+"Sistema Home theater 7.1 (receiver)",0,1,PERDEU," ",4320.46,4320.4589
+"Sistema Blu ray",0,1,PERDEU," ",601.78,601.7782
+"Tela para projeção 120 (2,43x1,82) de video",0,1,PERDEU," ",1141.84,1141.8356
+"Mesa de luz dmx 1024 canais",0,1,VENCEU," ",2865.52,2865.5227
+"PLACA de led 200w",0,12,VENCEU," ",4818.6,401.5502
+"Par 64 de led 15w",0,12,VENCEU," ",4599.86,383.3214
+"Set light slim 54 de led 3w",0,6,VENCEU," ",1206.52,201.0868
+"Filtro de linha de 25 amperes",0,1,VENCEU," ",335.57,335.5678
+"Paineis de montagens de AC",0,2,VENCEU," ",263.93,131.9649

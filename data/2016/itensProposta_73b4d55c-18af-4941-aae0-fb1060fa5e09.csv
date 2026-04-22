@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefone com fio",0,10,PERDEU," ",570,57
+"Aparelho telefone sem fio",0,10,PERDEU," ",1000,100
+"ARQUIVO MORTO GRANDE DE PAPELAO",0,1000,PERDEU," ",2500,2.5
+"Bobina termica 57 MM",0,500,PERDEU," ",1450,2.9
+"Caneta esferográfica - cor azul",0,300,PERDEU," ",600,2
+"Caneta esferográfica - cor vermelha",0,150,PERDEU," ",300,2
+"CANETA MARCA TEXTO",0,200,PERDEU," ",660,3.3
+"cartucho HP 21 preto similar",0,50,PERDEU," ",1650,33
+"cartucho HP 22 color similar",0,20,PERDEU," ",960,48
+"Cartucho original C 87 66 W L color",0,5,PERDEU," ",810,162
+"CLIPS 2/0 (500 GRAMAS)",0,50,PERDEU," ",425,8.5
+"CLIPS 4/0 (500 GRAMAS)",0,50,PERDEU," ",425,8.5
+"Cx correspondência dupla",0,5,PERDEU," ",165,33
+"Cx correspondência tripla",0,5,PERDEU," ",240,48
+"Desumidificador de papel 500 folhas",0,10,PERDEU," ",1520,152
+"ESTABILIZADOR 300 VA",0,10,PERDEU," ",1080,108
+"FILTRO DE LINHA",0,10,PERDEU," ",240,24
+"Fita Epson FX 2190 similar",0,50,PERDEU," ",750,15
+"Fonte de 300 watts",0,5,PERDEU," ",270,54
+"Gabinete ATX com Fonte",0,15,PERDEU," ",1920,128
+"GRAMPEADOR GRANDE",0,20,PERDEU," ",580,29
+"GRAMPEADOR MEDIO",0,20,PERDEU," ",200,10
+"Grampo para grampeador 26/6 (500 gr)",0,30,PERDEU," ",135,4.5
+"HD externo 1 TB 3.0 USB",0,4,PERDEU," ",1400,350
+"HD I TB GB interno",0,15,PERDEU," ",6225,415
+"Hub 8 portas",0,5,PERDEU," ",415,83
+"Monitor 18,5 Polegadas LED",0,10,PERDEU," ",5530,553
+"MOUSE USB",0,20,PERDEU," ",260,13
+"Nobreak D 1400 VA",0,4,PERDEU," ",3860,965
+"Papel A4 de gramatura 75 gramas, cx c/ 10 resmas c/ 500 fls",0,50,PERDEU," ",7950,159
+"PEN DRIVE 32 GB",0,10,PERDEU," ",490,49
+"pen drive 8 gb",0,5,PERDEU," ",135,27
+"Pente de memória 4GB DDR3",0,15,PERDEU," ",2085,139
+"Pilha AA 1,5 com quatro unidades",0,10,PERDEU," ",70,7
+"Pilha AA com quatro unidades",0,5,PERDEU," ",35,7
+"Pilha AAA com duas unidades",0,50,PERDEU," ",400,8
+"Pilha botão 12 volts",0,30,PERDEU," ",147,4.9
+"Placa mãe 1150",0,15,PERDEU," ",5850,390
+"Processador 2.9 1150",0,15,PERDEU," ",10320,688
+"TECLADO USB",0,20,PERDEU," ",500,25
+"Toner amarelo compatível CLP 360 (406)",0,5,PERDEU," ",700,140
+"Toner compatível 26 12 a",0,10,PERDEU," ",460,46
+"Toner compatível 3200",0,5,PERDEU," ",390,78
+"Toner compatível CB 320",0,10,PERDEU," ",680,68
+"Toner compatível CB 321",0,10,PERDEU," ",680,68
+"Toner compatível CB 322",0,10,PERDEU," ",680,68
+"Toner compatível CB 323",0,10,PERDEU," ",680,68
+"Toner compatível CE 285 A",0,10,PERDEU," ",460,46
+"Toner cyan compatível CLP 360 (406)",0,5,PERDEU," ",700,140
+"Toner HP 278 similar",0,20,PERDEU," ",920,46
+"Toner Lexmark T430 compatível",0,8,PERDEU," ",1256,157
+"Toner Lexmark T640 compatível",0,6,PERDEU," ",1290,215
+"Toner mg compatível CLP 360 (406)",0,5,PERDEU," ",700,140
+"Toner preto compatível CLP 360 (406)",0,5,PERDEU," ",700,140
+"Toner TN 750 - Similar",0,10,PERDEU," ",620,62

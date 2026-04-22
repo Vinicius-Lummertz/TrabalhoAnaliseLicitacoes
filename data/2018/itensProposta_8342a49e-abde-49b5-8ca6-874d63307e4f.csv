@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviços de ENCANADOR",0,200,PERDEU," ",8000,40
+"SERVIÇOS DE PEDREIRO",0,500,PERDEU," ",18000,36
+"Serviços de AUXILIAR DE PEDREIRO",0,500,PERDEU," ",13250,26.5
+"SERVIÇOS DE CARPINTARIA",0,200,PERDEU," ",8000,40
+"Serviços de PINTURA",0,200,PERDEU," ",8000,40
+"Serviços de ELETRECISTA",0,200,PERDEU," ",9000,45
+"SERVIÇOS DE ESQUADRIAS",0,200,PERDEU," ",9000,45

@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Achocolatado líquido",0,950,VENCEU," ",2527,2.66
+"AÇUCAR REFINADO;",0,50,VENCEU," ",538.5,10.77
+"Adoçante líquido",0,10,VENCEU," ",26.2,2.62
+"Bala com sabor artificial de frutas",0,110,VENCEU," ",750.2,6.82
+"Biscoito de chocolate.",0,1000,VENCEU," ",2940,2.94
+"Biscoito Salgado (tipo clube social)",0,1200,VENCEU," ",3528,2.94
+"BISCOITO SALGADO.",0,1200,VENCEU," ",3528,2.94
+"Bombom embalagem de 1 kg",0,20,VENCEU," ",551.2,27.56
+"Café extra Forte pacote de 500g",0,45,VENCEU," ",324.45,7.21
+"Doce de frutas pote de 400g",0,20,VENCEU," ",41.4,2.07
+"Doce de leite em pasta pote de 400g",0,20,VENCEU," ",58.8,2.94
+"Leite Semi desnatado, embalagem de 1 lt tetra pack",0,95,VENCEU," ",244.15,2.57
+"Margarina cremosa, com sal Pote 500g",0,20,VENCEU," ",66.8,3.34
+"Pão doce",0,50,VENCEU," ",385.5,7.71
+"Pão francês de 50g",0,50,VENCEU," ",385.5,7.71
+"Pirulito sortido, pacote com 50 unidades",0,110,VENCEU," ",815.1,7.41
+"Presunto Fatiado embalagem plástica com 200 gramas cada",0,50,VENCEU," ",187.5,3.75
+"Queijo, tipo prato fatiado, embalagem plástica com 200 grama",0,50,VENCEU," ",187.5,3.75
+"Suco de fruta líquido sabores diversos, pronto para beber, 2",0,1100,VENCEU," ",2057,1.87
+"Balão colorido (diversas cores) pacote com 50 unidades",0,150,PERDEU," ",982.5,6.55
+"Bateria Lithium A76, LR44, 1,5 Volts, cartela com 10 unidade",0,50,PERDEU," ",794.5,15.89
+"Detergente Líquido embalagem com 500 ml",0,80,PERDEU," ",115.2,1.44
+"ESCOVA DE LIMPEZA.",0,20,PERDEU," ",48.2,2.41
+"Flanela 26x50 cor:branca e laranja.",0,50,PERDEU," ",101,2.02
+"Pá coletora plástica com tampa e cabo de alumínio",0,10,PERDEU," ",178.2,17.82
+"Sabão em barra tipo glicerinado pacote com 5 unidades",0,10,PERDEU," ",45.8,4.58
+"Filtro de papel para café nº 103",0,15,PERDEU," ",31.8,2.12
+"Organizador de plástico com tampa Capacidade: 5 litros",0,15,PERDEU," ",143.1,9.54
+"Organizador de plástico multiuso com tampa capacidade: 12,5",0,10,PERDEU," ",158.9,15.89
+"Pilha tipo alcalina, AA, tamanho pequeno, pacote com 4 unida",0,60,PERDEU," ",479.4,7.99
+"Pano de prato",0,35,PERDEU," ",87.5,2.5
+"SACO PARA FREEZER P/ 3KG",0,30,PERDEU," ",159,5.3
+"Saco para freezer p/ 5kg",0,30,PERDEU," ",184.8,6.16

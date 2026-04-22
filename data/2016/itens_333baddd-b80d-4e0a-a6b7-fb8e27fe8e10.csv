@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa de Campo Cirurgico",1284129,19,7,ATIVO,UNIDADE,323.05,46.15
+"Manta Térmica Aluminizada 2,10 x 1,40",1284130,18,50,ATIVO,UNIDADE,156,3.12
+"Cobertura/saco de óbito",1284131,14,40,ATIVO,UNIDADE,1019.2,25.48
+"KIT PARTO",1284132,16,12,ATIVO,UNIDADE,503.16,41.93
+"Mascara Respiratória",1284133,15,50,ATIVO,UNIDADE,78,1.56
+"ELETRODO DESCARTÁVEL",1284134,13,30,ATIVO,UNIDADE,222.3,7.41
+"Ataduras de Crepom Tamanho: 15 cm e 4,5 m de comprimento",1284141,6,10,ATIVO,PACOTE,89.7,8.97
+"Ataduras de Crepom Tamanho: 10 cm",1284143,4,40,ATIVO,PACOTE,239.2,5.98
+"Ataduras de Crepom Tamanho: 6 cm",1284144,3,20,ATIVO,PACOTE,71.8,3.59
+"KIT QUEIMADURA",1284147,17,5,ATIVO,UNIDADE,328.25,65.65

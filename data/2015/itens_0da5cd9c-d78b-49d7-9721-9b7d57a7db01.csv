@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cera em pasta",1282615,10,150,ATIVO,LATA,28200,188
+"Desinfetante 05 Lt",1282621,16,4270,ATIVO,GALAO,23015.3,5.39
+"Esponja 110mmX75mmX20mm",1282632,30,14480,ATIVO,UNIDADE,7240,0.5
+"Desodorizador de ambientes.",1282633,18,2020,ATIVO,FRASCO,11716,5.8
+"Tela Desodorizadora para Mictório",1282646,92,200,ATIVO,UNIDADE,478,2.39
+"Sapólio cremoso 300 ml",1282649,89,8240,ATIVO,UNIDADE,16068,1.95
+"Agua Sanitária com 5 Litros",1282655,2,9150,ATIVO,UNIDADE,36783,4.02
+"Álcool etílico hidratado 01 litro",1282657,4,6200,ATIVO,LITRO,21080,3.4
+"Esponja de lã de Aço",1282660,31,6420,ATIVO,PACOTE,5457,0.85
+"Flanela para limpeza",1282661,32,2100,ATIVO,UNIDADE,2100,1
+"Guardanapo 20x23cm",1282689,36,3150,ATIVO,PACOTE,1575,0.5
+"Saco plástico de lixo 100 litros",1282710,82,2460,ATIVO,PACOTE,90774,36.9
+"Agua sanitária com 1 Litro",1341653,1,4400,ATIVO,UNIDADE,6292,1.43
+"Dispenser para Toalha interfolhada",1341654,24,39,ATIVO,UNIDADE,702,18
+"Escovão para Limpeza de chão",1341655,27,350,ATIVO,UNIDADE,1928.5,5.51
+"Lustra móveis.",1341656,48,480,ATIVO,FRASCO,936,1.95

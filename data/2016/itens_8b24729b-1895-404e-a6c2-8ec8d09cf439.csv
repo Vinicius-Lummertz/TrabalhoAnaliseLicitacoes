@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Shampo para lavação de veículos",1284591,15,5,ATIVO,TUBO,1339.95,267.99
+"Óleo lubrificante para transmissões sae 140 api gl5",1284592,12,1,ATIVO,TUBO,2407.94,2407.94
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 515",1284593,11,6,ATIVO,BALDE,10868.46,1811.41
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",1284594,10,2,ATIVO,BALDE,5429.26,2714.63
+"Óleo lubrificante para caixa de transmissão (EATON) E Motore",1284595,9,1,ATIVO,BALDE,2703.72,2703.72
+"Óleo lubrificante para caixa de marchas SAE 80W90 API",1284596,8,1,ATIVO,TUBO,3613.59,3613.59
+"Óleo lubrificante para caixa de direção hidráulica e transmi",1284597,7,2,ATIVO,BALDE,7573.18,3786.59
+"Óleo Lubrificante de transmissão e sistema hidráulico SAE 10",1284598,6,2,ATIVO,TUBO,5310.16,2655.08
+"Desengraxantes para Chassi",1284599,2,5,ATIVO,TUBO,2013.9,402.78
+"Graxa lubrificante",1284600,4,6,ATIVO,TUBO,8948.46,1491.41
+"Fluído de freio e embreagem dot4",1284601,3,3,ATIVO,CAIXA,1981.05,660.35
+"Óleo lubrificante para transmissões automotivas SAE 85W140 A",1284602,14,1,ATIVO,BALDE,3394.53,3394.53
+"Óleo lubrificante multiviscoco SAE 15W40",1284603,1,15,ATIVO,TUBO,34095.75,2273.05
+"OLEO 2T 8017",1284604,5,500,ATIVO,UNIDADE,6950,13.9
+"Óleo lubrificante para transmissões sae 90 api gl5",1284605,13,1,ATIVO,TUBO,2372.2,2372.2

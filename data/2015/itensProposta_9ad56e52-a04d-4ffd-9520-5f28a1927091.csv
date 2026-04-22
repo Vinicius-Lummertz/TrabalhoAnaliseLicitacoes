@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Equipe Segurança noturno, das 0h às 8h,  com 3 homens/dia",0,9,VENCEU," ",4860,540
+"Equipe de Segurança diurno, as 8 às 16h, com 6 homens/dia",0,6,VENCEU," ",6480,1080
+"Equipe de Segurança , as 16 às 0h, com 20 homens/dia",0,6,VENCEU," ",21600,3600
+"Equipe de Segurança com 30 homens/dia",0,5,VENCEU," ",27000,5400

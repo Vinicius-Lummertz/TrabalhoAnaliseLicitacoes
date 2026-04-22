@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO SEM FIO.",4432410,4,DESCLASSIFICADO,UND,640,160
+"Forno de Microondas",4432416,1,PERDEU,UNI,560,560
+"Gerador de energia elétrica a gasolina 7200w",4432419,1,VENCEU,UNI,3440,3440
+"Televisor colorido 42 polegadas,Led, com suporte de parede e",4432420,1,VENCEU,UNI,1985,1985

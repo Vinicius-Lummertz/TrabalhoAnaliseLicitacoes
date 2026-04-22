@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto sextavado com 8cm de espessura",4345320,17500,VENCEU,M2,533750,30.5
+"Bloco de concreto sextavado com 6cm de espessura",4345321,500,PERDEU,M2,15000,30
+"Bloco de concreto tipo Paver com 6cm de espessura",4345322,500,PERDEU,M2,18000,36
+"Bloco de concreto tipo Paver com 8cm de espessura",4345323,500,VENCEU,M2,18750,37.5
+"Bloco de concreto tipo Briquete com 8cm de espessura",4345324,500,VENCEU,M2,16000,32
+"Meio fio de concreto pré-moldado de 12x30x80cm",4345325,5000,VENCEU,M2,77500,15.5
+Rachao,4345326,5000,DESCLASSIFICADO,TON,200000,40
+Macadame,4345327,4000,PERDEU,TON,152000,38
+"SEIXO BRUTO ROLADO",4345328,4000,PERDEU,TON,108000,27
+"Brita ¾",4345329,4000,PERDEU,M3,148000,37
+"PO DE PEDRA",4345330,5000,DESCLASSIFICADO,TON,195000,39

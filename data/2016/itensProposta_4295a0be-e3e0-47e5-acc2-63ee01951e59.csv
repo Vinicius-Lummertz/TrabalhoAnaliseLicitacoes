@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Doxiciclina 100mg",4430269,8000,INABILITADO,COMP,1344,0.168
+"Finasterida 5 mg",4430271,20000,PERDEU,COMP,9200,0.46
+"Pirimetamina 25mg",4430285,7000,VENCEU,COMP,552.3,0.0789
+"Prednisona 20mg",4430286,100000,PERDEU,COMP,23500,0.235
+"Prednisona 20mg",4430287,300000,PERDEU,COMP,75000,0.25
+"Prednisona 5mg",4430288,220000,PERDEU,COMP,36300,0.165
+"Stryphnodendron adstringens coville pomada 20g",4430289,1500,VENCEU,BIS,69540,46.36
+"Sulfadiazina de prata 1% pomada pote com 400g",4430290,250,PERDEU,POT,6400,25.6
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% 1",4430291,200,VENCEU,FR.,1560,7.8

@@ -1,0 +1,76 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anilhas de Musculação 25kg",1,2,Venceu,UND,179.8,89.9
+"Barra de Musculação maciça- 1.60m",2,1,Desclassificado,UND,169.9,169.9
+"Barra de Musculação maciça - 1.70m",3,2,Perdeu,UND,339.8,169.9
+"Bola de Campo",4,500,Perdeu,UND,39950,79.9
+"Bola de futsal oficial, Max 1000",5,20,Desclassificado,UND,3997,199.85
+"Bola de Futsal Max 200",6,30,Desclassificado,UND,3895.5,129.85
+"Bola de Medicine Ball sem alças de 1Kg",7,4,Desclassificado,UND,359.6,89.9
+"Bola de Medicine Ball com alças de 2Kg",8,4,"Não cotou",UND,0,0
+"Bola de Medicine Ball com alças de 3Kg",9,3,"Não cotou",UND,0,0
+"Bola de Medicine Ball5 Kg",10,2,Desclassificado,UND,318,159
+"Bola oficial de basquetebol, tamanho masculino, pró 7.5 matr",11,20,Desclassificado,UND,4898,244.9
+"Bola oficial de basquetebol, tamanho feminino, pró 6.5, matr",12,20,Desclassificado,UND,4598,229.9
+"Bola oficial de handebol, tamanho infantil, H1L",13,50,Desclassificado,UND,8497.5,169.95
+"Bola oficial de handebol, tamanho feminino, H2L",14,20,Desclassificado,UND,3598,179.9
+"Bola Oficial de handebol, tamanho masculino, H3L",15,20,Desclassificado,UND,3800,190
+"Bola oficial de Voleibol",16,20,Perdeu,UND,2994,149.7
+"Bola oficial de Vôlei, pró 7.0",17,15,Desclassificado,UND,3450,230
+"Bola para tênis de campo",18,5,Desclassificado,CX,2749.5,549.9
+"Bola para tênis de mesa CELL FREE. DHS 3 três estrelas",19,100,Inabilitado,CX,599,5.99
+"Bola para tênis de mesa CELL FREE. DHS 1  estrelas",20,1500,Inabilitado,CX,4485,2.99
+"Bomba de inflar bolas",21,30,Desclassificado,UND,690,23
+"Borracha tipo sanduíche",22,30,"Não cotou",UND,0,0
+"Cola Especial para raquete e borracha",23,2,"Não cotou",UND,0,0
+"Colchonetes DGO Aglomerado",24,30,Desclassificado,UND,1290,43
+"Coletes em Dry Fit Na cor Amarela G",25,50,Desclassificado,UND,574.5,11.49
+"Coletes em Dry Fit Na cor Azul G",26,50,Desclassificado,UND,574.5,11.49
+"Cone 15cm - Cone de Plastico em PVC 15 cm",27,100,Desclassificado,UND,990,9.9
+"Cone Prato - de Plástico Prato 20 cm",28,100,Desclassificado,UND,780,7.8
+"Dardo 500g",29,1,"Não cotou",UND,0,0
+"Disco oficial feminino para lançamento, em fibra, de 1,0kg",30,3,Desclassificado,UND,476.7,158.9
+"Disco oficial juvenil masculino para lançamento, em fibra,de",31,3,Perdeu,UND,596.7,198.9
+"Disco oficial menores masculino para lançamentos, em fibra,",32,2,Desclassificado,UND,377.8,188.9
+"Disco oficial masculino para lançamento, em fibra, de 2kg",33,1,Desclassificado,UND,218.9,218.9
+"Jogo para xadrez",34,10,"Não cotou",CX,0,0
+Kimono,35,20,Desclassificado,UND,3198,159.9
+"relógio digital DGT",36,5,"Não cotou",UND,0,0
+"Sapatilha Salto em Distancia Tamanho 38",37,2,Inabilitado,PAR,497.8,248.9
+"Sapatilha Salto em Distancia Tamanho 39",38,2,Inabilitado,PAR,497.8,248.9
+"Sapatilha Salto em Distancia Tamanho 40",39,2,Inabilitado,PAR,497.8,248.9
+"Sapatilha Salto em Distancia Tamanho 43",40,1,Inabilitado,PAR,248.9,248.9
+"Sapatilha salto triplo tamanho 38 - mínimo de 11 pregos",41,2,Desclassificado,PAR,537.8,268.9
+"Sapatilha salto triplo tamanho 39 - mínimo de 11 pregos",42,2,Desclassificado,PAR,537.8,268.9
+"Sapatilha salto triplo tamanho40 - mínimo de 11 pregos",43,2,Perdeu,PAR,337.8,168.9
+"Sapatilha salto triplo tamanho43 - mínimo de 11 pregos",44,1,Desclassificado,PAR,268.9,268.9
+"Sapatilhas fundo tamanho 38 - mínimo de sete pregos",45,3,Inabilitado,PAR,476.7,158.9
+"Sapatilhas fundo tamanho 39 - mínimo de sete pregos",46,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas fundo tamanho 40 - mínimo de sete pregos",47,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas fundo tamanho 41 - mínimo de sete pregos",48,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas meio fundo tamanho 36",49,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas meio fundo tamanho 37",50,3,Inabilitado,PAR,476.7,158.9
+"Sapatilhas meio fundo tamanho 39",51,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas meio fundo tamanho 40",52,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas meio fundo tamanho 41",53,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas meio fundo tamanho 42",54,2,Inabilitado,PAR,317.8,158.9
+"Sapatilhas Salto Altura tamanho 38- mínimo de 11 pregos",55,1,Inabilitado,PAR,238.9,238.9
+"Sapatilhas Salto Altura tamanho 39- mínimo de 11 pregos",56,2,Inabilitado,PAR,477.8,238.9
+"Sapatilhas Salto Altura tamanho 41- mínimo de 11 pregos",57,2,Inabilitado,PAR,477.8,238.9
+"Sapatilhas Salto Altura tamanho 42- mínimo de 11 pregos",58,2,Inabilitado,PAR,477.8,238.9
+"Sapatilhas Salto Altura tamanho 43- mínimo de 11 pregos",59,1,Inabilitado,PAR,238.9,238.9
+"Sapatilhas Velocidade tamanho 37",60,2,Inabilitado,PAR,377.8,188.9
+"Sapatilhas Velocidade tamanho 38",61,2,Inabilitado,PAR,377.8,188.9
+"Sapatilhas Velocidade tamanho 39",62,3,Inabilitado,PAR,566.7,188.9
+"Sapatilhas Velocidade tamanho 40",63,2,Inabilitado,PAR,377.8,188.9
+"Sapatilhas Velocidade tamanho 41",64,2,Inabilitado,PAR,377.8,188.9
+"Sapatilhas Velocidade tamanho 42",65,2,Inabilitado,PAR,377.8,188.9
+"Sapatos Arremesso de Peso tamanho 38",66,2,Inabilitado,PAR,457.8,228.9
+"Sapatos Arremesso de Peso tamanho 40",67,2,Inabilitado,PAR,457.8,228.9
+"Sapatos Arremesso de Peso tamanho 41",68,2,Inabilitado,PAR,457.8,228.9
+"Sapatos Arremesso de Peso tamanho 42",69,2,Inabilitado,PAR,457.8,228.9
+"Sapatos Arremesso de Peso tamanho 43",70,1,Inabilitado,PAR,228.9,228.9
+"Sapatos Lançamento do Dardo tamanho 39 - mínimo de 11 pregos",71,1,Inabilitado,PAR,268.9,268.9
+"Sapatos Lançamento do Dardo tamanho 40 - mínimo de 11 pregos",72,1,Inabilitado,PAR,268.9,268.9
+"Sapatos Lançamento do Dardo tamanho 41 - mínimo de 11 pregos",73,1,Inabilitado,PAR,268.9,268.9
+"Sapatos Lançamento do Dardo tamanho 42 - mínimo de 11 pregos",74,1,Inabilitado,PAR,268.9,268.9
+"Trena 100 metros, em fibra de vidro, milimetrada de centímet",75,2,"Não cotou",UND,0,0

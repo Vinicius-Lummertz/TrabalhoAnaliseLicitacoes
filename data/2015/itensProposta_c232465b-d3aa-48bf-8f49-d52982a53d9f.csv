@@ -1,0 +1,107 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óleo lubrificante mineral  SAE 15W40 classificação API SL.",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante mineral  SAE 20W50 classificação API SJ.",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante semissintético SAE 5W30 classificação API",0,300,NAO_COTOU," ",0,0
+"Óleo lubrificante semissintético SAE 10W30 classificação API",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante semissintético SAE 10W40 classificação API",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante semissintético SAE 15W40 classificação API",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante semisintético SAE 15W50 classificação API",0,80,NAO_COTOU," ",0,0
+"Óleo lubrificante sintético SAE 5W30 classificação API SN ou",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante sintético SAE 5W40 classificação API SN ou",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante sintético SAE 10W40 classificação API SN o",0,100,NAO_COTOU," ",0,0
+"Óleo lubrificante mineral SAE 15W40 classificação API CI-4.-",0,180,NAO_COTOU," ",0,0
+"Óleo lubrificante semissintético SAE 15W40, API CI-4.- ACEA",0,80,NAO_COTOU," ",0,0
+"Óleo lubrificante sintético SAE 5W30 classificação ACEA C2,",0,80,NAO_COTOU," ",0,0
+"Óleo lubrificante sintético SAE 10W40 classificação API CI-4",0,80,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL619 ou similar",0,20,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL55 ou similar",0,50,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL144 ou similar",0,8,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL320 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL560 ou similar",0,20,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL327 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL156 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL655 ou similar",0,6,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL657 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL78 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL77 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL47 ou similar",0,5,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL45 ou similar",0,5,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL902 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL340 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PSL323 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro lubrificante PEL108 ou similar",0,15,NAO_COTOU," ",0,0
+"Filtro lubrificante PEL675 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro lubrificante PEL119 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro lubrificante PEL310 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5053 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL4147 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL4150 ou similar",0,15,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL4154 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL4152 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL8839 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL8840 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL1034 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL9607 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL9602 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5050 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5055 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5049 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5138 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL5140 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL6096 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARL9621 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARS1029 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARS1013 ou similar",0,8,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARS2868 ou similar",0,6,NAO_COTOU," ",0,0
+"Filtro Ar Motor ARS7109 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor AR3147 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor AR8833 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor AR9621 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Ar Motor AP7108 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor AP1012 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Ar Motor ART6098 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Combustível GI 50/7 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro Combustível GI 04/7 ou similar",0,20,NAO_COTOU," ",0,0
+"Filtro Combustível GI 40/7 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro Combustível GI 41 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível GI 02/1 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível GI 06/7 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível GI 12/7 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível GI 08/1 ou similar",0,5,NAO_COTOU," ",0,0
+"Filtro Combustível AG68 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro Combustível PEC3023 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro Combustível PC947 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível PSC994 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível PSC499 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível PSC990 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro Combustível PSC498/4 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP903 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP131 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP105 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP103 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP101 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP906 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP002 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP001 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP708 ou similar",0,6,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP203 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP202 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP303 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP800 ou similar",0,10,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP550 ou similar",0,4,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP304 ou similar",0,3,NAO_COTOU," ",0,0
+"Filtro de Cabine ACP305 ou similar",0,3,NAO_COTOU," ",0,0
+"Desengraxantes para Chassi",0,5,VENCEU," ",1851.25,370.25
+"Fluído de freio e embreagem dot4",0,3,VENCEU," ",1007.91,335.97
+"Graxa lubrificante a base de sabão de cálcio nl g12 (pinos)",0,6,VENCEU," ",8210.22,1368.37
+"OLEO 2T 8017",0,500,VENCEU," ",6260,12.52
+"Óleo Lubrificante de transmissão e sistema hidráulico SAE 10",0,2,VENCEU," ",4776.06,2388.03
+"Óleo lubrificante para caixa de direção hidráulica e transmi",0,2,VENCEU," ",6764.46,3382.23
+"Óleo lubrificante para caixa de marchas SAE 80W90 API",0,1,VENCEU," ",3252.93,3252.93
+"Óleo lubrificante para caixa de transmissão (EATON) E Motore",0,1,VENCEU," ",2426.23,2426.23
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",0,2,VENCEU," ",4948.46,2474.23
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 515",0,6,VENCEU," ",9802.86,1633.81
+"Óleo lubrificante para transmissões (Caixas e Diferenciais).",0,1,VENCEU," ",2153.93,2153.93
+"Óleo lubrificante para transmissões (caixas e diferenciais)",0,1,VENCEU," ",2152.39,2152.39
+"Óleo lubrificante para transmissões automotivas SAE 85W140 A",0,1,VENCEU," ",3170,3170
+"Shampo para lavação de veículos",0,5,VENCEU," ",1224.3,244.86

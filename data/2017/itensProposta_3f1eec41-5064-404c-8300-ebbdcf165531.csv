@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento para lactentes menores de um ano de idade intoleran",4432206,300,PERDEU,LAT,5850,19.5
+"Dieta enteral para crianças",4432207,1000,VENCEU,FR.,28000,28
+"Dieta enteral/oral nutricionalmente completa para crianças d",4432208,24,VENCEU,LAT,2400,100
+"Dieta nutricionalmente completa",4432209,2000,DESCLASSIFICADO,LAT,102000,51
+"Dieta semi-alimentar e hipoalergênica",4432210,1000,VENCEU,LAT,68000,68
+"Espessante a base de amido de milho modificado",4432211,12,PERDEU,LAT,620.76,51.73
+"Fórmula elementar à base de 100% de aminoácidos",4432212,150,VENCEU,LAT,28425,189.5
+"Fórmula infantil de segmento, à base de leite de vaca",4432213,300,DESCLASSIFICADO,LAT,8154,27.18
+"Fórmula infantil de seguimento, a base de proteínas isolada",4432214,50,DESCLASSIFICADO,LAT,1444,28.88
+"Fórmula infantil para lactentes à base de proteínas",4432215,48,DESCLASSIFICADO,LAT,1392,29
+"Fórmula infantil para lactentes até 06 meses, em pó",4432216,3000,PERDEU,LAT,42000,14
+"Fórmula infantil para lactentes e de seguimento para lact",4432217,180,VENCEU,LAT,23400,130
+"Fórmula infantil para recém-nascidos pré-termo",4432218,100,PERDEU,LAT,2613,26.13
+"Módulo de carboidratos para dieta enteral e oral tendo",4432219,50,DESCLASSIFICADO,LAT,1200,24
+"Nutrição enteral, em pó, à base de proteína isolada de soja",4432220,200,PERDEU,LAT,11400,57
+"Suplemento Nutricional lácteo em pó, enriquecido com vitamin",4432221,300,VENCEU,LAT,4167,13.89
+"Formula para lactentes que apresentem regurgitação",4432222,300,PERDEU,LAT,9735,32.45

@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Splitter para duplicar telas",0,5,VENCEU," ",900,180
+"Cabo HDMI High Speed",0,13,VENCEU," ",1625,125
+"Suporte para TV",0,13,VENCEU," ",884,68
+"CABO LAN CAT5E",0,800,VENCEU," ",1920,2.4
+"Caixa sistema X 3x3",0,40,VENCEU," ",144,3.6
+"Espelho sistema x 2 furo RJ45",0,15,VENCEU," ",75,5
+"Tomada elétrica 2P + T 10 A",0,25,VENCEU," ",225,9
+"Régua c/ 04 tomadas elétricas",0,8,VENCEU," ",320,40
+"Régua c/ filtro p/ 06 tomadas elétricas",0,1,VENCEU," ",59,59
+"Fio elétrico flexível 2,5 mm",0,580,VENCEU," ",1160,2
+"Keystone (RJ 45 Fêmea) Cat5E",0,30,VENCEU," ",360,12
+"PatchCord 1,5 mt Cat5E",0,30,VENCEU," ",390,13
+"RJ 45 Cat 5E",0,20,VENCEU," ",20,1
+"Pacote c/ 100 abraçadeiras (hermann)",0,2,VENCEU," ",120,60
+"Canaleta 50x20x2000mm",0,40,VENCEU," ",600,15
+"Bucha nº 6",0,120,VENCEU," ",36,0.3
+"PARAFUSO P/ BUCHA 6",0,120,VENCEU," ",36,0.3
+"Canaleta 20x10x2000mm",0,35,VENCEU," ",122.5,3.5
+"Rolo de fita isolante 20mt",0,5,VENCEU," ",40,8
+"SWITCH 08 PORTAS",0,1,VENCEU," ",105,105
+"Mão de obra (horas)",0,213,VENCEU," ",16401,77

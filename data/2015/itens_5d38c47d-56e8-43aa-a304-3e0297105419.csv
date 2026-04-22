@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mascara Respiratória",1273884,14,50,ATIVO,UNIDADE,116.5,2.33
+"Cobertura/saco de óbito",1273885,13,40,ATIVO,UNIDADE,638.4,15.96
+"Máscara cirúrgicas",1273887,11,40,ATIVO,CAIXA,176,4.4
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",1273888,10,40,ATIVO,CAIXA,795.6,19.89
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",1273889,9,100,ATIVO,CAIXA,1989,19.89
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",1273890,8,150,ATIVO,CAIXA,2983.5,19.89
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",1273891,1,100,ATIVO,LITRO,330,3.3

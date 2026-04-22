@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dieta enteral liquida",4429494,500,INABILITADO,EM,32500,65
+"Dieta enteral para crianças",4429495,2880,INABILITADO,FR.,43200,15
+"Dieta semi-elementar e hipoalergênica",4429498,1300,DESCLASSIFICADO,LAT,227760,175.2
+"Espessante a base de amido de milho",4429499,100,PERDEU,LAT,6000,60
+"Fórmula elementar à base de 100% de aminoácidos livres",4429500,500,INABILITADO,LAT,157500,315
+"Fórmula infantil para lactentes e de seguimento para lactent",4429505,250,PERDEU,LAT,78750,315
+"Módulo de carboidratos para dieta enteral e oral",4429507,150,INABILITADO,LAT,3300,22
+"Módulo de lipídio 100% com TCM com 830 Kcal/ 100g",4429508,150,PERDEU,FR.,4800,32
+"Suplemento Nutricional lácteo em pó",4429510,500,INABILITADO,LAT,12700,25.4

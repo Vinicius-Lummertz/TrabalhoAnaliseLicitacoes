@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pc com processador de no mínimo 2.6 ghz",4429443,34,VENCEU,UN,65926,1939
+"NOTE BOOK.",4429444,2,CANCELADO,UN,9196,4598
+"Projetor Multimídia",4429445,1,PERDEU,UND,3582,3582

@@ -1,0 +1,58 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,35,VENCEU," ",259.35,7.41
+"Caixa de Passagem Split",0,6,VENCEU," ",166.8,27.8
+"Cano cobre ½.",0,25,VENCEU," ",347.5,13.9
+"Cano cobre ¼.",0,25,VENCEU," ",162.25,6.49
+"Cano cobre ¾.",0,25,VENCEU," ",579.25,23.17
+"Cano cobre 3/8.",0,25,VENCEU," ",231.75,9.27
+"Cano cobre 5/8.",0,25,VENCEU," ",463.5,18.54
+"Cano esponjoso ¼.",0,35,VENCEU," ",64.75,1.85
+"Cano esponjoso ½.",0,35,VENCEU," ",64.75,1.85
+"Cano esponjoso ¾.",0,35,VENCEU," ",64.75,1.85
+"Cano esponjoso 3/8.",0,35,VENCEU," ",64.75,1.85
+"Cano esponjoso 5/8.",0,35,VENCEU," ",64.75,1.85
+"Capacitor 380V 2 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 3 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 4 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 5 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 8 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 10 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 15 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 20 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 25 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 30 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 35 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 40 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 45 MF",0,2,VENCEU," ",64.88,32.44
+"Capacitor 380V 55 MF",0,2,VENCEU," ",64.88,32.44
+"Chave contactora CWM 09",0,2,VENCEU," ",166.82,83.41
+"Chave contactora CWM 10",0,2,VENCEU," ",166.82,83.41
+"Compressor para Split 7000 BTUS",0,3,VENCEU," ",1084.38,361.46
+"Compressor para Split 9000 BTUS",0,3,VENCEU," ",1084.38,361.46
+"Compressor para Split 12000 BTUS",0,3,VENCEU," ",1251.21,417.07
+"Compressor para Split 18000 BTUS",0,1,VENCEU," ",546.83,546.83
+"Compressor para Split 24000 BTUS",0,1,VENCEU," ",602.43,602.43
+"Compressor para Split 30000 BTUS",0,1,VENCEU," ",639.51,639.51
+"Compressor para Split 60000 BTUS",0,1,VENCEU," ",926.82,926.82
+"Controle remoto univ. ar split",0,6,VENCEU," ",667.32,111.22
+"Dreno ar condicionado",0,25,VENCEU," ",46.25,1.85
+"Filtro do pó ar cond.",0,5,VENCEU," ",69.5,13.9
+"Fita PVC 100mm branca.",0,50,VENCEU," ",46.5,0.93
+"Gás R134 (carga)",0,25,VENCEU," ",2780.5,111.22
+"Gás R22 (carga)",0,25,VENCEU," ",2780.5,111.22
+"Hélice ar cond. 7000btus",0,2,VENCEU," ",213.16,106.58
+"Hélice ar cond. 10/18000btus",0,2,VENCEU," ",213.16,106.58
+"Placa eletrônica ar Electrolux",0,5,VENCEU," ",1714.6,342.92
+"Placa eletrôn. ar Consul",0,3,VENCEU," ",973.17,324.39
+"Placa eletrôn. ar Brastemp",0,3,VENCEU," ",1084.38,361.46
+"Rele Monti",0,5,VENCEU," ",324.4,64.88
+"Sensor de temperatura frio",0,6,VENCEU," ",305.88,50.98
+"Sensor temp. aquecimento",0,6,VENCEU," ",305.88,50.98
+"Suporte split 7/12000btus",0,10,VENCEU," ",278,27.8
+"Suporte split 18/30000btus",0,10,VENCEU," ",324.4,32.44
+"Termostato ar cond. 1601",0,10,VENCEU," ",463.4,46.34
+"Turbina ventilador 10/30000",0,3,VENCEU," ",194.64,64.88
+"Instalação ar cond.",0,30,VENCEU," ",9731.7,324.39
+"Limpeza de ar gaveta 7/30.000btus",0,45,VENCEU," ",4170.6,92.68
+"Limpeza de ar split 9/24.000 btus",0,45,VENCEU," ",4170.6,92.68
+"Serviço (Hora)",0,350,VENCEU," ",24328.5,69.51

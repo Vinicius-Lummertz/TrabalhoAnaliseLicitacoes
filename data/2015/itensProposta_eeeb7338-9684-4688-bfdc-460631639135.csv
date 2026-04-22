@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sonda nasal para alimentação enteral nº 08",4428585,100,CANCELADO,UNI,680,6.8
+"Sonda nasal para alimentação enteral nº 10",4428586,300,INABILITADO,UNI,2040,6.8
+"Sonda nasal para alimentação enteral nº 12",4428587,300,INABILITADO,UNI,2040,6.8
+"SORO GLICOSADO 250ml (SOLUÇAO DE GLICOSE A 5%)",4428606,5000,INABILITADO,UNI,10700,2.14
+"SORO GLICOSADO 500ml (SOLUÇAO DE GLICOSE A 5%)",4428607,3000,INABILITADO,UNI,8130,2.71

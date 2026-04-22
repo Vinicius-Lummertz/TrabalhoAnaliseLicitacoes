@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Palco coberto em estrutura boxtruss Q30, medindo 14x12m, bas",0,1,PERDEU," ",9500,9500
+"Palco coberto tenda 10x10m, altura de 4,50m, base de estrutu",0,2,PERDEU," ",13600,6800
+"Palco coberto, tenda 5x5m, altura de 3,50m, base de estrutur",0,3,PERDEU," ",7500,2500
+"Pavilhão coberto estrutura em alumínio box truss Q30 e Q50,",0,300,PERDEU," ",6000,20
+"Tenda 10x10m, estrutura metálica, altura 3,50m.",0,10,PERDEU," ",9500,950
+"Tenda 5x5m, estrutura metálica, altura 2,50m",0,10,PERDEU," ",3800,380
+"Piso tablado de madeira preto elevado 10cm.",0,10,PERDEU," ",120,12
+"Piso tablado de madeira deck elevado 10cm.",0,10,PERDEU," ",180,18
+"Revestimento carpete.",0,10,PERDEU," ",75,7.5
+Gradil.,0,200,PERDEU," ",2400,12
+Barricada.,0,200,PERDEU," ",13000,65
+"Banheiro químico.",0,50,PERDEU," ",7750,155
+"Mesa pvc.",0,200,PERDEU," ",2000,10
+"Cadeira pvc.",0,800,PERDEU," ",1600,2

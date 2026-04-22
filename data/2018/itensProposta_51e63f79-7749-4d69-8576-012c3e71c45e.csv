@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Forno Elétrico",4434759,1,INABILITADO,UND,567.5,567.5
+Microondas,4434760,1,INABILITADO,UND,453.63,453.63
+"Fogão Industrial à gás",4434762,1,INABILITADO,UN,890,890
+BATEDEIRA,4434764,1,INABILITADO,UND,390,390
+"Cadeira de Escritório de Corino",4434767,10,VENCEU,UNI,1400,140
+"MESA DE ESCRITORIO",4434768,3,PERDEU,UN,924,308

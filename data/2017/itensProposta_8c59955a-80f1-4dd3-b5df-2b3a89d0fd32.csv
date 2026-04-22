@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviços de migração dos dados já existentes",0,1,VENCEU," ",44807.14,44807.14
+"Serviço de cessão de uso e/ou manutenção mensal, hospedagem",0,12,VENCEU," ",299863.2,24988.6
+"Serviço suplementares de suporte técnico presencial",0,200,VENCEU," ",12064,60.32
+"Serviços suplementares de desenvolvimento de alterações",0,300,VENCEU," ",23265,77.55

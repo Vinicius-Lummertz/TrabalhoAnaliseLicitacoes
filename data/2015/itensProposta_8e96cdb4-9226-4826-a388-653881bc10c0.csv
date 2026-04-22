@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Salgados fritos sortidos",0,350,VENCEU," ",15575,44.5
+"Salgados assados sortidos",0,100,VENCEU," ",4900,49
+"Croissants doces a salgados",0,30,VENCEU," ",1440,48
+"Sonho 33 gr",0,2000,VENCEU," ",800,0.4
+"Cavaquinho 30 gr",0,2000,VENCEU," ",700,0.35
+"Mini Sanduíche 50 gr",0,2000,VENCEU," ",1100,0.55
+"Pão de queijo 24gr",0,2000,VENCEU," ",900,0.45
+"Doces sortidos  21gr",0,100,VENCEU," ",5000,50
+"Bolos diversos",0,100,VENCEU," ",1000,10
+"Bolos recheados",0,20,VENCEU," ",280,14
+"TORTA RECHEADA",0,20,VENCEU," ",420,21
+"SUCO NATURAL",0,2000,VENCEU," ",7000,3.5
+"CAFÉ PRETO",0,250,VENCEU," ",625,2.5
+"CAFÉ COM LEITE",0,250,VENCEU," ",1125,4.5
+"Refrigerante normal(dois tipos) 2 l",0,300,VENCEU," ",1200,4
+"Refrigerante lihgt/dietl(dois tipos) 2 l",0,60,VENCEU," ",240,4
+"Pratos descartáveis, pacote com 10",0,200,VENCEU," ",380,1.9
+"Garfos descartáveis, pacote com 50",0,200,VENCEU," ",620,3.1
+"Copos descartáveis, pacote com 100",0,150,VENCEU," ",600,4
+"Guardanapos, pacote com 50",0,200,VENCEU," ",576,2.88

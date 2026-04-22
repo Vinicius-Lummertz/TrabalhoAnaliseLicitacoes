@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PAPEL HIGIENICO 500M",1297601,2,1000,ATIVO,FARDO,55600,55.6
+"Papel Higiênico 30m",1301685,3,663,ATIVO,FARDO,35802,54
+"Papel higiênico 300m",1309854,1,1050,ATIVO,FARDO,34524,32.88
+"Papel Higiênico 30m",1316067,4,1987,ATIVO,FARDO,107298,54

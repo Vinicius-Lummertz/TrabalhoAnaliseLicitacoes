@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg",4435615,220000,DESCLASSIFICADO,CPLA,50600,0.23
+"ACIDO VALPROICO 500MG",4435616,300000,DESCLASSIFICADO,COMP,162000,0.54
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada 30g",4435692,3000,DESCLASSIFICADO,BIS,39600,13.2
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",4435760,240000,PERDEU,COMP,256800,1.07
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel",4435761,6000,PERDEU,COMP,9720,1.62
+"Levodopa 100mg + benserazida 25mg HBS",4435762,60000,PERDEU,COMP,97200,1.62
+"Stryphnodendron adstringens coville pomada 20g",4435832,1500,VENCEU,BIS,74955,49.97

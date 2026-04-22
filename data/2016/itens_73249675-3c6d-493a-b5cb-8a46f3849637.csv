@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mochila costal flexível anti-incêndio",1284158,29,3,ATIVO,UNIDADE,2190,730
+"Indutor de espuma tipo mochila",1284166,36,2,ATIVO,UNIDADE,3200,1600
+Mcleod,1284167,31,3,ATIVO,UNIDADE,315,105
+Pulaski,1284168,32,3,ATIVO,UNIDADE,840,280
+Rastelo,1284169,33,4,ATIVO,UNIDADE,420,105
+"Queimador para incêndio controlado 5 Lt",1284170,34,2,ATIVO,UNIDADE,952,476
+"Máscara facial tipo bandana",1284171,35,10,ATIVO,UNIDADE,1150,115
+"Supressante líquido",1284174,38,2,ATIVO,UNIDADE,2090,1045
+Batedor/Abafador,1284175,30,11,ATIVO,UNIDADE,880,80
+"Pochete para Sinais Vitais",1284177,14,11,ATIVO,UNIDADE,1727,157
+"Retardante de chamas",1284182,39,2,ATIVO,UNIDADE,2192,1096

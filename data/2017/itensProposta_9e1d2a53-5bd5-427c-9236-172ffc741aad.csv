@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Reforma de bancos maquina pesada assento e encosto",0,4,VENCEU," ",948,237
+"Reforma de bancos de veiculo individual 01 lugar",0,25,VENCEU," ",6375,255
+"Reforma  de bancos de veiculo  03 lugares sofá cama",0,2,VENCEU," ",1198,599
+"Reforma de  bancos de veiculo tipo Van de passeio",0,2,VENCEU," ",1064,532
+"Reforma de bancos de veiculo de caminhão  01 lugar",0,3,VENCEU," ",855,285
+"Reforma de bancos de veiculo caminhão 02 lugares",0,3,VENCEU," ",1083,361
+"Reparo no estofamento e tecido de bancos em geral.",0,50,VENCEU," ",8000,160

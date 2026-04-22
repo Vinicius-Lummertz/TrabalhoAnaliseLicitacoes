@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Prednisona 5mg",1259881,37,220000,ATIVO,COMPRIMIDO,31020,0.141
+"Prednisona 20mg",1259882,36,300000,ATIVO,COMPRIMIDO,70200,0.234
+"Prednisona 20mg",1259883,35,100000,ATIVO,COMPRIMIDO,23400,0.234
+"Nitroglicerina 5mg/ml",1259884,33,20,ATIVO,AMP,512,25.6
+"Morfina 30 mg",1259885,32,1500,ATIVO,COMPRIMIDO,1429.5,0.953
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica 5ml",1259886,13,200,ATIVO,FRASCO,1418,7.09
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml",1259888,9,200,ATIVO,FRASCO,3690,18.45
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml",1259889,8,200,ATIVO,FRASCO,3906,19.53
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml",1259890,7,100,ATIVO,FRASCO,2126,21.26
+"Biperideno, cloridrato 5mg/mL 1ml",1259891,6,500,ATIVO,AMP,850,1.7
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml",1259895,10,100,ATIVO,FRASCO,2113,21.13

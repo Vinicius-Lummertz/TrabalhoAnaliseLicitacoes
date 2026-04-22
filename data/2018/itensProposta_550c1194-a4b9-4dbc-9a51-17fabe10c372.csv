@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apontador sem depósito",4434311,300,PERDEU,UND,48,0.16
+"Aparelho telefônico com fio",4434313,50,DESCLASSIFICADO,UND,1995,39.9
+"APARELHO TELEFONICO SEM FIO",4434314,20,DESCLASSIFICADO,UND,1798,89.9
+"Balão colorido",4434315,200,VENCEU,PCT,780,3.9
+"BATERIA 9 VOLTS.",4434317,100,PERDEU,CART,637,6.37
+"Bobina plástica.",4434318,500,DESCLASSIFICADO,ROLO,1675,3.35
+"Borracha (amarradilha) para dinheiro nº 18",4434319,400,DESCLASSIFICADO,PCT,864,2.16
+"Caderno universitário capa dura",4434320,150,DESCLASSIFICADO,UND,885,5.9
+"Caixa de arquivo morto",4434321,800,DESCLASSIFICADO,UNI,2456,3.07
+"CANETA DESTACA TEXTO",4434326,80,PERDEU,CX,848,10.6
+"CANETA ESFEROGRAFICA AZUL",4434327,70,DESCLASSIFICADO,CX,1561,22.3
+"CANETA ESFEROGRAFICA PRETA",4434328,40,DESCLASSIFICADO,CX,892,22.3
+"Caneta hidrocor",4434329,20,VENCEU,CX,46.8,2.34
+"Clips tamanho 2/0",4434330,200,PERDEU,CX,236,1.18
+"Cola Bastão",4434331,120,VENCEU,UND,164.4,1.37
+"Dispensador de senha",4434333,20,DESCLASSIFICADO,UND,6890,344.5
+"envelope papel pardo tamanho 29 x 20 cm",4434334,2000,PERDEU,UND,280,0.14
+"envelope papel pardo tamanho 34 x 24 cm",4434335,2000,PERDEU,UND,340,0.17
+"Envelope papel, tamanho 29 x 20 cm, cor branca",4434336,1000,PERDEU,UNI,200,0.2
+"Envelope papel, tamanho 34 x 24 cm, cor branca",4434337,1000,PERDEU,UNI,250,0.25
+"etiqueta carta para impressoras disk Jet e Laser ref. 3180",4434338,10,DESCLASSIFICADO,CX,331.5,33.15
+"Fita adesiva branca",4434339,300,PERDEU,UND,810,2.7
+"Fita adesiva marron",4434340,300,PERDEU,UND,927,3.09
+"Fita adesiva plastica transparente 12mm x 30 mts",4434341,250,PERDEU,UND,127.5,0.51
+"Fita adesiva plastica transparente 48 mm x 50 mts",4434342,250,PERDEU,UND,550,2.2
+"Fita dupla face emborrachada 19x30",4434344,40,PERDEU,UND,148,3.7
+"Grampeador para papeis base 18 - 20cm",4434345,30,DESCLASSIFICADO,UND,1170,39
+"Grampeador para papeis comprimento base 14 - 17cm",4434346,50,PERDEU,UNI,468.5,9.37
+"Grampo para grampeador galvanizado 26/6 caixa com 5000",4434347,200,PERDEU,CX,476,2.38
+"Grampo trilho plastico (macho/Femea) embalagem com 50 unidad",4434348,100,PERDEU,PCT,693,6.93
+"Lápis colorido",4434349,20,PERDEU,CX,100,5
+"Lápis preto de grafite nº 2",4434350,2160,PERDEU,CX,540,0.25
+"Livro Ata pautado com 100 folhas",4434351,150,DESCLASSIFICADO,UND,1500,10
+"Livro fiscal ponto",4434352,100,PERDEU,UND,1026,10.26
+"Lixeira  redonda capac. 100 lt",4434353,15,DESCLASSIFICADO,UNI,2808,187.2
+"Lixeira  redonda capac. 50 lt",4434354,100,DESCLASSIFICADO,UNI,13390,133.9
+"Massa de modelar",4434356,20,INABILITADO,CX,54.8,2.74
+"PAPEL CANSON",4434358,200,CANCELADO,UN,1690,8.45
+"Papel cartão colorido fosco (46cm x 66cm)",4434359,400,PERDEU,UNI,296,0.74
+"Papel pardo kraft 40 mt",4434360,80,PERDEU,RL,728,9.1
+"Pasta arquivo de A-Z  tamanho oficio",4434361,100,PERDEU,UND,727,7.27
+"PASTA CATALOGO",4434362,70,DESCLASSIFICADO,UND,521.5,7.45
+"Pasta plastica de arquivo 35 mm",4434363,200,PERDEU,UNI,436,2.18
+"Pasta plastica de arquivo 55 mm",4434364,120,PERDEU,UN,351.6,2.93
+"Pasta suspensa craft 331x200",4434365,30,PERDEU,CX,1560,52
+"Pen drive de 8 Gb, USB 2.0",4434366,15,DESCLASSIFICADO,UND,390,26
+"Pen drive de 16 Gb, USB 2.0",4434367,10,DESCLASSIFICADO,UND,292.5,29.25
+"PILHA PEQUENA COMUM",4434368,800,PERDEU,CAR,1752,2.19
+"Prancha de Madeira",4434369,100,PERDEU,UND,276,2.76
+"Quadro branco",4434370,10,DESCLASSIFICADO,UND,785.2,78.52
+"Quadro de aviso",4434371,5,PERDEU,UNI,169,33.8
+"SACO PLASTICO",4434373,7500,VENCEU,RL,3000,0.4
+TNT,4434374,20,PERDEU,RL,910,45.5
+"Tesoura Doméstica",4434375,50,PERDEU,UND,219.5,4.39
+"TINTA PARA CARIMBO",4434376,120,VENCEU,UND,195.6,1.63

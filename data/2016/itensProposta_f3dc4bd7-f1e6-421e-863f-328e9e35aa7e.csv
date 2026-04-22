@@ -1,0 +1,189 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACICLOVIR 200 MG",0,35000,PERDEU," ",7525,0.215
+"Aciclovir 50 mg/g creme",0,2000,PERDEU," ",4960,2.48
+"Acido Acetilsalicilico 100mg",0,3000000,PERDEU," ",60000,0.02
+"Ácido Ascórbico 100mg/mL solução injetável",0,3000,PERDEU," ",2172,0.724
+"ACIDO FOLICO 5MG",0,400000,PERDEU," ",18800,0.047
+"Ácido Valproico 250mg",0,75000,PERDEU," ",22425,0.299
+"Ácido Valproico 250mg",0,225000,PERDEU," ",67275,0.299
+"ACIDO VALPROICO 500MG",0,75000,PERDEU," ",59850,0.798
+"ACIDO VALPROICO 500MG",0,225000,PERDEU," ",179550,0.798
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",0,5000,PERDEU," ",11000,2.2
+"Adenosina 6mg/mL solução injetável 2ml",0,200,PERDEU," ",1820,9.1
+"AGUA DESTILADA 10ML",0,7000,PERDEU," ",1750,0.25
+"AGUA DESTILADA 5ML",0,5000,PERDEU," ",1250,0.25
+"Albendazol 400mg comprimido mastigável",0,15000,PERDEU," ",11130,0.742
+"Albendazol 400mg comprimido mastigável",0,45000,PERDEU," ",33390,0.742
+"Albendazol 400mg/mL suspensão oral 10ml",0,15000,PERDEU," ",18750,1.25
+"Albendazol 400mg/mL suspensão oral 10ml",0,45000,PERDEU," ",56250,1.25
+"Alendronato de sódio 70mg",0,7500,PERDEU," ",2737.5,0.365
+"Alopurinol 100mg",0,200000,PERDEU," ",10400,0.052
+"AMINOFILINA 100MG",0,50000,PERDEU," ",2950,0.059
+"AMIODARONA 200MG",0,62500,PERDEU," ",18062.5,0.289
+"AMIODARONA 200MG",0,187500,PERDEU," ",54187.5,0.289
+"Amiodarona, cloridrato 50mg/mL 3ml",0,500,PERDEU," ",840,1.68
+"Amitriptilina , cloridrato 25mg",0,375000,PERDEU," ",11625,0.031
+"Amitriptilina , cloridrato 25mg",0,1125000,PERDEU," ",34875,0.031
+"Amoxicilina 250mg/5mL",0,8750,PERDEU," ",19853.75,2.269
+"Amoxicilina 250mg/5mL",0,26250,PERDEU," ",65625,2.5
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL",0,3000,PERDEU," ",37740,12.58
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL",0,9000,PERDEU," ",113220,12.58
+"AMPICILINA 500MG.",0,2000,PERDEU," ",314,0.157
+"Anlodipino, besilato 5mg",0,1800000,PERDEU," ",41400,0.023
+"ATENOLOL 50MG",0,1500000,PERDEU," ",58500,0.039
+"AZITROMICINA 200MG/5ML",0,15000,PERDEU," ",38700,2.58
+"Azitromicina 500mg",0,45000,PERDEU," ",19710,0.438
+"Azitromicina 500mg",0,135000,PERDEU," ",66150,0.49
+"Beclometasona 250mcg/mL -",0,250,PERDEU," ",15437.5,61.75
+"BENZILPENICILINA BENZATINA 1.200.000 UI",0,3750,PERDEU," ",25312.5,6.75
+"BENZILPENICILINA BENZATINA 1.200.000 UI",0,11250,PERDEU," ",84375,7.5
+"Benzilpenicilina Benzatina 600.000 UI.",0,8500,PERDEU," ",29750,3.5
+"Betametasona, diproprionato +  betametasona fosfato 1ml",0,1500,PERDEU," ",5550,3.7
+"Biperideno, cloridrato 2mg",0,150000,PERDEU," ",31200,0.208
+"Brometo de ipratrópio 0,250mg/mL",0,1500,PERDEU," ",1027.5,0.685
+"Brometo de N-butilescopolamina 20mg/ml",0,10000,PERDEU," ",15400,1.54
+"Brometo de N-butilescopolamina 20mg/mL + dipirona sódica 5ml",0,15000,PERDEU," ",19950,1.33
+"Bromidrato de fenoterol 5mg/ml solução para inalação 20ml",0,2000,PERDEU," ",5460,2.73
+"CAPTOPRIL 25MG",0,2000000,PERDEU," ",34000,0.017
+"Carbamazepina 200mg",0,325000,PERDEU," ",27300,0.084
+"Carbamazepina 200mg",0,975000,PERDEU," ",81900,0.084
+"Carbamazepina 20mg/mL - suspensão oral 100ml",0,1500,PERDEU," ",7425,4.95
+"Carbonato de cálcio 500 mg",0,80000,PERDEU," ",3440,0.043
+"Carbonato de cálcio 500+ vitamina D 400 UI",0,120000,PERDEU," ",30840,0.257
+"Carbonato de cálcio 500+ vitamina D 400 UI",0,360000,PERDEU," ",106200,0.295
+"Carbonato de lítio 300g",0,240000,PERDEU," ",48000,0.2
+"Cefalexina 500mg",0,100000,PERDEU," ",48000,0.48
+"Cefalexina 500mg",0,300000,PERDEU," ",144000,0.48
+"Cefalexina 50mg/mL suspensão oral 60ml",0,2500,PERDEU," ",14375,5.75
+"Cefalexina 50mg/mL suspensão oral 60ml",0,7500,PERDEU," ",50250,6.7
+"CINARIZINA 75MG",0,400000,PERDEU," ",72000,0.18
+"Clonazepam 2,5mg/mL 20ml, frasco de vidro âmbar",0,1000,PERDEU," ",1540,1.54
+"Clopidogrel 75mg comprimido revestido",0,150000,PERDEU," ",67500,0.45
+"Clorpromazina, cloridrato 100mg",0,250000,PERDEU," ",47500,0.19
+"Clorpromazina, cloridrato 25mg",0,180000,PERDEU," ",43200,0.24
+"Clorpromazina, cloridrato 40mg/mL gotas",0,400,PERDEU," ",2200,5.5
+"Clorpromazina, cloridrato 5mg/mL, INJETÁVEL",0,500,PERDEU," ",470,0.94
+"Dexametasona 0,1% creme 10g",0,40000,PERDEU," ",32720,0.818
+"Dexametasona, fosfato de dissódico 4mg/2,5mL",0,20000,PERDEU," ",16800,0.84
+"Diazepam 10mg.",0,900000,PERDEU," ",48600,0.054
+"Diazepam 5mg",0,30000,PERDEU," ",1560,0.052
+"Diazepam 5mg/ml solução injetavel 2ml",0,1000,PERDEU," ",630,0.63
+"Diclofenaco sódico 50mg",0,500000,PERDEU," ",12000,0.024
+"Diclofenaco sódico 75mg/mL 3ml",0,14000,PERDEU," ",7840,0.56
+"DIGOXINA 0,25MG",0,250000,PERDEU," ",10500,0.042
+"Dimenidrato 50mg + piridoxina 50mg/mL 1ml",0,14000,PERDEU," ",22120,1.58
+"Dimeticona 75mg/mL 10ml",0,5000,PERDEU," ",4050,0.81
+"Dipirona 500mg/ml 2ml",0,20000,PERDEU," ",8800,0.44
+"Dipirona sódica 500mg/mL solução oral 10ml",0,12000,PERDEU," ",8400,0.7
+"Doxazosina 2 mg",0,80000,PERDEU," ",13600,0.17
+"Doxiciclina 100mg",0,8000,PERDEU," ",1336,0.167
+"Enalapril, maleato 10mg",0,625000,PERDEU," ",25000,0.04
+"Enalapril, maleato 10mg",0,1875000,PERDEU," ",75000,0.04
+"Enalapril, maleato 20mg",0,800000,PERDEU," ",56000,0.07
+"Enantoato de noretisterona + valerato de estradiol 1ml",0,5000,PERDEU," ",32500,6.5
+"Eritromicina 50mg/mL suspensão oral  60ml",0,200,PERDEU," ",992,4.96
+"Espironolactona 25mg",0,360000,PERDEU," ",42840,0.119
+"Estrogênios conjugados 0,625mg",0,50000,PERDEU," ",19950,0.399
+"FENITOINA 100MG",0,180000,PERDEU," ",68400,0.38
+"Fenitoina 50mg/mL solução injetável 5ml",0,500,PERDEU," ",840,1.68
+"FENOBARBITAL 100mg",0,180000,PERDEU," ",16200,0.09
+"Fenobarbital 100mg/mL 1ml",0,500,PERDEU," ",570,1.14
+"Fenobarbital 40mg/mL - solução oral- 20ml frasco ambar",0,2000,PERDEU," ",3400,1.7
+"Finasterida 5 mg",0,20000,PERDEU," ",16000,0.8
+"Fluoxetina, cloridrato 20mg",0,468750,PERDEU," ",23437.5,0.05
+"Fluoxetina, cloridrato 20mg",0,1406250,PERDEU," ",70312.5,0.05
+"Furosemida 10mg/mL 2ml",0,8000,PERDEU," ",6160,0.77
+"FUROSEMIDA 40MG",0,500000,PERDEU," ",15000,0.03
+"Glibenclamida 5mg",0,1500000,PERDEU," ",29850,0.0199
+"HALOPERIDOL 1MG",0,70000,PERDEU," ",7560,0.108
+"Haloperidol 5mg",0,230000,PERDEU," ",31970,0.139
+"Haloperidol, decanoato 70,52mg/mL 1ml",0,2000,PERDEU," ",18360,9.18
+"HIDROCLOROTIAZIDA 25MG",0,2300000,PERDEU," ",41400,0.018
+"Hidrocortisona 100mg",0,6000,PERDEU," ",21600,3.6
+"Hidrocortisona 500mg",0,5000,PERDEU," ",28900,5.78
+"Hidroxido de aluminio 60mg + Hidroxido de magnésio 40mg/mL",0,8000,PERDEU," ",13920,1.74
+"Hidroxido de aluminio200mg+ hidroxido de magnésio 200mg comp",0,30000,PERDEU," ",15300,0.51
+"Ibuprofeno 50mg/mL 30ml",0,20000,PERDEU," ",22960,1.148
+"Imipramina 25mg blíster fracionável",0,250000,PERDEU," ",73500,0.294
+"Imipramina 25mg blíster fracionável",0,750000,PERDEU," ",220500,0.294
+"Isossorbida, mononitrato 20mg",0,225000,PERDEU," ",27000,0.12
+"Isossorbida, mononitrato 20mg",0,675000,PERDEU," ",81000,0.12
+"Isossorbida, mononitrato 40mg",0,120000,PERDEU," ",24000,0.2
+"Isossorbida, mononitrato 40mg",0,360000,PERDEU," ",72000,0.2
+"Ivermectina 6mg",0,5000,PERDEU," ",1720,0.344
+"LEVODOPA 250MG + CARBIDOPA 25MG",0,50000,PERDEU," ",10900,0.218
+"LEVOFLOXACINO 500MG",0,5000,PERDEU," ",5350,1.07
+"Levomepromazina, maleato 100mg",0,37500,PERDEU," ",25387.5,0.677
+"Levomepromazina, maleato 100mg",0,112500,PERDEU," ",76275,0.678
+"Levomepromazina, maleato 25mg",0,120000,PERDEU," ",34080,0.284
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",0,200000,PERDEU," ",4600,0.023
+"Levotiroxina sódica 100mcg",0,200000,PERDEU," ",28000,0.14
+"Levotiroxina sódica 25mcg",0,300000,PERDEU," ",45000,0.15
+"Levotiroxina sódica 50 mcg",0,125000,PERDEU," ",20000,0.16
+"Levotiroxina sódica 50 mcg",0,375000,PERDEU," ",60000,0.16
+"Lidocaína 2% gel 30g",0,9000,PERDEU," ",16380,1.82
+"Lidocaina sem vaso constritor 2% 20ml",0,8000,PERDEU," ",22160,2.77
+"Loratadina 10mg",0,500000,PERDEU," ",22000,0.044
+"Loratadina 1mg/ml xarope 60ml",0,5000,PERDEU," ",9650,1.93
+"Losartana 50mg comprimido revestido",0,575000,PERDEU," ",19435,0.0338
+"Losartana 50mg comprimido revestido",0,1725000,PERDEU," ",65550,0.038
+"Medroxiprogesterona 150mg/mL 1ml",0,300,PERDEU," ",2844,9.48
+"METFORMINA 500MG",0,425000,PERDEU," ",27625,0.065
+"METFORMINA 500MG",0,1275000,PERDEU," ",82875,0.065
+"Metformina 850mg",0,875000,PERDEU," ",42000,0.048
+"Metformina 850mg",0,2625000,PERDEU," ",123375,0.047
+"METILDOPA 250MG",0,300000,PERDEU," ",84000,0.28
+"Metoclopramida 4mg/mL solução oral 10ml",0,8000,PERDEU," ",4760,0.595
+"Metoclopramida 5mg/mL  2ml",0,24000,PERDEU," ",8160,0.34
+"Metoclopramida, cloridrato 10mg",0,180000,PERDEU," ",13860,0.077
+"METOPROLOL, SUCCINATO 50MG",0,36000,PERDEU," ",27720,0.77
+"Metronidazol 200mg/5mL suspensão oral 80ml",0,6000,PERDEU," ",10860,1.81
+"Metronidazol 250mg",0,250000,PERDEU," ",25750,0.103
+"Metronidazol 500mg/5g com 7 aplicadores creme ou gel vaginal",0,8000,PERDEU," ",29040,3.63
+"Miconazol 20mg/g com 7 aplicadores creme vaginal 80g",0,8000,PERDEU," ",39600,4.95
+"Mikania Glomerata Sprengel 0,1mL/mL sem açucar Frasco com 10",0,1000,PERDEU," ",1890,1.89
+"Morfina 10mg/mL INJETÁVEL 1ML",0,1000,PERDEU," ",3140,3.14
+"Neomicina 5mg + Bacitracina 250 UI/g pomada 10g",0,35000,PERDEU," ",40950,1.17
+"Nifedipino 10mg",0,400000,PERDEU," ",15600,0.039
+"Nifedipino retard 20mg",0,450000,PERDEU," ",34650,0.077
+"Nistatina 100.000 UI/4g creme vaginal 60 g contendo 7 aplica",0,1000,PERDEU," ",3800,3.8
+"NITROFURANTOINA 100 MG",0,5000,PERDEU," ",775,0.155
+"Noretisterona 0,35mg",0,30000,PERDEU," ",6450,0.215
+"Nortriptilina 50 mg",0,3000,PERDEU," ",1254,0.418
+"Óleo Mineral  100ml",0,8000,PERDEU," ",17120,2.14
+"OMEPRAZOL 20MG",0,950000,PERDEU," ",42750,0.045
+"OMEPRAZOL 20MG",0,2850000,PERDEU," ",128250,0.045
+"Paracetamol 200mg/ml solucao oral 15ml",0,25000,PERDEU," ",17000,0.68
+"Paracetamol 500mg",0,625000,PERDEU," ",37500,0.06
+"Paracetamol 500mg",0,1875000,PERDEU," ",112500,0.06
+"PERMETRINA 10MG/ML LOÇÃO 60ML",0,8000,PERDEU," ",10304,1.288
+"Permetrina 50mg/mL - creme 60ml",0,8000,PERDEU," ",19520,2.44
+"Petidina, cloridrato 50mg/mL 2ml",0,800,PERDEU," ",1280,1.6
+"Prednisolona 3mg/ml solução oral com seringa dosadora 100ml",0,12000,PERDEU," ",60840,5.07
+"Prometazina 50mg/2ml",0,5000,PERDEU," ",6945,1.389
+"Prometazina, cloridrato 25mg",0,320000,PERDEU," ",25600,0.08
+"Propranolol 40mg",0,1300000,PERDEU," ",26000,0.02
+"RANITIDINA 150MG",0,175000,PERDEU," ",14350,0.082
+"RANITIDINA 150MG",0,525000,PERDEU," ",43050,0.082
+"RANITIDINA 50mg/2mL",0,4000,PERDEU," ",1720,0.43
+"Risperidona 1mg",0,20000,PERDEU," ",6000,0.3
+"Risperidona 2mg",0,20000,PERDEU," ",7000,0.35
+"Sais de reidratação oral 3,5+1,5+2,9+20g/envelope. Pó sachê",0,30000,PERDEU," ",13440,0.448
+"Salbutamol 100 mcg aerossol oral com 200 doses 10ml",0,200,PERDEU," ",1302,6.51
+"SINVASTATINA 20MG",0,800000,PERDEU," ",57600,0.072
+"Sinvastatina 40 mg",0,500000,PERDEU," ",66500,0.133
+"Sulfametoxazol 200mg+ Trimetoprima 40mg/5mL 100ml",0,4000,PERDEU," ",5680,1.42
+"Sulfametoxazol 400mg + trimetoprima 80mg",0,200000,PERDEU," ",19200,0.096
+"Sulfato ferroso 125mg/mL solução oral  30ml",0,3500,PERDEU," ",2765,0.79
+"Sulfato ferroso 25 mg/ml xarope 120 ml",0,1000,PERDEU," ",1790,1.79
+"Sulfato Ferroso 40mg",0,600000,PERDEU," ",23400,0.039
+"Tenoxicam 20 mg pó para solução injetável com solução diluen",0,4500,PERDEU," ",20115,4.47
+"TIAMINA 300 MG",0,8000,PERDEU," ",688,0.086
+"Timolol, Maleato 0,5% 5ml",0,200,PERDEU," ",236,1.18
+"Tramadol, cloridrato 50mg",0,120000,PERDEU," ",16800,0.14
+"Tramadol, cloridrato 50mg",0,360000,PERDEU," ",50400,0.14
+"Tramadol, cloridrato 50mg/mL 1ml",0,12000,PERDEU," ",11376,0.948
+"Varfarina sódica 5 mg",0,80000,PERDEU," ",9600,0.12
+"VERAPAMIL 80MG",0,480000,PERDEU," ",31200,0.065
+"Vitaminas do complexo B 2ml",0,5000,PERDEU," ",3780,0.756
+"Vitaminas do Complexo B 5/1/30/4/3 mg",0,350000,PERDEU," ",13300,0.038

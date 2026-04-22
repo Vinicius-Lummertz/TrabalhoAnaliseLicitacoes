@@ -1,0 +1,54 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cantoneira - 1/4 x 1 ",0,10,NAO_COTOU," ",0,0
+"Cantoneira - 1/8 x 3/4 - (SER 3/4)",0,10,NAO_COTOU," ",0,0
+"Cantoneira - 1/8 x 5/8 - (SER 5/8)",0,10,NAO_COTOU," ",0,0
+"Cantoneira - 3/16 x 2",0,10,NAO_COTOU," ",0,0
+"Cantoneira - 1/4x 2",0,20,NAO_COTOU," ",0,0
+"Cantoneira - 3/4 x 6",0,10,NAO_COTOU," ",0,0
+"Cantoneira - 5/16 x 2",0,20,NAO_COTOU," ",0,0
+"Chapa FQ - 2.00mm (14) 1200x3000",0,5,NAO_COTOU," ",0,0
+"Chapa FQ - 2.65mm (12) 1200x3000",0,2,NAO_COTOU," ",0,0
+"Chapa FQ - 3.00mm (11) 1000x3000",0,5,NAO_COTOU," ",0,0
+"Chapa FQ - 3.75mm (9) 1200x3000",0,2,NAO_COTOU," ",0,0
+"Chapa FQ - 4.75mm (9) 1200x3000",0,5,NAO_COTOU," ",0,0
+"Chapa FQ - 6.35mm (1/4) 1200x3000",0,1,NAO_COTOU," ",0,0
+"Chapa Piso 2.00mm - 1000x3000",0,3,NAO_COTOU," ",0,0
+"Chapa Piso 3.00mm - 1200x3000",0,3,NAO_COTOU," ",0,0
+"Ferro Chato - 1/2 x 1",0,40,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 1",0,40,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 1/2 - (SER. 1/2)",0,40,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 2",0,30,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 3/4",0,30,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 1/2",0,30,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 1",0,20,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 2",0,20,NAO_COTOU," ",0,0
+"Ferro Redondo 1020 (12.70) - 1/2",0,40,NAO_COTOU," ",0,0
+"Ferro Redondo 1020 (19.05) - 3/4",0,40,NAO_COTOU," ",0,0
+"Ferro Redondo  1020 (25.40) - 1",0,85,NAO_COTOU," ",0,0
+"Tubo Quad. 30x30x2.00x6000",0,30,NAO_COTOU," ",0,0
+"Tubo Quad. 50x50x2.00x6000",0,12,NAO_COTOU," ",0,0
+"Tubo Ret. 30x70x2.00x6000",0,24,NAO_COTOU," ",0,0
+"Tubo Ret. 40x80x3.00x6000",0,20,NAO_COTOU," ",0,0
+"Tubo Ret. 40x60x2.65x6000",0,20,NAO_COTOU," ",0,0
+"Serviço Calandra Chapa",0,500,NAO_COTOU," ",0,0
+"Serviço Corte/Dobra Chapa",0,1000,NAO_COTOU," ",0,0
+"Arame Mig 1,00mm CC - ER 70S6 ROLO COM 18 KG",0,20,NAO_COTOU," ",0,0
+"Desengripante M500 12x300 M1/180 G",0,18,NAO_COTOU," ",0,0
+"Disco de Corte 230x3.0x22.22 A30Q-BF",0,50,NAO_COTOU," ",0,0
+"Disco de Corte Bsic - Xpert 115x1.0",0,100,NAO_COTOU," ",0,0
+"Disco Premium 230x1.9",0,30,NAO_COTOU," ",0,0
+"Disco de Corte Standard 178x3.2",0,30,NAO_COTOU," ",0,0
+"Disco de Desbaste 115x6x22.22 A30R",0,30,NAO_COTOU," ",0,0
+"Disco de Desbaste Secur 178x7.0",0,30,NAO_COTOU," ",0,0
+"Eletrodo 2.0 - Eletron Inox",0,7,NAO_COTOU," ",0,0
+"Eletrodo 3.25 70x18",0,8,NAO_COTOU," ",0,0
+"Eletrodo 3.25 60x13",0,20,NAO_COTOU," ",0,0
+"Eletrodo 2.5mm 60x13",0,15,NAO_COTOU," ",0,0
+"Eletrodo de Corte - Chanfro",0,10,NAO_COTOU," ",0,0
+"Parafuso Auto Atarraxante Cabeça - Panela/Phlips 2.9x16 Inox",0,1000,NAO_COTOU," ",0,0
+"Parafuso Chipbord Cabeça Chata 3.5x12 FE BC",0,1000,NAO_COTOU," ",0,0
+"Parafuso Rosca Soberba 3x16x40 FE ZB",0,1,NAO_COTOU," ",0,0
+"Rolo Lixa 100x50 180Gr",0,1,NAO_COTOU," ",0,0
+ACETILENO,0,50,VENCEU," ",1747.5,34.95
+Mistura,0,150,VENCEU," ",2280,15.2
+OXIGENIO,0,250,VENCEU," ",2175,8.7

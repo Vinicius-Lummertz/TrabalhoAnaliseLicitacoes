@@ -1,0 +1,53 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",4428405,1000,PERDEU,GL,6000,6
+"Algodão Hidrófilo, 100%.",4428411,1800,DESCLASSIFICADO,ROLO,17280,9.6
+"Atadura de algodão Ortopédico 12 cm X 1,80 mt",4428416,50,DESCLASSIFICADO,PCT,432,8.64
+"Atadura de algodão Ortopédico 15 cm X 1,80 mt",4428417,50,DESCLASSIFICADO,UNI,553.5,11.07
+"Atadura de algodão Ortopédico 20 cm X 1,80 mt",4428418,50,DESCLASSIFICADO,PCT,736,14.72
+"Ataduras de Crepom 10 cm de largura 1.80 m de comprimento",4428424,60000,DESCLASSIFICADO,UNI,36000,0.6
+"Ataduras de Crepom 12 cm de largura 1.80 m de comprimento",4428425,50000,DESCLASSIFICADO,UNI,37000,0.74
+"Ataduras de Crepom 15 cm de largura 1.80 m de comprimento",4428426,60000,DESCLASSIFICADO,UNI,54000,0.9
+"Ataduras de Crepom 20 cm de largura 1.80 m de comprimento",4428427,50000,DESCLASSIFICADO,UNI,57000,1.14
+"Ataduras de Crepom 06 cm de largura  1.80 m de comprimento",4428428,30000,PERDEU,UNI,10800,0.36
+"Ataduras de Crepom 08 cm de largura  1.80 m de comprimento",4428429,50000,DESCLASSIFICADO,UNI,25000,0.5
+"Bolsa Coletora de urina sistema fechado  2000mL",4428431,2000,PERDEU,UNI,5160,2.58
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4428442,18000,DESCLASSIFICADO,UNI,61020,3.39
+"Coletor para materiais perfuro cortante (capacidade 3 Litros",4428443,5000,DESCLASSIFICADO,UN,8950,1.79
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4428444,15000,DESCLASSIFICADO,UNI,40050,2.67
+"Compressa Cirúrgica, Campo Operatório, não descartável 45cm",4428446,500,DESCLASSIFICADO,PCT,39750,79.5
+"Compressa Cirúrgica, Campo Operatório, não descartável 23cm",4428447,300,DESCLASSIFICADO,PCT,9360,31.2
+"Compressa de gaze (tipo queijo).",4428448,400,DESCLASSIFICADO,ROLO,39000,97.5
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4428449,15000,DESCLASSIFICADO,PCT,265500,17.7
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4428450,180000,DESCLASSIFICADO,PCT,100800,0.56
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",4428457,15000,DESCLASSIFICADO,UNI,3600,0.24
+"Dispositivo para infusão endovenosa, n° 25 (apelido scalp)",4428458,15000,DESCLASSIFICADO,UNI,3600,0.24
+"Equipo polifix",4428465,6000,DESCLASSIFICADO,UNI,4680,0.78
+"Esparadrapo Impermeável e Antialérgico, com capa Largura 5cm",4428467,7500,DESCLASSIFICADO,ROLO,20250,2.7
+"Esparadrapo Impermeável e Antialérgico, com capa Largura 10c",4428468,7200,DESCLASSIFICADO,RL,38448,5.34
+"Especulo vaginal, descartável Tamanho M",4428469,16000,CANCELADO,UNI,13280,0.83
+"Especulo vaginal, descartável Tamanho G",4428470,8000,DESCLASSIFICADO,UNI,12000,1.5
+"Espéculo vaginal, descartável Tamanho P",4428471,16000,PERDEU,UNI,11520,0.72
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  2-0",4428479,20,DESCLASSIFICADO,CX,585,29.25
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  3-0",4428480,300,DESCLASSIFICADO,CX,8775,29.25
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  5-0",4428481,30,PERDEU,CX,877.5,29.25
+"Fio cirúrgico preto monofilamentar de poliamida Nº. 4-0",4428482,200,DESCLASSIFICADO,CX,5850,29.25
+"Fio cirúrgico preto monofilamentar de poliamida Nº. 6-0",4428483,10,PERDEU,CX,292.5,29.25
+"Fita adesiva para teste de esterilização em Autoclave;",4428484,2500,PERDEU,ROLO,6950,2.78
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4428485,12000,DESCLASSIFICADO,UNI,18000,1.5
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",4428486,12000,PERDEU,UNI,23400,1.95
+"Luva Cirúrgica estéril Nº. 7.5.",4428510,6000,DESCLASSIFICADO,PAR,7680,1.28
+"Luva Cirúrgica estéril Nº. 8.0.",4428511,3000,DESCLASSIFICADO,PAR,3840,1.28
+"Luva Cirúrgica estéril Nº. 8.5.",4428512,1000,DESCLASSIFICADO,PAR,1280,1.28
+"Luva Cirúrgica estéril Nº. 9.0.",4428513,300,DESCLASSIFICADO,PAR,384,1.28
+"LUVA DE PREVENTIVO DESCARTÁVEL",4428514,3000,DESCLASSIFICADO,PCT,22500,7.5
+"Luva Látex não Estéril p/ Procedimento - Tamanho G",4428515,8000,DESCLASSIFICADO,CX,144000,18
+"Luva Látex não Estéril p/ Procedimento - Tamanho M",4428516,16000,DESCLASSIFICADO,CX,288000,18
+"Luva Látex não Estéril p/ Procedimento - Tamanho P",4428517,13000,DESCLASSIFICADO,CX,234000,18
+"Luva Látex não Estéril p/ Procedimento - Tamanho PP",4428518,400,DESCLASSIFICADO,CXA,7200,18
+"Máscaras Cirúrgicas Facial Descartável",4428535,500,DESCLASSIFICADO,CX,2475,4.95
+"SORO FISIOLOGICO 1000ml (Solução de cloreto de sódio 0,9%)",4428600,1000,PERDEU,UN,3590,3.59
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4428601,50000,INABILITADO,UNI,118000,2.36
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4428602,40000,PERDEU,UNI,90800,2.27
+"SORO FISIOLOGICO 500ml (SOLUÇAO DE CLORETO DE SODIO 0,9%)",4428603,10000,PERDEU,UNI,24600,2.46
+"SORO GLICOFISIOLOGICO 500ml",4428605,1500,PERDEU,UNI,3750,2.5
+"Touca descartável",4428609,100,DESCLASSIFICADO,PCT,630,6.3

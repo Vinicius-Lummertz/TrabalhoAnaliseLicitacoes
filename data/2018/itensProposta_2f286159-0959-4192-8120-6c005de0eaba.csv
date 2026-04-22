@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cama Hospitalar Tipo Fowler Mecânica, 3 manivelas, adulto, c",4434440,4,VENCEU,UNI,19920,4980
+"Foco Cirúrgico de Teto",4434449,4,DESCLASSIFICADO,UNI,204000,51000
+"Bomba de Infusão que utiliza equipo universal",4434459,26,VENCEU,UNI,154830,5955
+"Bomba de Infusão de Seringa microprocessada",4434460,19,VENCEU,UN,132525,6975

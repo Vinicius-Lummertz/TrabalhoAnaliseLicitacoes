@@ -1,0 +1,62 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atestado Médico",4448622,1000,DESCLASSIFICADO,BLC,2570,2.57
+"Atestado Médico para Gestantes",4448623,150,DESCLASSIFICADO,BLC,558,3.72
+"Auto para coleta de água para consumo humano",4448624,50,DESCLASSIFICADO,BLCO,800,16
+"Auto de intimação vigilancia sanitaria",4448625,30,DESCLASSIFICADO,BLCO,750,25
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",4448626,120,DESCLASSIFICADO,BLC,648,5.4
+"Boletim de atendimento médico 24hs",4448629,500,DESCLASSIFICADO,BLC,1405,2.81
+"BPA consolidado 2 vias autocopiativo (braco/azul)",4448631,50,DESCLASSIFICADO,BLCO,750,15
+"BPA individualiazado 2 vias autocopiativo (braco/azul)",4448632,50,DESCLASSIFICADO,BLCO,750,15
+"Cartão de agendamento medico",4448634,2000,DESCLASSIFICADO,UNI,240,0.12
+"Consentimento informado - 2 vias autocopiativo (braco/azul)",4448637,35,DESCLASSIFICADO,BLCO,595,17
+"Controle de TODO;",4448638,100,DESCLASSIFICADO,BLC,420,4.2
+"Declaração de Comparecimento",4448642,1200,DESCLASSIFICADO,BLC,3036,2.53
+"Evolução do paciente",4448646,300,DESCLASSIFICADO,BLC,2400,8
+"Exame parcial de urina",4448647,50,DESCLASSIFICADO,BLC,325,6.5
+"Ficha clínica odontológica.",4448648,250,DESCLASSIFICADO,BLC,992.5,3.97
+"Ficha clínica Tuberculose",4448649,10,DESCLASSIFICADO,BLC,130,13
+"Ficha de atendimento SAMU .",4448654,50,DESCLASSIFICADO,BLC,800,16
+"Ficha de cadastro individual",4448655,500,DESCLASSIFICADO,BLC,1600,3.2
+"Ficha visita domiciliar e-sus",4448658,200,DESCLASSIFICADO,BLC,794,3.97
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",4448659,70,DESCLASSIFICADO,BLC,1012.2,14.46
+"Fluxo e contra-fluxo",4448661,700,DESCLASSIFICADO,BLC,2800,4
+"Laudo Médico para Procedimento de Alta Complexidade APAC",4448663,200,DESCLASSIFICADO,BLC,2296,11.48
+"Laudo Médico para Procedimento de Alta Complexidade BPAI",4448664,200,DESCLASSIFICADO,BLCO,2296,11.48
+"Laudo médico tratamento fora domicilia para dentro do estado",4448665,100,DESCLASSIFICADO,BLC,1333,13.33
+"Memorando interno - 2 vias autocopiativo",4448667,500,DESCLASSIFICADO,BLC,2940,5.88
+"Orientações CAPS III- frente e verso",4448670,40,DESCLASSIFICADO,BLC,300,7.5
+"Programa de controle da febre amarela dengue",4448675,10000,DESCLASSIFICADO,UNI,800,0.08
+"Programa de Planejamento Familiar",4448676,80,DESCLASSIFICADO,BLCO,440,5.5
+"Programa Nacional de Controle da Dengue - PNCD",4448677,800,DESCLASSIFICADO,BLC,2120,2.65
+"Receituário B1",4448679,8000,PERDEU,BLCO,3040,0.38
+"Receituário B2",4448680,500,DESCLASSIFICADO,BLC,600,1.2
+"Receituário de Controle especial",4448681,8000,DESCLASSIFICADO,BLC,48400,6.05
+"Receituário DST-HIV- AIDS- Profilaxia",4448682,20,DESCLASSIFICADO,BLCO,700,35
+"Receituário DST-HIV- AIDS- Tratamento",4448683,150,DESCLASSIFICADO,BLCO,3868.5,25.79
+"Receituário simples",4448685,10000,DESCLASSIFICADO,BLC,15000,1.5
+"Registro diário do serviço antivetorial.",4448687,50,DESCLASSIFICADO,BLCO,325,6.5
+"Relatório Sócio Econômico",4448688,50,DESCLASSIFICADO,BLC,795,15.9
+"Requisição de clínica de RX",4448689,100,DESCLASSIFICADO,BLCO,767,7.67
+"Requisição de materiais e/ ou serviços",4448690,150,DESCLASSIFICADO,BLC,1072.5,7.15
+"Requisição de ultrassonografia",4448691,300,DESCLASSIFICADO,BLCO,1833,6.11
+"Requisição para exame laboratório Conveniado",4448693,300,DESCLASSIFICADO,BLCO,1698,5.66
+"Requisição para exame laboratório Municipal",4448694,300,DESCLASSIFICADO,BLCO,1698,5.66
+"Requisição para fisioterapia",4448695,50,DESCLASSIFICADO,BLC,500,10
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",4448707,50,DESCLASSIFICADO,BLC,300,6
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",4448708,50,DESCLASSIFICADO,BLC,300,6
+"SISVAN- cadastro de domícilio",4448709,50,DESCLASSIFICADO,BLC,300,6
+"SISVAN- Mapa de Acompanhamento Nutricional",4448710,50,DESCLASSIFICADO,BLC,300,6
+"Solicitação de Eletrocardiograma",4448712,150,DESCLASSIFICADO,BLC,840,5.6
+"Termo de solicitação e informação 2 vias autocopiativo",4448715,70,DESCLASSIFICADO,BLC,1120,16
+"Tratamento cirúrgico",4448716,5000,PERDEU,UN,200,0.04
+BANNER,4448717,150,VENCEU,UNI,7275,48.5
+"Folder 21x29,7cm 2 dobras",4448718,10000,PERDEU,BLC,630,0.063
+"Folder 297x21cm 3 dobras",4448719,50000,VENCEU,UN,2450,0.049
+"Folder 297x21cm 2 dobras",4448720,50000,VENCEU,UN,3900,0.078
+"Folder 297x21cm 3 dobras",4448721,250000,VENCEU,UN,17500,0.07
+"Panfleto 15x21cm papel couche colorido 4x0 brilho frente  11",4448722,10000,VENCEU,UN,470,0.047
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",4448723,10000,PERDEU,UN,550,0.055
+"Panfleto 15x21cm papel sulfite colorido 4x0 brilho frente e",4448724,5000,VENCEU,UN,295,0.059
+"placa - adesivo 35,5x21cm",4448725,1000,VENCEU,UNI,4990,4.99
+"Placa Adesiva 20x10 cm",4448726,1000,VENCEU,UNI,2990,2.99
+"Cartão nacional do SUS",4448727,30000,PERDEU,UNI,59700,1.99

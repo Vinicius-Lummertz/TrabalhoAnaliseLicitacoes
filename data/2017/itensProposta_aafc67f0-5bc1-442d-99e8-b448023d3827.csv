@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Governo Central",4360747,1,PERDEU,SV,0,0
+"Secretaria de Saúde",4360748,1,VENCEU,SV,350000,350000
+"Fundação Cultural de Criciúma; Fundação Municipal de Esporte",4360749,1,PERDEU,SV,0,0
+"Secretaria Ação Social.",4360750,1,PERDEU,SV,0,0

@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cloridrato de cetamina 1, 16 g",1258121,18,10,ATIVO,FRASCO,125,12.5
+"Cloridrato de xilazina 2%",1258139,17,10,ATIVO,FRASCO,130,13
+Acepromazina.,1258140,16,2,ATIVO,FRASCO,32,16
+"Spray para tratamento de bicheiras",1258142,10,25,ATIVO,FRASCO,312.5,12.5
+"Vermífugo de amplo espectro",1258143,9,200,ATIVO,CAIXA,2000,10
+"Vermífugo para tratamento de giárdia",1258144,8,100,ATIVO,CAIXA,1000,10
+Sarnicida,1258145,6,15,ATIVO,FRASCO,67.5,4.5
+"Vacina Anti-rábica para cães e gatos",1258146,14,200,ATIVO,FRASCO,1100,5.5
+"Parasiticida injetável",1258152,5,15,ATIVO,FRASCO,201,13.4

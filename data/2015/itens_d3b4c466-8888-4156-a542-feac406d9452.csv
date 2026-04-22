@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa 20ml, sem agulha",1258680,35,48500,ATIVO,UNIDADE,35890,0.74
+"Seringa 10ml, sem agulha",1258681,34,16000,ATIVO,UNIDADE,9440,0.59
+"Seringa com trava de segurança, 5ml, sem agulha",1258682,33,70500,ATIVO,UNIDADE,55695,0.79
+"Seringas descartáveis com agulha desconectável (13 x 0,45mm)",1258683,31,30000,ATIVO,UNIDADE,5460,0.182
+"Lanceta do paciente - refil",1258684,27,250000,ATIVO,UNIDADE,69750,0.279
+"Equipo  tipo microgotas para solução parenteral",1258685,24,50000,ATIVO,UNIDADE,93500,1.87
+"Dispositivo para infusão endovenosa, n° 23 (apelido scalp).",1258686,21,60000,ATIVO,UNIDADE,9480,0.158
+"Seringa com trava de segurança, 3ml, sem agulha",1258687,32,63000,ATIVO,UNIDADE,49140,0.78
+"Cateter venoso de segurança nº 22G",1258688,17,3600,ATIVO,UNIDADE,4320,1.2
+"Cateter venoso de segurança nº 24G",1258693,18,2500,ATIVO,UNIDADE,3000,1.2
+"Ataduras de Crepom",1258701,4,40000,ATIVO,UNIDADE,25600,0.64
+"ÁLCOOL ETÍLICO.",1258702,5,2500,ATIVO,CAIXA,13925,5.57
+"Cateter venoso de segurança nº 16G",1258703,14,1000,ATIVO,UNIDADE,1200,1.2
+"Cateter venoso de segurança nº 18G",1258704,15,4000,ATIVO,UNIDADE,4800,1.2
+"Cateter venoso de segurança nº 20G",1258705,16,3200,ATIVO,UNIDADE,3840,1.2

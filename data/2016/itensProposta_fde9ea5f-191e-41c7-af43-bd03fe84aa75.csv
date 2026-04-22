@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MICRO COMPUTADOR Processador: 3.1 GHz",4345103,5,VENCEU,UND,24850,4970
+"MICRO COMPUTADOR Processador: 3.7 GHz",4345104,5,PERDEU,UND,18100,3620
+MONITOR,4345105,1,PERDEU,UND,985,985

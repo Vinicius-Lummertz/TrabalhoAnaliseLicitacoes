@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha em MDF",4427035,13,DESCLASSIFICADO,UNI,3380,260
+"Balcão em MDF acoplado às bancadas de inox.",4427036,7,DESCLASSIFICADO,UN,4550,650
+"Bancada estrutura em madeira MDF",4427037,2,PERDEU,UN,700,350
+"Cadeira giratória tipo executiva.",4427038,16,DESCLASSIFICADO,UNI,3360,210
+"CADEIRA ESTOFADA",4427039,43,PERDEU,UN,2666,62
+Poltrona,4427040,15,DESCLASSIFICADO,UND,5775,385
+"Armário aberto 1,00 x 0,30 x 2,00m",4427041,2,DESCLASSIFICADO,UN,800,400
+"Armário aberto 1,60 x 0,37 x 2,00m",4427042,3,DESCLASSIFICADO,UN,1800,600
+"Painel liso",4427043,2,PERDEU,UN,760,380
+"Armário arquivo.",4427045,15,DESCLASSIFICADO,UN,8100,540
+"Armário com 2 portas",4427046,15,DESCLASSIFICADO,UN,6000,400
+"Armário tipo Vestiário .",4427047,2,DESCLASSIFICADO,UN,880,440
+"Balcão atendimento.",4427048,2,PERDEU,UN,5000,2500
+GAVETEIRO,4427049,6,PERDEU,UND,1200,200
+"MESA SIMPLES",4427050,1,INABILITADO,UND,410,410
+"Suporte para CPU com rodízios.",4427051,5,DESCLASSIFICADO,UN,500,100
+"Mesa reunião oval",4427052,1,DESCLASSIFICADO,UN,800,800
+"Armário com 2 portas",4427053,1,VENCEU,UN,400,400
+"Organizador (caixa plástica)",4427131,10,PERDEU,UN,500,50
+"Fichário de mesa",4427132,5,PERDEU,UN,250,50
+"Lixeiras de plástico com tampa e pedal",4427133,12,DESCLASSIFICADO,UN,720,60
+"Contentor de lixo",4427134,1,PERDEU,UN,525,525
+"Carro funcional  para limpeza.",4427135,1,PERDEU,CNJ,1300,1300
+"Lixeira em polietileno resistente, capac. 40 litros Acompanh",4427136,5,VENCEU,UN,675,135
+"Lixeira em polietileno resistente, capac. 40 litros",4427137,5,PERDEU,UN,450,90
+"Aparelho telefônico convencional de mesa com fio.",4427139,4,PERDEU,UN,180,45
+"APARELHO MICROONDAS",4427140,1,PERDEU,UNI,320,320
+"Refrigerador tipo doméstico 1 porta.",4427143,1,PERDEU,UN,1200,1200
+"Refrigerador tipo doméstico 2 portas",4427144,2,VENCEU,UN,2900,1450
+"Televisor colorido 40 polegadas",4427145,1,PERDEU,UN,1599,1599
+"MICROCOMPUTADOR LINUX",4427147,8,DESCLASSIFICADO,UN,12000,1500
+"MICROCOMPUTADOR WINDOWS",4427148,2,DESCLASSIFICADO,UN,5700,2850

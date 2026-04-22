@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4427383,7,PERDEU,UNI,1925,275
+BALCAO,4427384,4,PERDEU,UNI,1764,441
+Bancada,4427385,1,INABILITADO,UNI,304,304
+"Balcão de atendimento com porta vai-vem",4427386,1,INABILITADO,UN,1211,1211
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4427390,2,PERDEU,UNI,570,285
+"Armário aberto tipo Prateleira 1,60 x 0,37 x 2,00m",4427391,3,DESCLASSIFICADO,UN,2010,670
+"Painel liso",4427392,1,PERDEU,UN,349,349
+"Armário arquivo.",4427394,12,DESCLASSIFICADO,UN,11280,940
+"Armário com 2 portas",4427395,10,PERDEU,UN,4780,478
+"Balcão atendimento.",4427397,2,INABILITADO,UN,3760,1880
+GAVETEIRO,4427398,4,DESCLASSIFICADO,UND,1072,268
+"Suporte para CPU com rodízios.",4427400,5,VENCEU,UN,125,25
+"Mesa reunião oval",4427401,1,PERDEU,UN,457,457
+"Armário com 2 portas",4427402,1,DESCLASSIFICADO,UN,582,582

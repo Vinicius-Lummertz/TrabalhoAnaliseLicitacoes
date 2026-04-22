@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dieta nutricionalmente completa",4432209,2000,VENCEU,LAT,78800,39.4
+"Dieta semi-alimentar e hipoalergênica",4432210,1000,DESCLASSIFICADO,LAT,84500,84.5
+"Espessante a base de amido de milho modificado",4432211,12,PERDEU,LAT,648,54
+"Fórmula infantil para lactentes e de seguimento para lact",4432217,180,PERDEU,LAT,23490,130.5
+"Suplemento Nutricional lácteo em pó, enriquecido com vitamin",4432221,300,DESCLASSIFICADO,LAT,10140,33.8
+"Alimento nutricionalmente completo para nutrição",4432223,120,VENCEU,LAT,5364,44.7

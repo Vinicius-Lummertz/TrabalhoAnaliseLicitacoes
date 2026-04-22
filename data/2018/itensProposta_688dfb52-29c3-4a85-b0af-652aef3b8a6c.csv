@@ -1,0 +1,63 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amitriptilina , cloridrato 25mg",4435630,1500000,VENCEU,COMP,93000,0.062
+"Betametasona, diproprionato +  betametasona fosfato 1ml",4435648,5000,DESCLASSIFICADO,AMP,20250,4.05
+"Biperideno, cloridrato 2mg.",4435650,250000,VENCEU,CP,37500,0.15
+"Biperideno, cloridrato 5mg/mL 1ml",4435651,500,VENCEU,AMP,880,1.76
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml (embal",4435656,10,VENCEU,FR.,215.9,21.59
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",4435657,10,VENCEU,FR.,205,20.5
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",4435658,10,VENCEU,FR.,194.9,19.49
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml (embala",4435659,10,VENCEU,FR.,196.2,19.62
+"Carbamazepina 200mg",4435661,1000000,DESCLASSIFICADO,CP,150000,0.15
+"Clonazepam 2,5mg/mL 20ml, frasco de vidro âmbar",4435679,200,DESCLASSIFICADO,FR.,1430,7.15
+"Clonazepam 2mg.",4435680,2200000,VENCEU,COMP,143000,0.065
+"Clorpromazina, cloridrato 100mg.",4435688,300000,PERDEU,CP,63000,0.21
+"Clorpromazina, cloridrato 25mg.",4435689,220000,VENCEU,CP,39600,0.18
+"Clorpromazina, cloridrato 40mg/mL gotas",4435690,400,VENCEU,FR.,1832,4.58
+"Clorpromazina, cloridrato 5mg/mL, INJETÁVEL",4435691,1000,DESCLASSIFICADO,AMP,1970,1.97
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada 30g",4435692,3000,VENCEU,BIS,24000,8
+"Diazepam 10mg.",4435695,900000,DESCLASSIFICADO,COMP,71100,0.079
+"Diazepam 5mg.",4435696,35000,DESCLASSIFICADO,CP,2800,0.08
+"Diazepam 5mg/ml solução injetavel 2ml",4435697,3000,DESCLASSIFICADO,AMP,3690,1.23
+"Dopamina 5mg/ml 10ml",4435707,400,DESCLASSIFICADO,AMP,876,2.19
+"Etomidato 2mg/ml ampola 10ml.",4435718,200,VENCEU,AMP,1628,8.14
+"FENITOINA 100MG",4435719,280000,DESCLASSIFICADO,CP,78400,0.28
+"Fenitoina 50mg/mL solução injetável 5ml",4435720,200,VENCEU,AMP,430,2.15
+"FENOBARBITAL 100mg",4435721,320000,VENCEU,CP,29120,0.091
+"Fenobarbital 40mg/mL - solução oral- 20ml frasco ambar",4435723,2000,VENCEU,FR.,5540,2.77
+"Fentanila 0,05mg/ml ampola 2mL",4435724,500,DESCLASSIFICADO,AMP,1625,3.25
+"Fitomenadiona 10mg/ml solução injetavel 5ml",4435726,50,VENCEU,AMP,53,1.06
+"Flumazenil 0,1mg/mL injetável 5ml",4435728,120,VENCEU,AMP,1068,8.9
+"Fluoxetina, cloridrato 20mg",4435730,1300000,DESCLASSIFICADO,COMP,806000,0.62
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g",4435731,1500,PERDEU,FR.,6435,4.29
+"HALOPERIDOL 1MG",4435739,70000,VENCEU,CP,7700,0.11
+"Haloperidol 5mg.",4435740,180000,VENCEU,CP,16200,0.09
+"Haloperidol 5mg/mL  1ml",4435741,3000,DESCLASSIFICADO,AMP,3750,1.25
+"Haloperidol, decanoato 70,52mg/mL 1ml",4435742,5000,VENCEU,AMP,23700,4.74
+"Haloperidol, 2mg/ml solução oral, frasco de vidro âmbar.",4435743,50,VENCEU,FR.,114.5,2.29
+"Heparina 5000 UI/0,25mL",4435744,8000,VENCEU,AMP,32400,4.05
+"Imipramina 25mg blíster fracionável.",4435752,700000,VENCEU,CP,182000,0.26
+"LEVODOPA 250MG + CARBIDOPA 25MG",4435763,36000,VENCEU,CP,25200,0.7
+"Levomepromazina, maleato 100mg.",4435765,200000,VENCEU,CP,144000,0.72
+"Levomepromazina, maleato 25mg.",4435766,150000,VENCEU,CP,52500,0.35
+"Lidocaína 2% gel 30g",4435773,9000,DESCLASSIFICADO,BIS,37350,4.15
+"Lidocaina sem vaso constritor 2% 20ml",4435774,4000,DESCLASSIFICADO,FR/AM,23960,5.99
+"Lidocaina, cloridrato 100mg/mL spray c/ 100 ml",4435775,80,VENCEU,UNI,3256,40.7
+"Metoprolol, tartarato 1mg/ml ampola 5ml.",4435788,500,PERDEU,AMP,10325,20.65
+"Midazolam, maleato 5mg/mL 3ml",4435793,2000,DESCLASSIFICADO,COMP,3900,1.95
+"Morfina 10mg/mL INJETÁVEL 1ML",4435794,3000,VENCEU,AMP,4410,1.47
+"Morfina 30 mg",4435795,6000,VENCEU,COMP,5880,0.98
+"Naloxona, Hidrocloreto 0,4mg/mL 1ml",4435796,180,VENCEU,AMP,1079.82,5.999
+"Nitroglicerina 5mg/ml",4435802,20,VENCEU,AMP,529.6,26.48
+"Óleo Mineral  100ml",4435806,8000,DESCLASSIFICADO,FR.,16800,2.1
+"Ondansetrona 4mg injetável 2mL",4435808,10000,DESCLASSIFICADO,AMP,15000,1.5
+"Petidina, cloridrato 50mg/mL injetável 2ml",4435814,200,DESCLASSIFICADO,AMP,490,2.45
+"Prednisona 20mg.",4435818,400000,VENCEU,CP,88000,0.22
+"Prednisona 5mg.",4435819,220000,VENCEU,CP,25300,0.115
+"Prometazina 25mg/mL injetavel 2ml",4435820,12000,DESCLASSIFICADO,AMP,22320,1.86
+"Prometazina, cloridrato 25mg",4435821,320000,VENCEU,COMP,35200,0.11
+"Risperidona 1mg",4435825,30000,PERDEU,COMP,2370,0.079
+"Risperidona 2mg",4435826,35000,PERDEU,COMP,3325,0.095
+"Tenoxicam 20 mg pó para solução injetável endovenoso e intra",4435840,1500,DESCLASSIFICADO,FR/AM,9315,6.21
+"Tramadol, cloridrato 50mg",4435845,800000,DESCLASSIFICADO,COMP,552000,0.69
+"Tramadol, cloridrato 50mg/mL 1ml",4435846,12000,DESCLASSIFICADO,AMP,20280,1.69
+"Vitaminas do Complexo B 5/1/30/4/3 mg",4435851,350000,DESCLASSIFICADO,COMP,33600,0.096

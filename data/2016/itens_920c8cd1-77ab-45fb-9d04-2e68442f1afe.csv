@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomada dupla hexagonal completa 4 x 2(2P+T) 20A",1287393,18,1646,ATIVO,UNIDADE,15455.94,9.39
+"Tomada hexagonal completo 4 x 2 (2P+T) 20A",1287394,17,586,ATIVO,UNIDADE,3691.8,6.3
+"Interruptor completo 4 x 2 simples + tomada 20A",1287395,16,3,ATIVO,UNIDADE,28.2,9.4
+"Interruptor Paralelo  (Three-Way)",1287396,15,16,ATIVO,UNIDADE,113.6,7.1
+"Interruptor completo 4 x 2 triplo modular",1287397,14,6,ATIVO,UNIDADE,72,12
+"Interruptor completo 4 x 2 duplo modular",1287398,13,17,ATIVO,UNIDADE,144.5,8.5
+"Luminária de LED 80W",1287409,2,14,ATIVO,UNIDADE,5460,390
+"Refletor de LED 100W",1287410,1,40,ATIVO,UNIDADE,15200,380

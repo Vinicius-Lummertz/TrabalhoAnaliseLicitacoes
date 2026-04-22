@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pirâmide 10x10m",0,50,VENCEU," ",21350,427
+"Pirâmide 5x5m",0,50,VENCEU," ",9150,183
+"Palco 14X14m",0,5,VENCEU," ",18300,3660
+"Palco 10x10m",0,5,VENCEU," ",7625,1525
+"Palco 5x5m",0,5,VENCEU," ",4575,915

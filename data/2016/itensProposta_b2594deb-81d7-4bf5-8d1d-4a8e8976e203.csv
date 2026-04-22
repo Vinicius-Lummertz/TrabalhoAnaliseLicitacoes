@@ -1,0 +1,64 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apagador para quadro branco",4356318,350,NAO_COTOU,UND,0,0
+"Apagador quadro negro escolar",4356321,600,NAO_COTOU,UND,0,0
+"Apontador de lápis.",4356323,600,NAO_COTOU,CX,0,0
+"Barbante de algodão fio numera 08",4356325,250,NAO_COTOU,RL,0,0
+"Borracha  branca escolar",4356326,500,NAO_COTOU,CX,0,0
+"Caderno Pequeno brochura não reciclado",4356328,40000,NAO_COTOU,UND,0,0
+"Caderno universitário capa dura 10 matérias",4356330,2000,NAO_COTOU,UND,0,0
+"Caderno universitário capa dura 10 matérias",4356334,6000,DESCLASSIFICADO,UND,45420,7.57
+"Caderno de desenho capa dura",4356336,2000,NAO_COTOU,UND,0,0
+"CANETA DESTACA TEXTO",4356337,300,NAO_COTOU,CX,0,0
+"Caneta ponta esférica cor azul",4356339,1000,NAO_COTOU,CX,0,0
+"Caneta ponta esférica cor Vermelha",4356341,100,NAO_COTOU,CX,0,0
+"Cartolina com gramatura mínima 140/gm2",4356343,500,NAO_COTOU,PCT,0,0
+"Cartolina com gramatura mínima 140/gm2",4356346,1500,PERDEU,PCT,44985,29.99
+"CARTOLINA TAMANHO OFICIO",4356348,50000,NAO_COTOU,UND,0,0
+"Clips tamanho 2/0",4356350,4000,NAO_COTOU,CX,0,0
+"Clips tamanho 8/0.",4356352,1800,NAO_COTOU,CX,0,0
+"Cola Bastão",4356354,1000,NAO_COTOU,UND,0,0
+"Cola Branca 1 kg",4356355,2700,NAO_COTOU,UND,0,0
+"Cola Branca.",4356357,10000,NAO_COTOU,UND,0,0
+"Cola colorida.",4356359,1500,NAO_COTOU,CX,0,0
+"Canetas hidrográficas",4356361,400,NAO_COTOU,UND,0,0
+"Fita adesiva em papel crepado",4356363,4200,NAO_COTOU,UND,0,0
+"Fita adesiva plástica transparente 12mm x 50 mt",4356365,3000,NAO_COTOU,UND,0,0
+"Fita adesiva plástica transparente 48 mm x 40 MT",4356367,4000,NAO_COTOU,UND,0,0
+"Fita crepe na cor bege",4356369,5000,NAO_COTOU,UND,0,0
+"Folha de Isopor 1,5",4356370,200,NAO_COTOU,FL,0,0
+"Folha de Isopor 2,5",4356372,200,NAO_COTOU,FL,0,0
+"Folha em EVA 600x400x2mm",4356374,10000,NAO_COTOU,UND,0,0
+"Folha em EVA 600x400x2mm",4356377,30000,PERDEU,UND,30900,1.03
+"Folha em EVA 600x400x2mm estampas variadas",4356379,5000,NAO_COTOU,UND,0,0
+"Grampeador médio de mesa metálico 26/6.",4356381,600,NAO_COTOU,UND,0,0
+"Grampo para grampeador em aço galvanizado 26/6",4356383,1000,NAO_COTOU,CX,0,0
+"Giz branco plastificado",4356385,5000,NAO_COTOU,CX,0,0
+"Giz colorido plastificado",4356387,3500,NAO_COTOU,CX,0,0
+"Giz de cera grosso e curto.",4356389,8500,NAO_COTOU,CX,0,0
+"Guache Cores básicas",4356390,6000,NAO_COTOU,UND,0,0
+"Lápis colorido.",4356392,5000,NAO_COTOU,CX,0,0
+"Lápis colorido.",4356395,15000,PERDEU,CX,44100,2.94
+"Lápis preto de grafite nº 2",4356397,1000,NAO_COTOU,CX,0,0
+"MARCADOR PARA QUADRO BRANCO",4356399,600,NAO_COTOU,UND,0,0
+"Massa de modelar macia",4356401,6000,NAO_COTOU,CX,0,0
+"Papel Almaço com pauta e margem n 05",4356403,1250,NAO_COTOU,RES,0,0
+"Papel Almaço com pauta e margem n 05",4356406,3750,VENCEU,RES,77550,20.68
+"papel cartão 180 Gr/m2",4356408,20000,NAO_COTOU,UND,0,0
+"PAPEL CERA",4356410,5000,NAO_COTOU,UND,0,0
+"papel colorset",4356412,30000,NAO_COTOU,UND,0,0
+"PAPEL DUPLEX",4356414,20000,NAO_COTOU,UND,0,0
+"Papel Off-Set, alcalino, formato A-4",4356415,650,NAO_COTOU,CX,0,0
+"Papel Off-Set, alcalino, formato A-4",4356419,1950,PERDEU,CX,257400,132
+"PAPEL PARDO KRAFT",4356420,1000,NAO_COTOU,RL,0,0
+Percejevo,4356422,150,NAO_COTOU,CX,0,0
+"Perfurador de papel para 20 folhas",4356424,90,NAO_COTOU,UND,0,0
+"PINCEL ATOMICO",4356426,5000,NAO_COTOU,UND,0,0
+"Reabastecedor de Pincel para Quadro Branco",4356428,400,NAO_COTOU,UND,0,0
+"Pincel para Quadro Branco Recarregável",4356430,1500,NAO_COTOU,UND,0,0
+"Pincel chato - numero 4",4356431,2000,NAO_COTOU,UND,0,0
+"Pincel chato - numero 6",4356433,2000,NAO_COTOU,UND,0,0
+"Pincel chato - numero 8",4356435,2000,NAO_COTOU,UND,0,0
+"Pistola grande 40 ww",4356437,300,NAO_COTOU,UND,0,0
+"Régua escritório",4356439,12000,NAO_COTOU,UND,0,0
+"Tesoura de ponta arredondada",4356441,10000,NAO_COTOU,UND,0,0
+"Tesoura Doméstica",4356443,600,NAO_COTOU,UND,0,0

@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fita de Urina c/10 parâmetros.",4428080,27000,VENCEU,TEST,18900,0.7
+"Beta HCG teste rápido",4428081,1900,PERDEU,TEST,1159,0.61
+"Teste imunocromatográfico.",4428085,800,VENCEU,TEST,3400,4.25
+"Lamínulas 20x20 cx c/ 50 unidades",4428087,100,VENCEU,CX,164,1.64
+"Laminas sem lapidação p/ microscópio- cx c/ 50 unidades",4428088,100,PERDEU,CX,264,2.64
+"Laminas com extremidade fosca para baciloscopia (tuberculose",4428089,100,PERDEU,CX,309,3.09
+"Pote plástico com tampa de rosca descartável p/ coleta de 10",4428095,55000,VENCEU,UNI,13200,0.24
+"Adesivo (bandagem) estéril indicado p/ uso após punção venos",4428097,60000,VENCEU,UN,1194,0.0199
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",4428099,18000,INABILITADO,UN,5760,0.32
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",4428100,70000,INABILITADO,UN,22400,0.32

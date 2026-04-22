@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÓLEO DE SOJA - pet de 900 ml",0,381,VENCEU," ",1230.04,3.22845
+"MACARRÃO - pct 500g",0,381,VENCEU," ",850.2,2.2315
+"LEITE - 1 litro",0,762,VENCEU," ",1917.5,2.5164
+"FEIJÃO PRETO - pct 1 kilo",0,381,VENCEU," ",1443.53,3.7888
+"FARINHA MANDIOCA - pct 1 kilo",0,381,VENCEU," ",814.01,2.1365
+"FARINHA DE MILHO - pct 1 kilo",0,381,VENCEU," ",759.75,1.9941
+"FARINHA D TRIGO - pct 1 kilo",0,381,VENCEU," ",795.95,2.0891
+"BISCOITO DOCE - pct 400g",0,381,VENCEU," ",857.44,2.2505
+"CAFÉ - pct  500g",0,381,VENCEU," ",2528.89,6.6375
+"AÇUCAR REFINADO - pct 1 kilo",0,381,VENCEU," ",777.85,2.0416
+"ARROZ - pct 1 kilo",0,1143,VENCEU," ",2387.84,2.0891

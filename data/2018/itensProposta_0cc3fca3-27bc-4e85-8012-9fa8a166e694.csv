@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Braço de iluminação galvanizado 3 metros",0,35,VENCEU," ",3045,87
+"Luminária de LED 150W / 5.000K / 220V",0,211,VENCEU," ",188739.5,894.5
+"Luminária de LED 180W / 5.000K / 220V",0,20,VENCEU," ",26240,1312
+"Mão de obra para instalação",0,231,VENCEU," ",56479.5,244.5

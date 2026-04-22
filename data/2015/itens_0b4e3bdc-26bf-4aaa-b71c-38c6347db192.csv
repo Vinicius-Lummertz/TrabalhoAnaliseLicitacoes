@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno de Concreto D= 200mm Poroso",1273726,10,500,ATIVO,METRO,15000,30
+"Dreno de Concreto D= 1200mm PA2",1273727,9,429,ATIVO,METRO,111540,260
+"Dreno de Concreto D= 1000mm PA1",1273728,8,1000,ATIVO,METRO,148000,148
+"Dreno de Concreto D= 800mm PA1",1273729,7,800,ATIVO,METRO,87920,109.9
+"Dreno de Concreto D= 400mm Perfurado",1273732,4,1500,ATIVO,METRO,49350,32.9

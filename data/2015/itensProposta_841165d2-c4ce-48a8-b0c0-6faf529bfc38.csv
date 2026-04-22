@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P.",4427958,20000,PERDEU,UNI,18200,0.91
+"Fralda descartável adulto tamanho M.",4427959,50000,VENCEU,UNI,37000,0.74
+"Fralda descartável adulto tamanho G.",4427960,55000,VENCEU,UNI,42900,0.78
+"Fralda descartável adulto tamanho XG.",4427961,50000,VENCEU,UNI,41000,0.82

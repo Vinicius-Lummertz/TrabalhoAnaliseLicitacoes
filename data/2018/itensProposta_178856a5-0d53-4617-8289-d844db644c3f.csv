@@ -1,0 +1,110 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abracadeira t-50r (20cm) c/100",0,1,PERDEU," ",16.3,16.3
+"Abracadeira t-80r (28cm) c/100",0,1,PERDEU," ",23.3,23.3
+"Abraçadeira tipo D 4",0,2,PERDEU," ",5.6,2.8
+"Armário CL 600-500-250",0,1,PERDEU," ",264,264
+"Armário CL 950-600-220",0,1,PERDEU," ",439,439
+"arruela lisa 1/4",0,10,PERDEU," ",0.8,0.08
+"barramento chato 3/8 x 1 - (516A)",0,3.6,PERDEU," ",612,170
+"Cabeçote alumínio 4",0,4,PERDEU," ",100.8,25.2
+"Cabo de cobre nu - 25mm",0,3,PERDEU," ",148.5,49.5
+"CABO DE COBRE NU - 35MM",0,9,PERDEU," ",445.5,49.5
+"Cabo de cobre NU - 50mm.",0,13,PERDEU," ",643.5,49.5
+"Cabo de cobre NU - 50mm.",0,2,PERDEU," ",99,49.5
+"Cabo flex 750v - 1,50mm azul.",0,100,PERDEU," ",67,0.67
+"Cabo flex 750v - 1,50mm preto",0,100,PERDEU," ",67,0.67
+"Cabo flex 750v - 2,50mm azul",0,100,PERDEU," ",105,1.05
+"Cabo flex 750v - 2,50mm preto",0,100,PERDEU," ",105,1.05
+"Cabo flex 750v. 1,50mm - amar/verd",0,200,PERDEU," ",140,0.7
+"Cabo flexível - EPR 90- 50 mm - Verde",0,105,PERDEU," ",2415,23
+"Cabo flexível - EPR 90- 6,0mm - preto",0,140,PERDEU," ",5822.6,41.59
+"Cabo flexível - EPR 90- 6,0mm - Verde",0,20,PERDEU," ",850,42.5
+"Cabo flexível - EPR 90- 6,0mm - Vermelho",0,140,PERDEU," ",5950,42.5
+"Cabo flexível - EPR 90- 6,0mm azul",0,20,PERDEU," ",55,2.75
+"Cabo flexível - EPR 90- 6,0mm preto",0,60,PERDEU," ",165,2.75
+"Cabo flexível - EPR 90- 6,0mm verde",0,20,PERDEU," ",56,2.8
+"Cabo flexível - EPR 90- 95mm - azul",0,140,PERDEU," ",5992,42.8
+"Cabo flexível - EPR 90- 95mm - Branco",0,140,PERDEU," ",5992,42.8
+"Cabo flexível 750v - 16mm - Branco",0,3,PERDEU," ",20.7,6.9
+"Cabo flexível 750v - 16mm - Preto",0,3,PERDEU," ",20.7,6.9
+"Cabo flexível 750v - 16mm - Verde",0,6,PERDEU," ",41.4,6.9
+"Cabo flexível 750v - 16mm - Vermelho",0,3,PERDEU," ",20.7,6.9
+"Cabo flexível 750v - 2,50mm azul",0,10,PERDEU," ",10.5,1.05
+"Cabo flexível 750v - 2,50mm preto",0,10,PERDEU," ",10.5,1.05
+"Cabo flexível 750v - 2,50mm verde",0,10,PERDEU," ",10.5,1.05
+"Cabo flexível 750v - 6,00mm azul",0,40,PERDEU," ",100,2.5
+"Cabo flexível 750v - 6,00mm preto",0,100,PERDEU," ",250,2.5
+"Cabo flexível 750v - 6,00mm verde",0,40,PERDEU," ",100,2.5
+"Cabo flexível 750v- 16,00mm azul",0,3,PERDEU," ",20.7,6.9
+"Cabo pp 500v 2 x 1,50mm",0,20,PERDEU," ",37,1.85
+"Caixa de alumínio",0,1,PERDEU," ",194,194
+"Caixa de alumínio TC dupla",0,1,PERDEU," ",448,448
+"Caixa de concreto - 30x30",0,1,PERDEU," ",41.5,41.5
+"Caixa de concreto - 40x40",0,1,PERDEU," ",65.5,65.5
+"Caixa de concreto 30x30",0,2,PERDEU," ",83,41.5
+"Conector box reto 4",0,10,PERDEU," ",760,76
+"Conector PF 120mm.",0,11,PERDEU," ",148.5,13.5
+"Curva de PVC 90 1.",0,2,PERDEU," ",1.42,0.71
+"Curva eletr. 90 4",0,8,PERDEU," ",416,52
+"Disjuntor caixa moldada JHM1 16a",0,3,PERDEU," ",330,110
+"Disjuntor caixa moldada JHM1 200a",0,2,PERDEU," ",532,266
+"Disjuntor caixa moldada JHM1 20a",0,3,PERDEU," ",330,110
+"Disjuntor caixa moldada JHM1 32a",0,2,PERDEU," ",220,110
+"Disjuntor caixa moldada JHM1 400a",0,1,PERDEU," ",872,872
+"Disjuntor trif. Dwp 225 100-a",0,2,PERDEU," ",464,232
+"Disjuntor trif. Dwp 225 200-a",0,2,PERDEU," ",464,232
+"Disjutor trif. Mdw c32-3",0,1,PERDEU," ",42,42
+"Dispositivo proteção contra surto 45ka 220v",0,4,PERDEU," ",172,43
+"Fita galvanizada lisa 3/4",0,30,PERDEU," ",55.5,1.85
+"Fita isolante 20mts - azul 2000-eaz",0,1,PERDEU," ",4.6,4.6
+"Fita isolante 20mts - branco 2000-ebr",0,2,PERDEU," ",9.2,4.6
+"Fita isolante 20mts - pto 2000 - em",0,7,PERDEU," ",28,4
+"Fita isolante 20mts - verde 2000-evd",0,1,PERDEU," ",4.6,4.6
+"Fita isolante 20mts - vermelho 2000-evm",0,2,PERDEU," ",9.2,4.6
+"Haste Ter. Cobre 2,40mt x 5/8 - duplo",0,6,PERDEU," ",259.2,43.2
+"Iluminação de emergencia 30 leds",0,1,PERDEU," ",14.8,14.8
+"Iluminação de emergência led 2200 lumens",0,1,PERDEU," ",205,205
+"Inter Art bca-1 tec-sim com tomada 109-es",0,3,PERDEU," ",23.7,7.9
+"Inter. Art BCA-2 TEC-SPS Com tomada 128-es",0,1,PERDEU," ",10.3,10.3
+"Inter. Art. BCA-1 simples 106 es",0,3,PERDEU," ",11.1,3.7
+"Inter. Art. BCA-2 simples 107 es",0,1,PERDEU," ",7,7
+"Inversor de frequência 60cv 380v 88A",0,1,PERDEU," ",11650,11650
+"Isolador de barramento 30x40mm rosca 1/4",0,14,PERDEU," ",88.2,6.3
+"Lâmpada de LED 12w 6500k bivolt",0,9,PERDEU," ",133.2,14.8
+"Lâmpada de LED 15w 6500k",0,2,PERDEU," ",38.8,19.4
+"Luva de PVC 1",0,2,PERDEU," ",1.1,0.55
+"Luva de pvc 4",0,6,PERDEU," ",56.4,9.4
+"luva eletroduto 4",0,4,PERDEU," ",135.6,33.9
+"Mini disjuntor 1p 10a dz47-63",0,1,PERDEU," ",6.85,6.85
+"Mini disjuntor 3p 32a dz47-63",0,2,PERDEU," ",62,31
+"Mini disjuntor 3p 63a dz47-63",0,1,PERDEU," ",38.1,38.1
+"Mini disjuntor term. Mdw - b 10",0,1,PERDEU," ",7,7
+"Mini disjuntor term. Mdw - b 20",0,3,PERDEU," ",21,7
+"Parafuso lentilha 1/4 x 3/4",0,10,PERDEU," ",3.5,0.35
+"peveduto (110v) 4",0,210,PERDEU," ",1239,5.9
+"Pino extensão macho 2p preto",0,2,PERDEU," ",4.3,2.15
+"Plafon de teto branco 1L e27",0,5,PERDEU," ",13,2.6
+"Porca sextavada 1/4.",0,10,PERDEU," ",1.1,0.11
+"Presilha galvanizada p/ fita",0,15,PERDEU," ",14.55,0.97
+"PRESILHA GALVANIZADA P/ FITA LISA",0,5,PERDEU," ",4.85,0.97
+"Subestação em poste completo p/ trafo 300KVa",0,1,PERDEU," ",9990,9990
+"Tampa de ferro 70x90 energia 125kn",0,1,PERDEU," ",650,650
+"Tartaruga nylon preta 1l e-27",0,4,PERDEU," ",63.2,15.8
+"Term tipo ilhos isol p/ 6mm ti23a",0,10,PERDEU," ",3.3,0.33
+"Terminal da sapata TA 10mm",0,5,PERDEU," ",9.9,1.98
+"Terminal da sapata TA 35mm",0,10,PERDEU," ",26,2.6
+"Terminal pre-isolante TP 23,6",0,10,PERDEU," ",6.7,0.67
+"Terminal sapata TA 95mm",0,12,PERDEU," ",86.4,7.2
+"Terminal tipo ilhos isolante p/ 6,00mm ti 23a",0,10,PERDEU," ",3.3,0.33
+"Terminal tipo ilhos isolante p/16,00mm ti 28",0,26,PERDEU," ",15.6,0.6
+"Terminal TM 25mm.",0,25,PERDEU," ",32,1.28
+"Terminal TM 35mm.",0,32,PERDEU," ",53.76,1.68
+"Terminal TM 50mm.",0,14,PERDEU," ",36.4,2.6
+"Terminal TM 95mm.",0,64,PERDEU," ",268.8,4.2
+"Tomada BA 2p+t 110-E",0,4,PERDEU," ",18.2,4.55
+"Tomada extensão femea 2p+t preto",0,2,PERDEU," ",8.6,4.3
+"Transformador 300Kva Trifásico 15Kv",0,1,PERDEU," ",6550,6550
+"Tubo eletr. PVC 4 x 3mt",0,4,PERDEU," ",162,40.5
+"Tubo eletroduto PVC 1 x 3,00mt",0,4,PERDEU," ",20.8,5.2
+"Tubo eletroduto rosca 4",0,2,PERDEU," ",244,122
+"Tubo espiral branco 3/4",0,6,PERDEU," ",28.2,4.7

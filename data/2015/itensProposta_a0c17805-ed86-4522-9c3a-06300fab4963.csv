@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",4332535,100,VENCEU,LT,330,3.3
+"Água Oxigenada, 10 vol",4332536,50,PERDEU,LT,155,3.1
+"Ataduras de Crepom Tamanho: 6 cm",4332537,10,PERDEU,PCT,36.9,3.69
+"Ataduras de Crepom Tamanho: 10 cm",4332538,40,PERDEU,PCT,236.8,5.92
+"Ataduras de Crepom Tamanho: 15 cm",4332539,20,PERDEU,PCT,164.4,8.22
+"Soro Fisiológico 100ml",4332540,2,NAO_COTOU,ML,0,0
+"Soro Fisiológico 250ml",4332541,4,NAO_COTOU,ML,0,0
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",4332542,150,VENCEU,CX,2983.5,19.89
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",4332543,100,VENCEU,CX,1989,19.89
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",4332544,40,VENCEU,CX,795.6,19.89
+"Máscara cirúrgicas",4332545,40,VENCEU,CX,176,4.4
+"Eletrodo Descartável para ECG",4332546,30,INABILITADO,UND,237.9,7.93
+"Cobertura/saco de óbito",4332547,40,VENCEU,UND,638.4,15.96
+"Mascara Respiratória",4332548,50,VENCEU,UND,116.5,2.33
+"KIT PARTO",4332549,12,PERDEU,UND,516.6,43.05
+"KIT QUEIMADURA",4332550,5,NAO_COTOU,UND,0,0
+"Par de pás para utilização em paciente ADULTO",4332551,15,NAO_COTOU,UND,0,0
+"Par de pás para utilização em paciente PEDIÁTRICO",4332552,5,NAO_COTOU,UND,0,0

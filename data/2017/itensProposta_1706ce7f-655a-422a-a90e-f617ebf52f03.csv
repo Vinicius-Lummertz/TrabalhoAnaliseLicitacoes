@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"GASOLINA COMUM",4367102,18000,VENCEU,LS,71388,3.966
+"DIESEL S-10",4367103,22800,VENCEU,LS,74920.8,3.286
+"ARLA galão de 20 litros",4367104,100,VENCEU,GAL,5900,59

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"DIESEL S-10",1297522,2,22800,ATIVO,LITROS,74920.8,3.286
+"GASOLINA COMUM",1301624,1,18000,ATIVO,LITROS,71388,3.966
+"ARLA galão de 20 litros",1315991,3,100,ATIVO,GALAO,5900,59

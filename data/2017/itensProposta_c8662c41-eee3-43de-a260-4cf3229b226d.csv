@@ -1,0 +1,46 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Capacete de Segurança com Abertura para Passar Água",4367934,12,NAO_COTOU,UND,0,0
+"Corda Flutuante 50 m",4367935,400,NAO_COTOU,M,0,0
+"Mochilas-cordas De 50 L",4367936,4,NAO_COTOU,UND,0,0
+"Coletes Salva-vidas (com Apito, Bainha E Faca Acoplada Ao Co",4367937,12,NAO_COTOU,UND,0,0
+"Kit Cabo De Arremesso",4367938,12,NAO_COTOU,UND,0,0
+"Bote Inflável 14 Pés",4367939,2,NAO_COTOU,UND,0,0
+Remos,4367940,14,NAO_COTOU,UND,0,0
+"Mochila De Equipamentos Para Fixar No Bote",4367941,4,NAO_COTOU,UND,0,0
+"Sacos Estanques 8 L",4367942,12,NAO_COTOU,UND,0,0
+"Porta Mapas Impermeável",4367943,2,NAO_COTOU,UND,0,0
+"Porta Rádio Impermeável",4367944,2,NAO_COTOU,UND,0,0
+"Cinto De Segurança Resgate 5 Pontos",4367945,4,NAO_COTOU,UND,0,0
+"Corda Semi-estática Capa Poliéster E Alma Poliamida",4367946,100,NAO_COTOU,M,0,0
+"Cordelete 6mm.",4367947,20,NAO_COTOU,M,0,0
+"Fita Tubular.",4367948,20,NAO_COTOU,M,0,0
+"Fita de Aproximação",4367949,4,NAO_COTOU,UND,0,0
+"Fita Anel",4367950,4,NAO_COTOU,UND,0,0
+"Ascensor Com Punho Julmar",4367951,4,NAO_COTOU,UND,0,0
+"Ascensor Peitoral",4367952,4,NAO_COTOU,UND,0,0
+"Blocante Pino Removível",4367953,8,NAO_COTOU,UND,0,0
+"Descensor Auto Blocante Ids",4367954,2,NAO_COTOU,UND,0,0
+"Freio Oito com Orelha Resgate em Aço",4367955,12,NAO_COTOU,UND,0,0
+"Descensor de Barras Rack",4367956,2,NAO_COTOU,UND,0,0
+"Luva de Vaqueta Rapel",4367957,12,NAO_COTOU,UND,0,0
+"Maca Envelope",4367958,2,NAO_COTOU,UND,0,0
+"Maca Mamute para Resgate em Altura",4367959,2,NAO_COTOU,UND,0,0
+"Mosquetão em D",4367960,12,NAO_COTOU,UND,0,0
+"Mosquetão Oval",4367961,12,NAO_COTOU,UND,0,0
+"Placa de Ancoragem",4367962,8,NAO_COTOU,UND,0,0
+"Polia Dupla Oscilante",4367963,8,NAO_COTOU,UND,0,0
+"Polia Simples Fixa",4367964,8,NAO_COTOU,UND,0,0
+"Polia Simples Oscilante",4367965,8,NAO_COTOU,UND,0,0
+"Protetor De Corda Modular",4367966,4,NAO_COTOU,UND,0,0
+"Triângulo De Evacuação",4367967,2,NAO_COTOU,UND,0,0
+"Sistema Tripé Com Resgatador",4367968,1,NAO_COTOU,UND,0,0
+"Caiaque tipo Duck",4367969,1,NAO_COTOU,UND,0,0
+"Tenda Gazebo Dobrável de Alumínio 3x3",4367970,1,NAO_COTOU,UND,0,0
+"Roupa de Neoprene Impermeável 3,2mm",4367971,12,VENCEU,UND,9120,760
+"Par de Luvas de Neoprene",4367972,12,PERDEU,UND,1199.88,99.99
+"Meia de Neoprene",4367973,12,PERDEU,UND,850.8,70.9
+"Par de Botas de Neoprene",4367974,12,VENCEU,UND,2280,190
+"Capuz de Neoprene",4367975,12,PERDEU,UND,1559.88,129.99
+"Lanterna Led de Mão",4367976,12,NAO_COTOU,UND,0,0
+"Lanterna Led de Cabeça",4367977,12,NAO_COTOU,UND,0,0
+"Cinto Salva-vidas",4367978,4,NAO_COTOU,UND,0,0

@@ -1,0 +1,93 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óleo lubrificante mineral  SAE 15W40, recomendado para motor",0,100,VENCEU," ",1820,18.2
+"Óleo lubrificante mineral  SAE 20W50, recomendado para motor",0,180,VENCEU," ",3276,18.2
+"Óleo lubrificante semissintético SAE 5W30, recomendado para",0,180,VENCEU," ",5769,32.05
+"Óleo lubrificante semissintético SAE 10W30, recomendado para",0,100,VENCEU," ",3105,31.05
+"Óleo lubrificante semissintético SAE 10W40, recomendado para",0,150,VENCEU," ",3795,25.3
+"Óleo lubrificante semissintético SAE 15W40, recomendado para",0,200,VENCEU," ",6580,32.9
+"Óleo lubrificante semissintético SAE 15W50, recomendado para",0,80,VENCEU," ",2024,25.3
+"Óleo lubrificante sintético SAE 5W30, recomendado para motor",0,150,VENCEU," ",5985,39.9
+"Óleo lubrificante sintético SAE 5W40, recomendado para motor",0,150,VENCEU," ",5985,39.9
+"Óleo lubrificante sintético SAE 10W40, recomendado para moto",0,80,VENCEU," ",2896,36.2
+"Óleo lubrificante mineral SAE 15W40, recomendado para motore",0,100,VENCEU," ",2085,20.85
+"Óleo lubrificante semissintético SAE 15W40,",0,100,VENCEU," ",2100,21
+"OLEO LUBRIFICACAO 5 W 30",0,100,VENCEU," ",4990,49.9
+"Óleo lubrificante sintético SAE 10W40",0,80,VENCEU," ",2080,26
+"Filtro lubrificante PSL619 ou similar",0,30,VENCEU," ",892.5,29.75
+"Filtro lubrificante PSL55 ou similar",0,40,VENCEU," ",1190,29.75
+"Filtro lubrificante PSL144 ou similar",0,5,VENCEU," ",130,26
+"Filtro lubrificante PSL320 ou similar",0,3,VENCEU," ",183.75,61.25
+"Filtro lubrificante PSL560 ou similar",0,30,VENCEU," ",892.5,29.75
+"Filtro lubrificante PSL327 ou similar",0,3,VENCEU," ",153.96,51.32
+"Filtro lubrificante PSL156 ou similar",0,5,VENCEU," ",351.1,70.22
+"Filtro lubrificante PSL655 ou similar",0,3,VENCEU," ",269.1,89.7
+"Filtro lubrificante PSL657 ou similar",0,5,VENCEU," ",342.3,68.46
+"Filtro lubrificante PSL78 ou similar",0,3,VENCEU," ",126.75,42.25
+"Filtro lubrificante PSL77 ou similar",0,3,VENCEU," ",126.75,42.25
+"Filtro lubrificante PSL47 ou similar",0,5,VENCEU," ",131.6,26.32
+"Filtro lubrificante PSL45 ou similar",0,5,VENCEU," ",162.05,32.41
+"Filtro lubrificante PSL902 ou similar",0,3,VENCEU," ",130.5,43.5
+"Filtro lubrificante PSL340 ou similar",0,5,VENCEU," ",358,71.6
+"Filtro lubrificante PSL323 ou similar",0,3,VENCEU," ",187.5,62.5
+"Filtro lubrificante PEL108 ou similar",0,10,VENCEU," ",328.5,32.85
+"Filtro lubrificante PEL675 ou similar",0,3,VENCEU," ",148.5,49.5
+"Filtro lubrificante PEL119 ou similar",0,4,VENCEU," ",157.88,39.47
+"Filtro lubrificante PEL310 ou similar",0,4,VENCEU," ",239.4,59.85
+"Filtro Ar Motor ARL5053 ou similar",0,3,VENCEU," ",98.43,32.81
+"Filtro Ar Motor ARL4147 ou similar",0,7,VENCEU," ",177.1,25.3
+"Filtro Ar Motor ARL4150 ou similar",0,7,VENCEU," ",201.25,28.75
+"Filtro Ar Motor ARL4154 ou similar",0,3,VENCEU," ",141.45,47.15
+"Filtro Ar Motor ARL4152 ou similar",0,3,VENCEU," ",119.34,39.78
+"Filtro Ar Motor ARL8839 ou similar",0,3,VENCEU," ",100.05,33.35
+"Filtro Ar Motor ARL8840 ou similar",0,3,VENCEU," ",133.65,44.55
+"Filtro Ar Motor ARL1034 ou similar",0,3,VENCEU," ",138,46
+"Filtro Ar Motor ARL9607 ou similar",0,3,VENCEU," ",106.95,35.65
+"Filtro Ar Motor ARL9602 ou similar",0,3,VENCEU," ",225.66,75.22
+"Filtro Ar Motor ARL5050 ou similar",0,3,VENCEU," ",141.45,47.15
+"Filtro Ar Motor ARL5055 ou similar",0,3,VENCEU," ",138,46
+"Filtro Ar Motor ARL5049 ou similar",0,3,VENCEU," ",138,46
+"Filtro Ar Motor ARL5138 ou similar",0,3,VENCEU," ",135.69,45.23
+"Filtro Ar Motor ARL5140 ou similar",0,3,VENCEU," ",219.36,73.12
+"Filtro Ar Motor ARL6096 ou similar",0,3,VENCEU," ",93.15,31.05
+"Filtro Ar Motor ARL9621 ou similar",0,3,VENCEU," ",120.75,40.25
+"Filtro Ar Motor ARS1029 ou similar",0,3,VENCEU," ",127.65,42.55
+"Filtro Ar Motor ARS1013 ou similar",0,5,VENCEU," ",406.1,81.22
+"Filtro Ar Motor ARS2868 ou similar",0,4,VENCEU," ",207.48,51.87
+"Filtro Ar Motor ARS7109 ou similar",0,3,VENCEU," ",162.15,54.05
+"Filtro Ar Motor AR3147 ou similar",0,3,VENCEU," ",124.2,41.4
+"Filtro Ar Motor AR8833 ou similar",0,3,VENCEU," ",62.1,20.7
+"Filtro Ar Motor AR9621 ou similar",0,3,VENCEU," ",75.9,25.3
+"Filtro Ar Motor AP7108 ou similar",0,3,VENCEU," ",144.9,48.3
+"Filtro Ar Motor AP1012 ou similar",0,3,VENCEU," ",134.55,44.85
+"Filtro Ar Motor ART6098 ou similar",0,3,VENCEU," ",110.4,36.8
+"Filtro Combustível GI 50/7 ou similar",0,6,VENCEU," ",207,34.5
+"Filtro Combustível GI 04/7 ou similar",0,12,VENCEU," ",414,34.5
+"Filtro Combustível GI 40/7 ou similar",0,7,VENCEU," ",222.95,31.85
+"Filtro Combustível GI 41 ou similar",0,3,VENCEU," ",110.4,36.8
+"Filtro Combustível GI 02/1 ou similar",0,3,VENCEU," ",86.25,28.75
+"Filtro Combustível GI 06/7 ou similar",0,3,VENCEU," ",103.5,34.5
+"Filtro Combustível GI 12/7 ou similar",0,3,VENCEU," ",110.4,36.8
+"Filtro Combustível GI 08/1 ou similar",0,3,VENCEU," ",103.5,34.5
+"Filtro Combustível AG68 ou similar",0,3,VENCEU," ",51.75,17.25
+"Filtro Combustível PEC3023 ou similar",0,7,VENCEU," ",668.15,95.45
+"Filtro Combustível PC947 ou similar",0,3,VENCEU," ",131.1,43.7
+"Filtro Combustível PSC994 ou similar",0,3,VENCEU," ",148.35,49.45
+"Filtro Combustível PSC499 ou similar",0,3,VENCEU," ",144.9,48.3
+"Filtro Combustível PSC990 ou similar",0,3,VENCEU," ",151.8,50.6
+"Filtro Combustível PSC498/4 ou similar",0,3,VENCEU," ",186.3,62.1
+"Filtro de Cabine ACP903 ou similar",0,3,VENCEU," ",117.3,39.1
+"Filtro de Cabine ACP131 ou similar",0,3,VENCEU," ",110.4,36.8
+"Filtro de Cabine ACP105 ou similar",0,5,VENCEU," ",184,36.8
+"Filtro de Cabine ACP103 ou similar",0,5,VENCEU," ",201.25,40.25
+"Filtro de Cabine ACP101 ou similar",0,3,VENCEU," ",120.75,40.25
+"Filtro de Cabine ACP906 ou similar",0,3,VENCEU," ",120.75,40.25
+"Filtro de Cabine ACP002 ou similar",0,3,VENCEU," ",96.6,32.2
+"Filtro de Cabine ACP001 ou similar",0,3,VENCEU," ",86.25,28.75
+"Filtro de Cabine ACP708 ou similar",0,3,VENCEU," ",103.5,34.5
+"Filtro de Cabine ACP203 ou similar",0,3,VENCEU," ",138,46
+"Filtro de Cabine ACP202 ou similar",0,3,VENCEU," ",120.75,40.25
+"Filtro de Cabine ACP303 ou similar",0,3,VENCEU," ",103.5,34.5
+"Filtro de Cabine ACP800 ou similar",0,5,VENCEU," ",172.5,34.5
+"Filtro de Cabine ACP550 ou similar",0,3,VENCEU," ",86.25,28.75
+"Filtro de Cabine ACP304 ou similar",0,3,VENCEU," ",103.5,34.5
+"Filtro de Cabine ACP305 ou similar",0,3,VENCEU," ",113.55,37.85

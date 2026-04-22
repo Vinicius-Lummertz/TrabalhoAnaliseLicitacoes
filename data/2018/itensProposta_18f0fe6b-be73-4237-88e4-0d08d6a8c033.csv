@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Projeto arquitetônico",0,3100,DESCLASSIFICADO," ",31000,10
+"Maquete eletrônica",0,3100,DESCLASSIFICADO," ",6200,2
+"Projeto estrutural e fundações",0,3100,DESCLASSIFICADO," ",24800,8
+"Projeto da estrutura metálica",0,3100,DESCLASSIFICADO," ",6200,2
+"Projeto elétrico e comunicação (lógica e telefone)",0,3100,DESCLASSIFICADO," ",6200,2
+"Projeto preventivo de incendio",0,3100,DESCLASSIFICADO," ",6200,2
+"Projeto Hidrossanitário com reaproveitamento águas pluviais",0,3100,DESCLASSIFICADO," ",6200,2
+"Projeto do Ar condicionado",0,3100,DESCLASSIFICADO," ",6200,2
+"Planilha Orçamentária de obra",0,3100,DESCLASSIFICADO," ",4650,1.5

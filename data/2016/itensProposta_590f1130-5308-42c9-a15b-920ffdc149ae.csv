@@ -1,0 +1,54 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras.,0,40,CANCELADO," ",40,1
+"Cabo PP.",0,100,CANCELADO," ",750,7.5
+"Caixa de Passagem Split",0,4,CANCELADO," ",64,16
+"Cano cobre ½",0,4,CANCELADO," ",240,60
+"Cano cobre ¼",0,4,CANCELADO," ",252,63
+"Cano cobre 3/8",0,4,CANCELADO," ",252,63
+"Cano cobre 5/8",0,4,CANCELADO," ",280,70
+"Cano esponjoso ½ - barra de 2 metros",0,20,CANCELADO," ",70,3.5
+"Cano esponjoso ¼ - barra de 2 metros",0,20,CANCELADO," ",70,3.5
+"Cano esponjoso 3/8 - barra de 2 metros",0,40,CANCELADO," ",140,3.5
+"Cano esponjoso 5/8 - barra de 2 metros",0,40,CANCELADO," ",152,3.8
+"Capacitor 380V 2 MF.",0,4,CANCELADO," ",32,8
+"Capacitor 380V 3 MF.",0,4,CANCELADO," ",32.8,8.2
+"Capacitor 380V 4 MF.",0,4,CANCELADO," ",40,10
+"Capacitor 380V 5 MF.",0,4,CANCELADO," ",40,10
+"Capacitor 380V 8 MF.",0,4,CANCELADO," ",41.32,10.33
+"Capacitor 380V 10 MF.",0,4,CANCELADO," ",60,15
+"Capacitor 380V 15 MF.",0,4,CANCELADO," ",60,15
+"Capacitor 380V 20 MF.",0,4,CANCELADO," ",77.32,19.33
+"Capacitor 380V 25 MF.",0,4,CANCELADO," ",62.68,15.67
+"Capacitor 380V 30 MF.",0,4,CANCELADO," ",80,20
+"Capacitor 380V 35 MF.",0,4,CANCELADO," ",84,21
+"Capacitor 380V 40 MF.",0,4,CANCELADO," ",92,23
+"Capacitor 380V 45 MF.",0,4,CANCELADO," ",101.32,25.33
+"Capacitor 380V 55 MF.",0,4,CANCELADO," ",112,28
+"Chave contactora CWM 09.",0,4,CANCELADO," ",240,60
+"Chave contactora CWM 10.",0,4,CANCELADO," ",280,70
+"Compressor 2HP alternativo.",0,2,CANCELADO," ",1649.34,824.67
+"Compressor 1HP rotativo.",0,2,CANCELADO," ",710.66,355.33
+"Compressor 11/4HP rotativo;",0,2,CANCELADO," ",1180,590
+"Compressor 11/2HP rotativo.",0,2,CANCELADO," ",800,400
+"Compressor 2HP rotativo.",0,2,CANCELADO," ",1010,505
+"Compressor 3/4HP rotativo.",0,2,CANCELADO," ",760,380
+"Controle remoto univ. ar split.",0,4,CANCELADO," ",200,50
+"Dreno ar condicionado.",0,10,CANCELADO," ",100,10
+"Espuma de vedação ar cond;",0,6,CANCELADO," ",18,3
+"Filtro do pó ar cond;",0,8,CANCELADO," ",120,15
+"Fita PVC 100mm branca.",0,30,CANCELADO," ",180,6
+"Gás R22 (carga) 7.000BTUS a 18.000BTUS",0,60,CANCELADO," ",3000,50
+"Gás R22 (carga) ACIMA DE 18.000 BTUS ATÉ 60.000 BTUS",0,20,CANCELADO," ",2400,120
+"Hélice ar cond. 7000btus.",0,4,CANCELADO," ",80,20
+"Hélice ar cond. 10/18000btus.",0,4,CANCELADO," ",140,35
+"Kit de VANES (aletas SPLIT  07 a 60.000btus)",0,10,CANCELADO," ",726.7,72.67
+"Mangueira cristal",0,400,CANCELADO," ",960,2.4
+"Placa eletrônica Ar Condicionado Universal",0,10,CANCELADO," ",900,90
+"Sensor de temperatura frio.",0,4,CANCELADO," ",100,25
+"Sensor temp. aquecimento.",0,4,CANCELADO," ",100,25
+"Suporte split 7/12000btus - FIBRA",0,4,CANCELADO," ",112,28
+"Suporte split 18/30000btus - METAL",0,15,CANCELADO," ",600,40
+"Suporte split 30.000/60.000btus - METAL",0,10,CANCELADO," ",1100,110
+"Termostato ar cond. 1601.",0,4,CANCELADO," ",300,75
+"Turbina ventilador 10/30000.",0,4,CANCELADO," ",160,40
+"Serviço de instalação, limpeza e manutenção dos aparelhos",0,150,CANCELADO," ",9750,65

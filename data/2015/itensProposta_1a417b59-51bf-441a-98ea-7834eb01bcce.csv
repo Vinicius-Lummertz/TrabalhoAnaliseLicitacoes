@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4426825,5,INABILITADO,UNI,3880,776
+"Armário Aéreo fechado.",4426826,2,INABILITADO,UN,1176,588
+"Armário arquivo para pasta suspensa",4426827,4,PERDEU,UN,3656,914
+"Armário com 2 portas",4426828,10,VENCEU,UN,10750,1075
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4426829,2,INABILITADO,UNI,1600,800
+BALCAO,4426830,3,INABILITADO,UNI,1500,500
+GAVETEIRO,4426831,6,PERDEU,UND,3996,666
+"Balcão de pia",4426834,1,VENCEU,UNI,700,700
+"Cadeira giratória tipo executiva.",4426835,6,PERDEU,UNI,1620,270
+"CADEIRA ESTOFADA",4426836,22,PERDEU,UN,2750,125
+Poltrona,4426837,6,PERDEU,UND,3102,517
+"MESA SIMPLES",4426838,2,INABILITADO,UND,1360,680
+"Mesa reunião oval",4426839,1,VENCEU,UN,1820,1820
+"Quadro branco magnético",4426840,2,PERDEU,UNI,520,260
+"Armário tipo Vestiário.",4426841,2,VENCEU,UNI,1460,730

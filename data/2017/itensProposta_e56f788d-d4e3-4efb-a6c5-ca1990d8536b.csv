@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"NOTEBOOK 2,3 GHz",4432082,1,PERDEU,UNI,4378,4378
+TABLET,4432083,4,VENCEU,UND,4780,1195
+"HD EXTERNO",4432084,1,VENCEU,UN,380,380
+"Pen Drive, 32GB",4432085,10,VENCEU,UN,690,69
+"apresentador sem fio (controle de slide)",4432086,3,VENCEU,UNI,300,100
+"Maquina fotográfica digital",4432087,2,VENCEU,UN,1836,918
+"CARTÃO DE MEMÓRIA MicroSD + Adaptador SD",4432088,3,PERDEU,UNI,348,116
+"APARELHO TELEFONE SEM FIO, de mesa",4432089,2,VENCEU,UNI,378,189

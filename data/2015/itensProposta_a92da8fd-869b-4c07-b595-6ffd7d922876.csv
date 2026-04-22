@@ -1,0 +1,104 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras,0,20,CANCELADO," ",7.6,0.38
+"Bimetal ar condicionado",0,6,CANCELADO," ",134.65,22.4412
+"Botão ar condicionado",0,10,CANCELADO," ",26.16,2.6161
+"Cabo PP 4x2,5mm",0,42,CANCELADO," ",197.92,4.7123
+"Caixa de Passagem Split",0,8,CANCELADO," ",179.53,22.4412
+"Cano cobre ½",0,6,CANCELADO," ",224.41,37.4021
+"Cano cobre ¼",0,5,CANCELADO," ",209.45,41.8903
+"Cano cobre 3/16",0,8,CANCELADO," ",311.18,38.8981
+"Cano cobre ¾",0,8,CANCELADO," ",302.22,37.7781
+"Cano cobre 3/8",0,6,CANCELADO," ",226.67,37.7781
+"Cano cobre 5/16",0,6,CANCELADO," ",226.67,37.7781
+"Cano cobre 5/8",0,7,CANCELADO," ",261.81,37.4021
+"Cano esponjoso ¼",0,42,CANCELADO," ",94.42,2.2481
+"Cano esponjoso ½",0,42,CANCELADO," ",109.88,2.6161
+"Cano esponjoso 3/16",0,52,CANCELADO," ",116.9,2.2481
+"Cano esponjoso ¾",0,52,CANCELADO," ",116.9,2.2481
+"Cano esponjoso 3/8",0,52,CANCELADO," ",116.9,2.2481
+"Cano esponjoso 5/16",0,52,CANCELADO," ",116.9,2.2481
+"Cano esponjoso 5/8",0,52,CANCELADO," ",116.9,2.2481
+"Cano PVC",0,17,CANCELADO," ",25.43,1.4961
+"Capacitor 380V 2 MF",0,2,CANCELADO," ",14.96,7.4804
+"Capacitor 380V 3 MF",0,2,CANCELADO," ",14.96,7.4804
+"Capacitor 380V 4 MF",0,2,CANCELADO," ",22.45,11.2246
+"Capacitor 380V 5 MF",0,2,CANCELADO," ",14.96,7.4804
+"Capacitor 380V 8 MF",0,2,CANCELADO," ",14.96,7.4804
+"Capacitor 380V 10 MF",0,2,CANCELADO," ",22.45,11.2246
+"Capacitor 380V 15 MF",0,2,CANCELADO," ",22.45,11.2246
+"Capacitor 380V 20 MF",0,2,CANCELADO," ",29.92,14.9608
+"Capacitor 380V 25 MF",0,2,CANCELADO," ",22.45,11.2246
+"Capacitor 380V 30 MF",0,2,CANCELADO," ",29.92,14.9608
+"Capacitor 380V 35 MF",0,2,CANCELADO," ",32.91,16.4569
+"Capacitor 380V 40 MF",0,2,CANCELADO," ",44.88,22.4412
+"Capacitor 380V 45 MF",0,2,CANCELADO," ",37.41,18.705
+"Capacitor 380V 55 MF",0,2,CANCELADO," ",44.88,22.4412
+"Chave contactora CWM 09",0,2,CANCELADO," ",74.8,37.4021
+"Chave contactora CWM 10",0,2,CANCELADO," ",74.8,37.4021
+"Chave Selet. Ar Cond 4 pos",0,4,CANCELADO," ",44.9,11.2246
+"Chave Selet. Ar Cond 5 pos",0,4,CANCELADO," ",59.84,14.9608
+"Chave Selet. Ar Cond 6 pos",0,4,CANCELADO," ",59.84,14.9608
+"Chave Selet. Ar Cond 7 pos",0,4,CANCELADO," ",44.9,11.2246
+"Compressor 1HP alternativo",0,1,CANCELADO," ",564.78,564.775
+"Compressor 11/4HP alternat.",0,1,CANCELADO," ",590.95,590.9524
+"Compressor 11/2HP alternat.",0,1,CANCELADO," ",613.39,613.3936
+"Compressor 2HP alternativo",0,1,CANCELADO," ",725.6,725.5998
+"Compressor 3/4HP alternativ",0,1,CANCELADO," ",411.42,411.4226
+"Compressor 1HP rotativo",0,1,CANCELADO," ",246.85,246.8535
+"Compressor 11/4HP rotativo.",0,1,CANCELADO," ",261.81,261.8144
+"Compressor 11/2HP rotativo",0,1,CANCELADO," ",269.29,269.2948
+"Compressor 2HP rotativo",0,1,CANCELADO," ",321.66,321.6576
+"Compressor 3/4HP rotativo",0,1,CANCELADO," ",216.93,216.9319
+"Controle remoto univ. ar split",0,6,CANCELADO," ",224.41,37.4021
+Disjuntor,0,6,CANCELADO," ",53.86,8.9765
+"Dreno ar condicionado",0,9,CANCELADO," ",33.7,3.7442
+"Espuma de vedação ar cond.",0,9,CANCELADO," ",20.23,2.2481
+"Filtro do pó ar cond.",0,19,CANCELADO," ",284.26,14.9608
+"Filtro Secador 1saida ar cond",0,21,CANCELADO," ",39.31,1.8721
+"Fio 2,5mm",0,84,CANCELADO," ",88.04,1.0481
+"Fita PVC 100mm branca",0,38,CANCELADO," ",142.28,3.7442
+"Gás R134 (carga)",0,12,CANCELADO," ",583.52,48.6267
+"Gás R22 (carga)",0,21,CANCELADO," ",471.27,22.4412
+"Hélice ar cond. 7000btus",0,2,CANCELADO," ",22.45,11.2246
+"Hélice ar cond. 10/18000btus",0,4,CANCELADO," ",89.76,22.4412
+"Interruptor horário ar cond.",0,4,CANCELADO," ",83.78,20.9451
+"Joelho PVC",0,7,CANCELADO," ",5.26,0.752
+"Kit de aletas 10 a 21000btus",0,8,CANCELADO," ",299.22,37.4021
+"Mangueira cristal",0,52,CANCELADO," ",77.8,1.4961
+"Micro motor CA11 1/40 HP",0,1,CANCELADO," ",37.4,37.4021
+"Micro motor CA20 1/25HP",0,1,CANCELADO," ",37.4,37.4021
+"Motor Circulador 1/10 HP",0,1,CANCELADO," ",130.91,130.9112
+"Motor Circulador 1/12HP",0,1,CANCELADO," ",198.23,198.2349
+"Motor Circulador 1/15 HP",0,1,CANCELADO," ",157.09,157.0886
+"Motor Circulador ½ HP",0,1,CANCELADO," ",430.13,430.1276
+"Motor Circulador 1/3 HP",0,1,CANCELADO," ",321.66,321.6576
+"Motor Circulador ¼ HP",0,1,CANCELADO," ",254.33,254.334
+"Motor Circulador 1/5 HP",0,1,CANCELADO," ",127.17,127.167
+"Placa eletrônica ar Electrolux",0,1,CANCELADO," ",261.81,261.8144
+"Placa eletrôn. ar Consul",0,1,CANCELADO," ",201.97,201.9711
+"Placa eletrôn. ar Brastemp",0,1,CANCELADO," ",134.65,134.6474
+"Plug 2P + T 20 A",0,4,CANCELADO," ",22.43,5.6083
+"Protetor ar cond. 1/2 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1/3 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1/4 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1/5 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1/6 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1/8 HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 1HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. 11/2HP",0,3,CANCELADO," ",112.21,37.4021
+"Protetor ar cond. 11/4HP",0,3,CANCELADO," ",67.32,22.4412
+"Protetor ar cond. 2HP",0,3,CANCELADO," ",33.67,11.2246
+"Protetor ar cond. ¾ HP",0,3,CANCELADO," ",33.67,11.2246
+"Rele Monti",0,3,CANCELADO," ",112.21,37.4021
+"Sensor de temperatura frio",0,3,CANCELADO," ",112.21,37.4021
+"Sensor temp. aquecimento",0,3,CANCELADO," ",112.21,37.4021
+"Suporte split 7/12000btus",0,5,CANCELADO," ",149.61,29.9216
+"Suporte split 18/30000btus",0,6,CANCELADO," ",224.41,37.4021
+"Termostato ar cond. 1601",0,7,CANCELADO," ",157.09,22.4412
+"Turbina ventilador 10/30000",0,3,CANCELADO," ",89.76,29.9216
+"Uni. Condens. 2HP 380V",0,1,CANCELADO," ",1570.89,1570.8862
+"Uni. Condens. 3HP 380V",0,1,CANCELADO," ",1997.27,1997.2695
+"Instalação ar cond.",0,10,CANCELADO," ",3366.18,336.6185
+"Limpeza de ar gaveta 7/30.000btus",0,18,CANCELADO," ",2423.65,134.6474
+"Limpeza de ar split",0,18,CANCELADO," ",3366.19,187.0103
+"Serviço(hora)",0,63,CANCELADO," ",2827.6,44.8825

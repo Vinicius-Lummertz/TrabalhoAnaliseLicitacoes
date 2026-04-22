@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adenosina 6mg/mL solução injetável 2ml",1258321,9,1000,ATIVO,AMP,7600,7.6
+"Aminofilina 24mg/mL 10ml",1258421,21,1000,ATIVO,AMP,735,0.735
+"Tramadol, cloridrato 50mg",1258514,241,420000,ATIVO,COMPRIMIDO,41160,0.098
+"Sulfato ferroso 125mg/mL solução oral  30ml",1258515,233,3500,ATIVO,FRASCO,2415,0.69
+"RANITIDINA 150MG",1258516,218,420000,ATIVO,COMPRIMIDO,26628,0.0634
+"Insulina regular 100 UI/ml 10ml",1258517,147,500,ATIVO,"Frasco ampola",5700,11.4
+"Glicose 25% 10ml",1258518,128,1600,ATIVO,AMP,304,0.19
+"Enantoato de noretisterona + valerato de estradiol 1ml",1258519,106,5000,ATIVO,AMP,29900,5.98
+"Dexametasona, fosfato de dissódico 4mg/2,5mL",1258520,87,20000,ATIVO,AMP,15120,0.756
+"Carbamazepina 200mg.",1258521,55,1300000,ATIVO,COMPRIMIDO,89700,0.069
+"Brometo de N-butilescopolamina 20mg/mL + dipirona sódica 5ml",1258522,47,15000,ATIVO,AMP,21150,1.41
+"Azitromicina 200mg/5mL suspensão oral acompanha seringa dosa",1258523,33,2500,ATIVO,FRASCO,4925,1.97
+"Atropina 0,25mg/mL",1258524,32,400,ATIVO,AMP,96,0.24
+"Amiodarona,cloridrato 50mg/mL 3ml",1258525,23,500,ATIVO,AMP,835,1.67

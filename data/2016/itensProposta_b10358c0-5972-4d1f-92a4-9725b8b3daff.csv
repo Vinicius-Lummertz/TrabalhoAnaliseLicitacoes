@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomografia Computadoriza da Cone Bean de 1 (um) elemento ele",4430448,30,VENCEU,UNI,3450,115
+"Tomografia Computadoriza da Cone Bean por região (02 element",4430449,30,VENCEU,UNI,3450,115
+"Tomografia Computadoriza da Cone Bean por região (mais de 02",4430450,20,VENCEU,UNI,2800,140
+"Tomografia Computadoriza da Cone Bean (mais de 2 elementos d",4430451,15,VENCEU,UNI,2250,150
+"Tomografia Computadoriza da Cone Bean de Mandíbula ou Maxila",4430452,20,VENCEU,UNI,3100,155
+"Tomografia Computadoriza da Cone Bean Total Duas Arcadas (Ma",4430453,15,VENCEU,UNI,4500,300
+"Tomografia Computadoriza da Cone Bean ATM Unilateral",4430454,10,VENCEU,UNI,2450,245
+"Tomografia Computadoriza da Cone Bean ATM Bilateral",4430455,10,VENCEU,UNI,3150,315

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escova dental adulto macia",4435140,50,CANCELADO,PCT,25,0.5
+"ESCOVA DENTAL INFANTIL",4435141,40,CANCELADO,PCT,19.2,0.48
+"Fio dental bucal.",4435159,80,VENCEU,UN,564,7.05
+"Kit odontológico de higiene dental infantil - KIT",4435184,8000,VENCEU,KIT,36800,4.6
+"Kit odontológico de higiene dental.",4435185,5000,VENCEU,KIT,26700,5.34
+"Kit odontológico de higiene dental.",4435302,15000,PERDEU,KIT,80100,5.34

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta de BC Gola Redonda",1284715,5,100,ATIVO,PEÇA,2250,22.5
+"Camisa polo manga curta",1284716,2,100,ATIVO,PEÇA,3500,35
+"Camiseta regata branca padrão CBMSC",1284717,3,100,ATIVO,PEÇA,1400,14
+"Uniforme de BC Completo Calca, Gandola",1284718,4,100,ATIVO,PEÇA,29800,298
+"Fivela de cinto para Bombeiro Comunitário",1284719,6,100,ATIVO,PEÇA,1000,10
+"Lona de nylon vermelha",1284720,7,200,ATIVO,METRO,1000,5
+"Camiseta vermelha gola redonda padrão CBMSC",1284722,1,100,ATIVO,UNIDADE,2250,22.5

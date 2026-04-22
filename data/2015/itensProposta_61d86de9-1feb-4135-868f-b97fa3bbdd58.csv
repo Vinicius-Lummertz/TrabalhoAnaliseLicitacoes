@@ -1,0 +1,81 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"abraçadeira poliwetzel de 3/4",0,150,VENCEU," ",111,0.74
+"adaptador poliwetzel de 3/4",0,3000,VENCEU," ",1500,0.5
+"ARRUELA LISA 6MM",0,10000,VENCEU," ",500,0.05
+"bucha de pvc 6mm",0,20000,VENCEU," ",1000,0.05
+"c.d de distribuição para 24 disjuntores",0,30,VENCEU," ",1506.3,50.21
+"cabo flexivel 750v 1,5mm azul",0,15000,VENCEU," ",6600,0.44
+"cabo flexivel 750v 1,5mm branco",0,15000,VENCEU," ",6600,0.44
+"cabo flexivel 750v 1,5mm preto",0,15000,VENCEU," ",6600,0.44
+"cabo flexivel 750v 1,5mm verde",0,15000,VENCEU," ",6600,0.44
+"cabo flexivel 750v 2,5mm azul",0,20000,VENCEU," ",13800,0.69
+"cabo flexivel 750v 2,5mm preto",0,20000,VENCEU," ",13800,0.69
+"cabo flexivel 750v 2,5mm verde",0,20000,VENCEU," ",13800,0.69
+"cabo flexivel 750v 2,5mm vermelho",0,20000,VENCEU," ",13800,0.69
+"cabo flexivel 750v 4mm azul",0,8000,VENCEU," ",10160,1.27
+"cabo flexivel 750v 4mm preto",0,8000,VENCEU," ",10160,1.27
+"cabo flexivel 750v 4mm verde",0,8000,VENCEU," ",10160,1.27
+"cabo flexivel 750v 4mm vermelho",0,8000,VENCEU," ",10160,1.27
+"cabo flexivel 750v 6mm azul",0,7000,VENCEU," ",11620,1.66
+"cabo flexivel 750v 6mm preto",0,7000,VENCEU," ",11620,1.66
+"cabo flexivel 750v 6mm verde",0,7000,VENCEU," ",11620,1.66
+"cabo sintenax 1kv 10mm azul",0,5000,VENCEU," ",15550,3.11
+"cabo sintenax 1kv 10mm preto",0,5000,VENCEU," ",15550,3.11
+"cabo sintenax 1kv 16mm azul",0,5000,VENCEU," ",23700,4.74
+"cabo sintenax 1kv 16mm preto",0,5000,VENCEU," ",23700,4.74
+"caixa de inspeção de aterramento",0,150,VENCEU," ",532.5,3.55
+"caixa de sobrepor 4x2",0,100,VENCEU," ",145,1.45
+"caixa monofásica de policarbonato",0,30,VENCEU," ",704.1,23.47
+"caixa multiuso 20x20mm",0,30,VENCEU," ",870,29
+"caixa padrão de sobrepor para sistema x",0,2000,VENCEU," ",2220,1.11
+"caixa trifásica de policarbonato",0,20,VENCEU," ",1390.6,69.53
+"canaleta branca 20x10mm sistema x",0,1500,VENCEU," ",3090,2.06
+"canaleta branca 50x20mm sistema x",0,800,VENCEU," ",9936,12.42
+"cano galvanizado a fogo 2",0,300,VENCEU," ",5667,18.89
+"condulete poliwetzel de 3/4",0,400,VENCEU," ",1348,3.37
+"conector haste de terra 5/8",0,180,VENCEU," ",307.8,1.71
+"contator tripolar 9a 220v weg",0,10,VENCEU," ",597.1,59.71
+"controle de ventilador",0,50,VENCEU," ",843,16.86
+"cruzeta de concreto",0,40,VENCEU," ",4010,100.25
+"curva de pvc 2 90º",0,150,VENCEU," ",253.5,1.69
+"disjuntor monofásico 16a din",0,300,VENCEU," ",1089,3.63
+"disjuntor monofásico 25a din",0,300,VENCEU," ",1089,3.63
+"disjuntor monofásico de 32a din",0,400,VENCEU," ",1452,3.63
+"disjuntor monofásico de 40a din",0,250,VENCEU," ",990,3.96
+"disjuntor trifásico 100a din",0,20,VENCEU," ",881,44.05
+"disjuntor trifásico 50a din",0,30,VENCEU," ",639,21.3
+"eletroduto cinza de pvc 3/4",0,400,VENCEU," ",2896,7.24
+"fita isolante 20mt p-44 amarela",0,50,VENCEU," ",123,2.46
+"fita isolante 20mt p-44 azul",0,50,VENCEU," ",123,2.46
+"fita isolante 20mt p-44 branca",0,50,VENCEU," ",123,2.46
+"fita isolante 20mt p-44 preta",0,400,VENCEU," ",984,2.46
+"fita isolante 20mt p-44 vermelha",0,50,VENCEU," ",123,2.46
+"haste de terra 2,40mt 5/8 alta camada",0,200,VENCEU," ",5660,28.3
+"interruptor de embutir 1 tecla simples branco",0,1500,VENCEU," ",4110,2.74
+"Interruptor de embutir 1 tecla simples c/ tomada br.",0,600,VENCEU," ",3630,6.05
+"interruptor de embutir 2 tecla simples branco",0,500,VENCEU," ",2660,5.32
+"interruptor de sobrepor 1 tecla branco sistema x",0,500,VENCEU," ",1635,3.27
+"interruptor de sobrepor 1 tecla c/ tomada br. sist. x",0,500,VENCEU," ",3700,7.4
+"kanaflex de 2",0,2000,VENCEU," ",3200,1.6
+"lâmpada fluorescente de 20w",0,800,VENCEU," ",2552,3.19
+"lâmpada fluorescente de 40w",0,10000,VENCEU," ",31900,3.19
+"lâmpada vapor de sódio de 250w",0,100,VENCEU," ",2008,20.08
+"luminária fluorescente 1x40w",0,1000,VENCEU," ",6780,6.78
+"luminária fluorescente 2x20w",0,400,VENCEU," ",2712,6.78
+"luminária fluorescente 2x40w",0,3500,VENCEU," ",22995,6.57
+"luva de pvc 2",0,200,VENCEU," ",154,0.77
+"PARAFUSO 6MM",0,12000,VENCEU," ",1800,0.15
+"poste de concreto duplo t 11/300",0,30,VENCEU," ",14277,475.9
+"poste metálico galvanizado a fogo de 9 mts",0,30,VENCEU," ",19600.8,653.36
+"reator eletrônico afp 1x40w 220v",0,400,VENCEU," ",3712,9.28
+"reator eletrônico afp 2x20w 220v",0,250,VENCEU," ",2360,9.44
+"reator eletrônico afp 2x40w 220v",0,4000,VENCEU," ",51640,12.91
+"reator vapor de sódio de 250w",0,35,VENCEU," ",1860.6,53.16
+"refletor de alumínio fundido de 250w",0,35,VENCEU," ",1739.15,49.69
+"rele fotoelétrico de 1000w",0,50,VENCEU," ",494,9.88
+"soquete anti-vibratório",0,15000,VENCEU," ",8400,0.56
+"tomada de embutir 2p+t 20a branca",0,80,VENCEU," ",364.8,4.56
+"tomada de embutir 2p+t branca",0,1200,VENCEU," ",4224,3.52
+"tomada de sobrepor 2p+t sistema x branca",0,1200,VENCEU," ",5160,4.3
+"tubo de pvc 2",0,150,VENCEU," ",931.5,6.21
+"ventilador de parede 50cm 220v",0,150,VENCEU," ",17737.5,118.25

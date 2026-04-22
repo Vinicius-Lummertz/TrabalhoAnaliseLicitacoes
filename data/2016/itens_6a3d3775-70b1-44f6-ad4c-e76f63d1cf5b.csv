@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pasta Prontuário - tamanho 44,6x32cm papel 240gr + bolsa 22x",1259667,60,30000,ATIVO,BLOCO,9000,0.3
+"Requisição para eletroencefalograma - Cabeçario cor amarela",1259668,87,30,ATIVO,BLOCO,156,5.2
+"Panfleto 15x21cm papel couche colorido 4x0 brilho frente  11",1259669,117,10000,ATIVO,UNIDADE,500,0.05
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",1259670,118,10000,ATIVO,UNIDADE,500,0.05
+"Panfleto 15x21cm papel sulfite colorido 4x0 brilho frente e",1259671,119,5000,ATIVO,UNIDADE,320,0.064

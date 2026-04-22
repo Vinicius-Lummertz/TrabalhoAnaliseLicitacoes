@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha em MDF",4434614,9,PERDEU,UNI,2385,265
+"Mesa Simples em MDF, 4 pés com rodizios",4434615,8,PERDEU,UNI,960,120
+"Bancada estrutura em madeira MDF",4434616,2,PERDEU,UN,396,198
+"Armário aberto tipo Prateleira",4434617,3,PERDEU,UNI,1005,335
+"Quadro de avisos",4434618,2,PERDEU,UNI,756,378
+"Armário arquivo para pasta suspensa",4434619,8,VENCEU,UN,2560,320
+"Armário com 2 portas",4434620,14,PERDEU,UN,4830,345
+"Armário vestiário, em MDF com 8 portas",4434621,2,VENCEU,UNI,900,450
+"Gaveteiro volante com 3 gavetas comuns com chave",4434622,4,PERDEU,UNI,756,189
+"Mesa simples com quatro pés para cozinha",4434623,1,INABILITADO,UNI,450,450
+"Armário Aéreo em MDF.",4434624,1,PERDEU,UNI,300,300
+"Mesa reunião oval",4434625,1,PERDEU,UN,435,435
+"Balcão atendimento estrutura em MDF 18mm",4434626,1,PERDEU,UNI,1020,1020
+"MESA SIMPLES",4434627,1,PERDEU,UND,210,210
+"Cadeira giratória tipo executiva.",4434628,9,INABILITADO,UNI,1620,180
+"Cadeira estofada fixa 4 pés, modelo secretária",4434629,23,INABILITADO,UN,1541,67
+"Poltrona tipo longarina 3 lugares executiva",4434630,7,PERDEU,CJ,1890,270

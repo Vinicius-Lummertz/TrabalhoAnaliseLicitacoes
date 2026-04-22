@@ -1,0 +1,74 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa da Obra  padrão PMC",0,120,PERDEU," ",28024.8,233.54
+"Tapume provisório de madeira de 2,00m de altura",0,1400,PERDEU," ",49700,35.5
+"Deslocamento de tapume provisório de madeira com material re",0,3400,PERDEU," ",79662,23.43
+"Fornecimento e colocação de lona plastica 150 micra",0,4000,PERDEU," ",12200,3.05
+"Demolição de telhamento de fibrocimento",0,10500,PERDEU," ",18375,1.75
+"Demolição de telhamento de telha cerâmica",0,10500,PERDEU," ",18375,1.75
+"Demolição de forro de beiral",0,3250,PERDEU," ",8157.5,2.51
+"Demolição de forro interno sem reaproveitamento, inclusive t",0,8400,PERDEU," ",21084,2.51
+"Demolição de estrutura do telhado em madeira",0,21000,PERDEU," ",78960,3.76
+"Carga, transporte e destino final de entulho",0,2500,PERDEU," ",77200,30.88
+"Retirada de calha de alumínio de beiral para aproveitamento",0,3250,PERDEU," ",40527.5,12.47
+"Escoramento de forro de PVC interno",0,8400,PERDEU," ",28896,3.44
+"Estrutura do telhado tesouras espaçadas a cada 1,20m, diâmet",0,8400,PERDEU," ",336252,40.03
+"Estrutura do telhado tesouras espaçadas a cada 1,00m, diâmet",0,4200,PERDEU," ",191184,45.52
+"Estrutura do telhado  para telhas de PVC tesouras espaçadas",0,8400,PERDEU," ",307104,36.56
+"Telhamento com telha de fibrocimento ondulada de 6mm com ace",0,7200,PERDEU," ",166824,23.17
+"Limpeza de telha de fibrocimento com bomba lavajato de alta",0,1200,PERDEU," ",1404,1.17
+"Retelhamento de telha de fibrocimento reaproveitada com aces",0,1200,PERDEU," ",6756,5.63
+"Telhamento com telha cerâmica colonial, com encaixe",0,4200,PERDEU," ",114198,27.19
+"Telhamento com telha de PVC tipo colonial epessura 2.0mm na",0,8400,PERDEU," ",318696,37.94
+"Cumeeira de fibrocimento ondulada de 6mm",0,1260,PERDEU," ",37636.2,29.87
+"Recolocação de cumeeira de fibrocimento reaproveitada",0,220,PERDEU," ",2136.2,9.71
+"Espigão de fibrocimento de 6mm, com vedação com manta asfalt",0,360,PERDEU," ",12218.4,33.94
+"Cumeeira e beiral de telha cerâmica argamassada tipo colonia",0,200,PERDEU," ",7082,35.41
+"Calha de alumínio de encontro de telhado corte 50cm",0,360,PERDEU," ",13701.6,38.06
+"Calha de alumínio de beiral",0,1530,PERDEU," ",43406.1,28.37
+"Recolocação de calha de alumínio de beiral",0,3240,PERDEU," ",40402.8,12.47
+"Tubo de queda pluvial em PVC 75mm- fixação com braçadeiras p",0,940,PERDEU," ",8563.4,9.11
+"Joelho de PVC leve de 75mm x 45°",0,600,PERDEU," ",8484,14.14
+"Joelho de PVC leve de 75mm x 90°",0,300,PERDEU," ",4347,14.49
+"Espelho de madeira de lei de 18x2cm, com ranhura para encaix",0,4330,PERDEU," ",75471.9,17.43
+"Tacação de pinus tratado para forro de PVC cada 40cm",0,10000,PERDEU," ",233400,23.34
+"Execução de tacação de pinus para forro de PVC cada 40cm, co",0,6740,PERDEU," ",144910,21.5
+"Forro de PVC branco perfil 10x100mm, liso, com fixação com p",0,10000,PERDEU," ",377800,37.78
+"Execução de forro de PVC, com perfis reaproveitados, com fix",0,6740,PERDEU," ",154076.4,22.86
+"Pintura esmalte sintético sobre madeira 3 demãos incluindo f",0,900,PERDEU," ",14994,16.66
+"Retirada de luminárias",0,2050,PERDEU," ",1517,0.74
+"Retirada de interruptores e tomadas embutidas",0,1200,PERDEU," ",456,0.38
+"Retirada de fiação elétrica",0,42000,PERDEU," ",15960,0.38
+"Cabo unipolar isolado 0,75V de 1.5mm²",0,20000,PERDEU," ",28000,1.4
+"Cabo unipolar isolado 0,75V de 2.5mm²",0,60000,PERDEU," ",120000,2
+"Cabo unipolar isolado 0,75V de 4.0mm²",0,5000,PERDEU," ",15400,3.08
+"Cabo unipolar isolado 0,75V de 6.0mm²",0,3000,PERDEU," ",12750,4.25
+"Cabo unipolar isolado 0,75V de 10.0mm²",0,3000,PERDEU," ",20520,6.84
+"Interruptor simples 1 tecla de embutir com placa",0,240,PERDEU," ",4159.2,17.33
+"Interruptor simples 2 teclas de embutir com placa",0,65,PERDEU," ",1779.05,27.37
+"Interruptor simples 3 teclas de embutir com placa",0,40,PERDEU," ",1510.4,37.76
+"Tomada de embutir 2P+T - 10A - hexagonal com placa",0,550,PERDEU," ",15020.5,27.31
+"Luminária de sobrepor para 2 lampadas tubular LED de 2 x 20W",0,220,PERDEU," ",33114.4,150.52
+"Reposição de luminária de sobrepor, reaproveitada",0,1610,PERDEU," ",47414.5,29.45
+"Luminária de sobrepor tipo plafon de PVC com soquete de porc",0,220,PERDEU," ",8586.6,39.03
+"Eletroduto de PVC cinza soldável de 3/4",0,700,PERDEU," ",2681,3.83
+"Condulete de PVC tipo C de 3/4 com tomada hexagonal 2P+T co",0,500,PERDEU," ",19975,39.95
+"Abraçadeira de PVC cinza de 3/4 para eletroduto, com bucha",0,700,PERDEU," ",1337,1.91
+"Adaptador de PVC cinza para eletroduto de 3/4 e condulete",0,500,PERDEU," ",160,0.32
+"Disjuntor tripolar termomagnético DIN 50A",0,10,PERDEU," ",799.3,79.93
+"Disjuntor tripolar termomagnético DIN 60A",0,10,PERDEU," ",1153.2,115.32
+"Disjuntor tripolar termomagnético DIN 70A",0,10,PERDEU," ",1153.2,115.32
+"Disjuntor tripolar termomagnético DIN 100A",0,10,PERDEU," ",1153.2,115.32
+"Disjuntor unipolar termomagnético DIN 10A",0,360,PERDEU," ",3549.6,9.86
+"Disjuntor unipolar termomagnético DIN 16A",0,360,PERDEU," ",3715.2,10.32
+"Disjuntor unipolar termomagnético DIN 20A",0,360,PERDEU," ",3960,11
+"Disjuntor unipolar termomagnético DIN 25A",0,460,PERDEU," ",5073.8,11.03
+"Disjuntor unipolar termomagnético DIN 32A",0,90,PERDEU," ",1079.1,11.99
+"Eletroduto corrugado de PVC de 3/4",0,5000,PERDEU," ",20050,4.01
+"Eletroduto corrugado de PVC de 1",0,1500,PERDEU," ",8160,5.44
+"Centro de distribuição de PVC trifásico para 18 disjuntores",0,5,PERDEU," ",1715.55,343.11
+"Centro de distribuição de PVC trifásico para 24 disjuntores",0,5,PERDEU," ",1992.3,398.46
+"Centro de distribuição de PVC trifásico para 32 disjuntores",0,5,PERDEU," ",3207.65,641.53
+"Centro de distribuição de PVC trifásico para 40 disjuntores",0,5,PERDEU," ",3839.8,767.96
+"Luminária de emergência, bloco autônomo de 30LEDs",0,400,PERDEU," ",15648,39.12
+"Placa de sinalização de saída, bloco autônomo, com LEDs",0,200,PERDEU," ",11468,57.34
+"Limpeza final da obra",0,18000,PERDEU," ",29700,1.65

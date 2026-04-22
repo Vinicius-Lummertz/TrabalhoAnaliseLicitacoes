@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balcão de atendimento com dois níveis de altura",4430194,1,DESCLASSIFICADO,UN,2090,2090
+"Mesa Escrivaninha em MDF",4430195,5,DESCLASSIFICADO,UNI,3890,778
+GAVETEIRO,4430196,4,DESCLASSIFICADO,UND,2476,619
+"Armário com 2 portas",4430197,4,DESCLASSIFICADO,UN,3596,899
+"Armário aéreo;",4430198,1,DESCLASSIFICADO,CNJ,1295,1295
+"Cama de solteiro",4430199,2,DESCLASSIFICADO,UN,820,410
+"Arquivo em aço com 04 gavetas",4430200,7,DESCLASSIFICADO,UN,4963,709
+"Cadeira estofada fixa 4 pés, modelo secretária",4430201,40,DESCLASSIFICADO,UN,5200,130
+"Poltrona tipo longarina 3 lugares executiva",4430203,3,DESCLASSIFICADO,CJ,1590,530
+"Travesseiro em fibra siliconizada",4430204,4,VENCEU,UNI,79.96,19.99
+"Colchão solteiro  semi ortopédico",4430205,4,DESCLASSIFICADO,UN,2760,690
+"Edredom dupla face tamanho 1,60 x 2,50m",4430206,8,VENCEU,UN,518.8,64.85
+"Cobertor solteiro liso Pêlo Alto, cor azul",4430207,8,VENCEU,UN,676,84.5
+"Jogo de Cama Solteiro",4430208,8,VENCEU,UNI,308.88,38.61
+"Toalha de banho felpuda 70 x 140 cm",4430209,8,VENCEU,UN,90.4,11.3
+"Toalha de rosto felpuda 45 x 80 cm",4430210,8,VENCEU,UN,51.84,6.48
+"Panos de Prato 100% algodão, medida 50x70m",4430211,10,VENCEU,UN,20.9,2.09
+"Ventilador  de parede 60cm turbo",4430212,6,PERDEU,UN,839.4,139.9
+"LED 32  HDMI",4430213,1,PERDEU,UN,1389,1389
+"Aparelho  DVD  220 volts",4430214,1,VENCEU,UN,159,159
+"Lavadoura de roupas capac.12k",4430215,1,PERDEU,UN,1499,1499
+"Batedeira elétrica",4430216,1,PERDEU,UN,97.9,97.9
+"Forno microondas elétrico, para balcão",4430217,1,PERDEU,UN,387,387
+"Fogão 4 bocas",4430218,1,DESCLASSIFICADO,UN,540,540
+"Refrigerador Duplex  frost free, capac. 370 Lt",4430219,1,VENCEU,UN,2280,2280
+"Liquidificador de 2 velocidades",4430220,1,VENCEU,UN,142.45,142.45
+"Garrafa Térmica 1,80 Lts",4430221,2,VENCEU,UN,98.3,49.15
+"Bacia grande",4430222,2,VENCEU,UN,11.2,5.6
+"Escorredor de Louça",4430223,1,VENCEU,UN,67.85,67.85
+"Copo de vidro, capac. 200 ml",4430224,2,VENCEU,JOG,32.88,16.44
+"Pote plástico retangular com tampa para micro-ondas e freeze",4430225,10,VENCEU,UN,87.6,8.76
+"Conjunto mantimento de latas 5 pçs",4430226,1,VENCEU,JGO,38.5,38.5
+"Jogo de panelas com tampas em alumínio",4430228,1,VENCEU,JGO,313.9,313.9
+"Panela de Pressão 4,5 litros",4430229,1,VENCEU,UN,57.8,57.8
+"Prato (duralex) Prato fundo",4430230,12,VENCEU,UN,112.8,9.4
+"Prato (duralex) Prato raso",4430231,12,VENCEU,UN,114,9.5
+"Xícara para chá sem pires",4430232,12,VENCEU,UN,67.92,5.66
+"Saladeira redonda",4430233,4,VENCEU,UN,79.32,19.83
+"Tabua de corte",4430234,1,VENCEU,UN,70,70
+"Bule em alumínio reforçado para café",4430235,1,VENCEU,UN,29.25,29.25
+CHALEIRA,4430236,1,VENCEU,UND,23.65,23.65

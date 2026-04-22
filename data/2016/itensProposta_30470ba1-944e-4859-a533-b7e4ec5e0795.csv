@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml",4430261,100,INABILITADO,FR.,1079,10.79
+"Carbonato de cálcio 1250 mg",4430262,80000,DESCLASSIFICADO,CP,11200,0.14
+"Isossorbida, dinitrato 5mg sublingual",4430279,62500,VENCEU,COMP,21875,0.35
+"Isossorbida, dinitrato 5mg sublingual",4430280,187500,VENCEU,COMP,65625,0.35
+"Sulfadiazina de prata 1% pomada pote com 400g",4430290,250,VENCEU,POT,6225,24.9

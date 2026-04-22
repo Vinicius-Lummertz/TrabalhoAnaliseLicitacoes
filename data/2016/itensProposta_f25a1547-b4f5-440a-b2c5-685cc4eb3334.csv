@@ -1,0 +1,40 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Esfigmomanômetro Aneróide c/estetoscópio",4344623,5,INABILITADO,UND,1366.85,273.37
+"Estetoscópio cardiológico com auscultador duplo em aço inox",4344624,5,PERDEU,UND,324.8,64.96
+"Imobilizador de Cabeça impermeável - Adulto Coxim completo",4344625,2,PERDEU,UND,278,139
+"LANTERNA CLINICA",4344626,5,INABILITADO,UND,355,71
+"Oxímetro portátil de dedo",4344627,3,PERDEU,UND,900,300
+"TIRANTE ARANHA.",4344628,5,PERDEU,UND,245.55,49.11
+"Desfibrilador Externo Automático (DEA) bifásico",4344629,2,NAO_COTOU,UND,0,0
+"Colar Cervical regulável , com 16 posições",4344630,10,PERDEU,UND,475,47.5
+"Colar Cervical regulável com 12 posições",4344631,5,PERDEU,UND,237.5,47.5
+"CORTA ANEL",4344632,3,INABILITADO,UND,244.17,81.39
+"Termômetro digital",4344633,5,PERDEU,UND,60.35,12.07
+"BOLSA DE APH",4344634,7,NAO_COTOU,UND,0,0
+"TESOURA PONTA ROMBA",4344635,7,PERDEU,UND,130.27,18.61
+"Pochete para Sinais Vitais",4344636,11,NAO_COTOU,UND,0,0
+"Canivete Corta cinto e vidro",4344637,4,NAO_COTOU,UND,0,0
+"Jogo de talas Rígidas 6 peças com bolsa",4344638,3,VENCEU,UND,432,144
+"Manequins de RCP - 5 Adulto e 2 Infantil",4344639,1,NAO_COTOU,UND,0,0
+"Prancha rígida.",4344640,11,INABILITADO,UND,4702.5,427.5
+"Tala de papelão tamanho G 70X20 cm",4344641,30,INABILITADO,UND,40.5,1.35
+"Tala de papelão tamanho M 50X20 cm",4344642,30,INABILITADO,UND,29.4,0.98
+"Tala de papelão tamanho P 30X20 cm",4344643,30,INABILITADO,UND,21,0.7
+"Esqueleto flexível",4344644,1,NAO_COTOU,UND,0,0
+"Manequim de RCP Resusci Anne corpo inteiro com monitor Skill",4344645,1,NAO_COTOU,UND,0,0
+"Boneco para medidas de reanimação, recém-nascido",4344646,1,NAO_COTOU,UND,0,0
+"OXÍMETRO DE PULSO",4344647,4,PERDEU,UND,9920,2480
+"Manequim simulador de Parto",4344648,1,NAO_COTOU,UND,0,0
+"Colete Socorrista PADRÃO CBMSC",4344649,30,PERDEU,UND,6591,219.7
+"Óculos de segurança",4344650,100,NAO_COTOU,UND,0,0
+"Mochila costal flexível anti-incêndio",4344651,3,NAO_COTOU,UND,0,0
+Batedor/Abafador,4344652,11,NAO_COTOU,UND,0,0
+Mcleod,4344653,3,NAO_COTOU,UND,0,0
+Pulaski,4344654,3,NAO_COTOU,UND,0,0
+Rastelo,4344655,4,NAO_COTOU,UND,0,0
+"Queimador para incêndio controlado 5 Lt",4344656,2,NAO_COTOU,UND,0,0
+"Máscara facial tipo bandana",4344657,10,NAO_COTOU,UND,0,0
+"Indutor de espuma tipo mochila",4344658,2,NAO_COTOU,UND,0,0
+"Luva couro vaqueta / nylon",4344659,30,NAO_COTOU,UND,0,0
+"Supressante líquido",4344660,2,NAO_COTOU,UND,0,0
+"Retardante de chamas",4344661,2,NAO_COTOU,UND,0,0

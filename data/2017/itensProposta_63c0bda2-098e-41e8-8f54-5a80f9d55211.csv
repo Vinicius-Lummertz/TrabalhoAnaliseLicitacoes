@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Acepromazina.,4432132,2,PERDEU,FR.,58,29
+"CLORETO DE POTÁSSIO 19,1% SOL  INJ",4432133,50,VENCEU,AM,135,2.7
+"Ampicilina Sódica 1g (injetável)",4432134,15,VENCEU,FR,555,37
+"VERMIFUGO CAES",4432135,200,PERDEU,CP,560,2.8
+"vermifugo gatos",4432136,20,PERDEU,CP,56,2.8
+"cloridrato de cetamina 10%",4432137,10,VENCEU,FR.,250,25
+"Cloridrato de xilazina 2%",4432138,10,PERDEU,FR.,165,16.5
+"Colírio oftálmico para cães e gatos",4432139,1,VENCEU,FR.,145,145
+"dexametasona injetável",4432140,5,VENCEU,FR.,44.5,8.9
+Doramectina,4432141,10,VENCEU,FRA,220,22
+"Enrofloxacina 2,5 %",4432142,20,VENCEU,FRA,340,17
+"CETOCONAZOL 200 MG",4432143,40,VENCEU,COMP,380,9.5
+"Ivermectina injetavel frasco 50ml",4432144,5,PERDEU,FR,90,18
+Meloxicam,4432145,10,PERDEU,FRA,690,69
+Nitenpiram,4432146,60,VENCEU,CP,714,11.9
+"Ocitocina sintética injetável",4432147,1,PERDEU,FR.,17,17
+"Probióticopara cães e gatos",4432148,2,PERDEU,SRS,58,29
+"Solução otológica para cães e gatos",4432149,2,VENCEU,FR,180,90
+"Solução para limpeza auricular de cães e gatos",4432150,2,PERDEU,FRA,118,59
+"Sulfametoxazol e trimetoprim",4432151,150,VENCEU,CP,555,3.7
+"Vacina Anti-rábica para cães e gatos",4432152,200,PERDEU,FRA,1800,9
+"Vacina viva atenuada para cães e gatos (polivalente)",4432153,200,VENCEU,FR.,2800,14
+"Xarope expectorante e fluidificante",4432154,1,VENCEU,FR,53,53
+"Aplicador de injeção à distância",4432155,1,VENCEU,UND,145,145
+"bota de borracha preta",4432156,2,VENCEU,PAR,90,45
+"Bota de borracha preta n 38",4432157,2,VENCEU,PAR,90,45
+"BOTA DE BORRACHA BRANCA",4432158,6,VENCEU,PAR,270,45
+"Protetor Auditivo",4432159,4,VENCEU,UND,132,33
+AVENTAL,4432160,4,VENCEU,UNI,35.6,8.9
+"Luvas de vaqueta (luva de eletricista)",4432161,6,VENCEU,PAR,171,28.5
+"Conjunto com capuz impermeável",4432162,50,VENCEU,UND,400,8
+"Lanterna recarregável",4432164,6,VENCEU,UND,474,79
+"Pinça anatômica",4432165,6,VENCEU,UND,162,27
+"LANTERNA ULTRA VIOLETA",4432166,6,VENCEU,UNI,894,149

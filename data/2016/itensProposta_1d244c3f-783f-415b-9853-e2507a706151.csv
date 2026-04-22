@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balcão de atendimento com dois níveis de altura",4430194,1,DESCLASSIFICADO,UN,1600,1600
+"Mesa Escrivaninha em MDF",4430195,5,DESCLASSIFICADO,UNI,1900,380
+GAVETEIRO,4430196,4,DESCLASSIFICADO,UND,1560,390
+"Armário com 2 portas",4430197,4,PERDEU,UN,1520,380
+"Armário aéreo;",4430198,1,DESCLASSIFICADO,CNJ,950,950
+"Cama de solteiro",4430199,2,PERDEU,UN,588,294
+"Arquivo em aço com 04 gavetas",4430200,7,DESCLASSIFICADO,UN,3360,480
+"Cadeira estofada fixa 4 pés, modelo secretária",4430201,40,DESCLASSIFICADO,UN,3800,95
+"Poltrona tipo longarina 3 lugares executiva",4430203,3,DESCLASSIFICADO,CJ,1512,504
+"Colchão solteiro  semi ortopédico",4430205,4,VENCEU,UN,1600,400
+"Toalha de banho felpuda 70 x 140 cm",4430209,8,PERDEU,UN,232,29
+"Toalha de rosto felpuda 45 x 80 cm",4430210,8,PERDEU,UN,96,12
+"Panos de Prato 100% algodão, medida 50x70m",4430211,10,PERDEU,UN,32,3.2
+"Ventilador  de parede 60cm turbo",4430212,6,PERDEU,UN,882,147
+"LED 32  HDMI",4430213,1,VENCEU,UN,1387,1387
+"Lavadoura de roupas capac.12k",4430215,1,VENCEU,UN,1495,1495
+"Batedeira elétrica",4430216,1,VENCEU,UN,96,96
+"Forno microondas elétrico, para balcão",4430217,1,VENCEU,UN,386.5,386.5
+"Fogão 4 bocas",4430218,1,VENCEU,UN,420,420
+"Refrigerador Duplex  frost free, capac. 370 Lt",4430219,1,INABILITADO,UN,1990,1990
+"Liquidificador de 2 velocidades",4430220,1,PERDEU,UN,168,168
+"Garrafa Térmica 1,80 Lts",4430221,2,PERDEU,UN,160,80
+"Bacia grande",4430222,2,PERDEU,UN,77.8,38.9
+"Copo de vidro, capac. 200 ml",4430224,2,PERDEU,JOG,96,48
+"Prato (duralex) Prato fundo",4430230,12,PERDEU,UN,114,9.5
+"Prato (duralex) Prato raso",4430231,12,PERDEU,UN,115.2,9.6

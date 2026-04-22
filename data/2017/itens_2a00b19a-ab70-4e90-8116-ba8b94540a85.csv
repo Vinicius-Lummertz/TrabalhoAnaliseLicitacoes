@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"TACAÇÃO DE PINUS P/ FORRO",1297018,466,1250,ATIVO,METRO,1250,1
+"tábua pinus seca beneficiada",1297019,465,20,ATIVO,"METRO CUBICO",6680,334
+"tabua de cedro beneficiada",1297021,463,5,ATIVO,"METRO CUBICO",11300,2260
+"tabua de angelim beneficiada",1297022,462,5,ATIVO,"METRO CUBICO",12250,2450
+"Prancha de angelin bruTa",1297040,407,5,ATIVO,"METRO CUBICO",11825,2365
+"prancha de itauba bruta",1297074,410,5,ATIVO,"METRO CUBICO",15200,3040
+"Prancha de cedro Brufa",1297076,408,5,ATIVO,"METRO CUBICO",10000,2000
+"vara eucalipto para armação",1297129,565,1500,ATIVO,METRO,3750,2.5
+"Espelho cedro 14 cm",1297202,213,125,ATIVO,UNIDADE,1412.5,11.3
+"Espelho cedro 12 cm",1297203,212,125,ATIVO,UNIDADE,1062.5,8.5
+"Forro de pinus 1ª",1297230,243,200,ATIVO,"METRO QUADRADO",2000,10
+"Assoalho eucalipto 1°",1297336,38,100,ATIVO,"METRO QUADRADO",3000,30
+"bardela eucalipto 3,5 x 5 cm",1313630,42,1250,ATIVO,METRO,1550,1.24

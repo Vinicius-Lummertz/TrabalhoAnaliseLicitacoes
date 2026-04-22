@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+FRITADEIRA,4378309,2,VENCEU,UND,576,288
+"Lava jato manual de alta pressão",4378310,20,VENCEU,UND,16300,815
+"Mixer de alimentos doméstico",4378311,2,PERDEU,UND,438,219
+"Panela de arroz elétrica",4378312,2,NAO_COTOU,UND,0,0
+Liquidificador,4378313,50,DESCLASSIFICADO,UND,9400,188
+TABLET,4378314,5,NAO_COTOU,UND,0,0

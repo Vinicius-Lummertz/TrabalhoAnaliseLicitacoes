@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto tipo Paver com 6cm de espessura",1284704,3,500,ATIVO,"METRO QUADRADO",17000,34
+"Bloco de concreto sextavado com 6cm de espessura",1284706,2,500,ATIVO,"METRO QUADRADO",14000,28

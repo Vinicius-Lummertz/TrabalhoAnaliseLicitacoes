@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suco de fruta líquido sabores diversos, pronto para beber, 2",1258569,19,1100,ATIVO,UNIDADE,2057,1.87
+"Queijo, tipo prato fatiado, embalagem plástica com 200 grama",1258582,18,50,ATIVO,PACOTE,187.5,3.75
+"Doce de leite em pasta pote de 400g",1258583,11,20,ATIVO,POTE,58.8,2.94
+"Pirulito sortido, pacote com 50 unidades",1258584,16,110,ATIVO,PACOTE,815.1,7.41
+"Pão francês de 50g",1258585,15,50,ATIVO,kg,385.5,7.71
+"Pão doce",1258586,14,50,ATIVO,kg,385.5,7.71
+"Margarina cremosa, com sal Pote 500g",1258587,13,20,ATIVO,POTE,66.8,3.34
+"Leite Semi desnatado, embalagem de 1 lt tetra pack",1258588,12,95,ATIVO,LITRO,244.15,2.57
+"Doce de frutas pote de 400g",1258589,10,20,ATIVO,POTE,41.4,2.07
+"Café extra Forte pacote de 500g",1258590,9,45,ATIVO,PACOTE,324.45,7.21
+"Bombom embalagem de 1 kg",1258591,8,20,ATIVO,PACOTE,551.2,27.56
+"BISCOITO SALGADO.",1258592,7,1200,ATIVO,PACOTE,3528,2.94
+"Biscoito Salgado (tipo clube social)",1258593,6,1200,ATIVO,PACOTE,3528,2.94
+"Biscoito de chocolate.",1258594,5,1000,ATIVO,PACOTE,2940,2.94
+"Bala com sabor artificial de frutas",1258595,4,110,ATIVO,PACOTE,750.2,6.82
+"Adoçante líquido",1258596,3,10,ATIVO,UNIDADE,26.2,2.62
+"Presunto Fatiado embalagem plástica com 200 gramas cada",1258598,17,50,ATIVO,PACOTE,187.5,3.75
+"Achocolatado líquido",1258600,1,950,ATIVO,UNIDADE,2527,2.66
+"AÇUCAR REFINADO;",1258601,2,50,ATIVO,PACOTE,538.5,10.77

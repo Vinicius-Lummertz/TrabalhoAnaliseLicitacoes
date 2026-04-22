@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Autoclave 21 litros",4435886,1,INABILITADO,UN,4712,4712
+"Cadeira odontologica completa",4435889,4,INABILITADO,UN,76000,19000
+"BOMBA DE VACUO",4435890,2,PERDEU,UN,5600,2800
+"Aparelho de profilaxia odontológica",4435891,4,CANCELADO,UN,11200,2800

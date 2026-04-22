@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha em MDF",4427150,13,PERDEU,UNI,2990,230
+"Balcão em MDF acoplado às bancadas de inox.",4427151,7,PERDEU,UN,2765,395
+"Bancada estrutura em madeira MDF",4427152,2,PERDEU,UN,770,385
+"Cadeira giratória tipo executiva.",4427153,16,PERDEU,UNI,2720,170
+"CADEIRA ESTOFADA",4427154,43,PERDEU,UN,2575.7,59.9
+"Armário aberto 1,00 x 0,30 x 2,00m",4427156,2,INABILITADO,UN,740,370
+"Armário aberto 1,60 x 0,37 x 2,00m",4427157,3,INABILITADO,UN,1350,450
+"Painel liso",4427158,2,PERDEU,UN,750,375
+"Armário arquivo.",4427160,15,PERDEU,UN,5100,340
+"Armário com 2 portas",4427161,15,DESCLASSIFICADO,UN,5175,345
+"Armário tipo Vestiário .",4427162,2,PERDEU,UN,810,405
+"Balcão atendimento.",4427163,2,PERDEU,UN,5900,2950
+GAVETEIRO,4427164,6,PERDEU,UND,1380,230
+"MESA SIMPLES",4427165,1,INABILITADO,UND,400,400
+"Suporte para CPU com rodízios.",4427166,5,PERDEU,UN,225,45
+"Armário com 2 portas",4427168,1,PERDEU,UN,395,395
+"Organizador (caixa plástica)",4427246,10,PERDEU,UN,450,45
+"Fichário de mesa",4427247,5,PERDEU,UN,235,47
+"Lixeiras de plástico com tampa e pedal",4427248,12,PERDEU,UN,780,65
+"Contentor de lixo",4427249,1,PERDEU,UN,560,560
+"Carro funcional  para limpeza.",4427250,1,PERDEU,CNJ,1300,1300
+"Lixeira em polietileno resistente, capac. 40 litros Acompanh",4427251,5,VENCEU,UN,660,132
+"Lixeira em polietileno resistente, capac. 40 litros",4427252,5,VENCEU,UN,425,85
+"Aparelho telefônico convencional de mesa com fio.",4427254,4,PERDEU,UN,160,40
+"APARELHO MICROONDAS",4427255,1,PERDEU,UNI,379,379
+"Refrigerador tipo doméstico 1 porta.",4427258,1,PERDEU,UN,1200,1200
+"Refrigerador tipo doméstico 2 portas",4427259,2,PERDEU,UN,2980,1490
+"Televisor colorido 40 polegadas",4427260,1,PERDEU,UN,1590,1590
+"MICROCOMPUTADOR LINUX",4427262,8,DESCLASSIFICADO,UN,11200,1400
+"MICROCOMPUTADOR WINDOWS",4427263,2,PERDEU,UN,5400,2700

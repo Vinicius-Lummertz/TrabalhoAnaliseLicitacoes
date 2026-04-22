@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4427383,7,VENCEU,UNI,1189.3,169.9
+BALCAO,4427384,4,DESCLASSIFICADO,UNI,7200,1800
+"Cadeira giratória tipo executiva.",4427387,12,DESCLASSIFICADO,UNI,2016,168
+"CADEIRA ESTOFADA",4427388,31,VENCEU,UN,1670.9,53.9
+Poltrona,4427389,7,PERDEU,UND,2030,290
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4427390,2,DESCLASSIFICADO,UNI,770,385
+"Armário aberto tipo Prateleira 1,60 x 0,37 x 2,00m",4427391,3,PERDEU,UN,1290,430
+"Armário arquivo.",4427394,12,VENCEU,UN,3480,290
+"Armário com 2 portas",4427395,10,PERDEU,UN,3100,310
+"Armário tipo Vestiário.",4427396,2,DESCLASSIFICADO,UNI,1100,550
+GAVETEIRO,4427398,4,VENCEU,UND,788,197
+"Suporte para CPU com rodízios.",4427400,5,DESCLASSIFICADO,UN,200,40
+"Mesa reunião oval",4427401,1,PERDEU,UN,377,377
+"Armário com 2 portas",4427402,1,DESCLASSIFICADO,UN,430,430

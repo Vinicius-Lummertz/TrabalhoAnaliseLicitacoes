@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Açucar Branco/Mascavo Refinado 1Kg",0,360,VENCEU," ",716.4,1.99
+"ADOÇANTE LIQUIDO 100ml",0,36,VENCEU," ",107.64,2.99
+"Água de Coco",0,240,VENCEU," ",1675.2,6.98
+Azeite,0,24,VENCEU," ",83.76,3.49
+"Azeite de Oliva",0,12,VENCEU," ",236.28,19.69
+"Balas Sortidas (700 g)",0,60,VENCEU," ",238.8,3.98
+"Biscoito Amanteigado Sortido.",0,240,VENCEU," ",837.6,3.49
+"Biscoito Chocolate",0,240,VENCEU," ",837.6,3.49
+"Biscoito Creme Craker",0,240,VENCEU," ",717.6,2.99
+"Biscoito Linha Light Fit",0,120,VENCEU," ",358.8,2.99
+"Café moido a vácuo embalagem  500gr",0,240,VENCEU," ",2565.6,10.69
+"Chá Diversos",0,120,VENCEU," ",550.8,4.59
+"Filtro de Papel 103 caixa com 40 unidades",0,75,VENCEU," ",224.25,2.99
+"Garrafa térmica de 1 L",0,6,VENCEU," ",140.94,23.49
+"Guardanapo 23x23cm com 50 unidades",0,360,VENCEU," ",428.4,1.19
+"Leite Integral caixa com 12 litros",0,720,VENCEU," ",1792.8,2.49
+"Manteiga Com Sal",0,24,VENCEU," ",129.36,5.39
+"Pano de prato de cozinha",0,30,VENCEU," ",74.7,2.49
+"Papel Toalha de copa e cozinha",0,60,VENCEU," ",179.4,2.99
+"Refrigerante lata",0,600,VENCEU," ",1374,2.29
+"Refrigerante 2lt",0,120,VENCEU," ",406.8,3.39
+Sal;,0,12,VENCEU," ",11.88,0.99
+"SALGADOS SORTIDOS",0,200,VENCEU," ",13000,65
+"Sucos Diversos",0,180,VENCEU," ",844.2,4.69
+VINAGRE;,0,10,VENCEU," ",12.9,1.29

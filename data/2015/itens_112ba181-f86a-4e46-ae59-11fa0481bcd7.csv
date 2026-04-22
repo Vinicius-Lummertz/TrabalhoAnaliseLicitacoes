@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"benzilpenicilina benzatina - 1.200.000 UI",1258373,39,15000,ATIVO,"Frasco ampola",97500,6.5
+"benzilpenicilina benzatina - 600.000 UI",1258374,40,8500,ATIVO,"Frasco ampola",33150,3.9
+"Betametasona, diproprionato +  betametasona fosfato 1ml",1258375,42,800,ATIVO,AMP,2304,2.88
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica 5ml",1258376,67,200,ATIVO,FRASCO,1480,7.4
+"Cloreto de sódio 20% 10ml",1258377,79,700,ATIVO,AMP,133,0.19
+"Fenitoina 100mg.",1258378,112,160000,ATIVO,COMPRIMIDO,20800,0.13
+"Flumazenil 0,1mg/mL injetável 5ml",1258379,120,80,ATIVO,AMP,1355.2,16.94
+"Haloperidol 5mg/mL  1ml",1258380,134,1300,ATIVO,AMP,895.7,0.689
+"Haloperidol, decanoato 70,52mg/mL 1ml",1258381,135,2000,ATIVO,AMP,13780,6.89
+"AMPICILINA 500 MG",1258383,29,2000,ATIVO,COMPRIMIDO,258,0.129
+"Nitroglicerina 5mg/ml",1258397,200,80,ATIVO,AMP,2225.2,27.815

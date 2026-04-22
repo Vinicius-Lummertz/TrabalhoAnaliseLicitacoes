@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Computadores,4301066,11,VENCEU,UNI,30514,2774
+Notebooks,4301067,3,PERDEU,UNI,7914,2638
+Microfones,4301069,6,VENCEU,UNI,1926,321
+"CAIXA DE SOM",4301070,3,PERDEU,PAR,1881,627
+"Aparelho de Televisão",4301071,4,PERDEU,UNI,4704,1176
+"Projetor de Vídeo",4301072,2,PERDEU,UNI,5100,2550
+"Câmera Fotográfica",4301075,1,VENCEU,UNI,2175,2175
+"Navegador GPS Automotivo",4301080,3,PERDEU,UNI,1164,388

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Blocos de concreto tipo sextavada, com 8 cm de espessura c/",4331691,4000,VENCEU,M2,112000,28
+"Blocos de concreto, briquete, 8cm espessura c/ 35 Mpa",4331692,2000,VENCEU,M2,56000,28
+"Bloco de Concreto,  Unistein, 8CM DE ESPESSURA c/ 35 Mpa",4331693,1250,PERDEU,M2,38750,31
+"Meio Fio (12 x 30)",4331694,8000,PERDEU,M,120000,15
+"Meio fio (15 x 30)",4331695,8000,PERDEU,M,160000,20

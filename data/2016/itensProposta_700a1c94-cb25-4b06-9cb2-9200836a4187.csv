@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Simulador de Caminhada Duplo",1,1,Venceu,UND,1608,1608
+"Simulador de Cavalgada Duplo",2,1,Venceu,UND,1645,1645
+"Pressão de Pernas",3,1,Venceu,UND,1178,1178
+"Surf Duplo",4,1,Venceu,UND,1050,1050
+"Muti Exercitador",5,1,Venceu,UND,2519,2519

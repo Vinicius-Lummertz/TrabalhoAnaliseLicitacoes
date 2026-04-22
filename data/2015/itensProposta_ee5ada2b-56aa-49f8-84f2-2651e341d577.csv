@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"LOTE 01:",0,1,NAO_COTOU," ",0,0
+"LOTE 02:",0,1,NAO_COTOU," ",0,0
+"LOTE 03:",0,1,VENCEU," ",1314653.89,1314653.89
+"LOTE 04:",0,1,PERDEU," ",977881.29,977881.29

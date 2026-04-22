@@ -1,0 +1,169 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"cx luz 4x4 (pvc) sextavada dupla",1275049,187,45,ATIVO,UNIDADE,44.1,0.98
+"soquete lâmpada fluorescente (P.R.)",1275092,461,200,ATIVO,UNIDADE,198,0.99
+"plugue tomada telefone c/ 1 adaptador jack (macho)",1275107,396,200,ATIVO,UNIDADE,300,1.5
+"Porta papel higiênico em aço inoxidável",1275108,405,25,ATIVO,UNIDADE,399.75,15.99
+"plugue tomada 2p+t 10A (macho)",1275110,393,50,ATIVO,UNIDADE,135,2.7
+"plugue tomada 3 saídas (TE) 10A",1275111,392,50,ATIVO,UNIDADE,205,4.1
+"plugue porcelana trif. 30A",1275112,391,10,ATIVO,UNIDADE,159.9,15.99
+"plugue porcelana mono. 30A",1275113,390,10,ATIVO,UNIDADE,105,10.5
+"Plug roscavel 1/2 pvc",1275114,389,20,ATIVO,UNIDADE,8.6,0.43
+"plug galvanizado 3/4",1275115,388,20,ATIVO,UNIDADE,37.4,1.87
+"PLAFON BRANCO 100W",1275116,387,100,ATIVO,UNIDADE,199,1.99
+"piso cerâmico 45 x 45 A PEI-5 (chão)",1275117,386,500,ATIVO,"METRO QUADRADO",4395,8.79
+"piso cerâmico 45 x 45 A PEI-4 (chão)",1275118,385,500,ATIVO,"METRO QUADRADO",4200,8.4
+"porta sabonete em aço inox",1275120,406,25,ATIVO,UNIDADE,249.75,9.99
+"porta sabonete líquida externa (acrílico)",1275121,407,25,ATIVO,UNIDADE,737.5,29.5
+"porta sanfonada 80 x 2,10 (pvc)",1275122,408,25,ATIVO,UNIDADE,1350,54
+"prego forro galv. 13 x 10",1275129,423,40,ATIVO,kg,439.6,10.99
+"Prego com cabeça 25x72,pacote de 01 Kg",1275130,422,100,ATIVO,kg,612,6.12
+"Prego com cabeça 22x48,pacote de 01 Kg",1275131,421,100,ATIVO,kg,799,7.99
+"Prego com cabeça 22x45,pacote de 01 Kg",1275132,420,200,ATIVO,kg,1940,9.7
+"Prego com cabeça 19x36,pacote de 01 Kg",1275133,419,200,ATIVO,kg,980,4.9
+"Prego com cabeça 18x24,pacote de 01 Kg",1275134,418,200,ATIVO,kg,1598,7.99
+"Prego com cabeça 16x21,pacote de 01 Kg",1275136,416,200,ATIVO,kg,1798,8.99
+"Prego com cabeça 14x18,pacote de 01 Kg",1275137,415,150,ATIVO,kg,1605,10.7
+"Prego com cabeça 12x12,pacote de 01 Kg",1275138,414,100,ATIVO,kg,870,8.7
+"Prego com cabeça 10x10,pacote de 01 Kg",1275139,413,100,ATIVO,kg,1009,10.09
+"piso cerâmico 20 x 20 A PEI-4 (parede)",1275145,384,500,ATIVO,"METRO QUADRADO",5900,11.8
+"Tubo descarga para valvula",1275161,539,20,ATIVO,UNIDADE,116,5.8
+"Tubo cx descarga (longo)",1275162,538,50,ATIVO,UNIDADE,220,4.4
+"válvula pia cozinha pvc cr. 4.1/2 tipo americana",1275183,566,10,ATIVO,UNIDADE,87.9,8.79
+"válvula lavatório (pvc cr.)",1275184,565,50,ATIVO,UNIDADE,144.5,2.89
+"válvula lavatório (metal)",1275185,564,10,ATIVO,UNIDADE,78.8,7.88
+"telha fibra incolor 2,13 x 1,10 x 0,8mm",1275202,498,50,ATIVO,UNIDADE,2550,51
+"telha de cimento s/ amianto 1,22 x 0,50 x 4mm",1275204,496,300,ATIVO,UNIDADE,1980,6.6
+"telha s/ amianto 2,44 x 1,10 x 5mm",1275205,495,200,ATIVO,UNIDADE,7520,37.6
+"telha s/ amianto 2,44 x 0,50 x 4mm",1275207,494,300,ATIVO,UNIDADE,3570,11.9
+"telha s/ amianto 1,83 x 1,10 x 6mm",1275209,491,100,ATIVO,UNIDADE,3299,32.99
+"telha s/ amianto 1,83 x 0,50 x 4mm",1275211,489,400,ATIVO,UNIDADE,3760,9.4
+"Telha s/ amianto 1,53 x 1,10 x 6mm",1275212,488,250,ATIVO,UNIDADE,7550,30.2
+"Tela galvanizada arame 12 malha 10 trançada",1275215,485,1000,ATIVO,"METRO QUADRADO",13050,13.05
+"telha s/ amianto 2,13 x 1,10 x 6mm",1275217,493,200,ATIVO,UNIDADE,8880,44.4
+"forro de pvc 100mm",1275257,246,1000,ATIVO,"METRO QUADRADO",8450,8.45
+"fita veda rosca 18 x 25 mt",1275259,244,300,ATIVO,ROLO,840,2.8
+"fita sinalização zebrada 7cm x 200m",1275260,243,30,ATIVO,ROLO,116.7,3.89
+"fita isolante elétrica",1275261,242,200,ATIVO,UNIDADE,3260,16.3
+"fita crepe 50mm x 50mt",1275262,241,50,ATIVO,ROLO,315,6.3
+"fita crepe 25mm x 50mt",1275263,240,50,ATIVO,ROLO,135,2.7
+"fita crepe 19mm x 50mt",1275264,239,50,ATIVO,ROLO,95,1.9
+"fio elétrico tipo rígido  bitola 6,0mm",1275265,238,1000,ATIVO,METRO,1940,1.94
+"fio elétrico tipo rígido  bitola 4,0mm",1275291,237,2000,ATIVO,METRO,2700,1.35
+"fio elétrico tipo rígido  bitola 2,5mm",1275292,236,2500,ATIVO,METRO,1400,0.56
+"fio elétrico tipo rígido  bitola 10 mm",1275293,235,1500,ATIVO,METRO,5985,3.99
+"fio elétrico tipo rígido  bitola 1,5mm",1275294,234,2000,ATIVO,METRO,680,0.34
+"cx sifonada 150 x 50",1275312,191,45,ATIVO,UNIDADE,990,22
+"cx sifonada 100 x 50",1275313,190,45,ATIVO,UNIDADE,373.5,8.3
+"cx sifonada 100 x 150 x 50",1275314,189,45,ATIVO,UNIDADE,483.75,10.75
+"fio elétrico tipo flexível bitola 2 x 1,5mm",1275321,232,1500,ATIVO,METRO,1335,0.89
+"fio elétrico tipo flexível bitola 2 x 1,0mm",1275322,231,1000,ATIVO,METRO,770,0.77
+"ferro mecânico 3/8          6m",1275323,230,230,ATIVO,BARRA,3629.4,15.78
+"ferro mecânico 1/2          6m",1275324,229,230,ATIVO,BARRA,6359.5,27.65
+"ferro construçao 5/16 - 12m",1275325,228,720,ATIVO,BARRA,12024,16.7
+"fio elétrico tipo flexível bitola 2 x 2,5mm",1275343,233,2000,ATIVO,METRO,2920,1.46
+"Manta asfaltica alum. adesiva 10cm",1275346,354,450,ATIVO,METRO,855,1.9
+"mangueira preta 3/4 x 1,5mm",1275347,353,450,ATIVO,METRO,180,0.4
+"mangueira preta 1/2 x 1,5mm",1275348,352,450,ATIVO,METRO,130.5,0.29
+"mangueira preta 1 x 2,0mm",1275349,351,450,ATIVO,METRO,261,0.58
+"mangueira jardim 30m 1/2 (borracha)",1275350,350,20,ATIVO,ROLO,700,35
+"Mangueira jardim 3/4 x 2,5mm",1275351,349,300,ATIVO,METRO,720,2.4
+"mangueira jardim 20mt 1/2 (borracha)",1275352,348,20,ATIVO,ROLO,470,23.5
+"Mangueira gás 1,25m trançada",1275353,347,15,ATIVO,UNIDADE,64.35,4.29
+"Madeirite cola fenolica 1,10m x 2,20m x 12mm",1275355,346,140,ATIVO,UNIDADE,4536,32.4
+"Luva soldavel 50mm",1275356,344,45,ATIVO,UNIDADE,67.5,1.5
+"Luva soldável 32mm",1275358,342,70,ATIVO,UNIDADE,42,0.6
+"Luva LR 25 X 3/4",1275364,336,40,ATIVO,UNIDADE,38.4,0.96
+"Luva soldável 60mm",1275365,345,20,ATIVO,UNIDADE,162,8.1
+"martelo carpinteiro tipo unha",1275368,360,16,ATIVO,UNIDADE,111.84,6.99
+"Eletrocalha perfilado barra 38x38x6m",1275370,380,100,ATIVO,BARRA,5290,52.9
+"Pedra  alicerce",1275371,379,1200,ATIVO,METRO,6960,5.8
+"Parafuso p/ wc 10mm latão cr;",1275372,378,50,ATIVO,UNIDADE,115,2.3
+"parafuso p/ wc  8mm latão cr",1275373,377,50,ATIVO,UNIDADE,91.5,1.83
+"parafuso p/ telha 5/16 x 1/4 x 110mm completo",1275374,376,1000,ATIVO,UNIDADE,390,0.39
+"Parafuso fz 6,1 x 75mm",1275375,375,1000,ATIVO,UNIDADE,230,0.23
+"Parafuso fz 4,8 x 50mm",1275376,374,1000,ATIVO,UNIDADE,140,0.14
+"Parafuso aço rosca soberba 4,2 x 50",1275380,370,1000,ATIVO,UNIDADE,100,0.1
+"Parafuso aço rosca soberba 3,9 x 25",1275381,369,1000,ATIVO,UNIDADE,50,0.05
+"Pá de corte (cortadeira) com cabo de madeira",1275382,368,40,ATIVO,UNIDADE,319.6,7.99
+"Mola aérea p/ porta",1275385,365,15,ATIVO,UNIDADE,1065,71
+"massa de calafetar ,cor cinza",1275387,363,50,ATIVO,kg,446.5,8.93
+"Luva LR  25 x 1/2",1275390,335,70,ATIVO,UNIDADE,69.3,0.99
+"Lixa dagua, para pintura/folhas com 225x275mm, grão 120",1275394,308,100,ATIVO,FOLHA,60,0.6
+"LIxa dagua para pintura/folhas 225x275mm,grão 150",1275395,307,100,ATIVO,FOLHA,60,0.6
+"lavatorio sem coluna  (louca branca).",1275400,302,20,ATIVO,UNIDADE,788,39.4
+"lavatório com coluna suspensa de louça (grande)",1275401,301,20,ATIVO,UNIDADE,1279.8,63.99
+"Lixa Ferro, grão 100",1275403,309,100,ATIVO,FOLHA,110,1.1
+"lâmpada fluorescente tubular 20w 220V (nacional)",1275406,296,1500,ATIVO,UNIDADE,5235,3.49
+"lampada ELETRÔNICA 25 wats (economica)",1275407,295,500,ATIVO,UNIDADE,3850,7.7
+"lampada ELETRÔNICA 15 wats (economica)",1275408,294,1000,ATIVO,UNIDADE,5800,5.8
+"junção esgoto Y 50mm",1275410,292,5,ATIVO,UNIDADE,14.95,2.99
+"Lixa Ferro, grão 40",1275416,310,100,ATIVO,FOLHA,119,1.19
+"Lixa Ferro, grão 60.",1275417,311,100,ATIVO,FOLHA,119,1.19
+"LONA PLASTICA PRETA",1275432,318,3000,ATIVO,METRO,990,0.33
+"LIXA ROLO 120",1275435,315,120,ATIVO,METRO,256.8,2.14
+"Lixa rolo 100",1275436,314,150,ATIVO,METRO,315,2.1
+"lixa rolo  80",1275437,313,150,ATIVO,METRO,330,2.2
+"Lixa Ferro, grão 80",1275438,312,100,ATIVO,FOLHA,118,1.18
+"argamassa ACI interna 20kg",1275442,34,400,ATIVO,UNIDADE,2348,5.87
+"aro s/ pneu c/ rolete ferro 350 x 8",1275444,36,15,ATIVO,UNIDADE,438,29.2
+"Base para Fixação de Relê Foto-Elétrico para lâmpadas 1000w.",1275452,44,25,ATIVO,UNIDADE,144.5,5.78
+"BOCAL BAQUELITE TETO RETO",1275455,47,50,ATIVO,UNIDADE,96,1.92
+"BOCAL PORCELANA E-27",1275456,48,100,ATIVO,UNIDADE,119,1.19
+"BOIA PVC 1/2 - CX DAGUA",1275457,49,40,ATIVO,UNIDADE,159.2,3.98
+"BOIA PVC 3/4 - CX DAGUA",1275458,50,30,ATIVO,UNIDADE,128.7,4.29
+"BORRACHA WC",1275460,51,50,ATIVO,UNIDADE,74.5,1.49
+"Cx Descarga",1275465,185,100,ATIVO,UNIDADE,1050,10.5
+"Arame farpado com carga de ruptura min. de 350Kgf, Rolo 250m",1275475,21,5,ATIVO,ROLO,322.5,64.5
+"arame farpado com carga de ruptura min. de 350Kgf,500m",1275476,22,3,ATIVO,ROLO,837.3,279.1
+"Arame Galvanizado com bitola de N° 14 (2,10mm) para Amarraçã",1275477,23,12,ATIVO,kg,113.64,9.47
+"Arame Galvanizado com bitola de N° 16 (1,65mm) para Amarraçã",1275478,24,20,ATIVO,kg,213,10.65
+"Arame Galvanizado com bitola de N° 18 (1,24mm) para Amarraçã",1275479,25,50,ATIVO,kg,517.5,10.35
+"Arame Galvanizado com bitola de N° 20 (0,89mm) para Amarraçã",1275480,26,50,ATIVO,kg,779.5,15.59
+"Arame Recozido para ferragem de construção Civil com aplicaç",1275481,27,25,ATIVO,UNIDADE,179.75,7.19
+"cabo de picareta em madeira oval de 90 cm",1275489,89,25,ATIVO,UNIDADE,174.75,6.99
+"cabo de pá de juntar",1275490,88,50,ATIVO,UNIDADE,224.5,4.49
+"cabo de pá de cavar",1275491,87,50,ATIVO,UNIDADE,247.5,4.95
+"cabo de enxada confeccionado em madeira maciça 1,30 m.",1275492,86,50,ATIVO,UNIDADE,324.5,6.49
+"CABO CCI 2 PARES.",1275493,85,400,ATIVO,METRO,188,0.47
+"cabo aço galv. a. fibra 5/16",1275494,84,50,ATIVO,METRO,285,5.7
+"cabo aço galv. a. fibra 3/16",1275495,83,50,ATIVO,METRO,124.5,2.49
+"cabo aço galv. a. fibra 1/8",1275497,82,50,ATIVO,METRO,69,1.38
+"bucha redução roscavel 2 x 1.1/2 pvc",1275499,79,45,ATIVO,UNIDADE,447.3,9.94
+"bucha redução roscavel 2 x 1 pvc",1275500,78,45,ATIVO,UNIDADE,354.6,7.88
+"cabo aço galv. a. fibra 1/4",1275507,81,50,ATIVO,METRO,199,3.98
+"cabo rede comp. azul 8 x 24 AWG",1275510,95,1500,ATIVO,METRO,2175,1.45
+"cabo pp 3 x 1,5mm",1275526,100,700,ATIVO,METRO,1799,2.57
+"cabo pp 3 x 1,0mm",1275527,99,700,ATIVO,METRO,1365,1.95
+"cabo pp 2 x 2,5mm",1275528,98,1500,ATIVO,METRO,4305,2.87
+"CABO PP 2 X 1,5MM PRETO",1275529,97,1500,ATIVO,METRO,2805,1.87
+"cabo pp 2 x 1,0mm",1275530,96,700,ATIVO,METRO,826,1.18
+"cilindro fechadura 735/835 LC",1275547,148,120,ATIVO,UNIDADE,1678.8,13.99
+"Chuveiro Elétrico,material termo-plástico,variações de tempe",1275548,147,100,ATIVO,UNIDADE,1999,19.99
+"chapa aluminio 60cm",1275549,146,100,ATIVO,METRO,2440,24.4
+"chapa aluminio 30cm",1275550,145,150,ATIVO,METRO,2998.5,19.99
+"cx dágua fibra 1.000 litros",1275558,184,10,ATIVO,UNIDADE,3400,340
+"cx dágua fibra    500 litros",1275559,183,10,ATIVO,UNIDADE,1820,182
+"cx dágua fibra    310 litros",1275560,182,15,ATIVO,UNIDADE,2220,148
+"curva esgoto curta  75 x 90º",1275562,180,5,ATIVO,UNIDADE,59.5,11.9
+"curva eletroduto pvc anti-chama 3/4 x 90º preta",1275565,177,20,ATIVO,UNIDADE,31,1.55
+"curva eletroduto pvc anti-chama 3/4 x 180º preta",1275566,176,20,ATIVO,UNIDADE,48,2.4
+"curva eletroduto pvc anti-chama 2 x 90º preta",1275568,175,10,ATIVO,UNIDADE,59,5.9
+"curva eletroduto pvc anti-chama 1/2 x 90º preta",1275569,173,20,ATIVO,UNIDADE,17.8,0.89
+"curva eletroduto pvc anti-chama 1.1/2 x 90º preta",1275570,172,10,ATIVO,UNIDADE,39.9,3.99
+"curva eletroduto pvc anti-chama 1  x 90º preta",1275571,171,20,ATIVO,UNIDADE,39.2,1.96
+"curva eletroduto pvc anti-chama 1  x 180º preta",1275572,170,20,ATIVO,UNIDADE,82.6,4.13
+"curva eletroduto pvc anti-chama  1.1/2 x 180º preta",1275573,169,10,ATIVO,UNIDADE,47,4.7
+"cumeeira de amianto para telhado 6mm x 0,50 15º",1275574,168,200,ATIVO,UNIDADE,6780,33.9
+"cumeeira de amianto para telhado 4mm x 0,50 (par)",1275575,167,200,ATIVO,UNIDADE,998,4.99
+"curva eletroduto pvc anti-chama 2 x 180º preta",1275578,174,20,ATIVO,UNIDADE,177.6,8.88
+"CAIXA INSPECAO PSASSAGEM ESGOTO",1275583,113,100,ATIVO,UNIDADE,2999,29.99
+"caçamba carrinho de mao (pvc)",1275590,106,15,ATIVO,UNIDADE,404.85,26.99
+"cabo sintenax  6,0mm",1275591,105,500,ATIVO,METRO,1295,2.59
+"cabo sintenax  4,0mm",1275592,104,1500,ATIVO,METRO,2685,1.79
+"cabo sintenax  2,5mm",1275593,103,1500,ATIVO,METRO,1485,0.99
+"cabo rede comp. azul 8 x 24 AWG",1275594,102,1500,ATIVO,METRO,1425,0.95
+"CALHA FLUORESCENTE  COMERCIAL 2 X 20W",1275603,117,3500,ATIVO,PEÇA,25550,7.3
+"CALHA FLUORESCENTE  COMERCIAL 2 X 40W",1275604,118,1600,ATIVO,PEÇA,18880,11.8
+"carrinho de mão de chapa",1275609,133,7,ATIVO,UNIDADE,622.3,88.9
+"cap soldável 60mm",1275610,132,25,ATIVO,UNIDADE,175,7
+"cap esgoto  50mm",1275616,126,25,ATIVO,UNIDADE,62,2.48

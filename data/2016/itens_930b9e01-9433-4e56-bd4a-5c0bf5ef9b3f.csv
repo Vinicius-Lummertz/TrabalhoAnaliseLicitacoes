@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ração balanceada para gatos adultos",1259356,4,600,ATIVO,kg,3750,6.25
+"Ração balanceada para gatos Filhotes",1259357,3,600,ATIVO,kg,4350,7.25
+"Ração balanceada para caes adultos",1259358,2,4000,ATIVO,kg,29000,7.25
+"Ração balanceada para caes filhotes",1259359,1,2000,ATIVO,kg,12500,6.25

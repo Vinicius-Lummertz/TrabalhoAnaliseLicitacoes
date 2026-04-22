@@ -1,0 +1,111 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",4429323,12000,PERDEU,UNI,360,0.03
+"Atestado Médico",4429324,3000,DESCLASSIFICADO,BLC,5400,1.8
+"Atestado Médico para Gestantes",4429325,150,DESCLASSIFICADO,BLC,337.5,2.25
+"Auto para coleta de água para consumo humano- 2 vias autocop",4429326,50,DESCLASSIFICADO,BLC,410,8.2
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",4429327,200,VENCEU,BLC,440,2.2
+"Bacteriologia da Tuberculose.",4429328,100,DESCLASSIFICADO,BLC,200,2
+"BOLETIM DE ATENDIMENTO MEDICO",4429329,50,DESCLASSIFICADO,BLC,200,4
+"Boletim de atendimento médico 24hs",4429330,150,DESCLASSIFICADO,BLC,577.5,3.85
+"Boletim de procedimento odontológico BPA - consolidado",4429331,20,DESCLASSIFICADO,BLC,120,6
+"Boletim de Reconhecimento Geográfico (Dengue)",4429332,100,PERDEU,BLC,240,2.4
+"Boletim diário de odontologia -BDO frente e verso",4429333,350,DESCLASSIFICADO,BLC,665,1.9
+"Boletim diário de odontologia na ESF- BDO- frente e verso",4429334,25,DESCLASSIFICADO,BLC,137.5,5.5
+"BPA individualiazado 2 vias autocopiativo",4429336,500,DESCLASSIFICADO,BLC,3600,7.2
+"Cartão de agendamento - frente e verso - papel offset 180gr",4429337,30000,VENCEU,UNI,1650,0.055
+"Cartão de retorno - papel offset 180gr",4429338,100000,VENCEU,UN,1800,0.018
+"Cartão de TFD-  papel offset 180gr",4429339,32000,DESCLASSIFICADO,UN,896,0.028
+"Comprovante de Reuniões Educativas",4429340,50,DESCLASSIFICADO,BLC,210,4.2
+"Condensado mensal de atividade educativa odontológica",4429341,10,PERDEU,BLC,100,10
+"Condição Sócio Econômica- CAPS II",4429342,10,PERDEU,BLC,100,10
+"Consentimento informado - 2 vias autocopiativo",4429343,70,DESCLASSIFICADO,BLC,560,8
+"Controle de TDO",4429344,100,PERDEU,BLC,240,2.4
+"Cuidados para vasectomia- 23x16 cm 2 vias autocopiativo",4429345,70,PERDEU,BLC,350,5
+"Dados do atendimento do paciente- RAAS CAPS II",4429346,40,PERDEU,BLC,160,4
+"Dados do atendimento do paciente- RAAS CAPS III",4429347,40,PERDEU,BLC,160,4
+"Declaração de Comparecimento",4429348,3000,DESCLASSIFICADO,BLC,5400,1.8
+"Estudo sócio-econômica CAPS II ad-  1 via",4429350,10,DESCLASSIFICADO,BLCO,100,10
+"Etique laboratório Dengue (picotado)",4429351,10,PERDEU,BLC,100,10
+"Evolução do paciente - frente e verso",4429352,6000,VENCEU,BLC,17100,2.85
+"Exame parcial de urina",4429353,100,PERDEU,BLC,300,3
+"Ficha clínica odontológica -frente e verso",4429354,15,DESCLASSIFICADO,BLC,165,11
+"Ficha clínica Tuberculose",4429355,10,DESCLASSIFICADO,BLC,110,11
+"Ficha Controle de Atendimento frente e verso - papel offset",4429356,5000,PERDEU,UN,250,0.05
+"Ficha de acolhimento CAPS II ad 4 páginas",4429357,40,PERDEU,BLC,186,4.65
+"Ficha de acolhimento CAPS II- frente verso",4429358,40,DESCLASSIFICADO,BLC,186,4.65
+"Ficha de acolhimento CAPS III - frente e verso",4429359,40,DESCLASSIFICADO,BLC,186,4.65
+"Ficha de atendimento individual e-sus - frente e verso",4429360,360,PERDEU,BLC,720,2
+"Ficha de atendimento odontológico individual- frente e verso",4429361,240,PERDEU,BLC,468,1.95
+"Ficha de atendimento SAMU - 2 vias autocopiativo",4429362,150,DESCLASSIFICADO,BLC,1177.5,7.85
+"Ficha de atividade coletiva e-sus- frente e verso",4429363,120,DESCLASSIFICADO,BLC,270,2.25
+"Ficha de Cadastro Domiciliar E-SUS",4429364,1000,DESCLASSIFICADO,BLC,1850,1.85
+"Ficha de cadastro individual e-sus frente e verso",4429365,1600,PERDEU,BLC,2800,1.75
+"Ficha de Observação do Animal Agressor.",4429366,20,DESCLASSIFICADO,BLC,160,8
+"Ficha de Procedimento e-sus- frente e verso",4429367,840,DESCLASSIFICADO,BLC,1554,1.85
+"Ficha de Visita Domiciliar E-SUS",4429368,1000,DESCLASSIFICADO,BLC,1850,1.85
+"Ficha individual: de notificação de laqueadura tubária e vas",4429369,70,PERDEU,BLC,560,8
+"Ficha nominal- Programa Tuberculose- (papel offset 180gr)",4429370,500,PERDEU,UN,125,0.25
+"Fluxo e contra-fluxo",4429371,2000,VENCEU,BLC,3180,1.59
+"Formulário para pedido judicial de medicamentos- Frente vers",4429372,50,DESCLASSIFICADO,BLC,200,4
+"Laudo Médico para emissão de BPA-I (anti - HCV)",4429373,10,DESCLASSIFICADO,BLC,140,14
+"Laudo Médico para Procedimento de Alta Complexidade APAC- 2",4429374,500,PERDEU,BLC,3450,6.9
+"Laudo Médico para Procedimento de Alta Complexidade BPAI- 2",4429375,500,VENCEU,BLC,3145,6.29
+"Laudo médico tratamento fora domicilia para dentro do estado",4429376,500,PERDEU,BLC,3450,6.9
+"Marcadores sorológicos - Hepatite A e B",4429377,10,DESCLASSIFICADO,BLC,150,15
+"Memorando interno - 2 vias autocopiativo",4429378,1200,VENCEU,BLC,3564,2.97
+"Monitoramento das doenças Diarreicas Agudas - distribuição d",4429379,40,DESCLASSIFICADO,BLC,200,5
+"Monitoramento das doenças Diarreicas, Agudas planilha de cas",4429380,40,DESCLASSIFICADO,BLC,200,5
+"Orientações CAPS III- frente e verso",4429381,40,DESCLASSIFICADO,BLC,200,5
+"Pasta Prontuário - tamanho 44,6x32cm papel 240gr + bolsa 22x",4429382,30000,PERDEU,BLC,11100,0.37
+"Planilha de visitas domiciliares- CAPS II",4429383,10,DESCLASSIFICADO,BLC,150,15
+"Plano Terapêutico singular CAPS II ad- frente e verso",4429384,20,DESCLASSIFICADO,BLC,120,6
+"PMA2-C Odonto",4429385,5,DESCLASSIFICADO,BLC,150,30
+"Prescrição de Óculos",4429386,100,PERDEU,BLC,220,2.2
+"Programa de Combate a Tuberculose.",4429387,15,DESCLASSIFICADO,BLC,135,9
+"Programa de controle da dengue- ficha de visita (papel offse",4429388,500,PERDEU,UN,150,0.3
+"Programa de controle da febre amarela dengue- ficha de visit",4429389,2000,DESCLASSIFICADO,UN,180,0.09
+"Programa de Planejamento Familiar - frente e verso",4429390,70,PERDEU,BLC,245,3.5
+"Programa Nacional de Controle da Dengue - PNCD",4429391,200,DESCLASSIFICADO,BLC,440,2.2
+"Proposta de tratamento CAPS II ad",4429393,10,DESCLASSIFICADO,BLC,110,11
+"Receituário B1- cor azul",4429394,10000,VENCEU,BLC,3000,0.3
+"Receituário B2- cor azul",4429395,3000,PERDEU,BLC,1200,0.4
+"Receituário de Controle especial - 2 vias autocopiativo",4429396,12000,PERDEU,BLC,37200,3.1
+"Receituário DST-HIV- AIDS- Profilaxia - 4 vias autocopiativo",4429397,250,VENCEU,BLC,3375,13.5
+"Receituário DST-HIV- AIDS- Tratamento - 4 vias autocopiativo",4429398,30,VENCEU,BLC,572.7,19.09
+"Receituário retinóide - 21,5x8cm cor branca",4429399,100,PERDEU,BLC,135,1.35
+"Receituário simples",4429400,19000,VENCEU,BLC,15960,0.84
+"Recibo produtos fornecidos judicialmente- Estado",4429401,30,DESCLASSIFICADO,BLC,180,6
+"Recibo produtos fornecidos judicialmente- Municipio",4429402,30,DESCLASSIFICADO,BLC,180,6
+"Registro de falta de paciente a atendimento odontológico - F",4429403,10,DESCLASSIFICADO,BLC,130,13
+"Registro diário do serviço antivetorial (frente e verso)",4429404,50,DESCLASSIFICADO,BLC,190,3.8
+"Relatório Sócio Econômico- 2 vias autocopiativo",4429405,100,DESCLASSIFICADO,BLC,745,7.45
+"Requerimento judicial medicamentos e insumos",4429406,50,PERDEU,BLC,175,3.5
+"Requisição de clínica de RX- Cabeçario cor azul",4429407,600,PERDEU,BLC,1500,2.5
+"Requisição de materiais e/ ou serviços - 2 vias autocopiativ",4429408,500,DESCLASSIFICADO,BLC,1925,3.85
+"Requisição de ultrassonografia- Cabeçario cor lilás",4429409,300,PERDEU,BLC,1020,3.4
+"Requisição para exame laboratório Conveniado Cabeçario cor v",4429411,500,PERDEU,BLC,1340,2.68
+"Requisição para exame laboratório Municipal- Cabeçario cor l",4429412,1000,VENCEU,BLC,2300,2.3
+"Requisição para fisioterapia -Cabeçario cor vermelha",4429413,150,PERDEU,BLC,592.5,3.95
+"SINAN - Acidente de trabalho grave- frente e verso",4429414,20,DESCLASSIFICADO,BLC,140,7
+"SINAN - Acidentes por animais peçonhentos - frente e verso",4429415,10,DESCLASSIFICADO,BLC,130,13
+"SINAN - Intoxicação exógena - frente e verso",4429416,30,DESCLASSIFICADO,BLC,165,5.5
+"SINAN- Atendimento Anti-Rábico Humano - frente e verso",4429417,40,DESCLASSIFICADO,BLC,200,5
+"SINAN- Doenças exantemáticas febris",4429418,10,DESCLASSIFICADO,BLC,130,13
+"SINAN- Ficha de investigação da dengue",4429419,10,DESCLASSIFICADO,BLC,130,13
+"SINAN -Ficha de Notificação/ Conclusão",4429420,20,DESCLASSIFICADO,BLCO,180,9
+"SINAN- Síndrome Respiratória Aguda grave",4429421,20,DESCLASSIFICADO,BLC,180,9
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",4429422,5,DESCLASSIFICADO,BLC,125,25
+"SINAN-Ficha de investigação Hepatites Virais- frente e verso",4429423,10,DESCLASSIFICADO,BLC,130,13
+"SINAN-Ficha de notificação/ investigação Tuberculose",4429424,10,DESCLASSIFICADO,BLC,130,13
+"Marcadores do consumo alimentar maiores de 5 anos- frente e",4429425,200,PERDEU,BLC,460,2.3
+"Marcadores do consumo alimentar menores de 5 anos- frente e",4429426,200,DESCLASSIFICADO,BLC,460,2.3
+"SISVAN- cadastro de domícilio- frente e verso",4429427,200,DESCLASSIFICADO,BLC,460,2.3
+"SISVAN- Mapa de Acompanhamento Nutricional frente e verso",4429428,400,VENCEU,BLC,776,1.94
+"Solicitação de Eletrocardiograma",4429429,300,DESCLASSIFICADO,BLC,630,2.1
+"Termo de compromisso - CAPS III",4429430,20,DESCLASSIFICADO,BLC,140,7
+"Termo de responsabilidade - CAPS III",4429431,20,DESCLASSIFICADO,BLC,140,7
+"Termo de solicitação e informação 2 vias autocopiativo",4429432,70,DESCLASSIFICADO,BLC,616,8.8
+"Tratamento cirúrgico - orientações após extração- papel offs",4429433,5000,PERDEU,UN,250,0.05
+"Urgência odontológica",4429434,50,DESCLASSIFICADO,BLC,250,5
+"Folder 297x21cm 2 dobras- papel couche",4429438,50000,DESCLASSIFICADO,UN,7000,0.14
+"Folder 297x21cm 3 dobras- papel couche",4429439,250000,DESCLASSIFICADO,UN,40000,0.16

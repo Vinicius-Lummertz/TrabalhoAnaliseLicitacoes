@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fabricação de corrimão metálico de 1,10 x 1,10 m em cano de",0,4,VENCEU," ",1400,350
+"Fabricação de pega-mão metálica em cano de 1 1/2, pintado",0,12,VENCEU," ",1080,90
+"Fabricação de grade metálica de 40,00 x 0x30 m em tubo de 30",0,1,VENCEU," ",3050,3050
+"Fabricação de porta metálica em tubo 30x30 com fechamento em",0,3,VENCEU," ",2100,700

@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Acepromazina.,4432132,2,VENCEU,FR.,57,28.5
+"Ampicilina Sódica 1g (injetável)",4432134,15,PERDEU,FR,562.5,37.5
+"VERMIFUGO CAES",4432135,200,VENCEU,CP,520,2.6
+"vermifugo gatos",4432136,20,VENCEU,CP,52,2.6
+"cloridrato de cetamina 10%",4432137,10,PERDEU,FR.,265,26.5
+"Cloridrato de xilazina 2%",4432138,10,VENCEU,FR.,160,16
+"dexametasona injetável",4432140,5,PERDEU,FR.,45,9
+Doramectina,4432141,10,PERDEU,FRA,225,22.5
+"Enrofloxacina 2,5 %",4432142,20,PERDEU,FRA,350,17.5
+"Ivermectina injetavel frasco 50ml",4432144,5,VENCEU,FR,80,16
+Meloxicam,4432145,10,VENCEU,FRA,682,68.2
+Nitenpiram,4432146,60,PERDEU,CP,720,12
+"Ocitocina sintética injetável",4432147,1,VENCEU,FR.,15.5,15.5
+"Probióticopara cães e gatos",4432148,2,VENCEU,SRS,56,28
+"Solução otológica para cães e gatos",4432149,2,PERDEU,FR,182,91
+"Solução para limpeza auricular de cães e gatos",4432150,2,VENCEU,FRA,114,57
+"Vacina Anti-rábica para cães e gatos",4432152,200,VENCEU,FRA,1740,8.7
+"Vacina viva atenuada para cães e gatos (polivalente)",4432153,200,PERDEU,FR.,2840,14.2

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+VINAGRE;,1273608,40,6600,ATIVO,UNIDADE,6072,0.92
+"Reforçador de massa",1273657,38,1200,ATIVO,kg,9000,7.5
+"Arroz Branco",1273680,3,7000,ATIVO,kg,11830,1.69
+"Doce de Leite",1273696,17,4400,ATIVO,POTE,23496,5.34
+"FERMENTO EM PÓ.",1273700,28,3500,ATIVO,UNIDADE,14350,4.1

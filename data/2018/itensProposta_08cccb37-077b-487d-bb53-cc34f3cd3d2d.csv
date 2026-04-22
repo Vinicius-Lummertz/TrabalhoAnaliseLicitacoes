@@ -1,0 +1,55 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aspirador elétrico móvel, com pedestal",4433012,5,INABILITADO,UNI,7250,1450
+"Balança pediátrica digital",4433014,2,DESCLASSIFICADO,UN,1300,650
+"Balde a chute em aço inox",4433015,3,PERDEU,UNI,1350,450
+"Biombo triplo",4433017,4,DESCLASSIFICADO,UN,4000,1000
+"CADEIRA DE RODA ADULTO",4433018,1,DESCLASSIFICADO,UNI,2950,2950
+"Cadeira  de roda adulto",4433019,3,DESCLASSIFICADO,UNI,6960,2320
+"CARRO DE CURATIVO C/ BALDE",4433022,2,DESCLASSIFICADO,UNI,2330,1165
+"Carro maca para transporte de cadáver",4433025,1,DESCLASSIFICADO,UNI,2280,2280
+"CARRO PARA DETRITOS, EM AÇO AISI 304 TIPO 18.8, DEPOSITO ...",4433026,1,VENCEU,UN,1800,1800
+"CARRO DE TRANSPORTE ROUPA LIMPA:",4433029,2,PERDEU,UN,3900,1950
+"Conjunto Micro Nebulizador para O2",4433033,24,DESCLASSIFICADO,UNI,451.2,18.8
+"Conjunto para nebulização Ar Comprimido",4433034,24,DESCLASSIFICADO,UNI,451.2,18.8
+"Conjunto Micro Nebulizador para O2",4433035,16,DESCLASSIFICADO,UNI,364.8,22.8
+"Conjunto para nebulização Ar Comprimido",4433036,16,DESCLASSIFICADO,UNI,300.8,18.8
+"Detector cardíaco fetal portátil digital",4433041,2,DESCLASSIFICADO,UNI,3600,1800
+"Escadinha hospitalar com 02 degraus",4433043,21,DESCLASSIFICADO,UN,5985,285
+"LANTERNA CLINICA",4433052,10,DESCLASSIFICADO,UND,470,47
+"Laringoscópio  infantil de  fibra ótica com lâminas retas e",4433054,2,PERDEU,UNI,2400,1200
+"mesa auxiliar de mayo em inox",4433056,6,DESCLASSIFICADO,UNI,6000,1000
+"Mesa auxiliar retangular em aço inox.",4433057,10,DESCLASSIFICADO,UN,10000,1000
+"Negatoscópio de 1 corpo de parede",4433059,6,DESCLASSIFICADO,UN,4500,750
+"NEGATOSCOPIO DE 2 CORPOS",4433060,2,DESCLASSIFICADO,UNI,2000,1000
+Oftalmoscópio,4433061,3,PERDEU,UN,3735,1245
+"Oxímetro de Pulso de Mesa",4433063,3,INABILITADO,UNI,12000,4000
+"Papagaio em aço inox, capac. 1 litro",4433064,5,DESCLASSIFICADO,UN,530,106
+"Poltrona hospitalar reclinável estofada",4433065,10,PERDEU,UN,9000,900
+"Ressuscitador manual  adulto",4433068,10,DESCLASSIFICADO,UNI,5000,500
+"RESSUSCITADOR MANUAL INFANTIL",4433069,3,DESCLASSIFICADO,UNI,2820,940
+"Ressuscitador manual neonatal",4433070,3,DESCLASSIFICADO,UNI,2850,950
+"SERRA ELETRICA PARA GESSO ( 220 V)",4433071,1,VENCEU,UN,2080,2080
+"Suporte de Hamper",4433072,6,DESCLASSIFICADO,UNI,1500,250
+"Suporte de soro em aço inox,com rodizios,4 ganchos em X",4433073,20,DESCLASSIFICADO,UNI,6000,300
+"Suporte para Braçadeira para coleta de sangue",4433075,8,INABILITADO,UNI,3040,380
+"Aparelho Rx odontológico para fixação em parede, com braço P",4433080,1,PERDEU,UNI,6400,6400
+"Cuba rim em aço inox, 26 x12 cm, capac. 700 ml",4433085,10,DESCLASSIFICADO,UNI,700,70
+"Cuba redonda de inox",4433086,20,DESCLASSIFICADO,UN,640,32
+"Suporte fixação em parede coletor de mat. perfuro-cortante",4433087,15,DESCLASSIFICADO,UNI,525,35
+"AVENTAL DE CHUMBO",4433088,2,PERDEU,UN,1580,790
+"Protetor de tireóide adulto 0,50mm",4433089,2,PERDEU,UNI,390,195
+"LUVA PLUMBÍFERO  DE DEDO 0,50 Pb",4433090,1,VENCEU,UNI,515,515
+"ÓCULOS COM LENTES PLUMBÍFERAS 0,50 Pb, COM PROTEÇÃO LATERAL",4433091,2,VENCEU,UNI,1440,720
+"Porta avental plumbíufero para 2 aventais",4433092,1,DESCLASSIFICADO,UNI,348.5,348.5
+"Aparelho Microondas, capac. 22lt, na cor branca",4433107,2,PERDEU,UNI,874,437
+"Bebedouro elétrico de coluna",4433108,3,DESCLASSIFICADO,UN,2040,680
+"Refrigerador tipo doméstico 2 portas",4433109,1,PERDEU,UN,1850,1850
+FRIGOBAR,4433110,3,PERDEU,UNI,2967,989
+"Aparelho telefônico convencional de mesa com fio.",4433112,23,PERDEU,UN,915.4,39.8
+"Aparelho telefônico convencional de mesa, sem fio",4433113,5,VENCEU,UN,490,98
+"Head fone  com Headset Possuir fone de ouvido com microfone",4433114,1,PERDEU,UN,158,158
+"Carro funcional  para limpeza",4433116,3,VENCEU,CNJ,2400,800
+"Lixeira em polietileno resistente, capac. 50 litros",4433121,1,VENCEU,UN,400,400
+"Palletes plástico medindo aprox. 100 x 120 x 15 cm (LxCxA)",4433122,6,VENCEU,UN,705,117.5
+"Escada em alumínio reforçada, com 7 degraus, dobrável",4433123,4,VENCEU,UN,480,120
+"Quadro de avisos",4433125,10,PERDEU,UNI,3480,348

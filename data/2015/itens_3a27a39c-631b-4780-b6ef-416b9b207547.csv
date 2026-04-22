@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CARTOLINA TAMANHO OFICIO",1278905,13,30000,ATIVO,UNIDADE,2400,0.08
+"Cola Branca 1 kg",1278908,17,2500,ATIVO,UNIDADE,24800,9.92
+"Canetas hidrográficas",1278911,20,400,ATIVO,UNIDADE,1872,4.68
+"Cola Branca 110g",1278913,18,7000,ATIVO,UNIDADE,11970,1.71
+"Borracha  branca escolar",1278920,5,500,ATIVO,CAIXA,2750,5.5
+"Fita crepe na cor bege",1278937,24,5000,ATIVO,UNIDADE,13350,2.67
+"Guache Cores básicas",1278954,34,6000,ATIVO,UNIDADE,8760,1.46
+"Massa de modelar macia",1278958,38,6000,ATIVO,CAIXA,6600,1.1
+"Giz de cera.",1278960,33,8500,ATIVO,CAIXA,11220,1.32

@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",4358134,200,VENCEU,LT,1980,9.9
+"Álcool Gel 70 %",4358135,120,VENCEU,UND,1068,8.9
+"ESPARADRAPO 10 X 4,5",4358136,80,NAO_COTOU,UND,0,0
+"AGUA OXIGENADA 10 VOL",4358137,200,NAO_COTOU,LT,0,0
+"Ataduras de Crepom Tamanho: 6 cm",4358138,40,NAO_COTOU,PCT,0,0
+"Ataduras de Crepom Tamanho: 10 cm",4358139,100,NAO_COTOU,PCT,0,0
+"Ataduras de Crepom Tamanho: 15 cm e 1.80 m de comprimento",4358140,120,NAO_COTOU,PCT,0,0
+"Máscara cirúrgicas com Elástico c/50un",4358141,50,NAO_COTOU,CX,0,0
+"ELETRODO DESCARTÁVEL",4358142,50,NAO_COTOU,UND,0,0
+"Cobertura/saco de óbito",4358143,50,NAO_COTOU,UND,0,0
+"Mascara Respiratória",4358144,100,NAO_COTOU,UND,0,0
+"Saco de lixo polietileno cor branco leitoso, cor branco 50 l",4358145,40,NAO_COTOU,UND,0,0
+"Saco de lixo polietileno cor branco leitoso, cor branco 30 l",4358146,30,NAO_COTOU,UND,0,0
+"Jogo de talas Rígidas 6 peças com bolsa",4358147,2,NAO_COTOU,UND,0,0
+"Termômetro Infravermelho temperatura corporal 32,0 a 43,0°C",4358148,3,NAO_COTOU,UND,0,0
+"Termômetro Infravermelho -30°C a 650°C (-22°F a 1202°F)",4358149,2,NAO_COTOU,UND,0,0
+"Cone de sinalização retrátil",4358150,40,NAO_COTOU,UND,0,0
+"CATETER NASAL",4358151,10,NAO_COTOU,UND,0,0
+"Sonda de aspiração traqueal",4358152,20,NAO_COTOU,UND,0,0
+"Lanterna de Cabeça",4358153,20,NAO_COTOU,UND,0,0

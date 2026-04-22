@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lavadora da alta pressão",4429924,1,PERDEU,UN,725,725
+"Liquidificador industrial",4429925,1,VENCEU,UND,625,625
+"Fogão a gás tipo industrial.",4429926,1,VENCEU,UN,1450,1450
+"Ar Condicionado Capacidade(BTU/h)12000",4429930,3,VENCEU,UN,3735,1245
+"VENTILADOR DE PAREDE",4429935,10,PERDEU,UNI,1900,190

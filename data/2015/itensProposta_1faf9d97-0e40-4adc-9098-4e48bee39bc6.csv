@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4426825,5,VENCEU,UNI,4325,865
+"Armário Aéreo fechado.",4426826,2,VENCEU,UN,2500,1250
+"Armário arquivo para pasta suspensa",4426827,4,VENCEU,UN,3640,910
+"Armário com 2 portas",4426828,10,PERDEU,UN,12600,1260
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4426829,2,VENCEU,UNI,976,488
+BALCAO,4426830,3,VENCEU,UNI,4350,1450
+GAVETEIRO,4426831,6,VENCEU,UND,2880,480
+"Cadeira giratória tipo executiva.",4426835,6,VENCEU,UNI,1617,269.5
+"CADEIRA ESTOFADA",4426836,22,VENCEU,UN,2728,124
+Poltrona,4426837,6,VENCEU,UND,3090,515
+"MESA SIMPLES",4426838,2,VENCEU,UND,1800,900
+"Mesa reunião oval",4426839,1,PERDEU,UN,2300,2300

@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento a base de proteína isolada de soja",4429491,350,VENCEU,LAT,5635,16.1
+"Alimento em pó para nutrição oral ou enteral para crianças",4429492,250,VENCEU,LAT,16250,65
+"Alimento para lactentes menores de um ano de idade com intol",4429493,450,VENCEU,LAT,8172,18.16
+"Dieta enteral liquida",4429494,500,VENCEU,EM,24500,49
+"Dieta enteral para crianças",4429495,2880,VENCEU,FR.,69120,24
+"Dieta enteral/oral nutricionalmente completa para crianças d",4429496,400,VENCEU,LAT,59600,149
+"Dieta nutricionalmente completa para crianças de 1 a 10 anos",4429497,4440,INABILITADO,LAT,288600,65
+"Dieta semi-elementar e hipoalergênica",4429498,1300,VENCEU,LAT,98800,76
+"Espessante a base de amido de milho",4429499,100,VENCEU,LAT,5500,55
+"Fórmula elementar à base de 100% de aminoácidos livres",4429500,500,VENCEU,LAT,95000,190
+"Fórmula infantil de segmento, à base de leite de vaca",4429501,600,PERDEU,LAT,5028,8.38
+"Fórmula infantil de seguimento, a base de proteínas isolada",4429502,500,VENCEU,LAT,5625,11.25
+"Fórmula infantil para lactentes à base de proteínas isolada",4429503,500,PERDEU,LAT,6260,12.52
+"Fórmula infantil para lactentes até 06 meses",4429504,4200,VENCEU,LAT,33306,7.93
+"Fórmula infantil para lactentes e de seguimento para lactent",4429505,250,VENCEU,LAT,47000,188
+"Fórmula infantil para recém-nascidos pré-termo e/ou de alto",4429506,300,PERDEU,LAT,7278,24.26
+"Módulo de carboidratos para dieta enteral e oral",4429507,150,PERDEU,LAT,3291,21.94
+"Módulo de lipídio 100% com TCM com 830 Kcal/ 100g",4429508,150,PERDEU,FR.,6750,45
+"Nutrição enteral, em pó para pessoas com mais de 10 anos",4429509,200,VENCEU,LAT,6400,32
+"Suplemento Nutricional lácteo em pó",4429510,500,INABILITADO,LAT,12500,25

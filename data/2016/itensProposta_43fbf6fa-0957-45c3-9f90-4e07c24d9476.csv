@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",4344604,100,VENCEU,LT,828,8.28
+"Água Oxigenada, 10 vol",4344605,100,VENCEU,LT,420,4.2
+"Ataduras de Crepom Tamanho: 6 cm",4344606,20,PERDEU,PCT,92,4.6
+"Ataduras de Crepom Tamanho: 10 cm",4344607,40,PERDEU,PCT,295.6,7.39
+"Ataduras de Crepom Tamanho: 15 cm e 1.80 m de comprimento",4344608,20,VENCEU,PCT,177.4,8.87
+"Ataduras de Crepom Tamanho: 15 cm e 4,5 m de comprimento",4344609,10,PERDEU,PCT,110.9,11.09
+"Soro Fisiológico 100ml",4344610,2,VENCEU,ML,72,36
+"Soro Fisiológico 250ml",4344611,4,VENCEU,ML,166.8,41.7
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",4344612,150,PERDEU,CX,3765,25.1
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",4344613,150,PERDEU,CX,3765,25.1
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",4344614,50,PERDEU,CX,1255,25.1
+"Máscara cirúrgicas",4344615,40,PERDEU,CX,229.6,5.74
+"ELETRODO DESCARTÁVEL",4344616,30,PERDEU,UND,328.2,10.94
+"Cobertura/saco de óbito",4344617,40,NAO_COTOU,UND,0,0
+"Mascara Respiratória",4344618,50,PERDEU,UND,114,2.28
+"KIT PARTO",4344619,12,NAO_COTOU,UND,0,0
+"KIT QUEIMADURA",4344620,5,NAO_COTOU,UND,0,0
+"Manta Térmica Aluminizada 2,10 x 1,40",4344621,50,PERDEU,UND,289,5.78
+"Compressa de Campo Cirurgico",4344622,7,PERDEU,UND,365.4,52.2

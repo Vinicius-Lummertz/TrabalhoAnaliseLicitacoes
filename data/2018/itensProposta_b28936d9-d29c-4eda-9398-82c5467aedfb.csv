@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carga de gás de cozinha P13",4374258,1700,PERDEU,UND,85000,50
+"Carga de gás de cozinha P45",4374259,250,VENCEU,UND,67647.5,270.59
+"Casco para gás P13",4374260,20,PERDEU,UND,3000,150
+"Casco para gás P45",4374261,10,PERDEU,UND,5400,540

@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BATATA INGLESA",1242736,103,4000,ATIVO,kg,11200,2.8
+"MILHO VERDE  - in natura",1242755,136,2000,ATIVO,kg,9000,4.5
+CENOURA,1242756,107,2100,ATIVO,kg,5838,2.78
+"Banana Branca",1242758,101,6000,ATIVO,kg,13500,2.25

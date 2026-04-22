@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biscoito de Chocolate",1291729,14,8100,ATIVO,kg,58320,7.2
+"BISCOITO COM AMENDOIM",1291733,18,8100,ATIVO,kg,63180,7.8
+"BISCOITO DE MILHO",1291735,20,8100,ATIVO,kg,66420,8.2

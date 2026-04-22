@@ -1,0 +1,54 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras,0,100,PERDEU," ",100,1
+"CABO PP",0,100,PERDEU," ",750,7.5
+"Caixa de passagem  split",0,4,PERDEU," ",61.32,15.33
+"Cano cobre ½",0,4,PERDEU," ",240,60
+"Cano cobre ¼",0,4,PERDEU," ",252,63
+"Cano cobre 3/8",0,4,PERDEU," ",252,63
+"Cano cobre 5/8",0,4,PERDEU," ",280,70
+"Cano esponjoso ½ - barra de 2 metros",0,20,PERDEU," ",70,3.5
+"Cano esponjoso ¼ - barra de 2 metros",0,20,PERDEU," ",70,3.5
+"Cano esponjoso 3/8 - barra de 2 metros",0,40,PERDEU," ",140,3.5
+"Cano esponjoso 5/8 - barra de 2 metros",0,40,PERDEU," ",152,3.8
+"Capacitor 380V 2 MF.",0,10,PERDEU," ",80,8
+"Capacitor 380V 3 MF.",0,10,PERDEU," ",82,8.2
+"Capacitor 380V 4 MF.",0,10,PERDEU," ",100,10
+"Capacitor 380V 5 MF.",0,10,PERDEU," ",100,10
+"Capacitor 380V 8 MF.",0,4,PERDEU," ",41.32,10.33
+"Capacitor 380V 10 MF.",0,4,PERDEU," ",60,15
+"Capacitor 380V 15 MF.",0,10,PERDEU," ",150,15
+"Capacitor 380V 20 MF.",0,10,PERDEU," ",193.3,19.33
+"Capacitor 380V 25 MF.",0,10,PERDEU," ",156.7,15.67
+"Capacitor 380V 30 MF.",0,10,PERDEU," ",200,20
+"Capacitor 380V 35 MF.",0,10,PERDEU," ",210,21
+"Capacitor 380V 40 MF.",0,10,PERDEU," ",230,23
+"Capacitor 380V 45 MF.",0,10,PERDEU," ",253.3,25.33
+"Capacitor 380V 55 MF.",0,10,PERDEU," ",280,28
+"CHAVE CONTACTORA CWM09",0,4,PERDEU," ",240,60
+"CHAVE CONTACTORA CWM10",0,4,PERDEU," ",280,70
+"Compressor 2HP alternativo.",0,2,PERDEU," ",1649.34,824.67
+"Compressor 1HP rotativo.",0,5,PERDEU," ",1992.2,398.44
+"Compressor 11/4HP rotativo",0,2,PERDEU," ",1180,590
+"Compressor 11/2HP rotativo.",0,2,PERDEU," ",800,400
+"Compressor 2HP rotativo.",0,5,PERDEU," ",3525,705
+"Compressor 3/4HP rotativo.",0,5,PERDEU," ",2066.65,413.33
+"Controle remoto univ. ar split.",0,4,PERDEU," ",200,50
+"Dreno ar condicionado.",0,10,PERDEU," ",100,10
+"Espuma de vedação ar cond;",0,6,PERDEU," ",18,3
+"Filtro do pó ar cond;",0,8,PERDEU," ",120,15
+"Fita PVC 100mm branca.",0,100,PERDEU," ",600,6
+"Gás R22 (carga) 7.000BTUS a 18.000BTUS",0,80,PERDEU," ",5333.6,66.67
+"Gás R22 (carga) ACIMA DE 18.000 BTUS ATÉ 60.000 BTUS",0,20,PERDEU," ",3666.6,183.33
+"Hélice ar cond. 7000btus.",0,4,PERDEU," ",200,50
+"Hélice ar cond. 10/18000btus.",0,4,PERDEU," ",280,70
+"Kit de VANES (aletas SPLIT  07 a 60.000btus)",0,10,PERDEU," ",726.7,72.67
+"Mangueira cristal",0,400,PERDEU," ",960,2.4
+"Placa eletrônica Ar Condicionado Universal",0,10,PERDEU," ",766.7,76.67
+"Sensor de temperatura frio.",0,4,PERDEU," ",100,25
+"Sensor temp. aquecimento.",0,4,PERDEU," ",100,25
+"Suporte split 7/12000btus - FIBRA",0,15,PERDEU," ",525,35
+"Suporte split 18/30000btus - METAL",0,15,PERDEU," ",1050,70
+"Suporte split 30.000/60.000btus - METAL",0,10,PERDEU," ",1100,110
+"Termostato ar cond. 1601.",0,4,PERDEU," ",300,75
+"Turbina ventilador 10/30000.",0,4,PERDEU," ",160,40
+"Serviço de instalação, limpeza e manutenção dos aparelhos",0,700,PERDEU," ",43400,62

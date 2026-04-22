@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adrenalina 1mg/mL 1ml",4430255,1000,PERDEU,AMP,3140,3.14
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml",4430260,200,INABILITADO,FR.,862,4.31
+"Carbonato de cálcio 1250 mg",4430262,80000,PERDEU,CP,8960,0.112
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica 5ml",4430264,200,PERDEU,FR.,1652,8.26
+"CLARITROMICINA 500MG",4430265,500,DESCLASSIFICADO,COMP,1990,3.98
+"Doxazosina 2 mg",4430268,80000,PERDEU,COMP,11544,0.1443
+"Doxiciclina 100mg",4430269,8000,CANCELADO,COMP,2400,0.3
+"Espiramicina 500 mg",4430270,3000,CANCELADO,COMP,11130,3.71
+"Finasterida 5 mg",4430271,20000,PERDEU,COMP,11560,0.578
+"Insulina NPH 100UI/mL 10ml",4430277,500,INABILITADO,FR/AM,17235,34.47
+"Insulina regular 100 UI/ml 10ml",4430278,500,INABILITADO,FR/AM,17235,34.47
+"Isossorbida, dinitrato 5mg sublingual",4430279,62500,DESCLASSIFICADO,COMP,27500,0.44
+"Isossorbida, dinitrato 5mg sublingual",4430280,187500,DESCLASSIFICADO,COMP,82500,0.44
+"Levonorgestrel 0,75mg com dois comprimidos",4430281,100,PERDEU,COMP,679,6.79
+"Pirimetamina 25mg",4430285,7000,PERDEU,COMP,553,0.079
+"Stryphnodendron adstringens coville pomada 20g",4430289,1500,DESCLASSIFICADO,BIS,87960,58.64
+"Sulfadiazina de prata 1% pomada pote com 400g",4430290,250,DESCLASSIFICADO,POT,7060,28.24
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% 1",4430291,200,PERDEU,FR.,1736,8.68

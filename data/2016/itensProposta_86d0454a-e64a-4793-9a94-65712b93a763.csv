@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental impermeável de Napa",4344847,35,VENCEU,UND,733.25,20.95
+"Avental na cor  branca",4344848,180,VENCEU,UND,4527,25.15
+"Avental na cor bege",4344849,540,VENCEU,UND,13581,25.15
+"Calça em brim",4344850,20,PERDEU,UND,699,34.95
+Camiseta,4344851,20,VENCEU,UND,359,17.95
+"Edredom berçol dupla face",4344852,170,PERDEU,UND,8738,51.4
+"Edredom solteiro dupla face",4344853,150,VENCEU,UND,10950,73
+JALECO,4344854,4,VENCEU,UND,211.8,52.95
+"Lençol de solteiro.",4344855,280,PERDEU,UND,8652,30.9
+"Lençol para berço em malha fio 30x1 com elástico",4344856,310,VENCEU,UND,7331.5,23.65
+"Toucas de tecido para cozinha cor bege claro",4344857,270,PERDEU,UND,2862,10.6
+"Toucas de tecido para cozinha na cor branca",4344858,90,PERDEU,UND,954,10.6
+"Tolha de banho infantil",4344859,360,PERDEU,UND,7686,21.35
+TRAVESSEIRO,4344860,295,PERDEU,UND,4557.75,15.45
+Fronhas,4344861,295,PERDEU,UND,3407.25,11.55

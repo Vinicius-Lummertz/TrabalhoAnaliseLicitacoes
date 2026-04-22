@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Parasiticida injetável",4426772,15,VENCEU,FR.,201,13.4
+Sarnicida,4426773,15,VENCEU,FR.,67.5,4.5
+"Vermífugo para tratamento de giárdia",4426775,100,VENCEU,CX,1000,10
+"Vermífugo de amplo espectro",4426776,200,VENCEU,CX,2000,10
+"Spray para tratamento de bicheiras",4426777,25,VENCEU,FR.,312.5,12.5
+"Vacina déctupla",4426780,200,PERDEU,UNI,4400,22
+"Vacina Anti-rábica para cães e gatos",4426781,200,VENCEU,FRA,1100,5.5
+Acepromazina.,4426783,2,VENCEU,FR.,32,16
+"Cloridrato de xilazina 2%",4426784,10,VENCEU,FR.,130,13
+"Cloridrato de cetamina 1, 16 g",4426785,10,VENCEU,FR.,125,12.5

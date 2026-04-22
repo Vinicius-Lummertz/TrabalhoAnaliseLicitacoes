@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Saco plástico transparente na medida 35x45cm",1297523,2,30,ATIVO,MILHEIRO,3810,127
+"Saco plástico transparente na medida 60x80cm",1297524,3,100,ATIVO,MILHEIRO,46900,469
+"Saco plástico transparente na medida 15x30cm",1313855,1,8,ATIVO,MILHEIRO,320,40

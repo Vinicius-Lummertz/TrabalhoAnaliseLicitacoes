@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SALGADOS FRITOS",0,300,VENCEU," ",13350,44.5
+"SALGADOS ASSADOS",0,300,VENCEU," ",16350,54.5
+"Tortas doces",0,20,VENCEU," ",418,20.9
+"Tortas salgadas",0,20,VENCEU," ",418,20.9
+Empadão,0,10,VENCEU," ",209,20.9
+"Suco natural 5 Litros",0,50,VENCEU," ",740,14.8
+"CAFÉ COM LEITE",0,30,VENCEU," ",162,5.4
+"Bolos em geral",0,10,VENCEU," ",115,11.5
+"Refrigerantes em geral (2 litros cada)",0,30,VENCEU," ",117.6,3.92
+"Rosca cavaquinho",0,10,VENCEU," ",119,11.9
+Cavaquinho,0,5,VENCEU," ",59.5,11.9
+"Doces em geral",0,100,VENCEU," ",4995,49.95
+"Sanduíches grandes (pão de forma, salada, queijo e presunto)",0,150,VENCEU," ",363,2.42
+"Salgados finos (barquetes, canapés, empadas)",0,50,VENCEU," ",5740,114.8
+"Sonho assado",0,10,VENCEU," ",89,8.9
+"Sanduíches pequenos (pão  pequeno, salada, queijo e presunto",0,15,VENCEU," ",972.75,64.85

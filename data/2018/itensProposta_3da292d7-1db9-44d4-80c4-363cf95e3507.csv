@@ -1,0 +1,66 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apontador sem depósito",4434311,300,VENCEU,UND,45,0.15
+"Alfinete com cabeça",4434312,10,VENCEU,CX,39,3.9
+"Aparelho telefônico com fio",4434313,50,VENCEU,UND,1500,30
+"APARELHO TELEFONICO SEM FIO",4434314,20,VENCEU,UND,1560,78
+"Balão colorido",4434315,200,PERDEU,PCT,790,3.95
+"BARBANTE DE ALGODAO",4434316,15,VENCEU,ROLO,60.45,4.03
+"BATERIA 9 VOLTS.",4434317,100,PERDEU,CART,660,6.6
+"Bobina plástica.",4434318,500,VENCEU,ROLO,1300,2.6
+"Borracha (amarradilha) para dinheiro nº 18",4434319,400,VENCEU,PCT,552,1.38
+"Caderno universitário capa dura",4434320,150,VENCEU,UND,720,4.8
+"Caixa de arquivo morto",4434321,800,VENCEU,UNI,1760,2.2
+"Caixa organizadora  retangular 10 lt",4434322,130,VENCEU,UNI,2236,17.2
+"Caixa organizadora  retangular 20 lt",4434323,100,VENCEU,UNI,3108,31.08
+"Caixa Organizadora / Porta Objetos com 24 divisórias ajustáv",4434324,60,VENCEU,UNI,2640,44
+"Calculadora de mesa",4434325,20,VENCEU,UNI,170.4,8.52
+"CANETA DESTACA TEXTO",4434326,80,PERDEU,CX,712,8.9
+"CANETA ESFEROGRAFICA AZUL",4434327,70,VENCEU,CX,1288,18.4
+"CANETA ESFEROGRAFICA PRETA",4434328,40,VENCEU,CX,736,18.4
+"Caneta hidrocor",4434329,20,DESCLASSIFICADO,CX,58,2.9
+"Clips tamanho 2/0",4434330,200,VENCEU,CX,192,0.96
+"Cola Bastão",4434331,120,PERDEU,UND,165.6,1.38
+"Corretivo líquido.",4434332,20,DESCLASSIFICADO,CX,305.2,15.26
+"Dispensador de senha",4434333,20,VENCEU,UND,5600,280
+"envelope papel pardo tamanho 29 x 20 cm",4434334,2000,VENCEU,UND,220,0.11
+"envelope papel pardo tamanho 34 x 24 cm",4434335,2000,VENCEU,UND,280,0.14
+"Envelope papel, tamanho 29 x 20 cm, cor branca",4434336,1000,VENCEU,UNI,190,0.19
+"Envelope papel, tamanho 34 x 24 cm, cor branca",4434337,1000,VENCEU,UNI,210,0.21
+"etiqueta carta para impressoras disk Jet e Laser ref. 3180",4434338,10,VENCEU,CX,216,21.6
+"Fita adesiva branca",4434339,300,PERDEU,UND,714,2.38
+"Fita adesiva marron",4434340,300,PERDEU,UND,1134,3.78
+"Fita adesiva plastica transparente 12mm x 30 mts",4434341,250,PERDEU,UND,120,0.48
+"Fita adesiva plastica transparente 48 mm x 50 mts",4434342,250,VENCEU,UND,415,1.66
+"Fita de cetim no. 1, 07mm, várias cores, rolo com 100mts.",4434343,20,VENCEU,ROLO,189.6,9.48
+"Fita dupla face emborrachada 19x30",4434344,40,DESCLASSIFICADO,UND,414.8,10.37
+"Grampeador para papeis base 18 - 20cm",4434345,30,VENCEU,UND,1168.5,38.95
+"Grampeador para papeis comprimento base 14 - 17cm",4434346,50,VENCEU,UNI,221.5,4.43
+"Grampo para grampeador galvanizado 26/6 caixa com 5000",4434347,200,VENCEU,CX,448,2.24
+"Grampo trilho plastico (macho/Femea) embalagem com 50 unidad",4434348,100,VENCEU,PCT,400,4
+"Lápis colorido",4434349,20,VENCEU,CX,52.8,2.64
+"Lápis preto de grafite nº 2",4434350,2160,VENCEU,CX,432,0.2
+"Livro Ata pautado com 100 folhas",4434351,150,VENCEU,UND,1194,7.96
+"Livro fiscal ponto",4434352,100,VENCEU,UND,770,7.7
+"Lixeira  redonda capac. 100 lt",4434353,15,VENCEU,UNI,1590,106
+"Lixeira  redonda capac. 50 lt",4434354,100,VENCEU,UNI,11500,115
+"Lixeira capac. 8 lt",4434355,100,VENCEU,UNI,474,4.74
+"Massa de modelar",4434356,20,VENCEU,CX,578,28.9
+"PAPEL CANSON",4434358,200,INABILITADO,UN,62,0.31
+"Papel cartão colorido fosco (46cm x 66cm)",4434359,400,VENCEU,UNI,264,0.66
+"Papel pardo kraft 40 mt",4434360,80,VENCEU,RL,727.2,9.09
+"Pasta arquivo de A-Z  tamanho oficio",4434361,100,PERDEU,UND,612,6.12
+"PASTA CATALOGO",4434362,70,VENCEU,UND,451.5,6.45
+"Pasta plastica de arquivo 35 mm",4434363,200,VENCEU,UNI,388,1.94
+"Pasta plastica de arquivo 55 mm",4434364,120,VENCEU,UN,268.8,2.24
+"Pasta suspensa craft 331x200",4434365,30,VENCEU,CX,1294.5,43.15
+"Pen drive de 8 Gb, USB 2.0",4434366,15,PERDEU,UND,345,23
+"Pen drive de 16 Gb, USB 2.0",4434367,10,DESCLASSIFICADO,UND,320,32
+"PILHA PEQUENA COMUM",4434368,800,VENCEU,CAR,1408,1.76
+"Prancha de Madeira",4434369,100,VENCEU,UND,216,2.16
+"Quadro branco",4434370,10,VENCEU,UND,385,38.5
+"Quadro de aviso",4434371,5,VENCEU,UNI,149.5,29.9
+"Régua escritório",4434372,180,VENCEU,UND,77.4,0.43
+"SACO PLASTICO",4434373,7500,PERDEU,RL,3225,0.43
+TNT,4434374,20,VENCEU,RL,864,43.2
+"Tesoura Doméstica",4434375,50,PERDEU,UND,225,4.5
+"TINTA PARA CARIMBO",4434376,120,DESCLASSIFICADO,UND,628.8,5.24

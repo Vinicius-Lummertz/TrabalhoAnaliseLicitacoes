@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levotiroxina sódica 50 mcg",1258468,166,500000,ATIVO,COMPRIMIDO,50000,0.1
+"Levonorgestrel 0,75mg com dois comprimidos",1258469,163,350,ATIVO,COMPRIMIDO,419.26,1.1979
+"Beclometasona 200 mcg cápsula inalante",1258470,35,900,ATIVO,FRASCO,301.95,0.3355
+"Ceftriaxona 500mg com diluente IM",1258493,66,2000,ATIVO,AMP,6394.2,3.1971

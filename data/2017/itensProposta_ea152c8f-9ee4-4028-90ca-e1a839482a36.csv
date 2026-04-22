@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Saco plástico transparente na medida 15x30cm",4367133,8,VENCEU,MIL,320,40
+"Saco plástico transparente na medida 35x45cm",4367134,30,VENCEU,MIL,3810,127
+"Saco plástico transparente na medida 60x80cm",4367135,100,VENCEU,MIL,46900,469
+"Luva Látex não Estéril Tamanho G",4367136,500,PERDEU,CX,7675,15.35
+"Luva Látex não Estéril  Tamanho M",4367137,500,PERDEU,CX,7710,15.42

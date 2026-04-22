@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"café em pó, cx de 500gr",0,700,PERDEU," ",10010,14.3
+"ACUCAR REFINADO",0,1000,PERDEU," ",2270,2.27
+"LEITE DESNATADO",0,400,PERDEU," ",944,2.36
+"Pão frances",0,400,PERDEU," ",3420,8.55
+"Adoçante líquido",0,100,PERDEU," ",217,2.17
+"Queijo muzzarela fatiado",0,100,PERDEU," ",1950,19.5
+"presunto cozido",0,100,PERDEU," ",1950,19.5
+torrada,0,200,PERDEU," ",410,2.05
+MAIONESE,0,200,PERDEU," ",716,3.58
+"aroz branco",0,400,PERDEU," ",776,1.94
+"BISCOITO SALGADO",0,150,PERDEU," ",409.5,2.73
+"vinagre branco",0,100,PERDEU," ",110,1.1
+OLEO,0,200,PERDEU," ",616,3.08
+salsa,0,100,PERDEU," ",154,1.54
+SAL,0,100,PERDEU," ",110,1.1
+atum,0,300,PERDEU," ",951,3.17
+"refrigerante Pepsi, embalagem 2L",0,500,PERDEU," ",1875,3.75
+"pimenta preta",0,100,PERDEU," ",225,2.25
+"ABACAXI EM CALDA",0,100,PERDEU," ",590,5.9
+"Guardanapo de papel",0,1000,PERDEU," ",1150,1.15
+"prato plástico, c/ 50 unid",0,1000,PERDEU," ",2090,2.09
+"garfo plastico, pacote 50 unidades",0,100,PERDEU," ",789,7.89
+"copo plástico",0,100,PERDEU," ",383,3.83
+"faca plástica",0,200,PERDEU," ",1660,8.3
+BACON,0,100,PERDEU," ",1345,13.45
+"prato de papelão",0,300,PERDEU," ",687,2.29
+"filtro de café de papel, número 3",0,100,PERDEU," ",245,2.45
+"Cebola cabeça",0,60,PERDEU," ",173.4,2.89
+"Tomate fruta",0,60,PERDEU," ",208.8,3.48
+"Alho cabeça",0,10,PERDEU," ",133,13.3
+"CARNE BOVINA",0,1500,PERDEU," ",27450,18.3
+"azeitona verde, com caroço",0,60,PERDEU," ",118.8,1.98

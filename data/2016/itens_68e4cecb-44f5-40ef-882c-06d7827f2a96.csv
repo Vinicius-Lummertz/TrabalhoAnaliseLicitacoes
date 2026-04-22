@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno de Concreto D= 400mm Perfurado",1283897,4,1500,ATIVO,METRO,52500,35
+"Dreno de Concreto D= 800mm CA1",1283900,7,700,ATIVO,METRO,94500,135
+"Dreno de Concreto D= 1000mm CA1",1283901,8,1000,ATIVO,METRO,175000,175
+"Dreno de Concreto D= 1200mm CA2",1283902,9,200,ATIVO,METRO,62000,310

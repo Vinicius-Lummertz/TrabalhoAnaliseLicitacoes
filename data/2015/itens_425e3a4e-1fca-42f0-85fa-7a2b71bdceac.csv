@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"VDRL-latex c/ controle negativo e positivo",1258638,12,25000,ATIVO,TESTE,2500,0.1
+Anti-A,1258655,3,8,ATIVO,FRASCO,112,14
+Anti-B,1258656,4,8,ATIVO,FRASCO,112,14
+"Beta HCG teste rápido",1258657,7,1900,ATIVO,TESTE,912,0.48
+"Laminas sem lapidação p/ microscópio- cx c/ 50 unidades",1258658,14,100,ATIVO,CAIXA,237,2.37
+Anti-D,1258659,5,10,ATIVO,FRASCO,280,28
+"Corante p/ hematologia May Grunwald",1258660,19,18,ATIVO,LITRO,566.46,31.47
+"Óleo de imersão p/ microscopia I.R(.23º )=1,505    //frasco",1258661,22,6,ATIVO,FRASCO,72.84,12.14
+"Corante p/ hematologia Giensa",1258665,18,18,ATIVO,LITRO,795.06,44.17

@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abrigo para extintores diversos",0,50,VENCEU," ",4500,90
+"ADAPTADOR 1 1/2",0,40,VENCEU," ",640,16
+"Anel Borracha Vedação",0,260,VENCEU," ",78,0.3
+"Anel Expansão",0,65,VENCEU," ",130,2
+"Bloco Autônomo LED 2x55",0,50,VENCEU," ",11300,226
+CHUPETA,0,300,VENCEU," ",90,0.3
+"Conjunto Apag",0,200,VENCEU," ",180,0.9
+"Difusor para Extintor CO2",0,100,VENCEU," ",300,3
+"Esquicho 1 1/2",0,100,VENCEU," ",1600,16
+"Extintor AP 10 L Novo",0,30,VENCEU," ",3150,105
+"Extintor CO2 04 Kg Novo",0,60,VENCEU," ",19200,320
+"Extintor CO2 06 Kg Novo",0,40,VENCEU," ",15800,395
+"Extintor PQS ABC 01 Kg Novo",0,20,VENCEU," ",600,30
+"Extintor PQS ABC 02 Kg Novo",0,40,VENCEU," ",3600,90
+"Extintor PQS ABC 04 Kg Novo",0,5,VENCEU," ",575,115
+"Extintor PQS ABC 06 Kg Novo",0,5,VENCEU," ",600,120
+"Extintor PQS BC 04 Kg Novo",0,40,VENCEU," ",3800,95
+"Extintor PQS BC 06 Kg Novo",0,15,VENCEU," ",1500,100
+"Extintor PQS BC 08 Kg Novo",0,10,VENCEU," ",1150,115
+"Extintor PQS BC 12 Kg Novo",0,10,VENCEU," ",1200,120
+"Lacre Mangueira 11/2 15 mts",0,25,VENCEU," ",4750,190
+"Lampada de Emergencia 2x8",0,65,VENCEU," ",1300,20
+"Mangueira para Extintor CO2",0,75,VENCEU," ",900,12
+"Mangueira para Extintor PQS",0,200,VENCEU," ",1200,6
+"Manômetro p/ Extintores Diversos",0,240,VENCEU," ",1920,8
+"Pinturas Diversas em Extintores.",0,200,VENCEU," ",1000,5
+"Placa de Sinalização (PVC) ´PMC´",0,240,VENCEU," ",480,2
+"Placa de Sinalização (PVC) ´Seta´",0,240,VENCEU," ",480,2
+"Recarga Extintor AP 10L",0,75,VENCEU," ",3375,45
+"Recarga Extintor CO2 04 Kg",0,200,VENCEU," ",13200,66
+"Recarga Extintor CO2 10 Kg",0,3,VENCEU," ",198,66
+"Recarga Extintor PQS ABC 4 Kg",0,10,VENCEU," ",240,24
+"Recarga Extintor PQS ABC 6 Kg",0,10,VENCEU," ",300,30
+"Recarga Extintor PQS BC 04 Kg",0,650,VENCEU," ",24700,38
+"Recarga Extintor PQS BC 06 Kg",0,65,VENCEU," ",2730,42
+"Recarga Extintor PQS BC 08 Kg",0,40,VENCEU," ",1600,40
+"Recarga Extintor PQS BC 12 Kg",0,40,VENCEU," ",1800,45
+"RECARGA EXTINTOR CO2 06KG",0,40,VENCEU," ",3320,83
+"Reteste do Cilindro  PQS 12 Kg",0,40,VENCEU," ",400,10
+"Reteste do Cilindro ap 10l",0,70,VENCEU," ",700,10
+"Reteste do Cilindro CO2 04 Kg",0,120,VENCEU," ",1200,10
+"Reteste do Cilindro CO2 06 Kg",0,80,VENCEU," ",800,10
+"Reteste do Cilindro CO2 10 Kg",0,4,VENCEU," ",40,10
+"Reteste do Cilindro PQS 04 Kg",0,400,VENCEU," ",4000,10
+"Reteste do Cilindro PQS 06 Kg",0,100,VENCEU," ",1000,10
+"Saidas de Emergencia",0,160,VENCEU," ",7200,45
+"Suporte de Chão para Extintor",0,20,VENCEU," ",200,10
+"Suporte de Parede para Extintor",0,160,VENCEU," ",320,2
+"Suporte Veicular 02 Kls",0,10,VENCEU," ",50,5
+"Suporte Veicular 1 Kls",0,10,VENCEU," ",50,5
+"Suporte Veicular 4,6,8,12 KLS",0,10,VENCEU," ",100,10
+"Teste Mangueira Hidrante.",0,100,VENCEU," ",3500,35
+"Tubo Cifão para Extintor PQS",0,300,VENCEU," ",300,1
+"Válvula para Extintor CO2",0,300,VENCEU," ",4800,16
+"Válvula para Extintor PQS",0,305,VENCEU," ",2440,8

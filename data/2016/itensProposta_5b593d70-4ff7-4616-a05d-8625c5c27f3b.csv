@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vacina antirrábicainativada para cães e gatos",4428934,200,PERDEU,FR.,900,4.5
+"Vacina inativada contra Giardíase Canina (Giardia lamblia)",4428935,200,VENCEU,FR.,4400,22
+"Vacina viva atenuada para cães e gatos (polivalente)",4428936,200,VENCEU,FR.,1240,6.2
+"Anestésico geral injetável - Propofol",4428937,10,VENCEU,FR.,340,34
+"Anti-pulgas e bicheiras comprimidos",4428938,10,VENCEU,CX,600,60
+"Recalcificante e vitamínico injetável",4428939,12,VENCEU,FR.,118.8,9.9
+"Colírio oftálmico para cães e gatos",4428940,2,VENCEU,FR.,210,105
+"Solução para limpeza auricular de cães e gatos",4428941,4,VENCEU,FRA,76,19
+"Solução otológica para cães e gatos",4428942,4,VENCEU,FR,184,46
+"Ocitocina sintética injetável",4428943,4,VENCEU,FR.,8.4,2.1
+"Quimioterápico injetável - Sulfato de Vincristina",4428944,3,VENCEU,FR.,105,35
+"Anti-inflamatório injetável - Meloxicam",4428945,25,VENCEU,FR.,1075,43
+"Antibiótico injetável - Ampicilina Sódica",4428946,20,VENCEU,FR.,460,23
+"Antibiótico comprimido - Cefalexina",4428947,50,VENCEU,CP,1250,25
+"Antibiótico comprimido - Enrofloxacina",4428948,40,VENCEU,BLIST,580,14.5
+"Xarope expectorante e fluidificante",4428949,4,VENCEU,FR,84,21
+"Antifúngico comprimido - Cetoconazol",4428950,20,VENCEU,BLIST,1000,50
+"Antitóxico e antiespasmódico - Sulfato de atropina",4428951,5,VENCEU,FR.,17,3.4
+"Probióticopara cães e gatos",4428952,3,VENCEU,SRS,40.5,13.5
+"Carvão vegetal ativado.",4428953,2,VENCEU,CX,86,43
+"Agente eutanásico",4428954,4,PERDEU,FR.,2160,540

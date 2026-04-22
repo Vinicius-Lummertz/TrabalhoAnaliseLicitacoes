@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cadeira giratória tipo executiva.",4427038,16,DESCLASSIFICADO,UNI,4480,280
+Poltrona,4427040,15,DESCLASSIFICADO,UND,6646.8,443.12
+"Lixeira cilíndrica",4427063,37,PERDEU,UNI,1924,52
+"Organizador (caixa plástica)",4427131,10,VENCEU,UN,300.6,30.06
+"Lixeiras de plástico com tampa e pedal",4427133,12,VENCEU,UN,245.4,20.45
+"Aparelho telefônico convencional de mesa com fio.",4427139,4,VENCEU,UN,139.68,34.92
+"APARELHO MICROONDAS",4427140,1,DESCLASSIFICADO,UNI,465.58,465.58
+"Fogão 4 bocas",4427141,1,PERDEU,UN,552.23,552.23
+"APARELHO DVD",4427142,1,DESCLASSIFICADO,UNI,162.5,162.5
+"Refrigerador tipo doméstico 1 porta.",4427143,1,DESCLASSIFICADO,UN,1415.71,1415.71
+"Refrigerador tipo doméstico 2 portas",4427144,2,DESCLASSIFICADO,UN,3406,1703
+"Televisor colorido 40 polegadas",4427145,1,PERDEU,UN,1666.76,1666.76
+"Bebedouro elétrico de coluna",4427146,2,PERDEU,UN,1021.22,510.61
+"MICROCOMPUTADOR LINUX",4427147,8,DESCLASSIFICADO,UN,14642.16,1830.27
+"MICROCOMPUTADOR WINDOWS",4427148,2,DESCLASSIFICADO,UN,6136,3068

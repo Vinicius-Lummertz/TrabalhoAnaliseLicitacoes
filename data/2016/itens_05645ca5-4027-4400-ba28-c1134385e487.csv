@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vidro miniboreal colocado 3,2 mm",1284343,1,180,ATIVO,"METRO QUADRADO",11520,64
+"Vidro temperado incolor colocado 8 mm",1284344,6,150,ATIVO,"METRO QUADRADO",23550,157
+"Vidro temperado incolor colocado 10 mm",1284345,5,150,ATIVO,"METRO QUADRADO",26100,174
+"Vidro liso colocado 3 mm",1284346,4,180,ATIVO,"METRO QUADRADO",11520,64
+"Vidro martelado colocado 3mm",1284347,3,180,ATIVO,"METRO QUADRADO",11520,64
+"Vidro canelado colocado 3mm",1284348,2,180,ATIVO,"METRO QUADRADO",11520,64

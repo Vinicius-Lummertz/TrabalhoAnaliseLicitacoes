@@ -1,0 +1,28 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Máscara de Oxigênio MD Pediátrico",1292535,54,6,ATIVO,UNIDADE,90,15
+"Kit portátil de oxigênio",1292536,55,4,ATIVO,UNIDADE,3680,920
+"Tala Aramada para imobilização",1292537,56,5,ATIVO,UNIDADE,475,95
+"Máscara de Oxigênio MD Adulto",1292538,53,10,ATIVO,UNIDADE,150,15
+"Desfibrilador Externo Automático (DEA) bifásico",1292539,49,1,ATIVO,UNIDADE,18700,18700
+"Reanimador manual com suplemento de oxigênio infantil",1292540,47,5,ATIVO,UNIDADE,790,158
+"Frasco Umidificador O2 para Oxigênio",1292541,50,10,ATIVO,UNIDADE,180,18
+"Máscara para RCP",1292542,45,60,ATIVO,UNIDADE,1800,30
+"KIT PARTO",1292548,17,20,ATIVO,UNIDADE,1200,60
+"KIT QUEIMADURA",1292549,18,20,ATIVO,UNIDADE,1600,80
+"Reanimador manual com suplemento de oxigênio adulto",1292550,46,5,ATIVO,UNIDADE,790,158
+"Eletrodo de Uso Adulto para LIFEPAK 1000",1292551,20,20,ATIVO,UNIDADE,12400,620
+"Eletrodo de uso pediátrico para LIFEPAK 1000",1292552,21,5,ATIVO,UNIDADE,7850,1570
+"Estetoscópio cardiológico com auscultador duplo em aço inox",1292553,26,10,ATIVO,UNIDADE,660,66
+"Imobilizador de Cabeça impermeável - Adulto Coxim completo",1292554,27,4,ATIVO,UNIDADE,560,140
+"Sensor de oximetria",1292555,30,5,ATIVO,UNIDADE,1500,300
+"Tirante aranha",1292557,32,10,ATIVO,UNIDADE,420,42
+"Bateria para desfibrilador",1292558,31,3,ATIVO,UNIDADE,14700,4900
+"Colete imobilizador (KED) adulto",1292559,43,2,ATIVO,UNIDADE,460,230
+"Bolsa Modelo Socorrista - Vermelha",1292560,42,6,ATIVO,UNIDADE,1260,210
+"Óculos de segurança",1292561,39,100,ATIVO,UNIDADE,4300,43
+"TESOURA PONTA ROMBA",1292562,37,10,ATIVO,UNIDADE,300,30
+"Colete imobilizador (KED) infantil",1292563,44,2,ATIVO,UNIDADE,430,215
+"CORTA ANEL",1292564,35,3,ATIVO,UNIDADE,285,95
+"Colar Cervical regulável com 12 posições",1292565,34,5,ATIVO,UNIDADE,225,45
+"Colar Cervical regulável , com 16 posições",1292566,33,20,ATIVO,UNIDADE,900,45
+"Termômetro digital",1292567,36,3,ATIVO,UNIDADE,69,23

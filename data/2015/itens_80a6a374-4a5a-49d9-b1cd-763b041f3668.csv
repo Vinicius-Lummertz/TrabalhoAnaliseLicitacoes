@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lanceta do profissional de saúde",1258668,26,200000,ATIVO,UNIDADE,55800,0.279
+"Estetoscópio Adulto.",1258670,38,200,ATIVO,UNIDADE,12500,62.5
+"Bateria de Líthium 123ª, para uso no desfribilador DEA-Zoll",1258671,37,5,ATIVO,JOGO,2350,470
+"Agulhas hipodérmicas 30mmX7mm",1258672,11,60000,ATIVO,UNIDADE,3360,0.056
+"Agulhas hipodérmicas 25mmX8mm",1258673,10,1200000,ATIVO,UNIDADE,79200,0.066
+"Agulhas hipodérmicas 25mmX6mm",1258674,8,40000,ATIVO,UNIDADE,2400,0.06
+"Agulhas hipodérmicas 20mmX5,5mm",1258675,7,11000,ATIVO,CAIXA,636.9,0.0579
+"Agulhas hipodérmicas 13mmX4,5mm",1258676,6,145000,ATIVO,CAIXA,6786,0.0468

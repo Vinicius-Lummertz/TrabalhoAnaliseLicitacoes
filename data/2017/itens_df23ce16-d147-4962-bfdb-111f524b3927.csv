@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abrigo de Ônibus tipo II",1297527,3,7,ATIVO,UNIDADE,20930,2990
+"Abrigo de Ônibus Tipo I",1307767,2,83,ATIVO,UNIDADE,143590,1730
+"Abrigo de Ônibus tipo II",1309783,4,23,ATIVO,UNIDADE,68770,2990
+"Abrigo de Ônibus Tipo I",1311809,1,27,ATIVO,UNIDADE,46710,1730

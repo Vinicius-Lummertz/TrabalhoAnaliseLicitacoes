@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Reforma de cadeira - Modelo: Presidente (Delegado)",4350303,20,PERDEU,UND,2000,100
+"Reforma de Cadeira- Modelo: Diretor ( Escrivão)",4350304,30,PERDEU,UND,3000,100
+"Reforma de Cadeira - Modelo: Executiva Back System",4350305,50,PERDEU,UND,4250,85
+"Reforma de Cadeira - Modelo: Secretária ( Digitador)",4350306,80,PERDEU,UND,5600,70
+"Reforma de longarina",4350307,50,PERDEU,UND,6250,125
+"Conserto de móveis - Tipo: Mesas e Gaveteiros",4350308,50,PERDEU,UND,5000,100
+"Conserto de Móveis - Tipo: Armários e Balcões",4350309,30,PERDEU,UND,1500,50

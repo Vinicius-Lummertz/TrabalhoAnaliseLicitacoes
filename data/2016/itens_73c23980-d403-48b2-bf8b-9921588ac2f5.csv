@@ -1,0 +1,36 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Esponja de lã de Aço",1285677,15,60,ATIVO,PACOTE,42,0.7
+"Luva látex.",1285680,23,35,ATIVO,UNIDADE,507.5,14.5
+"Lustra móvel",1285681,22,25,ATIVO,UNIDADE,91,3.64
+"Lixeira coletor pedal 40 lts",1285682,21,3,ATIVO,UNIDADE,222,74
+Guardanapo;,1285685,18,300,ATIVO,UNIDADE,165,0.55
+"Flanela para limpeza",1285686,17,115,ATIVO,UNIDADE,143.75,1.25
+"Esponja para Limpeza dupla face",1285687,16,230,ATIVO,UNIDADE,92,0.4
+"Aplicador de cera refil 45 cm",1285689,5,5,ATIVO,UNIDADE,252.5,50.5
+"Copo descartável 180 ml 25x100 unid",1285691,11,10,ATIVO,CAIXA,420,42
+"Cera liquida auto transito embalagem 5 lts",1285693,9,3,ATIVO,GALAO,885,295
+"Carro para limpeza com 2 baldes, cavalete espremedor e rodas",1285694,8,2,ATIVO,UNIDADE,440,220
+"Balde plástico resistente capacidade 16 lts",1285695,7,15,ATIVO,UNIDADE,285,19
+"Aplicador de cera 45 cm",1285696,6,5,ATIVO,UNIDADE,347.5,69.5
+"Álcool em gel 70% 500 ml",1285697,4,40,ATIVO,UNIDADE,146,3.65
+"Álcool 92,8%",1285698,3,60,ATIVO,LITRO,237,3.95
+"Limpador multiuso",1285700,1,5,ATIVO,GALAO,622.5,124.5
+"Desinfetante aromatizante",1285701,27,35,ATIVO,GALAO,119,3.4
+"Escova para limpeza em vaso sanitário de bola com pote",1285702,13,10,ATIVO,UNIDADE,40,4
+"Desinfetante eucalipto",1285703,28,35,ATIVO,GALAO,119,3.4
+"Saco de lixo de 240 litros",1285704,47,10,ATIVO,FARDO,550,55
+"VASSOURA DE PALHA",1285706,53,15,ATIVO,UNIDADE,187.5,12.5
+"VASSOURA DE NYLON",1285707,52,10,ATIVO,UNIDADE,50,5
+"Saco de lixo de 30 litros",1285710,49,4,ATIVO,FARDO,36,9
+"Saco de lixo de 100 litros",1285711,48,8,ATIVO,FARDO,280,35
+"Papel toalha.",1285712,29,25,ATIVO,FARDO,912.5,36.5
+"SABAO EM PO",1285714,45,60,ATIVO,kg,132,2.2
+"Pano multiúso em rolo picotado",1285718,41,4,ATIVO,UNIDADE,1060,265
+"Desodorizador spray",1285719,40,42,ATIVO,UNIDADE,218.4,5.2
+"Saca prelevada",1285720,39,115,ATIVO,UNIDADE,247.25,2.15
+"Sabonete liquida",1285721,38,10,ATIVO,GALAO,228,22.8
+"Sabonete em barra.",1285722,37,100,ATIVO,UNIDADE,140,1.4
+"Rodo de alumínio",1285724,35,7,ATIVO,UNIDADE,157.5,22.5
+"Removedor de cera alcalino 5 lts",1285725,34,2,ATIVO,GALAO,240,120
+"Pedra Sanitária.",1285727,32,55,ATIVO,UNIDADE,51.15,0.93
+"Papel higiênico 8 unidades de 500mts.",1285728,31,22,ATIVO,FARDO,649,29.5

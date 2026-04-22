@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balcão de atendimento com dois níveis de altura",4430194,1,PERDEU,UN,1500,1500
+"Mesa Escrivaninha em MDF",4430195,5,PERDEU,UNI,1250,250
+GAVETEIRO,4430196,4,PERDEU,UND,800,200
+"Armário com 2 portas",4430197,4,PERDEU,UN,1360,340
+"Armário aéreo;",4430198,1,DESCLASSIFICADO,CNJ,900,900
+"Arquivo em aço com 04 gavetas",4430200,7,VENCEU,UN,2450,350
+"Cadeira estofada fixa 4 pés, modelo secretária",4430201,40,PERDEU,UN,2720,68
+"Cadeira giratória tipo executiva.",4430202,4,PERDEU,UNI,860,215
+"Poltrona tipo longarina 3 lugares executiva",4430203,3,DESCLASSIFICADO,CJ,1047,349
+"Ventilador  de parede 60cm turbo",4430212,6,VENCEU,UN,834,139

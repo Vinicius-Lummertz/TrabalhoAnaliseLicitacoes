@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bolsa Coletora de urina sistema fechado  2000mL.",4435861,1200,DESCLASSIFICADO,UN,3780,3.15
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4435862,250000,VENCEU,PCT,97000,0.388
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4435863,8581,VENCEU,UNI,3252.2,0.379
+"Sonda aspiração traqueal nº 08 em PVC, descartável",4435864,10800,VENCEU,UNI,4482,0.415
+"Sonda aspiração traqueal nº 10 em PVC, descartável",4435865,2000,PERDEU,UNI,794,0.397
+"Sonda aspiração traqueal nº 12 em PVC, descartável",4435866,4000,VENCEU,UNI,1760,0.44
+"Sonda aspiração traqueal nº 14 em PVC, descartável",4435867,2000,VENCEU,UNI,960,0.48
+"Sonda uretral nº 06, descartável",4435869,2000,VENCEU,UNI,760,0.38
+"Sonda uretral nº 08, descartável",4435870,18000,PERDEU,UNI,6822,0.379
+"Sonda uretral nº 10 descartável",4435871,24000,PERDEU,UN,9456,0.394
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4435872,20000,DESCLASSIFICADO,UNI,52800,2.64
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",4435873,1000,DESCLASSIFICADO,UN,3250,3.25
+"SORO GLICOFISIOLOGICO 500ml",4435875,300,DESCLASSIFICADO,UNI,1110,3.7
+"Soro Glicosado 250ml (solução de glicose a 5%).",4435876,300,DESCLASSIFICADO,UNI,915,3.05
+"Soro ringer lactato  500 ml",4435877,150,PERDEU,UNI,546,3.64

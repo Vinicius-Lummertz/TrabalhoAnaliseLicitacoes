@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amplificador de potência com 1000 whats rms em 2 ohms por ca",0,1,PERDEU," ",1940,1940
+"Caixa de som passiva de 250 whats rms",0,3,PERDEU," ",3507,1169
+"Caixa de som passiva de 200 whats rms",0,6,PERDEU," ",5748,958
+"Caixa de sub grave ativa de 600 whats",0,1,PERDEU," ",3080,3080
+"Mesa de som 12 canal",0,1,PERDEU," ",1870,1870
+"Sistema de microfone sem fio",0,1,PERDEU," ",1449,1449
+"Microfone dinamico cardioide",0,2,PERDEU," ",402,201
+"Rack de instalação de equipamentos",0,1,PERDEU," ",320,320
+"Filtro de linha de 25 amperes",0,1,PERDEU," ",445,445
+"Painéis Montagens de AC",0,3,PERDEU," ",450,150
+"Projetor de video de 2500 anci lumins",0,1,VENCEU," ",1976.1,1976.0994
+"Sistema Home theater 7.1 (receiver)",0,1,VENCEU," ",4256.21,4256.2141
+"Sistema Blu ray",0,1,VENCEU," ",592.83,592.8298
+"Tela para projeção 120 (2,43x1,82) de video",0,1,VENCEU," ",1124.86,1124.8566
+"Mesa de luz dmx 1024 canais",0,1,PERDEU," ",3093.58,3093.58
+"PLACA de led 200w",0,12,PERDEU," ",5197.19,433.0995
+"Par 64 de led 15w",0,12,PERDEU," ",4962.73,413.5611
+"Set light slim 54 de led 3w",0,6,PERDEU," ",1299.3,216.5497
+"Filtro de linha de 25 amperes",0,1,PERDEU," ",362.27,362.273
+"Paineis de montagens de AC",0,2,PERDEU," ",284.93,142.4669

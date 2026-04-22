@@ -1,0 +1,103 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua sanitária com 1 Litro",4338690,4400,CANCELADO,UND,6292,1.43
+"Agua Sanitária com 5 Litros",4338691,9150,CANCELADO,UND,36783,4.02
+"Alccol Etílico em Gel 500 gr",4338692,9990,INABILITADO,FRA,38961,3.9
+"Álcool etílico hidratado 01 litro",4338693,6200,CANCELADO,LT,21080,3.4
+"Amaciante 05 Litros",4338694,2200,PERDEU,GAL,15422,7.01
+"Balde Plástico Resistente",4338695,370,NAO_COTOU,UND,0,0
+"Cabo de aluminio para suporte de Mop Úmido",4338696,540,NAO_COTOU,UND,0,0
+"Carro Funcional para limpeza",4338697,53,NAO_COTOU,KIT,0,0
+"Cera auto-brilho",4338698,1450,PERDEU,CX,90262.5,62.25
+"Cera em pasta",4338699,150,CANCELADO,LAT,28200,188
+"Conjunto Balde/Espremedor",4338700,180,NAO_COTOU,CJT,0,0
+"Copo Plástico 50 ml",4338701,145,INABILITADO,CX,229.1,1.58
+"Copo Plástico 180 ml.",4338702,2210,INABILITADO,CX,7005.7,3.17
+DESINCRUSTANTE,4338703,520,NAO_COTOU,UND,0,0
+"Desinfetante 500 ML",4338704,3100,PERDEU,UND,4309,1.39
+"Desinfetante 05 Lt",4338705,4270,CANCELADO,GAL,23015.3,5.39
+"DESINFETANTE LIMPADOR - 5 lts",4338706,286,NAO_COTOU,UND,0,0
+"Desodorizador de ambientes.",4338707,2020,CANCELADO,FRA,11716,5.8
+"DETERGENTE DESENGRAXANTE DE 5 LTS.",4338708,555,NAO_COTOU,UND,0,0
+"DETERGENTE LIQUIDO 500 ML",4338709,11600,INABILITADO,UND,13572,1.17
+"Detergente Líquido 05 Lt",4338710,7800,INABILITADO,GAL,63414,8.13
+"Dispenser (água/café),duplo.",4338711,33,DESCLASSIFICADO,UND,1239.15,37.55
+"Dispenser para sabonete líquido",4338712,204,PERDEU,UND,5620.2,27.55
+"Dispenser para Toalha interfolhada",4338713,39,CANCELADO,UND,702,18
+"Escova para higienização de mãos e unhas",4338714,1500,DESCLASSIFICADO,UND,4215,2.81
+"Escova para limpeza em vaso sanitário",4338715,637,DESCLASSIFICADO,UND,3471.65,5.45
+"Escovão para Limpeza de chão",4338716,350,CANCELADO,UND,1928.5,5.51
+"Esfregão de Aço Nº 1",4338717,8150,DESCLASSIFICADO,UND,7090.5,0.87
+"Esponja 100mmX180mmX25mm",4338718,1100,NAO_COTOU,UND,0,0
+"Esponja 110mmX75mmX20mm",4338719,14480,CANCELADO,UND,7240,0.5
+"Esponja de lã de Aço",4338720,6420,CANCELADO,PCT,5457,0.85
+"Flanela para limpeza",4338721,2100,CANCELADO,UND,2100,1
+fosforo.,4338722,5550,DESCLASSIFICADO,CX,14485.5,2.61
+"Garrafa Térmica 1,8L",4338723,106,DESCLASSIFICADO,UND,5840.6,55.1
+"Garrafa Térmica 1L",4338724,106,PERDEU,UND,4457.3,42.05
+"Guardanapo 20x23cm",4338725,3150,CANCELADO,PCT,1575,0.5
+"hipoclorito de sodio",4338726,8855,INABILITADO,GAL,96253.85,10.87
+"LIMPADOR BACTERICIDA CONCENTRADO",4338727,1290,NAO_COTOU,UND,0,0
+"LIMPADOR E DESINFETANTE DE USO GERAL A BASE DE QUARTENARIO D",4338728,1000,NAO_COTOU,UND,0,0
+"Lixeira 33x60cm/20litros.",4338729,195,NAO_COTOU,UND,0,0
+"Lixeira 50X77/50litros.",4338730,245,NAO_COTOU,UND,0,0
+"Lixeira com tampa basculante",4338731,350,NAO_COTOU,UND,0,0
+"Lixeira retangular com tampa basculante",4338732,400,NAO_COTOU,UND,0,0
+"Lixeira produzida em polietileno",4338733,295,NAO_COTOU,UND,0,0
+"lixeira retangular com tampa basculante 71xx44x37",4338734,75,NAO_COTOU,UND,0,0
+"lixeira retangular com tampa basculante 71xx49x37",4338735,30,NAO_COTOU,UND,0,0
+"Lixeira pra coleta seletiva de lixo em áreas externas",4338736,100,NAO_COTOU,UND,0,0
+"Lustra móveis.",4338737,480,CANCELADO,FRA,936,1.95
+"Luva Látex não Estéril  - Tamanho PP",4338738,200,PERDEU,CX,5552,27.76
+"Luva Látex não Estéril Tamanho G",4338739,650,DESCLASSIFICADO,CX,18044,27.76
+"Luva Látex não Estéril  Tamanho M",4338740,650,DESCLASSIFICADO,CX,18044,27.76
+"Luva Látex não Estéril Tamanho P",4338741,1050,DESCLASSIFICADO,CX,29148,27.76
+"Luva para Limpeza Tamanho Grande cano 3/4",4338742,2310,INABILITADO,PAR,5682.6,2.46
+"Luva para Limpeza Tamanho Medio cano 3/4",4338743,5610,INABILITADO,PAR,13800.6,2.46
+"Luva para Limpeza Tamanho Pequeno cano 3/4",4338744,3610,INABILITADO,PAR,8880.6,2.46
+"Luva para Limpeza Tamanho pequeno cano longo",4338745,290,INABILITADO,PAR,713.4,2.46
+"Luva para Limpeza Tamanho Grande cano longo",4338746,418,INABILITADO,PAR,1028.28,2.46
+"Luva para Limpeza Tamanho Médio cano longo",4338747,640,INABILITADO,PAR,1574.4,2.46
+"Mopi úmido (refil)",4338748,2186,NAO_COTOU,UND,0,0
+"NEUTRALIZADOR DE ODORES 300 ml",4338749,610,NAO_COTOU,UND,0,0
+"Pá coletora plástica",4338750,200,NAO_COTOU,UND,0,0
+"Pá de lixo plástica",4338751,330,NAO_COTOU,UND,0,0
+"Pano de copa e cozinha",4338752,8500,DESCLASSIFICADO,UND,35105,4.13
+"Papel higiênico 300m",4338753,1700,DESCLASSIFICADO,FRD,110925,65.25
+"Papel Higiênico 30m",4338754,5700,INABILITADO,FRD,23940,4.2
+"PAPEL TOALHA",4338755,9540,DESCLASSIFICADO,PCT,30432.6,3.19
+"Papel toalha interfolhado",4338756,23900,INABILITADO,FRD,212232,8.88
+"Pastilhas de agente de conservação para forno",4338757,16,NAO_COTOU,BLD,0,0
+"Pastilhas de detergente para forno",4338758,32,NAO_COTOU,BLD,0,0
+"Rodo minimo 55 cm",4338759,1500,PERDEU,UND,48975,32.65
+"Rodo 30cm",4338760,620,PERDEU,UND,17081,27.55
+"Sabão em barra;",4338761,5930,INABILITADO,CX,19746.9,3.33
+"Sabão em pó;",4338762,11220,PERDEU,UND,52173,4.65
+"Sabão Liquido 05 Litros",4338763,1500,INABILITADO,GAL,18480,12.32
+"Sabonete líquido antisséptico.",4338764,4100,NAO_COTOU,GAL,0,0
+"Sabonete líquido 5 litros",4338765,4725,INABILITADO,GAL,85617,18.12
+"Saca de tecido 100 % alvejado",4338766,10825,NAO_COTOU,UND,0,0
+"Saca de tecido crua",4338767,5700,DESCLASSIFICADO,PCT,28101,4.93
+"Saco para coleta de resíduos sólidos infectantes100 Litros",4338768,200,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes30 Litros",4338769,200,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes50 Litros",4338770,200,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 100 litros",4338771,2460,CANCELADO,PCT,90774,36.9
+"Saco plástico de lixo 30 litros",4338772,1930,DESCLASSIFICADO,PCT,176305.5,91.35
+"Saco plástico de lixo 50 litros",4338773,2100,PERDEU,PCT,47502,22.62
+"Saco plástico transparente na medida 14x25cm",4338774,1000,NAO_COTOU,UND,0,0
+"Saco plástico transparente na medida 30x40cm.",4338775,51500,NAO_COTOU,UND,0,0
+"Saco plástico transparente na medida 40x50cm;",4338776,50000,NAO_COTOU,UND,0,0
+"Saco plástico transparente na medida 60x80cm",4338777,61500,NAO_COTOU,MIL,0,0
+"Sapólio cremoso 300 ml",4338778,8240,CANCELADO,UND,16068,1.95
+"Suporte p/ copos descartáveis de 180/200 ml. Free Cup",4338779,23,PERDEU,UND,572.7,24.9
+"Suporte para papel higiênico com rolão abs auto-impacto para",4338780,23,NAO_COTOU,UND,0,0
+"Tela Desodorizadora para Mictório",4338781,200,CANCELADO,UND,478,2.39
+"Tela Plastica com pedra para mictorio",4338782,500,NAO_COTOU,UND,0,0
+"Touca descartável",4338783,200,INABILITADO,PCT,1748,8.74
+"Unta forma",4338784,70,NAO_COTOU,GAL,0,0
+"Vassoura com cerdas",4338785,5610,PERDEU,UND,47180.1,8.41
+"VASSOURA DE PALHA",4338786,4915,DESCLASSIFICADO,UND,85521,17.4
+"Luva Térmica Aramida/Carbono Malha Grossa Grafatex 600°C",4338787,20,NAO_COTOU,PAR,0,0
+"Luva términa grafatex",4338788,40,NAO_COTOU,UND,0,0
+"Manga de segurança",4338789,8,NAO_COTOU,PAR,0,0
+"desinfetante para Hortifrutícolas",4338790,80,NAO_COTOU,KG,0,0
+"desinfetante desengordurante diluição de 1litro do produto p",4338791,80,NAO_COTOU,GAL,0,0

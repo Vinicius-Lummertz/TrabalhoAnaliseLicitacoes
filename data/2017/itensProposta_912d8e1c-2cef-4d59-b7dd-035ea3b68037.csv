@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Split - unidade evsporadora, quente-frio, 9.000BTU/h.",0,2,VENCEU," ",4380,2190
+"Split- unidade evaporadora, quentre-frio, 11.000 BTU/h",0,19,VENCEU," ",122550,6450
+"Slipt - Unidade evaporadora, quente-frio, 18.000BTU/h",0,36,VENCEU," ",323280,8980
+"Slipt- unidade evaporadora, quente-frio 24.000 BTU/h",0,9,VENCEU," ",94050,10450
+"Split- unidade evaporadora, quente-frio, 36.000 BTU/h",0,45,VENCEU," ",623250,13850
+"Split- unidade evaporadora, quente-frio, 48.000 BTU/h",0,9,VENCEU," ",153900,17100
+"Unidade condensadora, MINI-VRF, cap. 4,0HP, monofásico 220V",0,2,VENCEU," ",30900,15450
+"Unidade evaporadora tipo High Wall, cap. 1,5 HP",0,3,VENCEU," ",11040,3680
+"Unidade evaporadora High Wall, cap.2,0 HP",0,2,VENCEU," ",7700,3850

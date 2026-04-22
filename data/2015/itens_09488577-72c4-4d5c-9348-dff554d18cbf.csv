@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adesivo (bandagem) estéril indicado p/ uso após punção venos",1258643,23,60000,ATIVO,UNIDADE,1194,0.0199
+"Pote plástico com tampa de rosca descartável p/ coleta de 10",1258644,21,55000,ATIVO,UNIDADE,13200,0.24
+"Lamínulas 20x20 cx c/ 50 unidades",1258645,13,100,ATIVO,CAIXA,164,1.64
+"Teste imunocromatográfico.",1258646,11,800,ATIVO,TESTE,3400,4.25
+"Fita de Urina c/10 parâmetros.",1258647,6,27000,ATIVO,TESTE,18900,0.7

@@ -1,0 +1,37 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vigilância Diurna Evento Externo 17/08	das 07h às 14h",0,35,VENCEU," ",437.5,12.5
+"Vigilância Diurna Evento Externo 17/08	das 14h as 22h00",0,48,VENCEU," ",600,12.5
+"Vigilância Noturna Evento Externo 17/08 das 22h00 as 07h00",0,36,VENCEU," ",576,16
+"Vigilância Diurna Evento Interno 17/08 das 07h às 14h",0,28,VENCEU," ",350,12.5
+"Vigilância Diurna Evento Interno 17/08 das 14h as 22h00",0,64,VENCEU," ",800,12.5
+"Vigilância Noturna Evento Interno 17/08 das 22h às 07h",0,45,VENCEU," ",720,16
+"Vigilância Diurna Evento Externo 18/08	das 07h às 14h",0,35,VENCEU," ",437.5,12.5
+"Vigilância Diurna Evento Externo 18/08	das 14h as 22h00",0,48,VENCEU," ",600,12.5
+"Vigilância Noturna Evento Externo 18/08 das 22h00 as 07h00",0,36,VENCEU," ",576,16
+"Vigilância Diurna Evento Interno 18/08 das 07h às 14h",0,28,VENCEU," ",350,12.5
+"Vigilância Diurna Evento Interno 18/08 das 14h as 22h00",0,64,VENCEU," ",800,12.5
+"Vigilância Noturna Evento Interno 18/08 das 22h às 07h",0,45,VENCEU," ",720,16
+"Vigilância Diurna Evento Externo 19/08	das 07h às 14h",0,35,VENCEU," ",437.5,12.5
+"Vigilância Diurna Evento Externo 19/08	das 14h as 22h00",0,48,VENCEU," ",600,12.5
+"Vigilância Noturna Evento Externo 19/08 das 22h00 as 07h00",0,36,VENCEU," ",576,16
+"Vigilância Diurna Evento Interno 19/08 das 07h às 14h",0,28,VENCEU," ",350,12.5
+"Vigilância Diurna Evento Interno 19/08 das 14h as 22h00",0,64,VENCEU," ",800,12.5
+"Vigilância Noturna Evento Interno 19/08 das 22h às 07h",0,45,VENCEU," ",720,16
+"Vigilância Diurna Evento Externo 20/08 das 07h às 14h",0,35,VENCEU," ",437.5,12.5
+"Vigilância Diurna Evento Externo 20/08 das 14h as 22h00",0,48,VENCEU," ",600,12.5
+"Vigilância Noturna Evento Externo 20/08 das 22h00 as 07h00",0,36,VENCEU," ",576,16
+"Vigilância Diurna Evento Interno 20/08 das 07h às 14h",0,28,VENCEU," ",350,12.5
+"Vigilância Diurna Evento Interno 20/08 das 14h as 22h00",0,64,VENCEU," ",800,12.5
+"Vigilância Noturna Evento Interno 20/08 das 22h às 07h",0,45,VENCEU," ",720,16
+"Vigilância Diurna Evento Externo 21/08	das 07h às 14h",0,35,VENCEU," ",437.5,12.5
+"Vigilância Diurna Evento Externo 21/08	das 14h as 22h00",0,48,VENCEU," ",600,12.5
+"Vigilância Noturna Evento Externo 21/08 das 22h00 as 07h00",0,36,VENCEU," ",576,16
+"Vigilância Diurna Evento Interno 21/08 das 07h às 14h",0,28,VENCEU," ",350,12.5
+"Vigilância Diurna Evento Interno 21/08 das 14h as 22h00",0,64,VENCEU," ",800,12.5
+"Vigilância Noturna Evento Interno 21/08	 das 22h às 07h",0,45,VENCEU," ",720,16
+"Desmontagem Vigilância Diurna Evento Externo 22/08 09h às 14",0,15,VENCEU," ",187.5,12.5
+"Desmontagem Vigilância Diurna Evento Externo 22/08 14h as 22",0,48,VENCEU," ",600,12.5
+"Desmontagem Vigilância Noturna Evento Externo 22/08 22h00 as",0,45,VENCEU," ",720,16
+"Desmontagem Vigilância Diurna Evento Interno 22/08 07h às 14",0,14,VENCEU," ",175,12.5
+"Desmontagem Vigilância Diurna Evento Interno 22/08 14h as 22",0,48,VENCEU," ",600,12.5
+"Desmontagem Vigilância Noturna Evento Interno 22/08 22h às 0",0,50,VENCEU," ",800,16

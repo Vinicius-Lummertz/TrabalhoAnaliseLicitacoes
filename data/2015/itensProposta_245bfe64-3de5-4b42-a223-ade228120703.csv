@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ABAIXADOR DE LINGUA",4428106,860,INABILITADO,PCT,2890.46,3.361
+AVENTAL,4428108,3000,PERDEU,UNI,4026,1.342
+"Ataduras de Crepom",4428109,40000,DESCLASSIFICADO,UNI,31520,0.788
+"ÁLCOOL ETÍLICO.",4428110,2500,VENCEU,CX,12357.5,4.943
+"Agulhas hipodérmicas 13mmX4,5mm",4428111,145000,INABILITADO,CX,8265,0.057
+"Agulhas hipodérmicas 20mmX5,5mm",4428112,11000,DESCLASSIFICADO,CX,726,0.066
+"Agulhas hipodérmicas 25mmX6mm",4428113,40000,DESCLASSIFICADO,UNI,2640,0.066
+"Agulhas hipodérmicas 25mmX7mm",4428114,120000,INABILITADO,UNI,6840,0.057
+"Agulhas hipodérmicas 25mmX8mm",4428115,1200000,INABILITADO,UNI,68400,0.057
+"Agulhas hipodérmicas 30mmX7mm",4428116,60000,INABILITADO,UNI,3420,0.057
+"Agulhas hipodérmicas 30mmX8mm",4428117,60000,INABILITADO,UNI,3420,0.057
+"Agulhas hipodérmicas 40mmX12mm",4428118,130000,DESCLASSIFICADO,UNI,8580,0.066
+"Cateter venoso de segurança nº 16G",4428119,1000,INABILITADO,UNI,1553,1.553
+"Cateter venoso de segurança nº 18G",4428120,4000,INABILITADO,UNI,5656,1.414
+"Cateter venoso de segurança nº 20G",4428121,3200,INABILITADO,UNI,4524.8,1.414
+"Cateter venoso de segurança nº 22G",4428122,3600,INABILITADO,UNI,5090.4,1.414
+"Cateter venoso de segurança nº 24G",4428123,2500,INABILITADO,UNI,3882.5,1.553
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp).",4428124,13000,INABILITADO,UNI,2418,0.186
+"Dispositivo para infusão endovenosa, n° 21 (apelido scalp).",4428125,60000,INABILITADO,UNI,11160,0.186
+"Dispositivo para infusão endovenosa, n° 23 (apelido scalp).",4428126,60000,INABILITADO,UNI,11160,0.186
+"Dispositivo para infusão endovenosa, n° 25 (apelido scalp).",4428127,10000,INABILITADO,UNI,1860,0.186
+"Dispositivo para infusão endovenosa, n° 27 (apelido scalp).",4428128,1000,INABILITADO,UNI,188,0.188
+"Filme para Ultrassonografia",4428130,300,DESCLASSIFICADO,ROLO,28809.3,96.031
+"Lanceta do profissional de saúde",4428131,200000,INABILITADO,UNI,56400,0.282
+"Lanceta do paciente - refil",4428132,250000,INABILITADO,UNI,15750,0.063
+"Seringas descartáveis para Insulina com agulha fixa 1 ml",4428134,1000000,INABILITADO,UNI,332000,0.332
+"Seringa com trava de segurança, 5ml, sem agulha",4428138,70500,INABILITADO,UNI,37153.5,0.527
+"Seringa 10ml, sem agulha",4428139,16000,INABILITADO,UNI,18080,1.13
+"Seringa 20ml, sem agulha",4428140,48500,INABILITADO,UNI,86136,1.776
+"Bateria de Líthium 123ª, para uso no desfribilador DEA-Zoll",4428142,5,PERDEU,JGO,2400,480
+"Estetoscópio Adulto.",4428143,200,INABILITADO,UNI,11436.6,57.183
+"Eletrodo adulto (Pás descartáveis) para uso no DEA-Zoll, mod",4428144,20,INABILITADO,PAR,22595.62,1129.781
+"Lâmpadas para foco clínico e ginecológico",4428145,400,VENCEU,UNI,27000,67.5

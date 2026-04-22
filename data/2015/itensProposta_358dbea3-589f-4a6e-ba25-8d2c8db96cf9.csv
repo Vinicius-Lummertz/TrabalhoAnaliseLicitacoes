@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Salgados sortidos (assados)",0,250,VENCEU," ",12492.5,49.97
+"Salgados sortidos (fritos)",0,400,VENCEU," ",15992,39.98
+"Mini Sanduíche 50 gr",0,2500,VENCEU," ",2000,0.8
+"Pão de queijo 24gr",0,1500,VENCEU," ",750,0.5
+"Biscoito doce tipo caseiro, 200 gr",0,150,VENCEU," ",435,2.9
+"Bolos diversos",0,150,VENCEU," ",1873.5,12.49
+"Biscoito salgado agua e sal, 200 gr",0,150,VENCEU," ",435,2.9
+"Salada de fruta, 150 gramas",0,1000,VENCEU," ",3200,3.2
+"SUCO NATURAL",0,700,VENCEU," ",3850,5.5
+"CAFÉ PRETO",0,200,VENCEU," ",820,4.1
+"CAFÉ COM LEITE",0,200,VENCEU," ",1040,5.2
+"Pratos descartáveis, pacote com 10",0,250,VENCEU," ",537.5,2.15
+"Garfos descartáveis, pacote com 50",0,130,VENCEU," ",442,3.4
+"Copos descartáveis, pacote com 100",0,200,VENCEU," ",900,4.5
+"Guardanapos, pacote com 50",0,300,VENCEU," ",540,1.8

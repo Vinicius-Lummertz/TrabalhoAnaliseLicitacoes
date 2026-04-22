@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"LUVA CIRURGICA 6,5 ESTERIL",4448407,2000,PERDEU,PAR,2040,1.02
+"Luva Cirúrgica  estéril, Látex elasticidade. Nº. 7.0",4448408,3000,PERDEU,PAR,3060,1.02
+"Luva Cirúrgica estéril Nº. 7.5",4448409,2500,PERDEU,PAR,2550,1.02
+"Luva Cirúrgica estéril Nº. 8.0.",4448410,2000,PERDEU,PAR,2040,1.02
+"Luva Cirúrgica estéril Nº. 8.5",4448411,1000,PERDEU,PAR,1020,1.02
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho G",4448414,2000,PERDEU,CXA,28940,14.47
+"Luva Látex não  Estéril  p/Procedimento  Tamanho MCaixa com",4448415,1500,PERDEU,CX,21540,14.36
+"Luva Látex não  Estéril  p/Procedimento  Tamanho MCaixa com",4448416,4500,PERDEU,CX,64980,14.44
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho P Caixa co",4448417,1625,PERDEU,CX,23205,14.28
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho P Caixa co",4448418,7875,PERDEU,CX,112612.5,14.3
+"Luva Látex não Estéril p/ Procedimento  Tamanho PP",4448419,2000,PERDEU,CX,28560,14.28
+"SORO FISIOLOGICO 1000 ML",4448508,800,VENCEU,UN,2960,3.7
+"Soro Fisiológico 100 ml",4448509,9000,VENCEU,UNI,14130,1.57
+"Soro Fisiológico 100 ml",4448510,27000,VENCEU,UNI,41850,1.55
+"SORO FISIOLOGICO 250 ML",4448511,9000,VENCEU,UNI,17370,1.93
+"SORO FISIOLOGICO 250 ML",4448512,27000,VENCEU,UNI,52380,1.94
+"Soro Fisiológico 500 ml (Cloreto de sódio 0,9%)",4448513,15000,PERDEU,UNI,36450,2.43
+"SORO GLICOFISIOLOGICO 250ml",4448514,1000,VENCEU,UN,2120,2.12
+"Soro Glicofisiológico 500ml .",4448515,1000,VENCEU,UNI,2730,2.73
+"SORO GLICOSADO 250 ML",4448516,500,VENCEU,UNI,1045,2.09
+"Soro Glicosado  500 ml",4448517,500,VENCEU,UN,1315,2.63
+"Soro ringer lactato 500 ml",4448518,100,DESCLASSIFICADO,UNI,500,5

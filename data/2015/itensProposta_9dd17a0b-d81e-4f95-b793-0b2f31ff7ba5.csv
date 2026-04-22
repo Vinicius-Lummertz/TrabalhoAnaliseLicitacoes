@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha em MDF",4427035,13,DESCLASSIFICADO,UNI,3575,275
+"Balcão em MDF acoplado às bancadas de inox.",4427036,7,DESCLASSIFICADO,UN,3094,442
+"Bancada estrutura em madeira MDF",4427037,2,PERDEU,UN,610,305
+"Armário aberto 1,00 x 0,30 x 2,00m",4427041,2,PERDEU,UN,570,285
+"Armário aberto 1,60 x 0,37 x 2,00m",4427042,3,DESCLASSIFICADO,UN,2010,670
+"Painel liso",4427043,2,VENCEU,UN,700,350
+"Armário arquivo.",4427045,15,DESCLASSIFICADO,UN,14100,940
+"Armário com 2 portas",4427046,15,DESCLASSIFICADO,UN,7155,477
+"Balcão atendimento.",4427048,2,PERDEU,UN,3760,1880
+GAVETEIRO,4427049,6,DESCLASSIFICADO,UND,1608,268
+"Suporte para CPU com rodízios.",4427051,5,VENCEU,UN,125,25
+"Mesa reunião oval",4427052,1,DESCLASSIFICADO,UN,457,457
+"Armário com 2 portas",4427053,1,DESCLASSIFICADO,UN,582,582

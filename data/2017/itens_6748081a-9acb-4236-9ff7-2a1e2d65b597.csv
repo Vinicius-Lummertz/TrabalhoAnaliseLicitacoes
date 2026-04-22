@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Formula para lactentes que apresentem regurgitação",1261190,18,300,ATIVO,LATA,9600,32
+"Fórmula infantil para recém-nascidos pré-termo",1261193,14,100,ATIVO,LATA,2600,26
+"Fórmula infantil para lactentes até 06 meses, em pó",1261194,12,3000,ATIVO,LATA,39000,13
+"Fórmula infantil para lactentes à base de proteínas",1261195,11,48,ATIVO,LATA,1387.2,28.9
+"Fórmula infantil de segmento, à base de leite de vaca",1261196,9,300,ATIVO,LATA,8100,27
+"Alimento para lactentes menores de um ano de idade intoleran",1261197,2,300,ATIVO,LATA,5820,19.4
+"Fórmula infantil de seguimento, a base de proteínas isolada",1261199,10,50,ATIVO,LATA,1430,28.6

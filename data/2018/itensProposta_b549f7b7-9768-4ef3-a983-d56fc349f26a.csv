@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa retangular 1400x950x740mm",4463830,3,VENCEU,UND,4348.74,1449.58
+"Mesa retangular 1300x750x740mm",4463831,15,VENCEU,UND,16795.05,1119.67
+"Mesa retangular 1400x600x740mm com gaveteiro fixo",4463832,3,VENCEU,UND,4198.77,1399.59
+"Mesa retangular em MDP sobre cavaletes",4463833,11,VENCEU,UND,11216.7,1019.7
+"Mesa de centro circular diâmetro 600mm",4463834,1,VENCEU,UND,484.86,484.86
+"Mesa de exposição 1600x700x750mm",4463835,1,VENCEU,UND,1649.52,1649.52
+"Estante Média Aberta 860x478x1260mm",4463836,1,VENCEU,UND,719.79,719.79
+"Armário Alto Fechado 940x504x1600mm",4463837,8,VENCEU,UND,12796.24,1599.53
+"Gaveteiro volante com 03 gavetas e rodizios",4463838,2,VENCEU,UND,1759.48,879.74
+"Bancada em MDF 3600x600mm.",4463839,1,VENCEU,UND,2439.28,2439.28
+Lixeira,4463840,12,VENCEU,UND,1739.52,144.96
+"Banco para área externa - pés",4463841,2,VENCEU,UND,2789.18,1394.59
+"Escada de alumínio tipo com duas pernas",4463842,1,VENCEU,UND,238.93,238.93
+"Toucador 3.00m x 0.50m espessura",4463843,1,VENCEU,UND,1849.46,1849.46
+"Tapete redondo colorido",4463844,1,VENCEU,UND,1794.47,1794.47
+"Estante simples com base inferior fechada",4463845,7,PERDEU,UND,11060,1580
+"Estante uma face 1000x320x2000mm.",4463846,3,PERDEU,UND,1350,450
+"Estante-carrinho móvel 400x350x650mm",4463847,3,PERDEU,UND,6870,2290
+"Estante dupla face 1000x580x2000mm",4463848,6,PERDEU,UND,11934,1989
+"Bibliocanto com sinalizador",4463849,18,PERDEU,UND,1044,58
+"Carrinho para livros 530x530x1050mm .",4463850,1,PERDEU,UND,2430,2430
+"Cabideiro em tubo de aço",4463851,1,PERDEU,UND,1250,1250
+"Cadeira alta para camarim",4463852,4,PERDEU,UND,3192,798
+"Cadeira empilhavél estofada, sem braço",4463853,83,PERDEU,UND,38014,458
+"Cadeira giratória espaldar médio com braço",4463854,7,PERDEU,UND,6790,970
+"Cadeira fixa empilhavél, sem braço",4463855,58,PERDEU,UND,26564,458
+"Poltrona módulo de 1 lugar.",4463856,2,PERDEU,UND,3780,1890

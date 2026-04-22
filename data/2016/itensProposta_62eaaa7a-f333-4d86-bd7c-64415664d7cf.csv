@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Areia Lavada Tipo Fina",0,64,VENCEU," ",3820.8,59.7
+"Areia Lavada Tipo Grossa",0,64,VENCEU," ",3840,60
+"Bloco construção vazado 14x19x39",0,900,VENCEU," ",3600,4
+"Bloco de Concreto",0,1800,VENCEU," ",9000,5
+"brita nº 01",0,108,VENCEU," ",7560,70
+"broxa nylon",0,45,VENCEU," ",315,7
+"cabo de enxada",0,5,VENCEU," ",42.5,8.5
+"cabo de pá de cavar",0,5,VENCEU," ",34.5,6.9
+"cabo de pá de juntar",0,5,VENCEU," ",34.5,6.9
+"cabo de picareta",0,5,VENCEU," ",50,10
+CAL,0,180,VENCEU," ",1350,7.5
+"Cavadeira articulada",0,27,VENCEU," ",864,32
+CIMENTO,0,360,VENCEU," ",11520,32
+"COLHER DE PEDREIRO",0,27,VENCEU," ",270,10
+ENXADA,0,27,VENCEU," ",594,22
+"Ferro construção 4,2 12m",0,45,VENCEU," ",279,6.2
+"Ferro construção 5/16 12m",0,90,VENCEU," ",2241,24.9
+"Martelo carpinteiro",0,10,VENCEU," ",390,39
+"Pa ajuntadeira",0,45,VENCEU," ",900,20
+"PA DE CAVAR",0,18,VENCEU," ",450,25
+"Picareta Sem Cabo",0,10,VENCEU," ",320,32
+TALHADEIRA,0,9,VENCEU," ",108,12
+"Tijolo 6f. - 19 x 14 x 9cm.",0,10,VENCEU," ",3600,360

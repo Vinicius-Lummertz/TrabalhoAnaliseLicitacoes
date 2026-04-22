@@ -1,0 +1,161 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",4428405,1000,PERDEU,GL,5320,5.32
+"Água oxigenada vol. 10.",4428406,350,PERDEU,L,920.5,2.63
+"Agulhas hipodérmicas 13mmX4,5mm",4428407,1000000,PERDEU,CX,60000,0.06
+"Agulhas hipodérmicas 20mmX5,5mm",4428408,20000,PERDEU,CX,1180,0.059
+"Álcool etílico 70° antisséptico.",4428409,6000,INABILITADO,UND,26040,4.34
+"Álcool gel 70%;",4428410,4000,INABILITADO,FR.,26320,6.58
+"Algodão Hidrófilo, 100%.",4428411,1800,DESCLASSIFICADO,ROLO,22320,12.4
+"Almotolia de uso médico-hospitalar bisnaga inteiriça, cor âm",4428412,600,DESCLASSIFICADO,UNI,834,1.39
+"Almotolia de uso médico-hospitalar bisnaga inteiriça, cor tr",4428413,600,DESCLASSIFICADO,UNI,834,1.39
+"Almotolia de uso médico-hospitalar",4428414,600,DESCLASSIFICADO,UNI,1212,2.02
+"Atadura de algodão Ortopédico 12 cm X 1,80 mt",4428416,50,DESCLASSIFICADO,PCT,549.5,10.99
+"Atadura de algodão Ortopédico 15 cm X 1,80 mt",4428417,50,DESCLASSIFICADO,UNI,690,13.8
+"Atadura de algodão Ortopédico 20 cm X 1,80 mt",4428418,50,DESCLASSIFICADO,PCT,915.5,18.31
+"Atadura Gessada 100% algodão 8 cm de largura x 200 cm de com",4428419,500,DESCLASSIFICADO,UNI,360,0.72
+"Atadura Gessada 100% algodão 10 cm de largura x 200 cm de co",4428420,500,DESCLASSIFICADO,UNI,615,1.23
+"Atadura Gessada 100% algodão 12 cm de largura x 200 cm de co",4428421,500,DESCLASSIFICADO,UNI,735,1.47
+"Atadura Gessada 100% algodão 15cm de largura x 200 cm de com",4428422,500,DESCLASSIFICADO,UNI,935,1.87
+"Atadura Gessada 100% algodão 20 cm de largura x 200 cm de co",4428423,500,DESCLASSIFICADO,UNI,1600,3.2
+"Ataduras de Crepom 10 cm de largura 1.80 m de comprimento",4428424,60000,DESCLASSIFICADO,UNI,36000,0.6
+"Ataduras de Crepom 12 cm de largura 1.80 m de comprimento",4428425,50000,DESCLASSIFICADO,UNI,39000,0.78
+"Ataduras de Crepom 15 cm de largura 1.80 m de comprimento",4428426,60000,DESCLASSIFICADO,UNI,58200,0.97
+"Ataduras de Crepom 20 cm de largura 1.80 m de comprimento",4428427,50000,DESCLASSIFICADO,UNI,65000,1.3
+"Ataduras de Crepom 06 cm de largura  1.80 m de comprimento",4428428,30000,DESCLASSIFICADO,UNI,11400,0.38
+"Ataduras de Crepom 08 cm de largura  1.80 m de comprimento",4428429,50000,DESCLASSIFICADO,UNI,26000,0.52
+"Bateria de Líthium 123ª, para uso no desfribilador DEA-Zoll",4428430,10,PERDEU,JGO,7250,725
+"Bolsa Coletora de urina sistema fechado  2000mL",4428431,2000,DESCLASSIFICADO,UNI,7000,3.5
+"Cateter para oxigênio tipo óculos nº 08",4428434,600,DESCLASSIFICADO,UNI,576,0.96
+"Cateter para oxigênio tipo óculos nº 12",4428435,2000,DESCLASSIFICADO,UNI,1980,0.99
+"Cateter venoso de segurança nº 18G",4428436,2000,DESCLASSIFICADO,UNI,5180,2.59
+"Cateter venoso de segurança nº 22G",4428437,3000,DESCLASSIFICADO,UNI,7770,2.59
+"Cateter venoso de segurança nº20G",4428438,6000,DESCLASSIFICADO,UNI,15540,2.59
+"Clorexidina alcoólica;",4428439,2000,PERDEU,L,12500,6.25
+"Clorexidina aquosa.",4428440,1200,PERDEU,UNI,1680,1.4
+"Coletor Infantil com furo recortado, unissex, com furo oval",4428441,15000,DESCLASSIFICADO,UNI,7800,0.52
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4428442,18000,VENCEU,UNI,43200,2.4
+"Coletor para materiais perfuro cortante (capacidade 3 Litros",4428443,5000,PERDEU,UN,7250,1.45
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4428444,15000,DESCLASSIFICADO,UNI,34650,2.31
+"Compressa Cirúrgica, Campo Operatório, não descartável 45cm",4428446,500,DESCLASSIFICADO,PCT,39000,78
+"Compressa Cirúrgica, Campo Operatório, não descartável 23cm",4428447,300,VENCEU,PCT,6690,22.3
+"Compressa de gaze (tipo queijo).",4428448,400,DESCLASSIFICADO,ROLO,27000,67.5
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4428449,15000,DESCLASSIFICADO,PCT,306600,20.44
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4428450,180000,DESCLASSIFICADO,PCT,108000,0.6
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem)",4428451,1000,PERDEU,CX,9000,9
+"Detergente Multienzimático.",4428452,1000,INABILITADO,L,24640,24.64
+"Dispositivo para incontinência Urinária Masculina, Nº04",4428453,2000,PERDEU,UNI,1380,0.69
+"Dispositivo para incontinência Urinária Masculina, Nº05",4428454,3000,VENCEU,UNI,1980,0.66
+"Dispositivo para incontinência Urinária Masculina, Nº06",4428455,3000,PERDEU,UNI,2070,0.69
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",4428457,15000,DESCLASSIFICADO,UNI,3300,0.22
+"Dispositivo para infusão endovenosa, n° 25 (apelido scalp)",4428458,15000,DESCLASSIFICADO,UNI,3300,0.22
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",4428461,10000,DESCLASSIFICADO,UN,4400,0.44
+"EQUIPO PARA NUTRIÇÃO ENTERAL",4428464,55000,PERDEU,UN,42350,0.77
+"Equipo polifix",4428465,6000,DESCLASSIFICADO,UNI,4620,0.77
+"Equipo tipo macrogotas para solução parenteral (20 gotas/ml)",4428466,60000,DESCLASSIFICADO,UNI,134400,2.24
+"Esparadrapo Impermeável e Antialérgico, com capa Largura 5cm",4428467,7500,DESCLASSIFICADO,ROLO,20250,2.7
+"Esparadrapo Impermeável e Antialérgico, com capa Largura 10c",4428468,7200,INABILITADO,RL,32040,4.45
+"Especulo vaginal, descartável Tamanho M",4428469,16000,DESCLASSIFICADO,UNI,17440,1.09
+"Especulo vaginal, descartável Tamanho G",4428470,8000,PERDEU,UNI,9600,1.2
+"Espéculo vaginal, descartável Tamanho P",4428471,16000,PERDEU,UNI,14720,0.92
+"Espéculo vaginal, tipo MINI descartável",4428472,3000,PERDEU,UN,3960,1.32
+"Fio absorvível de Catgut 2,0 cm fio 70 cm de comp. Nº. 2-0",4428474,30,PERDEU,CX,2070,69
+"Fio absorvível de Catgut 2,0 cm fio 70 cm de comp. Nº. 3-0",4428475,50,PERDEU,CX,3600,72
+"Fio absorvível de Catgut 2,0 cm fio 70 cm de comp. Nº. 4-0",4428476,35,PERDEU,CX,2450,70
+"Fio absorvível de Catgut 3,0 cm fio 70 cm de comp. Nº. 2-0",4428477,30,PERDEU,CX,2160,72
+"Fio absorvível de Catgut 4,0  cm fio 75 cm de comp. Nº. 2-0",4428478,20,PERDEU,CX,1440,72
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  2-0",4428479,20,PERDEU,CX,554.8,27.74
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  3-0",4428480,300,PERDEU,CX,8322,27.74
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  5-0",4428481,30,PERDEU,CX,774,25.8
+"Fio cirúrgico preto monofilamentar de poliamida Nº. 4-0",4428482,200,PERDEU,CX,5548,27.74
+"Fita adesiva para teste de esterilização em Autoclave;",4428484,2500,DESCLASSIFICADO,ROLO,9900,3.96
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4428485,12000,DESCLASSIFICADO,UNI,18120,1.51
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",4428486,12000,DESCLASSIFICADO,UNI,29640,2.47
+"Fixador Citológico, 40ml",4428487,3000,DESCLASSIFICADO,FR.,10260,3.42
+"Frasco para nutrição enteral capacidade 300mL",4428488,28000,DESCLASSIFICADO,UNI,21000,0.75
+"GLICERINA LIQUIDA",4428494,150,PERDEU,LT,1890,12.6
+"Haste flexível de algodão.",4428496,1500,PERDEU,CXA,1155,0.77
+"HIPOCLORITO DE SÓDIO 1%",4428497,5000,PERDEU,L,15400,3.08
+"Kit citologia 01 ESCOVA ENDOCERVICAL + 01 ESPÁTULA DE AYRES",4428499,35000,DESCLASSIFICADO,UNI,14700,0.42
+"Kit de nebulização adulto",4428500,450,DESCLASSIFICADO,UN,3001.5,6.67
+"Kit de nebulização infantil",4428501,450,DESCLASSIFICADO,UN,3001.5,6.67
+"Lâmina de Bisturi descartável Nº. 11.",4428502,50,INABILITADO,CXA,1015,20.3
+"Lâmina de Bisturi descartável Nº. 12",4428503,300,INABILITADO,CXA,6090,20.3
+"Lâmina de Bisturi descartável Nº. 15.",4428504,150,INABILITADO,CXA,3045,20.3
+"Lâmina de Bisturi descartável Nº. 20",4428505,20,INABILITADO,CXA,406,20.3
+"Lâmina de Bisturi descartável Nº. 22",4428506,30,INABILITADO,CXA,609,20.3
+"Lâmina de Preventivo (Ponta Fosca).",4428507,350,PERDEU,CXA,1085,3.1
+"Lençol hospitalar descartável em papel.",4428508,600,DESCLASSIFICADO,ROLO,6348,10.58
+"Luva Cirúrgica estéril Nº. 7.0.",4428509,4000,DESCLASSIFICADO,PAR,3840,0.96
+"Luva Cirúrgica estéril Nº. 7.5.",4428510,6000,DESCLASSIFICADO,PAR,5760,0.96
+"Luva Cirúrgica estéril Nº. 8.0.",4428511,3000,DESCLASSIFICADO,PAR,2880,0.96
+"Luva Cirúrgica estéril Nº. 8.5.",4428512,1000,DESCLASSIFICADO,PAR,960,0.96
+"Luva Cirúrgica estéril Nº. 9.0.",4428513,300,PERDEU,PAR,288,0.96
+"Luva Látex não Estéril p/ Procedimento - Tamanho G",4428515,8000,DESCLASSIFICADO,CX,134400,16.8
+"Luva Látex não Estéril p/ Procedimento - Tamanho M",4428516,16000,DESCLASSIFICADO,CX,268800,16.8
+"Luva Látex não Estéril p/ Procedimento - Tamanho P",4428517,13000,DESCLASSIFICADO,CX,218400,16.8
+"Luva Látex não Estéril p/ Procedimento - Tamanho PP",4428518,400,DESCLASSIFICADO,CXA,6720,16.8
+"Luva Látex não Estéril p/ Procedimento Tamanho G ANTIALÉRGIC",4428519,30,INABILITADO,CX,714,23.8
+"Luva Látex não Estéril p/ Procedimento Tamanho M ANTIALÉRGIC",4428520,150,INABILITADO,CX,3570,23.8
+"Luva Látex não Estéril p/ Procedimento Tamanho P ANTIALÉRGIC",4428521,150,INABILITADO,CX,3570,23.8
+"Malha Tubular largura  Ortopédica 10cm  x comprimento 25 m",4428522,80,DESCLASSIFICADO,ROLO,1216,15.2
+"Malha Tubular largura Ortopédica 12cm  x comprimento 25 m",4428523,40,DESCLASSIFICADO,ROLO,700,17.5
+"Malha Tubular largura Ortopédica 20cm  x comprimento 25 m",4428524,40,DESCLASSIFICADO,ROLO,919.6,22.99
+"Malha Tubular largura Ortopédica 30cm  x comprimento 25 m",4428525,40,DESCLASSIFICADO,ROLO,1360.8,34.02
+"Malha Tubular largura Ortopédica 8cm  x comprimento 25 m",4428526,40,DESCLASSIFICADO,ROLO,496,12.4
+"Malha Tubular Ortopédica largura 6cm  x comprimento 25 m",4428527,40,DESCLASSIFICADO,ROLO,436.4,10.91
+"Máscara de oxigênio com reservatório e de não reinalação Adu",4428530,10,PERDEU,UNI,115,11.5
+"Máscara de oxigênio com reservatório e de não reinalação Inf",4428531,10,PERDEU,UNI,115,11.5
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",4428532,20,PERDEU,UNI,269,13.45
+"Máscara facial de oxigênio venturi/infantil, não estéril (Ki",4428533,20,PERDEU,UNI,269,13.45
+"Máscaras Cirúrgicas Facial Descartável",4428535,500,CANCELADO,CX,55,0.11
+"NEBULIZADOR PORTATIL",4428536,20,VENCEU,UNI,2339,116.95
+"Papel crepado em folhas para embalar artigos a serem submeti",4428540,700,DESCLASSIFICADO,CXA,333396,476.28
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",4428544,3000,PERDEU,UNI,2730,0.91
+"Pote para coleta de urina, fezes e secreção",4428546,100000,DESCLASSIFICADO,UN,40000,0.4
+"Preservativos Masculinos de 52 mm, com lubrificante",4428548,5000,DESCLASSIFICADO,UN,900,0.18
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",4428558,3000,CANCELADO,L,37500,12.5
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4428559,5000,VENCEU,UNI,1795,0.359
+"Sonda aspiração traqueal nº 08 em PVC, descartável",4428560,36000,PERDEU,UNI,14040,0.39
+"Sonda aspiração traqueal nº 10 em PVC, descartável",4428561,25000,PERDEU,UNI,10500,0.42
+"Sonda aspiração traqueal nº 12 em PVC, descartável",4428562,36000,VENCEU,UNI,14724,0.409
+"Sonda aspiração traqueal nº 14 em PVC, descartável",4428563,12000,VENCEU,UNI,5280,0.44
+"Sonda aspiração traqueal nº 16 em PVC, descartável",4428564,3000,VENCEU,UNI,1407,0.469
+"Sonda de borracha (látex natural), calibre nº 10",4428565,10,DESCLASSIFICADO,CX,399,39.9
+"Sonda de borracha (látex natural),calibre nº 12",4428566,10,DESCLASSIFICADO,CX,290,29
+"Sonda de borracha (látex natural),calibre nº 14",4428567,15,DESCLASSIFICADO,CX,435,29
+"Sonda de borracha (látex natural),calibre nº 16",4428568,25,DESCLASSIFICADO,CX,725,29
+"Sonda de borracha (látex natural),calibre nº 18",4428569,30,DESCLASSIFICADO,CX,870,29
+"Sonda de borracha (látex natural),calibre nº 20",4428570,30,DESCLASSIFICADO,CX,870,29
+"Sonda de borracha (látex natural),calibre nº 22",4428571,30,DESCLASSIFICADO,CX,870,29
+"Sonda de borracha (látex natural),calibre nº 24",4428572,20,DESCLASSIFICADO,CX,798,39.9
+"Sonda endotraqueal em PVC com balão nº 6,5",4428573,20,DESCLASSIFICADO,UNI,82.6,4.13
+"Sonda endotraqueal em PVC com balão nº 7,0",4428574,50,DESCLASSIFICADO,UNI,206.5,4.13
+"Sonda endotraqueal em PVC com balão nº 7,5",4428575,50,DESCLASSIFICADO,UNI,206.5,4.13
+"Sonda endotraqueal em PVC com balão nº 8,0.",4428576,50,DESCLASSIFICADO,UNI,206.5,4.13
+"Sonda endotraqueal em PVC com balão nº 8,5.",4428577,30,DESCLASSIFICADO,UNI,123.9,4.13
+"Sonda endotraqueal em PVC com balão nº 9,0",4428578,20,DESCLASSIFICADO,UNI,82.6,4.13
+"Sonda Gástrica Longa nº 08, descartável",4428579,150,VENCEU,UNI,82.5,0.55
+"Sonda Gástrica Longa nº 10, descartável",4428580,150,VENCEU,UNI,85.5,0.57
+"Sonda Gástrica Longa nº 12, descartável",4428581,150,VENCEU,UNI,93,0.62
+"Sonda Gástrica Longa nº 14, descartável",4428582,150,VENCEU,UNI,94.5,0.63
+"Sonda Gástrica Longa nº 16, descartável",4428583,150,VENCEU,UNI,117,0.78
+"Sonda nasal para alimentação enteral nº 06",4428584,100,DESCLASSIFICADO,UNI,1008,10.08
+"Sonda nasal para alimentação enteral nº 08",4428585,100,DESCLASSIFICADO,UNI,1008,10.08
+"Sonda nasal para alimentação enteral nº 10",4428586,300,DESCLASSIFICADO,UNI,3024,10.08
+"Sonda nasal para alimentação enteral nº 12",4428587,300,DESCLASSIFICADO,UNI,3024,10.08
+"Sonda uretral nº 06, descartável",4428594,10000,PERDEU,UNI,3800,0.38
+"Sonda uretral nº 08, descartável",4428595,30000,VENCEU,UNI,11070,0.369
+"Sonda uretral nº 10, descartável",4428596,40000,PERDEU,UNI,16000,0.4
+"Sonda uretral nº 12, descartável",4428597,40000,VENCEU,UNI,16000,0.4
+"Sonda uretral nº 14, descartável",4428598,10000,VENCEU,UNI,4300,0.43
+"Sonda uretral nº 16, descartável",4428599,2000,VENCEU,UNI,920,0.46
+"SORO FISIOLOGICO 1000ml (Solução de cloreto de sódio 0,9%)",4428600,1000,PERDEU,UN,6170,6.17
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4428601,50000,PERDEU,UNI,119000,2.38
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4428602,40000,DESCLASSIFICADO,UNI,114000,2.85
+"SORO FISIOLOGICO 500ml (SOLUÇAO DE CLORETO DE SODIO 0,9%)",4428603,10000,DESCLASSIFICADO,UNI,37900,3.79
+"SORO GLICOFISIOLOGICO 250ml",4428604,3000,PERDEU,UN,9030,3.01
+"SORO GLICOFISIOLOGICO 500ml",4428605,1500,PERDEU,UNI,6045,4.03
+"SORO GLICOSADO 250ml (SOLUÇAO DE GLICOSE A 5%)",4428606,5000,PERDEU,UNI,14800,2.96
+"SORO GLICOSADO 500ml (SOLUÇAO DE GLICOSE A 5%)",4428607,3000,PERDEU,UNI,11970,3.99
+"Tampa Universal LuerLock, estéril, epirogênica",4428608,1000,PERDEU,UNI,220,0.22
+Vaselina.,4428610,150,PERDEU,L,2362.5,15.75

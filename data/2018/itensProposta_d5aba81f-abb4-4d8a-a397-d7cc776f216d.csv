@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Creme dental com 1500 PPM de teor de flúor",4436869,8000,VENCEU,UN,8000,1
+"ESCOVA DENTAL INFANTIL",4436901,50000,VENCEU,PCT,21500,0.43
+"Escova dental adulto.",4436902,30000,VENCEU,PCT,13800,0.46
+"Gel dental",4436953,400,VENCEU,UN,1132,2.83
+"Gel dental Kids",4436954,600,VENCEU,UN,1542,2.57
+"Kit de higiene bucal adulto",4436979,7500,VENCEU,KIT,24600,3.28
+"Kit de higiene bucal infantil",4436980,4000,VENCEU,KIT,16200,4.05

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Palco 5x5m",1321905,5,5,ATIVO,UNIDADE,4575,915
+"Palco 10x10m",1321906,4,5,ATIVO,UNIDADE,7625,1525
+"Palco 14X14m",1321907,3,5,ATIVO,UNIDADE,18300,3660
+"Pirâmide 5x5m",1321908,2,50,ATIVO,UNIDADE,9150,183
+"Pirâmide 10x10m",1321909,1,50,ATIVO,DIARIA,21350,427

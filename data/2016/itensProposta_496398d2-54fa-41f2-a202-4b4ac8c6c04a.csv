@@ -1,0 +1,100 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras.,0,40,VENCEU," ",20.8,0.52
+"Bimetal ar condicionado.",0,4,VENCEU," ",125.4,31.35
+"Botão ar condicionado.",0,12,VENCEU," ",43.8,3.65
+"Cabo PP.",0,100,VENCEU," ",658,6.58
+"Caixa de passagem split.",0,4,VENCEU," ",125.4,31.35
+"Cano cobre ½.",0,4,VENCEU," ",209.2,52.3
+"Cano cobre ¼",0,4,VENCEU," ",234.08,58.52
+"Cano cobre 3/16",0,4,VENCEU," ",217.36,54.34
+"Cano cobre ¾",0,4,VENCEU," ",211.2,52.8
+"Cano cobre 3/8",0,4,VENCEU," ",211.2,52.8
+"Cano cobre 5/16.",0,4,VENCEU," ",211.2,52.8
+"Cano cobre 5/8",0,4,VENCEU," ",209.2,52.3
+"Cano esponjoso ¼",0,20,VENCEU," ",64,3.2
+"Cano esponjoso ½",0,20,VENCEU," ",73,3.65
+"Cano esponjoso 3/16",0,40,VENCEU," ",125.6,3.14
+"Cano esponjoso ¾",0,40,VENCEU," ",125.6,3.14
+"Cano esponjoso 3/8",0,40,VENCEU," ",125.6,3.14
+"Cano esponjoso 5/16",0,40,VENCEU," ",125.6,3.14
+"Cano esponjoso 5/8",0,40,VENCEU," ",125.6,3.14
+"Cano PVC",0,20,VENCEU," ",42,2.1
+"Capacitor 380V 2 MF.",0,4,VENCEU," ",41.8,10.45
+"Capacitor 380V 3 MF.",0,4,VENCEU," ",41.8,10.45
+"Capacitor 380V 4 MF.",0,4,VENCEU," ",62.8,15.7
+"Capacitor 380V 5 MF.",0,4,VENCEU," ",41.8,10.45
+"Capacitor 380V 8 MF.",0,4,VENCEU," ",41.8,10.45
+"Capacitor 380V 10 MF.",0,4,VENCEU," ",62.8,15.7
+"Capacitor 380V 15 MF.",0,4,VENCEU," ",62.8,15.7
+"Capacitor 380V 20 MF.",0,4,VENCEU," ",83.6,20.9
+"Capacitor 380V 25 MF.",0,4,VENCEU," ",62.8,15.7
+"Capacitor 380V 30 MF.",0,4,VENCEU," ",83.6,20.9
+"Capacitor 380V 35 MF.",0,4,VENCEU," ",92,23
+"Capacitor 380V 40 MF.",0,4,VENCEU," ",125.4,31.35
+"Capacitor 380V 45 MF.",0,4,VENCEU," ",104.8,26.2
+"Capacitor 380V 55 MF.",0,4,VENCEU," ",125.4,31.35
+"Chave contactora CWM 09.",0,4,VENCEU," ",209.2,52.3
+"Chave contactora CWM 10.",0,4,VENCEU," ",209.2,52.3
+"Chave Selet. Ar Cond 4 pos.",0,4,VENCEU," ",62.8,15.7
+"Chave Selet. Ar Cond 5 pos.",0,4,VENCEU," ",83.6,20.9
+"Chave Selet. Ar Cond 6 pos.",0,4,VENCEU," ",83.6,20.9
+"Chave Selet. Ar Cond 7 pos;",0,4,VENCEU," ",62.8,15.7
+"Compressor 1HP alternativo.",0,2,VENCEU," ",1578,789
+"Compressor 11/4HP alternat;",0,2,VENCEU," ",1650,825
+"Compressor 11/2HP alternat",0,2,VENCEU," ",1714,857
+"Compressor 2HP alternativo.",0,2,VENCEU," ",2027.4,1013.7
+"Compressor 3/4HP alternativ.",0,2,VENCEU," ",1149.6,574.8
+"Compressor 1HP rotativo.",0,2,VENCEU," ",690,345
+"Compressor 11/4HP rotativo",0,2,VENCEU," ",731.6,365.8
+"Compressor 11/2HP rotativo.",0,2,VENCEU," ",753.6,376.8
+"Compressor 2HP rotativo.",0,2,VENCEU," ",899,449.5
+"Compressor 3/4HP rotativo.",0,2,VENCEU," ",606,303
+"Controle remoto univ. ar split.",0,4,VENCEU," ",209.2,52.3
+Disjuntor;,0,4,VENCEU," ",50.4,12.6
+"Dreno ar condicionado.",0,10,VENCEU," ",53,5.3
+"Espuma de vedação ar cond;",0,6,VENCEU," ",19.2,3.2
+"Filtro do pó ar cond;",0,8,VENCEU," ",167.2,20.9
+"Filtro Secador 1saida ar cond.",0,8,VENCEU," ",20.8,2.6
+FIO,0,200,VENCEU," ",280,1.4
+"Fita PVC 100mm branca.",0,30,VENCEU," ",159,5.3
+"Gás R134 (carga)",0,100,VENCEU," ",6800,68
+"Gás R22 (carga)",0,60,VENCEU," ",1890,31.5
+"Hélice ar cond. 7000btus.",0,4,VENCEU," ",62.8,15.7
+"Hélice ar cond. 10/18000btus.",0,4,VENCEU," ",125.4,31.35
+"Interruptor horário ar cond;",0,4,VENCEU," ",118,29.5
+"Joelho PVC.",0,6,VENCEU," ",6,1
+"Kit de aletas 10 a 21000btus.",0,8,VENCEU," ",418.4,52.3
+"Mangueira cristal.",0,400,VENCEU," ",840,2.1
+"Micro motor CA11 1/40 HP.",0,2,VENCEU," ",104.6,52.3
+"Micro motor CA20 1/25HP.",0,2,VENCEU," ",104.6,52.3
+"Motor Circulador 1/10 HP.",0,2,VENCEU," ",366,183
+"Motor Circulador 1/12HP.",0,2,VENCEU," ",554,277
+"Motor Circulador 1/15 HP.",0,2,VENCEU," ",439,219.5
+"Motor Circulador ½ HP.",0,2,VENCEU," ",1202,601
+"Motor Circulador 1/3 HP.",0,2,VENCEU," ",900,450
+"Motor Circulador ¼ HP.",0,2,VENCEU," ",710,355
+"Motor Circulador 1/5 HP.",0,2,VENCEU," ",356,178
+"Motor Circulador 1/8 HP.",0,2,VENCEU," ",732,366
+"Placa eletrôn. ar Consul.",0,2,VENCEU," ",564,282
+"Placa eletrôn. ar Brastemp.",0,2,VENCEU," ",376,188
+"Plug ar condicionado.",0,10,VENCEU," ",79,7.9
+"Protetor ar cond. 1/2 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1/3 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1/4 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1/5 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1/6 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1/8 HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 1HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. 11/2HP.",0,4,VENCEU," ",209.2,52.3
+"Protetor ar cond. 11/4HP.",0,4,VENCEU," ",125.6,31.4
+"Protetor ar cond. 2HP.",0,4,VENCEU," ",62.8,15.7
+"Protetor ar cond. ¾ HP.",0,4,VENCEU," ",62.8,15.7
+"Rele monti;",0,4,VENCEU," ",209.2,52.3
+"Sensor de temperatura frio.",0,4,VENCEU," ",209.2,52.3
+"Sensor temp. aquecimento.",0,4,VENCEU," ",209.2,52.3
+"Suporte split 7/12000btus.",0,4,VENCEU," ",168,42
+"Suporte split 18/30000btus.",0,4,VENCEU," ",168,42
+"Termostato ar cond. 1601.",0,4,VENCEU," ",125.6,31.4
+"Turbina ventilador 10/30000.",0,4,VENCEU," ",168,42
+"Unid. condens. 2HP 380V.",0,2,VENCEU," ",4400,2200
+"Serviço de instalação, limpeza e manutenção dos aparelhos",0,550,VENCEU," ",34100,62

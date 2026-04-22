@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Cafés,1,2921,Venceu,UND,13728.7,4.7
+Almoços,2,3110,Venceu,UND,39870.2,12.82
+Jantas,3,3387,Venceu,UND,42608.46,12.58
+Lanches,4,1537,Venceu,UND,5779.12,3.76

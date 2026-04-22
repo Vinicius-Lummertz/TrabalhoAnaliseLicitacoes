@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",1259743,5,200,ATIVO,BLOCO,440,2.2
+"Cartão de agendamento - frente e verso - papel offset 180gr",1259744,15,30000,ATIVO,UNIDADE,1650,0.055
+"Evolução do paciente - frente e verso",1259746,30,6000,ATIVO,BLOCO,17100,2.85
+"Cartão de retorno - papel offset 180gr",1259749,16,100000,ATIVO,UNIDADE,1800,0.018
+"SISVAN- Mapa de Acompanhamento Nutricional frente e verso",1259753,105,400,ATIVO,BLOCO,776,1.94
+"Receituário simples",1259755,77,19000,ATIVO,BLOCO,15960,0.84
+"Receituário DST-HIV- AIDS- Tratamento - 4 vias autocopiativo",1259756,75,30,ATIVO,BLOCO,572.7,19.09
+"Receituário DST-HIV- AIDS- Profilaxia - 4 vias autocopiativo",1259757,74,250,ATIVO,BLOCO,3375,13.5
+"Receituário B1- cor azul",1259758,71,10000,ATIVO,BLOCO,3000,0.3
+"Memorando interno - 2 vias autocopiativo",1259759,56,1200,ATIVO,BLOCO,3564,2.97
+"Laudo Médico para Procedimento de Alta Complexidade BPAI- 2",1259760,53,500,ATIVO,BLOCO,3145,6.29
+"Fluxo e contra-fluxo",1259761,49,2000,ATIVO,BLOCO,3180,1.59
+"Requisição para exame laboratório Municipal- Cabeçario cor l",1259762,89,1000,ATIVO,BLOCO,2300,2.3

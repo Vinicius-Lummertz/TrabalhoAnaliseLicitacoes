@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"café em pó, cx de 500gr",0,700,VENCEU," ",9870,14.1
+"ACUCAR REFINADO",0,1000,VENCEU," ",2250,2.25
+"LEITE DESNATADO",0,400,VENCEU," ",940,2.35
+"Pão frances",0,400,VENCEU," ",3320,8.3
+"Adoçante líquido",0,100,VENCEU," ",215,2.15
+"Queijo muzzarela fatiado",0,100,VENCEU," ",1890,18.9
+"presunto cozido",0,100,VENCEU," ",1750,17.5
+torrada,0,200,VENCEU," ",410,2.05
+MAIONESE,0,200,VENCEU," ",660,3.3
+"aroz branco",0,400,VENCEU," ",768,1.92
+"BISCOITO SALGADO",0,150,VENCEU," ",405,2.7
+"vinagre branco",0,100,VENCEU," ",105,1.05
+OLEO,0,200,VENCEU," ",610,3.05
+salsa,0,100,VENCEU," ",149,1.49
+SAL,0,100,VENCEU," ",105,1.05
+atum,0,300,VENCEU," ",945,3.15
+"refrigerante Pepsi, embalagem 2L",0,500,VENCEU," ",1845,3.69
+"pimenta preta",0,100,VENCEU," ",215,2.15
+"ABACAXI EM CALDA",0,100,VENCEU," ",575,5.75
+"Guardanapo de papel",0,1000,VENCEU," ",950,0.95
+"prato plástico, c/ 50 unid",0,1000,VENCEU," ",2050,2.05
+"garfo plastico, pacote 50 unidades",0,100,VENCEU," ",775,7.75
+"copo plástico",0,100,VENCEU," ",375,3.75
+"faca plástica",0,200,VENCEU," ",1550,7.75
+BACON,0,100,VENCEU," ",1330,13.3
+"prato de papelão",0,300,VENCEU," ",675,2.25
+"filtro de café de papel, número 3",0,100,VENCEU," ",235,2.35
+"Cebola cabeça",0,60,VENCEU," ",171,2.85
+"Tomate fruta",0,60,VENCEU," ",204,3.4
+"Alho cabeça",0,10,VENCEU," ",129,12.9
+"CARNE BOVINA",0,1500,VENCEU," ",27150,18.1
+"azeitona verde, com caroço",0,60,VENCEU," ",119.4,1.99

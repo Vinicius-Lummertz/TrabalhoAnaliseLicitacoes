@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa de gaze (tipo queijo).",1258906,44,400,ATIVO,ROLO,19460,48.65
+"Luva Cirúrgica estéril Nº. 7.5.",1258907,106,6000,ATIVO,PAR,5220,0.87
+"Luva Cirúrgica estéril Nº. 8.0.",1258908,107,3000,ATIVO,PAR,2610,0.87
+"Luva Cirúrgica estéril Nº. 8.5.",1258909,108,1000,ATIVO,PAR,840,0.84
+"Luva Cirúrgica estéril Nº. 9.0.",1258910,109,300,ATIVO,PAR,282,0.94
+"Luva Látex não Estéril p/ Procedimento - Tamanho G",1258911,111,8000,ATIVO,CAIXA,118320,14.79
+"Luva Látex não Estéril p/ Procedimento - Tamanho M",1258912,112,16000,ATIVO,CAIXA,236640,14.79
+"Luva Látex não Estéril p/ Procedimento - Tamanho P",1258913,113,13000,ATIVO,CAIXA,192270,14.79
+"Luva Látex não Estéril p/ Procedimento - Tamanho PP",1258914,114,400,ATIVO,CXA,5952,14.88
+"Luva Látex não Estéril p/ Procedimento Tamanho G ANTIALÉRGIC",1258915,115,30,ATIVO,CAIXA,677.4,22.58
+"Luva Látex não Estéril p/ Procedimento Tamanho M ANTIALÉRGIC",1258916,116,150,ATIVO,CAIXA,3388.5,22.59
+"Luva Látex não Estéril p/ Procedimento Tamanho P ANTIALÉRGIC",1258917,117,150,ATIVO,CAIXA,3388.5,22.59
+"Mandril Aço Inoxidável, para intubação Adulto",1258918,124,5,ATIVO,UNIDADE,137.5,27.5
+"Mandril Aço Inoxidável, para intubação Infantil",1258919,125,5,ATIVO,UNIDADE,137.5,27.5
+"Pêra de silicone para eletrocardiograma Tamanho adulto",1258920,138,10,ATIVO,conjunto,2195,219.5
+"Pêra de silicone para eletrocardiograma Tamanho infantil.",1258921,139,5,ATIVO,conjunto,1097.5,219.5
+"Seringa 10ml, sem agulha",1258922,150,25000,ATIVO,UNIDADE,6375,0.255
+"Seringa descartável para insulina capacidade de 50 ui",1258923,152,1800000,ATIVO,UNIDADE,315000,0.175
+"Sonda de borracha (látex natural),calibre nº 12",1258924,162,10,ATIVO,CAIXA,209.9,20.99

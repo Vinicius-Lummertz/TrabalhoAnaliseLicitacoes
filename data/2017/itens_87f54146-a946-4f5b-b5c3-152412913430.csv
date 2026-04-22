@@ -1,0 +1,25 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Enrofloxacina 2,5 %",1261106,11,20,ATIVO,FRASCO,340,17
+"LANTERNA ULTRA VIOLETA",1261108,35,6,ATIVO,UNIDADE,894,149
+"Pinça anatômica",1261109,34,6,ATIVO,UNIDADE,162,27
+"Lanterna recarregável",1261110,33,6,ATIVO,UNIDADE,474,79
+"Conjunto com capuz impermeável",1261111,31,50,ATIVO,UNIDADE,400,8
+"Luvas de vaqueta (luva de eletricista)",1261112,30,6,ATIVO,PAR,171,28.5
+AVENTAL,1261113,29,4,ATIVO,UNIDADE,35.6,8.9
+"Protetor Auditivo",1261114,28,4,ATIVO,UNIDADE,132,33
+"BOTA DE BORRACHA BRANCA",1261115,27,6,ATIVO,PAR,270,45
+"Bota de borracha preta n 38",1261116,26,2,ATIVO,PAR,90,45
+"bota de borracha preta",1261117,25,2,ATIVO,PAR,90,45
+"Aplicador de injeção à distância",1261118,24,1,ATIVO,UNIDADE,145,145
+"Xarope expectorante e fluidificante",1261119,23,1,ATIVO,FRASCO,53,53
+"Sulfametoxazol e trimetoprim",1261121,20,150,ATIVO,COMPRIMIDO,555,3.7
+"Solução otológica para cães e gatos",1261122,18,2,ATIVO,FRASCO,180,90
+"Vacina viva atenuada para cães e gatos (polivalente)",1261123,22,200,ATIVO,FRASCO,2800,14
+"CETOCONAZOL 200 MG",1261124,12,40,ATIVO,COMPRIMIDO,380,9.5
+Nitenpiram,1261128,15,60,ATIVO,COMPRIMIDO,714,11.9
+"CLORETO DE POTÁSSIO 19,1% SOL  INJ",1261133,2,50,ATIVO,AMPOLA,135,2.7
+"Ampicilina Sódica 1g (injetável)",1261134,3,15,ATIVO,FRASCO,555,37
+"cloridrato de cetamina 10%",1261135,6,10,ATIVO,FRASCO,250,25
+"Colírio oftálmico para cães e gatos",1261136,8,1,ATIVO,FRASCO,145,145
+"dexametasona injetável",1261137,9,5,ATIVO,FRASCO,44.5,8.9
+Doramectina,1261138,10,10,ATIVO,FRASCO,220,22

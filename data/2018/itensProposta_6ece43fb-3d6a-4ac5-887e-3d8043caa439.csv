@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho Microondas, capac. 22lt, na cor branca",4433107,2,INABILITADO,UNI,840,420
+"Refrigerador tipo doméstico 2 portas",4433109,1,PERDEU,UN,1490,1490
+FRIGOBAR,4433110,3,PERDEU,UNI,2907,969
+"Televisor colorido 42 polegadas",4433111,1,PERDEU,UNI,1999,1999
+"Aparelho telefônico convencional de mesa com fio.",4433112,23,PERDEU,UN,988.77,42.99
+"Aparelho telefônico convencional de mesa, sem fio",4433113,5,DESCLASSIFICADO,UN,1150,230
+"Head fone  com Headset Possuir fone de ouvido com microfone",4433114,1,PERDEU,UN,159,159

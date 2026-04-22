@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Switch 24 p",0,3,PERDEU," ",1986,662
+"RACK 7 US",0,2,PERDEU," ",476,238
+"CENTRAL TELEFONICA",0,1,PERDEU," ",883,883
+"Switch 8 p",0,1,PERDEU," ",82,82
+"CANALETA 20 X 10",0,155,PERDEU," ",285.2,1.84
+"Canaleta 50 x 20",0,95,PERDEU," ",382.85,4.03
+"CABO LAN",0,1860,PERDEU," ",1767,0.95
+"Fio Eletrico2,5mm",0,1920,PERDEU," ",1824,0.95
+"Cx Sistema 3 x 3",0,133,PERDEU," ",344.47,2.59
+KEYSTONE,0,88,PERDEU," ",289.52,3.29
+"Espelho tomada eletrica 2p + t",0,70,PERDEU," ",79.8,1.14
+"BUCHA NO. 6",0,1050,PERDEU," ",630,0.6
+"Parafuso no. 6",0,1049,PERDEU," ",52.45,0.05
+"Etiqueta identificação.",0,162,PERDEU," ",30.78,0.19
+"FITA ISOLANTE.",0,12,PERDEU," ",33.24,2.77
+"ESPELHO 2 FUROS",0,70,PERDEU," ",212.8,3.04
+"CONECTOR RJ 45",0,25,PERDEU," ",8.5,0.34
+"Patch Cord 1,5 m",0,10,PERDEU," ",39.8,3.98
+"Patch Cord 2,5 m",0,3,PERDEU," ",14.67,4.89
+"MAO DE OBRA.",0,280,PERDEU," ",16794.4,59.98

@@ -1,0 +1,33 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amitriptilina , cloridrato 25mg",1258530,24,1500000,ATIVO,COMPRIMIDO,64500,0.043
+"Prometazina, cloridrato 25mg",1258533,216,280000,ATIVO,COMPRIMIDO,16800,0.06
+"Prednisona 5mg",1258535,213,220000,ATIVO,COMPRIMIDO,14960,0.068
+"Prednisona 20mg",1258536,212,400000,ATIVO,COMPRIMIDO,54800,0.137
+"Naloxona, Hidrocloreto 0,4mg/mL 1ml",1258537,193,180,ATIVO,AMP,752.4,4.18
+"Morfina 30 mg",1258538,192,1500,ATIVO,COMPRIMIDO,1170,0.78
+"Morfina 10mg/mL INJETÁVEL 1ML",1258539,191,2000,ATIVO,AMP,3440,1.72
+"Mepicavaina sem vasoconstritor 3% 1,8ml",1258540,176,500,ATIVO,Tubete,445,0.89
+"Lidocaina, cloridrato 100mg/mL spray c/ 100 ml",1258541,170,20,ATIVO,UNIDADE,777.8,38.89
+"Levomepromazina, maleato liquido",1258542,161,50,ATIVO,FRASCO,344.5,6.89
+"Levomepromazina, maleato 25mg",1258543,160,120000,ATIVO,COMPRIMIDO,27360,0.228
+"Levomepromazina, maleato 100mg",1258544,159,150000,ATIVO,COMPRIMIDO,91050,0.607
+"Imipramina 25mg blíster fracionável",1258545,145,400000,ATIVO,COMPRIMIDO,65600,0.164
+"Heparina 5000 UI/0,25mL",1258546,136,8000,ATIVO,AMP,27200,3.4
+"Haloperidol 1mg.",1258547,132,50000,ATIVO,COMPRIMIDO,5300,0.106
+"Prometazina 50mg/2ml",1258548,215,6000,ATIVO,AMP,7014,1.169
+"Fenobarbital 40mg/mL - solução oral- 20ml frasco ambar",1258549,116,1000,ATIVO,FRASCO,2690,2.69
+"Fitomenadiona 10mg/ml solução injetavel 5ml",1258550,118,100,ATIVO,AMP,89,0.89
+"Biperideno, cloridrato 2mg",1258551,43,100000,ATIVO,COMPRIMIDO,16500,0.165
+"Biperideno, cloridrato 5mg/mL 1ml",1258552,44,500,ATIVO,AMP,730,1.46
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml",1258553,50,100,ATIVO,FRASCO,1822,18.22
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml",1258554,51,200,ATIVO,FRASCO,3396,16.98
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml",1258555,52,100,ATIVO,FRASCO,1899,18.99
+"Clonazepam 2mg.",1258556,74,1500000,ATIVO,COMPRIMIDO,109500,0.073
+"Clorpromazina, cloridrato 100mg",1258557,80,250000,ATIVO,COMPRIMIDO,42500,0.17
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml",1258558,49,200,ATIVO,FRASCO,3138,15.69
+"Clorpromazina, cloridrato 40mg/mL gotas",1258559,82,600,ATIVO,FRASCO,2586,4.31
+"Colagenase 0,6UI/g pomada 30g",1258560,84,5000,ATIVO,BISNAGA,58900,11.78
+"Diazepam 10mg.",1258561,88,900000,ATIVO,COMPRIMIDO,31500,0.035
+"Diazepam 5mg",1258562,89,30000,ATIVO,COMPRIMIDO,1050,0.035
+"Fenobarbital 100mg.",1258563,114,180000,ATIVO,COMPRIMIDO,15660,0.087
+"Clorpromazina, cloridrato 25mg",1258564,81,180000,ATIVO,COMPRIMIDO,31320,0.174

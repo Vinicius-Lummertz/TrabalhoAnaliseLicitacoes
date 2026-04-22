@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Notebook,4368311,2,VENCEU,UND,7920,3960
+"CAIXA DE SOM MULTIUSO",4368312,1,PERDEU,UND,916,916
+"MIDIA DVD GRAVÁVEL",4368313,300,VENCEU,UND,252,0.84
+"Projetor Multimídia",4368314,2,VENCEU,UND,4198,2099

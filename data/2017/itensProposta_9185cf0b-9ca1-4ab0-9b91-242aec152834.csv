@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ponto de Acesso sem Fio,Acess Point (Wireless)",0,8,NAO_COTOU," ",0,0
+"TRANSCEIVER MINI GBIC 1000BASE - SX SFP",0,80,NAO_COTOU," ",40080,501
+"SWITCH DE ACESSO GERENCIÁVEL DE 48 PORTAS",0,20,NAO_COTOU," ",32220,1611
+"SWITCH CORE (CHASSIS) GERENCIAVEL 40 PORTAS",0,1,NAO_COTOU," ",95899,95899

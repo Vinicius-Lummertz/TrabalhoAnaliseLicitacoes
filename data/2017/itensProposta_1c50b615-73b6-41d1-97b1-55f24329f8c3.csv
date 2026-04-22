@@ -1,0 +1,49 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulhas hipodérmicas 13mmX4,5mm",4431276,50000,DESCLASSIFICADO,CX,4100,0.082
+"Agulhas hipodérmicas 25mmX 7mm",4431279,85000,PERDEU,UNI,6800,0.08
+"Agulhas hipodérmicas 25mmX8mm",4431280,10000,PERDEU,UNI,800,0.08
+"Agulhas hipodérmicas 30mmX8mm",4431281,20000,DESCLASSIFICADO,UNI,1680,0.084
+"Agulhas hipodérmicas 40mmX12mm",4431282,90000,DESCLASSIFICADO,UNI,8460,0.094
+"Algodão Hidrófilo, 100% algodão alvejado,",4431285,400,PERDEU,UN,3396,8.49
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4431328,6000,DESCLASSIFICADO,UNI,20520,3.42
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4431329,5000,DESCLASSIFICADO,UNI,13100,2.62
+"Compressa Cirúrgica - Campo Operatório ñ descart.- Pct c/50",4431330,1000,DESCLASSIFICADO,PCT,74990,74.99
+"Detergente Multienzimático.",4431338,500,CANCELADO,L,11675,23.35
+"Detergente multienzimático- galão de 4 a 5 litros",4431339,150,CANCELADO,GL,14797.5,98.65
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",4431344,12000,PERDEU,UNI,2640,0.22
+"Dispositivo para infusão endovenosa, n° 21 (apelido scalp).",4431345,36000,PERDEU,UNI,7920,0.22
+"Dispositivo para infusão endovenosa, n° 23 (apelido scalp).",4431346,36000,PERDEU,UNI,7920,0.22
+"Dispositivo para infusão endovenosa, n° 25 (apelido scalp)",4431347,12000,DESCLASSIFICADO,UNI,2640,0.22
+"Dispositivo para infusão endovenosa, n° 27 (apelido scalp).",4431348,2000,DESCLASSIFICADO,UNI,440,0.22
+"Envelopes auto selantes 90mmx160mm",4431356,300,PERDEU,CX,6150,20.5
+"Envelopes auto selantes 150mmx250mm",4431357,50,PERDEU,CX,1642.5,32.85
+"Esparadrapo Impermeável e Antialérgico, com capa 5cm x 4,5m",4431363,15000,PERDEU,UNI,45750,3.05
+"Esparadrapo Impermeável e Antialérgico, com capa 10cm x 4,5m",4431364,9000,PERDEU,UNI,45450,5.05
+"Filme para Ultrassonografia",4431369,100,PERDEU,ROLO,8765,87.65
+"Fita adesiva para teste de esterilização em Autoclave;",4448381,1000,PERDEU,ROLO,3040,3.04
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4448382,10000,PERDEU,UNI,17400,1.74
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",4448383,13000,PERDEU,UNI,35490,2.73
+"Frasco para nutrição enteral capacidade 300mL",4448385,12000,PERDEU,UNI,9360,0.78
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",4448387,2000,PERDEU,UNI,2740,1.37
+"Lanceta do profissional de saúde",4448403,20000,DESCLASSIFICADO,UNI,7000,0.35
+"LUVA CIRURGICA 6,5 ESTERIL",4448407,2000,VENCEU,PAR,1920,0.96
+"Luva Cirúrgica  estéril, Látex elasticidade. Nº. 7.0",4448408,3000,VENCEU,PAR,2880,0.96
+"Luva Cirúrgica estéril Nº. 7.5",4448409,2500,VENCEU,PAR,2400,0.96
+"Luva Cirúrgica estéril Nº. 8.0.",4448410,2000,VENCEU,PAR,1920,0.96
+"Luva Cirúrgica estéril Nº. 8.5",4448411,1000,VENCEU,PAR,960,0.96
+"Luva Cirúrgica estéril Nº. 9.0",4448412,200,VENCEU,PAR,198,0.99
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho G",4448414,2000,VENCEU,CXA,28780,14.39
+"Luva Látex não  Estéril  p/Procedimento  Tamanho MCaixa com",4448415,1500,VENCEU,CX,21525,14.35
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho P Caixa co",4448417,1625,VENCEU,CX,23188.75,14.27
+"Luva Látex não Estéril p/ Procedimento  Tamanho PP",4448419,2000,VENCEU,CX,28480,14.24
+"lUVA NITRILICA NÃO ESTERIL P PROCEDIMENTO TAM. G",4448420,100,VENCEU,CX,1529,15.29
+"LUVA NITRILICA P/ PROCEDIMENTO TAM. M",4448421,200,VENCEU,CX,3078,15.39
+"LUVA NITRILICA NÃO ESTERIL P/ PROCEDIMENTO TAM. P",4448422,500,VENCEU,CXA,7695,15.39
+"LUVA NITRILICA NAO ESTERIL PARA PROCEDIMENTO TAM. PP",4448423,100,VENCEU,CXA,1539,15.39
+"Mascara cirúrgica descartável cx c/ 50 unid cor branca",4448443,100,VENCEU,CX,486,4.86
+"SERINGA 10ML  S/ AGULHA",4448455,35000,PERDEU,UN,8400,0.24
+"SERINGA 20 ML S/ AGULHA",4448456,15000,PERDEU,UN,6300,0.42
+"SERINGA 3ML S/ AGULHA",4448457,30000,PERDEU,UN,3900,0.13
+"SERINGA 5ML S/ AGULHA",4448458,36000,PERDEU,UN,5400,0.15
+"Seringa 60 ml sem agulha",4448459,300,PERDEU,UNI,759,2.53
+"Touca descartável",4448525,50,VENCEU,PCT,268.5,5.37

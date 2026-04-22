@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Betametasona, diproprionato +  betametasona fosfato 1ml",4427710,800,DESCLASSIFICADO,AMP,3880,4.85
+"Brometo de N-butilescopolamina 20mg/ml",4427714,8000,VENCEU,AMP,5920,0.74
+"Carbamazepina 200mg.",4427723,1300000,DESCLASSIFICADO,COMP,134550,0.1035
+"Carbamazepina 20mg/mL",4427724,1700,DESCLASSIFICADO,FR.,11390,6.7
+"Clindamicina 300mg.",4427739,2000,VENCEU,CPLA,2762.6,1.3813
+"Clonazepam 2,5mg/mL 20ml",4427741,3000,PERDEU,FR.,8700,2.9
+"Clorpromazina, cloridrato 100mg",4427748,250000,PERDEU,COMP,43750,0.175
+"Dexametasona 0,1% colírio",4427753,50,VENCEU,FR.,190,3.8
+"Diclofenaco sódico 50mg",4427759,600000,DESCLASSIFICADO,COMP,42000,0.07
+"Dimenidrato 50mg + piridoxina 50mg/mL 1ml",4427763,18000,VENCEU,AMP,20214,1.123
+"Dipirona 500mg/ml 2ml",4427767,18000,PERDEU,AMP,7920,0.44
+"Dopamina 50 mg/ 10 ml",4427769,500,PERDEU,AMP,349,0.698
+"Doxazosina 2 mg",4427770,30000,DESCLASSIFICADO,COMP,10350,0.345
+"Enalapril, maleato 10mg",4427772,3000000,DESCLASSIFICADO,COMP,285000,0.095
+"Fenobarbital 100mg.",4427782,180000,DESCLASSIFICADO,COMP,22770,0.1265
+"Flumazenil 0,1mg/mL injetável 5ml",4427788,80,INABILITADO,AMP,2220,27.75
+"Haloperidol 5mg",4427801,180000,VENCEU,COMP,20700,0.115
+"Haloperidol, decanoato 70,52mg/mL 1ml",4427803,2000,PERDEU,AMP,13800,6.9
+"Hidrocortisona 100mg",4427806,6000,VENCEU,FR/AM,17400,2.9
+"Hidrocortisona 500mg",4427808,5000,PERDEU,FR/AM,32250,6.45
+"Lidocaina sem vaso constritor 2% 20ml",4427837,8000,DESCLASSIFICADO,FR/AM,24840,3.105
+"Medroxiprogesterona 150mg/mL 1ml",4427842,2000,VENCEU,AMP,17700,8.85
+"Midazolam, maleato 5mg/mL 3ml",4427857,1200,PERDEU,COMP,1311.6,1.093
+"Neomicina 5mg + Bacitracina 250 UI/g pomada 10g",4427862,44000,DESCLASSIFICADO,BIS,61600,1.4
+"Petidina, cloridrato 50mg/mL 2ml",4427877,800,VENCEU,AMP,1140.8,1.426
+"Risperidona 1mg",4427888,20000,VENCEU,COMP,3910,0.1955
+"Risperidona 2mg",4427889,20000,VENCEU,COMP,4460,0.223
+"Tenoxicam 20 mg pó para solução injetável com solução diluen",4427904,4500,VENCEU,AMP,16650,3.7
+"Terbutalina, Sulfato 0,5mg/mL solução injetável 1ml",4427905,600,VENCEU,AMP,672,1.12
+"Tropicamida 1% solução oftalmica 5ml",4427912,180,VENCEU,FR.,1494,8.3
+"Varfarina sódica 5 mg",4427913,50000,DESCLASSIFICADO,COMP,5175,0.1035

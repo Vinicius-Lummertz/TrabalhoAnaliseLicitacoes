@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa descartável de 3 ml com agulha de 25 x 0,70",1258122,11,500,ATIVO,UNIDADE,375,0.75
+"Vacina déctupla",1258123,13,200,ATIVO,UNIDADE,4000,20
+"Diazepam 10 mg .",1258124,15,2,ATIVO,CAIXA,10,5
+"Focinheira polipropileno com velcro nº 0",1258125,21,10,ATIVO,UNIDADE,50,5
+"Focinheira polipropileno com velcro nº 1",1258126,22,10,ATIVO,UNIDADE,50,5
+"Focinheira polipropileno com velcro nº 2",1258127,23,10,ATIVO,UNIDADE,55,5.5
+"Focinheira polipropileno com velcro nº 3",1258128,24,10,ATIVO,UNIDADE,65,6.5
+"Focinheira polipropileno com velcro nº 4",1258129,25,10,ATIVO,UNIDADE,95,9.5
+"Colar elizabetano polipropileno nº 1",1258130,27,10,ATIVO,UNIDADE,106,10.6
+"Colar elizabetano polipropileno nº 2",1258131,28,10,ATIVO,UNIDADE,110.6,11.06
+"Colar elizabetano polipropileno nº 3",1258132,29,10,ATIVO,UNIDADE,123.8,12.38
+"Colar elizabetano polipropileno nº 5",1258133,31,10,ATIVO,UNIDADE,154.6,15.46
+"Colar elizabetano polipropileno nº 6",1258134,32,10,ATIVO,UNIDADE,160,16
+"Colar elizabetano polipropileno nº 7",1258135,33,10,ATIVO,UNIDADE,163.6,16.36
+"Colar elizabetano polipropileno nº 8",1258136,34,10,ATIVO,UNIDADE,173.7,17.37
+"Colar elizabetano polipropileno nº 4",1258137,30,10,ATIVO,UNIDADE,143.7,14.37
+"Shampoo para cães e gatos, neutro, galão de 5 litros",1258138,38,10,ATIVO,GALAO,855,85.5
+"Colar elizabetano polipropileno nº 9",1258141,35,10,ATIVO,UNIDADE,180,18
+"Máscara de proteção respiratória",1258151,43,200,ATIVO,UNIDADE,194,0.97

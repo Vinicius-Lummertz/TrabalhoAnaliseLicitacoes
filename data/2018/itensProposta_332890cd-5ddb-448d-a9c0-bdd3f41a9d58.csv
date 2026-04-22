@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Multi-exercitador conjugado com 6 funções distintas",0,3,VENCEU," ",5400,1800
+"SIMULADOR DE CAVALGADA DUPLO CONJUGADO",0,2,VENCEU," ",2200,1100
+"ALONGADOR COM TRÊS ALTURAS CONJUGADO",0,2,VENCEU," ",1400,700
+"SURF DUPLO CONJUGADO",0,2,VENCEU," ",1700,850
+"Pressão de pernas dupla conjugada",0,2,VENCEU," ",1800,900
+"SIMULADOR DE CAMINHADA DUPLO CONJUGADO",0,2,VENCEU," ",2200,1100
+"ESQUI DUPLO CONJUGADO",0,3,VENCEU," ",3900,1300
+"Bicicleta dupla galvanizado",0,1,VENCEU," ",1300,1300
+"Rotação diagonal triplo galvanizado",0,1,VENCEU," ",1200,1200
+"Placa orientativa frente x verso",0,3,VENCEU," ",2700,900

@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bacia na cor branca capacidade 13,5 litros",4344445,72,VENCEU,UND,780.48,10.84
+"Bacia na cor branca capacidade 8 litros",4344446,72,VENCEU,UND,492.48,6.84
+"Bacia na cor branca capacidade 34 litros",4344447,72,VENCEU,UND,1431.36,19.88
+"Bandeja de plástico ou polietileno reforçado",4344448,72,NAO_COTOU,UND,0,0
+"Caixa organizadora de Plástico",4344449,144,VENCEU,UND,8148.96,56.59
+"CANECA ESCOLAR capacidade  300 ml.",4344450,2605,DESCLASSIFICADO,UND,38814.5,14.9
+"CANECA ESCOLAR capacidade  420 ml.",4344451,5000,DESCLASSIFICADO,UND,74500,14.9
+"Cesto Expositor  Empilhável",4344452,50,NAO_COTOU,UND,0,0
+"Colher  grande",4344453,72,NAO_COTOU,UND,0,0
+"Colher  maciça em Polietileno",4344454,72,NAO_COTOU,UND,0,0
+"Colher de sobremesa",4344455,2685,INABILITADO,UND,5343.15,1.99
+"Colher de sopa",4344456,3000,INABILITADO,UND,5970,1.99
+"Concha em alumínio nº 12",4344457,50,PERDEU,UND,1495,29.9
+"Escumadeira em alumínio nº 12,5",4344458,48,PERDEU,UND,1435.2,29.9
+"Faca tipo açougueiro.",4344459,72,VENCEU,UND,928.8,12.9
+"Faca para cozinha 7",4344460,72,VENCEU,UND,843.12,11.71
+"Forma de alumínio, medindo 60cmx40cmx4 cm",4344461,28,NAO_COTOU,UND,0,0
+"Forma de alumínio, medindo no mínimo 30cmx40cmx4cm.",4344462,28,VENCEU,UND,1390.2,49.65
+Jarra,4344463,150,PERDEU,UND,1785,11.9
+"Panela capacidade aproximada de 32,5 litros.",4344464,12,DESCLASSIFICADO,UND,2158.8,179.9
+"Panela capacidade aproximada de 22,,50 litros.",4344465,28,DESCLASSIFICADO,UND,3917.2,139.9
+"Panela capacidade aproximada de 15,3  litros.",4344466,36,PERDEU,UND,3058.2,84.95
+"Panela capacidade aproximada de 5,6  litros.",4344467,28,DESCLASSIFICADO,UND,1957.2,69.9
+"Panela de pressão capacidade 20,8 litros.",4344468,24,PERDEU,UND,8613.6,358.9
+"Panela de pressão capacidade 11  litros.",4344469,28,INABILITADO,UND,5317.2,189.9
+"PRATOS DE VIDRO",4344470,4000,DESCLASSIFICADO,UND,59600,14.9
+"Socador de feijão em polietileno",4344471,72,NAO_COTOU,UND,0,0
+"Tábua (placa de corte).",4344472,72,PERDEU,UND,2152.8,29.9

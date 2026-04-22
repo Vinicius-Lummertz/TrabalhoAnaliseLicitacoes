@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Organizador (caixa plástica)",4427131,10,PERDEU,UN,500,50
+"Fichário de mesa",4427132,5,PERDEU,UN,390,78
+"Lixeira em polietileno resistente, capac. 40 litros Acompanh",4427136,5,INABILITADO,UN,591.75,118.35
+"Lixeira em polietileno resistente, capac. 40 litros",4427137,5,PERDEU,UN,591.75,118.35
+"Aparelho telefônico convencional de mesa com fio.",4427139,4,PERDEU,UN,234,58.5
+"Fogão 4 bocas",4427141,1,PERDEU,UN,499,499
+"APARELHO DVD",4427142,1,PERDEU,UNI,147.75,147.75
+"Refrigerador tipo doméstico 1 porta.",4427143,1,DESCLASSIFICADO,UN,1489,1489
+"Refrigerador tipo doméstico 2 portas",4427144,2,DESCLASSIFICADO,UN,3978,1989
+"Televisor colorido 40 polegadas",4427145,1,DESCLASSIFICADO,UN,2385,2385
+"Bebedouro elétrico de coluna",4427146,2,DESCLASSIFICADO,UN,1376.34,688.17
+"MICROCOMPUTADOR LINUX",4427147,8,DESCLASSIFICADO,UN,16800,2100
+"MICROCOMPUTADOR WINDOWS",4427148,2,DESCLASSIFICADO,UN,5700,2850

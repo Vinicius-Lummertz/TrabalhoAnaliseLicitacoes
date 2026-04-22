@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bancada de Pia Inox 1 cuba 1,80m",4346041,5,DESCLASSIFICADO,UND,13500,2700
+"Bancada de pia inox 2 cubas 2,80m",4346042,2,DESCLASSIFICADO,UND,8700,4350
+"Mesa Inox Lisa de 1,40m",4346043,7,DESCLASSIFICADO,UND,9450,1350
+"Pia de Assepsia",4346044,6,PERDEU,UND,4800,800
+"Dispenser p/ Papel Toalha",4346045,6,NAO_COTOU,UND,0,0
+"Dispenser para sabonete líquido",4346046,6,NAO_COTOU,UND,0,0
+"Fogão 06 bocas",4346047,1,PERDEU,UND,898,898
+"Fogão industrial 4 bocas",4346048,4,VENCEU,UND,2172,543
+"Geladeira Duplex 475 L",4346049,4,PERDEU,UND,10876,2719
+"Coifa Exaustora",4346050,4,PERDEU,UND,12236,3059
+"Tela Mosquiteira",4346051,8,NAO_COTOU,UND,0,0
+"Tela Proteção Lampada",4346052,16,NAO_COTOU,UND,0,0
+"CADEIRAS PLÁSTICAS",4346053,6,NAO_COTOU,UND,0,0
+"Mesa Plastica",4346054,1,NAO_COTOU,UND,0,0
+Microondas,4346055,1,VENCEU,UND,380,380
+"Roupeiro em aço 16 portas",4346056,1,PERDEU,UND,645,645

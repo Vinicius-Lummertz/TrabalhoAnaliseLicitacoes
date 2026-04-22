@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SALGADOS FRITOS",0,300,DESCLASSIFICADO," ",13500,45
+"SALGADOS ASSADOS",0,300,DESCLASSIFICADO," ",16500,55
+"Tortas doces",0,20,DESCLASSIFICADO," ",420,21
+"Tortas salgadas",0,20,DESCLASSIFICADO," ",420,21
+Empadão,0,10,DESCLASSIFICADO," ",210,21
+"Suco natural 5 Litros",0,50,DESCLASSIFICADO," ",750,15
+"CAFÉ COM LEITE",0,30,DESCLASSIFICADO," ",165,5.5
+"Bolos em geral",0,10,DESCLASSIFICADO," ",120,12
+"Refrigerantes em geral (2 litros cada)",0,30,DESCLASSIFICADO," ",120,4
+"Rosca cavaquinho",0,10,DESCLASSIFICADO," ",120,12
+Cavaquinho,0,5,DESCLASSIFICADO," ",60,12
+"Doces em geral",0,100,DESCLASSIFICADO," ",5000,50
+"Sanduíches grandes (pão de forma, salada, queijo e presunto)",0,150,DESCLASSIFICADO," ",375,2.5
+"Salgados finos (barquetes, canapés, empadas)",0,50,DESCLASSIFICADO," ",5750,115
+"Sonho assado",0,10,DESCLASSIFICADO," ",90,9
+"Sanduíches pequenos (pão  pequeno, salada, queijo e presunto",0,15,DESCLASSIFICADO," ",975,65

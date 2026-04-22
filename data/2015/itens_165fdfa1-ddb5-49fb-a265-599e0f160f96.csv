@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Par de pás para utilização em paciente PEDIÁTRICO",1273880,18,5,ATIVO,UNIDADE,4750,950
+"Par de pás para utilização em paciente ADULTO",1273881,17,15,ATIVO,UNIDADE,5250,350
+"KIT QUEIMADURA",1273882,16,5,ATIVO,UNIDADE,342.5,68.5
+"KIT PARTO",1273883,15,12,ATIVO,UNIDADE,462,38.5

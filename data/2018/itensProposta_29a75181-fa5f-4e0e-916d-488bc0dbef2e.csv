@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assinatura mensal",0,1500,PERDEU," ",10995,7.33
+"Chamadas VC1 (Ligações entre a mesma operadora, outras opera",0,180000,PERDEU," ",43200,0.24
+"Chamadas VC2/VC3 da mesma operadora",0,4200,PERDEU," ",1512,0.36
+"Chamadas VC2/VC3 de outras operadoras",0,4200,PERDEU," ",3360,0.8
+"Chamadas VC2/VC3 de fixo",0,4200,PERDEU," ",2772,0.66
+"Serviço intragrupo  zero local para linhas do mesmo CNPJ",0,1500,PERDEU," ",10500,7
+"Sistema de Gestão Online",0,1500,PERDEU," ",6945,4.63
+"Pacote de dados móveis 5GB",0,36,PERDEU," ",2157.48,59.93
+"Pacote de dados móveis 3GB",0,36,PERDEU," ",1797.48,49.93
+"Pacote de dados móveis 1GB",0,540,PERDEU," ",19764,36.6
+"Pacote de dados móveis 100MB",0,240,PERDEU," ",2988,12.45
+"Pacote de no mínimo 250 SMS compartilhados",0,12,PERDEU," ",533.64,44.47

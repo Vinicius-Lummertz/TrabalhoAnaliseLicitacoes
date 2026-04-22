@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit Completo de Réplicas dos Alimentos + Banner Pirâmide Bra",4430246,7,VENCEU,KIT,8120,1160
+"Réplica de repolho verde - metade",4430247,7,PERDEU,UN,448,64
+"Réplica de repolho roxo - metade",4430248,7,PERDEU,UN,483,69
+"Réplica de pão de centeio - fatia",4430249,14,VENCEU,UN,553,39.5
+"Réplica de milho cozido - porção",4430250,7,VENCEU,UN,472.64,67.52
+"Réplica de ervilha cozida - porção",4430251,7,VENCEU,UNI,472.64,67.52

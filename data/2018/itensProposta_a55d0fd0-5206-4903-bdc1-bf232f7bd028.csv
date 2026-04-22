@@ -1,0 +1,100 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cadeiras com 4 pés curvos de 0,55m, acentos 0,35x0,35m tranç",0,24,NAO_COTOU," ",0,0
+"Caibro de cambará 0,10x0,05m",0,100,NAO_COTOU," ",0,0
+"Deck de itaúba 0,09 x 0,02m",0,35,NAO_COTOU," ",0,0
+"Pranchas de madeira em cedrilho bruta 2,0x0,40x0,04m",0,6,NAO_COTOU," ",0,0
+"Pranchas de madeira em cedrilho bruta 2,5x0,40x0,04m",0,6,NAO_COTOU," ",0,0
+"Ripas de madeira 1,30 x 0,10 x 0,02m, chanfrado (com raio de",0,90,NAO_COTOU," ",0,0
+"Ripas de madeira 1,30 x 0,15 x 0,02m, chanfrado (com raio de",0,60,NAO_COTOU," ",0,0
+"Sarrafo cedrilho para contraventamento 3x4",0,100,NAO_COTOU," ",0,0
+"Banco em concreto 1,50m com encosto, sem pintura, pés com 0,",0,40,VENCEU," ",15736,393.4
+"Mesas em concreto, com tabuleiro de xadrez, 0,80x0,80m com 4",0,8,VENCEU," ",4780,597.5
+"Pés dos bancos em concreto, resistência mínima de 30 MPa",0,90,VENCEU," ",10040.4,111.56
+"Adaptador Marron Curto 25x3/4",0,10,NAO_COTOU," ",0,0
+"Adaptador Marron Curto 50x1,1/2",0,2,NAO_COTOU," ",0,0
+"Alça De Apoio 80cm",0,4,NAO_COTOU," ",0,0
+"Armario Pequeno Com Espelho Branco",0,2,NAO_COTOU," ",0,0
+"Assento Almofada Herc Conv. Branco",0,4,NAO_COTOU," ",0,0
+"Base Giratoria P/Rele - Linsa P/Celesc",0,2,NAO_COTOU," ",0,0
+"Bucha Reducao Soldavel Longa 50x25",0,3,NAO_COTOU," ",0,0
+"Cabo Flex 750v- 1,50mm - cores variadas",0,350,NAO_COTOU," ",0,0
+"Cabo Flex 750v- 2,50mm- cores variadas",0,550,NAO_COTOU," ",0,0
+"Cabo Flex 750v- 4,00mm- cores variadas",0,180,NAO_COTOU," ",0,0
+"Cabo Flex- Epr 90- 16,0mm - cores variadas",0,50,NAO_COTOU," ",0,0
+"Cabo Flex- Epr 90- 25,0mm - cores variadas",0,100,NAO_COTOU," ",0,0
+"Caixa Cd Ext P/27+G Din Trif C/B 80a Br",0,1,NAO_COTOU," ",0,0
+"Caixa De Gordura Concreto 0,30x0,30",0,2,NAO_COTOU," ",0,0
+"Caixa De Gordura Concreto 0,40x0,40",0,1,NAO_COTOU," ",0,0
+"Caixa Sifonada 150 X 150 X 50 Branca",0,4,NAO_COTOU," ",0,0
+"Chapa de ferro 1,01m x 0,66m x 2mm",0,1,NAO_COTOU," ",0,0
+"Contator 220v Azul",0,1,NAO_COTOU," ",0,0
+"Curva 120mm inox",0,1,NAO_COTOU," ",0,0
+"DISJUNTOR MONOF. MDW C 10",0,3,NAO_COTOU," ",0,0
+"Disjuntor Monof. Mdw C 20",0,5,NAO_COTOU," ",0,0
+"Disjuntor Monof. Mdw C 25",0,2,NAO_COTOU," ",0,0
+"Disjuntor Trifásico Mdw C70-3",0,1,NAO_COTOU," ",0,0
+"Disjuntor Trifásico Mdw C80-3",0,1,NAO_COTOU," ",0,0
+"Eletroduto Preto 3/4 Corrugado",0,60,NAO_COTOU," ",0,0
+"Embutido Solo Pto Led 18w 2700k",0,2,NAO_COTOU," ",0,0
+"Engate Flexivel 1/2 40cm",0,7,NAO_COTOU," ",0,0
+"Espude Vaso Sanitario",0,4,NAO_COTOU," ",0,0
+"Forno inox marmorite, para fogão a lenha",0,1,NAO_COTOU," ",0,0
+"Interruptor   80a 4p 30ma",0,1,NAO_COTOU," ",0,0
+"INTERRUPTOR SIMPLES",0,7,NAO_COTOU," ",0,0
+"Joelho Esgoto 45x40mm",0,2,NAO_COTOU," ",0,0
+"Joelho Esgoto Branco 100mm",0,9,NAO_COTOU," ",0,0
+"Joelho Esgoto Branco 40mm",0,8,NAO_COTOU," ",0,0
+"Joelho Esgoto Branco 50MM",0,10,NAO_COTOU," ",0,0
+"Joelho Esgoto Branco 75mm",0,2,NAO_COTOU," ",0,0
+"Joelho Esgoto Branco DN100",0,3,NAO_COTOU," ",0,0
+"Joelho Lr Bucha 25mmx1/2",0,5,NAO_COTOU," ",0,0
+"Joelho Soldavel Marrom 25mm",0,18,NAO_COTOU," ",0,0
+"Joelho Soldavel Marrom 50mm",0,9,NAO_COTOU," ",0,0
+"L/E Caixa Padrao Branco",0,2,NAO_COTOU," ",0,0
+"L/E Caixa Padrao Branco",0,16,NAO_COTOU," ",0,0
+"L/E Inter. 2 Tec. Simples",0,2,NAO_COTOU," ",0,0
+"L/E TOMADA 2P+T 10A",0,16,NAO_COTOU," ",0,0
+"Lampada Led 9w 6500k In",0,2,NAO_COTOU," ",0,0
+"Lampada Led 9w 6500k In",0,30,NAO_COTOU," ",0,0
+"Luva esgoto 100mm",0,15,NAO_COTOU," ",0,0
+"LUVA ESGOTO 50MM",0,4,NAO_COTOU," ",0,0
+"Luva esgoto 75mm",0,2,NAO_COTOU," ",0,0
+"Luva Soldavel Marrom 25mm",0,4,NAO_COTOU," ",0,0
+"Luva Soldavel Marrom 50mm",0,15,NAO_COTOU," ",0,0
+"Peveduto  (50) 1.1/2",0,13,NAO_COTOU," ",0,0
+"Peveduto  (63) 2",0,80,NAO_COTOU," ",0,0
+"Plafon De Teto Branco",0,36,NAO_COTOU," ",0,0
+"Porta Papel Basic S/Tampa 10544",0,4,NAO_COTOU," ",0,0
+"Porta Toalha Reto 45cm Aluminio",0,6,NAO_COTOU," ",0,0
+"Refletor Led 30w 2700k",0,13,NAO_COTOU," ",0,0
+"Refletor Led 50w 2700k",0,13,NAO_COTOU," ",0,0
+"Registro Esfera Marrom Soldavel Dn50",0,1,NAO_COTOU," ",0,0
+"Registro Gaveta 3/4",0,5,NAO_COTOU," ",0,0
+"RELE FOTOELETRICO",0,2,NAO_COTOU," ",0,0
+"Reservatorio Plast.700ml C/Tampa P/Sabonete Líquido",0,6,NAO_COTOU," ",0,0
+"Sifao Ou Tubo Extensivo Multiuso 40 A 70m Branco",0,7,NAO_COTOU," ",0,0
+"Sputinik (chapéu para chaminé) 120mm inox",0,1,NAO_COTOU," ",0,0
+"Tartaruga Nylon Branco 1l",0,2,NAO_COTOU," ",0,0
+"Te Esgoto Branco Dn50mm",0,2,NAO_COTOU," ",0,0
+"Te Lr 25x25x3/4 Marrom",0,2,NAO_COTOU," ",0,0
+"Te Reducao Esgoto 100x50",0,4,NAO_COTOU," ",0,0
+"Te Reducao Marrom 50x25mm",0,3,NAO_COTOU," ",0,0
+"Te Soldavel Marrom 50mm",0,6,NAO_COTOU," ",0,0
+"Tomada 2p+T  110-E",0,8,NAO_COTOU," ",0,0
+"Torneira Bica Movel Cozinha Parede C-50 1/2",0,1,NAO_COTOU," ",0,0
+"Torneira Lavatorio 1/4volta 2194 C-100",0,6,NAO_COTOU," ",0,0
+"Tubo Descarga Longo 1,60mts",0,4,NAO_COTOU," ",0,0
+"Tubo Descida Valvula Descarga C/Joelho Azul",0,6,NAO_COTOU," ",0,0
+"Tubo Esgoto Branco 40mm 6mt",0,12,NAO_COTOU," ",0,0
+"Tubo Esgoto Branco 50mm",0,23,NAO_COTOU," ",0,0
+"Tubo Esgoto Branco 75mm C/6mts",0,9,NAO_COTOU," ",0,0
+"Tubo Esgoto Branco Dn100mm C/6mts",0,113,NAO_COTOU," ",0,0
+"Tubo inox 120mm para chaminé",0,5,NAO_COTOU," ",0,0
+"Tubo inox 180mm para chaminé",0,3,NAO_COTOU," ",0,0
+"Tubo Ligacao Ajustável",0,4,NAO_COTOU," ",0,0
+"Tubo Soldavel Marrom 50mm 6mt",0,78,NAO_COTOU," ",0,0
+"Tubo Soldavel Marron 25mm C/6mts",0,3,NAO_COTOU," ",0,0
+"Uniao Soldavel Marrom 50mm",0,2,NAO_COTOU," ",0,0
+"Valvula 7/8 Cromada Longa",0,6,NAO_COTOU," ",0,0
+"Valvula Descarga 1.1/2 Base",0,4,NAO_COTOU," ",0,0
+"Vaso Bacia Convencional Way Branco",0,4,NAO_COTOU," ",0,0

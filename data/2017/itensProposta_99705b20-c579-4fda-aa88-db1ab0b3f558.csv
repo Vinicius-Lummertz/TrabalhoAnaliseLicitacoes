@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento para lactentes menores de um ano de idade intoleran",4432206,300,VENCEU,LAT,5820,19.4
+"Fórmula infantil de segmento, à base de leite de vaca",4432213,300,VENCEU,LAT,8100,27
+"Fórmula infantil de seguimento, a base de proteínas isolada",4432214,50,VENCEU,LAT,1430,28.6
+"Fórmula infantil para lactentes à base de proteínas",4432215,48,VENCEU,LAT,1387.2,28.9
+"Fórmula infantil para lactentes até 06 meses, em pó",4432216,3000,VENCEU,LAT,39000,13
+"Fórmula infantil para recém-nascidos pré-termo",4432218,100,VENCEU,LAT,2600,26
+"Formula para lactentes que apresentem regurgitação",4432222,300,VENCEU,LAT,9600,32

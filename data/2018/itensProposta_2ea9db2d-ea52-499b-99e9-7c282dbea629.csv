@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guincho completo",0,1,VENCEU," ",3500,3500
+"Mangueira hidráulica 1/2 x 12m",0,4,VENCEU," ",1960,490
+"Cabo de aço 5/8",0,25,VENCEU," ",1000,40
+"Aço para fixação do guincho",0,250,VENCEU," ",1830,7.32
+"Comando hidráulico 3 funções",0,1,VENCEU," ",2100,2100
+"Cilindro Hidráulico Ø150 x 630",0,1,VENCEU," ",1000,1000
+ELETRODO,0,10,VENCEU," ",250,25
+"Cilindro oxigênio",0,1,VENCEU," ",200,200
+"Serviço de preparação e pintura",0,1,VENCEU," ",600,600
+"SERVICO DE INSTALACAO.",0,1,VENCEU," ",2520,2520

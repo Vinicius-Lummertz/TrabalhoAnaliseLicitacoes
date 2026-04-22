@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pipeta graduada westergrem 200mm p/ VHS",1258639,24,100,ATIVO,UNIDADE,224,2.24
+"Tubo capilar s/ heparina-cx c/ 500 unidades",1258640,20,15,ATIVO,CAIXA,93.6,6.24
+"Kit de proteína C Reativa",1258641,10,4500,ATIVO,TESTE,2160,0.48
+"Antiestreptolisina O.",1258642,8,1000,ATIVO,TESTE,770,0.77
+"Fator reumatóide (látex)",1258652,9,2800,ATIVO,TESTE,1876,0.67

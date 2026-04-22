@@ -1,0 +1,79 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+AGENDA,0,10,VENCEU," ",107,10.7
+"Almofada de carimbo (nº2)",0,5,VENCEU," ",27,5.4
+"Apagador para quadro branco",0,10,VENCEU," ",16,1.6
+"Arquivo de papelão para arquivo morto",0,200,VENCEU," ",5560,27.8
+"Bandeja entrada/saída de documento (tripla-3 andares)",0,20,VENCEU," ",414,20.7
+"BATERIA ALCALINA 9V",0,20,VENCEU," ",440,22
+"BATERIA RECARREGÁVEL 9V",0,20,VENCEU," ",400,20
+"Bloco adesivo post-it.",0,5,VENCEU," ",177.5,35.5
+"caneta esferográfica na cor azul",0,10,VENCEU," ",355,35.5
+"caneta esferográfica na cor preta",0,10,VENCEU," ",355,35.5
+"caneta esferográfica na cor vermelha",0,4,VENCEU," ",142,35.5
+"CANETA MARCA TEXTO",0,80,VENCEU," ",80,1
+"Caneta p/marcar CD",0,20,VENCEU," ",72,3.6
+"capa de papel p/ CD",0,300,VENCEU," ",39,0.13
+"Clips p/ papel 3 Cx. C/500gr",0,30,VENCEU," ",210,7
+"Clips p/ papel 4 Cx. C/500gr",0,30,VENCEU," ",210,7
+"Cola bastão .",0,20,VENCEU," ",1100,55
+"Cola branca tipo escolar.",0,20,VENCEU," ",166,8.3
+"Cola de secagem rápida",0,10,VENCEU," ",73,7.3
+"Colchete nº 08",0,50,VENCEU," ",270,5.4
+"Colchete nº 09",0,50,VENCEU," ",320,6.4
+"Colchete nº 10",0,50,VENCEU," ",320,6.4
+"COLCHETE Nº 14",0,50,VENCEU," ",525,10.5
+"Colchete nº 15",0,50,VENCEU," ",525,10.5
+"Envelope branco ofício",0,300,VENCEU," ",24,0.08
+"Envelope ofício cor parda",0,1000,VENCEU," ",170,0.17
+"Envelope saco tamanho grande",0,300,VENCEU," ",75,0.25
+"Estilete lamina larga",0,30,VENCEU," ",42,1.4
+"ETIQUETA AUTO COLANTE Nº 14",0,5,VENCEU," ",52.5,10.5
+"ETIQUETA AUTO COLANTE Nº 20",0,5,VENCEU," ",52.5,10.5
+"Extrator de Grampos",0,30,VENCEU," ",27,0.9
+"Fita adesiva 48mmx50mt",0,25,VENCEU," ",70,2.8
+"FITA ADESIVA PARDA 48mm X 50mt",0,25,VENCEU," ",70,2.8
+"Fita adesiva pequena",0,25,VENCEU," ",21.25,0.85
+"Fita adesiva Rolo grande 12mm x 50mt",0,25,VENCEU," ",25,1
+"Fita adesiva rolo grande 19mm x 50mt 18x50mm",0,25,VENCEU," ",35,1.4
+"Fita corretiva com tampa",0,50,VENCEU," ",300,6
+"Fita de papel adesiva",0,25,VENCEU," ",462.5,18.5
+"Fita dupla face de papel",0,25,VENCEU," ",55,2.2
+"Fita dupla face de silicone",0,10,VENCEU," ",185,18.5
+"Fita zebrada preto e amarelo p/ isolamento",0,25,VENCEU," ",375,15
+"GRAMPEADOR PARA 10/20 FOLHAS",0,20,VENCEU," ",220,11
+"GRAMPEADOR PARA 90/100 FOLHAS",0,10,VENCEU," ",740,74
+"Grampo trilho plástico.",0,30,VENCEU," ",102,3.4
+"Grampos 23/13.",0,15,VENCEU," ",67.5,4.5
+"Grampos 26/6.",0,50,VENCEU," ",160,3.2
+"Grampos 26/8.",0,25,VENCEU," ",237.5,9.5
+"Grampos trilho metálico",0,30,VENCEU," ",315,10.5
+"Lamina de estilete largo",0,3,VENCEU," ",8.1,2.7
+"Lápis preto.",0,5,VENCEU," ",19.5,3.9
+"Liquído corretivo",0,5,VENCEU," ",97.5,19.5
+"livro ata 100 folhas",0,10,VENCEU," ",90,9
+"livro ata 200 folhas",0,10,VENCEU," ",150,15
+"Livro de Protocolo 100 Fls",0,15,VENCEU," ",93,6.2
+"Molha dedo",0,25,VENCEU," ",47.5,1.9
+"Papel A4.",0,100,VENCEU," ",12400,124
+"Papel Especial A4 210mm X 297mm",0,20,VENCEU," ",202,10.1
+"Pasta arquivo capa dura",0,20,VENCEU," ",190,9.5
+"PASTA AZ",0,20,VENCEU," ",148,7.4
+"PASTA BRASIL ELASTICA TRANSPARENTE",0,100,VENCEU," ",170,1.7
+"Pasta c/ canaleta A-4 cristal",0,50,VENCEU," ",97.5,1.95
+"PASTA SANFONADA",0,40,VENCEU," ",468,11.7
+"PASTA SUSPENSA",0,20,VENCEU," ",1920,96
+"Pen drive 16Gb",0,10,VENCEU," ",410,41
+"Pen drive 32Gb",0,10,VENCEU," ",550,55
+"Pen Drive 8GB",0,10,VENCEU," ",300,30
+"Perfurador papel",0,20,VENCEU," ",320,16
+"Pilhas AA recarregável",0,50,VENCEU," ",2000,40
+"Pilhas AAA recarregável",0,50,VENCEU," ",1000,20
+"Pilhas alcalinas AA",0,20,VENCEU," ",118,5.9
+"Pilhas alcalinas AAA",0,20,VENCEU," ",118,5.9
+"pincel atomico p/ quadro branco",0,30,VENCEU," ",177,5.9
+"Plastico Contact",0,5,VENCEU," ",382,76.4
+"PORTA CANETA",0,20,VENCEU," ",138,6.9
+"Prancheta de madeira p/ anotação",0,50,VENCEU," ",125,2.5
+"Quadro branco",0,3,VENCEU," ",264,88
+"TESOURA GRANDE",0,20,VENCEU," ",126,6.3
+"TINTA PARA CARIMBO",0,20,VENCEU," ",140,7

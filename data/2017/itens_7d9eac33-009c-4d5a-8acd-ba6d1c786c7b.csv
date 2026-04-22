@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Soro Fisiológico 100ml",1292543,8,20,ATIVO,MILILITRO,1485,74.25
+"Soro Fisiológico 250ml",1292544,9,20,ATIVO,MILILITRO,1462.5,73.125
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",1292545,10,300,ATIVO,CAIXA,4848.75,16.1625
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",1292546,11,300,ATIVO,CAIXA,4848.75,16.1625
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",1292547,12,100,ATIVO,CAIXA,1616.25,16.1625
+"Manta Térmica Aluminizada 2,10 x 1,40",1292556,19,100,ATIVO,UNIDADE,437.5,4.375

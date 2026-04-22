@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomografia Computadoriza da Cone Bean ATM Bilateral",1259973,8,10,ATIVO,UNIDADE,3150,315
+"Tomografia Computadoriza da Cone Bean ATM Unilateral",1259974,7,10,ATIVO,UNIDADE,2450,245
+"Tomografia Computadoriza da Cone Bean por região (02 element",1259975,2,30,ATIVO,UNIDADE,3450,115
+"Tomografia Computadoriza da Cone Bean por região (mais de 02",1259976,3,20,ATIVO,UNIDADE,2800,140
+"Tomografia Computadoriza da Cone Bean (mais de 2 elementos d",1259977,4,15,ATIVO,UNIDADE,2250,150
+"Tomografia Computadoriza da Cone Bean de Mandíbula ou Maxila",1259978,5,20,ATIVO,UNIDADE,3100,155
+"Tomografia Computadoriza da Cone Bean Total Duas Arcadas (Ma",1259979,6,15,ATIVO,UNIDADE,4500,300
+"Tomografia Computadoriza da Cone Bean de 1 (um) elemento ele",1259980,1,30,ATIVO,UNIDADE,3450,115

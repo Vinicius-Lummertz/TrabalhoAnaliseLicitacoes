@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Meio-fio de concreto pré-moldado de 12x30x80cm",1275838,6,250,ATIVO,METRO,3500,14
+"Meio-fio de concreto pré-moldado de 15x30x80cm",1275839,7,250,ATIVO,METRO,3875,15.5
+"Areia lavada média",1275840,8,250,ATIVO,"METRO CUBICO",11000,44
+"Areia fina sem especificação para construção civil",1275841,9,400,ATIVO,TONELADA,12000,30
+"Cimento CP2 (sacas de cinquenta quilos)",1275844,13,600,ATIVO,SACA,19800,33

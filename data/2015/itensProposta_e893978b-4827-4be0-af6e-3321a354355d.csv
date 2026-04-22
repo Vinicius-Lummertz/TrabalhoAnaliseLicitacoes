@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira",4427284,3,DESCLASSIFICADO,UNI,474,158
+"Balança antropométrica mecânica  adulto",4427285,1,PERDEU,UN,715,715
+"Balança eletrônica infantil",4427286,1,DESCLASSIFICADO,UN,664,664
+"Biombo triplo",4427287,2,INABILITADO,UN,687.8,343.9
+"Cadeira de rodas adulto  manual",4427288,1,VENCEU,UN,1062,1062
+"Aparelho para Inalação",4427290,1,PERDEU,UN,1377,1377
+"Escadinha hospitalar",4427291,8,DESCLASSIFICADO,UN,2000,250
+"Foco clínico (LED)",4427292,1,INABILITADO,UN,680,680
+"MESA GINECOLOGICA",4427294,1,DESCLASSIFICADO,UN,920,920
+"Mesa para exame clínico",4427295,6,INABILITADO,UNI,1950,325
+"Autoclave elétrica",4427296,1,DESCLASSIFICADO,UN,9000,9000
+NEGATOSCOPIO,4427298,2,DESCLASSIFICADO,UNI,456,228
+OTOSCOPIO,4427299,2,INABILITADO,UN,596.4,298.2
+"Suporte de soro",4427300,2,DESCLASSIFICADO,UN,442,221
+"Amalgamador capsular digital",4427301,1,INABILITADO,UN,587,587
+"Mocho giratório",4427303,1,DESCLASSIFICADO,UN,326.7,326.7
+"Aparelho ultra-som (profilaxia)",4427305,1,INABILITADO,UN,1706.2,1706.2
+"Carro de curativos",4427307,1,DESCLASSIFICADO,UN,940,940
+"Detector cardíaco fetal portátil digital.",4427309,1,PERDEU,UN,649,649

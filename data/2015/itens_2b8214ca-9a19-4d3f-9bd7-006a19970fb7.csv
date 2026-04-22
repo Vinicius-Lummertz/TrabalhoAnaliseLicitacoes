@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fuba Mimoso de milho",1274734,50,48,ATIVO,UNIDADE,95.52,1.99
+"Extrato de tomate.",1274783,7,120,ATIVO,UNIDADE,208.8,1.74
+"Achocolatado em pó.",1274793,38,144,ATIVO,UNIDADE,927.36,6.44
+"CREME DE LEITE.",1274796,41,240,ATIVO,UNIDADE,355.2,1.48
+"Leite líquido integral",1274798,11,2880,ATIVO,CAIXA,6998.4,2.43
+"Farinha de mandioca",1274800,9,120,ATIVO,kg,232.8,1.94

@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,10,DESCLASSIFICADO," ",448,44.8
+"Switch de 8 portas",0,10,DESCLASSIFICADO," ",624,62.4
+"Switch de16 portas 10/100",0,5,DESCLASSIFICADO," ",840,168
+"Switch 24 portas 10/100/1000-Ger",0,7,DESCLASSIFICADO," ",6496,928
+"Rack de 19 6U x 450mm parede",0,7,DESCLASSIFICADO," ",1579.2,225.6
+"Estabilizador  500 VA",0,7,DESCLASSIFICADO," ",1400,200
+"Bucha 6",0,2000,DESCLASSIFICADO," ",60,0.03
+"Cabo utp Lan Cat 5E",0,6000,DESCLASSIFICADO," ",10320,1.72
+"Canaleta sistema 20 x 10 x 2000mm",0,600,DESCLASSIFICADO," ",3210,5.35
+"Canaleta sistema 50 x 20 x 2000mm",0,300,DESCLASSIFICADO," ",7155,23.85
+"Connector RJ 11  4 x 4",0,1000,DESCLASSIFICADO," ",450,0.45
+"Connector RJ 45  Cat 5E",0,1300,DESCLASSIFICADO," ",585,0.45
+"Etiqueta idenetificação ponto rede",0,1500,DESCLASSIFICADO," ",375,0.25
+"Cabo Telefônico CCI  50 x 10 pares",0,500,DESCLASSIFICADO," ",2775,5.55
+"Cabo Telefônico CCI  50 x 20 pares",0,700,DESCLASSIFICADO," ",6174,8.82
+"Fio Elétrico Flexivel 2,5mm",0,6000,DESCLASSIFICADO," ",6480,1.08
+"Abraçadeira pct com 100 unidades",0,15,DESCLASSIFICADO," ",1.8,0.12
+"Fita isolante rolo com 20m.",0,20,DESCLASSIFICADO," ",110,5.5
+"Parafuso para bucha 6",0,360,DESCLASSIFICADO," ",43.2,0.12
+"Patch Cord 2,5m Cat 5E",0,100,DESCLASSIFICADO," ",464,4.64
+"Patch Cord 1,5m Cat 5E",0,100,DESCLASSIFICADO," ",285,2.85
+"Pino Modular 2 vias p/telefone",0,50,DESCLASSIFICADO," ",225,4.5
+"Espelho sistema X Ton + terra NBR",0,200,DESCLASSIFICADO," ",290,1.45
+"Caixa sist. X  3 x 3 , todos os padrões",0,400,DESCLASSIFICADO," ",1140,2.85
+"Espelho Sistema X 2 furos para RJ 45",0,200,DESCLASSIFICADO," ",290,1.45
+"Canaleta 40 x 15 x 20  com divisória",0,50,DESCLASSIFICADO," ",622.5,12.45
+"conector haste terra",0,70,DESCLASSIFICADO," ",112,1.6
+"Fio telefônico FE 100(Drop)",0,1100,DESCLASSIFICADO," ",1210,1.1
+"Conjunto de Porca Gaiola M5",0,50,DESCLASSIFICADO," ",37.5,0.75
+"Jack RJ 45 Keystone",0,250,DESCLASSIFICADO," ",1162.5,4.65
+"Serv.  de instalação, revisão periódica e emergencial, manut",0,1500,DESCLASSIFICADO," ",75000,50

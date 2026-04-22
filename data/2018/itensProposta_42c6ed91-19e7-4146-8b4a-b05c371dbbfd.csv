@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cilindro com pistão Æ 40 mm",0,2,VENCEU," ",680.8,340.4
+VIRABREQUIM,0,2,VENCEU," ",598,299
+"CARBURADOR C1S-S3E",0,2,VENCEU," ",257.6,128.8
+"Jogo de juntas de vedação",0,2,VENCEU," ",9.2,4.6
+"Transmissão completa",0,3,VENCEU," ",861.12,287.04
+"ROLAMENTO DE ESFERAS 6001-Z",0,5,VENCEU," ",165.6,33.12
+"Rolamento de esferas 6000",0,5,VENCEU," ",133.4,26.68
+"Rolamento de esferas 6002-2RS",0,2,VENCEU," ",88.32,44.16
+"Rolamento de esferas 6001",0,2,VENCEU," ",53.36,26.68
+"CARCAÇA DE ENGRENAGEM",0,2,VENCEU," ",285.2,142.6
+"Jogo de pinhões",0,3,VENCEU," ",463.68,154.56
+"Rolamento de esferas 6201",0,5,VENCEU," ",179.4,35.88
+"Retentor 12x20x5",0,2,VENCEU," ",16.56,8.28
+"RETENTOR 12X32X7",0,2,VENCEU," ",14.72,7.36
+PROTECAO,0,2,VENCEU," ",40.48,20.24
+"CINTA DUPLA PARA OMBRO",0,2,VENCEU," ",174.8,87.4
+"ANEL DE PROTECAO",0,2,VENCEU," ",55.2,27.6
+"PRATO GIRATORIO",0,7,VENCEU," ",96.6,13.8
+"Porca de seg com colar M12x 15",0,6,VENCEU," ",49.68,8.28
+"PARAFUSO DE FECHAMENTO",0,20,VENCEU," ",184,9.2
+"ARRUELA DE PRESSÃO 15X60X3",0,2,VENCEU," ",22.08,11.04
+"CARCAÇA DE TANQUE",0,2,VENCEU," ",542.8,271.4
+"Cabeçote de aspiração",0,20,VENCEU," ",147.2,7.36
+"TAMPA DO TANQUE",0,2,VENCEU," ",29.44,14.72
+CONEXAO,0,2,VENCEU," ",93.84,46.92
+"CABO ACELERADOR",0,2,VENCEU," ",138,69
+"Eixo de acionamento",0,2,VENCEU," ",198.72,99.36
+"AGULHA DE ADMISSAO",0,2,VENCEU," ",46,23
+"MEMBRANA DA BOMBA",0,6,VENCEU," ",132.48,22.08
+"GAIOLA DE AGULHAS 10X14X13",0,7,VENCEU," ",148.12,21.16
+"Graxa 80gr",0,60,VENCEU," ",828,13.8
+"VELA IGNIÇÃO",0,40,VENCEU," ",662.4,16.56
+"CORDAO DE ARRANQUE",0,10,VENCEU," ",73.6,7.36
+"FILTRO COMBUSTIVEL",0,15,VENCEU," ",110.4,7.36
+MANGUEIRA,0,6,VENCEU," ",22.08,3.68
+"Cilindro c/ pistão Æ 038 mm",0,1,VENCEU," ",281.17,281.17
+"Lamina 02 facas para roçadeira FS 220",0,22,VENCEU," ",1841.84,83.72
+"Lima redonda para afiar corrente moto serra",0,2,VENCEU," ",9.2,4.6
+"Mão de obra mecânica para executar os serviços de manutenção",0,100,VENCEU," ",11500,115
+"OLEO 2T 8017",0,300,VENCEU," ",5817,19.39
+"Fio de Nylon para roçadeira 3,0mm",0,8000,VENCEU," ",6000,0.75
+"CONJUNTO DE POLIMATIC PARA ROÇADEIRA FS 220",0,55,VENCEU," ",3440.8,62.56

@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Foco clínico auxiliar de luz fria (Led), iluminação mínimo d",4434437,2,VENCEU,UN,1000,500
+"Esfigmomanômetro de Pedestal adulto, tipo aneroide, com rodí",4434439,4,VENCEU,UNI,1980,495
+"Cama Hospitalar Tipo Fowler Mecânica, 3 manivelas, adulto, c",4434440,4,INABILITADO,UNI,16600,4150
+"Mesa Ginecológica Elétrica com acionamento elétrico para os",4434441,1,INABILITADO,UNI,12080,12080
+"Reanimador Pulmonar manual adulto",4434442,2,VENCEU,UNI,470,235
+"Reanimador Pulmonar Manual Infantil",4434443,3,VENCEU,UNI,705,235
+"Aparelho de Pressão Aneróide, infantil em Nylon, com Velcro",4434444,2,VENCEU,UNI,460,230
+"Esfigmomanômetro adulto aneróide completo, em Nylon, com Vel",4434445,1,VENCEU,UNI,235,235
+Banho-Maria,4434451,2,INABILITADO,UNI,2230,1115
+"Balança de precisão eletrônica, tipo para Laboratório (Banco",4434452,1,INABILITADO,UNI,2100,2100
+"Resfriador Rápido de Leite Humano em aço inox",4434453,1,VENCEU,UNI,21000,21000
+"Banho Maria para Pasteurização de Leite Humano, em aço inox",4434455,1,PERDEU,UNI,21750,21750
+"Oxímetro de pulso de mão, portátil",4434457,5,VENCEU,UNI,530,106
+"Bisturi Eletrônico 300 W",4434458,4,DESCLASSIFICADO,UNI,124700,31175
+"Bomba de Infusão que utiliza equipo universal",4434459,26,DESCLASSIFICADO,UNI,228800,8800

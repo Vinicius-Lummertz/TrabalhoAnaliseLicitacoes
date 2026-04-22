@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Implantação das funcionalidades ambulatoriais e laboratório",0,1,VENCEU," ",500000,500000
+"Mensalidade das Funcionalidades Ambulatoriais e Laboratório",0,12,VENCEU," ",552000,46000
+"Horas técnicas - Suporte in loco",0,50,VENCEU," ",4500,90

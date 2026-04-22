@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CAFÉ COM LEITE",1259361,11,200,ATIVO,LITRO,1040,5.2
+"Salgados sortidos (assados)",1259362,1,250,ATIVO,CENTO,12492.5,49.97
+"Salgados sortidos (fritos)",1259363,2,400,ATIVO,CENTO,15992,39.98
+"Mini Sanduíche 50 gr",1259364,3,2500,ATIVO,UNIDADE,2000,0.8
+"Pão de queijo 24gr",1259365,4,1500,ATIVO,UNIDADE,750,0.5
+"Biscoito doce tipo caseiro, 200 gr",1259366,5,150,ATIVO,PAC,435,2.9
+"Bolos diversos",1259367,6,150,ATIVO,kg,1873.5,12.49
+"Biscoito salgado agua e sal, 200 gr",1259368,7,150,ATIVO,PAC,435,2.9
+"Salada de fruta, 150 gramas",1259369,8,1000,ATIVO,POTE,3200,3.2
+"SUCO NATURAL",1259370,9,700,ATIVO,LITRO,3850,5.5
+"CAFÉ PRETO",1259371,10,200,ATIVO,LITRO,820,4.1
+"Pratos descartáveis, pacote com 10",1259372,12,250,ATIVO,PACOTE,537.5,2.15
+"Garfos descartáveis, pacote com 50",1259373,13,130,ATIVO,PACOTE,442,3.4
+"Copos descartáveis, pacote com 100",1259374,14,200,ATIVO,PACOTE,900,4.5
+"Guardanapos, pacote com 50",1259375,15,300,ATIVO,PACOTE,540,1.8

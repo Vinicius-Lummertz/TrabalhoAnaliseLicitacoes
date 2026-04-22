@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-inflamatório injetável - Meloxicam",1259313,12,25,ATIVO,FRASCO,1075,43
+"Carvão vegetal ativado.",1259314,20,2,ATIVO,CAIXA,86,43
+"Probióticopara cães e gatos",1259315,19,3,ATIVO,SERINGA,40.5,13.5
+"Antitóxico e antiespasmódico - Sulfato de atropina",1259316,18,5,ATIVO,FRASCO,17,3.4
+"Antifúngico comprimido - Cetoconazol",1259317,17,20,ATIVO,BLISTER,1000,50
+"Xarope expectorante e fluidificante",1259318,16,4,ATIVO,FRASCO,84,21
+"Antibiótico comprimido - Enrofloxacina",1259319,15,40,ATIVO,BLISTER,580,14.5
+"Antibiótico comprimido - Cefalexina",1259320,14,50,ATIVO,COMPRIMIDO,1250,25
+"Antibiótico injetável - Ampicilina Sódica",1259321,13,20,ATIVO,FRASCO,460,23
+"Quimioterápico injetável - Sulfato de Vincristina",1259322,11,3,ATIVO,FRASCO,105,35
+"Solução otológica para cães e gatos",1259323,9,4,ATIVO,FRASCO,184,46
+"Solução para limpeza auricular de cães e gatos",1259325,8,4,ATIVO,FRASCO,76,19
+"Colírio oftálmico para cães e gatos",1259326,7,2,ATIVO,FRASCO,210,105
+"Recalcificante e vitamínico injetável",1259327,6,12,ATIVO,FRASCO,118.8,9.9
+"Anti-pulgas e bicheiras comprimidos",1259328,5,10,ATIVO,CAIXA,600,60
+"Anestésico geral injetável - Propofol",1259329,4,10,ATIVO,FRASCO,340,34
+"Vacina viva atenuada para cães e gatos (polivalente)",1259330,3,200,ATIVO,FRASCO,1240,6.2
+"Vacina inativada contra Giardíase Canina (Giardia lamblia)",1259331,2,200,ATIVO,FRASCO,4400,22
+"Ocitocina sintética injetável",1259333,10,4,ATIVO,FRASCO,8.4,2.1

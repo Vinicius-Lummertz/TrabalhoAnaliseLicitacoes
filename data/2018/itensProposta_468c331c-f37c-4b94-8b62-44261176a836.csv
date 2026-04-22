@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apartamento Simples: Data 02,03,04,05,06 e 07/12/2018.",0,6,PERDEU," ",643.2,107.2
+"Apartamento Simples: Data 05,06 e 07/12/2018.",0,3,PERDEU," ",321.6,107.2
+"Apartamento Duplo: Data 02,03,04,05,06 e 07/12/2018.",0,100,PERDEU," ",8040,80.4
+"Café da Manhã: Data 03,04,05,06 e 07/12/2018",0,225,PERDEU," ",4421.25,19.65
+"Almoço: Data 03,04,05,06 e 07/12/2018",0,225,PERDEU," ",7436.25,33.05
+"Coffe-break: Data 03,04,05,06 e 07/12/2018",0,225,PERDEU," ",4421.25,19.65
+"Jantar Data: 02,03,04,05 e 06/12/2018",0,110,PERDEU," ",3635.5,33.05
+"Água mineral (500ml) Data: 03,04,05,06 e 07/12/2018",0,22,PERDEU," ",98.34,4.47
+"Água mineral 20l Data: 03,04,05,06 e 07/12/2018",0,8,PERDEU," ",142.96,17.87
+"Deslocamento para Campinas/Jaguaruna - Jaguaruna/Campinas (0",0,1,PERDEU," ",803.99,803.99
+"Deslocamento para Aulas práticas dentro do município de Cric",0,12,PERDEU," ",1929.6,160.8
+"Espaço Fisico Auditório nos dias 03,04,05,06 e 07/12/2018",0,5,PERDEU," ",4466.65,893.33
+"Espaço Fisico Sala da Secretaria nos dias 03,04,05,0",0,5,PERDEU," ",3796.65,759.33
+"Espaço Fisico Sala de apoio  nos dias 05 e 06/12/2018",0,6,PERDEU," ",4287.96,714.66
+Microcomputador,0,20,PERDEU," ",1608,80.4
+IMPRESSORA.,0,5,PERDEU," ",670,134
+Data-show,0,5,PERDEU," ",670,134
+"Tela de Projeção",0,5,PERDEU," ",357.35,71.47
+"Quadro Branco com pincéis compatíveis (03 cores)",0,5,PERDEU," ",89.35,17.87
+"Flipshart Com Papel e pincéis compatíveis (03 cores)",0,5,PERDEU," ",312.65,62.53
+"MICROFONE Sem fio",0,10,PERDEU," ",446.7,44.67
+"Caneta Laser com passador de slides",0,5,PERDEU," ",89.35,17.87
+"Material de expediente",0,1,PERDEU," ",536,536
+Palestrante,0,16,PERDEU," ",1429.28,89.33
+"Palestrante 2 (Campinas/SP)",0,24,PERDEU," ",2143.92,89.33

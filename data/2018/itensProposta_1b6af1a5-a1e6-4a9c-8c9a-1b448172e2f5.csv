@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acesso Serviço Limitado Privado",0,1104,VENCEU," ",88320,80
+"Rádio Portátil Digital com Display",0,480,VENCEU," ",61200,127.5
+"Rádio Móvel Digital com Display",0,120,VENCEU," ",14400,120
+"Rádio Fixo Digital com Display",0,24,VENCEU," ",3600,150
+"Console de Despacho",0,24,VENCEU," ",28800,1200

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Folha de Isopor 2,5",1292381,28,200,ATIVO,FOLHA,586,2.93
+"Folha de Isopor 1,5",1292389,27,200,ATIVO,FOLHA,420,2.1
+"Reabastecedor de Pincel para Quadro Branco",1292411,55,400,ATIVO,UNIDADE,1632,4.08
+"Pincel chato - numero 4",1292413,57,2000,ATIVO,UNIDADE,2820,1.41
+"Apagador para quadro branco",1292430,1,350,ATIVO,UNIDADE,1242.5,3.55
+"Apagador quadro negro escolar",1292431,2,600,ATIVO,UNIDADE,1218,2.03
+"papel colorset",1292434,47,30000,ATIVO,UNIDADE,15300,0.51

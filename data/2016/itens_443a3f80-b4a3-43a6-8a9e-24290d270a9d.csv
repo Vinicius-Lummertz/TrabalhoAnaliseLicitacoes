@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Oleo diesel S10",1284072,2,180000,ATIVO,LITROS,514800,2.86
+"Oleo diesel S500",1284073,1,640000,ATIVO,LITROS,1747200,2.73

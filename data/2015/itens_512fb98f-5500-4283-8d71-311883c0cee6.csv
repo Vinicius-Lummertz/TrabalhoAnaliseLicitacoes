@@ -1,0 +1,80 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"te LR azul com bucha metal 25 x 3/4",1275076,477,20,ATIVO,UNIDADE,119.8,5.99
+"te galvanizado 1/2",1275077,476,5,ATIVO,UNIDADE,19.95,3.99
+"Te esgoto redução 100x75mm",1275078,475,25,ATIVO,UNIDADE,124.75,4.99
+"Te esgoto redução 100x50mm",1275079,474,25,ATIVO,UNIDADE,99.75,3.99
+"te esgoto redução  75 x 50mm",1275080,473,20,ATIVO,UNIDADE,73,3.65
+"te esgoto 100mm",1275081,472,100,ATIVO,UNIDADE,899,8.99
+"te esgoto  75mm",1275082,471,25,ATIVO,UNIDADE,91.25,3.65
+"te de cobre 22mm",1275085,468,7,ATIVO,UNIDADE,34.51,4.93
+"Reator eletr. 2x40w alto fator",1275124,428,300,ATIVO,PECAS,5850,19.5
+"Te soldavel 32mm",1275146,481,40,ATIVO,UNIDADE,51.6,1.29
+"te soldável 50mm",1275147,483,100,ATIVO,UNIDADE,599,5.99
+"tubo galv. nbr 5580 1.1/4  (2,65mm)",1275148,552,50,ATIVO,BARRA,5977.5,119.55
+"tubo galv. nbr 5580 1        (2,65mm)",1275150,550,100,ATIVO,BARRA,8965,89.65
+"tubo esgoto em PVC 50mm",1275152,548,100,ATIVO,TUBO,499,4.99
+"tubo esgoto em PVC  40mm",1275155,545,100,ATIVO,TUBO,329,3.29
+"tubo eletroduto pvc 3/4 preto (br 3m)",1275156,544,70,ATIVO,TUBO,489.3,6.99
+"tubo galv. nbr 5580 1/2     (2,25mm)",1275157,553,100,ATIVO,BARRA,5899,58.99
+"tubo eletroduto pvc 2 (br 3m)",1275158,543,50,ATIVO,BARRA,1349.5,26.99
+"tubo eletroduto pvc 1.1/2         (br 3m)",1275159,541,100,ATIVO,BARRA,1968,19.68
+"tubo eletroduto pvc 1  preto    (br 3m)",1275160,540,70,ATIVO,BARRA,111.3,1.59
+"tubo corrugado drenagem 4 (preto)",1275163,537,2000,ATIVO,METRO,7580,3.79
+"tubo eletroduto pvc 1/2 preto (br 3m)",1275168,542,50,ATIVO,TUBO,299.5,5.99
+"tubo galv. nbr 5580 2        (3,00mm)",1275169,554,50,ATIVO,BARRA,10999.5,219.99
+"tubo galv. nbr 5580 2.1/2   (3,35mm)",1275170,555,70,ATIVO,BARRA,20649.3,294.99
+"tubo galv. nbr 5580 3/4      (2,25m",1275171,556,50,ATIVO,BARRA,3942.5,78.85
+"VIDRO LISO 3MM COLOCADO",1275175,574,250,ATIVO,"METRO QUADRADO",16997.5,67.99
+"VIDRO CANELADO 4 MM colocado",1275176,573,70,ATIVO,"METRO QUADRADO",5249.3,74.99
+"vidro 4mm miniboreal colocado",1275177,572,120,ATIVO,"METRO QUADRADO",8398.8,69.99
+"te soldável 40mm",1275194,482,20,ATIVO,UNIDADE,59.8,2.99
+"tijolo 9f. - 24 x 14 x 11,5cm",1275200,500,65000,ATIVO,UNIDADE,25350,0.39
+"tijolo 6f. - 19 x 14 x 9cm",1275201,499,100000,ATIVO,UNIDADE,23000,0.23
+"Telha de cimento s/ amianto 1,22 x 1,10 x 5mm",1275203,497,500,ATIVO,UNIDADE,7395,14.79
+"telha s/ amianto 2,13 x 1,10 x 5mm",1275208,492,300,ATIVO,UNIDADE,8097,26.99
+"telha s/ amianto 1,83 x 1,10 x 5mm",1275210,490,400,ATIVO,UNIDADE,11480,28.7
+"tela soldada arame 2,4mm malha 5 x 10",1275214,486,1000,ATIVO,"METRO QUADRADO",9740,9.74
+"Te soldavel 75mm",1275216,484,20,ATIVO,UNIDADE,798,39.9
+"Ferro chato 1 x 3/16 6m",1275330,223,120,ATIVO,BARRA,2970,24.75
+"FERRO CHATO  1.1/4",1275331,222,120,ATIVO,BARRA,2398.8,19.99
+"manta asfáltica alum. adesiva 20cm",1275345,355,450,ATIVO,METRO,2025,4.5
+"Manta bidim drenagem 0,20 x 2,30m",1275354,356,1000,ATIVO,"METRO QUADRADO",3490,3.49
+"lâmpada fluorescente tubular 40w 220V",1275405,297,2000,ATIVO,UNIDADE,6100,3.05
+"laje pre moldada (vigote e tapuia)",1275409,293,450,ATIVO,"METRO QUADRADO",9895.5,21.99
+"AREIA MASSA FINA",1275441,33,130,ATIVO,"METRO CUBICO",6498.7,49.99
+"Bloco construção maciço 50x16x20",1275453,45,5000,ATIVO,UNIDADE,19450,3.89
+"Areia Lavada Tipo Grossa para aplicação em contra-piso",1275459,32,900,ATIVO,"METRO CUBICO",49491,54.99
+"Areia Lavada Tipo Fina para aplicações na construção civil",1275461,31,700,ATIVO,"METRO CUBICO",32893,46.99
+"AREIA BARRENTA",1275462,29,120,ATIVO,"METRO CUBICO",3598.8,29.99
+"adaptador flange soldável 25x3/4",1275464,11,20,ATIVO,UNIDADE,179,8.95
+"ADAPTADOR FLANGE SOLDAVEL 32X1",1275466,12,20,ATIVO,UNIDADE,219.8,10.99
+"adaptador flange soldável 50x1.1/2",1275467,13,20,ATIVO,UNIDADE,359.8,17.99
+"adesivo pvc 175gr c/ pincel",1275468,14,50,ATIVO,UNIDADE,449.5,8.99
+"Anel de vedação para Vaso Sanitário em Cera Padrão Universal",1275470,16,100,ATIVO,UNIDADE,699,6.99
+"ar 11 s/ roldana",1275471,17,30,ATIVO,UNIDADE,284.7,9.49
+"ar 22 s/ roldana",1275473,18,30,ATIVO,UNIDADE,599.7,19.99
+"araldite normal Prof. 10min",1275474,20,30,ATIVO,UNIDADE,493.5,16.45
+"ar 33 s/ roldana.",1275483,19,30,ATIVO,UNIDADE,775.5,25.85
+"adaptador curto soldavel 60 x 2",1275484,9,20,ATIVO,UNIDADE,125.8,6.29
+"broca aço rápido  6mm",1275486,54,10,ATIVO,UNIDADE,49.9,4.99
+"broca aço rápido  4mm",1275508,53,10,ATIVO,UNIDADE,44.9,4.49
+"broca aço rápido  8mm",1275511,55,10,ATIVO,UNIDADE,79.9,7.99
+"broca aço rápido 10mm",1275512,56,10,ATIVO,UNIDADE,149.9,14.99
+"broxa nylon para pintura nas dimensões 12x5 cm. Grande",1275516,60,500,ATIVO,UNIDADE,2445,4.89
+"adaptador curto soldavel 50 x 1.1/2",1275532,8,20,ATIVO,UNIDADE,43.4,2.17
+"adaptador curto soldavel 32 x 1",1275533,7,20,ATIVO,UNIDADE,17.8,0.89
+"Cimento Tipo Portland,Pozolânico CPII Contendo 50 Kg.",1275546,149,4000,ATIVO,SACA,102760,25.69
+"bucha de redução PVC longa sold. 60 x 40 mm,NBR 5648.",1275579,71,45,ATIVO,UNIDADE,269.55,5.99
+"cal pintura 8kg",1275582,114,1500,ATIVO,SACA,7485,4.99
+"CAIXA DE PASSAGEM ENERGIA EMBUTIR 30 X 30",1275584,112,10,ATIVO,UNIDADE,487,48.7
+"cadeado em latão maciço 45mm com chaves",1275585,111,25,ATIVO,UNIDADE,399.75,15.99
+"cadeado em latão maciço 40mm com chaves",1275586,110,25,ATIVO,UNIDADE,299.75,11.99
+"cadeado em latão maciço  30mm com chaves",1275589,107,25,ATIVO,UNIDADE,274.75,10.99
+"abraçadeira 3/4 material de chapa aço zincado",1275596,1,50,ATIVO,UNIDADE,19.5,0.39
+"abraçadeira mangueira 19 x 27 (3/4 x 1)",1275597,2,25,ATIVO,UNIDADE,13.5,0.54
+"abraçadeira pvc eletroduto 1.1/2",1275598,3,25,ATIVO,UNIDADE,43.75,1.75
+"abraçadeira pvc eletroduto 3/4",1275599,4,25,ATIVO,UNIDADE,17.25,0.69
+"acabamento registro c50  1/2 x 1",1275600,5,12,ATIVO,UNIDADE,107.88,8.99
+"CALHA FLUORESCENTE  COMERCIAL 1 X 20W",1275601,115,280,ATIVO,PEÇA,1677.2,5.99
+"CALHA FLUORESCENTE  COMERCIAL 1 X 40W",1275602,116,280,ATIVO,PEÇA,1859.2,6.64
+"câmara de ar /carrinho de mão 350 x 8",1275623,119,25,ATIVO,UNIDADE,149.75,5.99

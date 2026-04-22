@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho Microondas, capac. 22lt, na cor branca",4433107,2,PERDEU,UNI,920,460
+"Bebedouro elétrico de coluna",4433108,3,VENCEU,UN,1260,420
+"Refrigerador tipo doméstico 2 portas",4433109,1,VENCEU,UN,1489,1489
+FRIGOBAR,4433110,3,PERDEU,UNI,2940,980
+"Televisor colorido 42 polegadas",4433111,1,VENCEU,UNI,1900,1900
+"Fogao de piso",4433115,1,INABILITADO,UNI,380,380

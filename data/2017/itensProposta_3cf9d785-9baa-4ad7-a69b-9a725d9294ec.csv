@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A4,",0,2000,DESCLASSIFICADO," ",600,0.3
+"Impressão colorida , tamanho A4",0,2000,DESCLASSIFICADO," ",5000,2.5
+"Impressão colorida, frente e verso",0,2000,DESCLASSIFICADO," ",9000,4.5
+"Encadernação em espiral até 100 folhas tamanho A4",0,200,DESCLASSIFICADO," ",1100,5.5
+"Encadernação em espiral acima de 100 folhas",0,50,DESCLASSIFICADO," ",350,7
+"Encadernação capa dura colorida, com impressão na capa em ba",0,20,DESCLASSIFICADO," ",1100,55

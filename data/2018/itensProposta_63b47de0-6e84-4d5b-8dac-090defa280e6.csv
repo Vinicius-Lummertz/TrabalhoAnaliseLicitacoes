@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,10,VENCEU," ",440,44
+"Patch painel categoria 5E 24 portas",0,2,VENCEU," ",290,145
+"Rack 19 6U x 450mm parede",0,4,VENCEU," ",1800,450
+"Bucha 6",0,200,VENCEU," ",52,0.26
+"Cabo UTP LAN Cat5e",0,2500,VENCEU," ",5250,2.1
+"Canaleta x20x10",0,100,VENCEU," ",600,6
+"Canaleta x50x20x2000",0,100,VENCEU," ",1000,10
+"Switch 8 portas 10/100",0,4,VENCEU," ",400,100
+"Conector RJ45 Cat5E",0,150,VENCEU," ",150,1
+"Etiqueta de identificação p/ ponto de rede",0,150,VENCEU," ",30,0.2
+"Fio Elétrico Flexivel 2,5mm",0,1800,VENCEU," ",3240,1.8
+"Abraçadeira pacote c/ 100 unidades",0,3,VENCEU," ",75,25
+"Fita isolante rolo c/ 20m",0,15,VENCEU," ",85.5,5.7
+"PARAFUSO P/ BUCHA 6",0,200,VENCEU," ",60,0.3
+"Patch cord 1,5m cat5e",0,100,VENCEU," ",800,8
+"Switch 24 portas 10/100/1000",0,2,VENCEU," ",1520,760
+"Tomada 2P + T NBR",0,150,VENCEU," ",1800,12
+"Caixa sistema X 3x3",0,200,VENCEU," ",1000,5
+"Espelho sistema X 2 furos p/ RJ 45",0,100,VENCEU," ",450,4.5
+"Fio Telefônico FE100 (DROP)",0,200,VENCEU," ",160,0.8
+"Conjunto de Porca Gaiola M5",0,50,VENCEU," ",40,0.8
+"Jack rj 45 e femea (qestone)",0,300,VENCEU," ",2550,8.5
+"MAO DE OBRA",0,800,VENCEU," ",54800,68.5

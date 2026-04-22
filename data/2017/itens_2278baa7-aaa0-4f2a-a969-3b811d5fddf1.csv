@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"LUVA CIRURGICA 6,5 ESTERIL",1260352,135,2000,ATIVO,PAR,1920,0.96
+"Luva Cirúrgica  estéril, Látex elasticidade. Nº. 7.0",1260353,136,3000,ATIVO,PAR,2880,0.96
+"Luva Cirúrgica estéril Nº. 7.5",1260354,137,2500,ATIVO,PAR,2400,0.96
+"Luva Cirúrgica estéril Nº. 8.0.",1260355,138,2000,ATIVO,PAR,1920,0.96
+"Luva Cirúrgica estéril Nº. 8.5",1260356,139,1000,ATIVO,PAR,960,0.96
+"Luva Cirúrgica estéril Nº. 9.0",1260357,140,200,ATIVO,PAR,198,0.99
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho G",1260358,142,2000,ATIVO,CXA,28780,14.39
+"Luva Látex não  Estéril  p/Procedimento  Tamanho MCaixa com",1260359,143,1500,ATIVO,CAIXA,21525,14.35
+"Luva Látex não  Estéril  p/ Procedimento  Tamanho P Caixa co",1260360,145,1625,ATIVO,CAIXA,23188.75,14.27
+"Luva Látex não Estéril p/ Procedimento  Tamanho PP",1260361,147,2000,ATIVO,CAIXA,28480,14.24
+"lUVA NITRILICA NÃO ESTERIL P PROCEDIMENTO TAM. G",1260362,148,100,ATIVO,CAIXA,1529,15.29
+"LUVA NITRILICA P/ PROCEDIMENTO TAM. M",1260363,149,200,ATIVO,CAIXA,3078,15.39
+"LUVA NITRILICA NÃO ESTERIL P/ PROCEDIMENTO TAM. P",1260364,150,500,ATIVO,CXA,7695,15.39
+"LUVA NITRILICA NAO ESTERIL PARA PROCEDIMENTO TAM. PP",1260365,151,100,ATIVO,CXA,1539,15.39
+"Mascara cirúrgica descartável cx c/ 50 unid cor branca",1260366,171,100,ATIVO,CAIXA,486,4.86
+"Touca descartável",1260367,252,50,ATIVO,PACOTE,268.5,5.37

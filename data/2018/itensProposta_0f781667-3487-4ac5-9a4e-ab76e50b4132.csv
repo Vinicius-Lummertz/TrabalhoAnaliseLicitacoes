@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,120,PERDEU," ",483.6,4.03
+"Caixa de Passagem Split",0,65,PERDEU," ",649.35,9.99
+"Cano cobre ½",0,65,PERDEU," ",763.1,11.74
+"Cano cobre ¼",0,65,PERDEU," ",336.05,5.17
+"Cano cobre ¾",0,65,PERDEU," ",1121.25,17.25
+"Cano cobre 3/8",0,65,PERDEU," ",533.65,8.21
+"Cano cobre 5/8.",0,65,PERDEU," ",907.4,13.96
+"Cano esponjoso ¼",0,65,PERDEU," ",31.2,0.48
+"Cano esponjoso ½",0,65,PERDEU," ",44.2,0.68
+"Cano esponjoso ¾",0,65,PERDEU," ",55.25,0.85
+"Cano esponjoso 3/8",0,65,PERDEU," ",39,0.6
+"Cano esponjoso 5/8",0,65,PERDEU," ",47.45,0.73
+"Capacitor 380V 2 MF",0,25,PERDEU," ",89,3.56
+"Capacitor 380V 3 MF",0,25,PERDEU," ",89,3.56
+"Capacitor 380V 4 MF",0,25,PERDEU," ",112.5,4.5
+"Capacitor 380V 5 MF",0,25,PERDEU," ",113.5,4.54
+"Capacitor 380V 8 MF",0,25,PERDEU," ",144.75,5.79
+"Capacitor 380V 10 MF",0,25,PERDEU," ",124.75,4.99
+"Capacitor 380V 15 MF",0,25,PERDEU," ",145,5.8
+"Capacitor 380V 20 MF",0,25,PERDEU," ",249.75,9.99
+"Capacitor 380V 25 MF",0,25,PERDEU," ",193.5,7.74
+"Capacitor 380V 30 MF",0,25,PERDEU," ",197.5,7.9
+"Capacitor 380V 35 MF",0,25,PERDEU," ",205,8.2
+"Capacitor 380V 40 MF",0,25,PERDEU," ",241.25,9.65
+"Capacitor 380V 45 MF",0,25,PERDEU," ",256.75,10.27
+"Capacitor 380V 55 MF",0,25,PERDEU," ",291.25,11.65
+"Chave contactora CWM 09",0,8,PERDEU," ",600,75
+"Chave contactora CWM 10",0,5,PERDEU," ",375,75
+"Compressor para Split 7000 BTUS",0,3,PERDEU," ",899.97,299.99
+"Compressor para Split 9000 BTUS",0,3,PERDEU," ",899.97,299.99
+"Compressor para Split 12000 BTUS",0,3,PERDEU," ",989.97,329.99
+"Compressor para Split 18000 BTUS",0,3,PERDEU," ",1287,429
+"Compressor para Split 24000 BTUS",0,3,PERDEU," ",1317,439
+"Compressor para Split 30000 BTUS",0,2,PERDEU," ",1259.98,629.99
+"Compressor para Split 60000 BTUS",0,1,PERDEU," ",1166.58,1166.58
+"Controle remoto univ. ar split",0,6,PERDEU," ",107.94,17.99
+"Dreno ar condicionado",0,55,PERDEU," ",165,3
+"Filtro do pó ar cond.",0,25,PERDEU," ",399.75,15.99
+"Fita PVC 100mm branca",0,400,PERDEU," ",1000,2.5
+"Gás R134 (carga)",0,50,PERDEU," ",6500,130
+"Gás R22 (carga)",0,50,PERDEU," ",6500,130
+"Hélice ar cond. 7000btus",0,10,PERDEU," ",600,60
+"Hélice ar cond. 10/18000btus",0,8,PERDEU," ",760,95
+"Placa eletrônica ar Electrolux",0,8,PERDEU," ",2720,340
+"Placa eletrôn. ar Consul",0,8,PERDEU," ",2720,340
+"Placa eletrôn. ar Brastemp",0,8,PERDEU," ",2720,340
+"Rele Monti",0,8,PERDEU," ",320,40
+"Sensor de temperatura frio",0,6,PERDEU," ",246,41
+"Sensor temp. aquecimento",0,6,PERDEU," ",246,41
+"Suporte split 7/12000btus",0,10,PERDEU," ",129.9,12.99
+"Suporte split 18/30000btus",0,10,PERDEU," ",339.9,33.99
+"Termostato ar cond. 1601",0,10,PERDEU," ",402,40.2
+"Turbina ventilador 10/30000",0,7,PERDEU," ",1295,185
+"Instalação de Ap. de Ar condicionado",0,30,PERDEU," ",11700,390
+"Serviço (hora).",0,750,PERDEU," ",52500,70

@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4426825,5,INABILITADO,UNI,2900,580
+"Armário Aéreo fechado.",4426826,2,INABILITADO,UN,1742.4,871.2
+"Armário arquivo para pasta suspensa",4426827,4,INABILITADO,UN,2904,726
+"Armário com 2 portas",4426828,10,INABILITADO,UN,9583.2,958.32
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4426829,2,INABILITADO,UNI,999,499.5
+BALCAO,4426830,3,INABILITADO,UNI,1740,580
+GAVETEIRO,4426831,6,INABILITADO,UND,2178,363
+"Cadeira giratória tipo executiva.",4426835,6,INABILITADO,UNI,1785,297.5
+"CADEIRA ESTOFADA",4426836,22,INABILITADO,UN,2717,123.5
+Poltrona,4426837,6,INABILITADO,UND,3463.2,577.2
+"MESA SIMPLES",4426838,2,INABILITADO,UND,871.2,435.6
+"Quadro branco magnético",4426840,2,DESCLASSIFICADO,UNI,651.54,325.77
+"Armário tipo Vestiário.",4426841,2,INABILITADO,UNI,847.66,423.83
+"Balança eletrônica infantil",4426842,1,PERDEU,UN,680.2,680.2
+"Lixeira cilíndrica Deverá vir com a simbologia de Infectant",4426843,4,PERDEU,UNI,225.6,56.4
+"Lixeira cilíndrica",4426844,10,PERDEU,UNI,583.2,58.32
+"Mesa auxiliar de mayo",4426845,1,INABILITADO,UNI,720.66,720.66
+"Mocho com assento e encosto",4426846,1,PERDEU,UNI,283.5,283.5
+"SUPORTE PARA HAMPER",4426847,1,PERDEU,UNI,460.35,460.35
+"Contentor de lixo",4426848,1,VENCEU,UN,313.9,313.9
+"Lixeiras de plástico com tampa",4426849,7,VENCEU,UNI,16.45,2.35
+"Organizador multiuso",4426850,6,VENCEU,UNI,170.76,28.46
+"Pote de policarbonato com tampa",4426851,7,VENCEU,UN,1085,155
+"Suporte de parede para Forno de Microondas",4426852,1,PERDEU,UNI,53.87,53.87
+"Ar condicionado Q/F tipo split HI WALL",4426853,5,PERDEU,UND,7245,1449
+"Refrigerador tipo doméstico",4426854,3,PERDEU,UNI,5040,1680
+"Televisor colorido 42 polegadas",4426855,1,VENCEU,UNI,2540,2540

@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Locação de Cadeiras plásticas tipo PVC branca (7diárias - 12",1,840,Desclassificado,DR,4620,5.5
+"Locação de 50 Mesas plásticas tipo PVC branca medindo 70x70x",2,350,Desclassificado,DIA,5250,15
+"Locação da arquibancada em estrutura de ferro galvanizada c/",3,30,Desclassificado,UND,8400,280
+"Locação de tenda 5m x 5m em estrutura de ferro galvanizada,",4,2,Desclassificado,UND,1500,750
+"SERVIÇOS DE ILUMINAÇÃO PARA CERIMONIAL DE ABERTURA -",5,1,Venceu,UND,3645,3645
+"SERVIÇOS DE SONORIZAÇÃO PARA COMPETIÇÕES Tipo 01-",6,42,Venceu,DIA,13421.61,319.5621
+"SERVIÇOS DE SONORIZAÇÃO PARA COMPETIÇÕES TIPO 2-",7,14,Venceu,DIA,5312.72,379.48
+"SERVIÇOS DE SONORIZAÇÃO PARA COMPETIÇÕES TIPO 3-",8,7,Venceu,DIA,2935.98,419.4252
+"SERVIÇOS DE SONORIZACAO PARA CERIMONIAL DE ABERTURA E ENCERR",9,1,Venceu,DIA,3874.69,3874.6904

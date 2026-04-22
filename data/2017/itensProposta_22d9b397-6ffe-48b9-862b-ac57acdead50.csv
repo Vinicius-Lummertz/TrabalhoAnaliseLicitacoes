@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ESPARADRAPO 10 X 4,5",4364051,80,VENCEU,UND,460,5.75
+"AGUA OXIGENADA 10 VOL",4364052,200,NAO_COTOU,LT,0,0
+"Ataduras de Crepom 6 cm",4364053,40,VENCEU,PCT,166.8,4.17
+"Ataduras de Crepom 10 cm",4364054,100,VENCEU,PCT,597,5.97
+"Ataduras de Crepom 15 cm",4364055,120,VENCEU,PCT,1039.2,8.66
+"Máscara cirúrgicas com Elástico",4364056,100,VENCEU,CX,593,5.93
+"Eletrodo Descartável para ECG",4364057,100,PERDEU,UND,1488,14.88
+"SACO PARA CADÁVER ADULTO 2,00X0,90X0,16",4364058,50,PERDEU,UND,1400,28
+"Mascara Respiratória",4364059,100,NAO_COTOU,UND,0,0
+"Saco de lixo polietileno cor branco leitoso, cor branco 30 l",4364060,40,PERDEU,UND,566.8,14.17
+"Saco de lixo polietileno cor branco leitoso, cor branco 50 l",4364061,30,PERDEU,UND,585.6,19.52
+"saco de lixo polietileno cor branco leitoso, 100 l",4364062,30,PERDEU,UND,914.7,30.49
+"Jogo de talas Rígidas 6 peças com bolsa",4364063,2,VENCEU,UND,756,378
+"Termômetro Infravermelho temperatura corporal 32,0 a 43,0°C",4364064,3,PERDEU,UND,591.36,197.12
+"Termômetro Infravermelho -30°C a 650°C (-22°F a 1202°F)",4364065,2,NAO_COTOU,UND,0,0
+"Cone de sinalização retrátil",4364066,40,NAO_COTOU,UND,0,0
+"cateter nasal para oxigênio tipo óculos",4364067,10,VENCEU,UND,177,17.7
+"Sonda de aspiração traqueal",4364068,20,VENCEU,UND,21,1.05
+"Lanterna de Cabeça",4364069,10,NAO_COTOU,UND,0,0

@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira",4427169,3,DESCLASSIFICADO,UNI,474,158
+"Balança antropométrica mecânica  adulto",4427170,1,PERDEU,UN,715,715
+"Balança eletrônica infantil",4427171,1,PERDEU,UN,660,660
+"Biombo triplo",4427172,2,INABILITADO,UN,686,343
+"Cadeira de rodas adulto  manual",4427173,1,VENCEU,UN,1062,1062
+"Aparelho para Inalação",4427175,1,PERDEU,UN,1370,1370
+"Escadinha hospitalar",4427176,8,PERDEU,UN,2000,250
+"Foco clínico (LED)",4427177,1,INABILITADO,UN,680,680
+"MESA GINECOLOGICA",4427179,1,PERDEU,UN,920,920
+"Mesa para exame clínico",4427180,6,INABILITADO,UNI,1950,325
+"Autoclave elétrica",4427181,1,DESCLASSIFICADO,UN,9000,9000
+NEGATOSCOPIO,4427183,2,PERDEU,UNI,456,228
+OTOSCOPIO,4427184,2,INABILITADO,UN,596,298
+"Suporte de soro",4427185,2,DESCLASSIFICADO,UN,442,221
+"Amalgamador capsular digital",4427186,1,PERDEU,UN,587,587
+"Mocho giratório",4427188,1,PERDEU,UN,326.7,326.7
+"Aparelho ultra-som (profilaxia)",4427189,1,PERDEU,UN,1706,1706
+"Carro de curativos",4427191,1,DESCLASSIFICADO,UN,940,940
+"Detector cardíaco fetal portátil digital.",4427193,1,PERDEU,UN,649,649

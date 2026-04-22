@@ -1,0 +1,21 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Quadro de distribuição com barramento para as fases, neutro",1287367,35,10,ATIVO,UNIDADE,7850,785
+"Disjuntor termomagnético tripolar 225A IEC/DIN",1287370,53,1,ATIVO,UNIDADE,195.26,195.26
+"Disjuntor termomagnético tripolar 200A IEC/DIN",1287371,52,3,ATIVO,UNIDADE,585.78,195.26
+"Disjuntor termomagnético tripolar 150A IEC/DIN",1287372,51,4,ATIVO,UNIDADE,781.04,195.26
+"Disjuntor termomagnético tripolar 100A IEC/DIN",1287373,50,4,ATIVO,UNIDADE,226,56.5
+"Disjuntor termomagnético tripolar 80A IEC/DIN",1287374,49,2,ATIVO,UNIDADE,113,56.5
+"Disjuntor termomagnético tripolar 32A IEC/DIN",1287379,44,2,ATIVO,UNIDADE,46.8,23.4
+"Disjuntor termomagnético tripolar 20A IEC/DIN",1287380,43,26,ATIVO,UNIDADE,608.4,23.4
+"Eletroduto pesado em PEAD corrugado 4",1287389,62,670,ATIVO,METRO,3216,4.8
+"Eletroduto de PVC flexível corrugado reforçado anti-chama 3/",1287392,19,7177,ATIVO,METRO,5095.67,0.71
+"Embutido (SPOT) em LED (18W)",1287400,11,51,ATIVO,UNIDADE,2907,57
+"Cabo flexível Atox Seção 2,5mm², isol. PVC 450/750V",1287401,20,14250,ATIVO,METRO,10972.5,0.77
+"Plafoiner circular de embutir em forro de gesso",1287404,7,18,ATIVO,UNIDADE,338.4,18.8
+"Luminária em chapa",1287406,5,55,ATIVO,UNIDADE,2942.5,53.5
+"Dispositivo protetor de surto (DPS) 275V 40 kA",1287411,56,24,ATIVO,UNIDADE,837.6,34.9
+"Cabo flexível Atox Seção 2,5mm², isol. PVC 450/750V",1287415,21,42750,ATIVO,METRO,32917.5,0.77
+"Emenda T - 200x100mm galv fogo CH.18 com tampa",1287419,69,4,ATIVO,UNIDADE,58.88,14.72
+"Curva 90º - 200x100mm galv fogo CH.18 com tampa",1287420,70,8,ATIVO,UNIDADE,117.76,14.72
+"Torneira elétrica de parede, bica alta para cozinha 5500W",1287424,72,2,ATIVO,UNIDADE,170.4,85.2
+"Haste de aterramento tipo Cooperweld 5/8 x 2,4m com conecto",1287430,79,19,ATIVO,UNIDADE,364.8,19.2

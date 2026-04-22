@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão-de-obra para assentamento de paver",0,1000,PERDEU," ",18000,18
+"Mão-de-obra para assentamento de pedra portuguesa (petit-pav",0,800,PERDEU," ",35200,44
+"Remoção de paver",0,1000,PERDEU," ",4200,4.2
+"Remoção de pedra portuguesa (petit-pavé)",0,800,PERDEU," ",2800,3.5

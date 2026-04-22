@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assinatura mensal",0,5,NAO_COTOU," ",0,0
+"Chamadas VC1 (intra-rede)",0,1000,NAO_COTOU," ",0,0
+"Chamadas VC1 (operadora diferente)",0,1000,NAO_COTOU," ",0,0
+"Chamadas VC1 (telefone fixo)",0,1000,NAO_COTOU," ",0,0
+"Chamadas VC2 (intra-rede)",0,500,NAO_COTOU," ",0,0
+"Chamadas VC2 (operadora diferente)",0,500,NAO_COTOU," ",0,0
+"Chamadas VC2 (telefone fixo)",0,500,NAO_COTOU," ",0,0
+"Chamadas VC3 (intra-rede)",0,100,NAO_COTOU," ",0,0
+"Chamadas VC3 (operadora diferente)",0,100,NAO_COTOU," ",0,0
+"Chamadas VC3 (telefone fixo)",0,100,NAO_COTOU," ",0,0
+"Tarifa-Zero Intragrupo",0,5,NAO_COTOU," ",0,0
+"Sistema de gerenciamento de bloqueio e liberação de chamadas",0,5,NAO_COTOU," ",0,0
+"Pacote SMS compartilhados",0,500,NAO_COTOU," ",0,0

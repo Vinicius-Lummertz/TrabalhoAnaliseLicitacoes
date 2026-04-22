@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto sextavado com 8cm de espessura",4335549,1000,NAO_COTOU,M2,0,0
+"Bloco de concreto sextavado com 6cm de espessura",4335550,500,NAO_COTOU,M2,0,0
+"Bloco de concreto tipo Paver com 6cm de espessura",4335551,50,NAO_COTOU,M2,0,0
+"Bloco de concreto tipo Paver com 8cm de espessura",4335552,200,NAO_COTOU,M2,0,0
+"Bloco de concreto tipo Briquete com 8cm de espessura",4335553,500,NAO_COTOU,M2,0,0
+"Meio-fio de concreto pré-moldado de 12x30x80cm",4335554,250,NAO_COTOU,M,0,0
+"Meio-fio de concreto pré-moldado de 15x30x80cm",4335555,250,NAO_COTOU,M,0,0
+"Areia lavada média",4335556,250,NAO_COTOU,M3,0,0
+"Areia fina sem especificação para construção civil",4335557,400,NAO_COTOU,TON,0,0
+"Brita ¾",4335558,100,PERDEU,M3,4900,49
+"PO DE PEDRA",4335559,400,VENCEU,TON,10600,26.5
+"base de brita graduada",4335560,1000,PERDEU,TON,30000,30
+"Cimento CP2 (sacas de cinquenta quilos)",4335561,600,NAO_COTOU,SC,0,0
+"Concreto asfáltico usinado à quente - CAUQ (faixa C - DNIT)",4335562,600,VENCEU,TON,129000,215

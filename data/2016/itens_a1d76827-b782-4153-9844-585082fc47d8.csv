@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"vara eucalipto para armação",1284843,565,3000,ATIVO,METRO,9000,3
+"Assoalho eucalipto 1°",1284846,38,150,ATIVO,"METRO QUADRADO",5227.5,34.85
+"bardela eucalipto 3,5 x 5 cm",1284850,42,2500,ATIVO,METRO,3250,1.3
+"Prancha de angelin bruTa",1284914,407,10,ATIVO,"METRO CUBICO",30000,3000
+"Prancha de cedro Brufa",1284941,408,10,ATIVO,"METRO CUBICO",29450,2945
+"Prancha de eucalipto bruta",1284943,409,10,ATIVO,"METRO CUBICO",14400,1440
+"prancha de itauba bruta",1284972,410,10,ATIVO,"METRO CUBICO",36400,3640
+"meia-cana pinus tamanho pádrão",1285020,363,600,ATIVO,UNIDADE,540,0.9
+"REPARTICAO DE PINUS",1285036,440,200,ATIVO,"METRO QUADRADO",4788,23.94
+"ripa eucalipto 1 x 2´´",1285097,441,540,ATIVO,METRO,324,0.6
+"TACAÇÃO DE PINUS P/ FORRO",1285103,466,2500,ATIVO,METRO,2475,0.99
+"tábua pinus seca beneficiada",1285104,465,40,ATIVO,"METRO CUBICO",28800,720
+"tabua de eucalipto beneficiada",1285105,464,10,ATIVO,"METRO CUBICO",13200,1320
+"tabua de cedro beneficiada",1285106,463,10,ATIVO,"METRO CUBICO",36000,3600
+"tabua de angelim beneficiada",1285107,462,10,ATIVO,"METRO CUBICO",39500,3950
+"tábua caixaria de pinus",1285108,461,80,ATIVO,"METRO CUBICO",40000,500
+"Espelho cedro 14 cm",1285354,215,250,ATIVO,UNIDADE,2975,11.9
+"Espelho cedro 12 cm",1285355,214,250,ATIVO,UNIDADE,2500,10
+"Forro de pinus 1ª",1285386,245,400,ATIVO,"METRO QUADRADO",5120,12.8

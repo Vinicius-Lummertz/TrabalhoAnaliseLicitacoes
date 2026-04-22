@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Meio fio de concreto pré-moldado de 12x30x80cm",1284701,6,5000,ATIVO,"METRO QUADRADO",77500,15.5
+"Bloco de concreto tipo Briquete com 8cm de espessura",1284702,5,500,ATIVO,"METRO QUADRADO",16000,32
+"Bloco de concreto tipo Paver com 8cm de espessura",1284703,4,500,ATIVO,"METRO QUADRADO",18750,37.5
+"Bloco de concreto sextavado com 8cm de espessura",1284705,1,17500,ATIVO,"METRO QUADRADO",533750,30.5

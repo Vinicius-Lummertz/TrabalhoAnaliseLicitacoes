@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Barra quadrada de ½",0,10,VENCEU," ",290,29
+"Cantoneira de 1 ¼ x 3/16",0,15,VENCEU," ",735,49
+"Tubo de 1 ¼ com parede de 3mm",0,10,VENCEU," ",660,66
+"Chapa de 1/8 medindo 1.200mm x 3.000mm",0,4,VENCEU," ",1200,300
+"Chapa  de 3/16 medindo 1.200mm x 3.000mm",0,4,VENCEU," ",2000,500
+"Chapa de 5/16 medindo 1.200mm x 3.000mm",0,4,VENCEU," ",3200,800
+"Barra perfil u 50mm x 150mm x 50mm com parede de 3mm",0,10,VENCEU," ",1600,160
+"Tubo 4 com parede de 2mm",0,30,VENCEU," ",4500,150
+"Barra redonda de 5/8",0,15,VENCEU," ",510,34
+"Barra ferro chato 1 ½x 3/16",0,10,VENCEU," ",320,32
+"Barra de tubos 30mm x 50mm com parede de 3mm",0,10,VENCEU," ",930,93
+"Barra de vergalhão 22mm",0,20,VENCEU," ",1780,89
+"Barra de vergalhão 25mm",0,20,VENCEU," ",2800,140
+"Barra cano galvanizado ½",0,10,VENCEU," ",460,46
+"Barra cano galvanizado ¾",0,10,VENCEU," ",600,60
+"Barra cano galvanizado 1",0,10,VENCEU," ",870,87
+"Barra cano galvanizado 2",0,10,VENCEU," ",1870,187
+"Barra cano galvanizado 3",0,10,VENCEU," ",2950,295
+"Eletrodo 46 x 3,25",0,20,VENCEU," ",420,21
+"Fundo para metal",0,10,VENCEU," ",640,64
+"Fundo zarcão para galvanizado",0,10,VENCEU," ",840,84
+"Tinta esmalte sintetico preta.",0,10,VENCEU," ",740,74
+"Tinta esmalte sintetico branca",0,10,VENCEU," ",740,74
+"Mão de Obra;",0,350,VENCEU," ",27650,79

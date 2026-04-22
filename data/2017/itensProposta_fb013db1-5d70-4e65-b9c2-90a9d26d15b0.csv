@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"FERRO 1/4",4357699,300,VENCEU,BR,3597,11.99
+"Ferro 5/16",4357700,500,VENCEU,BR,9950,19.9
+"FERRO 3/4",4357701,60,VENCEU,BR,6900,115
+"Bloco de concreto sextavado com 8cm de espessura",4357702,100,DESCLASSIFICADO,M2,4400,44
+"Bloco de concreto sextavado com 6cm de espessura",4357703,400,DESCLASSIFICADO,M2,17600,44
+"Bloco de concreto tipo Paver com 6cm de espessura",4357704,500,DESCLASSIFICADO,M2,21500,43
+"Bloco de concreto tipo Briquete com 8cm de espessura",4357705,500,DESCLASSIFICADO,M2,23450,46.9
+"Meio fio de concreto pré moldado de 12 x 30 x 80 cm",4357706,400,DESCLASSIFICADO,M,8600,21.5
+"Meio fio de concreto pré moldado de 15 x 30 x 80 cm",4357707,100,DESCLASSIFICADO,M,2500,25
+"Areia lavada média",4357708,300,PERDEU,M3,11250,37.5
+"Areia fina sem especificação para construção civil",4357709,400,DESCLASSIFICADO,TON,19160,47.9
+"Brita ¾",4357710,200,PERDEU,M3,8900,44.5
+"PO DE PEDRA",4357711,400,DESCLASSIFICADO,TON,20800,52
+"base de brita graduada",4357712,1000,DESCLASSIFICADO,TON,56000,56
+"CIMENTO CP 32 - 50 KG",4357713,800,VENCEU,SC,19600,24.5
+"CONCRETO ASFÁLTICO USINADO A QUENTE - CAUQ  - FAIXA  C DO",4357714,150,NAO_COTOU,TON,0,0
+"Tinta asfáltica (balde 18 litros)",4357715,5,VENCEU,BLD,2250,450
+"CONCRETO ASFÁLTICO USINADO A QUENTE - CAUQ  - FAIXA  C DO",4357716,450,NAO_COTOU,TON,0,0

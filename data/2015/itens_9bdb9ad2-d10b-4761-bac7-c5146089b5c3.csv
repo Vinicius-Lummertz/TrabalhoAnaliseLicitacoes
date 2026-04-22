@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grama do tipo Esmeralda",1273813,2,6000,ATIVO,"METRO QUADRADO",60000,10
+"Grama do tipo Sempre-Verde",1273814,1,6000,ATIVO,"METRO QUADRADO",48000,8

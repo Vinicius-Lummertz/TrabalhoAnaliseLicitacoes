@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amalgamador Capsular  Digital",4448528,4,PERDEU,UNI,2600,650
+"Aparelho de profilaxia odontológica por bicarbonato/ultrasom",4448529,10,PERDEU,UN,19500,1950
+"Autoclave 21L",4448533,10,INABILITADO,UN,25000,2500
+"Compressor odontológico em ferro fundido",4448540,6,CANCELADO,UN,9600,1600
+"Contra ângulo odontológico para peça de mão",4448541,5,PERDEU,UNI,2250,450
+"Fotopolimerizador sem fio com bateria removível",4448553,10,PERDEU,UNI,7000,700
+"Localizador apical eletrônico",4448567,1,VENCEU,UN,1400,1400
+"Motor Endonôntico",4448571,1,VENCEU,UNI,5500,5500
+"Ponta de ultrason nº 1",4448575,50,PERDEU,UN,4400,88
+"Ponta de ultrason nº 37",4448576,50,VENCEU,UN,4400,88
+"Ponta de ultrason nº 2",4448577,50,PERDEU,UN,4500,90
+"Ponta de ultrason nº 32",4448578,50,VENCEU,UN,5900,118
+"Ponta de ultrasson nº 10P",4448579,50,PERDEU,UN,5650,113
+"Ponta de ultrason nº 39",4448580,50,VENCEU,UN,5900,118
+"Tesoura cirúrgica Iris",4431394,80,DESCLASSIFICADO,UN,2000,25
+"Tesoura cirúrgica Mayo reta",4431395,20,CANCELADO,UNI,500,25

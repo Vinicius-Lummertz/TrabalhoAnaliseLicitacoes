@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cadeira Odontológica.",4430380,5,PERDEU,UNI,43250,8650
+"MOCHO ODONTOLÓGICO",4430381,10,PERDEU,UNI,5500,550
+"COMPRESSOR DE AR",4430382,5,VENCEU,UND,13675,2735

@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefone com fio",0,10,VENCEU," ",550,55
+"Aparelho telefone sem fio",0,10,VENCEU," ",990,99
+"ARQUIVO MORTO GRANDE DE PAPELAO",0,1000,VENCEU," ",2200,2.2
+"Bobina termica 57 MM",0,500,VENCEU," ",1250,2.5
+"Caneta esferográfica - cor azul",0,300,VENCEU," ",450,1.5
+"Caneta esferográfica - cor vermelha",0,150,VENCEU," ",225,1.5
+"CANETA MARCA TEXTO",0,200,VENCEU," ",600,3
+"cartucho HP 21 preto similar",0,50,VENCEU," ",1500,30
+"cartucho HP 22 color similar",0,20,VENCEU," ",940,47
+"Cartucho original C 87 66 W L color",0,5,VENCEU," ",800,160
+"CLIPS 2/0 (500 GRAMAS)",0,50,VENCEU," ",400,8
+"CLIPS 4/0 (500 GRAMAS)",0,50,VENCEU," ",400,8
+"Cx correspondência dupla",0,5,VENCEU," ",150,30
+"Cx correspondência tripla",0,5,VENCEU," ",230,46
+"Desumidificador de papel 500 folhas",0,10,VENCEU," ",1500,150
+"ESTABILIZADOR 300 VA",0,10,VENCEU," ",1080,108
+"FILTRO DE LINHA",0,10,VENCEU," ",220,22
+"Fita Epson FX 2190 similar",0,50,VENCEU," ",700,14
+"Fonte de 300 watts",0,5,VENCEU," ",260,52
+"Gabinete ATX com Fonte",0,15,VENCEU," ",1860,124
+"GRAMPEADOR GRANDE",0,20,VENCEU," ",540,27
+"GRAMPEADOR MEDIO",0,20,VENCEU," ",200,10
+"Grampo para grampeador 26/6 (500 gr)",0,30,VENCEU," ",120,4
+"HD externo 1 TB 3.0 USB",0,4,VENCEU," ",1400,350
+"HD I TB GB interno",0,15,VENCEU," ",6000,400
+"Hub 8 portas",0,5,VENCEU," ",400,80
+"Monitor 18,5 Polegadas LED",0,10,VENCEU," ",5500,550
+"MOUSE USB",0,20,VENCEU," ",240,12
+"Nobreak D 1400 VA",0,4,VENCEU," ",3800,950
+"Papel A4 de gramatura 75 gramas, cx c/ 10 resmas c/ 500 fls",0,50,VENCEU," ",7750,155
+"PEN DRIVE 32 GB",0,10,VENCEU," ",490,49
+"pen drive 8 gb",0,5,VENCEU," ",125,25
+"Pente de memória 4GB DDR3",0,15,VENCEU," ",2085,139
+"Pilha AA 1,5 com quatro unidades",0,10,VENCEU," ",60,6
+"Pilha AA com quatro unidades",0,5,VENCEU," ",30,6
+"Pilha AAA com duas unidades",0,50,VENCEU," ",350,7
+"Pilha botão 12 volts",0,30,VENCEU," ",120,4
+"Placa mãe 1150",0,15,VENCEU," ",5700,380
+"Processador 2.9 1150",0,15,VENCEU," ",10275,685
+"TECLADO USB",0,20,VENCEU," ",500,25
+"Toner amarelo compatível CLP 360 (406)",0,5,VENCEU," ",670,134
+"Toner compatível 26 12 a",0,10,VENCEU," ",400,40
+"Toner compatível 3200",0,5,VENCEU," ",375,75
+"Toner compatível CB 320",0,10,VENCEU," ",650,65
+"Toner compatível CB 321",0,10,VENCEU," ",650,65
+"Toner compatível CB 322",0,10,VENCEU," ",650,65
+"Toner compatível CB 323",0,10,VENCEU," ",650,65
+"Toner compatível CE 285 A",0,10,VENCEU," ",400,40
+"Toner cyan compatível CLP 360 (406)",0,5,VENCEU," ",670,134
+"Toner HP 278 similar",0,20,VENCEU," ",800,40
+"Toner Lexmark T430 compatível",0,8,VENCEU," ",1240,155
+"Toner Lexmark T640 compatível",0,6,VENCEU," ",1260,210
+"Toner mg compatível CLP 360 (406)",0,5,VENCEU," ",670,134
+"Toner preto compatível CLP 360 (406)",0,5,VENCEU," ",670,134
+"Toner TN 750 - Similar",0,10,VENCEU," ",600,60

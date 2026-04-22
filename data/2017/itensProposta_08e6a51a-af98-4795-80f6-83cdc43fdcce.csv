@@ -1,0 +1,63 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Conversão e aproveitamento dos dados existentes",0,1,VENCEU," ",30000,30000
+"Implantação do sistema",0,1,VENCEU," ",50000,50000
+"Treinamento dos usuários",0,1,VENCEU," ",20000,20000
+"Contabilidade Pública",0,12,VENCEU," ",67392,5616
+"Controle Financeiro",0,12,VENCEU," ",23846.4,1987.2
+Planejamento,0,12,VENCEU," ",20943.36,1745.28
+"Compras e Licitações",0,12,VENCEU," ",30067.2,2505.6
+"Controle de Almoxarifado",0,12,VENCEU," ",12441.6,1036.8
+"Controle de Bens Patrimoniais",0,12,VENCEU," ",10368,864
+"Controle de Frotas",0,12,VENCEU," ",11404.8,950.4
+"Folha de Pagamento",0,12,VENCEU," ",65318.4,5443.2
+"Recursos Humanos",0,12,VENCEU," ",37324.8,3110.4
+"Atendimento ao Servidor Público via Web",0,12,VENCEU," ",33177.6,2764.8
+"Controle de Ponto Eletrônico",0,12,VENCEU," ",20736,1728
+"Relógio de Ponto Virtual",0,12,VENCEU," ",27993.6,2332.8
+"Gestão Tributária",0,12,VENCEU," ",155520,12960
+"Controle de Protocolo",0,12,VENCEU," ",19699.2,1641.6
+"Atendimento ao Contribuinte via Web",0,12,VENCEU," ",77760,6480
+"Emissão de Notas Fiscais Eletrônicas",0,12,VENCEU," ",269568,22464
+"Escrituração Fiscal Eletrônica",0,12,VENCEU," ",77760,6480
+"BI (BUSINESS INTELLIGENCE)",0,12,VENCEU," ",25920,2160
+CUSTOS,0,12,VENCEU," ",18660,1555
+LEGISLAÇÃO,0,12,VENCEU," ",6420,535
+"Gestão de Procuradoria",0,12,VENCEU," ",62208,5184
+"Controle de Protocolo Web",0,12,VENCEU," ",18662.4,1555.2
+"Controle de Tesouraria",0,12,VENCEU," ",11404.8,950.4
+"Portal da Transparência",0,12,VENCEU," ",27993.6,2332.8
+"Contabilidade Pública para FM Incentivo Cultural",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações para FM Incentivo Cultural",0,12,VENCEU," ",2280.96,190.08
+"Tesouraria para FM Incentivo Cultural",0,12,VENCEU," ",10368,864
+"Contabilidade Pública para Fundação de Esportes",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações para Fundação de Esportes",0,12,VENCEU," ",2280.96,190.08
+"Tesouraria para Fundação de Esportes",0,12,VENCEU," ",10368,864
+"Contabilidade Pública para FM Criança/ Adolesc.",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações para FM Criança/Adolesc.",0,12,VENCEU," ",1555.2,129.6
+"Tesouraria para FM Criança/Adolesc.",0,12,VENCEU," ",10368,864
+"Contabilidade Pública para FM  Assistência Social",0,12,VENCEU," ",11404.8,950.4
+"Tesouraria para FM Assistência Social",0,12,VENCEU," ",10368,864
+"Contabilidade Pública para FAMCRI",0,12,VENCEU," ",9331.2,777.6
+"Folha de Pagamento para FAMCRI",0,12,VENCEU," ",3628.8,302.4
+"Compras e Licitações para FAMCRI",0,12,VENCEU," ",2280.96,190.08
+"Tesouraria para FAMCRI",0,12,VENCEU," ",5287.68,440.64
+"Contabilidade Públic a para FM  do  Meio Ambiente",0,12,VENCEU," ",11404.8,950.4
+"Tesouraria para FM Meio Ambiente",0,12,VENCEU," ",10368,864
+"Contabilidade Pública",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações",0,12,VENCEU," ",2280.96,190.08
+Tesouraria,0,12,VENCEU," ",10368,864
+Protocolo,0,12,VENCEU," ",3421.44,285.12
+"Compras e Licitações",0,12,VENCEU," ",4769.28,397.44
+"Contabilidade Pública",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações",0,12,VENCEU," ",4769.28,397.44
+Tesouraria,0,12,VENCEU," ",3939.84,328.32
+"Contabilidade Pública",0,12,VENCEU," ",5080.32,423.36
+"Compras e Licitações",0,12,VENCEU," ",4769.28,397.44
+Tesouraria,0,12,VENCEU," ",3939.84,328.32
+"Contabilidade Pública",0,12,VENCEU," ",11404.8,950.4
+"Compras e Licitações",0,12,VENCEU," ",10368,864
+"Gestão de Estoques",0,12,VENCEU," ",3420,285
+Tesouraria,0,12,VENCEU," ",10368,864
+"Contabilidade para Hospital Materno Sta. Catarina",0,12,VENCEU," ",11404.8,950.4
+"Serviços Suplementares de suporte técnico, quando necessário",0,200,VENCEU," ",16000,80
+"Serviços de alterações de sistemas específicos da Contratant",0,200,VENCEU," ",16000,80

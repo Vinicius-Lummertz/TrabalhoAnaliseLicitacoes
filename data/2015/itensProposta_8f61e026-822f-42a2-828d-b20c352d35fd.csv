@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Portal de entrada - Etnias",0,7,VENCEU," ",2491.65,355.95
+"Balcões Frontais - Etnias",0,92,VENCEU," ",5239.4,56.95
+"Divisórias 01",0,240,VENCEU," ",3247.2,13.53
+"Divisórias 02",0,80,VENCEU," ",2278.4,28.48
+"Mobiliário: mesas plásticas",0,1000,VENCEU," ",3560,3.56
+"Mobiliário:cadeiras plásticas",0,4000,VENCEU," ",7120,1.78
+"Piso entrada/divisória: Tablado de madeira",0,56,VENCEU," ",797.44,14.24
+"Piso entrada/divisória: divisórias montadas com perfis de al",0,20,VENCEU," ",498.4,24.92
+"Camarins: camarins medindo 5x5m (25m²)",0,2,VENCEU," ",1124.82,562.41
+"Camarins: camarins medindo 3x5m (15m²)",0,1,VENCEU," ",783.1,783.1
+"Palco 01: Palco medindo 12x10m",0,1,VENCEU," ",7830.96,7830.96
+"Palco 02: Palco medindo 15x12m",0,1,VENCEU," ",6407.15,6407.15
+"Locação de barricadas de proteção de palco",0,300,VENCEU," ",12387,41.29
+Camarotes,0,5,VENCEU," ",1779.75,355.95
+Piso,0,1100,VENCEU," ",17226,15.66
+"Locação de bancadas",0,35,VENCEU," ",1993.25,56.95
+"Locação de armários",0,30,VENCEU," ",2135.7,71.19

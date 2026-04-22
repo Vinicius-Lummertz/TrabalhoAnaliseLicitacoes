@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4435363,3000,DESCLASSIFICADO,UNI,10650,3.55
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4435364,2000,DESCLASSIFICADO,UNI,5400,2.7
+"Especulo vaginal, descartável, estéril, sem lubrificação M",4435399,5000,VENCEU,UN,3850,0.77
+"Especulo vaginal, descartável, estéril, sem lubrificação G",4435400,1000,PERDEU,UN,1000,1
+"Especulo vaginal, descartável, estéril, sem lubrificação P",4435401,5000,VENCEU,UN,3550,0.71
+"Espéculo vaginal, tipo MINI descartável",4435402,200,DESCLASSIFICADO,UN,250,1.25
+"Kit de nebulização adulto",4435431,50,DESCLASSIFICADO,UN,907.5,18.15
+"Óleo de girassol.",4435468,5000,PERDEU,UNI,17250,3.45
+"Seringa 20ml, sem agulha",4435478,10000,DESCLASSIFICADO,UNI,3900,0.39
+"Seringa 3ml, sem agulha",4435479,15000,DESCLASSIFICADO,UN,2250,0.15
+"Seringa 5ml, sem agulha",4435480,20000,DESCLASSIFICADO,UN,3200,0.16

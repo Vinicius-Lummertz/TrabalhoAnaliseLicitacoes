@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pirâmide 10x10m",1321869,1,61,ATIVO,DIARIA,38414.75,629.75
+"Pirâmide 5x5m",1321870,2,60,ATIVO,UNIDADE,17175,286.25
+"Palco 5x5m",1321871,3,20,ATIVO,UNIDADE,12595,629.75
+"Palco 10x10m",1321872,4,20,ATIVO,UNIDADE,44655,2232.75
+"Locação e Stands em TS e alumínio completo com prateleira",1321873,5,58,ATIVO,UNIDADE,1660.25,28.625

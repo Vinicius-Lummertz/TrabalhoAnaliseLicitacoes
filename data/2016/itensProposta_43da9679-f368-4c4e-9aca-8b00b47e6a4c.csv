@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-A : frasco de 10ml",4430319,8,VENCEU,FR.,112,14
+"Anti-B: frasco de 10ml",4430320,8,VENCEU,FR.,112,14
+"Anti-D: frasco de 10ml",4430321,15,VENCEU,FR.,390,26
+"Antiestreptolisina O .",4430324,1000,VENCEU,TEST,900,0.9
+"Kit de Proteína C Reativa com  controle positivo e negativo",4430326,4500,VENCEU,TEST,2700,0.6
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",4430327,1500,PERDEU,TEST,4650,3.1
+"VDRL-latex c/ controle negativo e positivo",4430328,20000,VENCEU,TEST,2000,0.1
+"Lamínulas 20x20.",4430329,100,PERDEU,CX,205,2.05
+"Lâminas sem lapidação p/ microscópio",4430330,100,VENCEU,CX,230,2.3
+"Lâminas com a extremidade fosca p/ baciloscopia (tuberculose",4430331,100,PERDEU,CX,435,4.35
+"Corante p/ hematologia Giensa",4430334,18,PERDEU,L,945,52.5
+"Corante p/ hematologia May Grunwald",4430335,18,PERDEU,L,672.3,37.35
+"TUBO CAPILAR S/ HEPARINA",4430336,10,VENCEU,CXS,90,9
+"Pipeta de vidro graduada com volume de 05 ml",4430337,50,VENCEU,UNI,80,1.6
+"Calice com base para sedimentação",4430338,200,PERDEU,UNI,420,2.1
+"Pote plástico com tampa de rosca descartável p/ coleta de 60",4430339,65000,DESCLASSIFICADO,UNI,42250,0.65
+"Óleo de imersão p/ microscopia   frasco c/ 100ml",4430340,6,PERDEU,FR.,85.74,14.29
+"Adesivo (bandagem) estéril.",4430341,60000,VENCEU,UNI,1380,0.023
+"Placas de Kline de vidro  p/ VDRL com 12 escavações com   pr",4430342,30,PERDEU,UN,1560,52
+"Pipeta de vidro de 5 ml com graduação",4430343,150,PERDEU,UNI,1950,13
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",4430344,18000,DESCLASSIFICADO,UN,19800,1.1
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",4430345,100000,DESCLASSIFICADO,UN,70000,0.7
+"Tubo plástico sistema a vácuo c/ gel separador-c/ volume de",4430346,100000,DESCLASSIFICADO,UN,123000,1.23
+"Tubo plástico seco sistema a vácuo 9 ml",4430347,40000,DESCLASSIFICADO,UN,38400,0.96
+"Adaptador universal  que se adapte aos itens 1, 2, 16 e 17,",4430349,500,VENCEU,UNI,45,0.09
+"Pipetador  manual 10 ml",4430350,10,PERDEU,UNI,241,24.1
+"Escova para lavar tubos 12 x 75",4430351,60,VENCEU,UNI,108,1.8
+"Tubos para hemólise 12x75 de vidro",4430352,2000,PERDEU,UN,580,0.29
+"Controle para RH fraco de 10 ml",4430353,5,PERDEU,UNI,110,22
+"Corante Azul de Cresil Brilhante",4430354,2,PERDEU,UN,60,30
+"Cálices de plástico com base e com abertura de 7 cm",4430355,200,PERDEU,UNI,800,4
+"BASTAO DE VIDRO",4430356,200,VENCEU,UN,360,1.8
+"Albumina a 22%,  Fr c/ 10 ml",4430358,8,PERDEU,FR.,279.2,34.9
+"Banho Maria Seco Incubador e Timer 40 tubos 13 mm",4430361,1,INABILITADO,UN,3100,3100

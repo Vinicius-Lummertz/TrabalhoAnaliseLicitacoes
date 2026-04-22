@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Folhas timbradas (modelo fornecido pelo CBMSC), tamanho 21",0,20000,VENCEU," ",1800,0.09
+"Blocos - 50X2 de advertência",0,14,VENCEU," ",644,46
+"Blocos - 50X2 de desembargo",0,14,VENCEU," ",644,46
+"Blocos - 50X2 de desinterdição",0,14,VENCEU," ",644,46
+"Blocos - 50X2 de embargo",0,14,VENCEU," ",644,46
+"Blocos - 50X2 de interdição",0,14,VENCEU," ",644,46
+"Blocos - 50X2 de laudo",0,100,VENCEU," ",1850,18.5
+"Blocos - 50X2 de multa",0,28,VENCEU," ",837.2,29.9
+"Blocos - 50X2 de notificação",0,100,VENCEU," ",1850,18.5
+"Blocos - 50X2 de P 16",0,28,VENCEU," ",837.2,29.9
+"Blocos - 50X2 de regularização (modelo fornecido pelo CBMSC)",0,100,VENCEU," ",1850,18.5

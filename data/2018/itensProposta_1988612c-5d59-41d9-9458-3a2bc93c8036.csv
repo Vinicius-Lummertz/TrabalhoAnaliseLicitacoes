@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guarda-corpo com tubo metálico, 2 (polegadas), pintura elet",0,60,VENCEU," ",24600,410
+"Corrimão metálico com pintura eletrostática ( metro linear)",0,60,VENCEU," ",14100,235
+"Portão chapeado galvanizado, pintura eletrostática, tubo 40x",0,60,VENCEU," ",21000,350
+"Serviço de serralheiro/soldador sem deslocamento",0,55,VENCEU," ",4950,90
+"Serviço de serralheiro/soldador com deslocamento",0,30,VENCEU," ",4200,140

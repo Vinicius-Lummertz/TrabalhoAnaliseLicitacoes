@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Beclometasona 250mcg/mL - 200 doses",4427704,500,VENCEU,FR.,15900,31.8
+"Beclometasona 400 mcg cápsula inalante",4427705,600,VENCEU,CPLA,342,0.57
+"Beclometasona 50mcg spray nasal com 200 doses 11,4ml",4427706,200,VENCEU,FR.,3240,16.2
+"Bupropiona, cloridrato 150mg",4427721,1000,DESCLASSIFICADO,COMP,530,0.53
+"Carbonato de lítio 300g",4427727,150000,DESCLASSIFICADO,COMP,19500,0.13
+"Clopidogrel 75mg comprimido revestido",4427743,115000,DESCLASSIFICADO,COMP,54740,0.476
+"Doxazosina 2 mg",4427770,30000,DESCLASSIFICADO,COMP,3150,0.105
+"Espironolactona 25mg",4427778,360000,DESCLASSIFICADO,COMP,62640,0.174
+"LEVOFLOXACINO 500MG",4427826,5000,VENCEU,COMP,2650,0.53
+"Levonorgestrel 0,75mg com dois comprimidos",4427831,350,PERDEU,COMP,773.5,2.21
+"Losartana 50mg comprimido revestido",4427841,3000000,DESCLASSIFICADO,COMP,306000,0.102
+"Prednisona 20mg",4427880,400000,PERDEU,COMP,88400,0.221
+"Tenoxicam 20 mg pó para solução injetável com solução diluen",4427904,4500,DESCLASSIFICADO,AMP,19845,4.41
+"TIAMINA 300 MG",4427907,8000,DESCLASSIFICADO,COMP,1792,0.224

@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Poltrona hospitalar reclinável estofada",4433065,10,DESCLASSIFICADO,UN,10599,1059.9
+"Aparelho Microondas, capac. 22lt, na cor branca",4433107,2,VENCEU,UNI,872,436
+"Bebedouro elétrico de coluna",4433108,3,PERDEU,UN,1611,537
+"Refrigerador tipo doméstico 2 portas",4433109,1,DESCLASSIFICADO,UN,1890,1890
+FRIGOBAR,4433110,3,VENCEU,UNI,2700,900
+"Televisor colorido 42 polegadas",4433111,1,PERDEU,UNI,2406,2406
+"Aparelho telefônico convencional de mesa com fio.",4433112,23,PERDEU,UN,1120.1,48.7
+"Aparelho telefônico convencional de mesa, sem fio",4433113,5,PERDEU,UN,495,99
+"Head fone  com Headset Possuir fone de ouvido com microfone",4433114,1,PERDEU,UN,181,181
+"Fogao de piso",4433115,1,VENCEU,UNI,437,437
+"Carro funcional  para limpeza",4433116,3,DESCLASSIFICADO,CNJ,4275,1425
+"Caixa térmica",4433117,2,VENCEU,UN,159.8,79.9
+"Lixeira cilíndrica em polietileno",4433118,2,PERDEU,UNI,122.22,61.11
+"Cesto redondo 12litros papeleira em ploietileno",4433120,30,PERDEU,UNI,489,16.3
+"Lixeira em polietileno resistente, capac. 50 litros",4433121,1,PERDEU,UN,405,405
+"Palletes plástico medindo aprox. 100 x 120 x 15 cm (LxCxA)",4433122,6,PERDEU,UN,720,120
+"Escada em alumínio reforçada, com 7 degraus, dobrável",4433123,4,PERDEU,UN,488,122
+"Cabideiro de parede Metálico",4433124,4,VENCEU,UNI,150.4,37.6

@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óleo lubrificante multiviscoco SAE 15W40",4366919,8,PERDEU,TB,19080,2385
+"Desemgraxante para chassi",4366920,3,PERDEU,TB,1218,406
+"Fluído de Freio e Embreagem DOT4 (cx 30-500ml)",4366921,2,VENCEU,CX,1266,633
+"Graxa lubrificante a base de sabão de cálcio nl g12 (pinos)",4366922,4,PERDEU,TB,6296,1574
+"Óleo lubrificante para caixa de direção hidráulica e transm.",4366923,1,VENCEU,TB,3315,3315
+"Óleo lubrificante para caixa de marchas SAE 80W90",4366924,1,PERDEU,TB,3692,3692
+"Óleo lubrificante para caixa de transmissão (EATON) E Motore",4366925,1,PERDEU,BLD,2752,2752
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",4366926,2,VENCEU,BLD,7400,3700
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN",4366927,6,PERDEU,TB,11046,1841
+"Óleo lubrificante para transmissões (Caixas e Diferenciais),",4366928,1,VENCEU,TB,1455,1455
+"Óleo lubrificante para transmissões automotivas SAE 85W140",4366929,1,PERDEU,BLD,3524,3524
+"Shampo para lavação de veículos",4366930,5,VENCEU,TB,1335,267
+"OLEO MINERAL PARA ENGRENAGEM FECHADAS ISO 460",4366931,1,PERDEU,BLD,2079,2079
+"OLEO MINERAL PARA ENGRENAGEM FECHADAS ISO 220",4366932,1,PERDEU,BLD,2010,2010
+"OLEO MINERAL PARA ENGRENAGEM FECHADAS ISO 150",4366933,1,VENCEU,BLD,1950,1950
+"OLEO PARAFINICO REFINADO",4366934,1,PERDEU,TB,2376,2376
+"GRAXA A BASE DE SABÃO DE LÍTIO",4366935,1,PERDEU,TB,3020,3020

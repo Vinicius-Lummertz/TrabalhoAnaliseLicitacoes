@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"tubo de concreto D: 1000 mm CA1",1292577,7,20,ATIVO,METRO,4400,220
+"tubo de concreto D: 800 mm CA1",1292578,6,20,ATIVO,METRO,3700,185
+"tubo de concreto D600mm",1292579,5,150,ATIVO,METRO,9750,65
+"tubo de concreto D500mm",1292580,4,100,ATIVO,METRO,4500,45
+"tubo de concreto D400mm",1292581,3,1000,ATIVO,METRO,30000,30
+"tubo de concreto D300mm",1292582,2,1000,ATIVO,METRO,20000,20
+"tubo de concreto D200mm",1292583,1,1000,ATIVO,METRO,16000,16

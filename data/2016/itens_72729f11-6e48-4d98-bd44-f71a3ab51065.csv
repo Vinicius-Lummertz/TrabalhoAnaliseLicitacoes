@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Espessante a base de amido de milho",1259763,9,100,ATIVO,LATA,5500,55
+"Nutrição enteral, em pó para pessoas com mais de 10 anos",1259767,19,200,ATIVO,LATA,6400,32
+"Fórmula infantil para lactentes e de seguimento para lactent",1259768,15,250,ATIVO,LATA,47000,188
+"Fórmula infantil para lactentes até 06 meses",1259769,14,4200,ATIVO,LATA,33306,7.93
+"Fórmula infantil de seguimento, a base de proteínas isolada",1259770,12,500,ATIVO,LATA,5625,11.25
+"Fórmula elementar à base de 100% de aminoácidos livres",1259771,10,500,ATIVO,LATA,95000,190
+"Dieta semi-elementar e hipoalergênica",1259772,8,1300,ATIVO,LATA,98800,76
+"Alimento em pó para nutrição oral ou enteral para crianças",1259773,2,250,ATIVO,LATA,16250,65
+"Dieta enteral para crianças",1259774,5,2880,ATIVO,FRASCO,69120,24
+"Dieta enteral liquida",1259775,4,500,ATIVO,EMBALAGEM,24500,49
+"Alimento para lactentes menores de um ano de idade com intol",1259776,3,450,ATIVO,LATA,8172,18.16
+"Alimento a base de proteína isolada de soja",1259777,1,350,ATIVO,LATA,5635,16.1
+"Dieta enteral/oral nutricionalmente completa para crianças d",1259782,6,400,ATIVO,LATA,59600,149

@@ -1,0 +1,18 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biscoito doce sem recheio",1259797,5,60,ATIVO,UNIDADE,189,3.15
+"Biscoito de Chocolate",1259798,4,40,ATIVO,kg,178,4.45
+"BISCOITO SALGADO",1259799,7,30,ATIVO,UNIDADE,116.7,3.89
+"Bombom recheado",1259800,8,5,ATIVO,Pacote,194.45,38.89
+"CAFE EXTRA FORTE",1259801,9,264,ATIVO,kg,2373.36,8.99
+"Caixa de fósforos",1259802,10,12,ATIVO,UNIDADE,53.88,4.49
+"Embalagem plástica descartável para 3l",1259803,11,50,ATIVO,UNIDADE,795,15.9
+"Embalagem plástica descartável para 5l",1259804,12,50,ATIVO,UNIDADE,995,19.9
+"Filtro de papel para café",1259805,13,135,ATIVO,UNIDADE,498.15,3.69
+"Fita empacotamento",1259806,14,20,ATIVO,UNIDADE,99.8,4.99
+"Leite Integral UHT",1259807,15,25,ATIVO,CAIXA,72.25,2.89
+"BISCOITO SALGADO INTEGRAL",1259808,6,30,ATIVO,PACOTE,112.5,3.75
+"Suco de fruta líquido",1259809,17,600,ATIVO,UNIDADE,1482,2.47
+"Papel Kraft natural",1259810,16,12,ATIVO,UNIDADE,760.8,63.4
+"Achocolatado líquido.",1259811,1,600,ATIVO,UNIDADE,1620,2.7
+"ACUCAR REFINADO",1259812,2,100,ATIVO,kg,289,2.89
+ADOCANTE,1259813,3,20,ATIVO,FRASCO,75.8,3.79

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carroceria isntalada nova, caminhão munck 245",0,1,VENCEU," ",9778.56,9778.56
+"Carroceria isntalada nova, caminhão cargo 262",0,1,VENCEU," ",8448,8448
+"assoalho em madeira, caminhões cargo 228 e 233",0,28,VENCEU," ",5736.08,204.86
+"Reforma em geral caminhão cargo 248",0,1,VENCEU," ",5512.32,5512.32

@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-A : frasco de 10ml",4430319,8,PERDEU,FR.,119.92,14.99
+"Anti-B: frasco de 10ml",4430320,8,PERDEU,FR.,119.92,14.99
+"Anti-D: frasco de 10ml",4430321,15,PERDEU,FR.,405,27
+"BETA HCG",4430323,1900,PERDEU,TEST,1539,0.81
+"Antiestreptolisina O .",4430324,1000,PERDEU,TEST,990,0.99
+"Fator reumatóide (látex) com controle positivo e negativo",4430325,2800,VENCEU,TEST,2016,0.72
+"Kit de Proteína C Reativa com  controle positivo e negativo",4430326,4500,PERDEU,TEST,3060,0.68
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",4430327,1500,VENCEU,TEST,4500,3
+"Lamínulas 20x20.",4430329,100,VENCEU,CX,148,1.48
+"Lâminas sem lapidação p/ microscópio",4430330,100,PERDEU,CX,239,2.39
+"Lâminas com a extremidade fosca p/ baciloscopia (tuberculose",4430331,100,VENCEU,CX,268,2.68
+"Corante p/ hematologia Giensa",4430334,18,VENCEU,L,795.24,44.18
+"Corante p/ hematologia May Grunwald",4430335,18,VENCEU,L,566.46,31.47
+"TUBO CAPILAR S/ HEPARINA",4430336,10,DESCLASSIFICADO,CXS,123.5,12.35
+"Pipeta de vidro graduada com volume de 05 ml",4430337,50,PERDEU,UNI,84.5,1.69
+"Calice com base para sedimentação",4430338,200,VENCEU,UNI,418,2.09
+"Pote plástico com tampa de rosca descartável p/ coleta de 60",4430339,65000,VENCEU,UNI,13000,0.2
+"Óleo de imersão p/ microscopia   frasco c/ 100ml",4430340,6,VENCEU,FR.,72.84,12.14
+"Adesivo (bandagem) estéril.",4430341,60000,PERDEU,UNI,1500,0.025
+"Placas de Kline de vidro  p/ VDRL com 12 escavações com   pr",4430342,30,PERDEU,UN,1560,52
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",4430344,18000,PERDEU,UN,7380,0.41
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",4430345,100000,VENCEU,UN,43500,0.435
+"Tubo plástico sistema a vácuo c/ gel separador-c/ volume de",4430346,100000,PERDEU,UN,85000,0.85
+"Tubo plástico seco sistema a vácuo 9 ml",4430347,40000,VENCEU,UN,24400,0.61
+"Funil de plástico com 10 cm de abertura",4430348,200,VENCEU,UNI,648,3.24
+"Controle para RH fraco de 10 ml",4430353,5,VENCEU,UNI,83.85,16.77
+"Corante Azul de Cresil Brilhante",4430354,2,VENCEU,UN,48.6,24.3
+"Cálices de plástico com base e com abertura de 7 cm",4430355,200,VENCEU,UNI,440,2.2
+"BASTAO DE VIDRO",4430356,200,PERDEU,UN,390,1.95
+"Albumina a 22%,  Fr c/ 10 ml",4430358,8,VENCEU,FR.,157.04,19.63
+"Banho Maria Seco Incubador e Timer 40 tubos 13 mm",4430361,1,VENCEU,UN,2990,2990

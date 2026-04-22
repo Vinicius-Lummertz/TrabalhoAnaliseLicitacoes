@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 250 mg/5ml susp oral 60ml",4431740,26250,VENCEU,FR,78750,3
+"Metformina 500 mg",4431906,1050000,VENCEU,COMP,54600,0.052
+"METFORMINA 850 MG",4431908,2250000,PERDEU,COMP,94500,0.042
+"OMEPRAZOL 20MG",4431936,2850000,PERDEU,CP,165300,0.058

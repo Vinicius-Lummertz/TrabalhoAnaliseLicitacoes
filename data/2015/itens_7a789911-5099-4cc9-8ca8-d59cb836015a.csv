@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SHAMPOO 5LITROS",1242635,5,150,ATIVO,UNIDADE,2041.5,13.61
+"CORTADOR DE UNHA",1242636,15,50,ATIVO,UNIDADE,133.5,2.67
+ALGODÃO.,1242637,17,50,ATIVO,UNIDADE,106,2.12

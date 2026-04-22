@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Licenciamento mensal",0,12,VENCEU," ",16226.28,1352.1898
+"Implantação e Configuração",0,1,VENCEU," ",7230.66,7230.6569
+"Treinamento de usuários",0,1,VENCEU," ",4156.2,4156.2044
+"Horas disponíveis para serviços continuados (Estimadas 200 h",0,200,VENCEU," ",11386.86,56.9343

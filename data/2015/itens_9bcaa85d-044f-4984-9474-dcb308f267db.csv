@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levodopa 100mg + benserazida 25mg HBS",1258471,156,60000,ATIVO,COMPRIMIDO,71880,1.198
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel",1258472,155,10000,ATIVO,COMPRIMIDO,11980,1.198
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",1258473,154,130000,ATIVO,COMPRIMIDO,107640,0.828

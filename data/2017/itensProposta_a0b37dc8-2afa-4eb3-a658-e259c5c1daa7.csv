@@ -1,0 +1,58 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ALCOOL  70% LTS",4357593,200,NAO_COTOU,LT,0,0
+"Alcool gel - 480 ml",4357594,120,NAO_COTOU,FRA,0,0
+"ESPARADRAPO 10 X 4,5",4357595,80,NAO_COTOU,UND,0,0
+"AGUA OXIGENADA 10 VOL",4357596,200,NAO_COTOU,LT,0,0
+"Ataduras de Crepom 6 cm",4357597,40,NAO_COTOU,PCT,0,0
+"Ataduras de Crepom 10 cm",4357598,100,NAO_COTOU,PCT,0,0
+"Ataduras de Crepom 15 cm",4357599,120,NAO_COTOU,PCT,0,0
+"Soro Fisiológico 100ml",4357600,20,NAO_COTOU,ML,0,0
+"Soro Fisiológico 250ml",4357601,20,NAO_COTOU,ML,0,0
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",4357602,300,NAO_COTOU,CX,0,0
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",4357603,300,NAO_COTOU,CX,0,0
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",4357604,100,NAO_COTOU,CX,0,0
+"Máscara cirúrgicas com Elástico",4357605,50,NAO_COTOU,CX,0,0
+"Eletrodo Descartável para ECG",4357606,50,NAO_COTOU,UND,0,0
+"Cobertura/saco de óbito",4357607,50,NAO_COTOU,UND,0,0
+"Mascara Respiratória",4357608,100,NAO_COTOU,UND,0,0
+"KIT PARTO",4357609,20,NAO_COTOU,UND,0,0
+"KIT QUEIMADURA",4357610,20,NAO_COTOU,UND,0,0
+"Manta Térmica Aluminizada 2,10 x 1,40",4357611,100,NAO_COTOU,UND,0,0
+"Eletrodo de Uso Adulto para LIFEPAK 1000",4357612,20,NAO_COTOU,UND,0,0
+"Eletrodo de uso pediátrico para LIFEPAK 1000",4357613,5,NAO_COTOU,UND,0,0
+"Compressa de Campo Cirurgico",4357614,60,NAO_COTOU,UND,0,0
+"Saco de lixo 30 litros - fardo com 100 unidades",4357615,40,NAO_COTOU,UND,0,0
+"Saco de lixo 50 litros - fardo com 100 unid.",4357616,30,NAO_COTOU,UND,0,0
+"Esfigmomanômetro Aneróide c/estetoscópio",4357617,10,DESCLASSIFICADO,UND,720,72
+"Estetoscópio cardiológico com auscultador duplo em aço inox",4357618,10,PERDEU,UND,665,66.5
+"Imobilizador de Cabeça impermeável - Adulto Coxim completo",4357619,4,NAO_COTOU,UND,0,0
+"LANTERNA CLINICA",4357620,3,DESCLASSIFICADO,UND,210,70
+"Oxímetro portátil de dedo",4357621,20,DESCLASSIFICADO,UND,3800,190
+"Sensor de oximetria",4357622,5,PERDEU,UND,2150,430
+"Bateria para desfibrilador",4357623,3,NAO_COTOU,UND,0,0
+"Tirante aranha",4357624,10,NAO_COTOU,UND,0,0
+"Colar Cervical regulável , com 16 posições",4357625,20,NAO_COTOU,UND,0,0
+"Colar Cervical regulável com 12 posições",4357626,5,NAO_COTOU,UND,0,0
+"CORTA ANEL",4357627,3,NAO_COTOU,UND,0,0
+"Termômetro digital",4357628,3,NAO_COTOU,UND,0,0
+"TESOURA PONTA ROMBA",4357629,10,PERDEU,UND,400,40
+"Jogo de talas Rígidas 6 peças com bolsa",4357630,2,NAO_COTOU,UND,0,0
+"Óculos de segurança",4357631,100,NAO_COTOU,UND,0,0
+"Termômetro Infravermelho temperatura corporal 32,0 a 43,0°C",4357632,3,NAO_COTOU,UND,0,0
+"Termômetro Infravermelho -30°C a 650°C (-22°F a 1202°F)",4357633,2,NAO_COTOU,UND,0,0
+"Bolsa Modelo Socorrista - Vermelha",4357634,6,NAO_COTOU,UND,0,0
+"Colete imobilizador (KED) adulto",4357635,2,NAO_COTOU,UND,0,0
+"Colete imobilizador (KED) infantil",4357636,2,NAO_COTOU,UND,0,0
+"Máscara para RCP",4357637,60,NAO_COTOU,UND,0,0
+"Reanimador manual com suplemento de oxigênio adulto",4357638,5,PERDEU,UND,800,160
+"Reanimador manual com suplemento de oxigênio infantil",4357639,5,PERDEU,UND,800,160
+"Cone de sinalização retrátil",4357640,40,NAO_COTOU,UND,0,0
+"Desfibrilador Externo Automático (DEA) bifásico",4357641,1,NAO_COTOU,UND,0,0
+"Frasco Umidificador O2 para Oxigênio",4357642,10,NAO_COTOU,UND,0,0
+"CATETER NASAL",4357643,10,NAO_COTOU,UND,0,0
+"Sonda de aspiração traqueal",4357644,20,NAO_COTOU,UND,0,0
+"Máscara de Oxigênio MD Adulto",4357645,10,NAO_COTOU,UND,0,0
+"Máscara de Oxigênio MD Pediátrico",4357646,6,NAO_COTOU,UND,0,0
+"Kit portátil de oxigênio",4357647,4,NAO_COTOU,UND,0,0
+"Tala Aramada para imobilização",4357648,5,NAO_COTOU,UND,0,0
+"Lanterna de Cabeça",4357649,10,NAO_COTOU,UND,0,0

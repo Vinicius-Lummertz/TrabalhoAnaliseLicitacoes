@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta asfáltica (balde 18 litros)",1292521,17,5,ATIVO,BALDE,2250,450
+"CIMENTO CP 32 - 50 KG",1292522,15,800,ATIVO,SACA,19600,24.5
+"FERRO 3/4",1292532,3,60,ATIVO,BARRA,6900,115
+"Ferro 5/16",1292533,2,500,ATIVO,BARRA,9950,19.9
+"FERRO 1/4",1292534,1,300,ATIVO,BARRA,3597,11.99

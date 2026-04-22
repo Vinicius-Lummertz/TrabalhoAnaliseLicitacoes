@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Copo Plástico 50 ml",1282617,12,145,ATIVO,CAIXA,7792.3,53.74
+"Copo Plástico 180 ml.",1282618,13,2210,ATIVO,CAIXA,104422.5,47.25
+"Dispenser (água/café),duplo.",1282626,22,33,ATIVO,UNIDADE,931.92,28.24
+"Dispenser para sabonete líquido",1282627,23,204,ATIVO,UNIDADE,3178.32,15.58
+"Escova para limpeza em vaso sanitário",1282629,26,637,ATIVO,UNIDADE,2694.51,4.23
+"Carro Funcional para limpeza",1282635,8,53,ATIVO,kit,32593.94,614.98
+"Manga de segurança",1282638,100,8,ATIVO,PAR,1125.6,140.7
+"Luva términa grafatex",1282639,99,40,ATIVO,UNIDADE,5880,147
+"Suporte para papel higiênico com rolão abs auto-impacto para",1282647,91,23,ATIVO,UNIDADE,493.58,21.46
+"Suporte p/ copos descartáveis de 180/200 ml. Free Cup",1282648,90,23,ATIVO,UNIDADE,572.24,24.88
+"Saco plástico transparente na medida 40x50cm;",1282651,87,50000,ATIVO,UNIDADE,5500,0.11
+"Saco plástico transparente na medida 30x40cm.",1282652,86,51500,ATIVO,UNIDADE,3605,0.07
+"Amaciante 05 Litros",1282658,5,2200,ATIVO,GALAO,15400,7
+"Pastilhas de agente de conservação para forno",1282670,68,16,ATIVO,BALDE,8240,515
+"Pastilhas de detergente para forno",1282671,69,32,ATIVO,BALDE,14704,459.5
+"Sabão em pó;",1282675,73,11220,ATIVO,UNIDADE,30181.8,2.69
+"Lixeira com tampa basculante",1282695,42,350,ATIVO,UNIDADE,3185,9.1
+"Lixeira produzida em polietileno",1282697,44,295,ATIVO,UNIDADE,587.05,1.99
+"Luva Látex não Estéril  - Tamanho PP",1282701,49,200,ATIVO,CAIXA,3304,16.52
+"Luva Látex não Estéril Tamanho G",1282702,50,650,ATIVO,CAIXA,10562.5,16.25
+"Luva Látex não Estéril  Tamanho M",1282703,51,650,ATIVO,CAIXA,10595,16.3
+"Luva Látex não Estéril Tamanho P",1282704,52,1050,ATIVO,CAIXA,17209.5,16.39
+"Luva para Limpeza Tamanho Grande cano 3/4",1282705,53,2310,ATIVO,PAR,5497.8,2.38
+"Luva para Limpeza Tamanho Medio cano 3/4",1282706,54,5610,ATIVO,PAR,13295.7,2.37
+"Luva para Limpeza Tamanho Pequeno cano 3/4",1282707,55,3610,ATIVO,PAR,8700.1,2.41
+fosforo.,1282709,33,5550,ATIVO,CAIXA,5827.5,1.05
+"Cera em pasta",1282717,10,150,ATIVO,LATA,28485,189.9
+"Desinfetante 05 Lt",1282718,16,4270,ATIVO,GALAO,29847.3,6.99
+"Agua Sanitária com 5 Litros",1282720,2,9150,ATIVO,UNIDADE,42822,4.68
+"Sapólio cremoso 300 ml",1282723,89,8240,ATIVO,UNIDADE,17880.8,2.17

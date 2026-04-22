@@ -1,0 +1,63 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ABAIXADOR DE LINGUA",4435303,750,INABILITADO,PCT,2362.5,3.15
+"Agulhas hipodérmicas 13mmX4,5mm.",4435306,250,DESCLASSIFICADO,CX,2037.5,8.15
+"Agulhas hipodérmicas 20mmX5,5mm.",4435307,500,DESCLASSIFICADO,CX,5240,10.48
+"Agulhas hipodérmicas 25 X 6.",4435308,700,DESCLASSIFICADO,CX,9786,13.98
+"Agulhas hipodérmicas 25 X 7.",4435309,1000,DESCLASSIFICADO,CX,8260,8.26
+"Agulhas hipodérmicas 25 X 8.",4435310,500,DESCLASSIFICADO,CX,4020,8.04
+"Agulhas hipodérmicas 30 X 8.",4435311,500,DESCLASSIFICADO,CX,4370,8.74
+"Agulhas hipodérmicas 40 X 12.",4435312,1500,DESCLASSIFICADO,CX,16260,10.84
+"Ataduras de Crepom 08 cm",4435330,10000,PERDEU,UNI,4400,0.44
+"Ataduras de Crepom 10 cm",4435331,25000,VENCEU,PCT,14000,0.56
+"Ataduras de Crepom 12 cm",4435332,25000,VENCEU,UN,15750,0.63
+"Ataduras de Crepom 15 cm",4435333,36000,VENCEU,PCT,28080,0.78
+"Ataduras de Crepom 20 cm",4435334,18000,PERDEU,UN,18720,1.04
+"Ataduras de Crepom 06 cm",4435335,3000,VENCEU,UN,960,0.32
+"Cateter Intravenoso n°14 G",4435353,1000,DESCLASSIFICADO,UN,4220,4.22
+"Cateter Intravenoso n°16 G",4435354,2000,DESCLASSIFICADO,UN,4580,2.29
+"Cateter Intravenoso n°18 G",4435355,2000,DESCLASSIFICADO,UN,4480,2.24
+"Cateter Intravenoso n°20 G",4435356,2000,DESCLASSIFICADO,UN,3800,1.9
+"Cateter Intravenoso n°22 G",4435357,2000,DESCLASSIFICADO,UN,3800,1.9
+"Cateter Intravenoso n°24 G",4435358,1000,DESCLASSIFICADO,UN,2120,2.12
+"Clorexidina alcoólica.",4435360,150,DESCLASSIFICADO,L,1725,11.5
+"Clorexidina aquosa",4435361,1200,PERDEU,UND,2028,1.69
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4435363,3000,PERDEU,UNI,9390,3.13
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4435364,2000,VENCEU,UNI,4720,2.36
+"Compressa Cirúrgica, Campo Operatório, não descartável 45cm",4435365,500,DESCLASSIFICADO,PCT,37100,74.2
+"Compressa Cirúrgica, Campo Operatório, não descartável 23cm",4435366,250,VENCEU,PCT,6245,24.98
+"Compressa de gaze (tipo queijo) em rolo",4435367,400,DESCLASSIFICADO,ROLO,29600,74
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios.",4435368,1000,INABILITADO,PCT,12390,12.39
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4435369,250000,INABILITADO,PCT,100000,0.4
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",4435384,20000,DESCLASSIFICADO,UN,6400,0.32
+"Esparadrapo Impermeável e Hipoalérgico, com capa 10cm x 4,5m",4435397,1880,PERDEU,UN,10152,5.4
+"Esparadrapo Impermeável e Hipoalérgico, com capa 5cm x 4,5m",4435398,3000,PERDEU,UN,8640,2.88
+"Frasco para nutrição enteral capacidade 300mL",4435422,8000,VENCEU,UNI,5120,0.64
+"Luva Látex não Estéril p/ Procedimento - Tamanho  G",4435449,1000,INABILITADO,CX,16900,16.9
+"Luva Látex não Estéril p/ Procedimento - Tamanho  M.",4435450,4000,INABILITADO,CX,67600,16.9
+"Luva Látex não Estéril p/ Procedimento - Tamanho  P.",4435451,4000,INABILITADO,CX,67600,16.9
+"Luva Látex não Estéril p/ Procedimento - Tamanho  PP.",4435452,1000,INABILITADO,CX,16900,16.9
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho G. ANTIAL",4435453,300,INABILITADO,CX,5070,16.9
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho M ANTIALÉ",4435454,1000,INABILITADO,CX,16900,16.9
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho P ANTIALÉ",4435455,1000,INABILITADO,CX,16900,16.9
+"Máscara N95 PFF2 descartável para proteção",4435463,500,PERDEU,UN,1075,2.15
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",4435484,500,VENCEU,L,7300,14.6
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4435485,5000,VENCEU,UNI,1900,0.38
+"Sonda aspiração traqueal nº 08 em PVC, descartável.",4435486,10000,VENCEU,UN,4000,0.4
+"Sonda aspiração traqueal nº 10 em PVC, descartável",4435487,4000,VENCEU,UNI,1560,0.39
+"Sonda aspiração traqueal nº 12 em PVC, descartável",4435488,30000,VENCEU,UNI,12600,0.42
+"Sonda aspiração traqueal nº 14 em PVC, descartável",4435489,6000,VENCEU,UNI,2820,0.47
+"Sonda aspiração traqueal nº 16 em PVC, descartável",4435490,1500,VENCEU,UNI,750,0.5
+"Sonda nasal para alimentação enteral nº 12",4435517,300,VENCEU,UNI,2250,7.5
+"Sonda uretral nº 06, descartável",4435520,4000,VENCEU,UNI,1480,0.37
+"Sonda uretral nº 08, descartável",4435521,12000,VENCEU,UNI,4680,0.39
+"Sonda uretral nº 10 descartável",4435522,15500,VENCEU,UN,6355,0.41
+"Sonda uretral nº 12 descartável",4435523,60000,VENCEU,UN,25200,0.42
+"Sonda uretral nº 14 descartável",4435524,4000,VENCEU,UN,1780,0.445
+"Sonda uretral nº 16 descartável",4435525,2000,VENCEU,UN,980,0.49
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4435527,25000,INABILITADO,UNI,51975,2.079
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4435528,36000,DESCLASSIFICADO,UNI,86940,2.415
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",4435529,5000,DESCLASSIFICADO,UN,14700,2.94
+"SORO GLICOFISIOLOGICO 500ml",4435531,1500,DESCLASSIFICADO,UNI,5402.25,3.6015
+"Soro Glicosado 250ml (solução de glicose a 5%).",4435532,1000,DESCLASSIFICADO,UNI,2919,2.919
+"Soro Glicosado 500ml (solução de glicose a 5%).",4435533,1000,DESCLASSIFICADO,UN,3528,3.528
+"Soro ringer lactato  500 ml",4435534,300,INABILITADO,UNI,1058.4,3.528

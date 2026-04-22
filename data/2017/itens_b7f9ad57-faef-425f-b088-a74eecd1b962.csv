@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Barraca tipo Iglu",1297587,1,12,ATIVO,UNIDADE,8400,700
+"Saco de dormir",1297588,2,12,ATIVO,UNIDADE,4138.8,344.9
+"Bolsa de primeiros socorros",1299606,18,2,ATIVO,UNIDADE,400,200
+"Lanterna de mão",1299607,13,12,ATIVO,UNIDADE,5988,499
+BOTA,1299610,21,35,ATIVO,UNIDADE,18375,525
+"Colchonete autoinflável",1305750,3,12,ATIVO,UNIDADE,14400,1200
+cafeteira,1311852,19,2,ATIVO,UNIDADE,390,195
+Sanduicheira,1313914,20,2,ATIVO,UNIDADE,140,70

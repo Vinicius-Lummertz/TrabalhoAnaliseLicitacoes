@@ -1,0 +1,140 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",4376467,300,NAO_COTOU,GAL,0,0
+Alvejante,4376468,90,NAO_COTOU,GAL,0,0
+"Álcool etílico em gel 70% (70 INPM)",4376469,100,NAO_COTOU,GR,0,0
+"Álcool etílico hidratado 96% (92,8º INPM)",4376470,30,NAO_COTOU,LT,0,0
+"Amaciante para tecidos",4376471,70,NAO_COTOU,GAL,0,0
+"Desinfetante de uso geral",4376472,100,NAO_COTOU,GAL,0,0
+"Detergente Neutro Líquido de Uso Geral",4376473,110,NAO_COTOU,GAL,0,0
+"Sabão liquido de coco",4376474,100,NAO_COTOU,GAL,0,0
+"Detergente com Cera Para Veículos",4376475,100,NAO_COTOU,GAL,0,0
+"Limpa pneus com silicone",4376476,40,NAO_COTOU,GAL,0,0
+"Cera auto-brilho.",4376477,30,NAO_COTOU,GRF,0,0
+"Lustra móveis;",4376478,40,NAO_COTOU,FRA,0,0
+"Detergente Multi uso concentrado",4376479,30,NAO_COTOU,GAL,0,0
+"Desodorizador de ambientes",4376480,50,NAO_COTOU,ML,0,0
+"Pedra Sanitária",4376481,100,NAO_COTOU,UND,0,0
+"Sabão em barra",4376482,20,NAO_COTOU,PCT,0,0
+"SABAO EM PO",4376483,75,NAO_COTOU,KG,0,0
+"Sabonete líquido.",4376484,50,NAO_COTOU,GAL,0,0
+"Saponaceo em po.",4376485,20,NAO_COTOU,UND,0,0
+"Saponáceo cremoso.",4376486,50,NAO_COTOU,UND,0,0
+"Desinfetante Desengordurante.",4376487,25,NAO_COTOU,GRF,0,0
+"Aplicador de cera",4376488,4,NAO_COTOU,UND,0,0
+"Luva para aplicador de cera",4376489,10,NAO_COTOU,UND,0,0
+"Escova para lavar roupas",4376490,20,NAO_COTOU,UND,0,0
+"Escova para higienização de mãos e unhas",4376491,10,NAO_COTOU,UND,0,0
+"Palha de Aço Nº 0",4376492,150,NAO_COTOU,UND,0,0
+"Palha de Aço Nº 1",4376493,150,NAO_COTOU,UND,0,0
+"Palha de Aço Nº 2",4376494,150,NAO_COTOU,UND,0,0
+"Esponja de lã de Aço.",4376495,150,NAO_COTOU,PCT,0,0
+ESPONJA,4376496,50,NAO_COTOU,PCT,0,0
+"Flanela para limpeza;",4376497,50,NAO_COTOU,UND,0,0
+"LUVA PARA LIMPEZA",4376498,20,NAO_COTOU,UND,0,0
+"Balde Espremedor",4376499,1,NAO_COTOU,UND,0,0
+"REFIL MOP UMIDO",4376500,60,NAO_COTOU,UND,0,0
+"Cabo de aluminio para suporte de Mop Úmido",4376501,10,NAO_COTOU,UND,0,0
+"Balde com espremedor giratório",4376502,6,NAO_COTOU,UND,0,0
+"Refil para balde giratório",4376503,40,NAO_COTOU,UND,0,0
+"Pá coletora plástica.",4376504,5,NAO_COTOU,UND,0,0
+"Pá de lixo plástica.",4376505,5,NAO_COTOU,UND,0,0
+"Pano de copa e cozinha",4376506,50,NAO_COTOU,UND,0,0
+"Pano Multiúso",4376507,20,NAO_COTOU,RL,0,0
+"Bobina de Papel Toalha",4376508,80,NAO_COTOU,CX,0,0
+"DISPENSER PARA PAPEL TOALHA",4376509,5,NAO_COTOU,UND,0,0
+"Papel higiênico",4376510,6,DESCLASSIFICADO,FRD,406.2,67.7
+"Papel Higiênico Rolão",4376511,50,DESCLASSIFICADO,FRD,2900,58
+"Porta Papel Higiênico Rolão",4376512,5,NAO_COTOU,UND,0,0
+"RODO PLASTICO",4376513,10,NAO_COTOU,UND,0,0
+"Saca de tecido crua.",4376514,10,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo doméstico de polietileno 240 L",4376515,20,NAO_COTOU,UND,0,0
+"Saco plástico de lixo de polietileno 100 L",4376516,10,DESCLASSIFICADO,UND,576.5,57.65
+"Saco plástico de lixo doméstico de polietileno 50 L",4376517,15,DESCLASSIFICADO,UND,475.5,31.7
+"Saco plástico de lixo doméstico de polietileno 30 L",4376518,15,PERDEU,UND,153,10.2
+"Vassoura Nylon",4376519,20,NAO_COTOU,UND,0,0
+"VASSOURA PALHA",4376520,20,NAO_COTOU,UND,0,0
+"Dispenser para sabonete líquido",4376521,5,NAO_COTOU,UND,0,0
+"Copo descartavel 180 ml",4376522,20,DESCLASSIFICADO,CX,1118,55.9
+"Copo descartável 300 ml",4376523,20,DESCLASSIFICADO,CX,1660,83
+"Guardanapo de papel folha simples.",4376524,200,NAO_COTOU,EMB,0,0
+"Agenda de Escritório",4376525,10,NAO_COTOU,UND,0,0
+"Apagador para Quadro Branco.",4376526,5,VENCEU,UND,11.5,2.3
+APONTADOR.,4376527,20,DESCLASSIFICADO,UND,25.8,1.29
+Atilho,4376528,10,VENCEU,CX,14.7,1.47
+"Bloco de recados grande",4376529,10,DESCLASSIFICADO,EMB,34,3.4
+"Blocos de recados pequeno",4376530,10,VENCEU,EMB,29,2.9
+"Bobina Termica",4376531,40,VENCEU,UND,116,2.9
+"Borracha de vinil.",4376532,20,VENCEU,UND,9.6,0.48
+Cadernetas,4376533,20,PERDEU,UND,96.2,4.81
+CADERNO,4376534,20,VENCEU,UND,100,5
+"Caixa arquivo morto desmontável",4376535,100,DESCLASSIFICADO,UND,450,4.5
+"Alfinetes com cabeça",4376536,5,VENCEU,CX,13,2.6
+CALCULADORA,4376537,5,VENCEU,UND,46.5,9.3
+"Caneta permanente",4376538,10,DESCLASSIFICADO,UND,29.9,2.99
+"Caneta corretivo",4376539,10,DESCLASSIFICADO,UND,41.3,4.13
+"Caneta esferografica azul;",4376540,100,VENCEU,UND,44,0.44
+"Caneta esferográfica vermelha;",4376541,50,VENCEU,UND,22,0.44
+"Caneta esferográfica preta;",4376542,100,VENCEU,UND,44,0.44
+"CANETA MARCA TEXTO",4376543,50,VENCEU,UND,46.5,0.93
+"Capa de encadernação",4376544,2,VENCEU,UND,50.6,25.3
+"Contra capa plástica",4376545,2,VENCEU,UND,36.1,18.05
+"Clipes para papel nº 0",4376546,5,VENCEU,CX,5.5,1.1
+"Clipes para papel n.º 1",4376547,20,VENCEU,CX,22,1.1
+"Clipes para papel n.º 2",4376548,20,VENCEU,CX,22,1.1
+"Clipes para papéis n.º 3",4376549,20,VENCEU,CX,22,1.1
+"Clipes para papéis n.º 4",4376550,15,VENCEU,CX,16.5,1.1
+"COLA EM BASTAO",4376551,10,DESCLASSIFICADO,UND,11.5,1.15
+COLA,4376552,10,DESCLASSIFICADO,UND,12.4,1.24
+"CORRETIVO LIQUIDO",4376553,10,DESCLASSIFICADO,CX,19,1.9
+"Envelope Saco na cor parda 162 x 229",4376554,10,DESCLASSIFICADO,CX,420,42
+"Envelope na cor branca 176 x 250",4376555,10,PERDEU,CX,210,21
+"Envelope pardo 240 x 340",4376556,20,VENCEU,CX,392,19.6
+"Envelope branco 114 x 229",4376557,5,PERDEU,CX,39.5,7.9
+"Envelopes de Polietileno",4376558,15,VENCEU,CX,229.5,15.3
+"Etiqueta adesiva",4376559,3,VENCEU,CX,79.8,26.6
+Escalímetro,4376560,15,PERDEU,UND,433.5,28.9
+ESTILETE,4376561,5,VENCEU,UND,6.95,1.39
+"Estojo de grafite 0.5",4376562,10,PERDEU,CX,9,0.9
+"Estojo de grafite 0.7",4376563,10,PERDEU,CX,9,0.9
+"Extrator de Grampos",4376564,5,DESCLASSIFICADO,UND,16.25,3.25
+"Fita adesiva 12 MM",4376565,10,DESCLASSIFICADO,UND,6.5,0.65
+"Fita adesiva 50 MM",4376566,50,VENCEU,UND,106,2.12
+"Fita auto adesiva crepe",4376567,50,VENCEU,UND,322.5,6.45
+"Folha A4",4376568,300,VENCEU,RES,4350,14.5
+"Grampeador de mesa Grande",4376569,3,DESCLASSIFICADO,UND,156,52
+"Grampeador de mesa pequeno",4376570,5,VENCEU,UND,28.9,5.78
+"Grampos para grampeador 23/6",4376571,10,VENCEU,CX,79.5,7.95
+"Grampos para grampeador 26/6",4376572,10,DESCLASSIFICADO,CX,31.5,3.15
+"Lápis 6B",4376573,10,VENCEU,UND,6.3,0.63
+"Lápis preto de grafite",4376574,10,VENCEU,UND,2.4,0.24
+"Livro ata.",4376575,2,DESCLASSIFICADO,UND,23.2,11.6
+"Marcador para quadro branco.",4376576,20,VENCEU,UND,152,7.6
+"PASTA AZ",4376577,10,VENCEU,UND,79,7.9
+"Pasta seletiva",4376578,2,PERDEU,UND,23.4,11.7
+"Pasta estreita",4376579,15,VENCEU,UND,20.25,1.35
+"Pasta alta",4376580,15,VENCEU,UND,34.95,2.33
+"PASTA SUSPENSA",4376581,5,PERDEU,CX,189.5,37.9
+"Perfurador para papel",4376582,3,DESCLASSIFICADO,UND,44.4,14.8
+"Pilhas AA",4376583,60,VENCEU,EMB,149.4,2.49
+"Pilhas C",4376584,30,PERDEU,EMB,378,12.6
+"Pilhas AAA",4376585,60,VENCEU,EMB,144,2.4
+"PINCEL ATOMICO",4376586,10,PERDEU,UND,39,3.9
+"Plástico autoadesivo transparente",4376587,5,VENCEU,RL,197.5,39.5
+"Prancheta para anotações",4376588,25,VENCEU,UND,143.75,5.75
+"Régua metal",4376589,10,DESCLASSIFICADO,UND,48.9,4.89
+"Régua acrílico",4376590,10,VENCEU,UND,9.9,0.99
+"Suporte para fita durex",4376591,5,VENCEU,UND,80,16
+"TESOURA GRANDE",4376592,5,DESCLASSIFICADO,UND,28,5.6
+"Tesoura média",4376593,5,DESCLASSIFICADO,UND,29.5,5.9
+"Tinta Carimbo Preta",4376594,10,VENCEU,UND,37.9,3.79
+"Tinta Carimbo Vermelha",4376595,15,VENCEU,UND,56.85,3.79
+"Toner A",4376596,10,INABILITADO,UND,485,48.5
+"Toner B",4376597,10,INABILITADO,UND,1120,112
+"Toner C",4376598,10,INABILITADO,UND,420,42
+"Toner D",4376599,10,INABILITADO,UND,430,43
+"Toner E",4376600,10,INABILITADO,UND,773,77.3
+"Toner F",4376601,10,INABILITADO,UND,773,77.3
+"Umedecedor de dedo",4376602,10,PERDEU,UND,16.9,1.69
+"Escaninho para correspondência",4376603,5,VENCEU,UND,173.5,34.7
+"Organizador para escritório",4376604,3,VENCEU,UND,159,53
+"Acessório para mesa tipo porta lápis e clips",4376605,5,VENCEU,UND,28.25,5.65

@@ -1,0 +1,52 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária 1 Litro.",4375995,300,VENCEU,UND,414,1.38
+"Água Sanitária 5 Litros;",4375996,150,VENCEU,GAL,675,4.5
+"Álcool etílico em gel 70% (70 INPM) 500 gramas;",4375997,150,PERDEU,FRA,636,4.24
+"Álcool etílico hidratado 96% (92,8º INPM) 1 litro;",4375998,200,VENCEU,LT,994,4.97
+"Alvejante a base de hipoclorito de sódio 5 litros.",4375999,150,VENCEU,GAL,1065,7.1
+"Balde Plástico Resistente;",4376000,20,VENCEU,UND,135,6.75
+"Cabo de aluminio para suporte de Mop Úmido",4376001,10,PERDEU,UND,157,15.7
+"COPOS DESCARTÁVEIS PARA CAFÉ DE 50ml.",4376002,10,PERDEU,CX,610,61
+"COPOS DESCARTÁVEIS PARA ÁGUA DE 180ml;",4376003,20,PERDEU,CX,1400,70
+"Conjunto Balde/Espremedor.",4376004,10,DESCLASSIFICADO,CJT,2350,235
+"DESINCRUSTANTE 1litro",4376005,15,NAO_COTOU,UND,0,0
+"DESINFETANTE CONCENTRADO 5 lItros.",4376006,15,NAO_COTOU,UND,0,0
+"Desinfetante de uso geral 5 Litros.",4376007,400,VENCEU,GAL,2080,5.2
+"Desinfetante de uso geral 500mL.",4376008,200,VENCEU,UND,220,1.1
+"Desodorizador de ambientes 360 mL;",4376009,100,DESCLASSIFICADO,FRA,900,9
+"Detergente Líquido Neutro de uso geral 500 mL;",4376010,500,VENCEU,UND,500,1
+"Dispensador em plástico rígido duplo",4376011,20,DESCLASSIFICADO,UND,700,35
+"Escova para limpeza em vaso sanitário",4376012,20,DESCLASSIFICADO,UND,160,8
+"Escovão para Limpeza de chão",4376013,20,VENCEU,UND,120,6
+"Esfregão de Aço",4376014,30,DESCLASSIFICADO,UND,15,0.5
+"Esponja de fibra sintética 100mmX180mmX25mm",4376015,200,DESCLASSIFICADO,UND,200,1
+"Esponja de fibra sintética 10mmX75mmX20mm",4376016,200,DESCLASSIFICADO,UND,200,1
+"Esponja de lã de Aço;",4376017,200,DESCLASSIFICADO,PCT,600,3
+"Flanela para limpeza;",4376018,300,DESCLASSIFICADO,UND,600,2
+"Lixeira 08 litros produzida em polietileno.",4376019,200,DESCLASSIFICADO,UND,1800,9
+"Lixeira 100 litros com tampa e pedal em plastico resistente;",4376020,20,DESCLASSIFICADO,UND,5900,295
+"Lixeira 15 litros com tampa e pedal em plastico resistente;",4376021,10,DESCLASSIFICADO,UND,370,37
+"Papel Higiênico 30m;",4376022,160,PERDEU,FRD,8960,56
+"Luva para Limpeza Tamanho Grande cano 3/4",4376023,50,VENCEU,PAR,84.5,1.69
+"Luva para Limpeza Tamanho Medio cano 3/4",4376024,50,DESCLASSIFICADO,PAR,149.5,2.99
+"Luva para Limpeza Tamanho Pequeno cano 3/4",4376025,50,DESCLASSIFICADO,PAR,145,2.9
+"Papel toalha interfolhado",4376026,200,PERDEU,FRD,2000,10
+"Mop úmido (refil)",4376027,30,DESCLASSIFICADO,UND,870,29
+"NEUTRALIZADOR DE ODORES 300 ml",4376028,50,NAO_COTOU,UND,0,0
+"Pá coletora plástica",4376029,20,DESCLASSIFICADO,UND,760,38
+"Pá de lixo plástica.",4376030,20,DESCLASSIFICADO,UND,40,2
+"Pano de copa e cozinha",4376031,300,DESCLASSIFICADO,UND,1107,3.69
+"Rodo, base em alumínio , 55 cm",4376032,20,DESCLASSIFICADO,UND,820,41
+"Rodo, base em alumínio 30cm.",4376033,20,DESCLASSIFICADO,UND,520,26
+"Sabão em barra",4376034,15,DESCLASSIFICADO,PCT,144,9.6
+"Sabão em pó com amaciante atomizado (granulado) 1kg.",4376035,300,INABILITADO,UND,1767,5.89
+"Sabonete líquido.",4376036,100,VENCEU,GAL,900,9
+"Saca de tecido 100 % alvejado",4376037,500,DESCLASSIFICADO,UND,1790,3.58
+"Saca de tecido crua",4376038,500,DESCLASSIFICADO,PCT,1750,3.5
+"Saco plástico de lixo 100 litros",4376039,500,DESCLASSIFICADO,PCT,24000,48
+"Saco plástico de lixo 30 litros.",4376040,300,DESCLASSIFICADO,PCT,7800,26
+"Saco plástico de lixo 50 litros.",4376041,300,DESCLASSIFICADO,PCT,11100,37
+"Sapolio cremoso;",4376042,500,VENCEU,UND,750,1.5
+"Tela Desodorizadora para Mictório",4376043,400,DESCLASSIFICADO,UND,1800,4.5
+"Vassoura com cerdas de aparação curva de nylon",4376044,200,DESCLASSIFICADO,UND,1680,8.4
+"VASSOURA DE PALHA",4376045,100,DESCLASSIFICADO,UND,1900,19

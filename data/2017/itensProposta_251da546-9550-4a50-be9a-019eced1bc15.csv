@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Areia lavada média",4367916,625,VENCEU,M3,15625,25
+"Areia lavada média",4367917,1875,VENCEU,M3,46875,25
+"Areia Fina.",4367918,1500,VENCEU,TON,37500,25
+"Cimento Asfáltico de Petróleo (CAP) 50 - 70",4367919,750,NAO_COTOU,T/MS,0,0
+"Cal Hidratada CH 1 (filer) - Saco 20Kg",4367920,6250,NAO_COTOU,SC,0,0
+"Cal Hidratada CH 1 (filer) - Saco 20Kg",4367921,18750,NAO_COTOU,SC,0,0
+PEDRISCO,4367922,1250,CANCELADO,TON,40000,32
+PEDRISCO,4367923,3750,CANCELADO,TON,120000,32
+"seixo bruto rolada",4367924,1000,NAO_COTOU,TON,0,0

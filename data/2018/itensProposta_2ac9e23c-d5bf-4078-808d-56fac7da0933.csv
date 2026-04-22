@@ -1,0 +1,76 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água Oxigenada 10 V",4371481,250,VENCEU,LT,937.5,3.75
+"Álcool Líquido 92,8 INPM (96º GL)",4371482,250,NAO_COTOU,LT,0,0
+"Alcool Líquido 70%",4371483,250,PERDEU,LT,1187.5,4.75
+"Álcool Gel 70 %",4371484,100,DESCLASSIFICADO,UND,850,8.5
+"Soro Fisiológico 100ml.",4371485,200,PERDEU,ML,386,1.93
+"Soro Fisiológico 250ml.",4371486,200,VENCEU,ML,450,2.25
+"Compressa cirúrgica 45x50 (campo operatório)",4371487,200,PERDEU,PCT,12000,60
+"Compressa de gaze",4371488,100,VENCEU,PCT,1375,13.75
+"Bobina de Gaze Hidrófila",4371489,30,PERDEU,RL,1387.5,46.25
+"Luvas de procedimento tamanho PP",4371490,30,VENCEU,CX,398.7,13.29
+"Luvas de procedimento tamanho P",4371491,70,VENCEU,CX,930.3,13.29
+"Luvas de procedimento tamanho M",4371492,300,VENCEU,CX,3987,13.29
+"Luvas de procedimento tamanho G",4371493,300,VENCEU,CX,3987,13.29
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho PP",4371494,30,VENCEU,CX,449.4,14.98
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho P",4371495,70,VENCEU,CX,1048.6,14.98
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho M",4371496,300,VENCEU,CX,4494,14.98
+"Luva Nitrílica azul não estéril p/ Procedimento Tamanho G",4371497,300,VENCEU,CX,4191,13.97
+"Máscara cirúrgica descartável",4371498,100,INABILITADO,CX,488,4.88
+"Óculos de proteção Individual Transparente",4371499,50,NAO_COTOU,UND,0,0
+"Lençol descartável",4371500,150,PERDEU,PCT,1872,12.48
+"Manta Térmica Aluminizada",4371501,70,NAO_COTOU,UND,0,0
+"Esparadrapo impermeável 5cm x 4,5m",4371502,50,VENCEU,UND,120,2.4
+"Fita Hipoalérgica Microporosa",4371503,25,VENCEU,UND,47.5,1.9
+"Atadura de crepom 0,8cm/1,8mt. 13Fios",4371504,2000,PERDEU,UND,900,0.45
+"Atadura de crepom 15cm/1,8mt. 13Fios",4371505,1500,PERDEU,UND,1185,0.79
+"Atadura de crepom 20cm/1.8mt. 13Fios",4371506,1500,VENCEU,UND,1395,0.93
+"Tala de papelão G 70x20",4371507,10,NAO_COTOU,CX,0,0
+"Tala de papelão M 50x20",4371508,10,NAO_COTOU,CX,0,0
+"Tala de papelão P 30x20",4371509,10,NAO_COTOU,CX,0,0
+"Kit p/ parto emergencial",4371510,20,NAO_COTOU,UND,0,0
+"Kit p/ queimadura",4371511,20,NAO_COTOU,UND,0,0
+"Saco de lixo polietileno cor branco leitoso 30 L",4371512,50,VENCEU,CX,625,12.5
+"Saco de lixo polietileno cor branco leitoso 50 L",4371513,20,PERDEU,CX,372,18.6
+"Colar cervical neonatal tipo resgate",4371514,30,NAO_COTOU,UND,0,0
+"Colar cervical tamanho infantil tipo resgate",4371515,30,NAO_COTOU,UND,0,0
+"Colar cervical tamanho PP tipo resgate",4371516,50,DESCLASSIFICADO,UND,1044,20.88
+"Colar cervical tamanho P tipo resgate",4371517,50,DESCLASSIFICADO,UND,1044,20.88
+"Colar cervical tamanho M tipo resgate",4371518,30,DESCLASSIFICADO,UND,626.4,20.88
+"Colar cervical tamanho G tipo resgate",4371519,20,DESCLASSIFICADO,UND,417.6,20.88
+"Prancha rigidas em (polietileno)",4371520,5,NAO_COTOU,UND,0,0
+"Imobilizador de cabeça tipo resgate",4371521,20,NAO_COTOU,UND,0,0
+"Tirante aranha tipo resgate",4371522,20,NAO_COTOU,UND,0,0
+"Ked (infantil)",4371523,2,NAO_COTOU,UND,0,0
+"Ked (adulto)",4371524,2,NAO_COTOU,UND,0,0
+"Tesoura especial de atendimento pré-hospitalar",4371525,20,NAO_COTOU,UND,0,0
+"Máscara facial para oxigênio infantil",4371526,10,NAO_COTOU,UND,0,0
+"Máscara facial para oxigênio adulto",4371527,10,NAO_COTOU,UND,0,0
+"Esfigmomanômetro Infantil",4371528,6,VENCEU,UND,300,50
+"Esfigmomanômetro Adulto",4371529,6,VENCEU,UND,300,50
+"Estetoscópio duplo Adulto",4371530,6,VENCEU,UND,79.2,13.2
+"Reanimador manual siliconado c/ reservatório",4371531,6,VENCEU,UND,822.6,137.1
+"Aparelho de Pressão Digital",4371532,6,DESCLASSIFICADO,UND,1752.72,292.12
+"Oxímetro digital para dedo",4371533,3,NAO_COTOU,UND,0,0
+"LANTERNA CLINICA",4371534,10,NAO_COTOU,UND,0,0
+"Termômetro digital",4371535,6,NAO_COTOU,UND,0,0
+"CORTA ANEL",4371536,6,NAO_COTOU,UND,0,0
+"Eletrodo infantil para Life Pack 1.000",4371537,10,NAO_COTOU,PCT,0,0
+"Eletrodo adulto para Life Pac. 1.000",4371538,25,NAO_COTOU,PCT,0,0
+"Bateria para Desfibrilador de lítio original para Desfibrila",4371539,4,NAO_COTOU,UND,0,0
+"Bolsa de Atendimento Pré-hospitalar",4371540,4,NAO_COTOU,UND,0,0
+"Colete azul Estagiário",4371541,15,NAO_COTOU,UND,0,0
+"Colete Socorrista PADRÃO CBMSC",4371542,30,NAO_COTOU,UND,0,0
+"Esfigmomanômetro Automático de Braço (Braquial)",4371543,6,NAO_COTOU,UND,0,0
+"Válvula Reguladora de Pressão Para Cilindro com Fluxômetro D",4371544,6,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 5x15 cm",4371545,10,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 10x10 cm",4371546,10,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 10x40 cm",4371547,10,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 20x45 cm",4371548,10,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 20x55 cm",4371549,10,NAO_COTOU,UND,0,0
+"Curativo hidrogel para queimadura tamanho 30x40 cm",4371550,10,NAO_COTOU,UND,0,0
+"Reanimador Manual de Silicone Neonatal",4371551,3,NAO_COTOU,UND,0,0
+"Bateria ìons de Lítio RECARREGÁVEL desfibrilador Lifepak 100",4371552,2,NAO_COTOU,UND,0,0
+"Carregador de baterias Lifepak 1000",4371553,1,NAO_COTOU,UND,0,0
+"COLAR CERVICAL REGULAVEL",4371554,30,NAO_COTOU,UND,0,0
+"Máscara PFF3",4371555,100,NAO_COTOU,UND,0,0

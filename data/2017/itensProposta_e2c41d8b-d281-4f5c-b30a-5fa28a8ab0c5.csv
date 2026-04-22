@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Barraca tipo Iglu",4367895,12,VENCEU,UND,8400,700
+"Saco de dormir",4367896,12,VENCEU,UND,4138.8,344.9
+"Colchonete autoinflável",4367897,12,VENCEU,UND,14400,1200
+"Travesseiro autoinflável",4367898,12,DESCLASSIFICADO,UND,3000,250
+"Mochila para transporte geral",4367899,12,NAO_COTOU,UND,0,0
+"Mochila de ataque",4367900,12,NAO_COTOU,UND,0,0
+Colete,4367901,12,NAO_COTOU,UND,0,0
+"Mini Fogareiro a gás",4367902,12,DESCLASSIFICADO,UND,3000,250
+"Kit marmita",4367903,12,DESCLASSIFICADO,UND,2400,200
+Talheres,4367904,12,DESCLASSIFICADO,UND,840,70
+"Mochila de Hidratação",4367905,12,NAO_COTOU,UND,0,0
+"Lanterna de Cabeça",4367906,12,NAO_COTOU,UND,0,0
+"Lanterna de mão",4367907,12,VENCEU,UND,5988,499
+"Rede de selva com mosquiteiro",4367908,12,NAO_COTOU,UND,0,0
+"Saco estanque 20 L",4367909,12,NAO_COTOU,UND,0,0
+"Saco estanque 13 L",4367910,12,NAO_COTOU,UND,0,0
+"Toalha superabsorvente",4367911,12,NAO_COTOU,UND,0,0
+"Bolsa de primeiros socorros",4367912,2,VENCEU,UND,400,200
+cafeteira,4367913,2,VENCEU,UND,390,195
+Sanduicheira,4367914,2,VENCEU,UND,140,70
+BOTA,4367915,35,VENCEU,UND,18375,525

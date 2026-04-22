@@ -1,0 +1,266 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de profilaxia odontológica por bicarbonato/ultrasom",4428612,10,VENCEU,UN,27100,2710
+"APLICADOR DE DYCAL",4428613,20,PERDEU,UN,129,6.45
+"Autoclave 21L",4428614,6,PERDEU,UN,18000,3000
+"Bandeja para esterelizacao",4428615,100,DESCLASSIFICADO,UN,2065,20.65
+"Cabo para bisturi nº3",4428616,70,DESCLASSIFICADO,UN,578.2,8.26
+"CABO P/ ESPELHO ODONTOLOGICO",4428617,120,DESCLASSIFICADO,UNI,705.6,5.88
+"CANETA DE ALTA ROTACAO",4428618,20,PERDEU,UN,9500,475
+"Cinzel micro Ochsenbein nº 1",4428619,4,PERDEU,UN,156,39
+"COMPRESSOR ODONTOLÓGICO",4428620,6,VENCEU,UNI,15300,2550
+"Contra ângulo odontológico para peça de mão",4428621,5,PERDEU,UNI,2025,405
+"Contra ângulo odontológico angulado para cirurgia",4428622,1,VENCEU,UN,1350,1350
+"Contra ângulo odontológico para endodontia",4428623,1,VENCEU,UN,1350,1350
+"Cureta dentina (escavador), nº 05 PEQUENA",4428624,30,DESCLASSIFICADO,UN,261,8.7
+"Cureta dentina (escavador), nº 17 MÉDIA",4428625,30,DESCLASSIFICADO,UN,261,8.7
+"Cureta dentina (escavador)nº20, GRANDE",4428626,30,PERDEU,UNI,193.5,6.45
+"CURETA GRACEY 5-6 - EM AÇO INOX",4428627,100,DESCLASSIFICADO,UN,1374,13.74
+"CURETA GRACEY 7-8 - EM AÇO INOX",4428628,50,DESCLASSIFICADO,UNI,687,13.74
+"CURETA GRACEY 11-12 - EM AÇO INOX",4428629,100,DESCLASSIFICADO,UNI,1374,13.74
+"CURETA GRACEY 13-14 - EM AÇO INOX",4428630,50,DESCLASSIFICADO,UNI,687,13.74
+"Descolador cirurgico Molt Nº 09",4428631,20,PERDEU,UNI,700,35
+"Espátula de inserção dupla nº2",4428632,70,DESCLASSIFICADO,UNI,3446.8,49.24
+"Espátula Lecron",4428633,10,PERDEU,UN,92.5,9.25
+"Espátula para manipulação nº 72",4428634,50,PERDEU,UNI,448.5,8.97
+FOTOPOLIMERIZADOR,4428635,20,PERDEU,UN,11200,560
+"Kit acadêmico",4428636,20,PERDEU,UN,27980,1399
+"Lamparina de inox",4428637,2,PERDEU,UNI,81.08,40.54
+"Lamparina Hannau",4428638,5,VENCEU,UNI,97.25,19.45
+"Localizador apical eletrônico",4428639,1,PERDEU,UN,1896.5,1896.5
+"Mini incubadora biológica",4428640,35,PERDEU,UN,5600,160
+"Micromotor elétrico LB100",4428641,1,VENCEU,ESTO,523.45,523.45
+"Micro motor odontológico",4428642,5,VENCEU,UN,1725,345
+"PINÇA CLINICA ODONTOLOGICA",4428643,200,DESCLASSIFICADO,UNI,2608,13.04
+"Ponta de ultrason nº 1",4428644,10,VENCEU,UN,1073.5,107.35
+"Ponta de ultrason nº 37",4428645,10,PERDEU,UN,2080,208
+"Ponta de ultrason nº 2",4428646,10,VENCEU,UN,1150,115
+"Ponta de ultrason nº 32",4428647,10,PERDEU,UN,2090,209
+"Ponta de ultrason nº 10P",4428648,10,PERDEU,UN,1231.5,123.15
+"Ponta de ultrason nº 39",4428649,10,PERDEU,UN,2090,209
+Porta-amálgama,4428650,50,DESCLASSIFICADO,UN,471.5,9.43
+Porta-matriz,4428651,70,DESCLASSIFICADO,UN,1593.9,22.77
+"Porta agulha Mayo-Hager",4428652,50,PERDEU,UN,1229,24.58
+"Porta algodão e/ou resíduos",4428653,50,PERDEU,UNI,1590,31.8
+"Pote dappen de vidro",4428654,100,DESCLASSIFICADO,UNI,438,4.38
+"Régua milimetrada",4428655,10,PERDEU,UN,94.3,9.43
+SINDESMOTOMO,4428656,50,PERDEU,UNI,490.5,9.81
+"SONDA MILIMETRADA",4428657,30,DESCLASSIFICADO,UNI,580.2,19.34
+"Sonda Exploradora Odontológica nº5",4428658,200,PERDEU,UNI,1264,6.32
+"Sonda Exploradora endodontica nº6",4428659,40,VENCEU,UN,196,4.9
+"Suporte de fixação para caixa de luvas",4428660,20,PERDEU,UN,1800,90
+"Suporte de fixação para coletor de material perfuro- cortant",4428661,15,PERDEU,UND,335.25,22.35
+"Tesoura cirúrgica Iris",4428662,100,DESCLASSIFICADO,UN,1425,14.25
+"Tesoura cirúrgica Mayo reta",4428663,40,PERDEU,UNI,898.8,22.47
+"Acrilico autopolimerizavel liquido",4428664,6,VENCEU,FR.,157.98,26.33
+"Acrilico autopolimerizavel po",4428665,6,VENCEU,POT,81.96,13.66
+"Adesivo dental fotopolimerizável do tipo II",4428666,200,INABILITADO,FR.,17500,87.5
+"Abaixador de lingua descartável",4428667,100,INABILITADO,PCT,370,3.7
+"Água destilada.",4428668,1000,DESCLASSIFICADO,GL,10800,10.8
+"Água oxigenada a 10%",4428669,100,VENCEU,L,635,6.35
+"Agulha Gengival curta 30g x 1",4428670,400,DESCLASSIFICADO,CX,11940,29.85
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",4428671,1800,INABILITADO,LT,11700,6.5
+"Álcool 96%.",4428672,24,INABILITADO,L,216,9
+Alginato,4428673,100,PERDEU,PCT,1225,12.25
+"Algodão em roletes.",4428674,2000,DESCLASSIFICADO,PCT,4980,2.49
+"Almotolia 250ml.",4428675,70,DESCLASSIFICADO,UN,174.3,2.49
+"Amalgama em cápsula - 1 Porção - Kit 500 cápsulas",4428676,2,DESCLASSIFICADO,KIT,2046.2,1023.1
+"Amalgama em cápsula - 2 Porções - Kit 500 cápsulas",4428677,1,DESCLASSIFICADO,KIT,1324.5,1324.5
+"Anestésico Lidocaína 2% com epinefrina 1:100.000",4428678,600,DESCLASSIFICADO,CX,22338,37.23
+"Anestésico mepivacaína a 2% com epinefrina",4428679,700,DESCLASSIFICADO,CX,64694,92.42
+"ANESTÉSICO MEPIVACAÍNA A 3% SEM VASOCONSTRITOR",4428680,150,DESCLASSIFICADO,CX,11865,79.1
+"Anestésico tópico pomada",4428681,400,DESCLASSIFICADO,POT,2496,6.24
+"AVENTAL CIRURGICO",4428682,10,PERDEU,UN,847,84.7
+"BICARBONATO DE SODIO",4428683,75,PERDEU,KG,792,10.56
+"Broca de alta rotação carbide esférica n° ¼.",4428684,100,DESCLASSIFICADO,UN,935,9.35
+"Broca de alta rotação carbide esférica n° ½ .",4428685,100,DESCLASSIFICADO,UNI,935,9.35
+"Broca de alta rotação carbide esférica n° 4.",4428686,200,DESCLASSIFICADO,UN,1870,9.35
+"Broca de alta rotação carbide esférica n° 6.",4428687,200,DESCLASSIFICADO,UN,1870,9.35
+"Broca de alta rotação carbide esférica n° 8.",4428688,150,DESCLASSIFICADO,UN,1402.5,9.35
+"Broca de alta rotação carbide tronco cônico n° 329",4428689,100,DESCLASSIFICADO,UN,935,9.35
+"Broca de alta rotação carbide tronco cônico n° 330",4428690,100,DESCLASSIFICADO,UN,935,9.35
+"Broca de alta rotação diamantada esferica 1012",4428691,600,DESCLASSIFICADO,UN,1680,2.8
+"Broca de alta rotação diamantada esférica 1014",4428692,600,DESCLASSIFICADO,UN,1680,2.8
+"Broca de alta rotação diamantada esférica 1019",4428693,500,DESCLASSIFICADO,UN,1400,2.8
+"Broca de alta rotação diamantada nº 2082",4428694,100,DESCLASSIFICADO,UN,280,2.8
+"Broca de alta rotação diamantada nº3080",4428695,100,PERDEU,UN,280,2.8
+"Broca de alta rotação diamantada nº3082",4428696,100,DESCLASSIFICADO,UN,280,2.8
+"Broca de baixa rotação carbide n° 2",4428697,300,DESCLASSIFICADO,UN,2808,9.36
+"Broca de baixa rotação carbide n° 4",4428698,800,DESCLASSIFICADO,UN,7488,9.36
+"Broca de baixa rotação carbide n° 6",4428699,800,DESCLASSIFICADO,UN,7488,9.36
+"Broca de baixa rotação carbide n° 8",4428700,500,DESCLASSIFICADO,UN,4680,9.36
+"Broca de baixa rotação haste longa n° 2",4428701,30,PERDEU,UN,165,5.5
+"Broca de baixa rotação haste longa n° 4",4428702,50,PERDEU,UN,275,5.5
+"Broca de baixa rotação haste longa n° 6",4428703,50,PERDEU,UN,275,5.5
+"Broca de Gates Glidden nº1 de 32 mm",4428704,10,DESCLASSIFICADO,UN,102.5,10.25
+"Broca de Gates Glidden nº2 de 32 mm",4428705,10,DESCLASSIFICADO,UN,156.7,15.67
+"Broca de Gates Glidden nº3 de 32 mm",4428706,10,DESCLASSIFICADO,UN,102.5,10.25
+"Broca de Gates Glidden nº4 de 32 mm",4428707,10,DESCLASSIFICADO,UN,102.5,10.25
+"BROCA ENDO Z - 21 MM",4428708,20,PERDEU,UNI,623,31.15
+"BROCA HASTE LONGA  LL CARBIDE - Nº2",4428709,10,DESCLASSIFICADO,UNI,159,15.9
+"BROCA HASTE LONGA LL CARBIDE - Nº4",4428710,10,DESCLASSIFICADO,UNI,159,15.9
+"BROCA HASTE LONGA LL CARBIDE - Nº6",4428711,10,DESCLASSIFICADO,UNI,159,15.9
+"Broca haste longa carbide - nº701",4428712,50,DESCLASSIFICADO,UN,795,15.9
+"Broca haste longa carbide - nº702",4428713,50,DESCLASSIFICADO,UN,839,16.78
+"BROCA LÊNTULO. N°. 25",4428714,10,INABILITADO,CX,399.3,39.93
+"BROCA LÊNTULO. N°. 35",4428715,10,PERDEU,CX,499.3,49.93
+"Broca nº 1190 F",4428716,300,DESCLASSIFICADO,UN,2295,7.65
+"Broca nº 3118 F",4428717,300,DESCLASSIFICADO,UN,2295,7.65
+"Broca nº 3168 F",4428718,300,DESCLASSIFICADO,UN,2295,7.65
+"Broca nº 3195 F",4428719,300,DESCLASSIFICADO,UN,2295,7.65
+"Broca nº 4321 F",4428720,300,PERDEU,UN,2160,7.2
+"Broca para peça de mão nº 702",4428721,10,VENCEU,UN,88.6,8.86
+"Broca para peça de mão nº 703",4428722,10,PERDEU,UN,141.2,14.12
+"Broca Zekrya .Tamanho 23mm",4428723,20,PERDEU,UN,610,30.5
+"Broca Zekrya Longa.Tamanho 28mm",4428724,20,PERDEU,UN,633.6,31.68
+"Campo cirúrgico fenestrado 50 x 50 cm",4428725,45,VENCEU,UN,1237.5,27.5
+"Campo cirúrgico 60X60 cm",4428726,45,VENCEU,UN,1422,31.6
+"Cariostático a base de diaminufluoreto de prata 30%",4428727,50,DESCLASSIFICADO,FRA,1065.5,21.31
+"Cartela para rx odontológico",4428728,15,DESCLASSIFICADO,PCT,159.3,10.62
+"CIMENTO DE HIDROXIDO DE CALCIO",4428729,100,DESCLASSIFICADO,KIT,4574,45.74
+"Clorhexidina 2% - frasco com 100ml",4428730,80,DESCLASSIFICADO,FR.,814.4,10.18
+"Coletor de material perfuro cortante",4428731,50,INABILITADO,CX,117.5,2.35
+"Compressas de Gaze Hidrófila",4428732,3000,DESCLASSIFICADO,PCT,72450,24.15
+"Cone de guta percha MICROTIPPED tamanho F",4428733,20,INABILITADO,CX,1200,60
+"Cone de guta percha microtipped tamanho FM",4428734,20,DESCLASSIFICADO,CX,1200,60
+"Cone de guta percha MICROTIPPED tamanho FM, Extra longo",4428735,20,INABILITADO,CX,1200,60
+"Cone de guta percha, principal 20",4428736,40,DESCLASSIFICADO,CX,822,20.55
+"Cone de guta percha, principal 25",4428737,40,DESCLASSIFICADO,CX,822,20.55
+"Cone de guta percha, principal 30",4428738,40,DESCLASSIFICADO,CX,822,20.55
+"Cone de guta percha, principal 35",4428739,40,DESCLASSIFICADO,CX,822,20.55
+"Cone de guta percha, principal 40",4428740,40,DESCLASSIFICADO,CX,820,20.5
+"Cone de papel absorvente esteril nº 30",4428741,30,PERDEU,CX,615,20.5
+"Cone de papel absorvente  esteril nº 35",4428742,30,PERDEU,CX,616.5,20.55
+"Cone de papel absorvente esteril nº 40",4428743,30,PERDEU,CX,616.5,20.55
+"Cone de papel absorvente segunda série- conjunto de cones nú",4428744,30,PERDEU,CX,608.4,20.28
+"Cones de guta percha acessórios B 7",4428745,30,PERDEU,CX,522.9,17.43
+"Cones de guta percha acessórios B 8",4428746,60,PERDEU,CX,1045.8,17.43
+"Cuba de borracha para manipulação de alginato ou gesso",4428747,6,VENCEU,UN,28.02,4.67
+"Cunhas de madeira interdental anatômicas",4428748,100,DESCLASSIFICADO,CX,2552,25.52
+"Detergente enzimático - Embalagem com 5 l",4428749,200,INABILITADO,GAL,25200,126
+"Disco de feltro 8mm",4428750,6,VENCEU,EM,141,23.5
+"Disco de lixa de oxido de aluminio aproximado 16mm",4428751,200,PERDEU,CX,5248,26.24
+"Disco de lixa de óxido de aluminio aproximado de 19mm",4428752,100,PERDEU,CX,2697,26.97
+"Edta gel 24%. Seringa com 3g de gel.",4428753,30,INABILITADO,CX,185.7,6.19
+"Edta Liquido Trifásico",4428754,30,INABILITADO,FR.,201,6.7
+"Escova de aco para limpar brocas",4428755,150,DESCLASSIFICADO,UNI,1873.5,12.49
+"ESCOVA DE ROBSON",4428756,700,DESCLASSIFICADO,UNI,1225,1.75
+"Escova dental adulto.",4428757,8,PERDEU,PCT,320,40
+"Escova dental infantil.",4428758,10,PERDEU,PCT,295.6,29.56
+"Espaçador Digital nº30 de 21 mm",4428759,4,INABILITADO,CX,120,30
+"Espaçador Digital nº30 de 25 mm",4428760,4,INABILITADO,CX,120,30
+"Espátula plástica para alginato",4428761,6,VENCEU,UN,9.06,1.51
+"Espelho clinico numero 5 em aco inox autoclavavel",4428762,1000,PERDEU,UN,3720,3.72
+"Espelho de mão",4428763,40,DESCLASSIFICADO,UN,1576.8,39.42
+"ESPONJA HEMOSTÁTICA",4428764,80,DESCLASSIFICADO,CX,1748,21.85
+"Evidenciador de placa  solucão",4428765,150,DESCLASSIFICADO,FR.,1336.5,8.91
+"EXTIRPA NERVOS EM AÇO, esterilizável, n° 15/40",4428766,200,DESCLASSIFICADO,CX,46000,230
+"Filme Periapical adulto 31 x 41mm ultra-rápido",4428767,20,DESCLASSIFICADO,CX,2333.6,116.68
+"Filme Periapical infantil ultra-rápido",4428768,10,PERDEU,CX,1650.7,165.07
+"Fio agulhado nylon, preto 3.0/EP2",4428769,400,DESCLASSIFICADO,CX,12576,31.44
+"Fio agulhado seda, 3.0/EP2",4428770,500,DESCLASSIFICADO,CX,15720,31.44
+"Fio dental bucal",4428771,100,DESCLASSIFICADO,UN,1244,12.44
+"FITA AUTOCLAVE",4428772,100,DESCLASSIFICADO,RL,450,4.5
+"Fita matriz metálica de 5mm",4428773,100,INABILITADO,ROLO,213,2.13
+"Fita matriz metalica de 7mm",4428774,80,INABILITADO,ROLO,167.2,2.09
+"Fita matriz poliéster transparente 10 X 120 X 0,05 mm",4428775,150,DESCLASSIFICADO,CX,2460,16.4
+"Fixador para radiografia",4428776,80,DESCLASSIFICADO,FR.,759.2,9.49
+"Flúor gel acidulado com concentração mínima de 1,23% de flúo",4428777,200,DESCLASSIFICADO,FR.,850,4.25
+Formocresol.,4428778,35,DESCLASSIFICADO,FR.,204.4,5.84
+"Fresa de tungstênio nº 9354.",4428779,2,INABILITADO,UN,128,64
+"Fresa de tungstênio nº 9359",4428780,2,INABILITADO,UNI,128,64
+"Fresa de tungstênio nº 9361",4428781,2,INABILITADO,UNI,128,64
+"Fresa de tungstênio nº 9372",4428782,3,INABILITADO,UNI,192,64
+"Gel ácido fosfórico ou ortofosfórico, 37% com clorexidine a",4428783,400,DESCLASSIFICADO,SRS,840,2.1
+"Godiva em bastão",4428784,6,DESCLASSIFICADO,CX,270.6,45.1
+"Gorros descartáveis tipo touca com elástico",4428785,300,PERDEU,PCT,1797,5.99
+"Guardanapo 30 x 30cm",4428786,2500,DESCLASSIFICADO,PCT,11250,4.5
+"HASTE FLEXÍVEL EM ALGODÃO",4428787,200,DESCLASSIFICADO,CX,396,1.98
+"Hidróxido de cálcio pró-análise.",4428788,100,PERDEU,POT,479,4.79
+"Hipoclorito de sódio a 1%",4428789,150,PERDEU,L,1006.5,6.71
+"Hipoclorito de sódio a 2,5% - soda clorada.",4428790,100,PERDEU,L,890,8.9
+"Indicador Biológico sensível a geobacillus stearothermophilu",4428791,100,DESCLASSIFICADO,CX,10081,100.81
+"Ionômero de vidro R fotopolimerizavel",4428792,400,INABILITADO,KIT,14620,36.55
+"Isqueiro plastico colorido portatil",4428793,100,VENCEU,UN,350,3.5
+"Kit odontológico de higiene dental infantil",4428794,16000,DESCLASSIFICADO,KIT,136000,8.5
+"KIT ODONTOLÓGICO DE HIGIENE DENTAL",4428795,26000,DESCLASSIFICADO,KIT,221000,8.5
+"Kit posicionador para RX",4428796,5,PERDEU,KIT,269.95,53.99
+"Lâmina de bisturi nº 12",4428797,500,PERDEU,CXA,12255,24.51
+"Lâmina de bisturi nº 15",4428798,700,PERDEU,CX,17157,24.51
+"LENÇOL DE BORRACHA PURO LÁTEX",4428799,50,DESCLASSIFICADO,UN,926.5,18.53
+"Lima Flex-file 1ª série nº 15 a 40 de 21 mm",4428800,10,DESCLASSIFICADO,CX,320,32
+"Lima Flex-file 1ª série nº 15 a 40 de 25 mm",4428801,10,DESCLASSIFICADO,CX,320,32
+"Lima Flex-file 1ª série nº 15 a 40 de 31 mm",4428802,10,DESCLASSIFICADO,CX,320,32
+"Lima Flex-file nº 15 de 21 mm",4428803,30,DESCLASSIFICADO,CX,960,32
+"Lima Flex-file nº 15 de 25 mm",4428804,30,DESCLASSIFICADO,CX,960,32
+"Lima Flex-file nº 15 de 31 mm",4428805,20,DESCLASSIFICADO,CX,640,32
+"Lima Flex-file nº 20 de 21 mm",4428806,30,DESCLASSIFICADO,CX,960,32
+"Lima Flex-file nº 20 de 25 mm",4428807,30,DESCLASSIFICADO,CX,960,32
+"Lima Flex-file nº 20 de 31 mm",4428808,20,DESCLASSIFICADO,CX,640,32
+"LIMA ROTATORIA PROTAPER. UNIVERSAL 21 MM",4428809,2,DESCLASSIFICADO,CX,330,165
+"LIMA ROTATORIA PROTAPER. UNIVERSAL 25 MM",4428810,5,DESCLASSIFICADO,CX,825,165
+"Lima tipo K 2ª série nº 45 a 80 de 21 mm",4428811,10,DESCLASSIFICADO,CX,420.5,42.05
+"Lima tipo K 2ª série nº 45 a 80 de 25 mm",4428812,10,DESCLASSIFICADO,CX,573.7,57.37
+"Lima tipo K 2ª série nº 45 a 80 de 31 mm",4428813,6,DESCLASSIFICADO,CX,361.8,60.3
+"Lima tipo K nº 08 de 25 mm",4428814,10,DESCLASSIFICADO,CX,600,60
+"Lima tipo K nº 08 de 31 mm",4428815,6,DESCLASSIFICADO,CX,360,60
+"Lima tipo K nº 10 de 21 mm",4428816,6,DESCLASSIFICADO,CX,360,60
+"Lima tipo K nº 10 de 25 mm",4428817,10,DESCLASSIFICADO,CX,600,60
+"Lima tipo K nº 10 de 31 mm",4428818,6,DESCLASSIFICADO,CX,360,60
+"Lima tipo K nº 8 de 21 mm",4428819,6,DESCLASSIFICADO,CX,360,60
+"Luva de Látex - tamanho PP",4428820,800,DESCLASSIFICADO,CX,17000,21.25
+"Luva de Látex tamanho G",4428821,50,DESCLASSIFICADO,CX,1062.5,21.25
+"Luva de Látex tamanho M",4428822,600,DESCLASSIFICADO,CX,12750,21.25
+"Luvas Látex, tamanho M LIVRES DE PÓ",4428823,100,DESCLASSIFICADO,CX,2733,27.33
+"LUVAS LÁTEX, TAMANHO P",4428824,1500,DESCLASSIFICADO,CX,31875,21.25
+"Luvas Látex, tamanho P LIVRES DE PÓ",4428825,200,DESCLASSIFICADO,CX,5466,27.33
+"Macro modelo odontologico com arcada superior e inferior",4428826,35,DESCLASSIFICADO,UN,9336.95,266.77
+"Mandril odotológico para contra-ângulo MINI em aço inox",4428827,150,DESCLASSIFICADO,UN,5400,36
+"Máscara facial descartável com elástico tripla camada de pro",4428828,1000,DESCLASSIFICADO,CX,5500,5.5
+"Micro brush para aplicação",4428829,350,VENCEU,PCT,2292.5,6.55
+"Óculos de proteção de plástico",4428830,70,DESCLASSIFICADO,UNI,357,5.1
+"Óleo lubrificante p/ alta/baixa rotação spray",4428831,150,DESCLASSIFICADO,FR,2844,18.96
+"Otosporin - suspensão - frasco 10ml",4428834,150,DESCLASSIFICADO,FR,2160,14.4
+"Óxido de zinco e eugenol de presa lenta para obturação de ca",4428835,20,DESCLASSIFICADO,KIT,1012.4,50.62
+"Oxido de zinco-eugenol, de presa rápida tipo IRM",4428836,100,PERDEU,KIT,2200,22
+"Papel Crepado em folhas 40 x 40 cm gramatura 60g/m²",4428837,20,DESCLASSIFICADO,CX,3100,155
+"Papel de articulação;",4428838,300,VENCEU,BLCO,2175,7.25
+"Papel filme PVC. Rolo 30m.",4428839,100,DESCLASSIFICADO,ROLO,4500,45
+"Papel grau cirúrgico; medindo 10 cm x 100m",4428840,200,DESCLASSIFICADO,BO,10014,50.07
+"Papel grau cirúrgico; medindo 25 cm x 100 m",4428841,300,DESCLASSIFICADO,BO,43848,146.16
+"Papel toalha interfolhado;",4428842,1800,INABILITADO,PCT,19800,11
+"Pasta para polimento de resina composta",4428843,200,DESCLASSIFICADO,SRS,4644,23.22
+"Pasta para tratamento de alveolite",4428844,50,PERDEU,FR.,935,18.7
+"Pasta profilática com granulação média com flúor",4428845,200,DESCLASSIFICADO,TBO,1174,5.87
+"Pavio para lamparina",4428846,2,PERDEU,PCT,11.82,5.91
+"Pedra de afiar Arkansas lisa",4428847,50,PERDEU,UN,1261,25.22
+"Pedra pomes extra fina",4428848,100,DESCLASSIFICADO,POT,382,3.82
+"Placa de vidro lapidada para manipulação",4428849,50,PERDEU,UNI,385.5,7.71
+"Ponta abrasiva para peça de mão de silicone e carboneto de s",4428850,30,PERDEU,UN,907.5,30.25
+"Ponta Capillary tips",4428851,10,PERDEU,CX,179.1,17.91
+"Ponta Irrigadora",4428852,20,PERDEU,PCT,590,29.5
+"Régua de Fox com arco",4428854,2,VENCEU,UNI,128.92,64.46
+"Resina Fotopolimerizavel cor A1.ESMALTE",4428855,200,PERDEU,SRS,9800,49
+"Resina Fotopolimerizavel cor A1.",4428856,100,PERDEU,UN,4900,49
+"Resina Fotopolimerizavel cor A2 ESMALTE",4428857,200,PERDEU,SRS,9800,49
+"Resina Fotopolimerizavel cor A2 DENTINA",4428858,100,PERDEU,SRS,4900,49
+"Resina Fotopolimerizavel cor A3,5 ESMALTE",4428859,100,PERDEU,SRS,4900,49
+"Resina Fotopolimerizavel cor A3. DENTINA",4428860,200,PERDEU,SRS,9800,49
+"Resina Fotopolimerizavel cor A3. ESMALTE",4428861,80,PERDEU,SRS,3920,49
+"Restaurador provisório tipo Cimpat",4428862,100,VENCEU,FR.,1442,14.42
+"Revelador para RX.",4428863,150,PERDEU,FR.,1381.5,9.21
+"Saco plástico para freezer 2L",4428864,20,PERDEU,ROLO,120,6
+"Saco plástico para freezer 3L",4428865,20,PERDEU,ROLO,100,5
+"Saco plástico SACOLÉ medindo 4 x 23 cm para protecao de peca",4428866,200,DESCLASSIFICADO,PCT,3000,15
+"Selante Fotopolimerizável",4428867,100,DESCLASSIFICADO,KIT,2912,29.12
+"Seringa descartável 5ml com êmbolo de silicone",4428868,300,VENCEU,ENV,9819,32.73
+"Spray congelante para teste de vitalidade pulpar",4428869,6,DESCLASSIFICADO,FR,135.72,22.62
+"Sugador cirúrgico descartável caixa c/ 40 unidades",4428870,80,PERDEU,CX,2856,35.7
+"SUGADOR DE SALIVA DESCARTÁVEL 130MM X 0,65MM",4428871,1000,PERDEU,PCT,5710,5.71
+"TACA DE BORRACHA",4428872,200,DESCLASSIFICADO,UN,350,1.75
+"Tamborel endometric.",4428873,2,PERDEU,UN,28.38,14.19
+"Tira de lixa de aço para polimento de restaurações de amálga",4428874,400,INABILITADO,PCT,2188,5.47
+"Tira de lixa de poliester para polimento de restaurações de",4428875,200,DESCLASSIFICADO,PCT,1252,6.26
+"Tricresol Formalina.",4428876,80,DESCLASSIFICADO,FR.,402.4,5.03
+"VASELINA SOLIDA",4428877,50,DESCLASSIFICADO,FR,1200,24
+"Verniz cavitário",4428878,50,PERDEU,FR.,401.5,8.03
+"Verniz fluoretado",4428879,50,DESCLASSIFICADO,KIT,999,19.98

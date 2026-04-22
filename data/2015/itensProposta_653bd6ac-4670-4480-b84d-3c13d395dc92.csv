@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Switch 24 p",0,3,VENCEU," ",1984.5,661.5
+"RACK 7 US",0,2,VENCEU," ",472,236
+"CENTRAL TELEFONICA",0,1,VENCEU," ",880,880
+"Switch 8 p",0,1,VENCEU," ",81.5,81.5
+"CANALETA 20 X 10",0,155,VENCEU," ",282.1,1.82
+"Canaleta 50 x 20",0,95,VENCEU," ",380,4
+"CABO LAN",0,1860,VENCEU," ",1729.8,0.93
+"Fio Eletrico2,5mm",0,1920,VENCEU," ",1766.4,0.92
+"Cx Sistema 3 x 3",0,133,VENCEU," ",343.14,2.58
+KEYSTONE,0,88,VENCEU," ",286.88,3.26
+"Espelho tomada eletrica 2p + t",0,70,VENCEU," ",79.1,1.13
+"BUCHA NO. 6",0,1050,VENCEU," ",598.5,0.57
+"Parafuso no. 6",0,1049,VENCEU," ",41.96,0.04
+"Etiqueta identificação.",0,162,VENCEU," ",27.54,0.17
+"FITA ISOLANTE.",0,12,VENCEU," ",32.4,2.7
+"ESPELHO 2 FUROS",0,70,VENCEU," ",211.4,3.02
+"CONECTOR RJ 45",0,25,VENCEU," ",8.25,0.33
+"Patch Cord 1,5 m",0,10,VENCEU," ",39.5,3.95
+"Patch Cord 2,5 m",0,3,VENCEU," ",14.64,4.88
+"MAO DE OBRA.",0,280,VENCEU," ",16520,59

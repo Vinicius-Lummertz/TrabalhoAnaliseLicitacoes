@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária com 1litro.",0,36,VENCEU," ",68.4,1.9
+"Agua Sanitária  com 5 Litros.",0,63,VENCEU," ",390.6,6.2
+"Álcool etílico",0,60,VENCEU," ",312,5.2
+"Balde Plástico capacidade 8 litros",0,40,VENCEU," ",324,8.1
+"Cabo de aluminio para suporte de Mop Úmido",0,15,VENCEU," ",414,27.6
+"Conjunto Balde/Espremedor apacidade 36 litros",0,2,VENCEU," ",660,330
+"Desinfetante Desengordurante galão de 5 Litros:",0,44,VENCEU," ",358.6,8.15
+"Desodorizador de ambientes 360 ml.",0,36,VENCEU," ",327.6,9.1
+"Detergente Líquido de 500Ml.",0,96,VENCEU," ",163.2,1.7
+"Detergente Líquido 5Lt.",0,40,VENCEU," ",394,9.85
+Esponja.,0,200,VENCEU," ",140,0.7
+"Flanela para limpeza",0,170,VENCEU," ",221,1.3
+"Hipoclorito de Sódio;",0,18,VENCEU," ",300.6,16.7
+"Luva para Limpeza, Tamanho Grande cano 3/4 com bainha.",0,40,VENCEU," ",104,2.6
+"Luva para Limpeza, Tamanho Medio cano 3/4 com bainha",0,130,VENCEU," ",338,2.6
+"Luva para Limpeza Tamanho Pequeno, cano 3/4 com bainha",0,40,VENCEU," ",104,2.6
+"Mopi úmido",0,36,VENCEU," ",601.2,16.7
+"Rodo 70cm.",0,14,VENCEU," ",518,37
+"Rodo 1m.",0,8,VENCEU," ",360,45
+"Saca de tecido 100 % alvejado",0,650,VENCEU," ",2275,3.5
+"Saca de tecido crua",0,200,VENCEU," ",490,2.45
+"Saco plástico de lixo capacidade de 50 litros",0,10,VENCEU," ",409,40.9
+"Saco plástico de lixo capacidade de 100 litros",0,17,VENCEU," ",1394,82
+"Sapólio cremoso 300 ml",0,72,VENCEU," ",244.8,3.4
+"Vassoura nylon.",0,20,VENCEU," ",234,11.7
+"VASSOURA DE PALHA",0,60,VENCEU," ",1140,19

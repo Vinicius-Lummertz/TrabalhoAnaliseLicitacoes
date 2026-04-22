@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A4,",0,2000,VENCEU," ",500,0.25
+"Impressão colorida , tamanho A4",0,1000,VENCEU," ",2000,2
+"Impressão preto e branco, tamanho A3, folha branca, PAPEL 75",0,1000,VENCEU," ",550,0.55
+"Impressão colorida em papel 75 gr tamanho A3",0,500,VENCEU," ",2000,4
+"Encadernação em espiral até 100 folhas tamanho A4",0,200,VENCEU," ",1000,5
+"Encadernação em espiral acima de 100 folhas",0,50,VENCEU," ",350,7
+"Plotagem de viatura",0,200,VENCEU," ",22000,110

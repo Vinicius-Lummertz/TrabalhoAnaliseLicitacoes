@@ -1,0 +1,115 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serra aço 1/2x12",1275059,455,100,ATIVO,UNIDADE,300,3
+"registro pvc esfera 32mm",1275069,435,40,ATIVO,UNIDADE,280,7
+"sifão copo c/ tubo extensivo",1275071,456,50,ATIVO,UNIDADE,500,10
+"Tê soldável 20mm",1275074,479,100,ATIVO,UNIDADE,50,0.5
+"te redução sold. 50 x 25mm",1275075,478,20,ATIVO,UNIDADE,70,3.5
+"te esgoto  50mm",1275083,470,40,ATIVO,UNIDADE,78,1.95
+"te esgoto  40mm",1275084,469,40,ATIVO,UNIDADE,38,0.95
+"registro pvc esfera 20mm",1275095,433,40,ATIVO,UNIDADE,160,4
+"TE SOLDAVEL 25MM",1275096,480,100,ATIVO,UNIDADE,45,0.45
+"porta int. semi-oca 0,60 x 2,10 pinus",1275101,402,70,ATIVO,UNIDADE,3255,46.5
+"Porta cadeado fz 4.1/2.",1275104,399,25,ATIVO,UNIDADE,100,4
+"Porta cadeado fz 3. 1/2 x 89mm",1275105,398,20,ATIVO,UNIDADE,78,3.9
+"Pneu carrinho de mão 350 x 8 ( 4 lonas)",1275106,397,15,ATIVO,UNIDADE,300,20
+"Plugue tomada mono p/ extensão ( macho)",1275109,395,50,ATIVO,UNIDADE,100,2
+"Plugue tomada mono p/ extensão ( femea)",1275119,394,50,ATIVO,UNIDADE,100,2
+"Reator eletr. 1x40w alto fator",1275126,426,1500,ATIVO,PECAS,12750,8.5
+"prego para telha galv. 18 x 30 Ardox",1275128,424,40,ATIVO,kg,340,8.5
+"Prego com cabeça 17x27,pacote de 01 Kg",1275135,417,200,ATIVO,kg,980,4.9
+"vassoura grama de aço c/ cabo regulável",1275181,568,100,ATIVO,UNIDADE,1200,12
+"torneira metal p/ tanque 3/4 (simples)",1275193,532,10,ATIVO,UNIDADE,128,12.8
+"torneira jardim metal esfera 1/2",1275196,529,50,ATIVO,UNIDADE,900,18
+"Torneira jardim 3/4 PVC",1275221,528,50,ATIVO,UNIDADE,100,2
+"tomada externa para telefone RJ11",1275223,526,100,ATIVO,UNIDADE,480,4.8
+"tomada externa universal 2P+T 10A ABNT",1275224,525,50,ATIVO,UNIDADE,190,3.8
+"Pincel 2.½",1275243,383,30,ATIVO,UNIDADE,69,2.3
+"registro pvc esfera 25mm",1275244,434,40,ATIVO,UNIDADE,180,4.5
+"Pincel 1.1/2",1275245,381,50,ATIVO,UNIDADE,70,1.4
+"INTER. EMB 2 TEC-SIMPLES C/TOM. 028-ES",1275246,257,25,ATIVO,UNIDADE,170,6.8
+"INTER. EMB 1 TEC-SIMPLES C/TOM. DIST 033-ES",1275249,254,70,ATIVO,UNIDADE,616,8.8
+"haste terra 1.5m c/ presilha",1275251,252,25,ATIVO,UNIDADE,200,8
+"Grampo cabo de aço 1/8",1275253,250,25,ATIVO,UNIDADE,12,0.48
+"grampo cabo de aço 1/4",1275254,249,25,ATIVO,UNIDADE,18.75,0.75
+"joelho soldável 25 x 45º",1275273,279,100,ATIVO,UNIDADE,30,0.3
+"Joelho soldavel 20x90º",1275274,278,100,ATIVO,UNIDADE,25,0.25
+"joelho hidraúlico para esgoto  75 x 45º",1275283,269,10,ATIVO,UNIDADE,20,2
+"joelho hidraúlico para esgoto  40 x 90º",1275286,266,100,ATIVO,UNIDADE,50,0.5
+"joelho hidraúlico para esgoto  40 x 45º",1275287,265,25,ATIVO,UNIDADE,25,1
+"joelho hidraúlico para esgoto  100x 45º",1275289,263,40,ATIVO,UNIDADE,140,3.5
+"dobradiça inox 3 sem parafusos.",1275297,206,100,ATIVO,UNIDADE,500,5
+"dobradiça ferro zincado 3 sem parafusos.",1275298,205,50,ATIVO,UNIDADE,45,0.9
+"disco diamantado segmentado 4´´ 110mm para corte seco,10,5cm",1275310,193,60,ATIVO,UNIDADE,480,8
+"Desengripante 300ml",1275311,192,50,ATIVO,UNIDADE,250,5
+"joelho soldável 40 x 90º",1275317,283,2,ATIVO,UNIDADE,7,3.5
+"PINCEL 1",1275320,382,50,ATIVO,UNIDADE,50,1
+"Luva soldavel 40mm",1275357,343,20,ATIVO,UNIDADE,25,1.25
+"LUVA SOLDAVEL 25MM",1275359,341,90,ATIVO,UNIDADE,21.6,0.24
+"LUVA SOLDÁVEL 20MM",1275360,340,90,ATIVO,UNIDADE,18,0.2
+"Luva LR azul com bucha metal 25 x 3/4",1275361,339,70,ATIVO,UNIDADE,139.3,1.99
+"luva LR azul com bucha metal 25 x 1/2",1275362,338,40,ATIVO,UNIDADE,80,2
+"Luva LR azul com bucha metal 20 x 1/2",1275363,337,70,ATIVO,UNIDADE,126,1.8
+"joelho soldável 50 x 90º",1275369,285,120,ATIVO,UNIDADE,204,1.7
+"Parafuso fz 4,2 x 38",1275377,373,1000,ATIVO,UNIDADE,60,0.06
+"parafuso fz 4,2 x 32",1275378,372,1000,ATIVO,UNIDADE,60,0.06
+"parafuso flangeado agulha 4,2 x 13 (forro)",1275379,371,300,ATIVO,UNIDADE,9,0.03
+"Massa Acrílica 18L",1275389,361,50,ATIVO,BALDE,3350,67
+"Luva LR 20 x 1/2",1275391,334,70,ATIVO,UNIDADE,42,0.6
+"Luva esgoto 100mm",1275393,332,150,ATIVO,UNIDADE,300,2
+"Lixa dagua para pintura, grão 120",1275396,306,100,ATIVO,FOLHA,60,0.6
+"Lixa dagua para pintura, grão 100",1275397,305,100,ATIVO,FOLHA,60,0.6
+"Ligação Flexível 50 cm (PVC)",1275398,304,40,ATIVO,UNIDADE,60,1.5
+"Ligação flexivel 30 cm ( PVC)",1275399,303,70,ATIVO,UNIDADE,66.5,0.95
+"junção esgoto Y 100 x 50mm",1275411,291,5,ATIVO,UNIDADE,30,6
+"junção esgoto Y  75 x 50mm",1275412,290,5,ATIVO,UNIDADE,30,6
+"Luva esgoto 75mm",1275418,331,20,ATIVO,UNIDADE,56,2.8
+"LUVA ESGOTO 50MM",1275420,330,70,ATIVO,UNIDADE,140,2
+"Luva Esgoto 40mm",1275421,329,70,ATIVO,UNIDADE,42,0.6
+"luva eletroduto 1.1/2 preta",1275425,325,30,ATIVO,UNIDADE,42,1.4
+"Luva eletroduto 1 preta",1275426,324,30,ATIVO,UNIDADE,30,1
+"Lixa rolo 220",1275433,317,120,ATIVO,METRO,192,1.6
+"Lixa rolo 150",1275434,316,120,ATIVO,METRO,192,1.6
+"cx luz 2x4 (pvc)",1275440,186,140,ATIVO,UNIDADE,42,0.3
+"ARGAMASSA ACII EXTERNA 20KG",1275443,35,300,ATIVO,UNIDADE,3150,10.5
+"bandeja pvc p/ pintura 23cm,nas dimensões 5x20,5x25cm preta",1275449,41,50,ATIVO,UNIDADE,195,3.9
+"adaptador flange soldável 20x1/2",1275463,10,15,ATIVO,UNIDADE,82.5,5.5
+"ancinho c/ cabo 14 dentes (reforçado)",1275469,15,20,ATIVO,UNIDADE,220,11
+"arco de serra profissional 12´´ regulável cabo recartilhado",1275482,28,20,ATIVO,UNIDADE,230,11.5
+"bucha redução roscavel 3/4 x 1/2 pvc",1275498,80,45,ATIVO,UNIDADE,18,0.4
+"bucha redução roscavel 1.1/2 x 3/4 pvc",1275501,77,45,ATIVO,UNIDADE,166.5,3.7
+"bucha redução roscavel 1.1/2 x 1 pvc",1275502,76,45,ATIVO,UNIDADE,200.7,4.46
+"bucha redução roscavel 1 x 3/4 pvc",1275503,75,45,ATIVO,UNIDADE,76.5,1.7
+"bucha redução roscavel 1 x 1/2 pvc",1275504,74,45,ATIVO,UNIDADE,92.7,2.06
+"bucha de redução PVC curta sold. 60 x 50 mm,NBR 5648.",1275506,72,45,ATIVO,UNIDADE,183.15,4.07
+"broca de vídia  6mm",1275513,57,10,ATIVO,UNIDADE,42,4.2
+"broca de vídia  8mm",1275514,58,10,ATIVO,UNIDADE,70,7
+"Broca de Vídia 10mm",1275515,59,10,ATIVO,UNIDADE,85,8.5
+"bucha de nylon 10mm convecional de máxima qualidade",1275517,61,2000,ATIVO,UNIDADE,560,0.28
+"bucha de nylon 6mm convecional de máxima qualidade",1275518,62,1000,ATIVO,UNIDADE,100,0.1
+"bucha de nylon 8mm convecional de máxima qualidade",1275519,63,1000,ATIVO,UNIDADE,180,0.18
+"bucha de redução PVC longa sold. 32 x 20 mm,NBR 5648.",1275521,64,45,ATIVO,UNIDADE,67.5,1.5
+"bucha de redução PVC longa sold. 40 x 25 mm,NBR 5648.",1275522,66,25,ATIVO,UNIDADE,65,2.6
+"bucha de redução PVC curta sold. 40 x 32 mm,NBR 5648.",1275523,67,45,ATIVO,UNIDADE,54,1.2
+"bucha de redução PVC longa sold. 50 x 25 mm,NBR 5648.",1275524,68,45,ATIVO,UNIDADE,124.2,2.76
+"bucha de redução PVC curta sold. 50 x 40 mm,NBR 5648.",1275525,69,45,ATIVO,UNIDADE,98.1,2.18
+"bucha de redução PVC curta sold. 32 x 25 mm,NBR 5648.",1275531,65,45,ATIVO,UNIDADE,21.6,0.48
+"adaptador curto soldavel 25 x 3/4",1275534,6,20,ATIVO,UNIDADE,10,0.5
+"cinta plastica 15cm x 2,5mm",1275545,150,500,ATIVO,UNIDADE,40,0.08
+"centro distrib. pvc int. p/ 16 a 24 disjuntores",1275552,143,2,ATIVO,UNIDADE,90,45
+"conector haste terra",1275554,161,25,ATIVO,UNIDADE,45,1.8
+"conector p/ haste terra - cabo 35mm",1275555,162,5,ATIVO,UNIDADE,5,1
+"curva esgoto curta 100 x 90º",1275561,181,40,ATIVO,UNIDADE,376,9.4
+"curva esgoto curta  50 x 90º",1275563,179,45,ATIVO,UNIDADE,144,3.2
+"curva esgoto curta  40 x 90º",1275564,178,45,ATIVO,UNIDADE,81,1.8
+"centro distrib. ferro p/ 20 disjuntores c/ barram.",1275581,138,7,ATIVO,UNIDADE,840,120
+"cadeado em latão maciço 35mm com chaves",1275587,109,25,ATIVO,UNIDADE,247.5,9.9
+"cadeado em latão maciço 25mm com chaves",1275588,108,25,ATIVO,UNIDADE,212.5,8.5
+"cap soldável 50mm",1275611,131,25,ATIVO,UNIDADE,75,3
+"cap soldavel 32mm",1275612,130,25,ATIVO,UNIDADE,21.25,0.85
+"centro distrib. ferro p/ 24 disjuntores c/ barram.",1275613,139,2,ATIVO,UNIDADE,360,180
+"CAP soldável 25mm",1275614,129,25,ATIVO,UNIDADE,11.25,0.45
+"cap esgoto 75mm",1275615,127,10,ATIVO,UNIDADE,32,3.2
+"cap esgoto  40mm",1275617,125,25,ATIVO,UNIDADE,22.5,0.9
+"Canaleta PVC com tampa,largura 20mm altura 10mm e compriment",1275622,120,200,ATIVO,UNIDADE,740,3.7
+"cap esgoto 100mm",1275624,128,45,ATIVO,UNIDADE,171,3.8
+"bucha de redução PVC longa sold. 60 x 32 mm,NBR 5648.",1275625,70,45,ATIVO,UNIDADE,292.5,6.5

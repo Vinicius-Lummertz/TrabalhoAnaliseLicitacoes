@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental Cirúrgico Hospitalar",4430293,460,DESCLASSIFICADO,UN,20240,44
+"Fronha Adulto para travesseiro",4430294,760,DESCLASSIFICADO,UN,6004,7.9
+"Lençol de leito sem elástico",4430295,280,DESCLASSIFICADO,UN,9128,32.6
+"Lençol de leito com elástico",4430296,900,DESCLASSIFICADO,UN,29340,32.6
+"Lençol de maca",4430297,1000,DESCLASSIFICADO,UN,22000,22
+"Camisola manga japonesa",4430298,300,DESCLASSIFICADO,UN,7500,25
+"Toalha de banho branca 0,70 x 1,40m, 400 G/M²",4430299,150,DESCLASSIFICADO,UN,2700,18
+"Toalha de rosto branca 0,45 x 0,80m, 400G/M²",4430300,200,DESCLASSIFICADO,UN,1500,7.5
+"Manta microfibra (Soft) solteiro adulto",4430301,490,DESCLASSIFICADO,UN,33320,68
+"Campo cirúrgico simples em brim pesado profissional",4430302,200,VENCEU,UN,1238,6.19
+"Campo cirúrgico simples fenestrado",4430303,200,VENCEU,UN,1378,6.89
+"Travesseiro hospitalar em espuma inteira",4430304,210,VENCEU,UN,4809,22.9
+"Capa protetora para travesseiro hospitalar impermeável",4430305,210,DESCLASSIFICADO,UN,3570,17
+"Colchão hospitalar, revestimento impermeável tipo PVC, na co",4430306,30,PERDEU,UN,7770,259
+"Capa protetora Impermeável para colchão hospitalar",4430307,30,DESCLASSIFICADO,UN,1800,60
+"Pano de copa (prato) liso, 100% algodão alvejado, com bainha",4430308,190,PERDEU,UN,541.5,2.85

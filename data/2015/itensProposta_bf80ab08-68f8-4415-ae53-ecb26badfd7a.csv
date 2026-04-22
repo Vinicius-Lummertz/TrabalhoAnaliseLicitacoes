@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carbamazepina 200mg.",4427723,1300000,DESCLASSIFICADO,COMP,520000,0.4
+"Cinarizina 75mg.",4427736,400000,PERDEU,COMP,31360,0.0784
+"Levotiroxina sódica 100mcg",4427832,200000,VENCEU,COMP,18200,0.091
+"Levotiroxina sódica 25mcg",4427833,300000,VENCEU,COMP,28470,0.0949
+"Levotiroxina sódica 50 mcg",4427834,500000,PERDEU,COMP,59000,0.118
+"Losartana 50mg comprimido revestido",4427841,3000000,VENCEU,COMP,101700,0.0339
+"Metilfenidato 10 mg",4427848,12000,VENCEU,COMP,8637.6,0.7198
+"Varfarina sódica 5 mg",4427913,50000,DESCLASSIFICADO,COMP,22175,0.4435

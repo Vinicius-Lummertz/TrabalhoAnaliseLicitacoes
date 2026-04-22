@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 18 L",4378098,15,NAO_COTOU,LAT,0,0
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 18 L",4378099,10,NAO_COTOU,LAT,0,0
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 3,6 L",4378100,6,NAO_COTOU,GAL,0,0
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 3,6 L",4378101,6,NAO_COTOU,GAL,0,0
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 18 L",4378102,10,NAO_COTOU,LAT,0,0
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 3,6 L",4378103,6,NAO_COTOU,GAL,0,0
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 18 L",4378104,6,NAO_COTOU,LAT,0,0
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 3,6 L",4378105,6,NAO_COTOU,GAL,0,0
+"Tinta Esmalte Para Madeira e Metal Padrão CBMSC Marrom Café",4378106,10,NAO_COTOU,GAL,0,0
+"MASSA CORRIDA",4378107,10,PERDEU,LAT,710,71
+"Solvente Aguarrás",4378108,20,PERDEU,LAT,126,6.3
+"Tinta Spray.",4378109,30,PERDEU,LAT,270,9
+"Tinta Fundo Zarcão",4378110,10,PERDEU,GAL,500,50
+"Selador Acrílico.",4378111,10,PERDEU,LAT,420,42
+"Pincel Pintura 1/2",4378112,10,PERDEU,UND,15,1.5
+"Pincel Pintura 3/4",4378113,10,PERDEU,UND,25,2.5
+"PINCEL 1",4378114,10,PERDEU,UND,15.8,1.58
+"Pincel 2.",4378115,10,PERDEU,UND,49.9,4.99
+"Rolo Pintura Espuma 05Cm C/Cabo Polyester",4378116,10,PERDEU,UND,26,2.6
+"Rolo Pintura Espuma 09Cm C/Cabo Polyester",4378117,10,PERDEU,UND,20,2
+"Rolo Lã Anti Gota",4378118,10,PERDEU,UND,78,7.8
+"Arame galvanizado nº 12",4378119,30,PERDEU,KG,264,8.8
+"Arame galvanizado nº 16",4378120,30,PERDEU,KG,294,9.8
+"Areia Lavada Fina",4378121,80,PERDEU,M3,3240,40.5
+"Areia Lavada Média.",4378122,50,PERDEU,M3,2100,42
+"Areia Lavada Grossa.",4378123,50,PERDEU,MC,2100,42
+"Pedra brita 3/4",4378124,80,PERDEU,MC,4240,53
+"Pedra brita 1",4378125,80,PERDEU,MC,4320,54
+"Argamassa Massa Pronta",4378126,200,PERDEU,SA,1260,6.3
+"Argamassa ACII Cerâmica Externa",4378127,30,PERDEU,SA,480,16
+"Argamassa ACIII Cerâmica Externa",4378128,30,PERDEU,SA,1020,34
+CIMENTO,4378129,200,PERDEU,SC,4320,21.6
+"Bloco de Concreto Celular Autoclavado",4378130,1000,NAO_COTOU,UND,0,0
+"Tijolo à Vista 6 Furos",4378131,6000,NAO_COTOU,UND,0,0
+"Tijolo à Vista 6 Furos Metade",4378132,2000,NAO_COTOU,UND,0,0
+"Bloco de Concreto Estrutural",4378133,500,NAO_COTOU,UND,0,0
+"Caixa dágua de Polietileno 3.000L Azul",4378134,4,PERDEU,UND,3800,950
+"Telha de Fibrocimento 1,83x1,10mx6mm",4378135,100,VENCEU,UND,2600,26
+"Telha de Fibrocimento Cumeeira Ondulada 1,10x0,64m",4378136,100,PERDEU,UND,2290,22.9
+"Forro Rígido de PVC Frisado Branco",4378137,200,PERDEU,M2,2500,12.5
+"Acabamento Moldura de PVC",4378138,50,PERDEU,UND,1150,23
+"Piso Cerâmico Esmaltado Borda Arredondada 45x45cm",4378139,200,PERDEU,M2,3200,16
+"Revestimento de Parede Borda Reta Brilhante 45x90cm",4378140,200,PERDEU,M2,12600,63
+"Lâmpada LED Bulbo Luz Branca 9W Bivolt",4378141,200,PERDEU,UND,2100,10.5
+"Lâmpada LED Tubular Luz Branca 20W Bivolt",4378142,50,PERDEU,UND,1650,33
+"Conjunto de Interruptor Simples com tomada 10A",4378143,40,PERDEU,UND,436,10.9
+"Conjunto de Tomada Energia 10A",4378144,40,PERDEU,UND,640,16
+"Conjunto de Interruptor Simples 10A",4378145,40,PERDEU,UND,380,9.5
+"Cabo Flexível 1,5mm Rolo com 15 m",4378146,15,PERDEU,RL,225,15
+"Cabo Flexível 2,5mm Rolo com 15 m",4378147,15,PERDEU,RL,222,14.8
+"Cabo Flexível 4mm Rolo com 15 m",4378148,10,PERDEU,RL,340,34
+"Cabo Flexível 6mm Rolo com 15 m",4378149,10,PERDEU,RL,505,50.5
+"Pilha Alcalina AAA Cartela 04 Und",4378150,100,NAO_COTOU,CAR,0,0
+"Pilha Alcalina AA Cartela 04 Und",4378151,100,NAO_COTOU,CAR,0,0
+"Pilha Alcalina C2 Cartela 02 Und",4378152,20,NAO_COTOU,CAR,0,0

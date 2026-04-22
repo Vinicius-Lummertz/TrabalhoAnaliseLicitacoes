@@ -1,0 +1,54 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Limpador multiuso",4346718,5,INABILITADO,GAL,625,125
+"Água sanitária 5 Lts",4346719,96,VENCEU,GAL,364.8,3.8
+"Álcool 92,8%",4346720,60,PERDEU,LT,240,4
+"Álcool em gel 70% 500 ml",4346721,40,PERDEU,UND,148,3.7
+"Aplicador de cera refil 45 cm",4346722,5,PERDEU,UND,255,51
+"Aplicador de cera 45 cm",4346723,5,PERDEU,UND,350,70
+"Balde plástico resistente capacidade 16 lts",4346724,15,INABILITADO,UND,317.25,21.15
+"Carro para limpeza com 2 baldes, cavalete espremedor e rodas",4346725,2,PERDEU,UND,450,225
+"Cera liquida auto transito embalagem 5 lts",4346726,3,INABILITADO,GAL,897,299
+"Cloro embalagem 5 lts",4346727,16,VENCEU,GAL,104,6.5
+"Copo descartável 180 ml 25x100 unid",4346728,10,PERDEU,CX,425,42.5
+"Copo descartável 300 ml 20x100 unid",4346729,2,VENCEU,CX,116,58
+"Escova para limpeza em vaso sanitário de bola com pote",4346730,10,PERDEU,UND,41,4.1
+"Amaciante para roupas, galão de 05 Lts",4346731,70,VENCEU,GAL,343,4.9
+"Esponja de lã de Aço",4346732,60,PERDEU,PCT,43.2,0.72
+"Esponja para Limpeza dupla face",4346733,230,PERDEU,UND,103.5,0.45
+"Flanela para limpeza",4346734,115,PERDEU,UND,149.5,1.3
+Guardanapo;,4346735,300,PERDEU,UND,171,0.57
+"Limpa pneus com silicone",4346736,8,VENCEU,GAL,96,12
+"Limpa vidros embalagem",4346737,8,VENCEU,GAL,56,7
+"Lixeira coletor pedal 40 lts",4346738,3,PERDEU,UND,225,75
+"Lustra móvel",4346739,25,INABILITADO,UND,87.5,3.5
+"Luva látex.",4346740,35,PERDEU,UND,525,15
+"Multi uso concentrado",4346741,25,VENCEU,GAL,110,4.4
+"Pá coletora",4346742,8,VENCEU,UND,258.4,32.3
+"Shampoo com cera para veículos",4346743,30,VENCEU,GAL,210,7
+"Desinfetante aromatizante",4346744,35,PERDEU,GAL,122.5,3.5
+"Desinfetante eucalipto",4346745,35,PERDEU,GAL,129.5,3.7
+"Papel toalha.",4346746,25,PERDEU,FRD,925,37
+"Papel higiênico 16 pacotes com 4 unidades de 30mts.",4346747,10,VENCEU,FRD,200,20
+"Papel higiênico 8 unidades de 500mts.",4346748,22,PERDEU,FRD,660,30
+"Pedra Sanitária.",4346749,55,INABILITADO,UND,52.25,0.95
+"Refil mop",4346750,18,VENCEU,UND,594,33
+"Removedor de cera alcalino 5 lts",4346751,2,DESCLASSIFICADO,GAL,260,130
+"Rodo de alumínio",4346752,7,PERDEU,UND,161,23
+"Limpa pisos",4346753,12,VENCEU,GAL,54,4.5
+"Sabonete em barra.",4346754,100,DESCLASSIFICADO,UND,200,2
+"Sabonete liquida",4346755,10,INABILITADO,GAL,230,23
+"Saca prelevada",4346756,115,PERDEU,UND,253,2.2
+"Desodorizador spray",4346757,42,PERDEU,UND,222.6,5.3
+"Pano multiúso em rolo picotado",4346758,4,PERDEU,UND,1080,270
+"Detergente de louça neutro",4346759,52,VENCEU,GAL,254.8,4.9
+"Sabão liquido.",4346760,42,VENCEU,GAL,205.8,4.9
+"Sabão liquido de coco",4346761,38,VENCEU,GAL,209,5.5
+"SABAO EM PO",4346762,60,PERDEU,KG,137.4,2.29
+"Saco de lixo 90x115x0, 10 cm",4346763,5,VENCEU,FRD,250,50
+"Saco de lixo de 240 litros",4346764,10,PERDEU,FRD,560,56
+"Saco de lixo de 100 litros",4346765,8,PERDEU,FRD,288,36
+"Saco de lixo de 30 litros",4346766,4,PERDEU,FRD,37.2,9.3
+"Saponáceo cremoso.",4346767,72,VENCEU,UND,93.6,1.3
+"Saponaceo em po.",4346768,48,VENCEU,UND,47.52,0.99
+"VASSOURA DE NYLON",4346769,10,PERDEU,UND,53,5.3
+"VASSOURA DE PALHA",4346770,15,PERDEU,UND,195,13

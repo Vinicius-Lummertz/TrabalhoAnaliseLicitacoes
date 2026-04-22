@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assinatura mensal",0,48,VENCEU," ",240,5
+"Tarifa Zero Local (Intra-Grupo)",0,48,VENCEU," ",240,5
+"Gerenciador On-Line",0,48,VENCEU," ",239.52,4.99
+"Pacote de Dados - 3Gb",0,48,VENCEU," ",2491.2,51.9
+"Ligações locais VC1-Intra rede",0,2400,VENCEU," ",720,0.3
+"Ligações locais VC1 - para outras operadoras de celular",0,2400,VENCEU," ",720,0.3
+"Ligações locais VC1- para telefone fixo",0,2400,VENCEU," ",720,0.3
+"SMS- avulso",0,960,VENCEU," ",336,0.35
+"Ligações locais VC2- Intra rede",0,480,VENCEU," ",336,0.7
+"Ligações locais  VC2- para outras operadoras de celular",0,480,VENCEU," ",480,1
+"Ligações locais VC2- para telefone fixo",0,480,VENCEU," ",384,0.8
+"Ligações locais VC3- Intra rede",0,480,VENCEU," ",336,0.7
+"Ligações locais VC3- para outras operadoras de celular",0,480,VENCEU," ",480,1
+"Ligações locais VC3-  para telefone fixo",0,480,VENCEU," ",384,0.8

@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pneu novo para veículo automotivo dimensões 195/75/R16",4332559,10,VENCEU,UND,3660,366
+"Pneu novo para veículo automotivo dimensões 24x8-12",4332560,12,NAO_COTOU,UND,0,0
+"Pneu novo para veículo automotivo dimensões 10.00 x 20",4332561,12,VENCEU,UND,13752,1146
+"Pneu novo para veículo automotivo dimensões 120/80-18",4332562,2,NAO_COTOU,UND,0,0
+"Pneu novo para veículo automotivo dimensões 165/70/R13",4332563,16,PERDEU,UND,2384,149
+"Pneu novo para veículo automotivo dimensões 175/70/R14",4332564,16,VENCEU,UND,3440,215
+"Pneu novo para veículo automotivo dimensões 178/70/R 13",4332565,4,VENCEU,UND,612,153
+"Pneu novo para veículo automotivo dimensões 185/65/R 14",4332566,12,PERDEU,UND,2484,207
+"Pneu novo para veículo automotivo dimensões 185/65/R15",4332567,10,VENCEU,UND,2490,249
+"Pneu novo para veículo automotivo dimensões 205/75/R16",4332568,6,VENCEU,UND,2520,420
+"Pneu novo para veículo automotivo dimensões 215/75/R16",4332569,6,NAO_COTOU,UND,0,0
+"Pneu novo para veículo automotivo dimensões 255/75/R15",4332570,6,VENCEU,UND,2472,412
+"Pneu novo para veículo automotivo dimensões 90/90-21",4332571,2,NAO_COTOU,UND,0,0

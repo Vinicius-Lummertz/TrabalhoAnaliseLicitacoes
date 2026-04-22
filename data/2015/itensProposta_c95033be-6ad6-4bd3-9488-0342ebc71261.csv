@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira",4427403,3,VENCEU,UNI,270,90
+"Balança antropométrica mecânica  adulto",4427404,1,DESCLASSIFICADO,UN,720,720
+"Balança eletrônica infantil",4427405,1,DESCLASSIFICADO,UN,700,700
+"Biombo triplo",4427406,1,INABILITADO,UN,260,260
+"Mesa Antropométrica com colchonete",4427408,1,PERDEU,UN,579,579
+"Aparelho para Inalação",4427409,1,DESCLASSIFICADO,UN,1600,1600
+"Escadinha hospitalar com 02 degraus",4427410,4,DESCLASSIFICADO,UN,756,189
+"Foco clínico (LED) ginecológico portátil",4427411,1,VENCEU,UN,421,421
+"MESA GINECOLOGICA",4427413,1,VENCEU,UN,570,570
+"Mesa para exame clínico",4427414,4,INABILITADO,UNI,1160,290
+"Autoclave elétrica",4427415,1,DESCLASSIFICADO,UN,7800,7800
+"MESA AUXILIAR",4427416,3,DESCLASSIFICADO,UN,1170,390
+NEGATOSCOPIO,4427417,2,DESCLASSIFICADO,UNI,480,240
+OTOSCOPIO,4427418,2,INABILITADO,UN,1280,640
+"Suporte de soro",4427419,1,DESCLASSIFICADO,UN,230,230
+"Amalgamador capsular digital",4427420,1,VENCEU,UN,452,452
+"Mesa auxiliar odontológica p/ Instrumental.",4427421,1,VENCEU,UN,330,330
+"Mocho giratório com encosto e rodízios",4427422,1,DESCLASSIFICADO,UN,490,490
+"Aparelho ultra-som (profilaxia)",4427423,1,INABILITADO,UN,1600,1600
+"Conjunto de Oxigênio Portátil",4427424,1,VENCEU,UN,1092,1092
+"Carro de curativos",4427425,1,DESCLASSIFICADO,UN,580,580
+"Seladora térmica",4427426,1,VENCEU,UN,425,425
+"Detector cardíaco fetal portátil digital.",4427427,1,VENCEU,UN,512,512
+"COMPRESSOR ODONTOLÓGICO",4427428,1,INABILITADO,UNI,2800,2800
+"Consultório Odontológico - Conjunto Odontológico.",4427429,1,DESCLASSIFICADO,UN,145000,145000

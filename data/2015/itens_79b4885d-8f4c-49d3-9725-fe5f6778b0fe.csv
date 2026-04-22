@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"LEVOFLOXACINO 500MG",1258347,158,5000,ATIVO,COMPRIMIDO,2650,0.53
+"Beclometasona 250mcg/mL - 200 doses",1258392,36,500,ATIVO,FRASCO,15900,31.8
+"Beclometasona 400 mcg cápsula inalante",1258393,37,600,ATIVO,CAPSULA,342,0.57
+"Beclometasona 50mcg spray nasal com 200 doses 11,4ml",1258394,38,200,ATIVO,FRASCO,3240,16.2

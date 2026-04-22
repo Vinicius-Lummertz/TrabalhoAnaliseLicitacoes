@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dieta nutricionalmente completa para crianças de 1 a 10 anos",4436760,600,INABILITADO,LAT,18300,30.5
+"Dieta nutricionalmente completa para crianças de 1 a 10 anos",4436761,1800,INABILITADO,LAT,54900,30.5
+"Módulo de carboidratos para dieta enteral e oral",4436773,36,PERDEU,LAT,783,21.75
+"Nutrição enteral, em pó, à base de proteína isolada de soja",4436774,300,VENCEU,LAT,15480,51.6
+"Suplemento Nutricional lácteo em pó, enriquecido com vitamin",4436775,200,VENCEU,LAT,3980,19.9

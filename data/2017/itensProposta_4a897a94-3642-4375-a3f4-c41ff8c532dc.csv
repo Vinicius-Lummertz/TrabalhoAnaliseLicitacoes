@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tenda 5x5, locação com montagem e desmontagem",0,12,PERDEU," ",4800,400
+"Tenda 10x10, locação com montagem e desmontagem",0,8,PERDEU," ",6400,800
+"Banheiro químico, individual, portátil, montagem",0,20,PERDEU," ",1600,80
+"Banheiro químico, individual, portátil, (deficiente físico)",0,2,PERDEU," ",900,450
+"Palco piramidal montagem e desmontagem, 8,00x6,00",0,2,PERDEU," ",2300,1150
+"Sonorização, house mix, mesa PA e monitor, 4x4m",0,2,PERDEU," ",2000,1000

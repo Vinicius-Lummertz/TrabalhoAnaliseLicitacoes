@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mesa Escrivaninha",4426825,5,INABILITADO,UNI,1414.4,282.88
+"Armário Aéreo fechado.",4426826,2,INABILITADO,UN,1738.08,869.04
+"Armário arquivo para pasta suspensa",4426827,4,INABILITADO,UN,1719.04,429.76
+"Armário com 2 portas",4426828,10,INABILITADO,UN,7969.6,796.96
+"Armário aberto tipo Prateleira 1,00 x 0,30 x 2,00m",4426829,2,INABILITADO,UNI,138.72,69.36
+BALCAO,4426830,3,INABILITADO,UNI,1782.96,594.32
+GAVETEIRO,4426831,6,INABILITADO,UND,2284.8,380.8
+"Bancada com cuba central",4426832,1,VENCEU,UNI,2200,2200
+"Bancada com 02 cubas",4426833,1,VENCEU,UNI,2600,2600
+"Balcão de pia",4426834,1,PERDEU,UNI,815,815
+"Cadeira giratória tipo executiva.",4426835,6,INABILITADO,UNI,1247.58,207.93
+"CADEIRA ESTOFADA",4426836,22,INABILITADO,UN,1664.96,75.68
+Poltrona,4426837,6,INABILITADO,UND,2168.04,361.34
+"MESA SIMPLES",4426838,2,INABILITADO,UND,1000,500
+"Mesa reunião oval",4426839,1,INABILITADO,UN,416.16,416.16
+"Quadro branco magnético",4426840,2,VENCEU,UNI,300.88,150.44
+"Armário tipo Vestiário.",4426841,2,INABILITADO,UNI,856.8,428.4
+"Balança eletrônica infantil",4426842,1,DESCLASSIFICADO,UN,867.68,867.68
+"Lixeira cilíndrica Deverá vir com a simbologia de Infectant",4426843,4,VENCEU,UNI,216,54
+"Lixeira cilíndrica",4426844,10,VENCEU,UNI,560,56
+"Mesa auxiliar de mayo",4426845,1,PERDEU,UNI,383.82,383.82
+"SUPORTE PARA HAMPER",4426847,1,PERDEU,UNI,276.41,276.41
+"Contentor de lixo",4426848,1,PERDEU,UN,314,314
+"Lixeiras de plástico com tampa",4426849,7,PERDEU,UNI,46.62,6.66
+"Organizador multiuso",4426850,6,PERDEU,UNI,331.2,55.2
+"Pote de policarbonato com tampa",4426851,7,INABILITADO,UN,59.01,8.43
+"Suporte de parede para Forno de Microondas",4426852,1,VENCEU,UNI,25.16,25.16
+"Ar condicionado Q/F tipo split HI WALL",4426853,5,DESCLASSIFICADO,UND,9839.6,1967.92
+"Refrigerador tipo doméstico",4426854,3,VENCEU,UNI,3695.91,1231.97
+"Televisor colorido 42 polegadas",4426855,1,INABILITADO,UNI,1853.58,1853.58

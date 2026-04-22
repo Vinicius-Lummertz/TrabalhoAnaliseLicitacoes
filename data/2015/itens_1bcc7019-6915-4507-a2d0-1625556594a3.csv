@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Metoclopramida 5mg/mL  2ml",1258458,182,24000,ATIVO,AMP,5512.8,0.2297
+"Diclofenaco sódico 75mg/mL 3ml",1258459,92,16000,ATIVO,AMP,7184,0.449
+"Carbonato de lítio 300g",1258460,59,150000,ATIVO,COMPRIMIDO,14250,0.095
+"AMINOFILINA 100 MG",1258461,20,100000,ATIVO,COMPRIMIDO,2800,0.028

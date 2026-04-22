@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta vermelha gola redonda padrão CBMSC",0,100,VENCEU," ",2250,22.5
+"Camisa polo manga curta",0,100,VENCEU," ",3500,35
+"Camiseta regata branca padrão CBMSC",0,100,VENCEU," ",1400,14
+"Uniforme de BC Completo Calca, Gandola",0,100,VENCEU," ",29800,298
+"Camiseta de BC Gola Redonda",0,100,VENCEU," ",2250,22.5
+"Fivela de cinto para Bombeiro Comunitário",0,100,VENCEU," ",1000,10
+"Lona de nylon vermelha",0,200,VENCEU," ",1000,5
+"Bota modelo padrão CBMSC",0,100,NAO_COTOU," ",0,0

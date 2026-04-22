@@ -1,0 +1,84 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Refletor de LED 100W",4346985,40,PERDEU,UND,17122,428.05
+"Luminária de LED 80W",4346986,14,PERDEU,UND,5747,410.5
+"Luminária calha",4346987,798,INABILITADO,UND,7620.9,9.55
+"Luminária calha",4346988,2395,INABILITADO,UND,22872.25,9.55
+"Luminária em chapa",4346989,55,VENCEU,UND,2942.5,53.5
+"Plafoiner circular de embutir em forro de chapa de aço",4346990,42,PERDEU,UND,840,20
+"Plafoiner circular de embutir em forro de gesso",4346991,18,VENCEU,UND,338.4,18.8
+"Lâmpada tubular leitosa LED T8",4346992,825,INABILITADO,UND,18067.5,21.9
+"Lâmpada tubular leitosa LED T8",4346993,2478,INABILITADO,UND,54268.2,21.9
+"Lâmpada bulbo LED",4346994,60,PERDEU,UND,1290,21.5
+"Embutido (SPOT) em LED (18W)",4346995,51,VENCEU,UND,2907,57
+"Interruptor completo 4 x 2 simples modular",4346996,211,PERDEU,UND,1185.82,5.62
+"Interruptor completo 4 x 2 duplo modular",4346997,17,PERDEU,UND,151.13,8.89
+"Interruptor completo 4 x 2 triplo modular",4346998,6,PERDEU,UND,72.96,12.16
+"Interruptor Paralelo  (Three-Way)",4346999,16,PERDEU,UND,113.92,7.12
+"Interruptor completo 4 x 2 simples + tomada 20A",4347000,3,PERDEU,UND,29.7,9.9
+"Tomada hexagonal completo 4 x 2 (2P+T) 20A",4347001,586,PERDEU,UND,4230.92,7.22
+"Tomada dupla hexagonal completa 4 x 2(2P+T) 20A",4347002,1646,PERDEU,UND,19900.14,12.09
+"Eletroduto de PVC flexível corrugado reforçado anti-chama 3/",4347003,7177,VENCEU,M,5095.67,0.71
+"Cabo flexível Atox Seção 2,5mm², isol. PVC 450/750V",4347004,14250,VENCEU,M,10972.5,0.77
+"Cabo flexível Atox Seção 2,5mm², isol. PVC 450/750V",4347005,42750,VENCEU,M,32917.5,0.77
+"Cabo flexível Atox Seção 4mm², isol. PVC 450/750V",4347006,1500,PERDEU,M,2145,1.43
+"Cabo flexível Atox Seção 6mm², isol. PVC 450/750V",4347007,30,PERDEU,M,62.4,2.08
+"Cabo flexível Atox Seção 10mm², isol. PVC 450/750V",4347008,540,PERDEU,M,1960.2,3.63
+"Cabo flexível Atox Seção 16mm², isol. PVC 450/750V",4347009,195,PERDEU,M,1035.45,5.31
+"Cabo flexível Atox Seção 25mm², isol. PVC 450/750V",4347010,150,PERDEU,M,1240.5,8.27
+"Cabo flexível Atox Seção 35 mm², isol. PVC 450/750V",4347011,60,PERDEU,M,690,11.5
+"Cabo flexível Atox Seção 70 mm², isol. PVC 450/750V",4347012,60,PERDEU,M,1404,23.4
+"Cabo flexível Atox Seção 95 mm², isol. EPR 0,6/1 kV",4347013,1490,PERDEU,M,46041,30.9
+"Cabo flexível Atox Seção 120mm², isol. EPR 0,6/1 kV",4347014,1085,PERDEU,M,42749,39.4
+"Terminal a compressão p/ cabo 35mm²",4347015,40,PERDEU,UND,50.4,1.26
+"Terminal a compressão p/ cabo 70mm²",4347016,40,PERDEU,UND,102.4,2.56
+"Terminal a compressão p/ cabo 95mm²",4347017,60,PERDEU,UND,192,3.2
+"Terminal a compressão p/ cabo 120mm²",4347018,20,PERDEU,UND,105,5.25
+"Quadro de distribuição com barramento para as fases, neutro",4347019,10,VENCEU,UND,7850,785
+"Quadro de distribuição capacidade para 25 disjuntores",4347020,4,PERDEU,UND,1700,425
+"Barramento de cobre 15x3mm p/ quadros de distribuição",4347021,9.6,PERDEU,KG,441.5,45.99
+"Barramento de cobre 20x5mm p/ quadros de distribuição",4347022,14,PERDEU,KG,643.86,45.99
+"Disjuntor termomagnético monopolar 10A IEC/DIN",4347023,10,PERDEU,UND,49.6,4.96
+"Disjuntor termomagnético monopolar 16A IEC/DIN",4347024,74,PERDEU,UND,367.04,4.96
+"Disjuntor termomagnético monopolar 20A IEC/DIN",4347025,297,PERDEU,UND,1473.12,4.96
+"Disjuntor termomagnético monopolar 25A IEC/DIN",4347026,145,PERDEU,UND,719.2,4.96
+"Disjuntor termomagnético tripolar 20A IEC/DIN",4347027,26,VENCEU,UND,608.4,23.4
+"Disjuntor termomagnético tripolar 32A IEC/DIN",4347028,2,VENCEU,UND,46.8,23.4
+"Disjuntor termomagnético tripolar 40A IEC/DIN",4347029,6,PERDEU,UND,173.4,28.9
+"Disjuntor termomagnético tripolar 50A IEC/DIN",4347030,1,PERDEU,UND,28.9,28.9
+"Disjuntor termomagnético tripolar 63A IEC/DIN",4347031,6,PERDEU,UND,173.4,28.9
+"Disjuntor termomagnético tripolar 70A IEC/DIN",4347032,1,PERDEU,UND,56.5,56.5
+"Disjuntor termomagnético tripolar 80A IEC/DIN",4347033,2,VENCEU,UND,113,56.5
+"Disjuntor termomagnético tripolar 100A IEC/DIN",4347034,4,VENCEU,UND,226,56.5
+"Disjuntor termomagnético tripolar 150A IEC/DIN",4347035,4,VENCEU,UND,781.04,195.26
+"Disjuntor termomagnético tripolar 200A IEC/DIN",4347036,3,VENCEU,UND,585.78,195.26
+"Disjuntor termomagnético tripolar 225A IEC/DIN",4347037,1,VENCEU,UND,195.26,195.26
+"Disjuntor termomagnético tripolar 250A IEC/DIN",4347038,2,PERDEU,UND,701.2,350.6
+"Disjuntor termomagnético tripolar 300A IEC/DIN",4347039,1,PERDEU,UND,708.3,708.3
+"Dispositivo protetor de surto (DPS) 275V 40 kA",4347040,24,VENCEU,UND,837.6,34.9
+"Sensor Fotoelétrico 1000W completo com base",4347041,2,PERDEU,UND,44,22
+"Contatora tripolar 25A com contato auxiliar NA + NF",4347042,2,PERDEU,UND,130.8,65.4
+"Interruptor Diferencial Residual (DR) tetrapolar 63A",4347043,4,PERDEU,UND,417.2,104.3
+"Interruptor Diferencial Residual (DR) tetrapolar 100A",4347044,4,PERDEU,UND,888.4,222.1
+"Caixa de passagem em concreto R2 (65x85x80)cm com tampa de f",4347045,5,PERDEU,UND,3110,622
+"Eletroduto pesado em PEAD corrugado 4",4347046,670,VENCEU,M,3216,4.8
+"Eletrocalha perfurada 200x50mm (barra 3m) galv. fogo CH.16 c",4347047,5,PERDEU,UND,667,133.4
+"Eletrocalha perfurada 75x50mm (barra 3m) galv. fogo CH.18 co",4347048,259,PERDEU,UND,23931.6,92.4
+"Emenda T - 75x50mm galv. Fogo CH 18 com tampa",4347049,31,PERDEU,UND,1174.9,37.9
+"Emenda X - 75x50mm galv. Fogo CH 18 com tampa",4347050,3,PERDEU,UND,118.95,39.65
+"Vergalhão 1/4 (3mt), cantoneira zz + gancho curto 100mm",4347051,388,PERDEU,UND,6227.4,16.05
+"Eletrocalha perfurada 200x100mm (barra 3m) galv. Fogo CH.16",4347052,140,PERDEU,UND,25438,181.7
+"Emenda T - 200x100mm galv fogo CH.18 com tampa",4347053,4,VENCEU,UND,58.88,14.72
+"Curva 90º - 200x100mm galv fogo CH.18 com tampa",4347054,8,VENCEU,UND,117.76,14.72
+"Vergalhão 1/4 (3mt), cantoneira zz + gancho longo 150mm",4347055,210,PERDEU,UND,3603.6,17.16
+"Torneira elétrica de parede, bica alta para cozinha 5500W",4347056,2,VENCEU,UND,170.4,85.2
+"Chuveiro elétrico 7500W, com regulagem eletronica de tempera",4347057,1,PERDEU,UND,116.1,116.1
+"Cabo de cobre nú 16mm² normatizado",4347058,40,PERDEU,KG,1488,37.2
+"Cabo de cobre nú 35mm² normatizado",4347059,100,PERDEU,KG,3720,37.2
+"Cabo de cobre nú 50mm² normatizado",4347060,260,PERDEU,KG,9672,37.2
+"Conector para fixação de cabo de cobre nú 35mm²",4347061,280,PERDEU,UND,1052.8,3.76
+"Terminal aéreo em aço galvanizado 50cm",4347062,21,PERDEU,UND,170.52,8.12
+"Haste de aterramento tipo Cooperweld 5/8 x 2,4m com conecto",4347063,19,VENCEU,UND,364.8,19.2
+"Eletroduto de PVC rígido 2",4347064,117,PERDEU,M,969.93,8.29
+"Abraçadeira tipo D 2 com parafusos",4347065,76,PERDEU,UND,84.36,1.11
+"Caixa PVC circular para inspeção de aterramento c/ tampa",4347066,19,PERDEU,UND,180.5,9.5
+"Estabilizador trifásico 40kVA para rede estabilizada",4347067,2,PERDEU,UND,57960,28980

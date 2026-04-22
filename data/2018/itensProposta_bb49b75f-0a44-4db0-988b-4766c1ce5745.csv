@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Transformador trifásico 300kVA",0,1,PERDEU," ",21580,21580
+"Luminária LED, padrão viária, potência de 150W",0,212,PERDEU," ",185288,874
+"Poste Concreto circular 11m/200daN",0,6,PERDEU," ",11400,1900
+"Cruzeta em concreto 2m",0,7,PERDEU," ",1141,163
+"Refletor LED 200W 220V",0,32,PERDEU," ",14048,439
+"Suporte para 1 pétala",0,47,PERDEU," ",2491,53
+"Suporte para 2 pétalas",0,78,PERDEU," ",5928,76
+"Suporte para 3 pétalas",0,2,PERDEU," ",266,133
+"MAO DE OBRA.",0,1,PERDEU," ",57848,57848

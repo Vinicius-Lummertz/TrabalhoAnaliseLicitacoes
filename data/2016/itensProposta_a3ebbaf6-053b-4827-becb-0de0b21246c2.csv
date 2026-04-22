@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bacia na cor branca capacidade 13,5 litros",4344445,72,PERDEU,UND,1021.68,14.19
+"Bacia na cor branca capacidade 8 litros",4344446,72,PERDEU,UND,599.04,8.32
+"Bacia na cor branca capacidade 34 litros",4344447,72,PERDEU,UND,2214.72,30.76
+"Bandeja de plástico ou polietileno reforçado",4344448,72,PERDEU,UND,2001.6,27.8
+"Caixa organizadora de Plástico",4344449,144,PERDEU,UND,8827.2,61.3
+"CANECA ESCOLAR capacidade  300 ml.",4344450,2605,VENCEU,UND,7762.9,2.98
+"CANECA ESCOLAR capacidade  420 ml.",4344451,5000,NAO_COTOU,UND,0,0
+"Cesto Expositor  Empilhável",4344452,50,NAO_COTOU,UND,0,0
+"Colher  grande",4344453,72,NAO_COTOU,UND,0,0
+"Colher  maciça em Polietileno",4344454,72,NAO_COTOU,UND,0,0
+"Colher de sobremesa",4344455,2685,INABILITADO,UND,2899.8,1.08
+"Colher de sopa",4344456,3000,NAO_COTOU,UND,0,0
+"Concha em alumínio nº 12",4344457,50,NAO_COTOU,UND,0,0
+"Escumadeira em alumínio nº 12,5",4344458,48,NAO_COTOU,UND,0,0
+"Faca tipo açougueiro.",4344459,72,DESCLASSIFICADO,UND,3350.16,46.53
+"Faca para cozinha 7",4344460,72,INABILITADO,UND,454.32,6.31
+"Forma de alumínio, medindo 60cmx40cmx4 cm",4344461,28,NAO_COTOU,UND,0,0
+"Forma de alumínio, medindo no mínimo 30cmx40cmx4cm.",4344462,28,NAO_COTOU,UND,0,0
+Jarra,4344463,150,NAO_COTOU,UND,0,0
+"Panela capacidade aproximada de 32,5 litros.",4344464,12,PERDEU,UND,1935.72,161.31
+"Panela capacidade aproximada de 22,,50 litros.",4344465,28,PERDEU,UND,3186.68,113.81
+"Panela capacidade aproximada de 15,3  litros.",4344466,36,PERDEU,UND,3057.48,84.93
+"Panela capacidade aproximada de 5,6  litros.",4344467,28,PERDEU,UND,1750.28,62.51
+"Panela de pressão capacidade 20,8 litros.",4344468,24,VENCEU,UND,8604,358.5
+"Panela de pressão capacidade 11  litros.",4344469,28,VENCEU,UND,8302,296.5
+"PRATOS DE VIDRO",4344470,4000,DESCLASSIFICADO,UND,38000,9.5
+"Socador de feijão em polietileno",4344471,72,NAO_COTOU,UND,0,0
+"Tábua (placa de corte).",4344472,72,DESCLASSIFICADO,UND,4268.16,59.28

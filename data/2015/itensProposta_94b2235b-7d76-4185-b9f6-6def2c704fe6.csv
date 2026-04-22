@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4428601,50000,PERDEU,UNI,105975,2.1195
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4428602,40000,VENCEU,UNI,89600,2.24
+"SORO FISIOLOGICO 500ml (SOLUÇAO DE CLORETO DE SODIO 0,9%)",4428603,10000,PERDEU,UNI,26460,2.646
+"SORO GLICOSADO 250ml (SOLUÇAO DE GLICOSE A 5%)",4428606,5000,PERDEU,UNI,12285,2.457
+"SORO GLICOSADO 500ml (SOLUÇAO DE GLICOSE A 5%)",4428607,3000,PERDEU,UNI,8262,2.754

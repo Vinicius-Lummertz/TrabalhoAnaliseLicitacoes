@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa descartável, estéril de plástico, atóxica capacidade",1258677,30,500000,ATIVO,UNIDADE,175000,0.35
+"Luva Cirúrgica estéril nº. 6.5",1258678,28,3000,ATIVO,PAR,2520,0.84
+AVENTAL,1258679,3,3000,ATIVO,UNIDADE,2670,0.89

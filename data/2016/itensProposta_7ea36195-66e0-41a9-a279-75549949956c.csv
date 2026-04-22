@@ -1,0 +1,38 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"UBS Colonial: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"ESF Francesa: 1,95 x 1,95m",0,3.8,PERDEU," ",243.96,64.2
+"EFS Wosocris: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"Policlínica Rio Maina: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"ESF Ana Maria: 1,65 x 1,65m",0,2.73,PERDEU," ",175.27,64.2
+"ESF Linha Batista: 2x de 1,50 x 1,20m",0,1.8,PERDEU," ",115.56,64.2
+"ESF Argentina: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"ESF Brasília: 1,40 x 1,70m",0,2.38,PERDEU," ",152.8,64.2
+"ESF CSU: 4x de 0,80 x 0,60m",0,1.92,PERDEU," ",123.26,64.2
+"ESF Cristo Redentor: 1,20 x 1,20m",0,1.44,PERDEU," ",92.45,64.2
+"ESF Renascer: 2,00 x 1,40m",0,2.8,PERDEU," ",179.76,64.2
+"ESF Imigrantes: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"24 Horas Próspera: 2x de 2,00 x 2,00m",0,8,PERDEU," ",513.6,64.2
+"ESF São Simão: 1,50 x 1,50m",0,2.25,PERDEU," ",144.45,64.2
+"ESF 4ª Linha: 2,00 x 1,30m",0,2.6,PERDEU," ",166.92,64.2
+"UBS Mina do Mato: 2 x de 2,00 x 1,30m",0,5.2,PERDEU," ",333.84,64.2
+"ESF Morro Estevão: 1,65 x 1,00m",0,1.65,PERDEU," ",105.93,64.2
+"ESF Operaria Nova: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"UBS Centro: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"ESF Paraíso: 1,20 x 1,20m",0,1.44,PERDEU," ",92.45,64.2
+"ESF Pinheirinho: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"UBS Sangão: 1,60 x 1,75m",0,2.8,PERDEU," ",179.76,64.2
+"ESF Santa Augusta: 1,00 x 1,00m",0,1,PERDEU," ",64.2,64.2
+"UBS São Roque: 1,50 x 1,00nm",0,1.5,PERDEU," ",96.3,64.2
+"ESF Cidade Mineira Velha: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"ESF Cidade Mineira Nova: 1,20 x 1,00m",0,1.2,PERDEU," ",77.04,64.2
+"ESF Vila Manaus: 2x de 1,70 x 1,20m",0,4.08,PERDEU," ",261.94,64.2
+"ESF Mina União: 1,70 x 1,20m",0,2.04,PERDEU," ",130.97,64.2
+"UBS Metropol; 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"UBS Santa Luzia: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"UBS São Defende: 2,00 x 2,00m",0,4,PERDEU," ",256.8,64.2
+"UBS Vila Zuleima (Centro Comunitário): 2 x de 2,00 x 2,00m",0,8,PERDEU," ",513.6,64.2
+"UBS Vila Belmiro: 0,45 x 0,45m e 1,00 x 1,60m",0,1.8,PERDEU," ",115.56,64.2
+"UBS Nossa Senhora da Salete: 1,20 x 2,50m",0,1.5,PERDEU," ",96.3,64.2
+"UBS Laranjinha: 1,60 x 1,25m",0,2,PERDEU," ",128.4,64.2
+"24 Horas Boa Vista: 3x de 2,00 x 2,00m e 1x de 1,30 x 1,00m",0,13.3,PERDEU," ",853.86,64.2
+"UBS Vila Francesa:  1,75 x 1,25m",0,2.18,PERDEU," ",139.96,64.2

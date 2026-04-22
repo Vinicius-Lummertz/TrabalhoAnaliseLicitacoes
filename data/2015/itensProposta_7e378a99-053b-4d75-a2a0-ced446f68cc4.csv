@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ABAIXADOR DE LINGUA",4428106,860,VENCEU,PCT,8488.2,9.87
+AVENTAL,4428108,3000,PERDEU,UNI,2970,0.99
+"Ataduras de Crepom",4428109,40000,PERDEU,UNI,22000,0.55
+"Agulhas hipodérmicas 13mmX4,5mm",4428111,145000,PERDEU,CX,6800.5,0.0469
+"Agulhas hipodérmicas 20mmX5,5mm",4428112,11000,PERDEU,CX,627,0.057
+"Agulhas hipodérmicas 25mmX6mm",4428113,40000,PERDEU,UNI,2280,0.057
+"Agulhas hipodérmicas 25mmX7mm",4428114,120000,VENCEU,UNI,5880,0.049
+"Agulhas hipodérmicas 25mmX8mm",4428115,1200000,PERDEU,UNI,58800,0.049
+"Agulhas hipodérmicas 30mmX7mm",4428116,60000,PERDEU,UNI,2940,0.049
+"Agulhas hipodérmicas 30mmX8mm",4428117,60000,VENCEU,UNI,2874,0.0479
+"Agulhas hipodérmicas 40mmX12mm",4428118,130000,VENCEU,UNI,7410,0.057
+"Cateter venoso de segurança nº 16G",4428119,1000,PERDEU,UNI,1300,1.3
+"Cateter venoso de segurança nº 18G",4428120,4000,PERDEU,UNI,5200,1.3
+"Cateter venoso de segurança nº 20G",4428121,3200,PERDEU,UNI,4160,1.3
+"Cateter venoso de segurança nº 22G",4428122,3600,PERDEU,UNI,4680,1.3
+"Cateter venoso de segurança nº 24G",4428123,2500,PERDEU,UNI,3800,1.52
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp).",4428124,13000,VENCEU,UNI,2080,0.16
+"Dispositivo para infusão endovenosa, n° 21 (apelido scalp).",4428125,60000,VENCEU,UNI,9600,0.16
+"Dispositivo para infusão endovenosa, n° 23 (apelido scalp).",4428126,60000,VENCEU,UNI,9600,0.16
+"Dispositivo para infusão endovenosa, n° 25 (apelido scalp).",4428127,10000,VENCEU,UNI,1600,0.16
+"Dispositivo para infusão endovenosa, n° 27 (apelido scalp).",4428128,1000,VENCEU,UNI,162,0.162
+"Equipo  tipo microgotas para solução parenteral",4428129,50000,PERDEU,UNI,85000,1.7
+"Seringas descartáveis para Insulina com agulha fixa 1 ml",4428134,1000000,VENCEU,UNI,290000,0.29
+"Estetoscópio Adulto.",4428143,200,INABILITADO,UNI,10000,50
+"Eletrodo adulto (Pás descartáveis) para uso no DEA-Zoll, mod",4428144,20,VENCEU,PAR,24000,1200

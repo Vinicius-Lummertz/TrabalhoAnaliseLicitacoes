@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira",4427403,3,DESCLASSIFICADO,UNI,474,158
+"Balança antropométrica mecânica  adulto",4427404,1,DESCLASSIFICADO,UN,715,715
+"Balança eletrônica infantil",4427405,1,DESCLASSIFICADO,UN,664,664
+"Biombo triplo",4427406,1,INABILITADO,UN,343.9,343.9
+"Cadeira de rodas adulto  manual",4427407,1,CANCELADO,UN,1062,1062
+"Aparelho para Inalação",4427409,1,PERDEU,UN,1377,1377
+"Escadinha hospitalar com 02 degraus",4427410,4,DESCLASSIFICADO,UN,1000,250
+"Foco clínico (LED) ginecológico portátil",4427411,1,INABILITADO,UN,680,680
+"MESA GINECOLOGICA",4427413,1,DESCLASSIFICADO,UN,920,920
+"Mesa para exame clínico",4427414,4,INABILITADO,UNI,1300,325
+"Autoclave elétrica",4427415,1,DESCLASSIFICADO,UN,9000,9000
+NEGATOSCOPIO,4427417,2,DESCLASSIFICADO,UNI,456,228
+OTOSCOPIO,4427418,2,INABILITADO,UN,596,298
+"Suporte de soro",4427419,1,DESCLASSIFICADO,UN,221,221
+"Amalgamador capsular digital",4427420,1,INABILITADO,UN,587,587
+"Mocho giratório com encosto e rodízios",4427422,1,DESCLASSIFICADO,UN,326.7,326.7
+"Aparelho ultra-som (profilaxia)",4427423,1,PERDEU,UN,1706.2,1706.2
+"Carro de curativos",4427425,1,DESCLASSIFICADO,UN,940,940
+"Detector cardíaco fetal portátil digital.",4427427,1,INABILITADO,UN,649,649

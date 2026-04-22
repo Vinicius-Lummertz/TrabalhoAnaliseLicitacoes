@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,25,VENCEU," ",1300,52
+"APARELHO TELEFONICO S/ FIO",0,10,VENCEU," ",1150,115
+"APARELHO C/ HEADSET COMPACTO",0,6,VENCEU," ",1398,233
+"Switch de 8 portas 10/100",0,12,VENCEU," ",1272,106
+"Switch de16 portas 10/100",0,8,VENCEU," ",2592,324
+"Switch 24 portas 10/100/1000",0,4,VENCEU," ",3652,913
+"Patch panel Cat 05E 24 portas",0,12,VENCEU," ",2040,170
+"Interface de celular",0,3,VENCEU," ",1932,644
+"SUPORTE ARTICULADO P/ MONITOR",0,8,VENCEU," ",496,62
+"ROTEADOR MODEM WIRELLES",0,12,VENCEU," ",1680,140
+"RACK DE 19 7U X 450 MM PAREDE",0,8,VENCEU," ",5440,680
+"Estabilizador 500 VA",0,8,VENCEU," ",1200,150
+"Bucha 6",0,1500,VENCEU," ",750,0.5
+"Cabo utp Lan Cat. 5E",0,5950,VENCEU," ",13685,2.3
+"Canaleta sistema 20 x 10 x 2000 mm",0,300,VENCEU," ",1911,6.37
+"Canaleta sistema 50 x 20 x 2000 mm",0,300,VENCEU," ",4020,13.4
+"Conector RJ 45 Cat. 5E",0,740,VENCEU," ",1184,1.6
+"ETIQUETA IDENTIFICAÇÃO PONTO REDE",0,500,VENCEU," ",250,0.5
+"Fio Elétrico Flexivel 2,5mm",0,4950,VENCEU," ",9900,2
+"Abraçadeira pct com 100 unidades",0,15,VENCEU," ",720,48
+"Fita isolante rolo com 20m.",0,30,VENCEU," ",240,8
+"Parafuso para bucha 6",0,1500,VENCEU," ",570,0.38
+"Patch Cord 2,5m Cat 5E",0,190,VENCEU," ",2850,15
+"Patch Cord 1,5m Cat 5E",0,190,VENCEU," ",2280,12
+"Tomada 2P + terra NBR",0,250,VENCEU," ",3250,13
+"Caixa sist. X 3 X 3",0,380,VENCEU," ",2660,7
+"Espelho Sistema X 2 furos para RJ 45",0,200,VENCEU," ",1100,5.5
+"Haste terra",0,10,VENCEU," ",320,32
+"conector haste terra",0,10,VENCEU," ",60,6
+"Fio telefônico FE 100(Drope)",0,350,VENCEU," ",560,1.6
+"Conjunto de porca gaiola",0,50,VENCEU," ",100,2
+"Jack RJ 45 Keystone",0,300,VENCEU," ",3900,13

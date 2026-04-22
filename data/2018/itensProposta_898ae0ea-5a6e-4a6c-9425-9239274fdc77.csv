@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de Concreto Diâmetro de 200mm (nbr 8890)",4377086,1000,VENCEU,M,13000,13
+"Tubo de Concreto Diâmetro de 300mm (nbr 8890)",4377087,1000,PERDEU,M,16500,16.5
+"Tubo de Concreto Diâmetro de 400mm (nbr 8890)",4377088,5000,PERDEU,M,115000,23
+"Tubo de Concreto Diâmetro de 400mm Perfurado (nbr 8890)",4377089,2000,VENCEU,M,50000,25
+"Tubo de Concreto Diâmetro de 500mm (nbr 8890)",4377090,5000,PERDEU,M,130000,26
+"Tubo de Concreto Diâmetro de 600mm (nbr 8890)",4377091,1000,PERDEU,M,40000,40
+"Tubo de Concreto Diâmetro de 800mm PA1 (nbr 8890)",4377092,500,PERDEU,M,61000,122
+"Tubo de Concreto Diâmetro de 1000 PA1 (nbr 8890)",4377093,500,PERDEU,M,75000,150

@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Boneco para medidas de reanimação, recém-nascido",1284161,24,1,ATIVO,UNIDADE,1238,1238
+"OXÍMETRO DE PULSO",1284162,25,4,ATIVO,UNIDADE,7964,1991
+"Manequim simulador de Parto",1284163,26,1,ATIVO,UNIDADE,5155,5155
+"Colete Socorrista PADRÃO CBMSC",1284164,27,30,ATIVO,UNIDADE,4920,164
+"Óculos de segurança",1284165,28,100,ATIVO,UNIDADE,3800,38
+"Tala de papelão tamanho P 30X20 cm",1284172,21,30,ATIVO,UNIDADE,192,6.4
+"Luva couro vaqueta / nylon",1284173,37,30,ATIVO,UNIDADE,1050,35
+"Tala de papelão tamanho M 50X20 cm",1284176,20,30,ATIVO,UNIDADE,297,9.9
+"Prancha rígida.",1284178,18,11,ATIVO,UNIDADE,3410,310
+"Manequins de RCP - 5 Adulto e 2 Infantil",1284179,17,1,ATIVO,UNIDADE,5065,5065
+"Canivete Corta cinto e vidro",1284181,15,4,ATIVO,UNIDADE,256,64
+"TESOURA PONTA ROMBA",1284183,13,7,ATIVO,UNIDADE,129.5,18.5
+"BOLSA DE APH",1284184,12,7,ATIVO,UNIDADE,1330,190
+"Termômetro digital",1284185,11,5,ATIVO,UNIDADE,55,11
+"CORTA ANEL",1284186,10,3,ATIVO,UNIDADE,225,75
+"Colar Cervical regulável com 12 posições",1284187,9,5,ATIVO,UNIDADE,190,38
+"Colar Cervical regulável , com 16 posições",1284188,8,10,ATIVO,UNIDADE,380,38
+"Desfibrilador Externo Automático (DEA) bifásico",1284189,7,2,ATIVO,UNIDADE,39380,19690
+"LANTERNA CLINICA",1284192,4,5,ATIVO,UNIDADE,2200,440
+"Imobilizador de Cabeça impermeável - Adulto Coxim completo",1284193,3,2,ATIVO,UNIDADE,274,137
+"Estetoscópio cardiológico com auscultador duplo em aço inox",1284194,2,5,ATIVO,UNIDADE,322.5,64.5
+"Esfigmomanômetro Aneróide c/estetoscópio",1284195,1,5,ATIVO,UNIDADE,480,96
+"Tala de papelão tamanho G 70X20 cm",1284196,19,30,ATIVO,UNIDADE,420,14

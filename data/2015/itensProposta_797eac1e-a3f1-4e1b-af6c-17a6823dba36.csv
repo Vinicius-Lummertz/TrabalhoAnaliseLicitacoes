@@ -1,0 +1,58 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,35,CANCELADO," ",194.01,5.54314
+"Caixa de Passagem Split",0,6,CANCELADO," ",145.49,24.248
+"Cano cobre ½.",0,25,CANCELADO," ",346.4,13.856
+"Cano cobre ¼.",0,25,CANCELADO," ",173.2,6.928
+"Cano cobre ¾.",0,25,CANCELADO," ",519.6,20.784
+"Cano cobre 3/8.",0,25,CANCELADO," ",259.8,10.392
+"Cano cobre 5/8.",0,25,CANCELADO," ",433,17.32
+"Cano esponjoso ¼.",0,35,CANCELADO," ",72.74,2.0784
+"Cano esponjoso ½.",0,35,CANCELADO," ",72.74,2.0784
+"Cano esponjoso ¾.",0,35,CANCELADO," ",72.74,2.0784
+"Cano esponjoso 3/8.",0,35,CANCELADO," ",72.74,2.0784
+"Cano esponjoso 5/8.",0,35,CANCELADO," ",72.74,2.0784
+"Capacitor 380V 2 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 3 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 4 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 5 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 8 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 10 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 15 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 20 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 25 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 30 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 35 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 40 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 45 MF",0,2,CANCELADO," ",62.35,31.176
+"Capacitor 380V 55 MF",0,2,CANCELADO," ",62.35,31.176
+"Chave contactora CWM 09",0,2,CANCELADO," ",131.63,65.816
+"Chave contactora CWM 10",0,2,CANCELADO," ",131.63,65.816
+"Compressor para Split 7000 BTUS",0,3,CANCELADO," ",820.97,273.6559
+"Compressor para Split 9000 BTUS",0,3,CANCELADO," ",935.28,311.7598
+"Compressor para Split 12000 BTUS",0,3,CANCELADO," ",1028.81,342.9358
+"Compressor para Split 18000 BTUS",0,1,CANCELADO," ",450.32,450.3198
+"Compressor para Split 24000 BTUS",0,1,CANCELADO," ",519.6,519.5997
+"Compressor para Split 30000 BTUS",0,1,CANCELADO," ",547.31,547.3117
+"Compressor para Split 60000 BTUS",0,1,CANCELADO," ",831.36,831.3595
+"Controle remoto univ. ar split",0,6,CANCELADO," ",623.52,103.9199
+"Dreno ar condicionado",0,25,CANCELADO," ",69.28,2.7712
+"Filtro do pó ar cond.",0,5,CANCELADO," ",69.28,13.856
+"Fita PVC 100mm branca.",0,50,CANCELADO," ",103.92,2.0784
+"Gás R134 (carga)",0,25,CANCELADO," ",2078.4,83.136
+"Gás R22 (carga)",0,25,CANCELADO," ",2078.4,83.136
+"Hélice ar cond. 7000btus",0,2,CANCELADO," ",166.27,83.136
+"Hélice ar cond. 10/18000btus",0,2,CANCELADO," ",214.77,107.3839
+"Placa eletrônica ar Electrolux",0,5,CANCELADO," ",1350.96,270.1919
+"Placa eletrôn. ar Consul",0,3,CANCELADO," ",779.4,259.7999
+"Placa eletrôn. ar Brastemp",0,3,CANCELADO," ",935.28,311.7598
+"Rele Monti",0,5,CANCELADO," ",259.8,51.96
+"Sensor de temperatura frio",0,6,CANCELADO," ",311.76,51.96
+"Sensor temp. aquecimento",0,6,CANCELADO," ",311.76,51.96
+"Suporte split 7/12000btus",0,10,CANCELADO," ",242.48,24.248
+"Suporte split 18/30000btus",0,10,CANCELADO," ",311.76,31.176
+"Termostato ar cond. 1601",0,10,CANCELADO," ",381.04,38.104
+"Turbina ventilador 10/30000",0,3,CANCELADO," ",155.88,51.96
+"Instalação ar cond.",0,30,CANCELADO," ",9352.79,311.7598
+"Limpeza de ar gaveta 7/30.000btus",0,45,CANCELADO," ",4676.4,103.9199
+"Limpeza de ar split 9/24.000 btus",0,45,CANCELADO," ",5923.44,131.6319
+"Serviço (Hora)",0,350,CANCELADO," ",19398.4,55.424

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ESCRIVANINHA,4430383,2,VENCEU,UN,600,300
+"Bancada e Balcão com gaveteiros e portas",4430384,1,PERDEU,UN,1590,1590
+Bancada,4430385,2,VENCEU,UNI,670,335
+"Bancada com gaveteiros",4430386,1,PERDEU,UN,730,730
+"Armário vestiário",4430387,1,PERDEU,UNI,390,390
+"Poltrona longarina  Diretor",4430388,2,VENCEU,UN,1120,560
+"Cadeira giratória modelo diretor",4430389,4,PERDEU,UN,840,210

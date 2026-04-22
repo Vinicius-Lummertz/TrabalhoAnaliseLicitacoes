@@ -1,0 +1,100 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras.,0,40,PERDEU," ",22,0.55
+"Bimetal ar condicionado.",0,4,PERDEU," ",132,33
+"Botão ar condicionado.",0,12,PERDEU," ",45.6,3.8
+"Cabo PP.",0,100,PERDEU," ",690,6.9
+"Caixa de passagem split.",0,4,PERDEU," ",132,33
+"Cano cobre ½.",0,4,PERDEU," ",212,53
+"Cano cobre ¼",0,4,PERDEU," ",240,60
+"Cano cobre 3/16",0,4,PERDEU," ",228,57
+"Cano cobre ¾",0,4,PERDEU," ",220,55
+"Cano cobre 3/8",0,4,PERDEU," ",220,55
+"Cano cobre 5/16.",0,4,PERDEU," ",220,55
+"Cano cobre 5/8",0,4,PERDEU," ",220,55
+"Cano esponjoso ¼",0,20,PERDEU," ",66,3.3
+"Cano esponjoso ½",0,20,PERDEU," ",76,3.8
+"Cano esponjoso 3/16",0,40,PERDEU," ",132,3.3
+"Cano esponjoso ¾",0,40,PERDEU," ",132,3.3
+"Cano esponjoso 3/8",0,40,PERDEU," ",132,3.3
+"Cano esponjoso 5/16",0,40,PERDEU," ",132,3.3
+"Cano esponjoso 5/8",0,40,PERDEU," ",132,3.3
+"Cano PVC",0,20,PERDEU," ",44,2.2
+"Capacitor 380V 2 MF.",0,4,PERDEU," ",42,10.5
+"Capacitor 380V 3 MF.",0,4,PERDEU," ",42,10.5
+"Capacitor 380V 4 MF.",0,4,PERDEU," ",64,16
+"Capacitor 380V 5 MF.",0,4,PERDEU," ",42,10.5
+"Capacitor 380V 8 MF.",0,4,PERDEU," ",42,10.5
+"Capacitor 380V 10 MF.",0,4,PERDEU," ",64,16
+"Capacitor 380V 15 MF.",0,4,PERDEU," ",64,16
+"Capacitor 380V 20 MF.",0,4,PERDEU," ",84,21
+"Capacitor 380V 25 MF.",0,4,PERDEU," ",64,16
+"Capacitor 380V 30 MF.",0,4,PERDEU," ",84,21
+"Capacitor 380V 35 MF.",0,4,PERDEU," ",92,23
+"Capacitor 380V 40 MF.",0,4,PERDEU," ",126,31.5
+"Capacitor 380V 45 MF.",0,4,PERDEU," ",108,27
+"Capacitor 380V 55 MF.",0,4,PERDEU," ",126,31.5
+"Chave contactora CWM 09.",0,4,PERDEU," ",212,53
+"Chave contactora CWM 10.",0,4,PERDEU," ",212,53
+"Chave Selet. Ar Cond 4 pos.",0,4,PERDEU," ",64,16
+"Chave Selet. Ar Cond 5 pos.",0,4,PERDEU," ",84,21
+"Chave Selet. Ar Cond 6 pos.",0,4,PERDEU," ",84,21
+"Chave Selet. Ar Cond 7 pos;",0,4,PERDEU," ",64,16
+"Compressor 1HP alternativo.",0,2,PERDEU," ",1580,790
+"Compressor 11/4HP alternat;",0,2,PERDEU," ",1660,830
+"Compressor 11/2HP alternat",0,2,PERDEU," ",1800,900
+"Compressor 2HP alternativo.",0,2,PERDEU," ",2100,1050
+"Compressor 3/4HP alternativ.",0,2,PERDEU," ",1160,580
+"Compressor 1HP rotativo.",0,2,PERDEU," ",700,350
+"Compressor 11/4HP rotativo",0,2,PERDEU," ",740,370
+"Compressor 11/2HP rotativo.",0,2,PERDEU," ",760,380
+"Compressor 2HP rotativo.",0,2,PERDEU," ",900,450
+"Compressor 3/4HP rotativo.",0,2,PERDEU," ",630,315
+"Controle remoto univ. ar split.",0,4,PERDEU," ",212,53
+Disjuntor;,0,4,PERDEU," ",52,13
+"Dreno ar condicionado.",0,10,PERDEU," ",55,5.5
+"Espuma de vedação ar cond;",0,6,PERDEU," ",19.8,3.3
+"Filtro do pó ar cond;",0,8,PERDEU," ",168,21
+"Filtro Secador 1saida ar cond.",0,8,PERDEU," ",20.8,2.6
+FIO,0,200,PERDEU," ",300,1.5
+"Fita PVC 100mm branca.",0,30,PERDEU," ",159,5.3
+"Gás R134 (carga)",0,100,PERDEU," ",7000,70
+"Gás R22 (carga)",0,60,PERDEU," ",1980,33
+"Hélice ar cond. 7000btus.",0,4,PERDEU," ",64,16
+"Hélice ar cond. 10/18000btus.",0,4,PERDEU," ",132,33
+"Interruptor horário ar cond;",0,4,PERDEU," ",124,31
+"Joelho PVC.",0,6,PERDEU," ",6,1
+"Kit de aletas 10 a 21000btus.",0,8,PERDEU," ",424,53
+"Mangueira cristal.",0,400,PERDEU," ",880,2.2
+"Micro motor CA11 1/40 HP.",0,2,PERDEU," ",106,53
+"Micro motor CA20 1/25HP.",0,2,PERDEU," ",106,53
+"Motor Circulador 1/10 HP.",0,2,PERDEU," ",380,190
+"Motor Circulador 1/12HP.",0,2,PERDEU," ",560,280
+"Motor Circulador 1/15 HP.",0,2,PERDEU," ",460,230
+"Motor Circulador ½ HP.",0,2,PERDEU," ",1260,630
+"Motor Circulador 1/3 HP.",0,2,PERDEU," ",920,460
+"Motor Circulador ¼ HP.",0,2,PERDEU," ",720,360
+"Motor Circulador 1/5 HP.",0,2,PERDEU," ",360,180
+"Motor Circulador 1/8 HP.",0,2,PERDEU," ",740,370
+"Placa eletrôn. ar Consul.",0,2,PERDEU," ",580,290
+"Placa eletrôn. ar Brastemp.",0,2,PERDEU," ",380,190
+"Plug ar condicionado.",0,10,PERDEU," ",80,8
+"Protetor ar cond. 1/2 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1/3 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1/4 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1/5 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1/6 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1/8 HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 1HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. 11/2HP.",0,4,PERDEU," ",212,53
+"Protetor ar cond. 11/4HP.",0,4,PERDEU," ",132,33
+"Protetor ar cond. 2HP.",0,4,PERDEU," ",64,16
+"Protetor ar cond. ¾ HP.",0,4,PERDEU," ",64,16
+"Rele monti;",0,4,PERDEU," ",212,53
+"Sensor de temperatura frio.",0,4,PERDEU," ",212,53
+"Sensor temp. aquecimento.",0,4,PERDEU," ",212,53
+"Suporte split 7/12000btus.",0,4,PERDEU," ",176,44
+"Suporte split 18/30000btus.",0,4,PERDEU," ",212,53
+"Termostato ar cond. 1601.",0,4,PERDEU," ",132,33
+"Turbina ventilador 10/30000.",0,4,PERDEU," ",176,44
+"Unid. condens. 2HP 380V.",0,2,PERDEU," ",4600,2300
+"Serviço de instalação, limpeza e manutenção dos aparelhos",0,550,PERDEU," ",34650,63

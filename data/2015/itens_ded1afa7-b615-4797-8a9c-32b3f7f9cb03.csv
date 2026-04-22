@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Brometo de N-butilescopolamina 20mg/ml",1258324,46,8000,ATIVO,AMP,5920,0.74
+"Clindamicina 300mg.",1258325,71,2000,ATIVO,CAPSULA,2762.6,1.3813
+"Dexametasona 0,1% colírio",1258326,85,50,ATIVO,FRASCO,190,3.8
+"Dimenidrato 50mg + piridoxina 50mg/mL 1ml",1258327,95,18000,ATIVO,AMP,20214,1.123
+"Haloperidol 5mg",1258328,133,180000,ATIVO,COMPRIMIDO,20700,0.115
+"Hidrocortisona 100mg",1258329,138,6000,ATIVO,"Frasco ampola",17400,2.9
+"Medroxiprogesterona 150mg/mL 1ml",1258330,174,2000,ATIVO,AMP,17700,8.85
+"Petidina, cloridrato 50mg/mL 2ml",1258331,209,800,ATIVO,AMP,1140.8,1.426
+"Risperidona 1mg",1258332,220,20000,ATIVO,COMPRIMIDO,3910,0.1955
+"Risperidona 2mg",1258333,221,20000,ATIVO,COMPRIMIDO,4460,0.223
+"Terbutalina, Sulfato 0,5mg/mL solução injetável 1ml",1258334,237,600,ATIVO,AMP,672,1.12
+"Tropicamida 1% solução oftalmica 5ml",1258335,244,180,ATIVO,FRASCO,1494,8.3
+"Tenoxicam 20 mg pó para solução injetável com solução diluen",1258371,236,4500,ATIVO,AMP,16650,3.7

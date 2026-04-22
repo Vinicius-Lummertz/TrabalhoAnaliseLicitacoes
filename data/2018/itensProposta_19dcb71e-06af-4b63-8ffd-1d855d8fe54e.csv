@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rolo apoio secador d300x125mm furo d=70",0,2,VENCEU," ",3600,1800
+"Braço misturador pug mill 5 1/2 esquerdo",0,44,VENCEU," ",1100,25
+"Braço misturador pug mill 5 1/2 direito",0,44,VENCEU," ",1100,25
+"Palheta misturador pug mill 4x4",0,88,VENCEU," ",1320,15
+"Parafuso cabo chata sextavado int. 3/8x63",0,0.88,VENCEU," ",149.6,170
+"Parafuso sextavado 5,8m 10x80 rosca parcial",0,0.88,VENCEU," ",96.8,110
+"Porca sextavada C8 M10 x 1,5",0,1.76,VENCEU," ",35.2,20
+"Porca sextavada G8 UNC 3/8",0,1.76,VENCEU," ",44,25
+"Arruela lisa M10 zincado branco",0,0.88,VENCEU," ",8.8,10
+"arruela lisa 3/8 zincado branco",0,0.88,VENCEU," ",8.8,10
+"Contato auxiliar frontal HKF-11",0,2,VENCEU," ",120,60
+"Rele interface 220v 2NAF 8A + Base + dio",0,4,VENCEU," ",176,44
+"Termoresistencia PT100 duplo d=10x100mm",0,2,VENCEU," ",380,190
+"Temporizador eletrônico CT-TGD.12",0,2,VENCEU," ",580,290
+"Eletrodo de ignição haste 1/8",0,4,VENCEU," ",680,170
+"Rele+base brahma 220v - tipo RE3",0,2,VENCEU," ",1740,870
+"Kit transformador ignição",0,2,VENCEU," ",1600,800
+"Contato força AF09",0,2,VENCEU," ",280,140
+"Rele de segurança RT9 24DC",0,2,VENCEU," ",1590,795
+"Controlador de chama duplo estágio",0,2,VENCEU," ",1970,985
+"Controlador de pesagem modbus RTU",0,2,VENCEU," ",4500,2250
+"Disjuntor motor MS132-10A",0,2,VENCEU," ",530,265
+"Valvula de pulso p/ filtro mangas 1 1/2",0,4,VENCEU," ",1160,290
+"Manga poliester d=160x1800mm costurada",0,112,VENCEU," ",2576,23
+"Bicos atomizadores",0,4,VENCEU," ",240,60

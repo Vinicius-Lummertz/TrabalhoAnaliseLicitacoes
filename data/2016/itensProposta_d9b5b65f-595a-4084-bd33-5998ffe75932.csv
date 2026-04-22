@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MICRO COMPUTADOR Processador: 3.1 GHz",4345103,5,PERDEU,UND,24860,4972
+"MICRO COMPUTADOR Processador: 3.7 GHz",4345104,5,INABILITADO,UND,15990,3198
+MONITOR,4345105,1,NAO_COTOU,UND,0,0

@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Desinfetante 500 ML",1282620,15,3100,ATIVO,UNIDADE,4278,1.38
+"DETERGENTE LIQUIDO 500 ML",1282624,20,11600,ATIVO,UNIDADE,18792,1.62
+"Detergente Líquido 05 Lt",1282625,21,7800,ATIVO,GALAO,113880,14.6
+"Cera auto-brilho",1282634,9,1450,ATIVO,CAIXA,73950,51
+"Luva Térmica Aramida/Carbono Malha Grossa Grafatex 600°C",1282640,98,20,ATIVO,PAR,1640,82
+"Unta forma",1282643,95,70,ATIVO,GALAO,2905,41.5
+"Saco para coleta de resíduos sólidos infectantes100 Litros",1282681,79,200,ATIVO,PACOTE,9600,48
+"Lixeira 50X77/50litros.",1282694,41,245,ATIVO,UNIDADE,33393.5,136.3
+"Agua sanitária com 1 Litro",1282716,1,4400,ATIVO,UNIDADE,7480,1.7

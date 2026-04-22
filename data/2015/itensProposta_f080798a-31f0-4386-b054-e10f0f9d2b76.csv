@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rolamento do Eixo",0,2,VENCEU," ",1120,560
+"Arruelas Aço Especial",0,10,VENCEU," ",180,18
+"Rolamento do Eixo Rondana",0,14,VENCEU," ",3080,220
+"Kit Embuchamento Concha",0,1,VENCEU," ",2865,2865
+"Eixo de Rondana",0,4,VENCEU," ",1120,280
+"Buchas de Bronze roletes inf",0,12,VENCEU," ",3168,264
+"Buchas de Bronze da roda guia",0,4,VENCEU," ",2380,595
+"Buchas de Bronze da motriz",0,4,VENCEU," ",1888,472
+"Parafuso 1/180",0,16,VENCEU," ",296.32,18.52
+"Porca/Contra porca",0,16,VENCEU," ",122.4,7.65
+"Parafusos/Porcas diversos",0,1,VENCEU," ",270,270
+"RECUPERACAO DOS ROLETES",0,16,VENCEU," ",9440,590
+"Recuperação das roda guia",0,1,VENCEU," ",4705,4705
+"Recuperação Guia Corrente",0,1,VENCEU," ",3394,3394
+"Recuperar Eixo Roda Guia",0,1,VENCEU," ",2150,2150
+"Recuperar Corrente Esteira",0,1,VENCEU," ",8700,8700
+"Recuperar Roletes do Giro",0,1,VENCEU," ",3080,3080
+"Recuperar Roletes Superior",0,1,VENCEU," ",1940,1940
+"Recuperar Duas Motriz",0,1,VENCEU," ",1200,1200
+"Serviço de Torno e Fresa",0,1,VENCEU," ",4100,4100
+"Serviços de Solda na roda guia, motriz, corrente e Embuchame",0,1,VENCEU," ",2750,2750
+"Desmontagem e montagem geral",0,1,VENCEU," ",4800,4800

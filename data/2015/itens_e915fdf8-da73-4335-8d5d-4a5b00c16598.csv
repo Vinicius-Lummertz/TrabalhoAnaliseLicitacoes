@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Esponja 100mmX180mmX25mm",1282631,29,1100,ATIVO,UNIDADE,1287,1.17
+"Saco plástico transparente na medida 60x80cm",1282650,88,61500,ATIVO,MILHEIRO,20903.85,0.3399
+"Pá coletora plástica",1282664,61,200,ATIVO,UNIDADE,4300,21.5
+"Papel higiênico 300m",1282667,64,1700,ATIVO,FARDO,54230,31.9

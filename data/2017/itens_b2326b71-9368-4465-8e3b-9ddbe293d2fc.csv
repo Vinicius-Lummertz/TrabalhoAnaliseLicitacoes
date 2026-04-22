@@ -1,0 +1,18 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressor odontológico em ferro fundido",1260644,13,6,ATIVO,UNIDADE,16973.58,2828.93
+"Aparelho de profilaxia odontológica por bicarbonato/ultrasom",1260750,2,10,ATIVO,UNIDADE,17714.3,1771.43
+"Alicate Perfurador Ainsworth",1328270,4,6,ATIVO,UNIDADE,349.68,58.28
+"Cureta dentina (escavador), nº 05 PEQUENA",1328271,16,30,ATIVO,UNIDADE,193.8,6.46
+"Cureta dentina (escavador)nº20, GRANDE",1328272,17,30,ATIVO,UNIDADE,193.8,6.46
+"CURETA GRACEY 5-6 - EM AÇO INOX",1328273,18,100,ATIVO,UNIDADE,856,8.56
+"CURETA GRACEY 7-8 - EM AÇO INOX",1328274,19,50,ATIVO,UNIDADE,429,8.58
+"CURETA GRACEY 11-12 - EM AÇO INOX",1328275,20,50,ATIVO,UNIDADE,429,8.58
+"CURETA GRACEY 13-14 - EM AÇO INOX",1328276,21,50,ATIVO,UNIDADE,429,8.58
+"Grampo para isolamento absoluto nº202",1328277,30,10,ATIVO,UNIDADE,78.6,7.86
+"Grampo  para isolamento nº 210",1328278,33,10,ATIVO,UNIDADE,78.6,7.86
+"Grampo para isolamento absoluto nº 212",1328279,35,10,ATIVO,UNIDADE,78.6,7.86
+"PORTA MATRIZ TOFLEMAIR",1328280,55,30,ATIVO,UNIDADE,385.8,12.86
+"Porta - matriz Topflemire Infantil",1328281,56,10,ATIVO,UNIDADE,200.8,20.08
+"Porta agulha Mayo-Hager 15 cm",1328289,57,80,ATIVO,UNIDADE,1966.4,24.58
+"Tesoura cirúrgica Iris",1328290,68,80,ATIVO,UNIDADE,1024,12.8
+"Tesoura cirúrgica Mayo reta",1328291,69,20,ATIVO,UNIDADE,480.6,24.03

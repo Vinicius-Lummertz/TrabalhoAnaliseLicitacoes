@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Areia Fina.",4346857,1000,NAO_COTOU,TON,0,0
+"PÓ DE PEDRA.",4346858,1000,NAO_COTOU,TON,0,0
+"Concreto Asfáltico.",4346859,250,PERDEU,TON,69250,277
+"Concreto Asfáltico.",4346860,750,PERDEU,TON,207750,277
+"Brita ¾.",4346861,400,NAO_COTOU,TON,0,0

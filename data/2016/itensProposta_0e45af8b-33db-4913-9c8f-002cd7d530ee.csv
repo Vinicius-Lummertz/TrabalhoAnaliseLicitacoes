@@ -1,0 +1,39 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Hora tecnica em horario comercial",0,380,PERDEU," ",25270,66.5
+"Hora tecnica fora do horario comercial",0,40,PERDEU," ",5377.2,134.43
+"DVR 16ch venetian Pro AHD",0,2,PERDEU," ",3900.92,1950.46
+"HD de 2 tera byte purple",0,8,PERDEU," ",7810.64,976.33
+"Monitor 20",0,2,PERDEU," ",1338.56,669.28
+"Camera AHD 25m",0,5,PERDEU," ",2003.3,400.66
+"Camera AHD 45m",0,5,PERDEU," ",3087.25,617.45
+"Camera Analogica 15m",0,5,PERDEU," ",1625,325
+"Camera Analogica 25m",0,5,PERDEU," ",1726.65,345.33
+"Camera Analogica 45m",0,5,PERDEU," ",1833,366.6
+"Video Balun passivo",0,20,PERDEU," ",886,44.3
+"Conector BNC Macho",0,30,PERDEU," ",153.6,5.12
+"Conector BNC Femea",0,30,PERDEU," ",153.6,5.12
+"Conector p4 Macho",0,30,PERDEU," ",153.6,5.12
+"Conector p4 femea",0,30,PERDEU," ",153.6,5.12
+"Fonte 12v 10A",0,3,PERDEU," ",491.7,163.9
+"Fonte 12V 5A",0,3,PERDEU," ",428.94,142.98
+"Fonte 12V 3A",0,5,PERDEU," ",593.3,118.66
+"Fonte 12V 2A",0,10,PERDEU," ",566.4,56.64
+"Fonte 12V 1A",0,20,PERDEU," ",927.4,46.37
+"Switch 8 portas 10/100",0,5,PERDEU," ",353.85,70.77
+"Nobreak 1200va",0,5,PERDEU," ",3349,669.8
+"Cabo coaxial 90% mealha mais bipolar",0,500,PERDEU," ",875,1.75
+"Cabo de Rede Cat 5E",0,500,PERDEU," ",905,1.81
+"Tubulação de eletroduto 3/4",0,200,PERDEU," ",2844,14.22
+"Mangueira corrugada 3/4",0,300,PERDEU," ",276,0.92
+"Placa automatizadora 299mhz",0,10,PERDEU," ",2183.6,218.36
+"Chicote 12v",0,5,PERDEU," ",185.4,37.08
+"Micro chave fim de curso",0,20,PERDEU," ",928.6,46.43
+"Batente de fim de curso",0,20,PERDEU," ",928.6,46.43
+"Capacitor 12uf",0,10,PERDEU," ",371.1,37.11
+"Motor  1/4 cv",0,5,PERDEU," ",1582.15,316.43
+"Cremalheira 1,7m",0,10,PERDEU," ",515.4,51.54
+PINHAO,0,5,PERDEU," ",232.15,46.43
+"Controle remoto 299mhz",0,20,PERDEU," ",925.4,46.27
+"Telefone de mesa",0,30,PERDEU," ",2472.3,82.41
+"Conector RJ11",0,50,PERDEU," ",256.5,5.13
+"Conector RJ45",0,50,PERDEU," ",256.5,5.13

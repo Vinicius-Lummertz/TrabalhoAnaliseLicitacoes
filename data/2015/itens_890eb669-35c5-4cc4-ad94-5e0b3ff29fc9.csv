@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água oxigenada vol. 10.",1258935,2,350,ATIVO,LITRO,836.5,2.39
+"Algodão Hidrófilo, 100%.",1258936,7,1800,ATIVO,ROLO,12780,7.1
+"Clorexidina alcoólica;",1258937,35,2000,ATIVO,LITRO,12480,6.24
+"Clorexidina aquosa.",1258938,36,1200,ATIVO,UNIDADE,1668,1.39
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",1258939,81,12000,ATIVO,UNIDADE,14400,1.2
+"Lâmina de Preventivo (Ponta Fosca).",1258941,103,350,ATIVO,CXA,945,2.7
+"Sonda aspiração traqueal nº 08 em PVC, descartável",1258942,156,36000,ATIVO,UNIDADE,13320,0.37
+"Sonda aspiração traqueal nº 10 em PVC, descartável",1258943,157,25000,ATIVO,UNIDADE,9750,0.39
+"Sonda nasal para alimentação enteral nº 06",1258944,180,100,ATIVO,UNIDADE,740,7.4
+"Sonda nasal para alimentação enteral nº 08",1258945,181,100,ATIVO,UNIDADE,740,7.4
+"Sonda nasal para alimentação enteral nº 12",1258947,183,300,ATIVO,UNIDADE,2220,7.4
+"Sonda uretral nº 06, descartável",1258948,190,10000,ATIVO,UNIDADE,3600,0.36
+"Sonda uretral nº 10, descartável",1258949,192,40000,ATIVO,UNIDADE,15600,0.39
+"Máscara N95 PFF2 descartável para proteção contra tuberculos",1258951,130,5000,ATIVO,UNIDADE,10750,2.15
+"Sonda nasal para alimentação enteral nº 10",1258953,182,300,ATIVO,UNIDADE,2220,7.4
+"Especulo vaginal, descartável Tamanho M",1258978,65,16000,ATIVO,UNIDADE,17280,1.08

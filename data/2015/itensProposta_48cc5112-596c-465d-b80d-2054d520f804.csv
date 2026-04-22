@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Exame Tomografia Computadorizada Cone Bean de 1 (um) element",4428274,30,VENCEU,UN,3300,110
+"Exame Tomografia Computadorizada Cone Bean por região (02 el",4428275,30,VENCEU,UN,3300,110
+"Exame Tomografia Computadorizada Cone Bean por região (mais",4428276,20,VENCEU,UN,2600,130
+"Exame Comp. Cone Bean por região (mais de 2 elementos dentai",4428277,15,VENCEU,UN,2100,140
+"Exame Tomografia Computadorizada Cone Bean de Mandíbula ou M",4428278,20,VENCEU,UN,2800,140
+"Exame Tomografia Computadorizada Cone Bean Total Duas Arcada",4428279,15,VENCEU,UN,4200,280
+"Exame Tomografia Computadorizada Cone Bean ATM Unilateral",4428280,10,VENCEU,UN,2300,230
+"Exame Tomografia Computadorizada Cone Bean ATM Bilateral",4428281,10,VENCEU,UN,2900,290

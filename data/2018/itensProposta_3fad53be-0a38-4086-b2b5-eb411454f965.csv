@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Monitor multiparâmetro com TEMP /RESP/ ECG/ SPO2/ PNI.",4433038,5,DESCLASSIFICADO,UNI,67320,13464
+"Esfigmomanômetro adolesente aneróide completo",4433044,2,DESCLASSIFICADO,UNI,1280,640
+"Esfigmomanômetro adulto - completo",4433045,7,DESCLASSIFICADO,UNI,4200,600
+"Esfigmomanômetro obeso aneróide completo",4433046,2,DESCLASSIFICADO,UNI,1600,800
+"APARELHO DE PRESSAO INFANTIL COMPLETO",4433047,2,DESCLASSIFICADO,UN,1200,600
+Oftalmoscópio,4433061,3,DESCLASSIFICADO,UN,5400,1800

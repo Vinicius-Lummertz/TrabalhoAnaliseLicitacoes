@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óleo lubrificante para transmissões automotivas SAE 85W140 A",1275766,105,1,ATIVO,BALDE,3170,3170
+"Óleo lubrificante para transmissões (caixas e diferenciais)",1275767,104,1,ATIVO,BALDE,2152.39,2152.39
+"Óleo lubrificante para transmissões (Caixas e Diferenciais).",1275768,103,1,ATIVO,UNIDADE,2153.93,2153.93
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 515",1275769,102,6,ATIVO,BALDE,9802.86,1633.81
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",1275770,101,2,ATIVO,BALDE,4948.46,2474.23
+"Óleo lubrificante para caixa de transmissão (EATON) E Motore",1275771,100,1,ATIVO,BALDE,2426.23,2426.23
+"Óleo lubrificante para caixa de marchas SAE 80W90 API",1275772,99,1,ATIVO,TUBO,3252.93,3252.93
+"Óleo lubrificante para caixa de direção hidráulica e transmi",1275773,98,2,ATIVO,BALDE,6764.46,3382.23
+"Óleo Lubrificante de transmissão e sistema hidráulico SAE 10",1275774,97,2,ATIVO,TUBO,4776.06,2388.03
+"OLEO 2T 8017",1275775,96,500,ATIVO,UNIDADE,6260,12.52
+"Graxa lubrificante a base de sabão de cálcio nl g12 (pinos)",1275776,95,6,ATIVO,TUBO,8210.22,1368.37
+"Fluído de freio e embreagem dot4",1275777,94,3,ATIVO,CAIXA,1007.91,335.97
+"Desengraxantes para Chassi",1275778,93,5,ATIVO,TUBO,1851.25,370.25
+"Shampo para lavação de veículos",1275802,106,5,ATIVO,TUBO,1224.3,244.86

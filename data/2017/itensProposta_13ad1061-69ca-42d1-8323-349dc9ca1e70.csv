@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",0,20,VENCEU," ",50.2,2.51
+"Álcool gel 70%.",0,20,VENCEU," ",113.6,5.68
+"Bacia grande",0,10,VENCEU," ",122.3,12.23
+"Bandeja descartável - 46cm x 39cm",0,20,VENCEU," ",99.4,4.97
+"Bandeja descartável - 26cm x 32cm",0,20,VENCEU," ",70.8,3.54
+"Caixa de fósforos",0,100,VENCEU," ",296,2.96
+"COPOS DESCARTÁVEIS - 180 ML",0,1000,VENCEU," ",3730,3.73
+Desengordurante,0,50,VENCEU," ",371.5,7.43
+DETERGENTE,0,500,VENCEU," ",620,1.24
+"EMBALAGEM PARA CACHORRO QUENTE",0,30,VENCEU," ",176.7,5.89
+"Embalagem plástica descartável",0,150,VENCEU," ",1393.5,9.29
+"Espetinho de madeira",0,20,VENCEU," ",77,3.85
+"ESPONJA DE ACO",0,100,VENCEU," ",161,1.61
+"ESPONJA DUPLA FACE",0,100,VENCEU," ",352,3.52
+"FACA DESCARTAVEL",0,50,VENCEU," ",164.5,3.29
+FLANELA,0,30,VENCEU," ",4266.3,142.21
+"Folha de Alumínio",0,50,VENCEU," ",154,3.08
+"GARFO DESCARTÁVEL",0,50,VENCEU," ",220.5,4.41
+"Garfinho descartável para bolo",0,50,VENCEU," ",124,2.48
+"Guardanapo de  papel",0,500,VENCEU," ",560,1.12
+"Limpa forno aerosol",0,100,VENCEU," ",757,7.57
+"Luvas plásticas",0,10,VENCEU," ",136.9,13.69
+"Palha de aço",0,100,VENCEU," ",117,1.17
+"Palito de dentes",0,200,VENCEU," ",260,1.3
+"Papel filme PVC",0,20,VENCEU," ",86.4,4.32
+"PAPEL MANTEIGA",0,20,VENCEU," ",50.6,2.53
+"PAPEL TOALHA",0,200,VENCEU," ",868,4.34
+"PRATO DESCARTÁVEL",0,50,VENCEU," ",116.5,2.33
+"Prato descartável para bolo",0,100,VENCEU," ",134,1.34
+"Saco de papel para pipoca",0,30,VENCEU," ",108.9,3.63
+"SACO P/ LIXO 100 LTS",0,100,VENCEU," ",417,4.17
+"SACO P/ LIXO 50 LTS - PACOTE C/ 10",0,100,VENCEU," ",400,4
+"SACO PLASTICO",0,100,VENCEU," ",744,7.44
+"SACO DE TECIDO 8x11cm",0,50,VENCEU," ",124,2.48
+"Touca protetora",0,100,VENCEU," ",1091,10.91

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Autoclave 21 litros",4435886,1,VENCEU,UN,4600,4600
+"Compressor odontológico em ferro fundido",4435887,1,VENCEU,UN,5250,5250
+"Biombo Plumbífero",4435888,1,PERDEU,UN,5600,5600
+"Cadeira odontologica completa",4435889,4,VENCEU,UN,64800,16200
+"BOMBA DE VACUO",4435890,2,PERDEU,UN,6200,3100
+"Aparelho de profilaxia odontológica",4435891,4,VENCEU,UN,11640,2910

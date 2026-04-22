@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CAMARA DE AR 1000X20",0,10,PERDEU," ",1230,123
+"CAMARA DE AR 900X20",0,5,PERDEU," ",605,121
+"Pneu novo 1000x20 , radial, misto, borrachudo, 16 lonas",0,16,PERDEU," ",27456,1716
+"Pneu Novo 12,5/80-18 Dianteiro 12 lonas",0,2,PERDEU," ",3398,1699
+"PNEU NOVO 1400 X 24 BOR 16 LONAS",0,4,PERDEU," ",13072,3268
+"PNEU NOVO 165/70 R 13",0,28,PERDEU," ",6496,232
+"PNEU NOVO 175/70   R14",0,24,PERDEU," ",8304,346
+"Pneu Novo 19,5x24 12 Lonas Traseiro",0,2,PERDEU," ",8840,4420
+"Pneu Novo 215/75 R 17,5,radial,liso",0,6,PERDEU," ",5772,962
+"Protetor 1000x20",0,10,PERDEU," ",390,39
+"PROTETOR 900 X 20",0,5,PERDEU," ",195,39
+"Serviços de balanceamento (automóvel)",0,30,PERDEU," ",300,10
+"SERVIÇOS DE GEOMETRIA ( AUTOMOVEL)",0,30,PERDEU," ",1500,50

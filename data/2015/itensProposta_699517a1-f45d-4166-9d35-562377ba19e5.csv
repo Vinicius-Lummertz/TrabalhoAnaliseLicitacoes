@@ -1,0 +1,60 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ESTABILIZADOR 300VA",0,10,PERDEU," ",850,85
+"Fonte de 300 watts",0,5,PERDEU," ",275,55
+"Gabinete ATX com Fonte",0,15,PERDEU," ",1875,125
+"Gravador de DVD com leitor",0,15,PERDEU," ",1200,80
+"HD 500 GB",0,15,PERDEU," ",3825,255
+"HD externo 01 TB 3.0 USB",0,4,PERDEU," ",1516,379
+"Hub 8 portas",0,5,PERDEU," ",325,65
+"Monitor 18,5 Polegadas LED",0,10,PERDEU," ",4800,480
+"MOUSE USB",0,20,PERDEU," ",180,9
+"PEN DRIVE 32 GB",0,10,PERDEU," ",590,59
+"pen drive 8 gb",0,5,PERDEU," ",110,22
+"Pente de memória 4GB DDR3",0,15,PERDEU," ",2025,135
+"Placa mãe 1155",0,15,PERDEU," ",5025,335
+"Processador 2.9 1155",0,15,PERDEU," ",5535,369
+"Teclado  USB",0,20,PERDEU," ",400,20
+"Cartucho HP 21 preto original",0,50,DESCLASSIFICADO," ",2250,45
+"Cartucho HP 22 color original",0,20,DESCLASSIFICADO," ",1500,75
+"cartucho HP 27A 10 original",0,20,DESCLASSIFICADO," ",1500,75
+"cartucho HP 28A 08 original",0,15,DESCLASSIFICADO," ",1575,105
+"Cartucho original C 87 66 W L color",0,5,DESCLASSIFICADO," ",575,115
+"Cartucho original C 9364 W L preto",0,5,DESCLASSIFICADO," ",475,95
+"Toner amarelo compatível CLP 360 (406)",0,5,DESCLASSIFICADO," ",490,98
+"Toner compatível 2612A",0,10,DESCLASSIFICADO," ",390,39
+"Toner compatível 3200",0,5,DESCLASSIFICADO," ",325,65
+"Toner compatível CB 320",0,10,DESCLASSIFICADO," ",660,66
+"Toner compatível CB 321",0,10,DESCLASSIFICADO," ",660,66
+"Toner compatível CB 322",0,10,DESCLASSIFICADO," ",660,66
+"Toner compatível CB 323",0,10,DESCLASSIFICADO," ",660,66
+"Toner compatível CE285A",0,10,DESCLASSIFICADO," ",360,36
+"Toner cyan compatível CLP 360 (406)",0,5,DESCLASSIFICADO," ",490,98
+"Toner HP 278 similar",0,20,DESCLASSIFICADO," ",660,33
+"Toner Lexmark T430 compatível",0,4,DESCLASSIFICADO," ",1080,270
+"Toner Lexmark T640 Original",0,4,DESCLASSIFICADO," ",3920,980
+"Toner mg compatível CLP 360 (406)",0,5,DESCLASSIFICADO," ",490,98
+"Toner preto compatível CLP 360 (406)",0,5,DESCLASSIFICADO," ",490,98
+"Toner TN 750 - Similar",0,10,DESCLASSIFICADO," ",650,65
+"Aparelho telefone com fio",0,10,VENCEU," ",469.5,46.95
+"Aparelho telefone sem fio",0,10,VENCEU," ",1004.7,100.47
+"ARQUIVO MORTO GRANDE DE PAPELAO",0,1000,VENCEU," ",1500,1.5
+"Bobina termica 57 MM",0,500,VENCEU," ",635,1.27
+"Camera digital 16M pixel",0,5,VENCEU," ",2206.6,441.32
+"Caneta esferográfica - cor azul",0,300,VENCEU," ",225,0.75
+"Caneta esferográfica - cor vermelha",0,150,VENCEU," ",105,0.7
+"CANETA MARCA TEXTO",0,200,VENCEU," ",206,1.03
+"CLIPS 2/0 (500 GRAMAS)",0,50,VENCEU," ",277,5.54
+"CLIPS 4/0 (500 GRAMAS)",0,50,VENCEU," ",277,5.54
+"Cx correspondência dupla",0,5,VENCEU," ",110.35,22.07
+"Cx correspondência tripla",0,5,VENCEU," ",117.35,23.47
+"Desumidificador de papel 500 folhas",0,10,VENCEU," ",1267.6,126.76
+"FILTRO DE LINHA",0,10,VENCEU," ",187.8,18.78
+"FITA EPSON FX 2190 ORIGINAL",0,50,VENCEU," ",2817,56.34
+"GRAMPEADOR GRANDE",0,20,VENCEU," ",488.2,24.41
+"GRAMPEADOR MEDIO",0,20,VENCEU," ",122,6.1
+"Grampo para grampeador 26/6 (500 gr)",0,30,VENCEU," ",70.5,2.35
+"Papel A4 de gramatura 75 gramas, cx c/ 10 resmas c/ 500 fls",0,40,VENCEU," ",4694.8,117.37
+"Pilha AA 1,5 com quatro unidades",0,10,VENCEU," ",54,5.4
+"Pilha AA com quatro unidades",0,5,VENCEU," ",16.45,3.29
+"Pilha AAA com duas unidades",0,50,VENCEU," ",136,2.72
+"Pilha botão 12 volts",0,30,VENCEU," ",59.1,1.97

@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Micro computador completo",4347086,17,PERDEU,UND,59483,3499
+"GPS Automotivo",4347087,4,PERDEU,UND,1732,433
+"Monitor (Mínimo 19.5)",4347088,7,PERDEU,UND,3745,535
+"Projetor Multimídia",4347089,1,VENCEU,UND,2663.5,2663.5
+Scanner.,4347090,1,NAO_COTOU,UND,0,0
+"Tela de Projeção",4347091,1,NAO_COTOU,UND,0,0
+T.V,4347092,1,PERDEU,UND,1987,1987
+"Impressora portátil",4347093,6,NAO_COTOU,UND,0,0
+TABLET,4347094,6,PERDEU,UND,8241,1373.5
+"SERVIDOR DE DADOS",4347095,1,NAO_COTOU,UND,0,0
+"Apoio para pé",4347096,25,VENCEU,UND,2397.5,95.9
+"Suporte de gabinete/estabilizador",4347097,25,NAO_COTOU,UND,0,0
+"Suporte de monitor c/3 gavetas",4347098,25,NAO_COTOU,UND,0,0
