@@ -1,0 +1,16 @@
+Arquivo de entrada: outputs\unified_base\licitacoes_unificadas.parquet
+Registros válidos para a análise: 186361
+Variáveis primárias avaliadas: 51
+Variáveis aprovadas com |r| >= 0.3: 15
+Nova rodada de features derivadas executada: sim
+Top 10 correlações:
+- valor_estimado: r=0.9696, p=0.0000e+00, n=186361
+- log1p_valor_estimado: r=0.7441, p=0.0000e+00, n=186361
+- log1p_valor_estimado_por_participante: r=0.6437, p=0.0000e+00, n=186361
+- valor_estimado_por_participante: r=0.5298, p=0.0000e+00, n=186361
+- log1p_quantidade_item: r=0.5287, p=0.0000e+00, n=186361
+- log1p_num_itens_proposta_licitacao: r=0.4305, p=0.0000e+00, n=186361
+- log1p_valor_estimado_por_item_licitacao: r=0.4053, p=0.0000e+00, n=186361
+- sqrt_quantidade_item: r=0.3880, p=0.0000e+00, n=186361
+- log1p_num_participantes_licitacao: r=0.3839, p=0.0000e+00, n=186361
+- sqrt_num_participantes_licitacao: r=0.3657, p=0.0000e+00, n=186361

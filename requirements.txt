@@ -1,0 +1,7 @@
+pandas
+numpy
+pyarrow
+python-dateutil
+charset-normalizer
+scipy
+openpyxl
