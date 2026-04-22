@@ -1,0 +1,41 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Arruela Quadrada 3x38x18mm - galvanizado",10144180,110,PERDEU,PC,89.1,0.81
+"Braço curvo para luminária, comprimento 3m, galvanizado, ø48,3mm e espessura mínima de 3mm",10144181,20,PERDEU,PC,3800,190
+"Braço curvo para luminária, comprimento 4m, galvanizado, ø48,3mm e espessura mínima de parede 3mm.",10144182,75,VENCEU,UND,15225,203
+"Cabo multipolar de cobre, flexivel, isolacao em hepr, antichama, 0,6/1 kV, 3 condutores de 2,5 mm2",10144183,5900,VENCEU,PEÇA,32450,5.5
+"Cinta circular 190mm - galvanizado",10144184,7,PERDEU,PEÇA,350,50
+"Cinta circular 240mm - galvanizado",10144185,6,PERDEU,PEÇA,348,58
+"Cinta circular 250mm - galvanizado",10144186,12,VENCEU,PEÇA,597.6,49.8
+"Cinta circular 260 mm com dois parafusos e porca",10144187,14,VENCEU,PC,714,51
+"Cinta circular 270mm - galvanizado",10144188,6,PERDEU,PEÇA,287.7,47.95
+"Cinta circular 280mm - galvanizado",10144189,2,PERDEU,PEÇA,97.8,48.9
+"Cinta circular 290mm - galvanizado",10144190,7,PERDEU,PEÇA,349.3,49.9
+"Cinta circular 300 mm com dois parafusos e porca",10144191,4,VENCEU,PEÇA,232,58
+"Cinta circular 320mm - galvanizado",10144192,13,PERDEU,PEÇA,767,59
+"Cinta circular 360 mm com dois parafusos e porca",10144193,3,VENCEU,PEÇA,210,70
+"Cinta circular 390mm - galvanizado",10144194,2,PERDEU,PEÇA,138,69
+"Cinta circular 400mm - galvanizado",10144195,2,PERDEU,PEÇA,139,69.5
+"Conector cunha de aluminio kara 3 (tricolor)",10144196,55,NAO_COTOU,PEÇA,0,0
+"Conector cunha de aluminio tipo a",10144197,240,PERDEU,PEÇA,2880,12
+"Conector cunha de aluminio tipo b",10144198,130,NAO_COTOU,PEÇA,0,0
+"Conector perfurante (10-95mm²/ der: 1,5-10mm²) cdp 70",10144199,200,PERDEU,PEÇA,1900,9.5
+"Fita isolante de borracha autofusão, uso ate 69 kv (alta tensao) - 19mm x 10m",10144200,45,PERDEU,PEÇA,809.55,17.99
+"Fita isolante adesiva antichama, uso ate 750 v, em rolo de 19 mm x 10 m",10144201,185,PERDEU,PEÇA,943.5,5.1
+"Luminária em LED para iluminação pública, com potência máxima de 90 W, fluxo luminoso mínimo de 13.500 lm",10144202,75,PERDEU,PEÇA,72000,960
+"Luminária em LED para iluminação pública, com potência máxima de 140 W, fluxo luminoso mínimo de 21.000 lm",10144203,158,PERDEU,PEÇA,183280,1160
+"Luminária em LED para iluminação pública, com potência máxima de 140 W, fluxo luminoso mínimo de 21.000 lm",10145148,52,PERDEU,PEÇA,55640,1070
+"Luminária em LED para iluminação pública, com potência máxima de 190 W, fluxo luminoso mínimo de 28.500 lm",10144204,20,PERDEU,PEÇA,26800,1340
+"Parafuso frances m16x70x60 mm c/ porca - galvanizado",10144205,70,PERDEU,PEÇA,388.5,5.55
+"Parafuso maquina m16x250x120 mm c/ porca - galvanizado",10144206,15,VENCEU,PEÇA,177,11.8
+"Parafuso maquina m16x300x120 mm c/ porca - galvanizado",10144207,65,VENCEU,PEÇA,890.5,13.7
+"Parafuso máquina cabeça quadrada com porca 16x350mm, galvanizado a fogo",10144208,15,VENCEU,PEÇA,235.5,15.7
+"Rele fotoeletrico - 1000w",10144209,305,PERDEU,PEÇA,6344,20.8
+"Luminária em LED para iluminação pública, com potência máxima de 150 W, fluxo luminoso mínimo de 22.500 lm",10144210,259,PERDEU,PC,292670,1130
+"Luminária em LED para iluminação pública, com potência máxima de 150 W, fluxo luminoso mínimo de 22.500 lm",10145156,86,VENCEU,PC,97180,1130
+"Capa ligada com protetor de surto integrado (substitui o relê fotoelétrico).",10144211,405,PERDEU,UND,13770,34
+"Cabo de cobre, flexivel, 1 condutor, isolação PVC 450/750 V, seção de 6 mm2 na  cor verde/amarelo",10144212,850,VENCEU,M,3136.5,3.69
+"Conector compressão olhal 6mm².",10144213,280,VENCEU,UND,243.6,0.87
+"Parafuso auto brocante.",10144214,280,VENCEU,UND,67.2,0.24
+"Cruzeta leve 2000mm x 90 mm x 90mm (com ferragens também em aço galvanizado, para fixação em poste de concreto).",10144215,29,PERDEU,UND,12615,435
+"Refletor em Led, com potência máxima de 200W, fluxo luminoso mínimo de 20.000lm",10144216,110,PERDEU,UND,0,0
+"DPS a ser utilizado no interior de luminárias de LED, tensão máxima 275V, 10KV/10KA, com dimensões máximas de 50mm x 50mm x 30mm.",10144217,160,PERDEU,UND,10400,65

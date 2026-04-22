@@ -1,0 +1,137 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abacaxi espinho",8163579,200,PERDEU,UNI,1392,6.96
+"Açucar Mascavo 1Kg",8163588,50,PERDEU,PCT,733.5,14.67
+"ALFACE AMERICANA",8163598,400,PERDEU,UND,1872,4.68
+"Alface crespa",8163602,600,PERDEU,UND,1884,3.14
+"Amendoim descascado: grãos selecionados de boa coloração, li",8163611,70,PERDEU,UN,352.1,5.03
+"Banana Branca: Classificada. Deve apresentar características",8163613,1000,PERDEU,KG,4660,4.66
+"Batata doce: Produto selecionado de 1ª qualidade, classe méd",8163615,150,PERDEU,KG,463.5,3.09
+BETERRABA,8163624,250,PERDEU,KG,1487.5,5.95
+BRÓCOLIS,8163626,300,PERDEU,KG,2259,7.53
+"CANJICA MILHO BRANCA",8163629,50,PERDEU,UND,441.5,8.83
+"Cenoura sem folhas: Cenoura de 1ª qualidade, classe média Ti",8163638,400,PERDEU,KG,3652,9.13
+Chuchu,8163643,300,PERDEU,KG,1368,4.56
+"Couve flor",8163648,300,PERDEU,KG,1887,6.29
+"Couve folha: (couve manteiga) Deve apresentar folhas bem def",8163651,400,PERDEU,UN,1344,3.36
+"Farinha de mandioca.",8163656,200,PERDEU,KG,1014,5.07
+"Farinha de milho.",8163659,200,PERDEU,KG,946,4.73
+"Feijão Vermelho: tipo 2",8163665,600,PERDEU,KG,6108,10.18
+"Grão de bico",8163671,70,PERDEU,UN,825.3,11.79
+Lentilha,8163679,70,PERDEU,UN,711.2,10.16
+"Maçã Vermelha",8163683,600,PERDEU,KG,4116,6.86
+"Mamão comum",8163692,300,PERDEU,KG,2364,7.88
+"Milho de Pipoca",8163703,150,PERDEU,UNI,817.5,5.45
+"Moranga preta",8163709,200,PERDEU,KG,696,3.48
+"OVOS  DE GALINHA",8163715,600,PERDEU,DZ,5382,8.97
+"Polpa de frutas natural congelada",8163732,600,PERDEU,UN,1794,2.99
+"REPOLHO ROXO",8163740,100,PERDEU,KG,643,6.43
+"REPOLHO VERDE.",8163744,150,PERDEU,UND,1044,6.96
+RUCULA,8163746,150,PERDEU,UND,661.5,4.41
+"TEMPERO VERDE;",8163748,400,PERDEU,MLHO,1412,3.53
+"Tomate Salada",8163752,500,PERDEU,KG,4480,8.96
+"Bebida Láctea com iogurte e polpa de frutas",8163761,500,PERDEU,L,3100,6.2
+"APRESUNTADO FATIADO",8163763,250,PERDEU,KG,8382.5,33.53
+"Bacon defumado em pedaços",8163764,50,PERDEU,KG,2239.5,44.79
+"Carne bovina: Acém resfriado",8163766,300,PERDEU,KG,10938,36.46
+"Carne bovina: Coxão de fora resfriado (coxão duro)",8163768,300,PERDEU,KG,11316,37.72
+"Carne bovina de coxão mole",8163770,400,PERDEU,KG,17684,44.21
+"Carne bovina: Fraldinha resfriada",8163771,400,PERDEU,KG,18200,45.5
+"Carne bovina: Fígado",8163772,200,PERDEU,KG,6360,31.8
+"Carne bovina: Moída",8163774,400,PERDEU,KG,14388,35.97
+"Carne bovina: músculo",8163775,100,PERDEU,KG,3475,34.75
+"Carne bovina: Tatu",8163777,200,PERDEU,KG,7690,38.45
+"Carne de frango congelada: Coxa e sobrecoxa com osso e com p",8163778,400,PERDEU,KG,7084,17.71
+"Carne de frango congelada: Filé de peito (sassami)",8163779,400,PERDEU,KG,8760,21.9
+"Carne de frango congelada: Galinha caipira",8163781,300,PERDEU,KG,5100,17
+"Carne de frango congelada: Moela - Congelada",8163782,200,PERDEU,KG,3570,17.85
+"Carne suína congelada: Costela",8163785,300,PERDEU,KG,8082,26.94
+"Carne suína congelada: Lombo médio sem osso",8163786,300,PERDEU,KG,7140,23.8
+"Carne suína congelada: Paleta suína, sem osso",8163787,200,PERDEU,KG,4880,24.4
+"Lingüiça de carne de pernil",8163790,200,PERDEU,KG,4420,22.1
+"Lingüiça de frango",8163792,300,PERDEU,KG,5670,18.9
+"Lingüiça tipo calabresa para fatiar",8163793,150,PERDEU,KG,3900,26
+"Salsicha hot dog",8163796,150,PERDEU,KG,3225,21.5
+"AMIDO DE MILHO",8163797,100,PERDEU,KG,1080,10.8
+"ARROZ INTEGRAL",8163798,100,PERDEU,KG,608,6.08
+"Arroz Parbolizado;",8163800,800,PERDEU,KG,3136,3.92
+"Arroz Polido",8163801,50,PERDEU,KG,207.5,4.15
+Aveia,8163803,60,PERDEU,UN,625.8,10.43
+"Biscoito de chocolate.",8163805,400,PERDEU,PCT,1840,4.6
+"Biscoito doce sem recheio",8163808,500,PERDEU,UNI,3140,6.28
+"Biscoito salgado integral-",8163809,500,PERDEU,PCTE,3450,6.9
+"Biscoito salgado agua e sal",8163810,100,PERDEU,PCT,655,6.55
+"Bolo de aniversário",8163813,60,PERDEU,KG,3534,58.9
+"Farinha de rosca.",8163816,30,PERDEU,EMBA,252,8.4
+"Farinha de tapioca",8163818,10,PERDEU,PCTE,99.8,9.98
+"Farinha de trigo.",8163819,600,PERDEU,KG,2988,4.98
+"FARINHA DE TRIGO INTEGRAL",8163821,100,PERDEU,KG,550,5.5
+"Fermento biológico: Seco, instantâneo, embalado em envelopes",8163822,150,PERDEU,UN,330,2.2
+"Fermento em pó químico: Ingredientes: amido de milho ou fécu",8163824,150,PERDEU,UN,1147.5,7.65
+"Macarrão Tipo Conchinha",8163825,50,PERDEU,KG,449.5,8.99
+"MACARRÃO TIPO PARAFUSO INTEGRAL",8163826,250,PERDEU,KG,2475,9.9
+"Macarrão Tipo Espaguete Integral",8163828,250,PERDEU,KG,2475,9.9
+"Macarrão Tipo Espaguete",8163829,100,PERDEU,KG,790,7.9
+"Pão de forma tradicional",8163833,1000,PERDEU,PCT,6000,6
+"Pão de forma integral",8163836,1000,PERDEU,PCT,7290,7.29
+"Pão de Hot Dog",8163838,1000,PERDEU,PCT,7860,7.86
+"Pão frances",8163839,50,PERDEU,KG,517,10.34
+"Polvilho azedo, a base de mandióca",8163840,50,PERDEU,UN,545,10.9
+"Polvilho doce, a base de mandióca",8163842,50,PERDEU,EMB,279.5,5.59
+"Salgadinhos diversos",8163843,80,PERDEU,CENT,4123.2,51.54
+"Creme de leite fresco",8163844,150,PERDEU,UN,1395,9.3
+"CREME DE LEITE UHT",8163846,250,PERDEU,UND,960,3.84
+"Leite Condensado: Em embalagem treta pak de 395g.",8163849,200,PERDEU,UNI,1466,7.33
+"Manteiga: obtida de creme de leite",8163851,50,PERDEU,UND,477.5,9.55
+"Queijo ralado",8163853,100,PERDEU,UNI,920,9.2
+"Queijo tipo mussarela",8163854,350,PERDEU,KG,14560,41.6
+Requeijão,8163857,150,PERDEU,UN,2272.5,15.15
+"leite desnatado  UHT",8163858,700,PERDEU,L,3843,5.49
+"Leite em pó 400g instantâneo",8163859,50,PERDEU,LAT,1295,25.9
+"Leite Integral  UHT",8163861,1700,PERDEU,LIT,10030,5.9
+"Leite Semidesnatado UHT sem lactose",8163862,1000,PERDEU,L,5730,5.73
+"Achocolatado em pó.",8163863,150,PERDEU,UND,1875,12.5
+"ACUCAR REFINADO",8163864,800,PERDEU,KG,3552,4.44
+"Adoçante à base de stévia",8163866,50,PERDEU,UN,1462.5,29.25
+"Azeite de oliva extra virgem",8163868,100,PERDEU,UN,3670,36.7
+"Balas macias",8163870,100,PERDEU,PCT,970,9.7
+"Bombom recheado",8163871,150,PERDEU,PCTE,6594,43.96
+"CACAU EM PÓ",8163873,50,PERDEU,PCT,826,16.52
+"Chocolate Granulado: Em embalagem de polipropileno de 150g.",8163877,50,PERDEU,UNI,207.5,4.15
+"Coco Ralado: Granulado doce e úmido. Ingredientes: coco em f",8163880,100,PERDEU,UN,460,4.6
+"Doce de Frutas: Ingredientes: polpa de fruta (morango, pêsse",8163881,200,PERDEU,UN,1400,7
+"Doce de Leite em Pasta",8163883,200,PERDEU,UNI,1576,7.88
+"Gelatina de fruta: Ingredientes: Açúcar, gelatina comestível",8163884,100,PERDEU,UN,160,1.6
+"Leite de coco",8163885,50,PERDEU,UN,224,4.48
+"Margarina (Creme Vegetal)",8163894,350,PERDEU,UNI,2796.5,7.99
+"Refrigerante de cola: Em embalagem pet de 2,5 litros",8163895,50,PERDEU,L,354,7.08
+"Refrigerante de guaraná: Em embalagem pet de 2 litros",8163897,50,PERDEU,L,333,6.66
+"Refrigerante de laranja: Em embalagem pet de 2 litros",8163898,50,PERDEU,L,316,6.32
+"Refrigerante de limão: Em embalagem pet de 2 litros",8163899,50,PERDEU,L,369.5,7.39
+"Suco de néctar de frutas",8163901,400,PERDEU,L,4116,10.29
+"Suco de néctar de frutas com volume de 200ml",8163902,200,PERDEU,CX,1410,7.05
+"Suco: natural",8163904,200,PERDEU,GAL,6328,31.64
+Açafrão;,8163908,50,PERDEU,UN,1724,34.48
+"Batata palha: Tipo baby (mais fina). Ingredientes: Batata, ó",8163911,200,PERDEU,UN,900,4.5
+"Café Extra  Forte",8163913,1000,PERDEU,UN,23900,23.9
+"Canela moída: Embalagem tipo saleiro de polietileno resisten",8163915,20,PERDEU,UN,89,4.45
+"CANELA EM PAU",8163916,20,PERDEU,UN,133,6.65
+"Catchup: molho tradicional, em embalagem pet de 390g.",8163917,30,PERDEU,UNI,153,5.1
+"Colorau (colorífico): Ingredientes: Fubá, urucum, óleo de so",8163923,100,PERDEU,UN,940,9.4
+"Cominho moído",8163925,100,PERDEU,UNI,738,7.38
+"Ervilha em conserva: Ingredientes: ervilha, água e sal. Emba",8163927,100,PERDEU,UN,247,2.47
+"extrato de tomate 340 g",8163929,200,PERDEU,UNI,900,4.5
+"louro em folhas",8163930,30,PERDEU,EMB,114,3.8
+MAIONESE,8163932,100,PERDEU,UNI,605,6.05
+Manjericão,8163933,10,PERDEU,UN,262,26.2
+"Milho verde em conserva",8163935,250,PERDEU,UNI,740,2.96
+"mostarda frasco com 200 gramas",8163936,10,PERDEU,UND,50.7,5.07
+Orégano.,8163938,70,PERDEU,UND,1532.3,21.89
+"Pimenta preta moída",8163942,100,PERDEU,UNI,539,5.39
+"Sal grosso",8163945,50,PERDEU,UN,151,3.02
+"Sal Refinado.",8163946,200,PERDEU,UN,496,2.48
+"Sardinha -125gr",8163959,100,PERDEU,LAT,595,5.95
+"Semente de linhaca",8163960,10,PERDEU,UN,159.8,15.98
+"Vinagre de álcool.",8163961,200,PERDEU,UND,606,3.03
+"OLEO DE SOJA",8163963,400,PERDEU,UND,5000,12.5
+"Carvão vegetal para churrasco",8163964,15,PERDEU,UN,573.6,38.24
+"Guardanapo de  papel",8163981,400,PERDEU,UN,812,2.03

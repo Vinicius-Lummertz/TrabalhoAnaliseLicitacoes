@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Maço de Fósforo",1298721,75,2610,ATIVO,MAÇO,6759.9,2.59
+"Pá de lixo plástica.",1302816,82,130,ATIVO,UNIDADE,154.7,1.19
+"Saco plástico de lixo 150 litros",1304879,105,1808,ATIVO,PACOTE,50443.2,27.9
+"Refil para espanador",1304881,74,150,ATIVO,UNIDADE,1837.5,12.25
+"Máscara descartável dupla",1304882,76,370,ATIVO,PACOTE,2675.1,7.23
+"Mop úmido (refil)",1304883,78,1222,ATIVO,UNIDADE,11609,9.5
+"Esponja de fibra sintética 110mmX75mmX20mm",1306923,44,17700,ATIVO,UNIDADE,7788,0.44
+"Pulverizador de compreensão prévia 1,2L",1306930,88,370,ATIVO,UNIDADE,5124.5,13.85
+"Lixeira Branca de 07 litros",1308916,58,385,ATIVO,UNIDADE,3850,10
+"Refil Mop seco 60 cm",1312929,89,1555,ATIVO,UNIDADE,26419.45,16.99
+"Mop úmido (refil)",1312930,77,3668,ATIVO,UNIDADE,34846,9.5
+"Dispensador em plástico rígido",1315119,35,175,ATIVO,UNIDADE,3258.5,18.62
+"Lixeira 15 litros com tampa e pedal",1317149,55,1070,ATIVO,UNIDADE,22630.5,21.15
+"Reservatório para sabonete liquido 630ml",1317152,90,350,ATIVO,UNIDADE,2800,8

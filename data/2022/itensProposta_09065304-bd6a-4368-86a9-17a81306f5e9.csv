@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fluído de Freio e Embreagem DOT4 500ml J1703 (20-500 ml) ISSO 4925,ABNT NBR 9292 Tipo 4",7884482,42,PERDEU,UN,1386,33
+"Graxa a base de sabão de lítio com aditivação extrema pressão para múltiplas aplicações industriais",7884483,6,PERDEU,BD,2856,476
+"Graxa lubrificante a base de sabão de cálcio e óleo mineral naftenico, contendo grafite NLGI 2",7884484,6,PERDEU,TB,26880,4480
+"Óleo lubrificante multifuncional unitactor 10W30 para transmissão hidráulica",7884485,42,PERDEU,BD,26250,625
+"Óleo lubrificante multiviscoco SAE 15W40 ,para motores diesel 4 tempos eletrônicos turbo alimentado aspirados e deverá atender as especificações API CI-4/SL ACEA E7/04. Obs: Aprovado pelos fabricantes dos motores cummins ces 20078/Caterpillar",7884486,2,PERDEU,TB,9700,4850
+"Óleo lubrificante multiviscoco SAE 15W40 , para motores diesel 4 tempos eletrônicos turbo alimentado aspirados e deverá atender as especificações API CI-4/SL ACEA E7/04.Obs: Aprovado pelos fabricantes dos motores cummins ces 20078/Caterpillar",7884487,105,PERDEU,BD,59010,562
+"Óleo lubrificante para caixa de marchas SAE 80W90 API GL3. Aprovado/Recomendado pela Ford/GM",7884488,7,NAO_COTOU,BD,0,0
+"Óleo lubrificante para caixa de transmissão (EATON) E Motores diesel SAE 50 API CF/ Alisson C4. Obs: Atenda especificação Caterpillar (to-4), Ford Caminhões ou GM/ALISSON C-4",7884489,7,NAO_COTOU,BD,0,0
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W30 API GL4/Alisson CNH MAT3505, MAT 3525 E MAT 3509. Obs: Aprovado pelo fabricante dos equipamentos New Holland",7884490,39,PERDEU,BD,24180,620
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 51524-PART2-Categoria HLP. Recomendado pelo Fabricante de Bombas Hidráulicas: Rexroth, Vickers, Cicinnatti, Machine P-68,p-69, EP-70, Denison HF-1,HF-2, HF-0 e Outros",7884491,210,PERDEU,BD,57120,272
+"Óleo lubrificante para transmissões automotivas SAE 85W140 API GL-5. Obs: Aprovado/Recomendado pela Ford/ZF/Volks/ Volvo/Scania",7884492,7,NAO_COTOU,BD,0,0
+"Óleo Mineral LHM, especifico para sistema hidráulico de freios e embreagens",7884493,70,NAO_COTOU,BD,0,0
+"Oleo mineral para engrenagem fechadas ISO 220.",7884494,6,NAO_COTOU,BLD,0,0
+"Oleo mineral para engrenagem fechadas ISO 460.",7884495,6,NAO_COTOU,BD,0,0
+"Óleo lubrificante semissintético SAE 15W40, recomendado para motores flex, gasolina, etanol ou GNV, classificação API SL ou superior. ACEA A3-02",7884496,202,PERDEU,LT,3868.3,19.15
+"Óleo lubrificante para sistemas hidráulicos ISO VG 5 a 460-DIN 51524 PART2 - Categoria HLP.",7884497,70,NAO_COTOU,BD,0,0

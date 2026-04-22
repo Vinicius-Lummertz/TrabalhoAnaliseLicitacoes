@@ -1,0 +1,34 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biperideno, cloridrato 2mg.",4528293,42,420000,ATIVO,COMPRIMIDO,103320,0.246
+"Biperideno, cloridrato 5mg/mL 1ml",4528294,43,1000,ATIVO,AMP,2260,2.26
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml (embalagem esterilizada).",4528295,48,100,ATIVO,FRASCO,2491,24.91
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml (embalagem esterilizada).",4528296,49,100,ATIVO,FRASCO,2444,24.44
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml (embalagem esterilizada).",4528297,51,100,ATIVO,FRASCO,1995,19.95
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica, frasco 5ml.",4528298,67,30,ATIVO,FRASCO,276.9,9.23
+"Clonazepam 2mg cpr.",4528299,74,3000000,ATIVO,COMPRIMIDO,390000,0.13
+"Clorpromazina, cloridrato 40mg/mL solução oral, frasco de vidro âmbar 20ml",4528300,88,1000,ATIVO,FRASCO,6980,6.98
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",4528301,90,3000,ATIVO,BISNAGA,36000,12
+"Diazepam 10mg cpr.",4528302,94,1000000,ATIVO,COMPRIMIDO,90000,0.09
+"Diazepam 5mg cpr.",4528303,95,120000,ATIVO,COMPRIMIDO,8040,0.067
+"Dopamina 5mg/ml, injetável, ampola 10ml.",4528304,106,400,ATIVO,AMP,1148,2.87
+"Etomidato 2mg/ml, injetável, ampola 10ml.",4528305,118,1000,ATIVO,AMP,9820,9.82
+"Fenobarbital 100mg/mL, injetável, ampola 2ml.",4528306,122,800,ATIVO,AMP,1864,2.33
+"Fenobarbital 40mg/mL - solução oral- 20ml, frasco de vidro âmbar.",4528307,123,4000,ATIVO,FRASCO,16000,4
+"Haloperidol 1mg cpr.",4528308,140,120000,ATIVO,COMPRIMIDO,19200,0.16
+"Haloperidol 5mg cpr.",4528309,141,200000,ATIVO,COMPRIMIDO,35200,0.176
+"Heparina 5000 UI/0,25mL injetável, ampola.",4528310,145,12000,ATIVO,AMP,71640,5.97
+"Imipramina 25mg cpr .",4528311,153,650000,ATIVO,COMPRIMIDO,285935,0.4399
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",4528312,165,8000,ATIVO,COMPRIMIDO,4320,0.54
+"Levomepromazina, maleato 100mg cpr.",4528313,167,250000,ATIVO,COMPRIMIDO,165000,0.66
+"Lidocaina, cloridrato 100mg/mL spray aerossol c/ 100 ml.",4528314,178,300,ATIVO,FRASCO,11508,38.36
+"Metoprolol, tartarato 1mg/ml, injetável, ampola 5ml.",4528315,190,100,ATIVO,AMP,1775,17.75
+"Morfina 10mg/mL injetável, ampola 1ml.",4528316,199,8000,ATIVO,AMP,13440,1.68
+"Morfina 30 mg cpr, em blister.",4528317,200,60000,ATIVO,COMPRIMIDO,80400,1.34
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",4528318,201,500,ATIVO,AMP,2625,5.25
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",4528319,213,4000,ATIVO,AMP,6680,1.67
+"Prometazina, cloridrato 25mg cpr, em blister.",4528320,225,450000,ATIVO,COMPRIMIDO,52650,0.117
+"Risperidona 1mg cpr, em blister.",4528321,227,480000,ATIVO,COMPRIMIDO,37920,0.079
+"Risperidona 2mg cpr, em blister.",4528322,228,600000,ATIVO,COMPRIMIDO,52800,0.088
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",4528323,229,1000,ATIVO,FRASCO,5900,5.9
+"rocurônio, brometo 10mg/ml, ampola 5ml.",4528324,230,200,ATIVO,"FRASCO+AMPOLA",2010,10.05
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",4528325,251,2000,ATIVO,AMP,3600,1.8

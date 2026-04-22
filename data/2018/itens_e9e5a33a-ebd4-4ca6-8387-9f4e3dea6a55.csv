@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escova para Lavar Roupa em Madeira",1300209,27,1210,ATIVO,UNIDADE,1887.6,1.56
+"Luva Látex não Estéril Tamanho G",1302250,42,560,ATIVO,CAIXA,8708,15.55
+"Luva Látex não Estéril Tamanho M",1308378,43,170,ATIVO,CAIXA,2650.3,15.59
+"Escova para limpeza em vaso sanitário",1310375,26,1760,ATIVO,UNIDADE,6072,3.45

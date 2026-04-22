@@ -1,0 +1,132 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária  com 5 Litros.",4398140,180,PERDEU,GAL,1026,5.7
+Alvejante,4398141,120,PERDEU,GAL,1140,9.5
+"Amaciante para tecidos",4398142,80,VENCEU,GAL,680,8.5
+"Desinfetante de uso geral",4398143,180,VENCEU,GAL,1296,7.2
+"Detergente Neutro Líquido de Uso Geral",4398144,180,VENCEU,GAL,1620,9
+"Sabão liquido de coco",4398145,70,PERDEU,GAL,665,9.5
+"Detergente com Cera Para Veículos",4398146,180,DESCLASSIFICADO,GAL,2385,13.25
+"Limpa pneus com silicone",4398147,80,INABILITADO,GAL,1680,21
+"Desinfetante limpador de uso geral",4398148,30,INABILITADO,GAL,4002,133.4
+"Sabonete Líquido com Bico Dosador Pump",4398149,300,PERDEU,EMB,2151,7.17
+"sabonete liquido;",4398150,60,PERDEU,GAL,664.8,11.08
+"Saboneteira de Mesa com Pump",4398151,30,PERDEU,UND,419.7,13.99
+"Álcool etílico em gel 70% (70 INPM)",4398152,400,PERDEU,GR,4800,12
+"Álcool etílico hidratado 96% (92,8º INPM)",4398153,60,PERDEU,LT,390,6.5
+"Lustra móveis .",4398154,60,PERDEU,FRA,259.8,4.33
+"Desodorizador de ambientes 360 ml.",4398155,60,PERDEU,FRA,480,8
+"Escova Sanitária",4398156,30,DESCLASSIFICADO,UND,270,9
+"Sabão em barra",4398157,30,PERDEU,PCT,210,7
+"Sabão em pó .",4398158,80,PERDEU,KG,424,5.3
+"Saponáceo em pó;",4398159,40,PERDEU,CXA,147.6,3.69
+"Saponáceo cremoso 300gr.",4398160,60,PERDEU,FRA,252,4.2
+"Escova para lavar roupas",4398161,20,PERDEU,UND,78,3.9
+"Escova para higienização de mãos e unhas",4398162,10,PERDEU,UND,46,4.6
+"Esfregão de Aço",4398163,250,PERDEU,UND,425,1.7
+"Esponja de lã de Aço.",4398164,200,PERDEU,PCT,454,2.27
+ESPONJA,4398165,200,DESCLASSIFICADO,PCT,458,2.29
+"Flanela para limpeza",4398166,30,PERDEU,UND,67.2,2.24
+"Luva para Limpeza.",4398167,40,PERDEU,UND,164.8,4.12
+"Balde Espremedor",4398168,1,PERDEU,UND,381.9,381.9
+"Refil Mopi úmido (refil)",4398169,60,PERDEU,UND,612,10.2
+"Cabo de aluminio para suporte de Mop Úmido",4398170,10,PERDEU,UND,205.5,20.55
+"Balde com espremedor giratório",4398171,6,VENCEU,UND,456,76
+"Refil para balde giratório",4398172,40,VENCEU,UND,440,11
+"Pá coletora plástica.",4398173,4,PERDEU,UND,176,44
+"Pá de lixo plástica.",4398174,4,PERDEU,UND,12.8,3.2
+"Pano de copa e cozinha",4398175,80,DESCLASSIFICADO,UND,236,2.95
+"Pano Multiúso",4398176,80,VENCEU,RL,8560,107
+"Bobina de Papel Toalha",4398177,80,VENCEU,CX,4080,51
+"Dispenser para papel Toalha.",4398178,2,PERDEU,UND,386,193
+"Papel higiênico",4398179,6,INABILITADO,FRD,234,39
+"Papel Higiênico Rolão",4398180,80,DESCLASSIFICADO,FRD,4720,59
+"Porta Papel Higiênico Rolão",4398181,4,PERDEU,UND,148,37
+"RODO PLASTICO",4398182,10,PERDEU,UND,127.3,12.73
+"Saca de tecido crua",4398183,10,DESCLASSIFICADO,PCT,190,19
+"Saco plástico de lixo doméstico de polietileno 240 L",4398184,30,VENCEU,UND,2190,73
+"Saco plástico de lixo domestico de polietileno,100 litros",4398185,15,VENCEU,PCT,465,31
+"Saco plástico de lixo domestico,com capacidade de 50 litros",4398186,15,PERDEU,PCT,315,21
+"Saco plástico de lixo domestico de polietileno 30 litros",4398187,15,PERDEU,PCT,240,16
+"Vassoura Nylon",4398188,30,INABILITADO,UND,172.5,5.75
+"VASSOURA PALHA",4398189,20,DESCLASSIFICADO,UND,420,21
+"Copo descartavel 180 ml",4398190,15,PERDEU,CX,885,59
+"copo descartavel 300ml CX transparente",4398191,15,PERDEU,CX,1455,97
+"Guardanapo de papel folha simples;",4398192,200,PERDEU,EMB,194,0.97
+"Apagador para Quadro Branco.",4398193,2,DESCLASSIFICADO,UND,14.32,7.16
+Atilho,4398194,10,DESCLASSIFICADO,CX,42.4,4.24
+"Bloco de recados grande",4398195,10,DESCLASSIFICADO,EMB,55.6,5.56
+"Blocos de recados pequeno",4398196,10,DESCLASSIFICADO,EMB,55.6,5.56
+"Bobina Termica",4398197,40,DESCLASSIFICADO,UND,210,5.25
+"Caixa arquivo morto desmontável",4398198,100,DESCLASSIFICADO,UND,517,5.17
+"Caneta permanente",4398199,10,DESCLASSIFICADO,UND,42,4.2
+"Caneta corretivo",4398200,10,DESCLASSIFICADO,UND,85,8.5
+"Caneta esferografica azul;",4398201,100,DESCLASSIFICADO,UND,106,1.06
+"Caneta esferografica vermelha.",4398202,50,DESCLASSIFICADO,UND,53,1.06
+"Caneta esferografica preta.",4398203,100,DESCLASSIFICADO,UND,106,1.06
+"CANETA MARCA-TEXTO.",4398204,50,DESCLASSIFICADO,UND,56,1.12
+"Clipes para papel n.º 1",4398205,10,PERDEU,CX,123.5,12.35
+"Clipes para papéis n.º 3",4398206,10,PERDEU,CX,123.5,12.35
+"Clipes para papéis n.º 8/0",4398207,10,PERDEU,CX,123.5,12.35
+"Cola Bastão",4398208,10,INABILITADO,UND,67.7,6.77
+COLA,4398209,10,DESCLASSIFICADO,UND,31.2,3.12
+"Envelope Saco na cor parda 162 x 229",4398210,10,DESCLASSIFICADO,CX,590,59
+"Envelope pardo 240 x 340",4398211,10,DESCLASSIFICADO,CX,490,49
+"Envelopes de Polietileno",4398212,10,PERDEU,CX,1130,113
+"Etiqueta adesiva",4398213,2,DESCLASSIFICADO,CX,134,67
+"Fita adesiva 45 MM",4398214,20,DESCLASSIFICADO,UND,75.6,3.78
+"Fita auto adesiva crepe",4398215,25,INABILITADO,UND,257.5,10.3
+"Fita adesiva para Rotulador Eletrônico",4398216,12,PERDEU,UND,1058.4,88.2
+"Folha A4",4398217,300,DESCLASSIFICADO,RES,5190,17.3
+"Folha A4 Timbrada",4398218,300,DESCLASSIFICADO,RES,32400,108
+"Fita de Isolamento Personalizada",4398219,4,PERDEU,CX,3600,900
+"Bloco Personalizado",4398220,15,PERDEU,CX,5580,372
+"Bloco Personalizado Carbonado",4398221,10,PERDEU,CX,7000,700
+"Impressão A4 Preto e Branco",4398222,2500,PERDEU,UND,625,0.25
+"Impressão A4 Colorida",4398223,1000,PERDEU,UND,2500,2.5
+"Impressão Colorida de Certificados",4398224,200,PERDEU,UND,900,4.5
+"Encadernação Espiral capa Flexível até 100 folhas",4398225,100,NAO_COTOU,UND,0,0
+"Encadernação Espiral capa Flexivel de 100 folhas à 200 folha",4398226,100,NAO_COTOU,UND,0,0
+"Encadernação Espiral capa Flexível acima de 200 folhas",4398227,100,NAO_COTOU,UND,0,0
+"Encadernação Capa Dura Colorida",4398228,3,NAO_COTOU,UND,0,0
+"Serviço de Digitalização",4398229,500,NAO_COTOU,M/L,0,0
+"Grampeador de mesa pequeno",4398230,5,DESCLASSIFICADO,UND,137.5,27.5
+"Grampos para grampeador 26/6",4398231,10,DESCLASSIFICADO,CX,48.8,4.88
+"Marcador para quadro branco.",4398232,15,PERDEU,UND,168,11.2
+"PASTA SUSPENSA",4398233,5,DESCLASSIFICADO,CX,265,53
+"PERFURADOR DE PAPEL",4398234,2,DESCLASSIFICADO,UND,54.6,27.3
+"Pilhas AA",4398235,60,VENCEU,EMB,159,2.65
+"Pilhas alcalinas C",4398236,30,DESCLASSIFICADO,EMB,747,24.9
+"Pilhas alcalinas AAA",4398237,60,DESCLASSIFICADO,EMB,292.8,4.88
+"Plástico autoadesivo transparente",4398238,2,DESCLASSIFICADO,RL,158,79
+"Prancheta para anotações",4398239,10,DESCLASSIFICADO,UND,177.7,17.77
+"TESOURA GRANDE",4398240,2,DESCLASSIFICADO,UND,27,13.5
+"Tesoura média",4398241,2,DESCLASSIFICADO,UND,19.8,9.9
+"Tinta Carimbo Preta",4398242,8,DESCLASSIFICADO,UND,55.84,6.98
+"Tinta Carimbo Vermelha",4398243,10,DESCLASSIFICADO,UND,69.8,6.98
+"Escaninho para correspondência",4398244,4,DESCLASSIFICADO,UND,247.6,61.9
+"Toner Preto HP color laserjet pro mfp m177fw original",4398245,20,VENCEU,UND,3940,197
+"Toner Ciano HP color laserjet pro mfp m177fw original",4398246,15,VENCEU,UND,2955,197
+"Toner Magenta HP color laserjet pro mfp m177fw original",4398247,15,VENCEU,UND,2955,197
+"Toner Amarelo HP color laserjet pro mfp m177fw original",4398248,15,VENCEU,UND,2955,197
+"Toner Preto HP color laserjet pro mfp m180fw original",4398249,20,INABILITADO,UND,3940,197
+"Toner Ciano HP color laserjet pro mfp m180fw original",4398250,15,INABILITADO,UND,2955,197
+"Toner Magenta HP color laserjet pro mfp m180fw original",4398251,15,INABILITADO,UND,2955,197
+"Toner Amarelo HP color laserjet pro mfp m180fw original",4398252,15,INABILITADO,UND,2955,197
+"Toner HP laserjet pro mfp m 521 dn original",4398253,15,PERDEU,UND,4440,296
+"Toner HP laserjet m1132 e m1212 MFP original",4398254,15,PERDEU,UND,2024.85,134.99
+"Toner RICOH Aficio MP171 e MP201 original",4398255,20,INABILITADO,UND,1980,99
+"Toner Preto HP color laserjet pro mfp m177fw compatível",4398256,30,PERDEU,UND,1199.1,39.97
+"Toner Ciano HP color laserjet pro mfp m177fw compatível",4398257,30,PERDEU,UND,1199.1,39.97
+"Toner Magenta HP color laserjet pro mfp m177fw compatível",4398258,30,PERDEU,UND,1199.1,39.97
+"Toner Amarelo HP color laserjet pro mfp m177fw compatível",4398259,30,PERDEU,UND,1199.1,39.97
+"Toner Preto HP color laserjet pro mfp m180fw compatível",4398260,30,PERDEU,UND,2219.7,73.99
+"Toner Ciano HP color laserjet pro mfp m180fw compatível",4398261,30,PERDEU,UND,2219.7,73.99
+"Toner Magenta HP color laserjet pro mfp m180fw compatível",4398262,30,PERDEU,UND,2219.7,73.99
+"Toner Amarelo HP color laserjet pro mfp m180fw compatível",4398263,30,PERDEU,UND,2219.7,73.99
+"Toner HP laserjet pro mfp m 521 dn compatível",4398264,30,DESCLASSIFICADO,UND,2813.1,93.77
+"Toner HP laserjet m1132 e m1212 MFP compatível",4398265,30,DESCLASSIFICADO,UND,1127.1,37.57
+"Toner RICOH Aficio MP171 e MP201 compatível",4398266,30,PERDEU,UND,1499.1,49.97
+"Cópia de Chave Comum",4398267,20,NAO_COTOU,UND,0,0
+"Carimbo Pequeno",4398268,20,VENCEU,UND,500,25
+"Carimbo Médio",4398269,10,VENCEU,UND,400,40
+"Carimbo Grande",4398270,10,VENCEU,UND,600,60

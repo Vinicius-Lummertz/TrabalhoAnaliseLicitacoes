@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-inflamatório não esteroidal meloxicam 2 mg;",7545725,20,100,ATIVO,COMPRIMIDO,110,1.1
+"Spray antisséptico, cicatrizante, repelente e ectoparasiticida;",7545726,28,5,ATIVO,FRASCO,67.5,13.5
+"Vermifugo (ectoparasiticida) para cães;",7545727,29,3000,ATIVO,COMPRIMIDO,3600,1.2
+"Vermifugo (ectoparasiticida) para gatos;",7545728,30,1000,ATIVO,COMPRIMIDO,1800,1.8
+"Anti-inflamatório esteroidal prednisolona 20 mg; uso veterinário.",7545729,34,100,ATIVO,COMPRIMIDO,150,1.5
+"Antitóxico, hepatoprotetor e tônico;",7545730,37,20,ATIVO,FRASCO,300,15

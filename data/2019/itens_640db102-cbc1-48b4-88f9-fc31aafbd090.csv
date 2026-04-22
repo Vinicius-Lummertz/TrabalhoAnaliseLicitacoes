@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caneta permanente",1298623,60,10,ATIVO,UNIDADE,33,3.3
+"Caneta esferografica vermelha.",1298625,63,50,ATIVO,UNIDADE,41.5,0.83
+"Tesoura média",1300698,102,4,ATIVO,UNIDADE,24,6
+"Caneta esferografica preta.",1300700,64,100,ATIVO,UNIDADE,83,0.83
+"Envelope Saco na cor parda 162 x 229",1300701,71,10,ATIVO,CAIXA,339.3,33.93
+"Plástico autoadesivo transparente",1304792,99,3,ATIVO,ROLO,237,79
+"Bobina Termica",1306821,58,40,ATIVO,UNIDADE,242.8,6.07
+"Caneta esferográfica azul;",1306827,62,100,ATIVO,UNIDADE,83,0.83
+"Blocos de recados pequeno",1310862,57,10,ATIVO,EMBALAGEM,38.4,3.84
+"Clipes para papéis n.º 3",1310868,67,10,ATIVO,CAIXA,95,9.5
+COLA,1310869,70,10,ATIVO,UNIDADE,40.9,4.09
+"Grampeador de mesa pequeno",1310872,91,5,ATIVO,UNIDADE,68.3,13.66
+"Apagador para Quadro Branco.",1312837,54,2,ATIVO,UNIDADE,9.94,4.97
+"Grampos para grampeador 26/6",1312846,92,10,ATIVO,CAIXA,35.5,3.55
+"Pilhas alcalinas AAA",1315022,98,60,ATIVO,EMBALAGEM,420,7
+"Clipes para papéis n.º 8/0",1315024,68,10,ATIVO,CAIXA,95,9.5
+"Caneta corretivo",1317066,61,10,ATIVO,UNIDADE,47.6,4.76
+"Fita adesiva 45 MM",1317068,75,15,ATIVO,UNIDADE,39.9,2.66
+"Pilhas alcalinas C",1319088,97,30,ATIVO,EMBALAGEM,395.1,13.17

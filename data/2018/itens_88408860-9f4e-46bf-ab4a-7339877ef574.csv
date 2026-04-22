@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa mãe A",1298081,18,5,ATIVO,UNIDADE,1885,377
+"GPS PORTÁTIL",1310322,42,2,ATIVO,UNIDADE,2600,1300
+"Notebook D",1312336,27,3,ATIVO,UNIDADE,8970,2990
+"Placa mãe B",1316566,19,5,ATIVO,UNIDADE,1935,387

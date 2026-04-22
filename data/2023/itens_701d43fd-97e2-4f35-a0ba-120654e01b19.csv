@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CABO DE REDE",4787894,9,10,ATIVO,CAIXA,6659.9,665.99
+"Memória DDR3 8Gb para Desktop",4787895,30,20,ATIVO,UNIDADE,2359.8,117.99
+"Memória DDR3 8Gb para Notebook",4787896,31,20,ATIVO,UNIDADE,2451,122.55

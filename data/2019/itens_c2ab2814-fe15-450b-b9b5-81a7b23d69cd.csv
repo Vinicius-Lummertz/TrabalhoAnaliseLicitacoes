@@ -1,0 +1,29 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Termômetro clínico",1265313,248,150,ATIVO,UNIDADE,1485,9.9
+"Pinça anatômica Adson com serrilha 12cm",1265315,234,30,ATIVO,UNIDADE,309,10.3
+"Tesoura Mayo Stille reta 15 cm",1265324,241,30,ATIVO,UNIDADE,777,25.9
+"Agulhas hipodérmicas 25 X 8",1265372,8,250,ATIVO,CAIXA,1250,5
+"Cateter Intravenoso n°14 G",1265373,42,1000,ATIVO,UNIDADE,1470,1.47
+"Cateter Intravenoso n°16 G",1265374,43,2000,ATIVO,UNIDADE,2840,1.42
+"Cateter Intravenoso n°18 G",1265375,44,2000,ATIVO,UNIDADE,2840,1.42
+"Cateter Intravenoso n°20 G",1265376,45,3500,ATIVO,UNIDADE,4935,1.41
+"Cateter Intravenoso n°22 G",1265377,46,1500,ATIVO,UNIDADE,2130,1.42
+"Cateter Intravenoso n°24 G",1265378,47,1000,ATIVO,UNIDADE,1490,1.49
+"Cateter para oxigênio tipo óculos nº 12",1265379,48,500,ATIVO,UNIDADE,380,0.76
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",1265380,57,1200,ATIVO,PACOTE,14880,12.4
+"Envelopes auto selantes 250mmx350mm",1265381,75,200,ATIVO,CAIXA,13904,69.52
+"Especulo vaginal, descartável, estéril, sem lubrificação G",1265382,84,1000,ATIVO,UNIDADE,1200,1.2
+"ABAIXADOR DE LINGUA",1265383,1,750,ATIVO,PACOTE,5737.5,7.65
+"Especulo vaginal, descartável, estéril, sem lubrificação P",1265384,85,7000,ATIVO,UNIDADE,5810,0.83
+"Lanceta do paciente - refil",1265385,117,200000,ATIVO,UNIDADE,18000,0.09
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",1265387,145,400,ATIVO,UNIDADE,372,0.93
+"Seringa 3ml, sem agulha",1265388,159,40000,ATIVO,UNIDADE,4600,0.115
+"Seringa 5ml, sem agulha",1265389,160,40000,ATIVO,UNIDADE,5160,0.129
+"Seringa 1ml, sem agulha",1265390,161,30000,ATIVO,UNIDADE,3570,0.119
+"Seringa 60ml, sem agulha",1265391,162,500,ATIVO,UNIDADE,815,1.63
+"Tampa Universal Luer Lock, estéril, epirogênica",1265392,216,200,ATIVO,UNIDADE,48,0.24
+"Teste rapido de gravidez",1265393,217,12000,ATIVO,UNIDADE,7080,0.59
+"Pinça Kelly curva 16cm.",1265394,231,10,ATIVO,UNIDADE,250,25
+"Pinça anatômica Adson com dente 12cm",1265395,233,30,ATIVO,UNIDADE,309,10.3
+"Gel lubrificante",1265396,105,200,ATIVO,UNIDADE,1344,6.72
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",1265398,139,30,ATIVO,UNIDADE,306.9,10.23

@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Extrator de suco INOX",4977653,3,63,ATIVO,UNIDADE,39753,631
+"Liquidificador industrial 08 litros",4977654,10,20,ATIVO,UNIDADE,20020,1001
+"FORNO MICROONDAS",4977655,11,20,ATIVO,UNIDADE,14400,720
+Multiprocessador,4977656,12,63,ATIVO,UNIDADE,40883.85,648.95

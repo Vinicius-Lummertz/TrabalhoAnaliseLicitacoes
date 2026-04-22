@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",0,70,VENCEU," ",14840,212
+"Camisa operacional (gandola) feminina padrão CBMSC",0,5,VENCEU," ",1060,212
+"Calça operacional masculina padrão CBMSC",0,70,VENCEU," ",9520,136
+"Calça operacional feminina padrão CBMSC",0,5,VENCEU," ",680,136
+"Cobertura bico de pato operacional padrão CBMSC",0,30,VENCEU," ",1860,62
+"Luva de posto masculina",0,6,VENCEU," ",180,30
+"Japona operacional dupla face padrão CBMSC",0,10,VENCEU," ",3500,350
+"Blusa de lã azul",0,15,VENCEU," ",2775,185
+"Blusa Fleece Vermelho",0,30,VENCEU," ",3900,130
+"Cachecol de fleece",0,20,VENCEU," ",800,40
+"Touca de fleece",0,30,VENCEU," ",1230,41
+"Camiseta vermelha gola redonda padrão CBMSC",0,150,VENCEU," ",6600,44
+"Camisa vermelha gola polo padrão CBMSC",0,70,VENCEU," ",3920,56
+"Fivela para cinto Bombeiro Militar",0,20,VENCEU," ",560,28
+"Lona de nylon cor vermelha",0,2,VENCEU," ",960,480
+"Biriba de identificação",0,30,VENCEU," ",360,12
+"Calção guarda-vidas Militar",0,50,VENCEU," ",1700,34
+"Camiseta regata guarda-vidas Militar",0,50,VENCEU," ",1950,39
+"Camiseta manga longa guarda-vidas Militar",0,50,VENCEU," ",3100,62
+"Agasalho completo guarda-vidas Militar",0,25,VENCEU," ",7375,295
+"Camiseta regata branca",0,70,VENCEU," ",1890,27
+"Camisa operacional (gandola) masculina padrão CBMSC Sob Medi",0,2,VENCEU," ",452,226
+"Calça operacional masculina padrão CBMSC Sob Medida Sob Medi",0,2,VENCEU," ",290,145
+"Japona operacional dupla face padrão CBMSC Sob Medida",0,1,VENCEU," ",360,360
+"Blusa de lã azul Sob Medida",0,1,VENCEU," ",203,203
+"Camiseta vermelha gola redonda padrão CBMSC Sob Medida",0,5,VENCEU," ",240,48
+"Camisa vermelha gola polo padrão CBMSC Sob Medida",0,5,VENCEU," ",300,60
+"Calção guarda-vidas Militar Sob Medida",0,3,VENCEU," ",165,55
+"Camiseta regata branca Sob Medida",0,3,VENCEU," ",78,26
+"Agasalho completo guarda-vidas Militar Sob Medida",0,1,VENCEU," ",315,315

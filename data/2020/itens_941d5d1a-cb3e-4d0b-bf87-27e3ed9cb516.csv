@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",1268623,14,5000,ATIVO,TESTE,21500,4.3
+"microscópio com iluminação de LED",1268624,22,1,ATIVO,UNIDADE,27500,27500
+"Adesivo (bandagem) estéril indicado p/ uso após punção venos",1268625,24,60000,ATIVO,UNIDADE,3600,0.06
+Estereomicroscópio.,1268626,28,1,ATIVO,UNIDADE,3135.12,3135.12
+"Autoclave de bancada (horizontal),",1268627,29,1,ATIVO,UNIDADE,3564.88,3564.88

@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adesivo 4 cores, brilho, auto colante, corte reto com proteção UV.",7058026,200,VENCEU," ",10120,50.6
+"Adesivo 2 cores, brilho, auto colante, corte reto, com proteção UV",7058026,100,VENCEU," ",3940,39.4
+"adesivo 1 cor, brilho, auto colante, corte reto, com proteção UV",7058026,100,VENCEU," ",3940,39.4
+"adesivo 4 cores, brilho, auto colante, corte eletrônico, com proteção UV",7058026,200,VENCEU," ",10100,50.5
+"Adesivo 2 cores, brilho, auto colante, corte eletrônico, com proteção UV",7058026,100,VENCEU," ",4050,40.5
+"adesivo 1 cor, brilho, auto colante, corte eletrônico, com proteção UV",7058026,100,VENCEU," ",4050,40.5
+"Serviço de retirada de adesivos",7058026,40,VENCEU," ",1876,46.9
+"Serviço de colocação de adesivos",7058026,40,VENCEU," ",1924,48.1

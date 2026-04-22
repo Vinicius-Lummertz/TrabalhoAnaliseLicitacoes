@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",1267981,13,18000,ATIVO,AMP,4482,0.249
+"Alendronato de sódio 70mg, blister com 4cpr.",1267983,17,20000,ATIVO,COMPRIMIDO,3360,0.168
+"Azitromicina 500mg  blister com 01 comprimido",1267984,33,100000,ATIVO,COMPRIMIDO,218000,2.18
+"Beclometasona 250mcg/mL - 200 doses aerossol oral 10ml.",1267985,35,5000,ATIVO,FRASCO,132500,26.5
+"Ciprofloxacino 500mg cpr.",1267986,68,250000,ATIVO,COMPRIMIDO,87500,0.35
+"Clopidogrel 75mg comprimido revestido, em blister.",1267987,76,180000,ATIVO,COMPRIMIDO,50220,0.279
+"Cloreto de sódio 0,9%, ampola 10ml.",1267988,80,4000,ATIVO,AMP,1020,0.255
+"Gliclazida 30mg cpr liberação prolongada, em blister.",1267989,130,350000,ATIVO,COMPRIMIDO,59500,0.17
+"Ibuprofeno 600mg comprimido revestido.",1267990,146,1200000,ATIVO,COMPRIMIDO,348000,0.29
+"Losartana 50mg cpr revestido, em blister.",1267991,174,3600000,ATIVO,COMPRIMIDO,313920,0.0872
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",1267992,183,50000,ATIVO,COMPRIMIDO,37500,0.75
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",1267993,229,10000,ATIVO,FRASCO,73400,7.34
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",1267994,236,180000,ATIVO,COMPRIMIDO,22320,0.124
+"Amoxicilina 500mg.",1267995,26,300000,ATIVO,CAPSULA,96000,0.32

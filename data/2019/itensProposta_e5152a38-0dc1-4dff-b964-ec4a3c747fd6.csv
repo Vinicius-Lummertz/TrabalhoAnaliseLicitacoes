@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool Líquido 92,8 INPM",4382899,250,VENCEU,LT,1225,4.9
+"Alcool Líquido 70%",4382900,250,VENCEU,LT,1025,4.1
+"Álcool Gel 70 %",4382901,150,VENCEU,UND,912,6.08
+"Compressa cirúrgica",4382904,140,PERDEU,PC,10792.6,77.09
+"Compressa de Gaze Hidrófila",4382905,6000,VENCEU,PC,2340,0.39
+"Bobina de Gaze Hidrófila",4382906,15,PERDEU,RL,1195.65,79.71
+"Luvas de Procedimento",4382907,200,DESCLASSIFICADO,CX,3934,19.67
+"Luva Nitrílica Azul",4382908,900,VENCEU,CX,17523,19.47
+"Máscara cirúrgica descartável",4382909,100,VENCEU,CX,593,5.93
+"Lençol descartável",4382911,120,VENCEU,PC,1233.6,10.28
+"Atadura de crepom 8 cm",4382915,1500,PERDEU,UND,1005,0.67
+"Atadura de crepom 15cm",4382916,1500,VENCEU,UND,1485,0.99
+"Atadura de crepom 20cm",4382917,2000,PERDEU,UND,2780,1.39
+"Saco de lixo infectante 30 L",4382924,60,VENCEU,CX,1003.2,16.72
+"Saco de lixo infectante 50 L",4382925,20,VENCEU,CX,491.8,24.59

@@ -1,0 +1,29 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP, de cobre, bitola 2 x 2,5mm2, isolamento 1KV",4021800,16,5000,ATIVO,METRO,19900,3.98
+"Caixa de medição monofásca em policarbonato, padrão CELESC.",4021801,21,20,ATIVO,UNIDADE,2300,115
+"Caixa de medição trifásca em policarbonato, padrão CELESC.",4021802,23,20,ATIVO,UNIDADE,4180,209
+"Conector cunha de alumínio ampactinho tipo IV (AZUL)",4021803,40,1600,ATIVO,PACOTE,5424,3.39
+"Conector cunha de alumínio ampactinho tipo V (AMARELO)",4021804,41,1600,ATIVO,PACOTE,5424,3.39
+"Cruzeta de concreto 2,40 mts",4021805,50,25,ATIVO,PACOTE,8725,349
+"Lâmpada Bulbo LED 50W - E27",4021806,66,100,ATIVO,PACOTE,2509,25.09
+"Lâmpada Bulbo LED 70W - E27",4021807,67,100,ATIVO,UNIDADE,6500,65
+"Lâmpada vapor sódio alta pressão 1.000W, tubolar, E-40, vida útil mínima de 20.000h, Im 130.000 lumens, com Selo Procel",4021808,73,35,ATIVO,UNIDADE,10955,313
+"Luminária para iluminação pública LED, potência máxima de 100W, fluxo mínimo de 15.000 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",4021809,83,50,ATIVO,PACOTE,25750,515
+"Luminária para iluminação pública LED, potência máxima de 150W, fluxo mínimo de 22.500 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",4021810,85,50,ATIVO,PACOTE,29950,599
+"Isolador roldana de porcelana 76x79mm",4021811,138,35,ATIVO,PACOTE,325.5,9.3
+"Chave combinada 15mm",4021812,150,16,ATIVO,PACOTE,320,20
+"Chave fenda 1/8 x 6"" - isolada",4021813,156,35,ATIVO,PACOTE,308,8.8
+"Contator tripolar 50A",4021814,181,2,ATIVO,PACOTE,540,270
+"Condulete em PVC 4x2""",4021815,186,55,ATIVO,UNIDADE,247.5,4.5
+"Luva para eletroduto em PVC rígido 3/4""",4021816,190,160,ATIVO,UNIDADE,224,1.4
+"Caixa de passagem em concreto com tampa (25x25)cm",4021817,199,24,ATIVO,UNIDADE,1080,45
+"caixa de inspeção de aterramento",4021818,200,1,ATIVO,PACOTE,13,13
+"Conector bimetálico para cabo #10mm² - PF10",4021819,201,6,ATIVO,PACOTE,42,7
+"Haste de aterramento tipo Copperweld 1,2m",4021820,205,6,ATIVO,PACOTE,133.8,22.3
+"Quadro de distribuição em chapa de aço de sobrepor com barramento para fases, neutro e terra. Capacidade para 30 disjuntores",4021821,206,2,ATIVO,PACOTE,1140,570
+"Curva 90º para duto PVC rígido 2""",4021822,213,3,ATIVO,PACOTE,18.9,6.3
+"Luva para eletroduto em PVC rígido 2",4021823,214,12,ATIVO,PACOTE,28.8,2.4
+"Eletroduto PVC rígido 2""",4021824,215,30,ATIVO,METRO,240,8
+"Caixa de passagem em concreto com tampa em ferro nodular (40x70)cm",4021825,220,1,ATIVO,PACOTE,730,730
+"Conector tipo sapata para cabo até 10mm²",4021826,221,2,ATIVO,UNIDADE,9.8,4.9
+"Cinta em alumínio para amarração de duto em poste de concreto",4021827,222,28,ATIVO,METRO,84,3

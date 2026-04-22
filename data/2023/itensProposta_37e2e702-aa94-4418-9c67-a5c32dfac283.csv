@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA OXIGENADA",13338464,150,VENCEU,LT,853.5,5.69
+"Alcool Líquido 70%",13338467,500,VENCEU,LT,2370,4.74
+"Colar cervical G",13338476,10,VENCEU,UND,126.4,12.64
+"Colar cervical M",13338478,10,VENCEU,UND,126.4,12.64
+"Colar cervical neonatal",13338479,5,VENCEU,UND,63.2,12.64
+"ELETRODO DE MONITORAMENTO ECG",13338490,20,VENCEU,PC,215.6,10.78
+"Esfigmomanômetro Adulto",13338491,3,VENCEU,UND,213.69,71.23
+"kit Imobilização",13338500,5,VENCEU,KIT,2771.45,554.29
+"Luva Nitrílica Azul",13338505,1500,VENCEU,CX,18480,12.32
+"Máscara facial adulto",13338508,15,VENCEU,UND,93.45,6.23
+"Soro Fisiológico 250ml",13338520,600,VENCEU,ML,1494,2.49

@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Banner   Tamanho 1,20 cm x 1,50 m",1303403,7,100,ATIVO,UNIDADE,5900,59
+"Apostila  Libras",1303404,3,600,ATIVO,UNIDADE,9540,15.9
+"Caderno para baixa visão",1305422,9,100,ATIVO,UNIDADE,1099,10.99
+"Banner  0,50 cm x 1,00 m",1307486,5,100,ATIVO,UNIDADE,1450,14.5
+Adesivos,1307487,1,2000,ATIVO,UNIDADE,960,0.48
+"Livro didático da História de Criciúma",1307488,17,1000,ATIVO,UNIDADE,12000,12
+"Banner 1,20 cm x 1,30 m",1313523,6,100,ATIVO,UNIDADE,4000,40
+"Caderno desafio fácil.",1315673,8,1200,ATIVO,UNIDADE,3468,2.89
+"Diretriz Curricular da Educação Infantil.",1319744,14,500,ATIVO,UNIDADE,13350,26.7
+Atlas,1319745,4,4000,ATIVO,UNIDADE,58000,14.5

@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor de material perfuro cortante",4444778,35,INABILITADO,CX,79.1,2.26
+"Pinça Hemostática KELLY curva 14cm",4444826,10,DESCLASSIFICADO,UN,294.4,29.44
+"Pinça Hemostática KELLY curva 16cm",4444827,5,DESCLASSIFICADO,UN,174.5,34.9
+"Pinça Mosquito 12cm",4444828,5,DESCLASSIFICADO,UN,129.25,25.85
+"Tesoura cirúrgica IRIS reta 12cm",4444849,100,DESCLASSIFICADO,UN,2108,21.08
+"Abaixador de lingua descartável",4444852,80,DESCLASSIFICADO,PCT,998.4,12.48
+"Álcool 70% - Litro.",4444867,1500,DESCLASSIFICADO,L,7665,5.11
+"Álcool 96% - Litro.",4444868,80,PERDEU,L,456,5.7
+"Compressas de Gaze Hidrófila 9 fios, 100% Algodão 7,5 x 7,5",4444969,1200,PERDEU,PCT,21540,17.95
+"Detergente multienzimático em galão de 4 a 5 litros",4445000,300,VENCEU,GAL,20970,69.9
+"Envelope auto selante 190X330mm",4445012,1200,PERDEU,CX,50280,41.9
+"Envelope auto selante 240X380mm",4445013,600,PERDEU,CX,32640,54.4
+"Envelope auto selante 55X100mm",4445014,2000,VENCEU,CX,31400,15.7
+"Envelope auto selante 90X260mm",4445015,2000,PERDEU,CX,33800,16.9
+"Fio agulhado NYLON preto 3.0 /EP2",4445038,340,DESCLASSIFICADO,CX,13630.6,40.09
+"Fio agulhado SEDA 3.0/EP2",4445039,300,DESCLASSIFICADO,CX,11793,39.31
+"FITA AUTOCLAVE",4445048,50,DESCLASSIFICADO,RL,270,5.4
+"Gorros descartáveis tipo touca com elástico 45x45cm",4445062,800,DESCLASSIFICADO,PCT,16800,21
+"Indicador Biológico sensível a geobacillus stearothermophilu",4445069,600,PERDEU,CX,13470,22.45
+"Papel Crepado em folhas 40 x 40 cm",4445130,20,DESCLASSIFICADO,CX,1926.2,96.31
+"Papel grau cirúrgico; medindo 10 cm x 100m",4445133,130,DESCLASSIFICADO,BO,5662.8,43.56
+"Papel grau cirúrgico; medindo 25 cm x 100 m;",4445134,200,DESCLASSIFICADO,BO,21584,107.92
+"Autoclave 21 litros",4445226,1,DESCLASSIFICADO,UN,6857.14,6857.14
+"Mini incubadora biológica",4445238,12,DESCLASSIFICADO,UN,2300.04,191.67

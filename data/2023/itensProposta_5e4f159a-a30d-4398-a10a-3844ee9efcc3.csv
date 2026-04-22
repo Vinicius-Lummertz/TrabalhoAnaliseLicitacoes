@@ -1,0 +1,57 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,PERDEU,UN,13471.65,99.79
+"Rede de Traves para Futebol de Campo",13710962,18,PERDEU,PAR,10764,598
+"Bola de Futsal Adulto",13710963,80,PERDEU,UN,14064,175.8
+"Bola de Futsal Infantil para Treinamento",13710964,110,PERDEU,UN,12196.8,110.88
+"Rede de Traves de Futsal",13710965,10,PERDEU,PAR,3000.2,300.02
+"Rede de Traves de Handebol",13710966,10,PERDEU,PAR,3390,339
+"Bola de Basquete OFICIAL",13710967,60,PERDEU,UN,8268,137.8
+"Rede de Aro para Basquete",13710968,30,PERDEU,PAR,1799.1,59.97
+"Bola de Handebol H1L",13710969,25,PERDEU,UN,3700,148
+"Bola de Handebol H2",13710970,35,PERDEU,UN,4830,138
+"Bola de Handebol H3L",13710971,30,PERDEU,UN,3899.4,129.98
+"Bola de Voleibol de Quadra para Treinamento",13710972,80,PERDEU,UN,29519.2,368.99
+"Bola de Voleibol de Praia/Areia",13710973,20,PERDEU,UN,2979.8,148.99
+"Rede Oficial de Voleibol de Quadra",13710974,8,PERDEU,UN,3038.8,379.85
+"Rede Oficial de Voleibol de Praia/Areia",13710975,10,PERDEU,UN,4500,450
+"Marcação de Quadra de Vôlei de Praia/Areia",13710976,5,PERDEU,KIT,542.75,108.55
+"Raquete de Tênis de Mesa para Iniciação",13710977,120,PERDEU,UN,3816,31.8
+"Rede para Mesa de Tênis de Mesa",13710978,20,PERDEU,UN,1959.8,97.99
+"Jogo de Peças de Xadrez Oficial",13710979,55,PERDEU,JGO,5112.25,92.95
+"Tabuleiro de Xadrez Oficial",13710980,55,PERDEU,UN,2473.9,44.98
+"Sapatilha de Velocidade para Provas de Atletismo",13710981,35,PERDEU,PAR,12922.7,369.22
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",13710982,35,PERDEU,PAR,13237,378.2
+"Sapatilha de Atletismo de Lançamento e Arremesso",13710983,35,PERDEU,PAR,13259.75,378.85
+"Touca de Natação",13710984,100,PERDEU,UN,2440,24.4
+"Óculos de Natação",13710985,100,PERDEU,UN,2987,29.87
+"Kimono de Karatê",13710986,150,PERDEU,UN,62997,419.98
+"Placas de tatame 1x1 de 40mm cores diversas",13710987,360,PERDEU,UNI,40474.8,112.43
+"Kimono de Judô",13710988,100,PERDEU,UN,42754,427.54
+"Kimono de Jiu-Jitsu",13710989,100,PERDEU,UN,47880,478.8
+"Luva de Boxe",13710990,30,PERDEU,PAR,5844,194.8
+"Saco de Pancada",13710991,6,PERDEU,UN,1482,247
+"Manopla de Boxe",13710992,30,PERDEU,PAR,4440,148
+"Aparador de Chute",13710993,24,PERDEU,UN,4270.08,177.92
+"Aparador de Soco",13710994,24,PERDEU,UN,2878.08,119.92
+"Sacos para Bola",13710995,30,PERDEU,UN,794.1,26.47
+"CONE CHAPÉU CHINÊS",13710996,200,PERDEU,UND,532,2.66
+"Corda de Pular",13710997,50,PERDEU,UN,900,18
+"Bomba de Ar para Bolas",13710998,26,PERDEU,UN,990.86,38.11
+"Calibrador de Bola tipo Caneta",13710999,26,PERDEU,UN,774.8,29.8
+"Placar de Mesa",13711000,26,PERDEU,UN,5122,197
+"Apito de Mesa",13711001,15,PERDEU,UN,255,17
+"Apito profissional",13711002,60,PERDEU,UND,930,15.5
+"Skate para Iniciantes",13711003,80,PERDEU,UN,27901.6,348.77
+"Capacete de Skate",13711004,80,PERDEU,UN,6152,76.9
+"Kit de Proteção Esportivo",13711005,80,PERDEU,KIT,7672,95.9
+"Faixa Elástica Nível Forte",13711006,10,PERDEU,UN,249,24.9
+"Faixa Elástica Nível Médio",13711007,10,PERDEU,UN,248.7,24.87
+"Faixa Elástica Nível Fraco",13711008,10,PERDEU,UN,198,19.8
+"Mini Band Nível Forte",13711009,30,PERDEU,UN,341.4,11.38
+"Mini Band Nível Médio",13711010,30,PERDEU,UN,284.4,9.48
+"Mini Band Nível Fraco",13711011,30,PERDEU,UN,270,9
+"Prato para Tiro Esportivo",13711012,40000,PERDEU,UN,30000,0.75
+"Colete Esportivo",13711013,1000,PERDEU,UN,24960,24.96
+"Camiseta Esportiva",13711014,5000,PERDEU,UN,300000,60
+"Uniforme Esportivo",13711015,332,PERDEU,UN,33830.8,101.9
+"AGASALHO - JAQUETA E CALÇA POLIESTER",13711016,100,PERDEU,UND,25980,259.8

@@ -1,0 +1,243 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abacate,0,50,PERDEU," ",273,5.46
+"Abacaxi espinho",0,150,PERDEU," ",693,4.62
+ACELGA,0,100,PERDEU," ",450,4.5
+"Abobrinha verde",0,100,PERDEU," ",349,3.49
+"AÇÚCAR MASCAVO",0,50,PERDEU," ",697.5,13.95
+AGRIÃO,0,100,PERDEU," ",439,4.39
+AIPIM,0,150,PERDEU," ",784.5,5.23
+Alecrim,0,15,PERDEU," ",67.2,4.48
+"ALFACE AMERICANA",0,200,PERDEU," ",598,2.99
+"Alface crespa",0,400,PERDEU," ",1116,2.79
+"Alface roxa",0,200,PERDEU," ",576,2.88
+Alho.,0,200,PERDEU," ",1350,6.75
+"Ameixa fresca nacional",0,100,PERDEU," ",1090,10.9
+"AMENDOIM DESCASCADO",0,70,PERDEU," ",339.5,4.85
+"Banana Branca",0,800,PERDEU," ",2384,2.98
+"BATATA DOCE",0,150,PERDEU," ",417,2.78
+"Batata Inglesa.",0,350,PERDEU," ",1347.5,3.85
+BERINJELA,0,50,PERDEU," ",224,4.48
+BETERRABA,0,250,PERDEU," ",762.5,3.05
+BRÓCOLIS,0,250,PERDEU," ",1220,4.88
+"Canjiquinha de milho",0,50,PERDEU," ",242.5,4.85
+Carambola,0,100,PERDEU," ",880,8.8
+"Cebola de cabeça",0,400,PERDEU," ",1500,3.75
+"CEBOLA ROXA",0,200,PERDEU," ",838,4.19
+"CENOURA SEM FOLHAS",0,400,PERDEU," ",1212,3.03
+CHICORIA,0,100,PERDEU," ",248,2.48
+Chuchu,0,200,PERDEU," ",1100,5.5
+"Couve chinesa",0,100,PERDEU," ",445,4.45
+"COUVE FLOR.",0,300,PERDEU," ",1425,4.75
+"COUVE FOLHA",0,300,PERDEU," ",849,2.83
+ESPINAFRE,0,50,PERDEU," ",172.5,3.45
+"Farinha de Mandioca crua",0,200,PERDEU," ",890,4.45
+"FARINHA DE MILHO",0,100,PERDEU," ",439,4.39
+"Feijão branco tipo I",0,50,PERDEU," ",715,14.3
+"Feijão Vermelho: tipo 2",0,500,PERDEU," ",4700,9.4
+GOIABA,0,100,PERDEU," ",835,8.35
+"Grão de bico",0,50,PERDEU," ",272.5,5.45
+Hortelã.,0,50,PERDEU," ",144,2.88
+"LARANJA PERA",0,500,PERDEU," ",1700,3.4
+Lentilha,0,30,PERDEU," ",145.5,4.85
+LIMÃO,0,100,PERDEU," ",490,4.9
+MAÇA,0,400,PERDEU," ",2440,6.1
+"Manjericão 50mg",0,30,PERDEU," ",112.5,3.75
+MANGA,0,100,PERDEU," ",545,5.45
+"Mamão comum",0,300,PERDEU," ",1440,4.8
+MARACUJA,0,50,PERDEU," ",322.5,6.45
+"Melado de Cana de açúcar",0,50,PERDEU," ",547.5,10.95
+MELANCIA,0,150,PERDEU," ",402,2.68
+MELAO,0,200,PERDEU," ",970,4.85
+"Milho de Pipoca",0,150,PERDEU," ",718.5,4.79
+"MILHO VERDE",0,100,PERDEU," ",480,4.8
+"Moranga preta",0,200,PERDEU," ",570,2.85
+MORANGO,0,100,PERDEU," ",435,4.35
+"OVOS DE GALINHA",0,400,PERDEU," ",2396,5.99
+PEPINO,0,200,PERDEU," ",630,3.15
+"PIMENTAO VERDE",0,200,PERDEU," ",970,4.85
+PINHAO,0,100,PERDEU," ",1090,10.9
+"Polpa de açaí",0,50,PERDEU," ",800,16
+"Polpa de frutas natural congelada",0,400,PERDEU," ",1392,3.48
+Ponkan,0,300,PERDEU," ",1125,3.75
+RABANETE,0,100,PERDEU," ",443,4.43
+RADICHE,0,100,PERDEU," ",298,2.98
+"REPOLHO ROXO",0,100,PERDEU," ",415,4.15
+"Repolho Verde",0,150,PERDEU," ",510,3.4
+RUCULA,0,150,PERDEU," ",517.5,3.45
+Salsão,0,100,PERDEU," ",720,7.2
+"TEMPERO VERDE",0,400,PERDEU," ",940,2.35
+TOMATE,0,500,PERDEU," ",2425,4.85
+UVA,0,100,PERDEU," ",1090,10.9
+VAGEM,0,200,PERDEU," ",1550,7.75
+"Bebida Láctea com iogurte e polpa de frutas",0,400,PERDEU," ",1556,3.89
+"APRESUNTADO FATIADO",0,200,VENCEU," ",4782,23.91
+"Bacon defumado em pedaços",0,50,VENCEU," ",1722,34.44
+"Carne bovina: Acém resfriado",0,300,VENCEU," ",9222,30.74
+"Carne bovina: Bucho bovino",0,200,VENCEU," ",4172,20.86
+"Carne bovina: Coxão de fora resfriado (coxão duro)",0,300,VENCEU," ",10332,34.44
+"Carne bovina: Coxão mole",0,300,VENCEU," ",11829,39.43
+"Carne bovina: Fraldinha resfriada",0,300,VENCEU," ",11709,39.03
+"Carne bovina: Fígado",0,100,VENCEU," ",1887,18.87
+"Carne bovina: Moída",0,400,VENCEU," ",12696,31.74
+"Carne bovina: músculo",0,100,VENCEU," ",2745,27.45
+"Carne bovina: Tatu",0,200,VENCEU," ",7166,35.83
+"Carne de frango congelada: Coxa e sobrecoxa com osso e com p",0,400,VENCEU," ",4152,10.38
+"Carne de frango congelada: Filé de peito sem osso e sem pele",0,400,VENCEU," ",4872,12.18
+"Carne de frango congelada: Galinha caipira, serrada com osso",0,300,VENCEU," ",2979,9.93
+"Carne de frango congelada: Moela",0,100,VENCEU," ",1088,10.88
+"Carne de frango congelada: Peito com osso",0,200,VENCEU," ",2096,10.48
+"Carne suína congelada: Costela",0,300,VENCEU," ",6528,21.76
+"Carne suína congelada: Lombo médio sem osso",0,300,VENCEU," ",6828,22.76
+"Carne suína congelada: Paleta suína",0,200,VENCEU," ",3514,17.57
+"Filé de Peixe congelado: Papa-terra",0,300,VENCEU," ",10719,35.73
+"Lingüiça de carne de pernil",0,200,VENCEU," ",3794,18.97
+"Lingüiça de frango",0,300,VENCEU," ",5601,18.67
+"Lingüiça tipo calabresa para fatiar",0,300,VENCEU," ",8415,28.05
+"Pescado: peixe em posta",0,250,VENCEU," ",8110,32.44
+"Salsicha hot dog",0,150,VENCEU," ",1572,10.48
+"AMIDO DE MILHO",0,100,VENCEU," ",474,4.74
+"ARROZ INTEGRAL",0,100,VENCEU," ",504,5.04
+"Arroz Parbolizado Tipo I",0,800,VENCEU," ",3456,4.32
+"Arroz Polido",0,50,VENCEU," ",218,4.36
+Aveia,0,20,VENCEU," ",188.6,9.43
+"Barra de cereal",0,100,VENCEU," ",317,3.17
+"Biscoito de Chocolate",0,400,VENCEU," ",2152,5.38
+"Biscoito doce à base de cereais integrais",0,150,VENCEU," ",633,4.22
+"Biscoito doce sem recheio",0,500,VENCEU," ",2320,4.64
+"BISCOITO SALGADO INTEGRAL",0,500,VENCEU," ",2320,4.64
+Bolinho,0,150,VENCEU," ",700.5,4.67
+"Bolo de aniversário",0,50,VENCEU," ",1981.5,39.63
+"Docinhos diversos",0,50,VENCEU," ",3858,77.16
+"Farinha de rosca.",0,20,VENCEU," ",109.4,5.47
+"Farinha de tapioca",0,10,VENCEU," ",94.3,9.43
+"FARINHA DE TRIGO",0,500,VENCEU," ",1630,3.26
+"FARINHA DE TRIGO INTEGRAL",0,100,VENCEU," ",371,3.71
+"fermento biologico",0,100,VENCEU," ",159,1.59
+"Fermento em Pó Químico",0,150,VENCEU," ",1063.5,7.09
+"Macarrão Tipo Conchinha",0,50,VENCEU," ",273,5.46
+"MACARRÃO TIPO PARAFUSO INTEGRAL",0,200,VENCEU," ",1168,5.84
+"Macarrão Tipo Espaguete Integral",0,200,VENCEU," ",1168,5.84
+"Massa alimentícia",0,100,VENCEU," ",644,6.44
+"Mini chocottone",0,400,VENCEU," ",1744,4.36
+"Pão de forma tradicional",0,1000,VENCEU," ",4740,4.74
+"Ovo de chocolate",0,400,VENCEU," ",1988,4.97
+"Pão de forma integral",0,1000,VENCEU," ",7640,7.64
+"Pão de Hot Dog",0,1000,VENCEU," ",5270,5.27
+"Pão frances",0,50,VENCEU," ",495.5,9.91
+"POLVILHO AZEDO",0,50,VENCEU," ",354.5,7.09
+"POLVILHO DOCE",0,50,VENCEU," ",313.5,6.27
+"Salgadinhos diversos",0,50,VENCEU," ",3583.5,71.67
+"Creme de leite fresco",0,50,VENCEU," ",310.5,6.21
+"CREME DE LEITE UHT",0,200,VENCEU," ",702,3.51
+IOGURTE,0,100,VENCEU," ",524,5.24
+"LEITE CONDENSADO",0,200,VENCEU," ",1136,5.68
+MANTEIGA,0,50,VENCEU," ",446.5,8.93
+"Queijo ralado",0,100,VENCEU," ",421,4.21
+"Queijo tipo mussarela",0,200,VENCEU," ",7446,37.23
+Requeijão,0,100,VENCEU," ",544,5.44
+"Leite Desnatado UHT",0,1000,VENCEU," ",3640,3.64
+"LEITE EM PÓ",0,50,VENCEU," ",571.5,11.43
+"Leite Integral UHT",0,2000,VENCEU," ",7280,3.64
+"Leite Semidesnatado UHT sem lactose",0,1000,VENCEU," ",4020,4.02
+"ACHOCOLATADO EM PO",0,100,VENCEU," ",464,4.64
+"ACUCAR REFINADO",0,700,VENCEU," ",2254,3.22
+"Adoçante à base de stévia",0,50,VENCEU," ",738.5,14.77
+"Adoçante culinário",0,10,VENCEU," ",198.6,19.86
+"Azeite de oliva extra virgem",0,100,VENCEU," ",2266,22.66
+"Balas macias",0,100,VENCEU," ",888,8.88
+"Bombom recheado",0,200,VENCEU," ",7646,38.23
+"CACAU EM PÓ",0,10,VENCEU," ",176.2,17.62
+"CASTANHA DO PARÁ",0,10,VENCEU," ",97.8,9.78
+"Chocolate ao leite",0,10,VENCEU," ",46.9,4.69
+"CHOCOLATE GRANULADO",0,50,VENCEU," ",184,3.68
+"Chocolate meio amargo",0,30,VENCEU," ",119.4,3.98
+COCADA,0,50,VENCEU," ",968,19.36
+"COCO RALADO",0,100,VENCEU," ",404,4.04
+"DOCE DE FRUTAS",0,200,VENCEU," ",748,3.74
+"Doce de Leite em Pasta",0,200,VENCEU," ",748,3.74
+"Gelatina de fruta",0,100,VENCEU," ",138,1.38
+"Leite de coco",0,30,VENCEU," ",112.2,3.74
+"MARIA MOLE",0,30,VENCEU," ",678.3,22.61
+"Paçoquinha rolha",0,50,VENCEU," ",768.5,15.37
+"pé de moleque de amendoim e rapadura",0,50,VENCEU," ",833.5,16.67
+"PIPOCA DOCE",0,1000,VENCEU," ",440,0.44
+Pirulito,0,50,VENCEU," ",419,8.38
+"Margarina (Creme Vegetal)",0,350,VENCEU," ",665,1.9
+"Refrigerante de cola",0,50,VENCEU," ",342,6.84
+"Refrigerante de guaraná",0,50,VENCEU," ",332,6.64
+"Refrigerante de laranja",0,50,VENCEU," ",332,6.64
+"Refrigerante de limão",0,50,VENCEU," ",332,6.64
+"Suco de néctar de frutas",0,100,VENCEU," ",427,4.27
+"Suco de néctar de frutas com volume de 200ml",0,600,VENCEU," ",618,1.03
+"Suco: natural",0,200,VENCEU," ",4980,24.9
+SUSPIRO,0,30,VENCEU," ",685.8,22.86
+"UVA PASSA",0,10,VENCEU," ",64.4,6.44
+Açafrão;,0,50,VENCEU," ",846,16.92
+Azeitona,0,20,VENCEU," ",129.4,6.47
+"BATATA PALHA",0,200,VENCEU," ",802,4.01
+"Batata palito congelada.",0,100,VENCEU," ",1068,10.68
+"CAFE EXTRA FORTE",0,1000,VENCEU," ",9670,9.67
+"Canela moída",0,20,VENCEU," ",60.8,3.04
+"CANELA EM PAU",0,20,VENCEU," ",74.8,3.74
+CATCHUP,0,30,VENCEU," ",136.2,4.54
+"Chá de camomila",0,50,VENCEU," ",182,3.64
+"Chá de hortelã",0,50,VENCEU," ",182,3.64
+"Chá mate",0,50,VENCEU," ",182,3.64
+"Colorau (colorífico)",0,100,VENCEU," ",474,4.74
+"Cominho moído",0,100,VENCEU," ",364,3.64
+"CRAVO DA INDIA",0,20,VENCEU," ",72.8,3.64
+"ERVILHA EM CONSERVA",0,100,VENCEU," ",297,2.97
+"Louro folha",0,30,VENCEU," ",89.1,2.97
+MAIONESE,0,100,VENCEU," ",544,5.44
+Manjericão,0,10,VENCEU," ",277,27.7
+"Milho verde em conserva",0,250,VENCEU," ",710,2.84
+"Molho de soja",0,10,VENCEU," ",86.3,8.63
+MOSTARDA,0,10,VENCEU," ",43.6,4.36
+OREGANO,0,50,VENCEU," ",265.5,5.31
+Palmito,0,10,VENCEU," ",137.7,13.77
+"Patê de frango",0,150,VENCEU," ",396,2.64
+"PEPINO EM CONSERVA",0,10,VENCEU," ",68.2,6.82
+"Pimenta preta moída",0,100,VENCEU," ",364,3.64
+"POLPA DE TOMATE",0,400,VENCEU," ",1776,4.44
+"Sal grosso",0,50,VENCEU," ",130,2.6
+"Sal Refinado",0,100,VENCEU," ",168,1.68
+SARDINHA,0,100,VENCEU," ",391,3.91
+"Semente de linhaca",0,10,VENCEU," ",89.3,8.93
+Vinagre,0,200,VENCEU," ",356,1.78
+MEL,0,20,VENCEU," ",594,29.7
+"OLEO DE SOJA",0,400,VENCEU," ",2948,7.37
+"Carvão vegetal para churrasco",0,50,VENCEU," ",1287.5,25.75
+"Bacia grande",0,20,VENCEU," ",436,21.8
+"Bandeja descartável 46cm x 39cm.",0,20,VENCEU," ",93.6,4.68
+"Bandeja descartável 26cm x 32cm.",0,20,VENCEU," ",93.6,4.68
+"Caixa Organizadora com Tampa de Plástico 2,5L 48,7x33,1x19,6",0,8,VENCEU," ",151.2,18.9
+"Caixa Organizadora Plástico Incolor",0,15,VENCEU," ",1477.5,98.5
+"Caixa de fósforos",0,200,VENCEU," ",738,3.69
+"Coador de pano",0,50,VENCEU," ",442.5,8.85
+"COLHER DESCARTÁVEL",0,50,VENCEU," ",209,4.18
+"Embalagem para cachorro-quente",0,20,VENCEU," ",79,3.95
+"Embalagem plástica descartável.",0,200,VENCEU," ",1970,9.85
+"Espetinho de madeira",0,20,VENCEU," ",81,4.05
+"FACA DESCARTAVEL",0,10,VENCEU," ",47,4.7
+FLANELA,0,20,VENCEU," ",3820,191
+"Folha de Alumínio",0,100,VENCEU," ",369,3.69
+"GARFO DESCARTÁVEL",0,10,VENCEU," ",47,4.7
+"Garfinho descartável para bolo",0,20,VENCEU," ",77.6,3.88
+"Guardanapo de papel",0,400,VENCEU," ",660,1.65
+"Luvas plásticas",0,10,VENCEU," ",69,6.9
+"Palito de dentes",0,100,VENCEU," ",115,1.15
+"Pano de prato",0,50,VENCEU," ",192.5,3.85
+"Papel filme PVC",0,50,VENCEU," ",222.5,4.45
+"PAPEL MANTEIGA",0,50,VENCEU," ",184.5,3.69
+"PAPEL TOALHA",0,300,VENCEU," ",1167,3.89
+"PRATO DESCARTÁVEL",0,50,VENCEU," ",149,2.98
+"Prato descartável para bolo",0,100,VENCEU," ",199,1.99
+"Saco de papel para pipoca",0,30,VENCEU," ",140.7,4.69
+"Saco plástico aproximadamente 2kg",0,100,VENCEU," ",499,4.99
+"Saco plástico 15 x 25 cm",0,200,VENCEU," ",3240,16.2
+"Touca protetora  lavavel",0,100,VENCEU," ",645,6.45
+"Avental de PVC",0,50,VENCEU," ",792.5,15.85
+CALCA,0,4,VENCEU," ",207.2,51.8
+Camiseta,0,4,VENCEU," ",118,29.5
+"Luva para forno",0,30,VENCEU," ",309,10.3
+"SAPATO DE SEGURANÇA",0,6,VENCEU," ",414,69

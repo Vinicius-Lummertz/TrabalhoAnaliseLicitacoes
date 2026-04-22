@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",4525761,177,4000,ATIVO,"Frasco ampola",23196,5.799
+"Metoclopramida, cloridrato 10mg cpr, em blister.",4525762,188,850000,ATIVO,COMPRIMIDO,42500,0.05
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",4525763,202,20000,ATIVO,BISNAGA,41800,2.09
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",4525764,241,250000,ATIVO,COMPRIMIDO,44500,0.178

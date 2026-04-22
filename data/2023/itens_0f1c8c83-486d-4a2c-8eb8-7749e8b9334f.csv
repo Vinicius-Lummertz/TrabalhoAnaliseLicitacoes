@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coador de pano",4786576,213,50,ATIVO,UNIDADE,419.5,8.39
+"Palito de dentes",4786577,224,100,ATIVO,CAIXA,115,1.15
+"Prato descartável para bolo",4786578,230,300,ATIVO,PACOTE,795,2.65
+"Bobina plástica.",4786579,232,100,ATIVO,ROLO,690,6.9

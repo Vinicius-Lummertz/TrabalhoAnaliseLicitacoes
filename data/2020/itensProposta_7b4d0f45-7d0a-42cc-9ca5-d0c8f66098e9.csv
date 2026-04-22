@@ -1,0 +1,162 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+TRAVA,0,4,VENCEU," ",16.6,4.15
+RETENTOR,0,2,VENCEU," ",47.4,23.7
+"Engrenagem 18Z",0,1,VENCEU," ",315.3,315.3
+"Eixo roda traseira 10 furos",0,1,VENCEU," ",3650,3650
+"PARAFUSO DE RODA",0,10,VENCEU," ",205,20.5
+"retentor roda K7",0,1,VENCEU," ",213.5,213.5
+"retentor roda K7",0,4,VENCEU," ",854,213.5
+PLACA,0,1,VENCEU," ",35,35
+"ANEL DE VEDAÇÃO",0,4,VENCEU," ",125.2,31.3
+"ANEL DE VEDAÇÃO",0,4,VENCEU," ",174,43.5
+"ANEL TRAVA",0,12,VENCEU," ",10.8,0.9
+"Engrenagem 42Z",0,1,VENCEU," ",1678.2,1678.2
+"Disco freio Paper 4.50mm",0,20,VENCEU," ",2740,137
+"Suporte roda motriz",0,1,VENCEU," ",1690.7,1690.7
+ANEL,0,4,VENCEU," ",181.6,45.4
+"Placa de trava",0,8,VENCEU," ",31.2,3.9
+ROLAMENTO,0,4,VENCEU," ",1269.2,317.3
+ROLAMENTO,0,4,VENCEU," ",1382,345.5
+"porca do pinhão",0,1,VENCEU," ",228.5,228.5
+"RETENTOR DO PINHAO",0,1,VENCEU," ",23.5,23.5
+ROLAMENTO,0,1,VENCEU," ",286,286
+"calço de ajuste",0,1,VENCEU," ",438.5,438.5
+ROLAMENTO,0,3,VENCEU," ",1759.5,586.5
+ROLAMENTO,0,1,VENCEU," ",1720.2,1720.2
+"Arruela com trava",0,1,VENCEU," ",295,295
+"ENGRENAGEM SATELITE",0,1,VENCEU," ",1225.5,1225.5
+"cruzeta diferencial inferior traseiro",0,1,VENCEU," ",1090.5,1090.5
+ENGRENAGEM,0,1,VENCEU," ",1365.5,1365.5
+ARRUELA,0,1,VENCEU," ",83.5,83.5
+"Engrenagem planet. DE",0,4,VENCEU," ",2614,653.5
+ARRUELA,0,4,VENCEU," ",118,29.5
+"Disco de aço 3.50mm",0,7,VENCEU," ",9250.5,1321.5
+"Disco sinterizado",0,6,VENCEU," ",3759,626.5
+PISTAO,0,1,VENCEU," ",6864,6864
+ROLAMENTO,0,1,VENCEU," ",842,842
+ANEL,0,2,VENCEU," ",2.3,1.15
+MOLA,0,1,VENCEU," ",1053.5,1053.5
+"Bucha diferencial",0,1,VENCEU," ",107,107
+ROLAMENTO,0,1,VENCEU," ",210.3,210.3
+"ARRUELA PLANA",0,1,VENCEU," ",64.4,64.4
+"Pistão diferencial traseiro",0,1,VENCEU," ",1578,1578
+ANEL,0,2,VENCEU," ",48,24
+TAMPA,0,1,VENCEU," ",926.2,926.2
+ANEL,0,1,VENCEU," ",26.5,26.5
+"junta de cortiça",0,4,VENCEU," ",71.2,17.8
+"junta de cortiça",0,8,VENCEU," ",84,10.5
+RESPIRO,0,2,VENCEU," ",33,16.5
+"junta de cortiça",0,2,VENCEU," ",44.6,22.3
+"retentor tandem",0,4,VENCEU," ",278,69.5
+"bucha celeron semi-acabada",0,2,VENCEU," ",311,155.5
+"Anel oring",0,8,VENCEU," ",164.8,20.6
+"arruela celeron 30mm",0,4,VENCEU," ",481.2,120.3
+CALCO,0,5,VENCEU," ",142.5,28.5
+CALCO,0,5,VENCEU," ",13,2.6
+"arruela de celeron",0,4,VENCEU," ",486,121.5
+"Filtro de Ar Interno",0,1,VENCEU," ",46.5,46.5
+"Filtro de Ar Externo",0,1,VENCEU," ",159.5,159.5
+"OLEO LUBRIFICANTE",0,1,VENCEU," ",93.5,93.5
+"filtro de água anti-corrosivo",0,1,VENCEU," ",119,119
+"filtro secundário diesel",0,1,VENCEU," ",34.8,34.8
+"filtro primário diesel",0,1,VENCEU," ",63.9,63.9
+"FILTRO TRANSMISSAO",0,1,VENCEU," ",478,478
+"filtro hidráulico do tanque",0,1,VENCEU," ",43,43
+"filtro do ar condicionado",0,1,VENCEU," ",188,188
+TUBO,0,1,VENCEU," ",540,540
+MANGUEIRA,0,2,VENCEU," ",131,65.5
+TUBO,0,1,VENCEU," ",435,435
+"mangueira b.p.borr.v",0,1,VENCEU," ",61,61
+ABRAÇADEIRA,0,6,VENCEU," ",16.8,2.8
+ABRAÇADEIRA,0,18,VENCEU," ",46.8,2.6
+MANGUEIRA,0,1,VENCEU," ",136,136
+TUBO,0,1,VENCEU," ",409,409
+MANGUEIRA,0,2,VENCEU," ",104,52
+ABRAÇADEIRA,0,6,VENCEU," ",15,2.5
+MANGUEIRA,0,2,VENCEU," ",116,58
+TUBO,0,1,VENCEU," ",274,274
+"tubo refrigeração",0,1,VENCEU," ",625,625
+ABRAÇADEIRA,0,4,VENCEU," ",16,4
+MANGUEIRA,0,1,VENCEU," ",196.5,196.5
+MANGUEIRA,0,1,VENCEU," ",81,81
+ABRAÇADEIRA,0,8,VENCEU," ",12,1.5
+MANGUEIRA,0,1,VENCEU," ",237,237
+MANGUEIRA,0,1,VENCEU," ",38,38
+ABRAÇADEIRA,0,8,VENCEU," ",25.6,3.2
+MANGUEIRA,0,1,VENCEU," ",90,90
+MANGUEIRA,0,1,VENCEU," ",816,816
+ABRAÇADEIRA,0,8,VENCEU," ",2612,326.5
+MANGUEIRA,0,1,VENCEU," ",294,294
+MANGUEIRA,0,1,VENCEU," ",1140,1140
+MANGUEIRA,0,1,VENCEU," ",33.5,33.5
+ABRAÇADEIRA,0,1,VENCEU," ",4,4
+ABRAÇADEIRA,0,1,VENCEU," ",2.5,2.5
+"BOMBA DAGUA",0,1,VENCEU," ",205,205
+ANEL,0,1,VENCEU," ",1.5,1.5
+"CORREIA DO VENTILADOR",0,1,VENCEU," ",8,8
+MANGUEIRA,0,1,VENCEU," ",154,154
+MANGUEIRA,0,1,VENCEU," ",184,184
+ABRAÇADEIRA,0,3,VENCEU," ",13.5,4.5
+ABRAÇADEIRA,0,1,VENCEU," ",4.5,4.5
+"terminal esférico",0,3,VENCEU," ",33,11
+RETENTOR,0,2,VENCEU," ",140,70
+RETENTOR,0,2,VENCEU," ",15,7.5
+ANEL,0,2,VENCEU," ",2.4,1.2
+FLANGE,0,1,VENCEU," ",589,589
+"flange freio estacio",0,1,VENCEU," ",7000,7000
+"INTERRUPTOR DO FREIO",0,2,VENCEU," ",206,103
+CRUZETA,0,1,VENCEU," ",225,225
+RESPIRO,0,2,VENCEU," ",138,69
+"PASTILHA DE FREIO",0,2,VENCEU," ",204,102
+"mola de aço do freio",0,1,VENCEU," ",3,3
+"conjunto pedal do freio",0,1,VENCEU," ",16900,16900
+"pressostato de freio",0,1,VENCEU," ",1150,1150
+INTERRUPTOR,0,1,VENCEU," ",900,900
+MANGUEIRA,0,1,VENCEU," ",1030.5,1030.5
+ABRAÇADEIRA,0,2,VENCEU," ",262,131
+ANEL,0,2,VENCEU," ",8,4
+ANEL,0,1,VENCEU," ",3,3
+ANEL,0,1,VENCEU," ",2.5,2.5
+ANEL,0,1,VENCEU," ",0.5,0.5
+ANEL,0,1,VENCEU," ",1,1
+ANEL,0,2,VENCEU," ",2,1
+ABRAÇADEIRA,0,4,VENCEU," ",1140,285
+MANGUEIRA,0,1,VENCEU," ",38,38
+"Junta de amianto",0,1,VENCEU," ",82,82
+MANGUEIRA,0,1,VENCEU," ",148,148
+"anel do eixo",0,5,VENCEU," ",2.5,0.5
+"anel back up",0,8,VENCEU," ",12,1.5
+"coxim borracha p/ tam. Lat",0,4,VENCEU," ",22,5.5
+"mangueira ap. borr. Vu",0,1,VENCEU," ",63,63
+"abraçadeira aço ace.",0,4,VENCEU," ",2,0.5
+"cj. Condensador",0,1,VENCEU," ",2900,2900
+"CORREIA DO VENTILADOR",0,1,VENCEU," ",24,24
+"conj. Assento vinil",0,1,VENCEU," ",4100,4100
+SILENCIOSO,0,1,VENCEU," ",672,672
+ABRAÇADEIRA,0,1,VENCEU," ",16,16
+"anel o",0,3,VENCEU," ",0.45,0.15
+"anel o",0,1,VENCEU," ",250,250
+JUNTA,0,1,VENCEU," ",2,2
+ANEL,0,1,VENCEU," ",1.7,1.7
+CALCO,0,2,VENCEU," ",3.4,1.7
+CALCO,0,2,VENCEU," ",2,1
+CALCO,0,3,VENCEU," ",3.75,1.25
+"arruela de celeron",0,1,VENCEU," ",13,13
+ANEL,0,1,VENCEU," ",58,58
+"arruela de celeron",0,2,VENCEU," ",27,13.5
+"coroa de aço",0,1,VENCEU," ",2240,2240
+RETENTOR,0,1,VENCEU," ",20.5,20.5
+PINHAO.,0,1,VENCEU," ",1175,1175
+"BUCHA DE BRONZE",0,1,VENCEU," ",100,100
+"bucha de celeron",0,1,VENCEU," ",28,28
+"rolamento roletes co",0,2,VENCEU," ",996,498
+CALCO,0,3,VENCEU," ",7.8,2.6
+CALCO,0,3,VENCEU," ",6,2
+CALCO,0,3,VENCEU," ",6.3,2.1
+ANEL,0,1,VENCEU," ",2.4,2.4
+"MAO DE OBRA",0,1,VENCEU," ",27900,27900
+"OLEO 15W40",0,3,VENCEU," ",1056,352
+AGRIFLU,0,2,VENCEU," ",548,274
+"ambar mastertrans",0,7,VENCEU," ",3171,453
+"ambar axf 80w90",0,3,VENCEU," ",1551,517
+"Ambart TRX SAE 20w40",0,8,VENCEU," ",3808,476

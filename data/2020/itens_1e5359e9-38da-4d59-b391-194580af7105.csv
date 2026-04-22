@@ -1,0 +1,23 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assadeira Retangular Hotel C: 50cm; L: 35cm; A: 7cm",1267636,3,3,ATIVO,UNIDADE,179.4,59.8
+"Assadeira Retangular Hotel C: 41cm; L: 29cm; A: 5cm",1267637,4,2,ATIVO,UNIDADE,142,71
+"Caçarola Hotel com tampa nº 36",1267638,5,2,ATIVO,UNIDADE,208,104
+"Caçarola Hotel com tampa nº 40",1267639,7,3,ATIVO,UNIDADE,438,146
+"Concha com cabo 30 cm",1267640,13,3,ATIVO,UNIDADE,37.2,12.4
+"Cortador de legumes com tripé",1267641,14,1,ATIVO,UNIDADE,169,169
+"Colher de mesa toda em aço inox",1267642,15,24,ATIVO,UNIDADE,108,4.5
+"Escorredor hotel 40cm",1267643,17,2,ATIVO,UNIDADE,170,85
+"Espátula 10cm",1267644,18,1,ATIVO,UNIDADE,17.9,17.9
+"Espumadeira de aço inox sem emendas",1267645,19,3,ATIVO,UNIDADE,35.7,11.9
+"Faca de mesa toda em aço inox",1267646,20,24,ATIVO,UNIDADE,195.6,8.15
+"Garfo Grande 34 cm",1267647,26,3,ATIVO,UNIDADE,36.9,12.3
+"Garfo de mesa todo em aço inox",1267648,27,24,ATIVO,UNIDADE,93.36,3.89
+"Jarra Plástica Transparente De 2 Litros Com Tampa",1267649,29,6,ATIVO,UNIDADE,76.8,12.8
+"Bacia Plástica para 27 litros",1267650,30,6,ATIVO,UNIDADE,139.2,23.2
+"Bacia Plástica para 17 litros",1267651,31,6,ATIVO,UNIDADE,85.2,14.2
+"Bacia Plástica para 8 litros.",1267652,32,6,ATIVO,UNIDADE,61.8,10.3
+"Pote plástico para alimentos com tampa Capacidade: 7,3L",1267653,36,5,ATIVO,UNIDADE,97.5,19.5
+"Tábua de propileno para corte",1267669,41,4,ATIVO,UNIDADE,250,62.5
+Ralador,1267670,40,3,ATIVO,UNIDADE,45,15
+"Pote plástico para alimentos com tampa Capacidade: 4,1L",1267672,37,5,ATIVO,UNIDADE,64.5,12.9
+"Pote plástico para alimentos com tampa Capacidade: 2,3L",1267673,38,5,ATIVO,UNIDADE,44.5,8.9

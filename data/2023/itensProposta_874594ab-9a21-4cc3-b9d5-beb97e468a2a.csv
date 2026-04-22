@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Extrator de suco INOX",12214987,63,VENCEU,UND,39753,631
+"Lavadora de alta pressão",12214992,20,PERDEU,UND,36500,1825
+"LAVADORA DE ROUPAS AUTOMÁTICA",12214993,30,PERDEU,UND,57570,1919
+"Liquidificador industrial 08 litros",12214994,20,VENCEU,UND,20020,1001
+"FORNO MICROONDAS",12214995,20,VENCEU,UND,14400,720
+Multiprocessador,12214996,63,VENCEU,UND,40883.85,648.95

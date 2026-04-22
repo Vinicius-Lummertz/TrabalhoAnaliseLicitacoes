@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO SEM FIO.",1301212,3,165,ATIVO,UNIDADE,16318.5,98.9
+"Aparelho telefônico com fio.",1303267,2,298,ATIVO,UNIDADE,11175,37.5
+"Livro de protocolo capa dura.",1309361,83,540,ATIVO,UNIDADE,3618,6.7
+"Régua escritório",1311419,126,1922,ATIVO,UNIDADE,999.44,0.52
+"Plástico autoadesivo de fácil aplicação",1315548,120,442,ATIVO,UNIDADE,10077.6,22.8
+"Clips para papel tamanho 6/0 caixa com 50 unidades.",1315556,44,1520,ATIVO,CAIXA,1672,1.1
+"Pen drive 128GB USB 3.0",1319614,107,23,ATIVO,UNIDADE,2392,104
+"envelope papel pardo tamanho 29 x 20 cm",1319622,56,26700,ATIVO,UNIDADE,2670,0.1

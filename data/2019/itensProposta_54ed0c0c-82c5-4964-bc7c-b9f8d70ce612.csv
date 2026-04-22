@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Televisor colorido 42 a 50 polegadas",4441310,5,VENCEU,UN,7690,1538
+"Refrigerador tipo doméstico 2 portas, 220 V",4441311,2,VENCEU,UN,2997.8,1498.9
+"Refrigerador tipo doméstico 1 porta, 220V",4441312,1,INABILITADO,UN,1425,1425
+"Aparelho Microondas capac. 32lt",4441313,2,PERDEU,UN,1058,529
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4441314,5,VENCEU,UNI,2465,493
+"Cafeteira elétrica 1,5L com sistema corta-pingo e jarra térm",4441315,3,PERDEU,UNI,360,120
+"Chaleira em aço inox, tipo elétrica, capacidade: 1,70 a 2,00",4441316,2,PERDEU,UN,136,68
+"Caixa organizadora",4441318,10,VENCEU,UN,400,40
+"Caixa organizadora alta transparente 30 lt",4441319,10,PERDEU,UNI,318,31.8
+"Tela de projeção com tripé",4441320,1,VENCEU,UND,489,489
+"Contentor de lixo, capac. 120 litros",4441322,3,PERDEU,UNI,660,220
+"Carro Funcional para limpeza",4441324,2,DESCLASSIFICADO,KIT,1780,890
+"Aparelho telefônico sem fio digital, cor preta",4441328,6,VENCEU,UN,617.4,102.9
+"Telefone Headset com base discadora",4441329,2,VENCEU,UN,269.8,134.9
+"Garrafa térmica 3,00 lt em aço inox",4441331,6,PERDEU,UN,462,77
+"Caixa gaveteiro plástico tipo Bin Nº 6, capac 8 lt, na cor a",4441332,60,PERDEU,UN,428.4,7.14
+"Caixa gaveteiro plástico tipo Bin Nº 5, capac 4 lt, na cor a",4441333,100,PERDEU,UN,520,5.2
+"Estrado de plástico vazado 50 cm x 50cm x 5 cm, com encaixes",4441334,70,INABILITADO,UN,1610,23
+"Lixeira em polietileno de alta densidade (PEAD) ou Polipropi",4441335,1,DESCLASSIFICADO,CJ,646.78,646.78

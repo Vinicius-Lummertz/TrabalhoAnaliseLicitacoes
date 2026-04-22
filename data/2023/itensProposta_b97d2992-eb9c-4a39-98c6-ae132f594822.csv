@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Preventivas com calibração (anual)",12301124,70,VENCEU," ",27300,390
+"Placa controladora sistema AMCP/CRESF original Biotecno",12301124,20,VENCEU," ",37372,1868.6
+"Placa PCI Carregadora 1.3",12301124,20,VENCEU," ",7324,366.2
+"Controladores Full Gauge modelo MT-543",12301124,20,VENCEU," ",10384,519.2
+"Phase log Plus",12301124,8,VENCEU," ",6334.4,791.8
+"Sensores AMCP evaporadora/reservatório",12301124,40,VENCEU," ",3984,99.6
+"Sensores NTC certificados",12301124,15,VENCEU," ",1461,97.4
+"Baterias estacionária 12V 185 AH Originais",12301124,40,VENCEU," ",42208,1055.2
+"Baterias estacionárias 12V 105 AH Originais",12301124,11,VENCEU," ",8164.2,742.2
+"Cooler de 127V 12x12 para evaporadora",12301124,30,VENCEU," ",4635,154.5
+"Ventoinhas para o compressor",12301124,10,VENCEU," ",4750,475
+"Corrediça telescópia para gaveta inox",12301124,20,VENCEU," ",1000,50
+"Capacitor 127v para compressor",12301124,10,VENCEU," ",1535,153.5
+"Inversor 12V X 127V de 1000W",12301124,10,VENCEU," ",10595,1059.5
+"Inversor 12V X 127V de 3000W",12301124,2,VENCEU," ",4869,2434.5
+"Compressor 127V 1/2HP",12301124,4,VENCEU," ",3938.4,984.6
+"Relé de proteção térmica compressor",12301124,10,VENCEU," ",1044,104.4
+"Relé de proteção de tensão do compressor",12301124,10,VENCEU," ",1006,100.6
+"Serviço de Hora técnica",12301124,400,VENCEU," ",81096,202.74

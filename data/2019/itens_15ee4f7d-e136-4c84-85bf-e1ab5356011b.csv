@@ -1,0 +1,22 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dipirona 500mg cpr, em blister.",1265499,98,1200000,ATIVO,COMPRIMIDO,81600,0.068
+"Eritromicina 50mg/mL suspensão oral,  frasco 60ml.",1265500,108,200,ATIVO,FRASCO,826,4.13
+"Furosemida 40mg cpr, em blister.",1265501,128,680000,ATIVO,COMPRIMIDO,20400,0.03
+"Levofloxacino 500mg cpr, em blister.",1265502,160,6000,ATIVO,COMPRIMIDO,2700,0.45
+"Loratadina 1mg/mL xarope, frasco de 60ml.",1265503,173,8000,ATIVO,FRASCO,18800,2.35
+"Metformina 500mg cpr, em blister.",1265504,176,1400000,ATIVO,COMPRIMIDO,88200,0.063
+"Metformina 850mg cpr, em blister.",1265505,177,3000000,ATIVO,COMPRIMIDO,174000,0.058
+"Metronidazol 250mg cpr, em blister.",1265506,186,250000,ATIVO,COMPRIMIDO,22500,0.09
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",1265507,187,5000,ATIVO,BISNAGA,20500,4.1
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",1265508,188,10000,ATIVO,BISNAGA,50000,5
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",1265509,195,30000,ATIVO,BISNAGA,42000,1.4
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",1265510,198,6000,ATIVO,FRASCO,20940,3.49
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",1265511,226,1000,ATIVO,FRASCO,4980,4.98
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",1265512,236,180000,ATIVO,COMPRIMIDO,17640,0.098
+"Atenolol 50mg cpr, em blister.",1265514,30,1500000,ATIVO,COMPRIMIDO,52500,0.035
+"Ampicilina 500mg, capsula, em blister.",1265533,28,5000,ATIVO,CAPSULA,1375,0.275
+"Alopurinol 100mg cpr, em blister.",1265534,18,600000,ATIVO,COMPRIMIDO,41400,0.069
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral",1265550,24,20000,ATIVO,FRASCO,65000,3.25
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",1265564,2,12000,ATIVO,BISNAGA,24600,2.05
+"Albendazol 400mg comprimido mastigável, em blister.",1265565,15,15000,ATIVO,COMPRIMIDO,5025,0.335
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",1265566,16,25000,ATIVO,FRASCO,25750,1.03

@@ -1,0 +1,54 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guarnição Silicone 9,0x11mm",4434125,6,PERDEU,MT,396,66
+"Valvula de Segurança Termostatica para autoclave AHMC5 e AHM",4434126,15,PERDEU,UNI,472.5,31.5
+"Rele de Estado Solido 40A de 200-240 V",4434127,10,PERDEU,UNI,6330,633
+"Lãmpada de LED par 20 220V 7 W - E27 para foco Ginecologico",4434128,20,PERDEU,UNI,370,18.5
+"Lâmpada dicróica 15V - 150W GZ6,35 para Colposcópio DF Vasco",4434129,5,PERDEU,UNI,610,122
+"Sensor tipo Soft adulto compativel com Oximetro de Pulso Dix",4434130,2,PERDEU,UN,1156,578
+"Valvula de Segurança 1/4 BSP Calibrada em 43 PSI para autocl",4434131,10,PERDEU,UNI,1720,172
+"Lâmpada 3V com rosca fina para Otoscópio TK / MIKATOS",4434132,10,PERDEU,UNI,900,90
+"Braçadeira de nylon com velcro adulto com manguito em pvc 2",4434133,170,PERDEU,UNI,4369,25.7
+"Cabo flexivel 2 x 0,20mm RCA emborrachado",4434134,20,PERDEU,MT,200,10
+"Pêra de Látex para Esfigmomanômetro",4434135,40,PERDEU,UNI,340,8.5
+"Vávula de deflação com regulador para Esfigmomanômetro",4434136,40,PERDEU,UNI,406,10.15
+"Pedal com acionamento único com conector P10 para bisturi el",4434137,2,PERDEU,UNI,600,300
+"Reservatório completo em co-polimero para AHMC-5 da Sercon",4434138,3,VENCEU,UNI,2664,888
+"Resistência tipo W - 220 V - 2200 W para autoclave AHMC10",4434139,5,PERDEU,UNI,1590,318
+"Guarnição de silicone para Autoclave AHMC5 e AHMC10",4434140,15,VENCEU,UNI,3090,206
+"Placa de Comando padrão  modelos com reservatório da linha T",4434141,4,PERDEU,UNI,6768,1692
+"Sensor de temperatura tipo PT-100 bulbo liso para Autoclave",4434142,4,PERDEU,UNI,1040,260
+"Cabo de ECG 10 Vias compativel com eletrocardiógrafo EP 12",4434143,2,PERDEU,UNI,2220,1110
+"Caneta autoclavavel com comando manual p/ bisturi elétrico",4434144,2,PERDEU,UNI,888,444
+"Jogo c/ 06 Eletrodos para cirurgia geral para uso em bisturi",4434145,4,PERDEU,UNI,996,249
+"Jogo c/ 06 Eletrodos para ginecologia para uso em bisturi el",4434146,4,PERDEU,UNI,996,249
+"kit com 06 Eletrodos tipo Pera de silicone adulto para ECG",4434147,2,PERDEU,KIT,666,333
+"kit de Eletrodos tipo Clip adulto com 4 un. para ECG",4434148,2,PERDEU,KIT,638,319
+"Membrana Osmose Reversa TW30-1812-100 DOW FILMTEC",4434149,1,PERDEU,UNI,479,479
+"Elemento Filtrante Polipropileno Liso 10x2.1/2x5",4434150,12,PERDEU,UNI,684,57
+"Elemento Filtrante Carvão ativado 10x2.1/2x5",4434151,12,PERDEU,UNI,864,72
+"Transdutor para detector fetal MS101, Sigmed",4434152,3,PERDEU,UNI,774,258
+"Transdutor para detector fetal DF-4000, Medpej",4434153,5,PERDEU,UNI,1385,277
+"Placa  Eletronica para Detector Fetal DF 4000 Medpej / Marte",4434154,3,PERDEU,UNI,915,305
+"Bateria recarregável de NICAD 3,5V para otoscópio modelo 710",4434155,2,PERDEU,UNI,814,407
+"Potenciômetro de fio para Otoscópio TK",4434156,5,PERDEU,UNI,275,55
+"Cabo de ECG 5 vias compatível com monitor Dixtal",4434157,1,PERDEU,UN,425,425
+"Célula de Carga para balança digital até 250Kg",4434158,4,PERDEU,UNI,2728,682
+"Celula de Carga SLP-30 Kg",4434159,4,PERDEU,UNI,1376,344
+"Lâmpada infravermelho 220 V - 150 W para fisioterapia",4434160,4,PERDEU,UNI,600,150
+"Guarnição de silicone para Autoclave Quadra 21, Cristófoli",4434161,2,VENCEU,UNI,178,89
+"Pino para Selo Segurança, Cristofoli",4434162,2,VENCEU,UNI,9,4.5
+"Selo segurança para porta, Cristófoli",4434163,4,VENCEU,UNI,76,19
+"Pino anti vacuo, Cristófoli",4434164,2,PERDEU,UNI,48.2,24.1
+"Transdutor 1 MHz para Sonemed V, Carci",4434165,2,PERDEU,UNI,712,356
+"Bateria Nicad 1,2 V 4500 mAh - D com terminal",4434166,10,PERDEU,UNI,769,76.9
+"Transistor 2SK2545 (MOS-N-FET 600V/6A/40W)",4434167,1,PERDEU,UNI,21,21
+"Triac BTA-41/600B 41A 600V",4434168,1,PERDEU,UNI,59.5,59.5
+"Válvula 811A para Ondas Curtas",4434169,2,PERDEU,UNI,786,393
+"Válvula 812A para Ondas Curtas",4434170,4,PERDEU,UNI,1544,386
+"Lâmpada MACRO 1019 Para Lâmpada de Fenda",4434171,1,PERDEU,UNI,314,314
+"Placa de comando microcontrolada para estufa Q317M-22",4434172,1,PERDEU,UNI,579,579
+"Placa Principal para Neurodyn III, Ibramed",4434173,1,PERDEU,UNI,268.5,268.5
+"Eletrodo auto adesivo 4x4 para uso em eletroestimulador",4434174,100,PERDEU,UNI,270,2.7
+"Bateria 12 V - 2,3Ah - referência UP1223",4434175,3,PERDEU,UNI,852,284
+"Controlador N1030 48x48 J-K-Pt100 100-240 Vca/Vcc",4434176,1,PERDEU,UNI,247,247
+"Bomba de Vacuo 0,75 CV - 380 V",4434177,1,PERDEU,UNI,5448,5448

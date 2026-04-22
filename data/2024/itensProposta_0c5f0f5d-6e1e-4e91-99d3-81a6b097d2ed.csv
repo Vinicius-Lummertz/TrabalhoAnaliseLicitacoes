@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,15000,0.5
+"Água destilada 5mL ampola.",16295813,36000,PERDEU,AMP,18000,0.5
+"Cloreto de sódio 0,9%, ampola 10ml.",16295880,28000,PERDEU,AMP,14000,0.5
+"Furosemida 10mg/mL injetável, ampola 2ml.",16295930,5000,PERDEU,AMP,10000,2
+"Glicose 25% , ampola 10ml.",16295934,4000,PERDEU,AMP,4000,1
+"Glicose 50%, ampola 10ml.",16295935,5000,PERDEU,AMP,5000,1

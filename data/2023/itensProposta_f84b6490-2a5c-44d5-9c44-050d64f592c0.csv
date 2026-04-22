@@ -1,0 +1,37 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base para relé fotoeletrônico",10967508,500,VENCEU,PC,2135,4.27
+"Cabo Flexivel, bitola 1,5 mm2 Isolamento PVC 750 V",10967512,10000,PERDEU,M,9800,0.98
+"Cabo Flexivel, bitola 2,5 mm2 Isolamento PVC 750 V",10967515,10000,PERDEU,M,15200,1.52
+"Cabo Flexivel, bitola 4,0 mm2 Isolamento PVC 750 V",10967517,2000,PERDEU,M,4980,2.49
+"Lâmpada Bulbo LED 50W - E27",10967569,100,PERDEU,PC,3121,31.21
+"Lâmpada multivapor metálico 1000w, bulbo tubolar, E-40, vida útil mínima de 9.000h, Im 85000 lumens",10967571,35,VENCEU,PC,3849.65,109.99
+"Lâmpada multivaporer metálico 400w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 35000 lumens",10967573,100,PERDEU,PC,2439,24.39
+"Lâmpada multivapores metálico 250w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 20000 lumens, 5500K",10967574,350,PERDEU,PC,9131.5,26.09
+"Lâmpada multivapores metálicos 150w, vida útil mínima de 12.000h, Im 11500 lumens, base E-27, 4200K",10967575,350,PERDEU,PC,7353.5,21.01
+"Lâmpada vapor sódio alta pressão 150w, bulbo tubular, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 17.000 lumens, com Selo Procel",10967577,1500,PERDEU,UND,21810,14.54
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",10967578,3900,PERDEU,PC,68562,17.58
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",10968145,1300,PERDEU,PC,21437,16.49
+"Lâmpada vapor sódio alta pressão 400w, bulbo tubolar, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 58.000 lumens, com Selo Procel",10967579,100,PERDEU,PC,1819,18.19
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",10967580,7500,PERDEU,UND,88950,11.86
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",10968147,2500,PERDEU,UND,29625,11.85
+"MiniDisjuntor monofásico 10 A, curva C, padrão IEC",10967590,84,PERDEU,UND,438.48,5.22
+"MiniDisjuntor monofásico 16 A, curva C, padrão IEC",10967591,84,PERDEU,UND,441,5.25
+"MiniDisjuntor monofásico 25 A, curva C, padrão IEC",10967592,84,PERDEU,UND,456.96,5.44
+"MiniDisjuntor monofásico 50 A, curva C, padrão IEC",10967593,84,PERDEU,UND,587.16,6.99
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",10967594,20,VENCEU,UND,1537.2,76.86
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",10967595,34,VENCEU,UND,975.8,28.7
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",10967596,34,VENCEU,UND,1043.46,30.69
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",10967597,34,VENCEU,UND,1043.46,30.69
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 150w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967622,500,VENCEU,PC,32645,65.29
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967623,1951,VENCEU,PC,143983.8,73.8
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10968228,549,VENCEU,PC,40516.2,73.8
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 400w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967624,50,VENCEU,PC,5544.5,110.89
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",10967625,2100,VENCEU,PC,98700,47
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",10968233,700,VENCEU,PC,37695,53.85
+"Reator interno AFP  0,93, para lâmpada de vapor de sódio 150W, 220V, 60Hz, com Selo PROCEL",10967626,100,VENCEU,PC,5268,52.68
+"Reator interno AFP 0,93, para lâmpada de vapor de sódio 250W, 220V, 60Hz, com Selo PROCEL",10967627,140,VENCEU,PC,9233,65.95
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 100W / Branco. Vida útil: 25.000 horas",10967630,100,PERDEU,UND,9600,96
+"Refletor em LED, potência 100W/Verde",10967631,100,VENCEU,PC,6400,64
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 200W / Branco. Vida útil: 25.000 horas",10967632,100,PERDEU,UND,19900,199
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 30W / Verde. Vida útil: 25.000 horas",10967633,100,PERDEU,UND,3600,36
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 50W / Branco. Vida útil: 25.000 horas",10967634,100,PERDEU,UND,4800,48

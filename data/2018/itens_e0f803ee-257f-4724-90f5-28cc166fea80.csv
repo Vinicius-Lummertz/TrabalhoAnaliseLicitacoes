@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de Concreto Diâmetro de 800mm PA1 (nbr 8890)",1300194,7,500,ATIVO,METRO,51500,103
+"Tubo de Concreto Diâmetro de 400mm (nbr 8890)",1302242,3,5000,ATIVO,METRO,105000,21
+"Tubo de Concreto Diâmetro de 1000 PA1 (nbr 8890)",1314539,8,500,ATIVO,METRO,67000,134
+"Tubo de Concreto Diâmetro de 600mm (nbr 8890)",1316599,6,1000,ATIVO,METRO,37000,37

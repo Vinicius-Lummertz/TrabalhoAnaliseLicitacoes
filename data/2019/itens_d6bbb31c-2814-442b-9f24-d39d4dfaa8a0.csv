@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"VDRL-latex c/ controle negativo e positivo",1264649,15,30000,ATIVO,TESTE,4050,0.135
+"Lamínulas 20 x 20 cx c/ 100 unidades",1264651,16,100,ATIVO,CAIXA,245.02,2.4502
+"Lâminas sem lapidação p/ microscópio - cx c/ 50 unidades",1264652,17,100,ATIVO,CAIXA,344.36,3.4436
+"Lâminas com a extremidade fosca p/ baciloscopia (tuberculose",1264653,18,200,ATIVO,CAIXA,760.62,3.8031
+"Pipeta de vidro graduada com volume de 01 ml",1264654,19,50,ATIVO,UNIDADE,134,2.68
+"Corante azul de Cresil Brilhante frasco com 100 ml",1264655,22,4,ATIVO,UNIDADE,128.06,32.0149
+"Corante p/ hematologia Giensa",1264656,23,18,ATIVO,LITRO,890.69,49.4828
+"Corante p/ hematologia May Grunwald",1264657,24,18,ATIVO,LITRO,681.25,37.8472
+"Ponteiras amarelas tipo universal vol. 0-200 microlitros, pa",1264668,38,25,ATIVO,PAC,294,11.76

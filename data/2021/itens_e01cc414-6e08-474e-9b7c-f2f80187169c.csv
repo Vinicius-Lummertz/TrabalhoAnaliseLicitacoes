@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Envelopes de Polietileno",1359414,20,10,ATIVO,CAIXA,1000,100
+"Fita de Isolamento Personalizada",1359415,27,2,ATIVO,CAIXA,1800,900
+"Toner Preto HP color laserjet pro mfp m177fw original",1359416,53,10,ATIVO,UNIDADE,2190,219
+"Toner Ciano HP color laserjet pro mfp m177fw original",1359417,54,8,ATIVO,UNIDADE,1752,219
+"Toner Magenta HP color laserjet pro mfp m177fw original",1359418,55,8,ATIVO,UNIDADE,1752,219
+"Toner Amarelo HP color laserjet pro mfp m177fw original",1359419,56,8,ATIVO,UNIDADE,1752,219
+"Toner Preto HP color laserjet pro mfp m180fw original",1359420,57,10,ATIVO,UNIDADE,2450,245
+"Toner Ciano HP color laserjet pro mfp m180fw original",1359421,58,8,ATIVO,UNIDADE,1960,245
+"Toner Magenta HP color laserjet pro mfp m180fw original",1359422,59,8,ATIVO,UNIDADE,1960,245
+"Toner Amarelo HP color laserjet pro mfp m180fw original",1359423,60,8,ATIVO,UNIDADE,1960,245
+"Toner HP laserjet pro mfp m 521 dn original",1359424,61,15,ATIVO,UNIDADE,7950,530
+"Toner HP laserjet m1132 e m1212 MFP original",1359425,62,10,ATIVO,UNIDADE,2040,204
+"Toner RICOH Aficio MP171 e MP201 original",1359426,63,15,ATIVO,UNIDADE,2925,195
+"Toner RICOH Aficio MP171 e MP201 compatível",1359427,74,15,ATIVO,UNIDADE,1079.85,71.99

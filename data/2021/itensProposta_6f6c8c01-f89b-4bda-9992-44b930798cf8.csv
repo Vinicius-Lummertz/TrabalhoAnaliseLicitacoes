@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",4983482,7500,NAO_COTOU,M2,0,0
+"ALVENARIA DE BLOCOS DE CONCRETO ESTRUTURAL 14X19X39 CM",4983484,2000,VENCEU,M2,6000,3
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",4983486,500,NAO_COTOU,M2,0,0
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",4983492,500,DESCLASSIFICADO_LANCE,M2,21500,43
+"Bloco de concreto modelo unistein/16 faces/onda, com 22 x 11 x 8 cm",4983726,500,VENCEU,M2,21250,42.5
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",4983727,4000,DESCLASSIFICADO_LANCE,m,89400,22.35
+"PEDRA PORTUGUESA COR BRANCA",4983743,200,NAO_COTOU,M2,0,0
+"PEDRA PORTUGUESA COR PRETA",4983748,200,NAO_COTOU,M2,0,0
+"Piso Podotátil De Concreto 40 x 40 x 2,5cm",4983749,1000,NAO_COTOU,UND,0,0

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria Estacionária 7Ah 12V",14940384,20,PERDEU,UND,2080,104
+"CABO DE REDE",14940389,5,PERDEU,CX,3755,751
+"Conector RJ45 Cat 5E",14940397,1000,PERDEU,UNI,3310,3.31
+"Conector RJ45 CAT 6",14940398,1000,PERDEU,UND,3780,3.78
+"Ponto de Acesso (Roteador Wireless)",14940427,5,PERDEU,UND,4475,895
+"Teclado sem fio",14940439,20,PERDEU,UND,4020,201
+"torre de som",14940440,1,PERDEU,UND,3800,3800

@@ -1,0 +1,25 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",6570387,4,2200000,ATIVO,COMPRIMIDO,67980,0.0309
+"Albendazol 400mg comprimido mastigável, em blister.",6570388,17,18000,ATIVO,COMPRIMIDO,6928.2,0.3849
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",6570389,18,30000,ATIVO,FRASCO,31347,1.0449
+"Amiodarona 200mg cpr, em blister.",6570390,23,200000,ATIVO,COMPRIMIDO,65980,0.3299
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",6570391,34,16000,ATIVO,FRASCO,99198.4,6.1999
+"Carbonato de cálcio 500+vitamina D 400 UI blister de no minimo 15cpr.",6570392,56,1000000,ATIVO,COMPRIMIDO,63900,0.0639
+"Clonazepam 2,5mg/mL , 20ml, FRASCO 20ml.",6570393,73,8000,ATIVO,FRASCO,14916,1.8645
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",6570394,90,24000,ATIVO,BISNAGA,33597.6,1.3999
+"Diclofenaco sódico 50mg cpr, em blister.",6570395,97,550000,ATIVO,COMPRIMIDO,26345,0.0479
+"Digoxina 0,25mg cpr, em blister.",6570396,98,150000,ATIVO,COMPRIMIDO,25305,0.1687
+"Doxiciclina 100mg cpr, em blister.",6570397,107,1000,ATIVO,COMPRIMIDO,482.9,0.4829
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",6570398,149,4000,ATIVO,FRASCO,7599.6,1.8999
+"Levofloxacino 500mg cpr, em blister.",6570399,162,3000,ATIVO,COMPRIMIDO,2351.7,0.7839
+"Losartana 50mg cpr revestido, em blister.",6570400,177,5500000,ATIVO,COMPRIMIDO,164450,0.0299
+"Metronidazol 200mg/5mL suspensão oral, frasco 80ml.",6570401,187,3000,ATIVO,FRASCO,18114,6.038
+"Metronidazol 250mg cpr, em blister.",6570402,188,400000,ATIVO,COMPRIMIDO,73560,0.1839
+"Metronidazol 500mg/5g geleia vaginal com, no mínimo, 7 aplicadores, bisnaga 50g.",6570403,189,6000,ATIVO,BISNAGA,29999.4,4.9999
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10 a 15gr.",6570404,198,20000,ATIVO,BISNAGA,37998,1.8999
+"Nifedipino 10mg cpr, em blister.",6570405,199,250000,ATIVO,COMPRIMIDO,23000,0.092
+"Nortriptilina 50 mg capsula, em blister.",6570406,205,2000,ATIVO,CAPSULA,874.8,0.4374
+"Sulfadiazina de prata 1% pomada, bisnaga 50gr.",6570407,232,8000,ATIVO,BISNAGA,45599.2,5.6999
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",6570408,234,250000,ATIVO,COMPRIMIDO,38500,0.154
+"Tiamina 300 mg cpr, em blister.",6570409,240,4000,ATIVO,COMPRIMIDO,832,0.208
+"Vitaminas do Complexo B cpr (B3 16mg, B5 5mg, B6 1,3mg, B2 1,3mg, B1 1,2mg, B12 2,4mcg/cpr), em blister.",6570410,248,600000,ATIVO,COMPRIMIDO,19800,0.033

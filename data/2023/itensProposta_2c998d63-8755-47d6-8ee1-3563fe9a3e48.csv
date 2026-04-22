@@ -1,0 +1,69 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amitriptilina , cloridrato 25mg cpr.",11967180,2500000,PERDEU,COMP,212500,0.085
+"Betametasona, diproprionato +  betametasona fosfato 1ml",11967195,22000,PERDEU,AMP,88000,4
+"Biperideno, cloridrato 2mg.",11967197,420000,VENCEU,CP,103320,0.246
+"Biperideno, cloridrato 5mg/mL 1ml",11967198,1000,VENCEU,AMP,2260,2.26
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml (embalagem esterilizada).",11967203,100,VENCEU,FR,2491,24.91
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml (embalagem esterilizada).",11967204,100,VENCEU,FR,2444,24.44
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",11967205,100,PERDEU,FR.,899,8.99
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml (embalagem esterilizada).",11967206,100,VENCEU,FR,1995,19.95
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,702000,0.39
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,195600,0.326
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica, frasco 5ml.",11967222,30,VENCEU,FR.,276.9,9.23
+"Clonazepam 2,5mg/mL 20ml",11967228,6000,PERDEU,FR.,59400,9.9
+"Clonazepam 2mg cpr.",11967229,3000000,VENCEU,COMP,390000,0.13
+"Clorpromazina, cloridrato 40mg/mL solução oral, frasco de vidro âmbar 20ml",11967243,1000,VENCEU,FR,6980,6.98
+"Clorpromazina, cloridrato 5mg/mL, injetável, ampola 5ml.",11967244,300,PERDEU,AMP,690,2.3
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",11967245,3000,VENCEU,BIS,36000,12
+"Diazepam 10mg cpr.",11967249,1000000,VENCEU,COMP,90000,0.09
+"Diazepam 5mg cpr.",11967250,120000,VENCEU,COMP,8040,0.067
+"Diazepam 5mg/ml solução injetavel 2ml",11967251,4000,PERDEU,AMP,6960,1.74
+"Dopamina 5mg/ml, injetável, ampola 10ml.",11967261,400,VENCEU,AMP,1148,2.87
+"Etomidato 2mg/ml, injetável, ampola 10ml.",11967273,1000,VENCEU,AMP,9820,9.82
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,64800,0.162
+"Fenitoina 50mg/mL, injetável, ampola 5ml.",11967275,1000,PERDEU,AMP,2190,2.19
+"Fenobarbital 100mg cpr, em blister.",11967276,420000,PERDEU,COMP,58800,0.14
+"Fenobarbital 100mg/mL, injetável, ampola 2ml.",11967277,800,VENCEU,AMP,1864,2.33
+"Fenobarbital 40mg/mL - solução oral- 20ml, frasco de vidro âmbar.",11967278,4000,VENCEU,FR,16000,4
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",11967279,1500,PERDEU,AMP,6000,4
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",11967280,2000,PERDEU,AM,7020,3.51
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",11967282,300,PERDEU,AMP,1224,4.08
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",11967284,500,PERDEU,AMP,2940,5.88
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,1600000,0.8
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",11967287,4000,PERDEU,FR,23640,5.91
+"Haloperidol 1mg cpr.",11967295,120000,VENCEU,COMP,19200,0.16
+"Haloperidol 5mg cpr.",11967296,200000,VENCEU,COMP,35200,0.176
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",11967297,3000,PERDEU,AMP,5670,1.89
+"Haloperidol, decanoato 70,52mg/mL 1ml",11967298,10000,PERDEU,AMP,68500,6.85
+"Haloperidol, 2mg/ml solução oral 20ml, frasco.",11967299,600,PERDEU,FR.,1920,3.2
+"Heparina 5000 UI/0,25mL injetável, ampola.",11967300,12000,VENCEU,AMP,71640,5.97
+"Imipramina 25mg cpr .",11967308,650000,VENCEU,COMP,285935,0.4399
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",11967320,8000,VENCEU,COMP,4320,0.54
+"Levomepromazina, maleato 100mg cpr.",11967322,250000,VENCEU,COMP,165000,0.66
+"Lidocaina 2% + epinefrina 1:200.000 20ml, frasco de vidro.",11967330,3000,PERDEU,FR/AM,18210,6.07
+"Lidocaína 2% gel, bisnaga 30g.",11967331,10000,PERDEU,BIS,64000,6.4
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",11967332,4000,PERDEU,FR/AM,23200,5.8
+"Lidocaina, cloridrato 100mg/mL spray aerossol c/ 100 ml.",11967333,300,VENCEU,FR.,11508,38.36
+"Metoprolol, tartarato 1mg/ml, injetável, ampola 5ml.",11967345,100,VENCEU,AMP,1775,17.75
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",11967351,2000,PERDEU,AMP,4840,2.42
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",11967352,1000,PERDEU,AM,5520,5.52
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,VENCEU,AMP,13440,1.68
+"Morfina 30 mg cpr, em blister.",11967355,60000,VENCEU,COMP,80400,1.34
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",11967356,500,VENCEU,AMP,2625,5.25
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,60000,5
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,1980,9.9
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,VENCEU,AMP,6680,1.67
+"Prednisona 20mg cpr.",11967377,600000,PERDEU,COMP,168000,0.28
+"Prednisona 5mg cpr.",11967378,350000,PERDEU,COMP,63000,0.18
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,3800,1.9
+"Prometazina, cloridrato 25mg cpr, em blister.",11967380,450000,VENCEU,COMP,52650,0.117
+"Risperidona 1mg cpr, em blister.",11967382,480000,VENCEU,COMP,37920,0.079
+"Risperidona 2mg cpr, em blister.",11967383,600000,VENCEU,COMP,52800,0.088
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",11967384,1000,VENCEU,FR.,5900,5.9
+"rocurônio, brometo 10mg/ml, ampola 5ml.",11967385,200,VENCEU,"FR+A",2010,10.05
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,34200,57
+"sulfadiazina de prata 1% pomada, bisnaga",11967394,6000,PERDEU,BIS,68700,11.45
+"Tenoxicam 20 mg pó, para suspensão injetável endovenoso ou i",11967400,1000,PERDEU,FR/AM,6950,6.95
+"Tramadol, cloridrato 50mg capsula, em blister.",11967405,1200000,PERDEU,COMP,972000,0.81
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",11967406,2000,VENCEU,AMP,3600,1.8
+"Tropicamida 1% solução oftalmica, frasco 5ml.",11967407,50,PERDEU,FR.,759.5,15.19

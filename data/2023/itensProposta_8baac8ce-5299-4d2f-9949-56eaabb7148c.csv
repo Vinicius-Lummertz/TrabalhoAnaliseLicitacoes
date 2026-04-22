@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base de brita graduada - incluso frete",12494954,85000,PERDEU,TON,2890000,34
+"Pó de pedra - incluso frete",12494955,30000,VENCEU,TON,1395000,46.5
+"Macadame (ou brita nº 04) - incluso frete",12494956,22000,PERDEU,TON,1144000,52
+"Pedrisco (ou brita nº 00) - incluso frete",12494957,12000,PERDEU,TON,510000,42.5
+"Brita 3/4 (brita nº 01) - incluso frete",12494958,13000,VENCEU,TON,585000,45
+"Rachão (ou brita nº 05) - incluso frete",12494959,6000,PERDEU,TON,255000,42.5

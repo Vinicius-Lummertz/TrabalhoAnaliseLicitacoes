@@ -1,0 +1,41 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"DOCE DE BANANA",1,750,"Não analisado",PT,0,0
+"FARINHA DE MANDIOCA",2,1000,"Não analisado",KG,0,0
+"FARINHA DE MILHO",3,400,"Não analisado",KG,0,0
+LEITE,4,20314,"Não analisado",LIT,80849.72,3.98
+"QUEIJO PRATO",5,1100,"Não analisado",KG,43186,39.26
+"SUCO NATURAL",6,7000,"Não analisado",UNI,136710,19.53
+ABACAXI,7,700,"Não analisado",UNI,0,0
+"ABOBORA TRONCO",8,400,"Não analisado",KG,0,0
+aipim,9,1500,"Não analisado",KG,0,0
+"ALFACE CRESPA .",10,2500,"Não analisado",UNI,0,0
+"ALHO IN NATURA",11,300,"Não analisado",KG,8715,29.05
+ARROZ,12,9000,"Não analisado",KG,0,0
+"BANANA BRANCA",13,7000,"Não analisado",KG,24710,3.53
+"BATATA DOCE",14,800,"Não analisado",KG,0,0
+"BATATA INGLESA",15,3500,"Não analisado",KG,0,0
+BETERRABA,16,1000,"Não analisado",KG,0,0
+Brocolis,17,800,"Não analisado",UNI,0,0
+"CEBOLA DE CABEÇA",18,2500,"Não analisado",KG,0,0
+CENOURA,19,1200,"Não analisado",KG,0,0
+Chuchu,20,600,"Não analisado",KG,0,0
+"COUVE FLOR",21,600,"Não analisado",UNI,0,0
+"Couve folha",22,1400,"Não analisado",MLHO,0,0
+ESPINAFRE,23,600,"Não analisado",MLHO,0,0
+"FEIJÃO PRETO",24,5300,"Não analisado",KG,0,0
+iogurte,25,12000,"Não analisado",LIT,45000,3.75
+LARANJA,26,8000,"Não analisado",KG,26320,3.29
+MAÇÃ,27,8000,"Não analisado",KG,45520,5.69
+MAMÃO,28,1700,"Não analisado",KG,8942,5.26
+Melancia,29,4000,"Não analisado",KG,11800,2.95
+MELÃO,30,1700,"Não analisado",KG,7701,4.53
+"MORANGA KABOTIÁ",31,1700,"Não analisado",KG,0,0
+"OVOS  DE GALINHA",32,3200,"Não analisado",DZ,0,0
+PIMENTÃO,33,1000,"Não analisado",KG,0,0
+REPOLHO,34,1200,"Não analisado",UNI,0,0
+"TEMPERO VERDE",35,2200,"Não analisado",MLHO,0,0
+TOMATE,36,3400,"Não analisado",KG,0,0
+LIMÃO,37,350,"Não analisado",KG,0,0
+"MILHO VERDE  - in natura",38,800,"Não analisado",KG,0,0
+PEPINO,39,1200,"Não analisado",KG,0,0
+"MARACUJÁ AZEDO",40,400,"Não analisado",KG,4012,10.03

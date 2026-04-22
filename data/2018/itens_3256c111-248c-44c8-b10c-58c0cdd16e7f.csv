@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pilha AA",1300135,65,40,ATIVO,UNIDADE,189.6,4.74
+"Servidor de Rádio On Line",1308319,69,2,ATIVO,UNIDADE,14162,7081
+"Cabo VGA 10 Metros",1310323,4,2,ATIVO,UNIDADE,82,41
+"Cabo HDMI 20 Metros",1314483,1,2,ATIVO,UNIDADE,270,135

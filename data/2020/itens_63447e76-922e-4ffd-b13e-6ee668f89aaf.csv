@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anestésico injetável - Xilazina 2%",1266658,7,20,ATIVO,FRASCO,323,16.15
+"Vacina antirrábica para cães e gatos",1266662,4,300,ATIVO,UNIDADE,2220,7.4
+"Sedativo injetável - Acepromazina 0,2%",1266663,5,10,ATIVO,FRASCO,152,15.2
+"Focinheiras nº  3, 4 e 5",1266664,9,15,ATIVO,UNIDADE,115.5,7.7
+"Lanterna luz negra",1266665,10,20,ATIVO,UNIDADE,920,46
+"Bacias mini",1266666,11,100,ATIVO,UNIDADE,320,3.2
+"Escova de limpeza para cantos",1266667,12,100,ATIVO,UNIDADE,310,3.1
+"Focinheiras nº 0, 1, 2",1266668,8,15,ATIVO,UNIDADE,75,5
+"Anestésico injetável - Cetamina 10%",1266669,6,20,ATIVO,FRASCO,392,19.6

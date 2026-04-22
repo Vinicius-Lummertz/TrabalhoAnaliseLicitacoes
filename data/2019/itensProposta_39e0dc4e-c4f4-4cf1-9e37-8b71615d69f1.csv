@@ -1,0 +1,74 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PLACA DE OBRA PADRÃO PMC",0,100,DESCLASSIFICADO," ",20590,205.9
+"Tapume provisório de madeira de 2,00m de altura",0,1000,DESCLASSIFICADO," ",55000,55
+"Fornecimento e colocação de lona plastica 150 micra",0,3000,DESCLASSIFICADO," ",15000,5
+"Demolição de telhamento de fibrocimento",0,9000,DESCLASSIFICADO," ",26100,2.9
+"Demolição de telhamento de telha cerâmica",0,10000,DESCLASSIFICADO," ",29000,2.9
+"Demolição de forro de beiral",0,2700,DESCLASSIFICADO," ",10800,4
+"Demolição de forro interno sem reaproveitamento, inclusive t",0,6000,DESCLASSIFICADO," ",24000,4
+"Demolição de estrutura de madeira telhado",0,17000,DESCLASSIFICADO," ",102000,6
+"Carga, transporte e destino final de entulho",0,1700,DESCLASSIFICADO," ",81600,48
+"Retirada de calha de alumínio de beiral para aproveitamento",0,3000,DESCLASSIFICADO," ",60000,20
+"Estrut telhado em madeira de eucalipto p/ telha fibrocimento",0,5500,DESCLASSIFICADO," ",330000,60
+"Estrutura  telhado em madeira de eucalipto p/ telha cerâmica",0,4000,DESCLASSIFICADO," ",280000,70
+"Estrutura  telhado em madeira de eucalipto p/ telha de PVC",0,6600,DESCLASSIFICADO," ",382800,58
+"Telhamento com telha de fibrocimento ondulada de 6mm com ace",0,4500,DESCLASSIFICADO," ",157500,35
+"Limpeza de telha de fibrocimento com bomba lavajato de alta",0,1200,DESCLASSIFICADO," ",2280,1.9
+"Retelhamento de telha de fibrocimento reaproveitada com aces",0,1200,DESCLASSIFICADO," ",10800,9
+"Telhamento com telha cerâmica colonial, com encaixe",0,4200,DESCLASSIFICADO," ",176400,42
+"Telhamento com telha de PVC tipo colonial epessura 2.0mm na",0,6600,DESCLASSIFICADO," ",396000,60
+"Cumeeira de fibrocimento ondulada de 6mm",0,1050,DESCLASSIFICADO," ",47250,45
+"Recolocação de cumeeira de fibrocimento reaproveitada",0,220,DESCLASSIFICADO," ",3300,15
+"Espigão de fibrocimento de 6mm, com vedação com manta asfalt",0,350,DESCLASSIFICADO," ",17500,50
+"Cumeeira e beiral de telha cerâmica argamassada tipo colonia",0,200,DESCLASSIFICADO," ",11000,55
+"Calha de alumínio de encontro de telhado corte 50cm",0,300,DESCLASSIFICADO," ",18000,60
+"Calha de alumínio de beiral",0,1100,DESCLASSIFICADO," ",49500,45
+"Recolocação de calha de alumínio de beiral",0,3240,DESCLASSIFICADO," ",64800,20
+"Tubo de queda pluvial em PVC 75mm- fixação com braçadeiras p",0,700,DESCLASSIFICADO," ",10500,15
+"Joelho de PVC leve de 75mm x 45°",0,600,DESCLASSIFICADO," ",12000,20
+"Joelho de PVC leve de 75mm x 90°",0,200,DESCLASSIFICADO," ",4000,20
+"Espelho de madeira de lei de 18x2cm, com ranhura para encaix",0,3300,DESCLASSIFICADO," ",89100,27
+"Tacação de pinus tratado para forro de PVC cada 40cm",0,8000,DESCLASSIFICADO," ",256000,32
+"Forro PVC",0,6500,DESCLASSIFICADO," ",370500,57
+"Pintura esmalte sintético sobre madeira 3 demãos incluindo f",0,1000,DESCLASSIFICADO," ",25000,25
+"Retirada de luminárias",0,1700,DESCLASSIFICADO," ",2040,1.2
+"Retirada de interruptores e tomadas embutidas",0,900,DESCLASSIFICADO," ",540,0.6
+"Retirada de fiação elétrica",0,25000,DESCLASSIFICADO," ",15000,0.6
+"Cabo unipolar isolado 0,75V de 1.5mm²",0,14000,DESCLASSIFICADO," ",32200,2.3
+"Cabo unipolar isolado 0,75V de 2.5mm²",0,50000,DESCLASSIFICADO," ",150000,3
+"Cabo unipolar isolado 0,75V de 4.0mm²",0,4200,DESCLASSIFICADO," ",21000,5
+"Cabo unipolar isolado 0,75V de 6.0mm²",0,2000,DESCLASSIFICADO," ",14000,7
+"Cabo unipolar isolado 0,75V de 10.0mm²",0,2600,DESCLASSIFICADO," ",29380,11.3
+"Interruptor simples 1 tecla de embutir com placa",0,200,DESCLASSIFICADO," ",5600,28
+"Interruptor simples 2 teclas de embutir com placa",0,50,DESCLASSIFICADO," ",2250,45
+"Interruptor simples 3 teclas de embutir com placa",0,30,DESCLASSIFICADO," ",1860,62
+"Tomada de embutir 2P+T - 10A - hexagonal com placa",0,600,DESCLASSIFICADO," ",27000,45
+"Luminária de sobrepor para 2 lampadas tubular LED de 2 x 20W",0,1000,DESCLASSIFICADO," ",210000,210
+"Reposição de luminária de sobrepor, reaproveitada",0,500,DESCLASSIFICADO," ",24500,49
+"Luminária de sobrepor tipo plafon de PVC com soquete de porc",0,200,DESCLASSIFICADO," ",12400,62
+"Eletroduto de PVC cinza soldável de 3/4",0,600,DESCLASSIFICADO," ",3780,6.3
+"Condulete de PVC tipo C de 3/4 com tomada hexagonal 2P+T co",0,200,DESCLASSIFICADO," ",13000,65
+"Abraçadeira de PVC cinza de 3/4 para eletroduto, com bucha",0,200,DESCLASSIFICADO," ",600,3
+"Adaptador de PVC cinza para eletroduto de 3/4 e condulete",0,200,DESCLASSIFICADO," ",100,0.5
+"Disjuntor tripolar termomagnético DIN 50A",0,20,DESCLASSIFICADO," ",2600,130
+"Disjuntor tripolar termomagnético DIN 60A",0,20,DESCLASSIFICADO," ",3600,180
+"Disjuntor tripolar termomagnético DIN 70A",0,10,DESCLASSIFICADO," ",1800,180
+"Disjuntor tripolar termomagnético DIN 100A",0,10,DESCLASSIFICADO," ",1800,180
+"Disjuntor unipolar termomagnético DIN 10A",0,250,DESCLASSIFICADO," ",4000,16
+"Disjuntor unipolar termomagnético DIN 16A",0,200,DESCLASSIFICADO," ",3400,17
+"Disjuntor unipolar termomagnético DIN 20A",0,250,DESCLASSIFICADO," ",4500,18
+"Disjuntor unipolar termomagnético DIN 25A",0,250,DESCLASSIFICADO," ",4500,18
+"Disjuntor unipolar termomagnético DIN 32A",0,50,DESCLASSIFICADO," ",950,19
+"Dispositivo DR, 4 polos, sensibilidade 30MA, corrente de 63A",0,40,DESCLASSIFICADO," ",6400,160
+"Dispositivo DR, 4 polos, sensibilidade 30MA, corrente de 80A",0,20,DESCLASSIFICADO," ",6200,310
+"Dispositivo DPS classe II, 1 polo, tensão máxima de 275V",0,80,DESCLASSIFICADO," ",7920,99
+"Eletroduto corrugado de PVC de 3/4",0,4000,DESCLASSIFICADO," ",26400,6.6
+"Eletroduto corrugado de PVC de 1",0,1200,DESCLASSIFICADO," ",10800,9
+"Centro de distribuição de PVC com barramento trifásico para",0,10,DESCLASSIFICADO," ",5600,560
+"Centro de distribuição de PVC trifásico para 24 disjuntores",0,10,DESCLASSIFICADO," ",6500,650
+"Centro de distribuição de PVC trifásico para 32 disjuntores",0,10,DESCLASSIFICADO," ",10000,1000
+"Centro de distribuição de PVC trifásico para 40 disjuntores",0,10,DESCLASSIFICADO," ",12000,1200
+"Luminária de emergência, bloco autônomo de 30LEDs",0,350,DESCLASSIFICADO," ",21700,62
+"Placa de sinalização de saída, bloco autônomo, com LEDs",0,180,DESCLASSIFICADO," ",16560,92
+"Placa de sinalização de segurança contra incêndio",0,600,DESCLASSIFICADO," ",8400,14
+"Limpeza final da obra",0,15400,DESCLASSIFICADO," ",30800,2

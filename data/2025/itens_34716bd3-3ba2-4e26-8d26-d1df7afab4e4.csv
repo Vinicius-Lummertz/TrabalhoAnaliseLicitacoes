@@ -1,0 +1,22 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Estruturas metálicas para arquibancada",7693278,1,4000,ATIVO,"Metro linear dia",324080,81.02
+Barricada.,7693279,2,1500,ATIVO,"Metro linear dia",101265,67.51
+"Estandes com Montagens Básicas",7693280,3,10000,ATIVO,"METRO QUADRADO DIA",236300,23.63
+"Estande Especial para Eventos",7693281,4,5000,ATIVO,"METRO QUADRADO DIA",253150,50.63
+"Estande Construído para Eventos",7693282,5,2000,ATIVO,"METRO QUADRADO DIA",162040,81.02
+"Camarim para Eventos",7693283,6,800,ATIVO,UNIDADE/DIA,46080,57.6
+"Separador de Fila, Organizador de Fila",7693284,7,1500,ATIVO,"METRO QUADRADO DIA",60765,40.51
+CARPETE,7693285,8,11000,ATIVO,"METRO QUADRADO DIA",111320,10.12
+"Banqueta em madeira maciça",7693286,9,2200,ATIVO,UNIDADE/DIA,19800,9
+"Cadeira em Polipropileno na cor branca",7693287,10,10000,ATIVO,UNIDADE/DIA,45000,4.5
+"Cadeira fixa estofada",7693288,11,500,ATIVO,UNIDADE/DIA,1850,3.7
+"FOGAO INDUSTRIAL",7693289,12,50,ATIVO,UNIDADE/DIA,11280,225.6
+"Freezer horizontal 300 litros",7693290,13,50,ATIVO,UNIDADE/DIA,13510,270.2
+"Geladeira vertical",7693291,14,50,ATIVO,UNIDADE/DIA,7520,150.4
+"Mesa bistrô",7693292,15,1100,ATIVO,UNIDADE/DIA,24750,22.5
+"Mesa em Polipropileno, na cor branca",7693293,16,2500,ATIVO,UNIDADE/DIA,15000,6
+"Mesa redonda com tampo de vidro",7693294,17,100,ATIVO,UNIDADE/DIA,2250,22.5
+"Puff estofado de 1 lugar",7693295,18,100,ATIVO,UNIDADE/DIA,1500,15
+"SOFÁ 2 LUGARES",7693296,19,100,ATIVO,UNIDADE/DIA,11280,112.8
+"SOFA 1 LUGAR ESTOFADO",7693297,20,100,ATIVO,UNIDADE/DIA,7520,75.2
+"Vasos decorativos com plantas naturais",7693298,21,200,ATIVO,UNIDADE/DIA,16540,82.7

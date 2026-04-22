@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"caneta para ECG EP3 - HI - TEC, marca DIXTAL",3312394,31,30,ATIVO,UNIDADE,1193.4,39.78
+"Equipo tipo Macrogotas para solução parental 20 gotas/ml",3312395,80,30000,ATIVO,UNIDADE,57000,1.9
+"Lanceta do paciente - refil (para uso em lancetador)",3312396,126,300000,ATIVO,UNIDADE,21000,0.07

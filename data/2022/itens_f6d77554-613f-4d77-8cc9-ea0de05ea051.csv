@@ -1,0 +1,26 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Antibacteriano amoxicilina + clavulonato de potássio; composição:250 mg cada 100g deverá conter 22,85g de amoxicilina trihidratada + 6g clavulanato de potássio; uso veterinário.",3710097,3,200,ATIVO,COMPRIMIDO,1658,8.29
+"Antibacteriano doxiciclina 200mg; uso veterinário",3710098,4,120,ATIVO,COMPRIMIDO,374.4,3.12
+"Antibacteriano cefalexina 300 mg; uso veterinário.",3710099,6,210,ATIVO,COMPRIMIDO,619.5,2.95
+"Antibacteriano sulfadiazina + trimetoprim; uso veterinário; composição: cada comprimido deverá conter 500 mg sulfametoxazol + 100 mg trimetoprima; uso veterinário",3710100,7,200,ATIVO,COMPRIMIDO,394,1.97
+"Spray antisséptico, cicatrizante, repelente e ectoparasiticida; composição: 0,1g sulfadiazina Prata 0,1g + 0,4g cipermetrina + 5g alumínio + 1,6 g DDVP 1,6g;  uso veterinário",3710101,16,20,ATIVO,FRASCO,344.8,17.24
+"Inibidor de secreção ácido-gástrica omeprazol 10 mg; uso veterinário.",3710102,20,30,ATIVO,COMPRIMIDO,81.6,2.72
+"Inibidor de secreção ácido-gástrica omeprazol 20 mg; uso veterinário.",3710103,21,30,ATIVO,COMPRIMIDO,83.1,2.77
+"Anestésico local cloridrato de lidocaína 2%; injetável (via subcutâna); uso veterinário",3710104,22,20,ATIVO,FRASCO,332.2,16.61
+"Soro hiperimune para cães; composição: imunoglobulinas contra o vírus da cinomose, parainfluenza, adenovirose, hepatite, coronavirose e parvovirose caninas + 1 ml água destilada; injetável (via intramuscular e subcutânea); uso veterinário",3710105,24,10,ATIVO,FRASCO,530,53
+"Sedativo acepromazina 10 mg/ml; via oral (gotas); uso veterinário",3710106,25,10,ATIVO,FRASCO,269.6,26.96
+"Analgésico cloridrato de tramadol 12 mg; uso veterinário",3710107,31,25,ATIVO,COMPRIMIDO,171.75,6.87
+"Analgésico cloridrato de tramadol 40 mg; uso veterinário",3710108,32,25,ATIVO,COMPRIMIDO,256.5,10.26
+"Larvicida, cicatrizante  e repelente a base de permetrina e óxido de zinco; composição: 3,5 g butóxido de piperonila + 0,5 g permetrina + 20 g óxido de zinco; uso veterinário",3710109,33,10,ATIVO,POTE,366.8,36.68
+"Solução dermatológica para limpeza de feridas; composição: 1,25 mg lauril dietileno glicol  e éter sulfato de sódio (28%); uso veterinário.",3710110,34,5,ATIVO,FRASCO,177.65,35.53
+"Anti-inflamatório esteroidal prednisolona 5 mg; uso veterinário.",3710111,35,25,ATIVO,COMPRIMIDO,54.75,2.19
+"Anti-inflamatório esteroidal prednisolona 20 mg; uso veterinário",3710112,36,25,ATIVO,COMPRIMIDO,118.5,4.74
+"Anti-inflamatório não esteroidal, analgésico e antipirético dipirona 500 mg/ml;  via oral; uso veterinário",3710113,37,15,ATIVO,FRASCO,256.95,17.13
+"Antigalactogênico metergolina 2 mg; uso veterinário. Apresentar registro no Ministério da Agricultura",3710114,38,10,ATIVO,COMPRIMIDO,66.5,6.65
+"Antiemético metoclopramida 4 mg/ml; solução oral; uso veterinário",3710115,39,20,ATIVO,FRASCO,329.4,16.47
+"Solução otológica para cães e gatos; composição: 0,33 g cloridrato de ciprofloxacina + 1 g cetoconazol + 0,02 g acetonido de fluocinolona +  2 g  cloridrato de lidocaína; uso veterinário",3710116,41,5,ATIVO,FRASCO,449.8,89.96
+"Anticolinérgico sulfato de atropina 1%;  injetável (via intramuscular, endovenosa e subcutânea); uso veterinário.",3710117,42,5,ATIVO,FRASCO,68.3,13.66
+"Xarope expectorante e fluidificante; solução oral; composição:   0,3 g di-ter butil naftaleno sulfonato de sódio + 20 ml xarope de grindélia + 20 ml xarope de bálsamo de tolú + 30 ml xarope de alcatrão; uso veterinário.",3710118,43,10,ATIVO,FRASCO,380.8,38.08
+"Endectoparasiticida ivermectina 6 mg;",3710119,45,90,ATIVO,COMPRIMIDO,432.9,4.81
+"Antitóxico, hepatoprotetor e tônico; composição: 7 g acetilmetionina + 4 g colina (cloreto) + 0,05 g riboflavina (fosfato) + 0,5 g lisina (cloridrato) + 0,25 g piridoxina + 1 g nicotinamida; uso veterinário",3710120,47,20,ATIVO,FRASCO,189.8,9.49
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose;  uso veterinário",3710121,48,25,ATIVO,kit,749.75,29.99

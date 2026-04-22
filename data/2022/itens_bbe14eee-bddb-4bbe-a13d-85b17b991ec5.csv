@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Motoniveladora New Holland RG170B",3714003,10,1,ATIVO,UNIDADE,140000,14.5
+"Escavadeira Doosan DX225LC",3714005,27,1,ATIVO,UNIDADE,150000,14.4
+MANGUEIRAS,3714006,32,1,ATIVO,UNIDADE,201000,14.4

@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa 1ml, sem agulha",6894121,200000,PERDEU,UN,52000,0.26
+"Seringa 1ml, SEM agulha e SEM ESPAÇO RESIDUAL (espaço morto)",6894122,200000,PERDEU,UN,74000,0.37
+"Seringa 3ml, sem agulha",6894123,300000,PERDEU,UN,78000,0.26

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria Acer Aspire A515-51",5997510,3,2,ATIVO,UNIDADE,394.74,197.37
+"Bateria Itautec Infoway Note N8755",5997511,9,3,ATIVO,UNIDADE,592.11,197.37
+"Microfone Headset sem Fio",5997512,32,4,ATIVO,UNIDADE,1084.32,271.08
+"SSD 480 GB",5997513,54,5,ATIVO,UNIDADE,997.5,199.5
+"Teclado para Notebook Itautec Infoway Note N8755",5997514,60,2,ATIVO,UNIDADE,172.66,86.33

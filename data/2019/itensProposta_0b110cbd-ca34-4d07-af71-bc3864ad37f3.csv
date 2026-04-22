@@ -1,0 +1,109 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4440891,130000,DESCLASSIFICADO,COMP,32110,0.247
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4440892,12000,DESCLASSIFICADO,BIS,29880,2.49
+"Ácido Acetilsalicilico 100mg cpr, em blister.",4440893,2000000,DESCLASSIFICADO,COMP,42000,0.021
+"Ácido fólico 5mg cpr, em blister.",4440895,500000,DESCLASSIFICADO,COMP,24000,0.048
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",4440896,5000,DESCLASSIFICADO,FR.,29750,5.95
+"Ácido Valproico 250mg capsula.",4440898,320000,DESCLASSIFICADO,CPLA,68800,0.215
+"Ácido Valproico 500mg cpr.",4440899,450000,DESCLASSIFICADO,COMP,202050,0.449
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",4440900,11000,DESCLASSIFICADO,FR.,36850,3.35
+"Água destilada 10mL ampola.",4440904,18000,DESCLASSIFICADO,AMP,2970,0.165
+"Albendazol 400mg comprimido mastigável, em blister.",4440906,15000,PERDEU,COMP,5400,0.36
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",4440907,25000,PERDEU,FR.,27250,1.09
+"Alendronato de sódio 70mg, blister com 4cpr.",4440908,10000,PERDEU,COMP,1990,0.199
+"Alopurinol 100mg cpr, em blister.",4440909,600000,DESCLASSIFICADO,COMP,54000,0.09
+"Amiodarona 200mg cpr, em blister.",4440912,220000,PERDEU,COMP,125400,0.57
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral",4440915,20000,PERDEU,FR.,73800,3.69
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL,  acompanha c",4440916,10000,DESCLASSIFICADO,FR.,179900,17.99
+"Amoxicilina 500mg.",4440917,420000,VENCEU,CPLA,121800,0.29
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",4440918,450000,DESCLASSIFICADO,COMP,450000,1
+"Ampicilina 500mg, capsula, em blister.",4440919,5000,DESCLASSIFICADO,CPLA,1995,0.399
+"Anlodipino, besilato 5mg cpr, em blister.",4440920,1800000,DESCLASSIFICADO,COMP,57600,0.032
+"Atenolol 50mg cpr, em blister.",4440921,1500000,PERDEU,COMP,60000,0.04
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral",4440923,12000,PERDEU,FR.,60000,5
+"Azitromicina 500mg  blister com 01 comprimido",4440924,100000,CANCELADO,COMP,68800,0.688
+"Beclometasona 250mcg/mL - 200 doses aerossol oral 10ml.",4440926,6000,PERDEU,FR.,144000,24
+"Beclometasona 50mcg spray nasal com 200 doses, frasco 11,4ml",4440928,5000,PERDEU,FR.,123900,24.78
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",4440929,10000,DESCLASSIFICADO,FR/AM,107000,10.7
+"Benzilpenicilina Benzatina 600.000 UI.",4440930,300,DESCLASSIFICADO,FR/AM,2805,9.35
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",4440937,15000,DESCLASSIFICADO,AMP,21000,1.4
+"Captopril 25mg cpr, em blister.",4440943,1500000,DESCLASSIFICADO,COMP,39000,0.026
+"Carbamazepina 200mg cpr.",4440944,1600000,DESCLASSIFICADO,COMP,236800,0.148
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",4440945,3000,PERDEU,FR.,29700,9.9
+"Carbonato de lítio 300mg cpr, em blister.",4440948,350000,DESCLASSIFICADO,COMP,122500,0.35
+"Carvedilol 12,5 mg cpr, em blister.",4440950,75000,DESCLASSIFICADO,COMP,12600,0.168
+"Carvedilol 3,125 mg cpr, em blister.",4440952,10000,DESCLASSIFICADO,COMP,1680,0.168
+"Carvedilol 6,25 mg cpr, em blister.",4440953,45000,DESCLASSIFICADO,COMP,7560,0.168
+"Cefalexina 500mg, capsula ou comprimido, em blister.",4440954,350000,PERDEU,CAP/C,112000,0.32
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconsti",4440956,10000,PERDEU,FR.,64800,6.48
+"Cinarizina 75mg cpr, em blister.",4440959,250000,PERDEU,COMP,30000,0.12
+"Ciprofloxacino 500mg cpr.",4440960,250000,VENCEU,COMP,87500,0.35
+"Clopidogrel 75mg comprimido revestido, em blister.",4440968,180000,DESCLASSIFICADO,COMP,68400,0.38
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",4440971,4000,DESCLASSIFICADO,FR.,3320,0.83
+"Dexametasona 0,1% creme, bsinaga 10g.",4440979,30000,DESCLASSIFICADO,BIS,40200,1.34
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola",4440980,24000,DESCLASSIFICADO,AMP,18000,0.75
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",4440984,25000,DESCLASSIFICADO,AMP,16750,0.67
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4440989,16000,DESCLASSIFICADO,FR.,14720,0.92
+"Dipirona 500mg cpr, em blister.",4440990,1200000,DESCLASSIFICADO,COMP,102000,0.085
+"Dipirona 500mg/ml, injetável, ampola 2ml.",4440991,30000,DESCLASSIFICADO,AMP,16200,0.54
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",4440992,18000,DESCLASSIFICADO,FR.,17100,0.95
+"Enalapril, maleato 10mg cpr, em blister.",4440996,2000000,PERDEU,COMP,58000,0.029
+"Enalapril, maleato 20mg cpr, em blister.",4440997,1000000,DESCLASSIFICADO,COMP,47000,0.047
+"Espironolactona 25mg cpr, em blister.",4441003,720000,DESCLASSIFICADO,COMP,121680,0.169
+"Fenitoina 100mg cpr, em blister.",4441007,300000,VENCEU,COMP,37500,0.125
+"Fluoxetina, cloridrato 20mg capsula, em blister.",4441019,2000000,DESCLASSIFICADO,CPLA,154000,0.077
+"Fosfato de sódio monobásico+ Fosfato de Sódio dibásico 16 g",4441020,1500,PERDEU,FR.,7035,4.69
+"Furosemida 10mg/mL injetável, ampola 2ml.",4441021,14000,DESCLASSIFICADO,AMP,7560,0.54
+"Furosemida 40mg cpr, em blister.",4441022,680000,DESCLASSIFICADO,COMP,26520,0.039
+"Glibenclamida 5mg cpr, em blister.",4441023,1500000,PERDEU,COMP,30000,0.02
+"Hidroclorotiazida 25mg cpr, em blister.",4441034,2300000,DESCLASSIFICADO,COMP,43700,0.019
+"Hidrocortisona 100mg pó para suspensão injetável.",4441035,3000,DESCLASSIFICADO,FR/AM,9450,3.15
+"Hidrocortisona 500mg pó para suspensão injetável.",4441036,4000,DESCLASSIFICADO,FR/AM,23600,5.9
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",4441037,12000,DESCLASSIFICADO,FR.,25800,2.15
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",4441039,18000,DESCLASSIFICADO,FR.,21240,1.18
+"Ibuprofeno 600mg comprimido revestido.",4441040,1300000,VENCEU,COMP,377000,0.29
+"Isossorbida, mononitrato 20mg cpr, em blister.",4441045,500000,PERDEU,COMP,49000,0.098
+"Isossorbida, mononitrato 40mg cpr, em blister.",4441046,360000,PERDEU,COMP,61200,0.17
+"Levofloxacino 500mg cpr, em blister.",4441054,6000,DESCLASSIFICADO,COMP,3840,0.64
+"Levomepromazina, maleato 100mg cpr.",4441055,250000,DESCLASSIFICADO,COMP,196250,0.785
+"Levomepromazina, maleato 25mg cpr.",4441056,180000,PERDEU,COMP,71820,0.399
+"Levotiroxina sódica 100mcg cpr, em blister.",4441059,200000,DESCLASSIFICADO,COMP,19000,0.095
+"Levotiroxina sódica 25mcg cpr, em blister.",4441060,300000,DESCLASSIFICADO,COMP,28500,0.095
+"Levotiroxina sódica 50 mcg cpr, em blister.",4441061,300000,DESCLASSIFICADO,COMP,28500,0.095
+"Lidocaína 2% gel, bisnaga 30g.",4441063,9000,DESCLASSIFICADO,BIS,28260,3.14
+"Loratadina 1mg/mL xarope, frasco de 60ml.",4441067,8000,PERDEU,FR.,20720,2.59
+"Losartana 50mg cpr revestido, em blister.",4441068,3200000,DESCLASSIFICADO,COMP,188800,0.059
+"Medroxiprogesterona 150mg/mL, injetável, ampola 1ml.",4441069,3000,DESCLASSIFICADO,AMP,47970,15.99
+"Metformina 500mg cpr, em blister.",4441070,1400000,DESCLASSIFICADO,COMP,110600,0.079
+"Metformina 850mg cpr, em blister.",4441071,3000000,PERDEU,COMP,204000,0.068
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",4441075,24000,DESCLASSIFICADO,AMP,9480,0.395
+"Metoclopramida, cloridrato 10mg cpr, em blister.",4441076,200000,DESCLASSIFICADO,COMP,23000,0.115
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",4441077,50000,PERDEU,COMP,31500,0.63
+"Metronidazol 250mg cpr, em blister.",4441080,250000,DESCLASSIFICADO,COMP,30000,0.12
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",4441081,5000,PERDEU,BIS,21900,4.38
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",4441082,10000,DESCLASSIFICADO,BIS,59800,5.98
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",4441085,10000,DESCLASSIFICADO,FR.,23000,2.3
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",4441089,30000,DESCLASSIFICADO,BIS,49500,1.65
+"Nifedipino 10mg cpr, em blister.",4441090,280000,DESCLASSIFICADO,COMP,10640,0.038
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",4441092,6000,PERDEU,FR.,24900,4.15
+"Óleo Mineral, frasco 100ml.",4441098,10000,DESCLASSIFICADO,FR.,24500,2.45
+"Omeprazol 20mg capsula, em blister.",4441099,3800000,DESCLASSIFICADO,CPLA,281200,0.074
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",4441103,27000,DESCLASSIFICADO,FR.,24570,0.91
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",4441104,2200000,PERDEU,COMP,96800,0.044
+"Permetrina 10mg/mL loção, frasco 60ml.",4441105,7000,DESCLASSIFICADO,FR.,10220,1.46
+"Permetrina 50mg/mL loção, frasco 60ml.",4441106,3000,PERDEU,FR.,7470,2.49
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",4441110,10000,DESCLASSIFICADO,FR.,39900,3.99
+"Ranitidina 150mg cpr, em blister.",4441116,800000,DESCLASSIFICADO,COMP,79200,0.099
+"Ranitidina 25mg/mL, injetável, ampola 2ml.",4441117,10000,DESCLASSIFICADO,AMP,6300,0.63
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",4441120,1000,PERDEU,FR.,10980,10.98
+"Sais de reidratação oral",4441121,24000,PERDEU,SACH,12120,0.505
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",4441123,5000,VENCEU,FR.,34700,6.94
+"Sinvastatina 20mg cpr, em blister.",4441124,1800000,DESCLASSIFICADO,COMP,108000,0.06
+"Sinvastatina 40 mg cpr, em blister.",4441125,1500000,DESCLASSIFICADO,COMP,177000,0.118
+"Sulfadiazina de prata 1% pomada, pote com 400g.",4441128,300,PERDEU,POT,8820,29.4
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",4441130,180000,DESCLASSIFICADO,COMP,21240,0.118
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",4441131,3000,DESCLASSIFICADO,FR.,2580,0.86
+"Sulfato ferroso 40mg cpr, em blister.",4441133,900000,DESCLASSIFICADO,COMP,40500,0.045
+"Tiamina 300 mg cpr, em blister.",4441137,12000,DESCLASSIFICADO,COMP,3528,0.294
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",4441140,12000,DESCLASSIFICADO,AMP,14400,1.2
+"Verapamil 80mg cpr, em blister.",4441144,500000,DESCLASSIFICADO,COMP,52500,0.105

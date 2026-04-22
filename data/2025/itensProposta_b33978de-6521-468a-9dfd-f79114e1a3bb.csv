@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PIA LAVATÓRIO",0,300,PERDEU," ",300000,1000
+"BANHEIRO QUIMÍCO, M, F, NE",0,300,PERDEU," ",66000,220
+"SERVIÇO DE LOCAÇÃO, MONTAGEM E DESMONTAGEM DE BANHEIROS QUÍMICOS PARA PESSOA COM DEFICIÊNCIA",0,150,PERDEU," ",42000,280
+"SISTEMA DE GERADORES TIPO 01 STAND BY",0,46,PERDEU," ",138000,3000
+"SISTEMA DE GERADORES TIPO 02 USO CONTÍNUO",0,46,PERDEU," ",202400,4400
+"Locação de passa cabos Locação de passa cabos de 5 vias, protetor de cabos",0,46,PERDEU," ",1610,35
+"Banqueta em madeira maciça",0,2200,PERDEU," ",26400,12
+"Cadeira em Polipropileno na cor branca",0,10000,PERDEU," ",60000,6
+"Cadeira fixa estofada",0,500,PERDEU," ",2500,5
+"FOGAO INDUSTRIAL",0,50,PERDEU," ",15000,300
+"Freezer horizontal 300 litros",0,50,PERDEU," ",17500,350
+"Geladeira vertical",0,50,PERDEU," ",10000,200
+"Mesa bistrô",0,1100,PERDEU," ",33000,30
+"Mesa em Polipropileno, na cor branca",0,2500,PERDEU," ",20000,8
+"Mesa redonda com tampo de vidro",0,100,PERDEU," ",3000,30
+"Puff estofado de 1 lugar",0,100,PERDEU," ",2000,20
+"SOFÁ 2 LUGARES",0,100,PERDEU," ",15000,150
+"SOFA 1 LUGAR ESTOFADO",0,100,PERDEU," ",10000,100
+"Vasos decorativos com plantas naturais",0,200,PERDEU," ",22000,110
+"Estruturas metálicas para arquibancada",0,4000,PERDEU," ",480000,120
+Barricada.,0,1500,PERDEU," ",150000,100
+"Estandes com Montagens Básicas",0,10000,PERDEU," ",350000,35
+"Estande Especial para Eventos",0,5000,PERDEU," ",375000,75
+"Estande Construído para Eventos",0,2000,PERDEU," ",240000,120
+"Camarim para Eventos",0,800,PERDEU," ",68000,85
+"Separador de Fila, Organizador de Fila",0,1500,PERDEU," ",90000,60
+CARPETE,0,11000,PERDEU," ",165000,15

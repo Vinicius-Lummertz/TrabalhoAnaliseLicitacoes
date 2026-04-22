@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+CERTIFICADO,1302767,8,6000,ATIVO,UNIDADE,660,0.11
+Convites.,1304814,9,800,ATIVO,UNIDADE,600,0.75
+"Provas alunos 2 º ano do Ensino Fundamental",1306854,13,13000,ATIVO,UNIDADE,4940,0.38
+"Provas alunos 1 º ano do Ensino Fundamental",1306855,12,14000,ATIVO,UNIDADE,5600,0.4

@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Empilhadeira Hangcha 25",21337906,1,PERDEU,UND,20312.5,17.5
+"Escavadeira Doosan DX225LC",21337909,1,VENCEU,UND,20312.5,14
+"Escavadeira XCMG XE215BR",21337911,1,PERDEU,UND,20312.5,10
+"Escavadeira XCMG XE225BR",21337913,1,PERDEU,UND,20312.5,10
+"Fresadora Wirtgen W100",21337915,1,PERDEU,UND,20312.5,11.5
+"Minicarregadeira Caterpillar 246C",21337917,1,VENCEU,UND,20312.5,15.5
+"Minicarregadeira New Holland L325",21337919,1,VENCEU,UND,20312.5,13
+"Motoniveladora New Holland RG170",21337921,2,VENCEU,UND,40625,18.6
+"Motoniveladora New Holland RG170B",21337923,1,VENCEU,UND,20312.5,22
+"Pá Carregadeira Doosan SD200-3",21337925,1,PERDEU,UN,20312.5,10
+"Pá Carregadeira Hyundai HL 740-9S",21337927,1,PERDEU,UN,20312.5,10
+"Pá Carregadeira New Holland W130",21337929,2,PERDEU,UN,40625,10
+"Retroescavadeira JCB 3CX",21337931,3,PERDEU,UND,60937.5,10
+"Retroescavadeira JCB 3CXB",21337933,1,VENCEU,UND,20312.5,17.3
+"Retroescavadeira New Holland LB110",21337935,2,PERDEU,UND,40625,14
+"Retroescavadeira Randon RD406",21337937,1,PERDEU,UND,20312.5,15.5
+"Rolo Compactador Bomag BW212 D40",21337938,1,VENCEU,UN,20312.5,13.5
+"Rolo Compactador HAMM HD-14",21337939,1,VENCEU,UND,20312.5,13.5
+"Rolo Compactador Liugong 6612E",21337940,1,PERDEU,UND,20312.5,12
+"Rolo Compactador Tema Terra SP8000",21337941,1,PERDEU,UN,20312.5,11.5
+"Rolo Compactador Muller VAP55",21337942,1,PERDEU,UN,20312.5,10
+"Trator Agrale 5075",21337943,1,VENCEU,UND,20312.5,15.3
+"Trator Agrícola LS PLUS100",21337944,1,VENCEU,UN,20312.5,18
+"Trator Agrícola New Holland T6.110",21337945,1,PERDEU,UN,20312.5,13
+"Trator Agrícola New Holland TT4030",21337946,1,PERDEU,UN,20312.5,10
+"Trator de Esteira John Deere 750J",21337947,1,PERDEU,UND,20312.5,10
+"Vibroacabadora Ciber AF4000",21337948,1,PERDEU,UN,20312.5,10

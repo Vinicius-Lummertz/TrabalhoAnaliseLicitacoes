@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Refeições transportadas quentes e saladas para serem servidas tipo self-service (buffet)",16578743,16825,VENCEU," ",486915.5,28.94
+"Refeições tipo “Lanche”, embaladas individualmente",16578743,39325,VENCEU," ",588302,14.96
+"Refeição para Eventos Internos",16578743,2200,VENCEU," ",50490,22.95
+"Refeição para Eventos Juninos",16578743,600,VENCEU," ",13770,22.95

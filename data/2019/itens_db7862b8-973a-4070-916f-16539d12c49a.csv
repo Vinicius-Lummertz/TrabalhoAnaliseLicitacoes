@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dopamina 5mg/ml, injetável, ampola 10ml.",1265484,101,400,ATIVO,AMP,508,1.27
+"Enalapril, maleato 20mg cpr, em blister.",1265485,105,1000000,ATIVO,COMPRIMIDO,38000,0.038
+"Enalapril, maleato 5mg cpr, em blister.",1265486,106,500000,ATIVO,COMPRIMIDO,24000,0.048
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",1265487,123,120,ATIVO,AMP,768,6.4
+"Isossorbida, mononitrato 20mg cpr, em blister.",1265488,151,500000,ATIVO,COMPRIMIDO,41000,0.082
+"Isossorbida, mononitrato 40mg cpr, em blister.",1265489,152,360000,ATIVO,COMPRIMIDO,60840,0.169
+"Loratadina 10mg cpr, em blister.",1265490,172,500000,ATIVO,COMPRIMIDO,44000,0.088
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",1265491,207,10000,ATIVO,AMP,10000,1
+"Propranolol 40mg cpr, em blister.",1265492,221,1000000,ATIVO,COMPRIMIDO,29000,0.029
+"Tiamina 300 mg cpr, em blister.",1265569,243,12000,ATIVO,COMPRIMIDO,2148,0.179

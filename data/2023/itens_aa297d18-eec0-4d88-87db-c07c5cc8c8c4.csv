@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Açucar Mascavo 1Kg",4786639,5,50,ATIVO,PACOTE,650.5,13.01
+AMENDOIM,4786640,12,70,ATIVO,PACOTE,425.6,6.08
+"CANJICA MILHO BRANCA",4786641,19,50,ATIVO,UNIDADE,233.5,4.67
+"Farinha de Mandioca crua",4786642,29,200,ATIVO,kg,856,4.28
+"Farinha de Milho: Média ou fina, enriquecida com ferro e áci",4786643,30,200,ATIVO,kg,632,3.16
+"Feijão branco",4786644,31,50,ATIVO,EMBALAGEM,334,6.68
+"Feijão Vermelho: tipo 2, classe cores, grãos bem formados, n",4786645,32,700,ATIVO,kg,6965,9.95
+"Grão de bico",4786646,34,70,ATIVO,UNIDADE,551.6,7.88
+Lentilha,4786647,37,70,ATIVO,UNIDADE,594.3,8.49
+"Milho de Pipoca",4786648,46,150,ATIVO,UNIDADE,673.5,4.49
+"Carne de frango congelada: Galinha caipira, serrada com osso",4786649,80,300,ATIVO,kg,4185,13.95
+"FARINHA DE TRIGO INTEGRAL",4786650,110,100,ATIVO,kg,555,5.55
+"Leite em pó 400g instantâneo",4786651,138,50,ATIVO,LATA,857,17.14
+"Leite Integral  UHT",4786652,139,1200,ATIVO,LITROS,5724,4.77
+"Refrigerante de guaraná: Em embalagem pet de 2 litros",4786653,165,40,ATIVO,LITRO,299.6,7.49

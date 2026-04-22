@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira XCMG XE215BR",5973229,2,2,ATIVO,UNIDADE,26470.58,65.5
+"Fresadora Wirtgen W100",5973230,3,1,ATIVO,UNIDADE,13235.29,22.5
+"Motoniveladora New Holland RG170B",5973231,7,1,ATIVO,UNIDADE,13235.29,47
+"Pá Carregadeira Hyundai HL 740-9S",5973232,9,1,ATIVO,UNIDADE,13235.29,60.5
+"Pá Carregadeira New Holland W130",5973233,11,2,ATIVO,UNIDADE,26470.58,62
+"Retroescavadeira Randon RD406",5973234,15,1,ATIVO,UNIDADE,13235.29,50.5
+"Retroescavadeira Randon RD406B",5973235,16,1,ATIVO,UNIDADE,13235.29,65.5
+"Rolo Compactador Bomag BW212 D40",5973236,18,1,ATIVO,UNIDADE,13235.29,70.5
+"Rolo Compactador Muller VAP55",5973237,22,1,ATIVO,UNIDADE,13235.29,65.5
+"Trator Agrícola Budny 7540",5973238,23,1,ATIVO,UNIDADE,13235.29,63

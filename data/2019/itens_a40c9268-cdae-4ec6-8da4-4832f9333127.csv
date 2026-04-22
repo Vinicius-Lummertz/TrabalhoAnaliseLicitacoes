@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Portão chapeado galvanizado",1300303,3,85,ATIVO,"METRO QUADRADO",32973.46,387.9231
+"Serviço de serralheiro/soldador sem deslocamento",1302358,4,60,ATIVO,HORAS,5818.85,96.9808
+"Corrimão metálico com pintura eletrostática",1310480,2,85,ATIVO,"METRO QUADRADO",22257.09,261.8481
+"Serviço de serralheiro/soldador com deslocamento",1310481,5,40,ATIVO,HORAS,6206.77,155.1693
+"Guarda-corpo com tubo metálico, 2",1316705,1,85,ATIVO,"METRO QUADRADO",38743.83,455.80976

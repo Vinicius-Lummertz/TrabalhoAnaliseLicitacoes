@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",5093025,220000,PERDEU,COMP,44660,0.203
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",5093026,10000,PERDEU,BIS,22500,2.25
+"Ácido Acetilsalicilico 100mg cpr, em blister.",5093027,2800000,PERDEU,COMP,120400,0.043
+"Albendazol 400mg comprimido mastigável, em blister.",5093040,18000,PERDEU,COMP,5310,0.295
+"Dexametasona 0,1% creme, bisnaga 10g.",5093115,30000,PERDEU,bis,32850,1.095
+"Dipirona 500mg cpr, em blister.",5093127,2200000,PERDEU,COMP,297000,0.135
+"Doxazosina 2 mg cpr, em blister.",5093131,180000,PERDEU,COMP,19818,0.1101
+"Fluconazol 150mg capsula.",5093152,75000,PERDEU,CPLA,40500,0.54
+"Fluoxetina, cloridrato 20mg capsula, em blister.",5093155,2000000,PERDEU,CPLA,220000,0.11
+"Hidroclorotiazida 25mg cpr, em blister.",5093170,2400000,PERDEU,COMP,69840,0.0291
+"Metronidazol 250mg cpr, em blister.",5093226,280000,PERDEU,COMP,42000,0.15
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",5093236,25000,PERDEU,BIS,59500,2.38
+"Risperidona 1mg cpr, em blister.",5093263,200000,PERDEU,COMP,30000,0.15
+"Risperidona 2mg cpr, em blister.",5093264,280000,PERDEU,COMP,42000,0.15

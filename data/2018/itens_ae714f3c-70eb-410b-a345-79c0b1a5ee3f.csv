@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit odontológico de higiene dental.",1262825,221,5000,ATIVO,kit,26700,5.34
+"Kit odontológico de higiene dental infantil - KIT",1262826,220,8000,ATIVO,kit,36800,4.6
+"Fio dental bucal.",1262827,195,80,ATIVO,UNIDADE,564,7.05

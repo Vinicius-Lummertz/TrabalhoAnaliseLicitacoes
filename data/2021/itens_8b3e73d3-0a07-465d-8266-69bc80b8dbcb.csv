@@ -1,0 +1,51 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",1353801,53,1600,ATIVO,PACOTE,41760,26.1
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",1353802,55,1500,ATIVO,PACOTE,30450,20.3
+"Kit de nebulização adulto",1353803,111,600,ATIVO,UNIDADE,4032,6.72
+"Cânula de Traqueostomia de silicone com balonete número 6,0",1353847,34,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 6,5",1353848,35,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 7,0",1353849,36,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 7,5",1353850,37,10,ATIVO,UNIDADE,188,18.8
+"Cânula de Traqueostomia de silicone com balonete número 8,0",1353851,38,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 8,5",1353852,39,10,ATIVO,UNIDADE,187,18.7
+"Dreno Penrose Esterilizado Nº 1",1353853,68,200,ATIVO,UNIDADE,220,1.1
+"Dreno Penrose Esterilizado Nº 2",1353854,69,300,ATIVO,UNIDADE,435,1.45
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",1353855,70,30000,ATIVO,UNIDADE,7800,0.26
+"Eletrodo para Monitorização Cardíaca c/ Gel - Pediátrico",1353856,71,2000,ATIVO,UNIDADE,580,0.29
+"Envelopes auto selantes 150mmx250mm",1353857,72,200,ATIVO,CAIXA,6000,30
+"Equipo 2 vias, (POLIFIX)",1353858,74,6000,ATIVO,UNIDADE,4320,0.72
+"Cânula de Traqueostomia de silicone com balonete número 5,5",1353859,33,10,ATIVO,UNIDADE,187,18.7
+"Garrote tubo látex no. 202",1353860,99,50,ATIVO,PACOTE,2425,48.5
+"Lanceta do profissional de saúde (com dispositivo de seguran",1353861,120,30000,ATIVO,UNIDADE,5400,0.18
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",1353862,130,150,ATIVO,UNIDADE,1260,8.4
+"Máscara de oxigênio Adulto.",1353863,131,1500,ATIVO,UNIDADE,15750,10.5
+"Seringa 60ml, sem agulha",1353864,147,2000,ATIVO,UNIDADE,3800,1.9
+"Sonda de borracha (látex natural) calibre nº 14",1353865,158,150,ATIVO,CAIXA,495,3.3
+"Sonda de borracha (látex natural) calibre nº 16",1353866,159,400,ATIVO,CAIXA,1320,3.3
+"Sonda de borracha (látex natural) calibre nº 20",1353867,161,300,ATIVO,CAIXA,960,3.2
+"Sonda de borracha (látex natural) calibre nº 22",1353868,162,200,ATIVO,CAIXA,640,3.2
+"Sonda de borracha (látex natural) calibre nº 24",1353869,163,150,ATIVO,CAIXA,480,3.2
+"Sonda endotraqueal em PVC com balão nº 3,5",1353870,166,60,ATIVO,UNIDADE,270,4.5
+"Sonda endotraqueal em PVC com balão nº 4,0",1353871,167,60,ATIVO,UNIDADE,270,4.5
+"Sonda endotraqueal em PVC com balão nº4,5",1353872,168,60,ATIVO,UNIDADE,270,4.5
+"Lanceta do paciente - refil (para uso em lancetador)",1353873,119,200000,ATIVO,UNIDADE,8000,0.04
+"Sonda endotraqueal em PVC com balão nº5,0",1353874,169,80,ATIVO,UNIDADE,360,4.5
+"Cânula de Traqueostomia de silicone com balonete número 5,0",1353875,32,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 4,0",1353876,30,10,ATIVO,UNIDADE,187,18.7
+"Cânula de Traqueostomia de silicone com balonete número 4,5",1353889,31,10,ATIVO,UNIDADE,187,18.7
+"Bolsa coletora de urina de perna, 500 a 750ml",1353901,26,750,ATIVO,UNIDADE,3165,4.22
+"Bolsa Coletora de urina sistema fechado  2000mL",1353902,27,3000,ATIVO,UNIDADE,11400,3.8
+"Sonda endotraqueal em PVC com balão nº5,5",1353904,170,80,ATIVO,UNIDADE,360,4.5
+"Sonda endotraqueal em PVC com balão nº6,0",1353905,171,80,ATIVO,UNIDADE,360,4.5
+"Sonda endotraqueal em PVC com balão nº6,5",1353906,172,100,ATIVO,UNIDADE,450,4.5
+"Sonda endotraqueal em PVC com balão nº7,0",1353933,173,100,ATIVO,UNIDADE,450,4.5
+"Sonda endotraqueal em PVC com balão nº7,5",1353934,174,150,ATIVO,UNIDADE,675,4.5
+"Sonda endotraqueal em PVC com balão nº8,0",1353935,175,150,ATIVO,UNIDADE,675,4.5
+"Sonda endotraqueal em PVC com balão nº8,5",1353936,176,150,ATIVO,UNIDADE,675,4.5
+"Sonda endotraqueal em PVC com balão nº9,0",1353937,177,150,ATIVO,UNIDADE,675,4.5
+"Sonda Gástrica Longa nº 14, descartável",1353938,178,100,ATIVO,UNIDADE,96,0.96
+"Sonda Gástrica Longa nº 18, descartável",1353939,180,120,ATIVO,UNIDADE,138,1.15
+"Tampa Universal LuerLock, estéril, epirogênica",1353940,199,3000,ATIVO,UNIDADE,750,0.25
+"Estetoscópio adulto duo sonic",1353941,217,250,ATIVO,UNIDADE,8750,35
+"Reanimador manual pediátrico",1353942,219,30,ATIVO,UNIDADE,3720,124
+"Reanimador manual neonatal",1353943,220,15,ATIVO,UNIDADE,1800,120

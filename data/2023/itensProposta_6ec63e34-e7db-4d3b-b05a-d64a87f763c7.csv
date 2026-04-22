@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto com d = 200 mm",11137076,6000,PERDEU,M,149700,24.95
+"Tubo de concreto com d = 300 mm",11137077,8500,PERDEU,M,287385,33.81
+"Tubo de concreto com d = 400 mm",11137078,8500,PERDEU,M,370685,43.61
+"Tubo de concreto com d = 500 mm",11137079,1500,PERDEU,M,83790,55.86
+"Tubo de concreto com d = 600 mm",11137080,600,PERDEU,M,42630,71.05
+"tubo de concreto D: 800 mm CA1",11137081,800,PERDEU,M,173560,216.95
+"tubo de concreto D: 1000 mm CA1",11137082,800,PERDEU,M,337120,421.4
+"Tubo de concreto para drenagem 1200mm PA2 - NBR",11137083,100,PERDEU,M,58310,583.1

@@ -1,0 +1,225 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abacate: de 1ª qualidade,",16304767,100,PERDEU,KG,1035,10.35
+"Abacaxi espinho",16304768,100,PERDEU,UNI,1007,10.07
+ACELGA,16304769,400,PERDEU,UND,2232,5.58
+"Abobrinha verde",16304770,350,PERDEU,KG,1774.5,5.07
+AGRIÃO,16304771,100,PERDEU,UND,455,4.55
+AIPIM,16304772,200,PERDEU,KG,2036,10.18
+"ALFACE CRESPA .",16304773,650,PERDEU,KG,2665,4.1
+Alho.,16304774,350,PERDEU,UN,3535,10.1
+"Ameixa fresca nacional",16304775,150,PERDEU,KG,2220,14.8
+"Amendoim com casca",16304776,40,PERDEU,UND,326.8,8.17
+"Amendoim torrado",16304777,500,VENCEU,UND,6285,12.57
+"BANANA BRANCA.",16304778,1500,PERDEU,KG,8430,5.62
+"BATATA DOCE",16304779,400,PERDEU,KG,2080,5.2
+"BATATA INGLESA",16304780,800,PERDEU,KG,5576,6.97
+BERINJELA,16304781,200,PERDEU,KG,1256,6.28
+BETERRABA,16304782,450,PERDEU,KG,3352.5,7.45
+BRÓCOLIS,16304783,400,PERDEU,KG,3508,8.77
+"CANJICA MILHO BRANCA",16304784,50,PERDEU,UND,419,8.38
+CAQUI,16304785,100,PERDEU,KG,963,9.63
+"Cebola de cabeça",16304786,600,PERDEU,KG,4920,8.2
+"CENOURA SEM FOLHAS",16304787,650,PERDEU,KG,4985.5,7.67
+Chuchu,16304788,350,PERDEU,KG,2047.5,5.85
+"COUVE FLOR.",16304789,300,PERDEU,UND,2520,8.4
+"Couve folha (couve manteiga)",16304790,400,PERDEU,UND,1872,4.68
+ESPINAFRE.,16304791,50,PERDEU,UND,362.5,7.25
+"Farinha de Mandioca crua",16304792,200,PERDEU,KG,1394,6.97
+"Farinha de milho média ou fina enriquecida com ferro e ácido fólico",16304793,200,PERDEU,KG,1260,6.3
+"Feijão branco",16304794,300,VENCEU,EMB,2691,8.97
+"FEIJAO PRETO",16304795,900,PERDEU,KG,7515,8.35
+"Grão de bico",16304796,220,PERDEU,UN,2413.4,10.97
+"LARANJA PERA",16304797,700,PERDEU,KG,3920,5.6
+Lentilha,16304798,200,PERDEU,UN,2066,10.33
+LIMÃO,16304799,110,PERDEU,KG,531.3,4.83
+MAÇA,16304800,1000,PERDEU,KG,10700,10.7
+MANGA,16304801,100,PERDEU,KG,942,9.42
+"Mamão comum",16304802,200,PERDEU,KG,2100,10.5
+MARACUJA,16304803,50,VENCEU,KG,641.5,12.83
+MELANCIA,16304804,100,PERDEU,KG,452,4.52
+MELAO,16304805,200,PERDEU,KG,1674,8.37
+"MILHO DE PIPOCA.",16304806,300,PERDEU,EMB,1809,6.03
+"MILHO VERDE.",16304807,100,VENCEU,KG,932,9.32
+"Moranga preta",16304808,450,PERDEU,KG,2173.5,4.83
+MORANGO.,16304809,60,PERDEU,BDJA,697.8,11.63
+"OVOS  DE GALINHA",16304810,700,PERDEU,DZ,7231,10.33
+PEPINO,16304811,200,PERDEU,KG,766,3.83
+Pêra.,16304812,500,PERDEU,KG,4915,9.83
+Pêssego.,16304813,150,PERDEU,KG,2275.5,15.17
+"PIMENTAO VERDE",16304814,200,PERDEU,KG,2100,10.5
+"21121248E	PINHÃO",16304815,70,PERDEU,KG,870.1,12.43
+"Polpa de frutas natural congelada",16304816,500,PERDEU,UN,6065,12.13
+Ponkan,16304817,450,PERDEU,KG,2776.5,6.17
+"REPOLHO ROXO",16304818,150,PERDEU,KG,1065,7.1
+"REPOLHO VERDE.",16304819,250,PERDEU,UND,1667.5,6.67
+RUCULA,16304820,220,PERDEU,UND,1172.6,5.33
+"TEMPERO VERDE",16304821,600,PERDEU,UND,2670,4.45
+TOMATE,16304822,600,PERDEU,KG,5802,9.67
+UVA,16304823,200,PERDEU,KG,3254,16.27
+VAGEM,16304824,220,PERDEU,KG,3410,15.5
+"Bebida Láctea com iogurte e polpa de frutas",16304825,900,PERDEU,L,5301,5.89
+"APRESUNTADO FATIADO",16304826,500,VENCEU,KG,9925,19.85
+"Bacon defumado em pedaços",16304827,50,VENCEU,KG,1965,39.3
+"Carne bovina: Acém resfriado",16304828,1000,VENCEU,KG,29950,29.95
+"Carne bovina: Coxão de fora resfriado (coxão duro)",16304829,300,VENCEU,KG,10755,35.85
+"Carne bovina: Coxão mole",16304830,400,VENCEU,KG,16320,40.8
+"Carne bovina: Fígado",16304831,150,VENCEU,KG,3660,24.4
+"Carne bovina: Moída",16304832,450,VENCEU,KG,15232.5,33.85
+"Carne bovina: Tatu",16304833,200,VENCEU,KG,7340,36.7
+"Carne de frango congelada Coxa e sobrecoxa",16304834,750,VENCEU,KG,7275,9.7
+"Carne de frango congelada Filé de peito (sassami) sem osso e sem pele",16304835,700,VENCEU,KG,12460,17.8
+"Carne de frango congelada Galinha caipira serrada com osso",16304836,300,VENCEU,KG,3165,10.55
+"Carne de frango congelada: Moela",16304837,200,VENCEU,KG,2270,11.35
+"Carne suína congelada: Costela",16304838,350,VENCEU,KG,8750,25
+"Carne suína congelada: Lombo médio sem osso",16304839,350,VENCEU,KG,8662.5,24.75
+"Carne suína congelada: Paleta suína, sem osso",16304840,200,VENCEU,KG,4460,22.3
+"Filé de Peixe congelado: Papa-terra",16304841,800,VENCEU,KG,40136,50.17
+"Lingüiça tipo calabresa para fatiar",16304842,12,VENCEU,KG,396.6,33.05
+"Pescado: peixe em posta",16304843,80,VENCEU,KG,2332,29.15
+"Salsicha hot dog",16304844,160,VENCEU,KG,2312,14.45
+"Amido de milho embalagem",16304845,100,VENCEU,UND,1040,10.4
+"ARROZ INTEGRAL",16304846,300,VENCEU,KG,1785,5.95
+"Arroz parboilizado",16304847,1000,VENCEU,KG,5950,5.95
+"Arroz Polido",16304848,100,VENCEU,KG,630,6.3
+"Aveia laminada em flocos finos, embalada em pacote de 450g.",16304849,230,VENCEU,UND,2898,12.6
+"Barra de Nuts Acondicionada em embalagens de 25 g.",16304850,120,VENCEU,UND,308.4,2.57
+"Biscoito de chocolate.",16304851,300,PERDEU,PCT,2139,7.13
+"Biscoito tipo caseiro sabor nata Embalagem com 350g",16304852,200,VENCEU,PCT,1864,9.32
+"Biscoito doce sem recheio Tipo ‘maisena” Embalagens de 360g",16304853,450,VENCEU,PCT,2475,5.5
+"Biscoito salgado integral Embalagens de 400g",16304854,500,VENCEU,PCT,3850,7.7
+"Biscoito salgado água Embalagens de 400g",16304855,100,VENCEU,PCT,660,6.6
+"Bolinho sabor chocolate com recheio embalagem individual de 40g",16304856,400,VENCEU,UND,1200,3
+"Bolo de aniversário",16304857,200,VENCEU,KG,12466,62.33
+"Bolo simples em sabores variados",16304858,100,VENCEU,KG,4400,44
+"Canudinho de maionese",16304859,100,VENCEU,UND,1227,12.27
+"Docinhos diversos cento",16304860,120,VENCEU,CENT,16560,138
+"Cupcake vários sabores Mínimo 150g.",16304861,100,VENCEU,UND,963,9.63
+"Farinha de tapioca",16304862,70,VENCEU,PCTE,639.1,9.13
+"FARINHA DE TRIGO",16304863,520,VENCEU,KG,1664,3.2
+"FARINHA DE TRIGO INTEGRAL",16304864,100,VENCEU,KG,415,4.15
+"Fermento biológico Seco, instantâneo, embalado em envelopes de 10g.",16304865,8,VENCEU,UND,18.24,2.28
+"Fermento em pó químico Em latas de 250g",16304866,250,PERDEU,UND,2162.5,8.65
+"Macarrão Tipo Espaguete Integral 500g",16304867,150,VENCEU,UND,1312.5,8.75
+"Macarrão Tipo Espaguete tradicional 500g",16304868,48,VENCEU,UND,396,8.25
+"Massa alimentícia 200 gramas",16304869,48,VENCEU,UND,430.56,8.97
+"Massa de mini pizza semi pronta 400 g",16304870,20,VENCEU,UND,176.6,8.83
+"Massa p/pastel disco médio 500g",16304871,20,VENCEU,UND,175,8.75
+"Massa folhada de rolo embalagem de 1Kg",16304872,20,VENCEU,UND,596,29.8
+"- Mini chocottone 80g",16304873,500,VENCEU,UND,3035,6.07
+"Pão de forma tradicional embalagem de 500g",16304874,1500,VENCEU,UND,8925,5.95
+"Pão de forma integral embalagem de 400g",16304875,3500,VENCEU,UND,21875,6.25
+"Pão de Hot Dog",16304876,1000,VENCEU,PCT,10230,10.23
+"Pão frances",16304877,50,VENCEU,KG,740,14.8
+"Polvilho azedo embalagem contendo 500 gramas",16304878,50,PERDEU,UND,440,8.8
+"Polvilho doce embalagem 500 gramas",16304879,50,VENCEU,UND,432.5,8.65
+"Salgadinhos diversos assados",16304880,170,VENCEU,CENT,21760,128
+"Creme de leite fresco (nata) pote de 300g",16304881,150,VENCEU,UND,1935,12.9
+"Creme de leite UHT embalagem tetra pak de 200g.",16304882,250,VENCEU,UND,1012.5,4.05
+"Iogurte embalagens individuais de 90g, agrupados em bandejas de 510g (6 unidades).",16304883,250,VENCEU,BDJA,1500,6
+"Iogurte natural embalagens individuais de 170g.",16304884,50,VENCEU,UND,205,4.1
+"Leite Condensado: Em embalagem treta pak de 395g.",16304885,220,VENCEU,UNI,1306.8,5.94
+"Manteiga 200g",16304886,400,VENCEU,UND,3700,9.25
+"Queijo ralado Tipo parmesão 100g.",16304887,100,VENCEU,UND,763,7.63
+"Queijo tipo mussarela",16304888,535,VENCEU,KG,22149,41.4
+"Queijo ricota 300g",16304889,230,VENCEU,UND,1690.5,7.35
+"Requeijão Embalagem 500g.",16304890,230,VENCEU,UND,4169.9,18.13
+"Leite Desnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304891,400,VENCEU,UND,2580,6.45
+"Leite em pó 400g instantâneo",16304892,50,VENCEU,LAT,1027.5,20.55
+"Leite Integral UHT caixa tetra pak de 1 litro tipo longa vida.",16304893,2400,PERDEU,LT,12000,5
+"Leite Semidesnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304894,1100,VENCEU,LT,7095,6.45
+"Achocolatado em pó lata 370g",16304895,150,VENCEU,UND,1387.5,9.25
+"Açúcar refinado 1Kg",16304896,1040,VENCEU,KG,5720,5.5
+"Adoçante à base de stévia 80ml",16304897,120,VENCEU,UND,1911.6,15.93
+"Adoçante culinário pote 400g",16304898,10,VENCEU,UND,209,20.9
+"Azeite de oliva extra virgem garrafa 500mL",16304899,120,VENCEU,UND,5262,43.85
+"Balas macias pacote 600g",16304900,70,VENCEU,UND,919.1,13.13
+"Bombom recheado pacote 1Kg",16304901,150,VENCEU,UND,8437.5,56.25
+"Cacau em pó 200g",16304902,110,VENCEU,UND,2222,20.2
+"Castanha do pará embalagem 200g",16304903,10,VENCEU,UND,151.3,15.13
+"Chocolate ao leite 80g",16304904,200,VENCEU,UND,1326,6.63
+"Chocolate granulado embalagem de 150g",16304905,20,VENCEU,UND,111.4,5.57
+"Chocolate meio amargo 80g",16304906,500,VENCEU,UND,3310,6.62
+"Coco Ralado (sem adição de açúcar) 100gr",16304907,100,VENCEU,UND,510,5.1
+"Doce de frutas pote de 400g",16304908,400,VENCEU,POT,2460,6.15
+"Doce de Leite em Pasta pote de 350g",16304909,40,VENCEU,UND,338,8.45
+"Gelatina de fruta 20g",16304910,50,VENCEU,UND,142.5,2.85
+"Leite de coco 200 ml",16304911,50,VENCEU,UND,237.5,4.75
+"Paçoquinha rolha pote",16304912,60,VENCEU,UND,2059.8,34.33
+"Pé de moleque de amendoim e rapadura pote",16304913,60,VENCEU,UND,1549.8,25.83
+"Pipoca doce pacote com 10g",16304914,1000,VENCEU,UND,2430,2.43
+"Pirulito pacote sabor morango, em pacotes de 50",16304915,60,VENCEU,PCT,889.8,14.83
+"Margarina embalagens de 500g",16304916,200,VENCEU,POT,1450,7.25
+"Refrigerante de cola zero embalagem pet de 2 litros",16304917,80,VENCEU,UND,768,9.6
+"Refrigerante de guaraná embalagem pet de 2 litros",16304918,160,VENCEU,UND,1496,9.35
+"Refrigerante de limão zero embalagem pet de 2 litros",16304919,80,VENCEU,UND,768,9.6
+"Suco de néctar de frutas 1 litro",16304920,550,VENCEU,UND,4235,7.7
+"Suco de néctar de frutas caixa 200ml",16304921,200,VENCEU,UND,530,2.65
+"- Suco galão de 5 litros",16304922,400,VENCEU,UND,16388,40.97
+"Uva passa 150g.",16304923,40,VENCEU,UND,332,8.3
+"Açafrão embalagem 500g.",16304924,50,VENCEU,UND,1063.5,21.27
+"Azeitona 120g devendo ser considerado como peso líquido do produto drenado.",16304925,40,VENCEU,UND,293.2,7.33
+"Batata palha embalagem 100g",16304926,80,VENCEU,UND,566.4,7.08
+"Batata palito embalagem pacote de 1kg",16304927,80,VENCEU,UND,1248,15.6
+"Café Tradicional 500g",16304928,1200,VENCEU,PCT,23460,19.55
+"Canela moída 30g.",16304929,20,VENCEU,UND,130.4,6.52
+"Canela em pau 12g.",16304930,8,VENCEU,UND,52.56,6.57
+"Catchup embalagem pet de 390g",16304931,30,VENCEU,UND,249.6,8.32
+"Chá de camomila caixa contendo 10 sachês",16304932,100,VENCEU,UND,550,5.5
+"Chá de hortelã caixa contendo 10 sachês",16304933,60,VENCEU,UND,330,5.5
+"Chá de erva doce caixa contendo 10 sachês",16304934,60,VENCEU,UND,327,5.45
+"Colorau (colorífico)",16304935,100,VENCEU,UNI,785,7.85
+"Cominho moído",16304936,200,VENCEU,UNI,1496,7.48
+"CRAVO DA INDIA",16304937,20,VENCEU,PCT,138,6.9
+"Ervilha em conserva lata",16304938,100,PERDEU,UND,330,3.3
+"Extrato de tomate 300g acondicionado em embalagem tetra pack.",16304939,230,VENCEU,UND,915.4,3.98
+"Louro folha 5g",16304940,30,VENCEU,UND,126.6,4.22
+"Maionese embalagem pet de 500g.",16304941,115,VENCEU,UND,937.25,8.15
+"Manjericão pacote de 100g.",16304942,10,VENCEU,UND,272.2,27.22
+"Milho verde em conserva lata",16304943,300,VENCEU,UND,1245,4.15
+"mostarda frasco com 200 gramas",16304944,10,VENCEU,UND,58.7,5.87
+"Orégano embalagem 50g",16304945,110,VENCEU,UND,981.2,8.92
+"Paprica defumada",16304946,230,VENCEU,UND,2157.4,9.38
+"Pimenta preta moída",16304947,100,VENCEU,UNI,582,5.82
+"Polpa de tomate embalagem tetra pack de 520g.",16304948,400,VENCEU,UND,2640,6.6
+"Sal grosso embalagem de 1kg.",16304949,40,VENCEU,KG,135.2,3.38
+"Sal refinado 1kg",16304950,200,VENCEU,KG,470,2.35
+"Sardinha lata Embalagem de 125g",16304951,200,VENCEU,UND,940,4.7
+"Semente de linhaça embalagem 200g.",16304952,120,VENCEU,UND,951.6,7.93
+"Tempero pronto 500 gramas",16304953,4,VENCEU,UND,50.68,12.67
+"Vinagre 900ml.",16304954,200,VENCEU,UND,590,2.95
+"Mel: Com predominância floral silvestre. Em embalagem de polietileno resistente de 1Kg.",16304955,4,VENCEU,KG,203.88,50.97
+"Óleo de soja embalagem com 900 ml.",16304956,440,VENCEU,UND,4114,9.35
+"Carvão vegetal para churrasco embalagem 5 kg.",16304958,40,PERDEU,PCT,916,22.9
+"Bacia grande 22,8 cm x 54,6 cm com 34 litros.",16304959,8,VENCEU,UND,212,26.5
+"Bandeja descartável 46cm x 39cm embalagem contendo 2 unidades.",16304960,16,PERDEU,UND,112.8,7.05
+"Bandeja descartável retangular de papelão laminada. Medindo aprox.: 26cm x 32cm. Em embalagem contendo 2 unidades.",16304961,16,PERDEU,UND,110.08,6.88
+"Caixa Organizadora com Tampa de Plástico 10 Litros 41x29x14cm Incolor resistente com trava.",16304962,8,PERDEU,UND,239.2,29.9
+"Caixa Organizadora Plástico Incolor 56 Litros resistente com trava Altura 34,00cm Largura 40,00cm Comprimento 58,00cm",16304963,8,PERDEU,UND,710.8,88.85
+"Caixa de fósforos 240 fósforos de 5cm cada.",16304964,200,VENCEU,UND,460,2.3
+"Coador de pano em tecido especial. Com aro de apoio em metal e cabo. 22 cm de diâmetro, tamanho grande.",16304965,50,VENCEU,UND,555,11.1
+"Colher descartável de sobremesa pacote com 50 unidades",16304966,50,VENCEU,UND,172.5,3.45
+"Embalagem para cachorro-quente Medindo aproximadamente 7,5x14cm. Em pacotes com 50 unidades.",16304967,30,VENCEU,UND,147,4.9
+"Espetinho de madeira para churrasco. Embalados em pacotes com 80 unidades.",16304968,10,PERDEU,UND,58,5.8
+"Faca descartável de sobremesa pacote com 50 unidades",16304969,10,PERDEU,PCT,181.8,18.18
+"Flanela pano descartável  em rolo. Tamanho do rolo: 33cm de largura x 300 metros de comprimento picotados a cada 50 cm",16304970,12,PERDEU,ROLO,1836,153
+"Folha de alumínio Em bobina de 30cm x 7,5m.",16304971,80,PERDEU,UND,692,8.65
+"Garfo descartável pacote com 50 unidades",16304972,10,PERDEU,PCT,178.5,17.85
+"Garfinho descartável para bolo pacote com 50 unidades.",16304973,80,PERDEU,PCT,462.4,5.78
+"Guardanapo de papel pacote folhas simples, medindo em torno de 23 cm X 22 cm.",16304974,300,PERDEU,PCT,825,2.75
+"Luvas plásticas descartáveis em Polietileno atóxico, ambidestra e Descartável. apresentação em caixa Com 100 unidades.",16304975,10,PERDEU,CX,70,7
+"Palito de dentes Caixa com 100 unidades.",16304976,12,PERDEU,CX,19.2,1.6
+"Pano de prato atoalhado, na cor branca, 100% algodão.",16304977,48,PERDEU,UND,220.8,4.6
+"Papel Filme PVC Para freezer Em bobina de 28cm x 30m.",16304978,48,PERDEU,UND,374.4,7.8
+"Papel Manteiga Bobina com 20 folhas picotadas de 30cm x 40cm.",16304979,24,VENCEU,UND,127.2,5.3
+"Papel toalha Embalagem de polietileno, contendo 2 rolos com no mínimo 60 toalhas por rolo, medindo 22cm x 20cm cada.",16304980,800,PERDEU,PCT,4000,5
+"Prato descartável 20 cm de diâmetro pacotes plásticos com 10 unidades.",16304981,500,PERDEU,PCT,3275,6.55
+"Prato descartável 15 cm de diâmetro pacotes plásticos com 10 unidades.",16304982,1000,PERDEU,PCT,2450,2.45
+"Saco de papel para pipoca 7,5x14cm. Em pacotes com 50 unidades.",16304983,120,PERDEU,PCT,372,3.1
+"Saco plástico transparente, medindo aproximadamente 21cm x 32cm, com 2kg. Embalagem com 100 unidades.",16304984,100,PERDEU,UND,600,6
+"Saco plástico transparente, medindo aproximadamente 15 x 10 cm embalagem com 100 unidades.",16304985,180,PERDEU,UND,1746,9.7
+"Touca protetora descartável sanfonada confeccionada em TNT (100 polipropileno atóxico) cor branca - Tam. único (pct com 100 und).",16304986,12,PERDEU,PCT,223.56,18.63
+"Avental de PVC forrado, branco, com peito, sem costuras, com 4 ilhós e cordões para amarrar no pescoço e cintura tamanho 0,7 x 1,2 metros. Embalagem com 1 unidade.",16304987,48,VENCEU,UND,936,19.5
+"Calça feminina, cor branca, tecido leve e resistente. Tamanhos diversos. Tecido que permita boa transpiração.",16304988,8,PERDEU,UND,520,65
+"Camiseta cor branca, tecido leve e resistente. Tamanhos diversos. Tecido que permita boa transpiração.",16304989,8,VENCEU,UND,216,27
+"Luva para forno",16304990,8,VENCEU,UN,232,29
+"Sapato de segurança.",16304991,8,PERDEU,PAR,712,89

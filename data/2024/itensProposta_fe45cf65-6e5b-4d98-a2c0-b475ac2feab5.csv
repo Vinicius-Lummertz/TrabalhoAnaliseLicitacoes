@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microcomputador,14940408,5,PERDEU,UND,26990,5398
+"Monitor Grande",14940411,5,PERDEU,UND,6490,1298
+"Monitor Médio",14940412,5,PERDEU,UND,6195,1239
+NOTEBOOK;,14940417,5,PERDEU,UND,40000,8000

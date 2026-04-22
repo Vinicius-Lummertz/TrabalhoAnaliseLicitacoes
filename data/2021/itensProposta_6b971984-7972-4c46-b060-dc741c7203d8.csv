@@ -1,0 +1,59 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aspirador Cirúrgico  5 lt.",4500180,10,DESCLASSIFICADO,UN,29400,2940
+"Aspirador Cirúrgico  1,3 a 1,8 lt.",4500181,2,DESCLASSIFICADO,UN,3140,1570
+"Balança antropométrica digital adulto obeso",4500182,8,PERDEU,UN,13856,1732
+"Balança digital (eletrônica) pediátrica",4500183,6,CANCELADO,UN,5688,948
+"Balde a chute em aço inox",4500184,12,DESCLASSIFICADO,UNI,4800,400
+"Carro maca hospitalar para transporte, obeso",4500195,10,DESCLASSIFICADO,UN,31000,3100
+"Carro de curativos aço inox",4500196,10,PERDEU,UN,9500,950
+"Oximetro de Pulso Portátil de mesa, com Curva Pletismografic",4500198,9,DESCLASSIFICADO,UN,26910,2990
+"DESFIBRILADOR EXTERNO AUTOMÁTICO (DEA)",4500199,1,DESCLASSIFICADO,UN,11700,11700
+"Mesa para lavagem de cadáver em aço inox AISI304",4500201,1,PERDEU,UN,8900,8900
+"Carro para transporte de roupa limpa",4500204,2,PERDEU,UN,4040,2020
+"Conjunto de Oxigênio Portátil com cilindro de alumínio 3 Lit",4500205,7,CANCELADO,CNJ,17430,2490
+"Colar cervical tipo STIFNECK",4500206,10,CANCELADO,KIT,1100,110
+"Comadre hospitalar em aço inox, capac. 3,5lt, tipo pá",4500207,8,PERDEU,UN,1360,170
+"Detector de batimento cardíaco fetal  digital portátil",4500213,7,PERDEU,UN,6440,920
+"Escadinha hospitalar com 02 degraus em aço inox",4500214,40,PERDEU,UNI,12800,320
+"Foco Cirúrgico móvel para uso em procedimentos cirúrgicos, c",4500220,2,DESCLASSIFICADO,UN,38610,19305
+"Foco clinico auxiliar portátil, lâmpada LED, sem espelho",4500221,10,VENCEU,UN,5400,540
+"Lanterna clínica em alumínio, na cor preta ou prata",4500222,30,VENCEU,UN,1680,56
+"Laringoscópio iluminação fibra ótica com cabo adulto",4500223,5,PERDEU,ESTO,11950,2390
+"Laringoscópio iluminação fibra ótica com cabo infantil e 4 l",4500224,2,PERDEU,ESTO,2850,1425
+"Mesa auxiliar de mayo em aço inox",4500225,12,DESCLASSIFICADO,UN,5760,480
+"Mesa auxiliar em aço inox, para instrumental retangular",4500226,10,PERDEU,UN,5700,570
+"Negatoscópio de 1 corpo de parede",4500228,10,PERDEU,UN,2800,280
+"Negatoscópio de 2 corpos de parede",4500229,2,PERDEU,UN,998,499
+"Oftalmoscópio fibra ótica, LED",4500230,3,CANCELADO,UN,11943,3981
+"Otoscópio fibra ótica, com 5 espéculos reutilizáveis (Esteri",4500231,15,PERDEU,CJ,50969.25,3397.95
+"Papagaio em aço inox, capac. 1 lt.",4500232,6,PERDEU,UN,660,110
+"Cuba rim em aço inox",4500233,20,PERDEU,UN,1200,60
+"Cuba redonda para assepsia",4500234,20,PERDEU,UN,560,28
+"Prancha de resgate longa",4500235,2,VENCEU,UNI,798,399
+"Serra elétrica para remoção de  gesso hospitalar,  Aço inox",4500239,1,VENCEU,UN,2010,2010
+"Suporte de Hamper",4500240,12,VENCEU,UNI,2880,240
+"Suporte de soro em aço inox, 4 ganchos em X na parte superio",4500241,50,DESCLASSIFICADO,UN,17000,340
+"Bomba de Vácuo com capacidade para até 2 consultórios, uso o",4500246,5,PERDEU,UN,15250,3050
+"Sensor digital de radiografia periapical T2",4500249,1,VENCEU,UN,12700,12700
+"Seladora termica digital, de mesa",4500251,5,VENCEU,UNI,3100,620
+"Kit Odontológico Acadêmico",4500253,5,VENCEU,UN,6300,1260
+"Suporte fixação em parede para coletor de material perfuro-c",4500254,200,PERDEU,UN,6000,30
+"Guincho de transferência hidráulico dobrável, para pessoas a",4500255,5,VENCEU,UN,17000,3400
+"Avental de chumbo padrão para radiologia geral",4500258,4,VENCEU,UN,5560,1390
+"Protetor de tireóide adulto (convencional)",4500259,4,PERDEU,UN,1200,300
+"Porta avental plumbíufero de parede tipo cabide, para acomod",4500260,1,VENCEU,UN,290,290
+"Cilindro de extensão ajustável, fabricado em latão cromado,",4500261,1,VENCEU,UN,2150,2150
+"Mangueira (extensão) para gases medicinais conexão Oxigênio",4500262,3,VENCEU,UN,366,122
+"Mangueira (extensão) para gases medicinais conexão Ar Compri",4500263,3,VENCEU,UN,366,122
+"Mangueira (extensão) para gases medicinais conexão Vácuo (V)",4500264,3,VENCEU,UN,495,165
+"Mesa ginecológica estofada, revestimento impermeável",4500267,7,VENCEU,UNI,10500,1500
+"Kit Odontológico Acadêmico",4500269,5,VENCEU,UN,6300,1260
+"CAIXA MONTADA BÁSICA ADULTO (Grande)",4500271,3,VENCEU,CX,24430.05,8143.35
+"CAIXA MONTADA PARA FLEBOTOMIA",4500272,2,VENCEU,CX,2060,1030
+"CAIXA MONTADA PARA SUTURA",4500273,6,VENCEU,CX,3294,549
+"CAIXA MONTADA PARA RETIRADA PONTOS",4500274,6,VENCEU,CX,1200,200
+"CAIXA MONTADA PARA PEQUENA CIRURGIA AMBULATORIAL",4500275,10,VENCEU,CX,11300,1130
+"CAIXA MONTADA PARA CURATIVOS",4500276,6,VENCEU,UN,894,149
+"CAIXA MONTADA BÁSICA PEQUENA",4500277,5,VENCEU,UN,13745,2749
+"CAIXA MONTADA PARA CATETERISMO VESICAL",4500278,6,VENCEU,UN,779.4,129.9
+"CAIXA MONTADA PARA ANESTESIA",4500279,6,VENCEU,UN,1914,319

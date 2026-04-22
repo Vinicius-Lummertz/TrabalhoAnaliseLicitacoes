@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Luva de Boxe",2629027,31,30,ATIVO,PAR,3120,104
+"Manopla de Boxe",2629028,33,30,ATIVO,PAR,4170,139
+"Aparador de Chute",2629029,34,24,ATIVO,UNIDADE,3000,125
+"Aparador de Soco",2629030,35,24,ATIVO,UNIDADE,3504,146
+"Capacete de Skate",2629031,44,80,ATIVO,UNIDADE,6959.2,86.99

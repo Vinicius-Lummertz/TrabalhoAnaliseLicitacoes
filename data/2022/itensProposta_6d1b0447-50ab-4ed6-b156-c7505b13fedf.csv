@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",8483373,6000,PERDEU,UNI,36900,6.15
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",8483374,5000,PERDEU,UNI,23050,4.61
+"Fita adesiva para teste de esterilização em Autoclave",8483417,700,PERDEU,UNI,3304,4.72
+"Lençol descartavel com elástico TNT",8483446,3600,PERDEU,PCT,49680,13.8
+"Lençol hospitalar descartável em papel",8483447,2500,PERDEU,ROLO,25025,10.01
+"Termometro clinico infravermelho",8483541,120,VENCEU,UND,5880,49
+"Estetoscópio adulto duo sonic",8483551,250,VENCEU,UNI,3130,12.52
+"Reanimador manual adulto",8483552,60,VENCEU,UND,7500,125
+"Reanimador manual pediátrico",8483553,30,PERDEU,UN,3585,119.5
+"Reanimador manual neonatal",8483554,15,PERDEU,UND,2287.5,152.5

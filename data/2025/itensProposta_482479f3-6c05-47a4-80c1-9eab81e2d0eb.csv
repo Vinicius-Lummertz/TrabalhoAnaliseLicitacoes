@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviços de Caminhão Multiuso",21549416,1000,PERDEU,H,400000,400
+"Serviços de Caminhão Truck com Guindaste até 12ton.",21549417,600,PERDEU,H,210000,350
+"Transporte com Caminhão Truck 6x2",21549418,5000,VENCEU,HR,950000,190

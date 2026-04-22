@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",1268704,6,120,ATIVO,BLOCO,310.8,2.59
+"Controle de TODO;",1268705,14,100,ATIVO,BLOCO,227,2.27
+"Ficha de cadastro individual",1268706,29,300,ATIVO,BLOCO,642,2.14
+"Ficha visita domiciliar e-sus",1268707,32,100,ATIVO,BLOCO,228,2.28
+"Planilha de visitas domiciliares- CAPS II",1268708,40,10,ATIVO,BLOCO,71.1,7.11
+"Prescrição de Óculos",1268709,42,20,ATIVO,BLOCO,100,5
+"Programa de Planejamento Familiar",1268710,45,80,ATIVO,BLOCO,201.6,2.52
+"Receituário B2",1268711,49,500,ATIVO,BLOCO,420,0.84
+"SINAN- Atendimento Anti-Rábico Humano",1268712,58,20,ATIVO,BLOCO,122.6,6.13
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",1268713,67,30,ATIVO,BLOCO,119.7,3.99
+"Solicitação de Eletrocardiograma",1268714,68,70,ATIVO,BLOCO,181.3,2.59
+"Tratamento cirúrgico",1268715,72,5000,ATIVO,UNIDADE,215,0.043
+"Folder 297x21cm 2 dobras",1268716,75,5000,ATIVO,UNIDADE,1250,0.25
+"Folder 297x21cm 3 dobras",1268717,76,10000,ATIVO,UNIDADE,1900,0.19
+"Folder 57x21 cm",1268718,77,2500,ATIVO,UNIDADE,900,0.36
+"Folder 40x21 cm",1268719,79,2000,ATIVO,UNIDADE,580,0.29
+"Folder 297x21 3 dobras - papel couche;  cor 4x0 colorido, br",1268720,80,2500,ATIVO,UNIDADE,600,0.24
+"Folheto 10,5x19,5cm em couche",1268721,81,3000,ATIVO,UNIDADE,360,0.12
+"Folder 297x21cm 2 dobras colorido, brilho",1268723,83,30000,ATIVO,UNIDADE,3900,0.13
+"Folder 20x21cm 1 dobra",1268748,85,12000,ATIVO,UNIDADE,1800,0.15
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",1268749,86,10000,ATIVO,UNIDADE,1600,0.16
+"Panfleto 15x21cm papel couche colorido 4x4",1268750,87,10000,ATIVO,UNIDADE,1400,0.14
+"Pasta com Orelha com medidas aproximadas de 31x22cm",1268763,95,3000,ATIVO,UNIDADE,1800,0.6

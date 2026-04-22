@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Azitromicina 500mg  blister com 01 comprimido",1265600,33,100000,ATIVO,COMPRIMIDO,142000,1.42
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",1265601,38,10000,ATIVO,"Frasco ampola",81990,8.199
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",1265602,44,2000,ATIVO,FRASCO,1200,0.6
+"Carvão ativado 1kg, pacote.",1265603,58,4,ATIVO,PACOTE,192,48
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconsti",1265604,64,10000,ATIVO,FRASCO,61400,6.14
+"Diazepam 5mg/mL solução injetável, ampola 2ml.",1265605,91,3000,ATIVO,AMP,1680,0.56
+"Dipirona 500mg/ml, injetável, ampola 2ml.",1265606,99,30000,ATIVO,AMP,12570,0.419
+"Enantoato de noretisterona + valerato de estradiol, injetáve",1265607,107,6000,ATIVO,AMP,68940,11.49
+"Hidroclorotiazida 25mg cpr, em blister.",1265608,140,2300000,ATIVO,COMPRIMIDO,30590,0.0133
+"Hidrocortisona 100mg pó para suspensão injetável.",1265609,141,3000,ATIVO,"Frasco ampola",7110,2.37
+"Miconazol 20mg/g (2%) creme dermatológico, bisnaga 30g.",1265610,189,6000,ATIVO,BISNAGA,11598,1.933
+"Sulfametoxazol 200mg+ Trimetoprima 40mg/5mL, suspensão oral,",1265611,235,5000,ATIVO,FRASCO,9794,1.9588
+"Tenoxicam 20 mg pó, para suspensão injetável endovenoso ou i",1265612,240,1500,ATIVO,"Frasco ampola",8699.85,5.7999
+"Ranitidina 25mg/mL, injetável, ampola 2ml.",1265619,223,10000,ATIVO,AMP,4260,0.426
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",1328338,244,400,ATIVO,FRASCO,528,1.32

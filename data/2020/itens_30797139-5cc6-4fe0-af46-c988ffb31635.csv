@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",1573448,8,3,ATIVO,FRASCO,2127,709
+"Coleiras repelentes P",1573449,9,90,ATIVO,UNIDADE,4760.1,52.89
+"Coleiras repelentes G",1573450,10,90,ATIVO,UNIDADE,5030.1,55.89

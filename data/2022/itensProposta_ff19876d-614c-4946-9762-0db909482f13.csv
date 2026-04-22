@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel higiênico 300m, fardo com 8 unidades, folha simples, n",8772514,480,VENCEU,UND,20544,42.8
+"PAPEL HIGIENICO 500M",8772515,570,DESCLASSIFICADO,FRD,51305.7,90.01
+"PAPEL HIGIENICO 500M",9133494,190,DESCLASSIFICADO,FRD,17101.9,90.01
+"Papel Higienico 30m,fardo oom 64 unidades,folha dupla",8772516,6388,DESCLASSIFICADO,FRD,338564,53
+"Papel Higienico 30m,fardo oom 64 unidades,folha dupla",9133496,672,PERDEU,FRD,35616,53

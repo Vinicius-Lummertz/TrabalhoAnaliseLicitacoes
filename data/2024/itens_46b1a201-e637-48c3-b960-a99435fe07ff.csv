@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",5936328,1,1,ATIVO,UNIDADE,150000,13
+"Fresadora Wirtgen W100",5936329,4,1,ATIVO,UNIDADE,180000,14
+"Trator de Esteira John Deere 750J",5936330,28,1,ATIVO,UNIDADE,220000,12.5
+Mangueiras,5936331,30,1,ATIVO,UNIDADE,227089.57,13.5

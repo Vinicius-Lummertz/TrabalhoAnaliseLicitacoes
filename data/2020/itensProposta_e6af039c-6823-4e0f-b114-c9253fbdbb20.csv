@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Foco auxiliar e ginecológico portátil, lâmpada LED, com espe",4444138,5,DESCLASSIFICADO,UNI,4250,850
+"Suporte de soro em aço inox",4444141,2,INABILITADO,UN,496,248
+"Carro de curativos em aço inox",4444142,4,PERDEU,UNI,2860,715
+"Autoclave esterilização a vapor",4444145,1,INABILITADO,UNI,16500,16500
+"Aspirador Cirúrgico Elétrico Portátil",4444148,1,CANCELADO,UNI,4800,4800
+"Foco Cirúrgico Auxiliar com tecnologia LED",4444149,1,VENCEU,UN,17750,17750
+"Cadeira de Rodas adulto para obeso",4444150,2,INABILITADO,UN,5380,2690
+"Balança Eletrônica digital Adulto Obeso visor LED",4444151,1,PERDEU,UN,1075,1075
+"Balança digital infantil, visor em LED",4444152,1,DESCLASSIFICADO,UN,764,764
+"Detector de batimento cardíaco fetal digital portátil",4444154,2,DESCLASSIFICADO,UN,2528,1264
+"Eletrocardiógrafo Portátil, digital, 12 derivações de ECG, c",4444159,2,INABILITADO,UN,15100,7550
+"Bandeja lisa retangular, em aço inox",4444168,10,VENCEU,UN,820,82

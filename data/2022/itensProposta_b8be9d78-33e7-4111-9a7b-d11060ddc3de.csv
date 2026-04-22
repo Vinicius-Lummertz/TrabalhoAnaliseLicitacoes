@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Elaboração de projetos de pavimentação de ruas, incluso trevos e rótulas",7979965,36,VENCEU,KM,695664,19324
+"Elaboração de projeto de drenagem e macrodrenagem.",7979966,8,VENCEU,KM,480000,60000
+"Elaboração de projeto de urbanização",7979967,40000,VENCEU,M2,680000,17
+"Elaboração de projetos arquitetônicos de construção e reforma de edificações",7979968,25000,VENCEU,M2,750000,30
+"Elaboração de projeto estrutural de construção e reforma de edificações",7979969,30000,VENCEU,M2,450000,15
+"Elaboração de projeto elétrico de construção e reforma de edificações",7979970,30000,VENCEU,M2,300000,10
+"Elaboração de projeto hidráulico de construção e reforma de edificações",7979972,30000,VENCEU,M2,240000,8
+"Elaboração de projeto preventivo de incêndio (PPCI) de construções e reformas de edificações",7979973,40000,VENCEU,M2,600000,15
+"Elaboração de projeto de rede lógica de construção e reforma de edificações",7979974,30000,VENCEU,M2,240000,8
+"Execução de serviço de topografia e aerofotografia pertinentes aos estudos de terrenos da municipalidade destinada a edificações diversas, incluindo levantamento planialtimétrico cadastral",7979975,100000,VENCEU,HORA,20000,0.2
+"Atualização orçamentária de projetos de engenharia, baseado em referências oficiais de obras públicas",7979976,300,VENCEU,HORA,18888,62.96
+"Laudos para instalações elétricas e SPDA do PPCI",7979977,2500,VENCEU,M2,7500,3

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",11374630,10000,PERDEU,M2,442000,44.2
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",11374635,6000,PERDEU,m,123000,20.5
+"Piso Podotátil De Concreto 40 x 40 x 2,5cm",11374636,1000,VENCEU,UND,10400,10.4
+"Tampas de boca de Lobo",11374637,2000,PERDEU,UND,400000,200

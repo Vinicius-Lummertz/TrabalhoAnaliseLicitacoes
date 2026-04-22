@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,5850,1.95
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,229500,0.51
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconstituição.",11967219,10000,PERDEU,FR,82000,8.2
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,VENCEU,FR/AM,4000,4
+"Heparina 5000 UI/0,25mL injetável, ampola.",11967300,12000,PERDEU,AMP,79080,6.59
+"Hidrocortisona 100mg pó para suspensão injetável.",11967302,2000,PERDEU,FR/AM,7860,3.93
+"Hidrocortisona 500mg pó para suspensão injetável.",11967303,3000,PERDEU,FR/AM,18480,6.16
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",11967304,12000,PERDEU,FR.,43680,3.64
+"Permetrina 10mg/mL loção, frasco 60ml.",11967372,12000,PERDEU,FR.,26400,2.2
+"Permetrina 50mg/mL loção, frasco 60ml.",11967373,10000,PERDEU,FR.,32500,3.25
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,56500,1.13

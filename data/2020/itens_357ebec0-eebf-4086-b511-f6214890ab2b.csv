@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carbamazepina 200mg cpr.",1267902,53,1600000,ATIVO,COMPRIMIDO,208000,0.13
+"Beclometasona 50mcg spray nasal com 200 doses, frasco 11,4ml",1267903,37,500,ATIVO,FRASCO,11250,22.5
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",1267904,38,10000,ATIVO,"Frasco ampola",84900,8.49
+"Carvão ativado 1kg, pacote.",1267905,58,10,ATIVO,PACOTE,538.46,53.8458
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconsti",1267913,64,8000,ATIVO,FRASCO,54800,6.85
+"Clonazepam 2,5mg/mL , 20ml, frasco de vidro âmbar 20ml.",1268057,71,3000,ATIVO,FRASCO,9549,3.183
+"Clonidina 0,15mg cpr, em blister.",1268058,75,2000,ATIVO,COMPRIMIDO,576.4,0.2882
+"Fenitoina 50mg/mL, injetável, ampola 5ml.",1268059,115,200,ATIVO,AMP,390,1.95
+"Fenobarbital 100mg cpr, em blister.",1268060,116,350000,ATIVO,COMPRIMIDO,46550,0.133
+"Hidrocortisona 100mg pó para suspensão injetável.",1268061,141,3000,ATIVO,"Frasco ampola",8097,2.699
+"Sulfametoxazol 200mg+ Trimetoprima 40mg/5mL, suspensão oral,",1268062,235,5000,ATIVO,FRASCO,18170,3.634
+"Sulfato ferroso 25 mg/ml xarope, frasco 120 ml.",1268063,238,1000,ATIVO,FRASCO,1417.5,1.4175
+"Tramadol, cloridrato 50mg capsula, em blister.",1268064,245,1000000,ATIVO,COMPRIMIDO,145000,0.145
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",1268065,252,8000,ATIVO,AMP,6952,0.869
+"Alopurinol 100mg cpr, em blister.",1328364,18,600000,ATIVO,COMPRIMIDO,60000,0.1

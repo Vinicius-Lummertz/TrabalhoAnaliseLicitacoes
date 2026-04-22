@@ -1,0 +1,46 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Prova 1º ano - Produção textual (1ª FASE)",2709995,1,104,ATIVO,UNIDADE,3746.5,36.024
+"Prova 2º ano - Produção textual (1ª FASE)",2709996,2,98,ATIVO,UNIDADE,3584.44,36.5759
+"Prova 3º ano - Produção textual (1ª FASE)",2709997,3,91,ATIVO,UNIDADE,3334.02,36.6376
+"Prova 4º ano - Produção textual (1ª FASE)",2709998,4,84,ATIVO,UNIDADE,3084.43,36.7194
+"Prova 5º ano - Produção textual (1ª FASE)",2709999,5,88,ATIVO,UNIDADE,3224.17,36.6383
+"Prova 6º ano - Produção textual (1ª FASE)",2710000,6,61,ATIVO,UNIDADE,2387.81,39.1444
+"Prova 7º ano - Produção textual (1ª FASE)",2710001,7,63,ATIVO,UNIDADE,2411.72,38.2813
+"Prova 8º ano - Produção textual (1ª FASE)",2710002,8,64,ATIVO,UNIDADE,2450.16,38.2838
+"Prova 9º ano - Produção textual (1ª FASE)",2710003,9,62,ATIVO,UNIDADE,2373.27,38.2785
+"Prova 1º ano - Produção textual (2ª FASE)",2710004,10,104,ATIVO,UNIDADE,2275.59,21.8807
+"Prova 2º ano - Produção textual (2ª FASE)",2710005,11,98,ATIVO,UNIDADE,2162.62,22.0676
+"Prova 3º ano - Produção textual (2ª FASE)",2710006,12,91,ATIVO,UNIDADE,2001.04,21.9895
+"Prova 4º ano - Produção textual (2ª FASE)",2710007,13,84,ATIVO,UNIDADE,1909.86,22.7364
+"Prova 5º ano - Produção textual (2ª FASE)",2710008,14,88,ATIVO,UNIDADE,2002.76,22.7586
+"Prova 6º ano - Produção textual (2ª FASE)",2710009,15,61,ATIVO,UNIDADE,1440.98,23.6226
+"Prova 7º ano - Produção textual (2ª FASE)",2710010,16,63,ATIVO,UNIDADE,1487.31,23.6081
+"Prova 8º ano - Produção textual (2ª FASE)",2710011,17,64,ATIVO,UNIDADE,1511.51,23.6173
+"Prova 9º ano - Produção textual (2ª FASE)",2710012,18,62,ATIVO,UNIDADE,1465.18,23.6319
+"1º ano - Prova de Matemática (1ª FASE)",2710013,19,104,ATIVO,UNIDADE,7943.19,76.3768
+"2º ano - Prova de Matemática (1ª FASE)",2710014,20,98,ATIVO,UNIDADE,7606.45,77.6168
+"3º ano - Prova de Matemática (1ª FASE)",2710015,21,91,ATIVO,UNIDADE,6482.09,71.2318
+"4º ano - Prova de Matemática (1ª FASE)",2710016,22,84,ATIVO,UNIDADE,6049.82,72.0217
+"5º ano - Prova de Matemática (1ª FASE)",2710017,23,88,ATIVO,UNIDADE,6127.01,69.6251
+"6º ano - Prova de Matemática (1ª FASE)",2710018,24,61,ATIVO,UNIDADE,4491.42,73.6298
+"7º ano - Prova de Matemática (1ª FASE)",2710019,25,63,ATIVO,UNIDADE,4335.26,68.8137
+"8º ano - Prova de Matemática (1ª FASE)",2710020,26,64,ATIVO,UNIDADE,4405.61,68.8377
+"9º ano - Prova de Matemática (1ª FASE)",2710021,27,62,ATIVO,UNIDADE,4416.01,71.226
+"1º ano - Prova de Matemática (2ª FASE)",2710022,28,104,ATIVO,UNIDADE,6158.48,59.2162
+"2º ano - Prova de Matemática (2ª FASE)",2710023,29,98,ATIVO,UNIDADE,5646.64,57.6188
+"3º ano - Prova de Matemática (2ª FASE)",2710024,30,91,ATIVO,UNIDADE,5243.45,57.6203
+"4º ano - Prova de Matemática (2ª FASE)",2710025,31,84,ATIVO,UNIDADE,5108.37,60.8139
+"5º ano - Prova de Matemática (2ª FASE)",2710026,32,88,ATIVO,UNIDADE,5211.98,59.227
+"6º ano - Prova de Matemática (2ª FASE)",2710027,33,61,ATIVO,UNIDADE,3759.57,61.6323
+"7º ano - Prova de Matemática (2ª FASE)",2710028,34,63,ATIVO,UNIDADE,3680.6,58.4222
+"8º ano - Prova de Matemática (2ª FASE)",2710029,35,64,ATIVO,UNIDADE,3790.16,59.2212
+"9º ano - Prova de Matemática (2ª FASE)",2710030,36,62,ATIVO,UNIDADE,3672.87,59.2398
+"1º ano - Prova de Língua Portuguesa",2710031,37,104,ATIVO,UNIDADE,6491.6,62.4192
+"2º ano - Prova de Língua Portuguesa",2710032,38,98,ATIVO,UNIDADE,6665,68.0102
+"3º ano - Prova de Língua Portuguesa",2710033,39,91,ATIVO,UNIDADE,6116.33,67.2124
+"4º ano - Prova de Língua Portuguesa",2710034,40,84,ATIVO,UNIDADE,5848.23,69.6218
+"5º ano - Prova de Língua Portuguesa",2710035,41,88,ATIVO,UNIDADE,6267.15,71.2176
+"6º ano - Prova de Língua Portuguesa",2710036,42,61,ATIVO,UNIDADE,3709.41,60.81
+"7º ano - Prova de Língua Portuguesa",2710037,43,63,ATIVO,UNIDADE,3832.31,60.8303
+"8º ano - Prova de Língua Portuguesa",2710038,44,64,ATIVO,UNIDADE,3893.76,60.84
+"9º ano - Prova de Língua Portuguesa",2710039,45,62,ATIVO,UNIDADE,3770.86,60.8203

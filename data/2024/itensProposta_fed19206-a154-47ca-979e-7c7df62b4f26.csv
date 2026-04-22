@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",16295807,400000,VENCEU,CPLA,120000,0.3
+"Ácido Valproico 500mg cpr.",16295808,650000,VENCEU,COMP,364000,0.56
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100ml.",16295809,6500,DESCLASSIFICADO,FRA,117000,18
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",16295886,4500,PERDEU,BIS,90000,20
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,PERDEU,AM,120000,20
+"Finasterida 5 mg cpr, em blister.",16295923,150000,PERDEU,COMP,75000,0.5
+"Levotiroxina sódica 100mcg cpr, em blister.",16295965,550000,PERDEU,COMP,192500,0.35
+"Levotiroxina sódica 25mcg cpr, em blister.",16295966,750000,PERDEU,COMP,225000,0.3
+"Levotiroxina sódica 50 mcg cpr, em blister.",16295967,750000,PERDEU,COMP,187500,0.25
+"Tramadol, cloridrato 50mg capsula, em blister.",16296040,1200000,PERDEU,COMP,240000,0.2
+"Tramadol, cloridrato 50mg/mL injetável, ampola 2ml.",16296042,7000,PERDEU,AMP,21000,3
+"Verapamil 80mg cpr, em blister.",16296045,300000,PERDEU,COMP,450000,1.5

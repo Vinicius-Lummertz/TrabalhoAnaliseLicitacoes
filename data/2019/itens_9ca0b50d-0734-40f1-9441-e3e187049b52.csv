@@ -1,0 +1,126 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lima tipo K nº 10 de 25 mm",1265038,300,30,ATIVO,CAIXA,495,16.5
+"Lima tipo K nº 10 de 21 mm",1265039,299,30,ATIVO,CAIXA,495,16.5
+"Lima tipo K nº 10 de 31 mm",1265040,293,50,ATIVO,CAIXA,825,16.5
+"Lima Reciprocante para tratamento de canal 06 com 25mm",1265041,292,50,ATIVO,CAIXA,8675,173.5
+"Lima Reciprocante para tratamento de canal 06 com 21mm",1265042,291,50,ATIVO,CAIXA,8675,173.5
+"Lima Reciprocante para tratamento de canal 07 com 21mm",1265043,289,50,ATIVO,CAIXA,8675,173.5
+"Lima Reciprocante p/ tratamento de canal 3 limas C/ pont 20",1265044,288,50,ATIVO,CAIXA,8675,173.5
+"Lima Reciprocante wave one gold",1265045,287,50,ATIVO,CAIXA,8675,173.5
+"Lima Flex-file nº 15 de 21 mm",1265046,275,50,ATIVO,CAIXA,862.5,17.25
+"Lima Flex-file nº 20 de 25 mm",1265047,279,30,ATIVO,CAIXA,517.5,17.25
+"Lima Flex-file nº 20 de 21 mm",1265048,278,30,ATIVO,CAIXA,517.5,17.25
+"Lima Flex-file nº 15 de 31 mm",1265049,277,40,ATIVO,CAIXA,690,17.25
+"Lima Flex-file nº 15 de 25 mm",1265050,276,40,ATIVO,CAIXA,690,17.25
+"Lima Flex-file 1ª série nº 15 a 40 de 31 mm",1265051,274,40,ATIVO,CAIXA,690,17.25
+"Lima Flex-file 1ª série nº 15 a 40 de 25 mm",1265052,273,40,ATIVO,CAIXA,690,17.25
+"Lima tipo K nº 8 de 21 mm",1265053,301,30,ATIVO,CAIXA,495,16.5
+"Lima Flex-file 1ª série nº 15 a 40 de 21 mm",1265054,272,40,ATIVO,CAIXA,690,17.25
+"Lima Flex-file nº 20 de 31 mm",1265055,280,30,ATIVO,CAIXA,517.5,17.25
+"LUVAS LÁTEX, TAMANHO P",1265056,307,300,ATIVO,CAIXA,5820,19.4
+"Antisséptico Bucal Periogard",1265057,390,90,ATIVO,FRASCO,5323.5,59.15
+"Luva cirurgica Látex tamanho 8,0",1265058,309,1650,ATIVO,PACOTE,1600.5,0.97
+"Luva Nitrílica não esteril para procedimento tamanho P.",1265059,310,130,ATIVO,CAIXA,2106,16.2
+"Otosporin - suspensão",1265060,320,100,ATIVO,FRASCO,1170,11.7
+"Cimento dentário",1265061,322,20,ATIVO,UNIDADE,3110,155.5
+"PAPEL DE ARTICULAÇÃO",1265062,325,350,ATIVO,BLOCO,2135,6.1
+"Pavio para lamparina",1265063,333,2,ATIVO,PACOTE,7.98,3.99
+"Pedra pomes extra fina",1265064,335,50,ATIVO,POTE,312.5,6.25
+"Placa de vidro lapidada",1265065,338,40,ATIVO,UNIDADE,220.8,5.52
+"RESINA FOTOPOLIMERIZÁVEL COR A1",1265066,353,180,ATIVO,SERINGA,6579,36.55
+"RESINA FOTOPOLIMERIZAVEL COR A2",1265067,354,400,ATIVO,SERINGA,14700,36.75
+"Resina composta fotoativada de baixa viscosidade na cor A3",1265068,359,100,ATIVO,SERINGA,2590,25.9
+"SERINGA DESCARTAVEL 20 ML",1265069,365,550,ATIVO,CAIXA,330,0.6
+"Spray congelante -50º",1265070,366,40,ATIVO,FRASCO,1080,27
+"Sugador de saliva descartável",1265071,369,1600,ATIVO,PACOTE,7520,4.7
+"Tamborel Endometric",1265072,372,2,ATIVO,UNIDADE,23.94,11.97
+"Pasta Zinco-Enólica",1265073,387,50,ATIVO,kit,1559,31.18
+"Pasta Para Solda de Prata",1265074,396,15,ATIVO,UNIDADE,132,8.8
+"COLGADURA INDIVIDUAL",1265075,443,40,ATIVO,UNIDADE,118,2.95
+"Kit odontológico de higiene dental infantil -",1265076,262,3750,ATIVO,kit,25875,6.9
+"Luva cirurgica Látex tamanho 6,5",1265077,308,1500,ATIVO,PACOTE,1455,0.97
+"Ionômero de vidro R fotopolimerizavel",1265078,258,450,ATIVO,kit,32670,72.6
+"Godiva em bastão, verde",1265080,249,5,ATIVO,CAIXA,106.25,21.25
+"Alicate Ortodôntico De La Rosa 109",1265081,16,5,ATIVO,UNIDADE,344.25,68.85
+"Alicate Ortodôntico 139",1265082,20,5,ATIVO,UNIDADE,344.25,68.85
+"Alavanca apical reta",1265083,24,15,ATIVO,UNIDADE,454.8,30.32
+"Kit de alavanca apical",1265084,25,10,ATIVO,kit,610,61
+"Kit Alavanca Seldin (tipo bandeirinha)",1265085,26,10,ATIVO,kit,610.5,61.05
+"CABO P/ ESPELHO ODONTOLOGICO",1265086,30,250,ATIVO,UNIDADE,1825,7.3
+"Compasso Willis-Jon",1265087,32,2,ATIVO,UNIDADE,53.3,26.65
+"Cureta dentina (escavador)nº20",1265088,34,30,ATIVO,UNIDADE,303,10.1
+"Cureta Maccall 17-18",1265089,35,30,ATIVO,UNIDADE,1078.2,35.94
+"CURETA GRACEY 5-6 - EM AÇO INOX",1265090,36,110,ATIVO,UNIDADE,3953.4,35.94
+"CURETA GRACEY 7-8 - EM AÇO INOX",1265091,37,30,ATIVO,UNIDADE,1078.2,35.94
+"CURETA GRACEY 11-12 - EM AÇO INOX",1265092,38,30,ATIVO,UNIDADE,1078.2,35.94
+"CURETA GRACEY 13-14 - EM AÇO INOX",1265093,39,30,ATIVO,UNIDADE,1078.2,35.94
+"Descolador cirurgico Molt Nº 09",1265094,40,60,ATIVO,UNIDADE,2580,43
+"Grampo para isolamento nº210",1265095,50,20,ATIVO,UNIDADE,258,12.9
+"Grampo para isolamento nº211",1265096,51,20,ATIVO,UNIDADE,258,12.9
+"Grampo para isolamento nº212",1265097,52,20,ATIVO,UNIDADE,258,12.9
+"Grampo para isolamento nºW8A",1265098,53,25,ATIVO,UNIDADE,322.5,12.9
+"Lamparina de inox",1265099,54,5,ATIVO,UNIDADE,213.8,42.76
+"Lamparina Hannau",1265100,55,3,ATIVO,UNIDADE,66,22
+"Pinça porta grampo palmer,em aço inox",1265101,57,5,ATIVO,UNIDADE,345.5,69.1
+"SONDA MILIMETRADA",1265102,67,50,ATIVO,UNIDADE,1262.5,25.25
+"Sonda Exploradora Odontológica nº5",1265103,68,250,ATIVO,UNIDADE,2000,8
+"Tesoura cirúrgica IRIS, ponta fina, 11,5",1265104,71,100,ATIVO,UNIDADE,1500,15
+"Tesoura cirúrgica Mayo reta, 14 cm",1265105,72,30,ATIVO,UNIDADE,762,25.4
+"Espelho bucal plano numero 5",1265106,81,20,ATIVO,UNIDADE,118.4,5.92
+"Espelho bucal plano numero 3",1265107,82,20,ATIVO,UNIDADE,118.4,5.92
+"Calcador de banda",1265108,10,5,ATIVO,UNIDADE,184.5,36.9
+"Acalcador de Banda c/ Ponta Quadrada",1265109,8,5,ATIVO,UNIDADE,52.75,10.55
+"Acalcador de Banda c/ Ponta",1265110,6,5,ATIVO,UNIDADE,52.75,10.55
+"Acalcador de Banda c/ Ponta triangular.",1265111,5,5,ATIVO,UNIDADE,52.75,10.55
+"Hidróxido de cálcio pró-análise",1265118,254,90,ATIVO,POTE,334.8,3.72
+"Estojo Inox Perfurado",1265125,84,5,ATIVO,UNIDADE,466,93.2
+"Tensiômetro / Dinamômetro Ortodôntico",1265139,2,5,ATIVO,UNIDADE,505,101
+"Porta Agulha Castroviejo Especial",1265141,88,5,ATIVO,UNIDADE,1156.3,231.26
+"Fita matriz metálica de 5mm",1265143,239,150,ATIVO,ROLO,225,1.5
+"Broca de baixa rotação carbide n° 8",1265144,152,500,ATIVO,UNIDADE,1995,3.99
+"Broca de baixa rotação haste longa n° 1. Autoclavavel",1265145,153,30,ATIVO,UNIDADE,91.5,3.05
+"Broca de baixa rotação haste longa n° 2. Autoclavavel",1265146,154,30,ATIVO,UNIDADE,91.5,3.05
+"Broca de baixa rotação haste longa n° 4. Autoclavavel",1265147,155,50,ATIVO,UNIDADE,152.5,3.05
+"Broca de baixa rotação haste longa n° 6. Autoclavavel",1265148,156,50,ATIVO,UNIDADE,152.5,3.05
+"Broca de baixa rotação haste longa n° 8. Autoclavavel",1265149,157,30,ATIVO,UNIDADE,91.5,3.05
+"BROCA ENDO Z - 21 MM",1265150,164,30,ATIVO,UNIDADE,744,24.8
+"BROCA HASTE LONGA  LL CARBIDE - Nº2",1265151,165,5,ATIVO,UNIDADE,30.5,6.1
+"BROCA HASTE LONGA LL CARBIDE - Nº4",1265152,166,5,ATIVO,UNIDADE,30.5,6.1
+"Broca haste longa carbide nº 701",1265153,168,30,ATIVO,UNIDADE,183,6.1
+"Broca haste longa carbide nº 702",1265154,169,40,ATIVO,UNIDADE,244,6.1
+"Cimento de hidróxido de cálcio - kit.",1265155,188,150,ATIVO,kit,3492,23.28
+"Broca de baixa rotação carbide n° 6",1265156,151,600,ATIVO,UNIDADE,2394,3.99
+"Cone de papel absorvente esteril nº 30",1265157,207,30,ATIVO,CAIXA,660,22
+"Cone de papel absorvente esteril nº 40",1265158,209,30,ATIVO,CAIXA,660,22
+"CONE DE PAPEL ABSORVENTE PRIMEIRA SÉRIE",1265159,210,35,ATIVO,CAIXA,770,22
+"Espatula para Alginato",1265160,215,20,ATIVO,UNIDADE,33.2,1.66
+"Dedal de borracha - amalgador",1265161,218,5,ATIVO,UNIDADE,8.25,1.65
+"Escova de aco para limpar brocas",1265162,223,50,ATIVO,UNIDADE,196,3.92
+"ESPONJA HEMOSTÁTICA",1265163,229,120,ATIVO,CAIXA,3510,29.25
+"Filme Periapical adulto E-speed",1265164,233,50,ATIVO,CAIXA,6625,132.5
+"Fio agulhado seda, 3.0/EP2",1265165,236,350,ATIVO,CAIXA,10605,30.3
+"FITA AUTOCLAVE",1265166,238,100,ATIVO,ROLO,274,2.74
+"Fita matriz metalica de 7mm",1265167,240,80,ATIVO,ROLO,120,1.5
+"Fita matriz poliéster transparente 10 X 120 X 0,05 mm",1265168,241,160,ATIVO,CAIXA,180.8,1.13
+"FORMOCRESOL - Frasco com 10ml",1265169,243,50,ATIVO,FRASCO,193.5,3.87
+"Cone de papel absorvente  esteril nº 35",1265170,208,30,ATIVO,CAIXA,660,22
+"Broca de baixa rotação carbide n° 4",1265171,150,600,ATIVO,UNIDADE,2394,3.99
+"BROCA HASTE LONGA LL CARBIDE - Nº6",1265172,167,5,ATIVO,UNIDADE,30.5,6.1
+"Broca de baixa rotação CARBIDE n° 1",1265173,148,200,ATIVO,UNIDADE,770,3.85
+"Cinzel Ochsenbein nº 1",1265174,101,5,ATIVO,UNIDADE,251.35,50.27
+"Acrilico autopolimerizavel po cor rosa",1265175,103,10,ATIVO,POTE,695,69.5
+"Broca de baixa rotação carbide n° 2",1265176,149,200,ATIVO,UNIDADE,798,3.99
+"Adesivo dental fotopolimerizável do tipo II",1265177,104,200,ATIVO,FRASCO,21000,105
+"ALGODÃO EM ROLETES",1265178,114,2150,ATIVO,PACOTE,3225,1.5
+"LIDOCAINA 2% COM VASOCONSTRITOR EPINEFRINA 1:100.000",1265179,117,650,ATIVO,CXA,53235,81.9
+"MEPIVACAINA 2% COM VASOCONSTRITOR EPINEFRINA 1:100.000",1265180,119,180,ATIVO,CAIXA,20826,115.7
+"ARTICAINE 4% COM VASOCONSTRITOR EPINEFRINA 1:100.000",1265181,120,40,ATIVO,CAIXA,5300,132.5
+"Pinça Dietrich 16cm. Material em aço inox, autoclavável",1265182,89,5,ATIVO,UNIDADE,493.75,98.75
+"Anestésico tópico gel",1265183,122,450,ATIVO,POTE,2749.5,6.11
+"MEPIVACAINA 3% SEM VASOCONSTRITOR",1265184,121,90,ATIVO,CAIXA,10404,115.6
+"Broca Multilaminada 30 laminas oval n° 9406 FG 19mm",1265185,125,30,ATIVO,UNIDADE,459,15.3
+"Broca de alta rotação carbide esférica n° ¼.",1265186,132,30,ATIVO,UNIDADE,111.6,3.72
+"Broca de alta rotação carbide esférica n° ½",1265187,133,30,ATIVO,UNIDADE,111.6,3.72
+"Broca de alta rotação carbide esférica n° 8",1265188,136,120,ATIVO,UNIDADE,446.4,3.72
+"Broca de alta rotação carbide esférica n° 6",1265189,135,120,ATIVO,UNIDADE,446.4,3.72
+"Broca de alta rotação carbide esférica n° 4",1265190,134,120,ATIVO,UNIDADE,446.4,3.72

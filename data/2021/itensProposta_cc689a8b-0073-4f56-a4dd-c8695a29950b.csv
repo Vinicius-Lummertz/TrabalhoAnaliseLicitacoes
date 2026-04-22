@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel higiênico 300m.",4402591,480,VENCEU,FRD,14779.2,30.79
+"Papel higiênico 500m.",4402592,760,PERDEU,FRD,46071.2,60.62
+"Papel Higiênico 30m.",4402593,890,PERDEU,FRD,49831.1,55.99
+"Papel Higiênico 30m.",4402594,6170,PERDEU,FRD,350456,56.8

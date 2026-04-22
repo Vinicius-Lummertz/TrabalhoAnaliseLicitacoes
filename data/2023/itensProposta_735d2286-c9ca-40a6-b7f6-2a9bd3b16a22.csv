@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coffe Break",11837227,1000,VENCEU," ",28990,28.99
+"Lanche Tipo ""X""",11837227,3000,VENCEU," ",82530,27.51
+"LANCHE PRONTO",11837227,8000,VENCEU," ",206480,25.81

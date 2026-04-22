@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fita Hipoalérgica Microporosa",5557006,32,20,ATIVO,UNIDADE,87,4.35
+"LANTERNA CLINICA",5557007,39,50,ATIVO,UNIDADE,905,18.1
+"Lençol descartável",5557008,40,600,ATIVO,PACOTE,4878,8.13
+"Máscara cirúrgica descartável",5557009,44,600,ATIVO,CAIXA,1980,3.3
+"Soro Fisiológico 100ml",5557010,56,500,ATIVO,MILILITRO,1005,2.01
+"Luva Nitrílica Azul",5822488,42,1460,ATIVO,CAIXA,17987.2,12.32

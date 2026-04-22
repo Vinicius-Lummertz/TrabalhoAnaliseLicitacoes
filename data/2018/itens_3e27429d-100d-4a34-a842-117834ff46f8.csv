@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ARLA em litros",1304304,3,2000,ATIVO,LITRO,6780,3.39
+"GASOLINA COMUM",1308324,1,18000,ATIVO,LITROS,77398.2,4.2999
+"DIESEL S-10",1310329,2,23000,ATIVO,LITROS,82777,3.599

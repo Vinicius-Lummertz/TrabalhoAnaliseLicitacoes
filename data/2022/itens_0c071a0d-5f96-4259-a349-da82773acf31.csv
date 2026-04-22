@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",3312383,54,1500,ATIVO,PACOTE,123750,82.5
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",3312384,55,500,ATIVO,PACOTE,43999.95,87.9999
+"Compressa de gaze (tipo queijo) em rolo",3312385,58,250,ATIVO,ROLO,23675,94.7
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 13 fios, pacote com 500und.",3312386,59,1500,ATIVO,PACOTE,33779.85,22.5199
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",3312387,60,637500,ATIVO,PACOTE,395186.25,0.6199
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",3312388,61,212500,ATIVO,PACOTE,138103.75,0.6499
+"Luva Plástica Estéril Descartável",3312389,148,1200,ATIVO,PACOTE,13271.88,11.0599
+"Seringa 5ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",3312390,169,100000,ATIVO,UNIDADE,15990,0.1599
+"Seringa 10 ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",3312391,170,70000,ATIVO,UNIDADE,20993,0.2999
+"Seringa 60ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",3312392,172,2000,ATIVO,UNIDADE,3320,1.66

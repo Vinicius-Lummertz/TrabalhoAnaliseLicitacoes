@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",6650505,1,1,ATIVO,UNIDADE,19117.55,13
+"Escavadeira XCMG XE215BR",6650506,2,2,ATIVO,UNIDADE,38235.3,13
+"Minicarregadeira Caterpillar 246C",6650507,4,1,ATIVO,UNIDADE,19117.65,13
+"Minicarregadeira New Holland L325",6650508,5,1,ATIVO,UNIDADE,19117.65,13
+"Motoniveladora New Holland RG170B",6650509,7,1,ATIVO,UNIDADE,19117.65,13
+"Pá Carregadeira Doosan SD200-3",6650510,8,1,ATIVO,UNIDADE,19117.65,13
+"Pá Carregadeira Hyundai HL 740-9S",6650511,9,1,ATIVO,UNIDADE,19117.65,13
+"Pá Carregadeira Michigan 55C",6650512,10,1,ATIVO,UNIDADE,19117.65,15
+"Retroescavadeira JCB 3CX",6650513,12,3,ATIVO,UNIDADE,57352.95,13.5
+"Rolo Compactador Tema Terra SP8000",6650514,21,1,ATIVO,UNIDADE,19117.65,12.5
+"Rolo Compactador Muller VAP55",6650515,22,1,ATIVO,UNIDADE,19117.65,13.5
+"Trator de Esteira John Deere 750J",6650516,27,1,ATIVO,UNIDADE,19117.65,12.5

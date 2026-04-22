@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressor odontológico em ferro fundido",4221999,523,2,ATIVO,UNIDADE,9990,4995
+"Fotopolimerizador sem fio",4222000,524,15,ATIVO,UNIDADE,26250,1750
+"Localizador apical eletrônico",4222001,525,2,ATIVO,UNIDADE,3315,1657.5

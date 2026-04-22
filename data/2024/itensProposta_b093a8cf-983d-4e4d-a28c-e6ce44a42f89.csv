@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,300,PERDEU," ",2325,7.75
+"Cano cobre ½;",0,60,PERDEU," ",1620,27
+"Cano cobre ¼",0,60,PERDEU," ",1500,25
+"Cano cobre ¾;",0,60,PERDEU," ",3180,53
+"Cano cobre 3/8",0,60,PERDEU," ",1680,28
+"Cano cobre 5/8",0,60,PERDEU," ",2190,36.5
+"Cano esponjoso ¼",0,70,PERDEU," ",315,4.5
+"Cano esponjoso ½",0,70,PERDEU," ",315,4.5
+"Cano esponjoso ¾",0,70,PERDEU," ",322,4.6
+"Cano esponjoso 3/8",0,70,PERDEU," ",343,4.9
+"Cano esponjoso 5/8",0,70,PERDEU," ",343,4.9
+"Capacitor 380V 2 UF",0,10,PERDEU," ",380,38
+"Capacitor 380V 4 UF",0,10,PERDEU," ",420,42
+"Capacitor 380V 6 UF",0,10,PERDEU," ",530,53
+"Capacitor 380V 25 UF",0,10,PERDEU," ",550,55
+"Capacitor 380V 30 UF",0,10,PERDEU," ",430,43
+"Capacitor 380V 35 UF",0,10,PERDEU," ",470,47
+"Capacitor 380V 40 UF",0,10,PERDEU," ",530,53
+"Capacitor 380V 45 UF",0,10,PERDEU," ",560,56
+"Capacitor 380V 55 UF",0,10,PERDEU," ",550,55
+"Chave contactora CWM 09",0,10,PERDEU," ",1650,165
+"Chave contactora CWM 10",0,10,PERDEU," ",1650,165
+"Compressor para Split 9000 BTUS",0,3,PERDEU," ",1920,640
+"Compressor para Split 12000 BTUS",0,3,PERDEU," ",2400,800
+"Compressor para Split 24000 BTUS",0,3,PERDEU," ",3300,1100
+"Compressor para Split 48000 BTUS",0,3,PERDEU," ",7050,2350
+"Compressor para Split 60000 BTUS",0,3,PERDEU," ",7650,2550
+"Controle remoto univ. ar split",0,10,PERDEU," ",350,35
+"Gás R22 (carga)",0,100,PERDEU," ",10000,100
+"Gas R410 A (carga)",0,90,PERDEU," ",8100,90
+"Hélice ar cond. 7000 a 24.000 BTUS",0,15,PERDEU," ",450,30
+"90328929 PLACA ELETRONICA",0,10,PERDEU," ",1800,180
+"87426773	MOTOR DO VENTILADOR",0,10,PERDEU," ",5800,580
+"Suporte split 7/12000btus",0,50,PERDEU," ",2400,48
+"Suporte split 18/30000btus",0,50,PERDEU," ",4000,80
+"Termostato do ar condicionado",0,10,PERDEU," ",800,80
+"Turbina  do ventilador",0,10,PERDEU," ",4500,450
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",0,200,PERDEU," ",30000,150
+"Limpeza completa do ar split com retirada do aparelho",0,220,PERDEU," ",110000,500
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos (hora)",0,300,PERDEU," ",36000,120
+"ANÁLISE DE AR (16); CO E CO2 (16); UMIDADE, PRESSÃO, TEMPERATURA, VELOCIDADE (16); AERODISPERSÓI DES (",0,2,PERDEU," ",240,120
+"ANÁLISE DA QUALIDADE DA ÁGUA INTERNA DO SISTEMA DE CLIMATIZAÇÃO.",0,12,PERDEU," ",720,60

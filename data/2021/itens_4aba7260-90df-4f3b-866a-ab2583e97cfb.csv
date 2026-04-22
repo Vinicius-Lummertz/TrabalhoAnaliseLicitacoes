@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dispensador de senha com pedestal",1429002,3,10,ATIVO,UNIDADE,2848,284.8
+"Rolo de senha de papel",1429003,8,200,ATIVO,UNIDADE,2160,10.8
+"TNT (TECIDO NÃO TEXTURIZADO)",1429004,17,30,ATIVO,ROLO,2595,86.5

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto Sextavado 8cm de espessura com resistência",1300125,1,1000,ATIVO,"METRO QUADRADO",35000,35
+"Meio fio de concreto pré moldado de 12x30x80cm",1302181,6,3000,ATIVO,METRO,39000,13
+"PO DE PEDRA",1308310,12,1000,ATIVO,TONELADA,25400,25.4

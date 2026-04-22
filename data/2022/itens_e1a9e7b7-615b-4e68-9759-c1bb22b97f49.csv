@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",3312404,57,400,ATIVO,PACOTE,13464,33.66
+"Cuba rim, comprimento 26cm, largura 12cm, altura 6cm, capacidade cerca de 750ml.",3312405,63,120,ATIVO,UNIDADE,4918.8,40.99
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0. Características: Agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento",3312406,95,100,ATIVO,CAIXA,4159,41.59
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0. Características: Agulha triangular 3/8 CIRC. 2,5 cm, fio 45 cm de comprimento",3312407,96,50,ATIVO,CAIXA,2083,41.66
+"Lâmina de Preventivo (Ponta Fosca).",3312408,125,900,ATIVO,CXA,5841,6.49
+"Sonda endotraqueal em PVC com balão nº 2,5",3312409,189,70,ATIVO,UNIDADE,263.9,3.77
+"Sonda endotraqueal em PVC com balão nº 7,0",3312410,198,100,ATIVO,UNIDADE,443,4.43
+"Sonda endotraqueal em PVC com balão nº 8,5.",3312411,201,150,ATIVO,UNIDADE,664.5,4.43
+"Sonda endotraqueal em PVC com balão nº 9,0",3312412,202,150,ATIVO,UNIDADE,715.5,4.77

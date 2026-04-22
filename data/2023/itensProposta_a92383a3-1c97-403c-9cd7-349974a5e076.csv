@@ -1,0 +1,46 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Farinha de Mandioca crua",12632074,200,PERDEU,KG,1454,7.27
+"Feijão branco",12632077,50,PERDEU,EMB,384,7.68
+"Grão de bico",12632080,70,PERDEU,UN,676.9,9.67
+"APRESUNTADO FATIADO",12632113,350,PERDEU,KG,9450,27
+"Carne bovina: Acém resfriado",12632115,300,PERDEU,KG,10404,34.68
+"Carne bovina: Bucho bovino",12632116,200,PERDEU,KG,3360,16.8
+"Carne bovina: Coxão mole",12632118,400,PERDEU,KG,15280,38.2
+"Carne bovina: Fraldinha resfriada",12632119,250,PERDEU,KG,8850,35.4
+"Carne bovina: Fígado",12632120,200,PERDEU,KG,3190,15.95
+"Carne bovina: Moída",12632121,400,PERDEU,KG,14900,37.25
+"Carne bovina: Tatu",12632123,200,PERDEU,KG,7250,36.25
+"Carne de frango congelada: Filé de peito",12632125,400,PERDEU,KG,6400,16
+"Carne de frango congelada: Moela",12632127,200,VENCEU,KG,1556,7.78
+"Carne de frango congelada: Peito com osso",12632128,200,PERDEU,KG,2600,13
+"Carne suína congelada: Costela",12632129,350,PERDEU,KG,7700,22
+"Carne suína congelada: Lombo médio sem osso",12632130,350,PERDEU,KG,7234.5,20.67
+"Lingüiça de carne de pernil",12632133,250,PERDEU,KG,6250,25
+"Lingüiça de frango",12632134,250,PERDEU,KG,5250,21
+"Lingüiça tipo calabresa para fatiar",12632135,70,PERDEU,KG,1680,24
+"Salsicha hot dog",12632137,150,PERDEU,KG,1800,12
+"AMIDO DE MILHO",12632138,100,PERDEU,KG,750,7.5
+"ARROZ INTEGRAL",12632139,300,VENCEU,KG,1476,4.92
+"biscoito doce;",12632146,500,PERDEU,PCT,2980,5.96
+"BISCOITO SALGADO.",12632147,500,PERDEU,PCT,3665,7.33
+"Macarrão Tipo Conchinha",12632159,50,PERDEU,KG,276,5.52
+"MACARRÃO TIPO PARAFUSO INTEGRAL",12632160,250,PERDEU,KG,1450,5.8
+"Macarrão Tipo Espaguete tradicional",12632162,100,PERDEU,KG,630,6.3
+"Massa alimentícia - tipo seca, integral",12632163,100,VENCEU,UND,820,8.2
+"POLVILHO AZEDO.",12632170,50,PERDEU,PCT,382,7.64
+"Polvilho doce, a base de mandióca",12632171,50,PERDEU,EMB,321,6.42
+"CREME DE LEITE UHT",12632174,250,PERDEU,UND,862.5,3.45
+"Bombom recheado",12632193,150,PERDEU,PCTE,6973.5,46.49
+"Coco Ralado: Granulado doce e úmido. Ingredientes: coco em f",12632199,100,PERDEU,UN,480,4.8
+"Doce de frutas pote de 400g",12632200,200,PERDEU,POT,1118,5.59
+"Leite de coco",12632203,50,VENCEU,UN,223.5,4.47
+"Margarina (Creme Vegetal)",12632209,350,PERDEU,UNI,3283,9.38
+"AÇAFRÃO EM PÓ",12632218,50,PERDEU,EMB,1131,22.62
+"Café Extra  Forte",12632222,1000,PERDEU,UN,18510,18.51
+"Chá de hortelã",12632227,50,PERDEU,CX,225,4.5
+"Ervilha em conserva: Ingredientes: ervilha, água e sal. Emba",12632232,100,PERDEU,UN,449,4.49
+MAIONESE,12632235,100,PERDEU,UNI,799,7.99
+Palmito,12632240,10,PERDEU,UN,129.7,12.97
+"Sal Refinado",12632246,200,PERDEU,KG,408,2.04
+"VINAGRE DE ALCOOL",12632249,200,PERDEU,EMB,552,2.76
+"ÓLEO DE SOJA - pet de 900 ml",12632251,350,PERDEU,UNI,3094,8.84

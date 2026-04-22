@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO HEADSET.",1308839,5,10,ATIVO,UNIDADE,1529,152.9
+"APARELHO TELEFONICO SEM FIO.",1315039,4,20,ATIVO,UNIDADE,3824,191.2
+"Aparelho telefônico com fio.",1319099,3,20,ATIVO,UNIDADE,844,42.2

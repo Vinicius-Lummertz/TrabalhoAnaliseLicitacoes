@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Minicarregadeira Caterpillar 246C",6025703,4,1,ATIVO,UNIDADE,19117.65,62
+"Minicarregadeira New Holland L325",6025704,5,1,ATIVO,UNIDADE,19117.65,70
+"Motoniveladora New Holland RG170",6025705,6,2,ATIVO,UNIDADE,38235.3,65
+"Motoniveladora New Holland RG170B",6025706,7,1,ATIVO,UNIDADE,19117.65,58
+"Retroescavadeira JCB 3CXB",6025707,13,1,ATIVO,UNIDADE,19117.65,62
+"Retroescavadeira XCMG XT870BR-I",6025708,17,1,ATIVO,UNIDADE,19117.65,62
+"Rolo Compactador Bomag BW212 D40",6025709,18,1,ATIVO,UNIDADE,19117.65,62
+"Trator Agrícola LS PLUS100",6025710,24,1,ATIVO,UNIDADE,19117.65,41

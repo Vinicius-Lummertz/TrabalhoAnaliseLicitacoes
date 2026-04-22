@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escova dental adulto - Pacote com 50 unidades",2322287,300,40,ATIVO,PACOTE,1300,32.5
+"Escova dental infantil -  Pacote com 50 unidades",2322288,301,40,ATIVO,PACOTE,1260,31.5
+"Kit odontológico de higiene dental adulto",2322290,356,3000,ATIVO,kit,14640,4.88
+"Kit odontológico de higiene dental infantil",2322291,358,7000,ATIVO,kit,47530,6.79
+"Escova extra flexível para limpeza de instrumentais c/ cabo",2329153,302,120,ATIVO,UNIDADE,1212,10.1

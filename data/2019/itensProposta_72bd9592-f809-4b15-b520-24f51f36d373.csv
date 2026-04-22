@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água Oxigenada 10 V",4382898,250,VENCEU,LT,1045,4.18
+"Alcool Líquido 70%",4382900,250,DESCLASSIFICADO,LT,1755,7.02
+"Álcool Gel 70 %",4382901,150,PERDEU,UND,1195.5,7.97
+"Compressa cirúrgica",4382904,140,VENCEU,PC,10780,77
+"Compressa de Gaze Hidrófila",4382905,6000,PERDEU,PC,2940,0.49
+"Bobina de Gaze Hidrófila",4382906,15,VENCEU,RL,1027.35,68.49
+"Atadura de crepom 8 cm",4382915,1500,VENCEU,UND,855,0.57
+"Atadura de crepom 15cm",4382916,1500,PERDEU,UND,1530,1.02
+"Atadura de crepom 20cm",4382917,2000,VENCEU,UND,2700,1.35
+"Colete Socorrista PADRÃO CBMSC",4382959,15,PERDEU,UND,2407.05,160.47

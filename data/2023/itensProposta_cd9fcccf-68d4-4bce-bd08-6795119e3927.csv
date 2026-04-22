@@ -1,0 +1,160 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Afastador de Minessota",10971090,80,PERDEU,UNI,1094.4,13.68
+"Alavanca apical curva Esquerda",10971091,100,PERDEU,UN,3499,34.99
+"Alicate Ortodôntico 139",10971097,10,PERDEU,UNI,1091.8,109.18
+"Alicate Ortodôntico Bico Chato 121",10971098,10,PERDEU,UN,1091.8,109.18
+"Alicate Ortodôntico Bico De Papagaio 137",10971099,10,PERDEU,UNI,1091.8,109.18
+"Alicate Ortodôntico 151 corte amarrilho com Widea",10971101,10,PERDEU,UND,5359,535.9
+"alicate ortodôntico corte pesado com widea",10971102,10,VENCEU,UNID,4871.7,487.17
+"Alicate Ortodôntico De La Rosa 109",10971103,10,PERDEU,UNI,1091.8,109.18
+"Alicate ortodontico Jarabak 755",10971104,10,VENCEU,UNI,5949.3,594.93
+"Alicate Ortodôntico Removedor de Bráquete 346R",10971105,10,PERDEU,UN,2403.5,240.35
+"Alicate ortodôntico saca banda 347",10971106,10,PERDEU,UNI,1333.9,133.39
+"Alicate Ortodôntico Tridente 200",10971107,10,PERDEU,UN,1230,123
+"Alicate perfurador Ainsworth-5 furos",10971111,10,PERDEU,UN,1320.7,132.07
+"Alveolótomo curvo 16cm",10971112,25,PERDEU,UN,2912,116.48
+"Arco Ostby Adulto",10971114,20,PERDEU,UN,245.6,12.28
+"Arco Ostby Adulto dobrável",10971115,10,PERDEU,UN,122.8,12.28
+"Arco Ostby infantil dobrável",10971116,10,PERDEU,UN,122.8,12.28
+"Arco Young Adulto, em aço inox",10971117,10,PERDEU,UN,150,15
+"CABO P/ ESPELHO ODONTOLOGICO",10971119,500,PERDEU,UNI,3675,7.35
+"Cabo para bisturi em aço inox, nº3",10971120,150,PERDEU,UN,1800,12
+"CANETA DE ALTA ROTACAO",10971123,60,PERDEU,UN,35940,599
+"Coletor de material perfuro cortante 3L. Caixa com 10 unidades",10971129,60,PERDEU,CX,2386.8,39.78
+"Conjunto de CONTRA ÂNGULO E MICRO MOTOR",10971130,55,PERDEU,UN,55892.1,1016.22
+"Cuba Inox Redonda. Autoclavável",10971132,100,PERDEU,UN,3143,31.43
+"Cureta dentina (escavador), nº 05 PEQUENA",10971134,120,PERDEU,UN,1004.4,8.37
+"Cureta dentina (escavador)nº20, GRANDE",10971135,100,PERDEU,UNI,837,8.37
+"CURETA GRACEY 11-12 - EM AÇO INOX",10971136,50,PERDEU,UNI,2075,41.5
+"CURETA GRACEY 13-14 - EM AÇO INOX",10971137,50,PERDEU,UNI,2074.5,41.49
+"CURETA GRACEY 5-6 - EM AÇO INOX",10971138,100,PERDEU,UN,4150,41.5
+"CURETA GRACEY 7-8 - EM AÇO INOX",10971139,50,PERDEU,UNI,2447,48.94
+"Cureta Maccall 17-18 em aço inox",10971140,50,PERDEU,UN,3100,62
+"Dobrador de Amarrilho ponta preta e curva Sputnik",10971144,10,PERDEU,UND,222.8,22.28
+"Espátula Lecron",10971148,20,PERDEU,UN,400,20
+"Espátula para Gesso de inox",10971149,20,PERDEU,UN,279.8,13.99
+"Espátula para manipulação dupla nº 72",10971150,100,PERDEU,UND,1400,14
+"Grampo para isolamento nº00",10971167,20,PERDEU,UNI,354,17.7
+"Grampo para isolamento nº200",10971168,20,PERDEU,UN,354,17.7
+"Grampo para isolamento nº202",10971169,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nº206",10971170,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nº207",10971171,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nº210",10971172,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nº211",10971173,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nº212",10971174,20,PERDEU,UN,354,17.7
+"Grampo para isolamento nº26",10971175,10,PERDEU,UN,177,17.7
+"Grampo para isolamento nºW8A",10971176,25,PERDEU,UNI,442.5,17.7
+"Kit posicionador para RX adulto",10971178,5,PERDEU,KIT,327.45,65.49
+"Kit posicionador para RX infantil",10971179,5,PERDEU,KIT,327.45,65.49
+"Micro Tesoura Castroviejo Curva 11 cm",10971183,10,PERDEU,UN,1169.9,116.99
+"Pinça Backhaus 10cm",10971184,10,PERDEU,UN,468.9,46.89
+"Pinça Dietrich 16cm. Material em aço inox, autoclavável",10971186,10,PERDEU,UN,1258.7,125.87
+"Pinça Hemostática KELLY curva 14cm",10971187,10,PERDEU,UN,451.5,45.15
+"Pinça Mosquito 12cm",10971189,10,PERDEU,UN,354.5,35.45
+"Pinça porta grampo palmer",10971190,10,PERDEU,UNI,1043.7,104.37
+"Porta Agulha Castroviejo Especial Wídea 14cm",10971191,15,PERDEU,UN,2909.85,193.99
+"Porta Agulha Castroviejo simples 14cm",10971192,15,PERDEU,UN,2503.8,166.92
+"Pote dappen de vidro",10971200,250,PERDEU,UNI,1147.5,4.59
+"Régua endodontica milimetrada calibradora",10971201,10,PERDEU,UN,199.9,19.99
+"Sonda Milimetrada Carolina do Norte Nº 15",10971206,10,PERDEU,UN,367.8,36.78
+"Abridor De Boca Abritec - adulto",10971216,20,PERDEU,UN,155.6,7.78
+"Abridor De Boca Abritec - infantil",10971217,20,PERDEU,UN,118.8,5.94
+"Ácido fosfórico 37% em gel",10971218,550,PERDEU,PCT,2304.5,4.19
+"Afastador Labial Expandex - adulto",10971223,20,PERDEU,UN,242.2,12.11
+"Afastador Labial Expandex - infantil",10971224,20,PERDEU,UN,242.2,12.11
+"Água destilada - Galão 5 (cinco) litros",10971225,1700,PERDEU,GAL,24208,14.24
+"Água oxigenada 10% - Fr 100ml",10971226,200,PERDEU,FR.,562,2.81
+"Alginato tipo II",10971233,300,PERDEU,PCT,7860,26.2
+"Amalgama em cápsula - 1 Porção - Kit 50 cápsulas",10971235,2,PERDEU,KIT,247.74,123.87
+"Amalgama em cápsula - 2 Porções - Kit 50 cápsulas",10971236,2,PERDEU,KIT,414.64,207.32
+"Babador impermeável-superabsorvente",10971248,1900,PERDEU,PCT,39881,20.99
+"Barreira gengival tipo TOPDAM - fotopolimerizável",10971251,50,PERDEU,KIT,1887,37.74
+"Broca de alta rotação carbide esférica n° ½",10971264,50,PERDEU,UN,599.5,11.99
+"Broca de alta rotação carbide esférica n° 4",10971265,150,PERDEU,UN,1798.5,11.99
+"Broca de alta rotação carbide esférica n° 6",10971266,150,PERDEU,UN,1798.5,11.99
+"Broca de alta rotação carbide esférica n° 8.",10971267,150,PERDEU,UN,1798.5,11.99
+"Broca de alta rotação carbide esférica n° ¼.",10971268,50,PERDEU,UN,599.5,11.99
+"Broca de alta rotação diamantada 1033",10971269,60,PERDEU,UN,226.8,3.78
+"Broca de alta rotação diamantada 1047",10971270,50,PERDEU,UN,189,3.78
+"broca diamantada esférica haste longa 1012",10971271,250,PERDEU,UNID,945,3.78
+"broca diamantada esférica 1012",10971272,500,PERDEU,UNID,1870,3.74
+"broca diamantada esférica haste longa 1014",10971273,250,PERDEU,UNID,935,3.74
+"Broca de alta rotação diamantada esferica 1014.",10971274,500,PERDEU,UN,1870,3.74
+"Broca de alta rotação diamantada esférica 1019",10971277,400,PERDEU,UN,1496,3.74
+"Broca de alta rotação diamantada nº 2082",10971278,70,PERDEU,UN,294.7,4.21
+"Broca de alta rotação diamantada nº3082",10971280,70,PERDEU,UN,294.7,4.21
+"Broca de baixa rotação CARBIDE n° 1",10971282,200,PERDEU,UN,2320,11.6
+"Broca de baixa rotação carbide n° 2",10971283,300,PERDEU,UN,3597,11.99
+"Broca de baixa rotação CARBIDE n° 4.",10971284,450,PERDEU,UN,5395.5,11.99
+"Broca de baixa rotação carbide n° 6",10971285,450,PERDEU,UN,5395.5,11.99
+"Broca de baixa rotação CARBIDE n° 8.",10971286,450,PERDEU,UN,5395.5,11.99
+"Broca Zekrya Longa tamanho 28mm",10971314,200,PERDEU,UN,6862,34.31
+"Broca Zekrya .Tamanho 23mm",10971315,200,PERDEU,UN,6862,34.31
+"Caixa Para Aparelho Ortodôntico sortidos",10971316,200,PERDEU,EM,4860,24.3
+"Cariostático a base de diaminufluoreto de prata 30%",10971321,90,PERDEU,FRA,2141.1,23.79
+"Cartela 2 furos para rx odontológico",10971322,2,PERDEU,PCT,32.1,16.05
+"Edta gel 24%. Embalagem com 2 seringas com 3g de gel cada.",10971373,50,PERDEU,CX,1390,27.8
+"Edta Liquido Trissódico 17%",10971374,150,PERDEU,FR.,1030.5,6.87
+"Envelope auto selante 190X330mm",10971382,1500,PERDEU,CX,92970,61.98
+"Envelope auto selante 90X260mm",10971385,2500,PERDEU,CX,62500,25
+"Escova de aço para limpeza de brocas",10971387,150,PERDEU,UN,2025,13.5
+"ESPONJA HEMOSTÁTICA",10971401,250,PERDEU,CX,18500,74
+"Eucaliptol - Frasco 10 ml",10971403,20,PERDEU,FR,240,12
+Eugenol.,10971404,150,PERDEU,FR.,2400,16
+"Evidenciador de placa",10971405,50,PERDEU,FR.,292,5.84
+"Fio agulhado NYLON preto 3.0 /EP2",10971411,450,PERDEU,CX,20214,44.92
+"Fio retrator nº 1 (médio).",10971419,30,PERDEU,UN,754.5,25.15
+"Fio retrator nº00 (extra fino).",10971420,30,PERDEU,UN,754.5,25.15
+"Fita autoclave. Rolo de 19mm x 30m",10971421,200,PERDEU,ROLO,1148,5.74
+"Fita Banda matriz metalica tipo toflemeir 0,5x5x500mm",10971422,500,PERDEU,UN,1305,2.61
+"Fita matriz poliéster transparente 10X120X0,05 mm",10971424,150,PERDEU,CX,456,3.04
+"Fixador para radiografia - Frasco com 475 ml",10971425,20,PERDEU,FR.,236,11.8
+"Flúor gel acidulado mínima de 1,23% de flúor-200 ml",10971426,500,PERDEU,FR.,2450,4.9
+"Formocresol - Frasco com 10ml.",10971427,80,PERDEU,FR.,506.4,6.33
+"Gorros descartáveis tipo touca com elástico",10971436,800,PERDEU,PCT,7792,9.74
+"Hidróxido de cálcio Pró-Análise - 10g",10971440,150,PERDEU,POT,862.5,5.75
+"Hipoclorito de sódio - 1% Solução de Milton",10971442,150,VENCEU,UN,592.5,3.95
+"Hipoclorito de sódio a 2,5% - soda clorada. Litro",10971443,150,VENCEU,L,742.5,4.95
+"Indicador Biológico",10971444,600,PERDEU,CX,14694,24.49
+"INSERTO G1/T1",10971445,20,PERDEU,UNID,1900,95
+"INSERTO T4",10971446,20,PERDEU,UNID,1900,95
+"Ionômero de vidro Restaurador FOTOpolimerizavel – IONOFAST",10971448,500,PERDEU,KIT,36250,72.5
+"Isqueiro a gás",10971450,100,VENCEU,UN,629,6.29
+"Lâmina de bisturi nº 12",10971453,20,PERDEU,CXA,849.2,42.46
+"Lâmina de bisturi nº 15, em aço inox.caixa com 100 und",10971454,50,PERDEU,CX,2100,42
+"Lâmina de bisturi nº 15C",10971455,10,PERDEU,CX,420,42
+"Lençol de borracha puro látex 13,5x13,5cm",10971456,300,PERDEU,CX,8595,28.65
+"Lima tipo K  #08 de 21 mm",10971490,60,PERDEU,CX,1149.6,19.16
+"Lima tipo K #08 de 25 mm.",10971491,80,PERDEU,CX,1520,19
+"Lima tipo K #08 de 31 mm.",10971492,70,PERDEU,CX,1344,19.2
+"Lima tipo K #10 de 21 mm.",10971493,80,PERDEU,CX,1536,19.2
+"Lima tipo K #10 de 25 mm",10971494,60,PERDEU,CX,1140,19
+"Lima tipo K #10 de 31 mm",10971495,70,PERDEU,CX,1344,19.2
+"Lima tipo K 2ª série (45-80 de 21 mm).",10971496,50,PERDEU,CX,960,19.2
+"Lima tipo K 2ª série (45-80 de 25 mm).",10971497,50,PERDEU,CX,960,19.2
+"Lima tipo K 2ª série (45-80 de 31 mm).",10971498,30,PERDEU,CX,576,19.2
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",10971505,2000,PERDEU,PCT,3660,1.83
+"Luva cirurgica Látex, esterelizada, tamanho 7,5",10971506,2000,PERDEU,PCT,3660,1.83
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",10971507,2000,PERDEU,PCT,3660,1.83
+"Luva cirurgica Látex, esterelizada, tamanho 7,0",10971508,2500,PERDEU,PCT,4575,1.83
+"Máscara cirúrgica tripla",10971511,1500,PERDEU,CX,15975,10.65
+"Óleo lubrificante p/ alta-baixa rotação spray-200ml",10971520,350,PERDEU,FR.,12726,36.36
+"Organizador multi uso 10 litros plástico transparente com ta",10971521,100,VENCEU,UN,4799,47.99
+"Organizador multi uso 5 litros plástico transparente com tam",10971522,100,VENCEU,UN,2780,27.8
+"PAPEL ALUMÍNIO",10971526,150,PERDEU,RL,1033.5,6.89
+"Papel Crepado em folhas 40 x 40 cm gramatura 60g/m²",10971527,20,PERDEU,CX,3110.2,155.51
+"Papel grau cirúrgico 10cm x 100m",10971530,200,PERDEU,ROLO,12694,63.47
+"Papel grau cirúrgico 25 cm x 100 m",10971531,300,PERDEU,BO,47172,157.24
+"Pasta para tratamento de alveolite",10971535,50,VENCEU,FR.,1470,29.4
+"Pasta profilática com granulação média com flúor",10971536,250,PERDEU,TBO,2835,11.34
+"Pedra pomes extra fina",10971540,150,PERDEU,POT,1701,11.34
+"Stop de Silicone Cursor",10971598,10,PERDEU,CX,167.9,16.79
+"Sugador cirúrgico descartável caixa c/ 40 unidades",10971599,300,PERDEU,CX,21000,70
+"Taça de borracha para contra-ângulo cor branca.",10971602,250,PERDEU,UN,725,2.9
+"Tamborel endometric.",10971603,20,PERDEU,UN,480,24
+"Tira de lixa de aço 4mm para polimento de restaurações de am",10971606,550,PERDEU,PCT,3300,6
+"Tira de lixa de poliester 4x170mm para polimento de restaura",10971607,300,PERDEU,PCT,4161,13.87
+"Tricresol Formalina - Frasco com 10 ml.",10971608,150,PERDEU,FR.,1050,7
+"Verniz cavitário -10 ml",10971612,50,PERDEU,FR,740,14.8
+"Localizador apical eletrônico",10971616,2,PERDEU,UN,4230.44,2115.22
+"Motor Endodôntico Elétrico",10971620,2,PERDEU,UN,17480,8740

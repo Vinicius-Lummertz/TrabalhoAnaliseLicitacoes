@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta SAMU 192, modelo tradicional, gola redonda, em malha poliviscose,",7611705,1,54,ATIVO,UNIDADE,3438.18,63.67
+"Conjunto de Chuva padrão SAMU 192, cor azul marinho, nylon emborrachado impermeável.",7611706,3,35,ATIVO,UNIDADE,11718,334.8
+"Jaqueta padrão SAMU 192 Nylon azul marinho, com capuz.",7611707,4,35,ATIVO,UNIDADE,10969,313.4
+"Macacão padrão SAMU 192 em RipStop.",7611708,5,45,ATIVO,UNIDADE,21458.25,476.85

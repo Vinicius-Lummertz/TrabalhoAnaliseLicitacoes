@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefônico com fio.",4383871,125,INABILITADO,UND,4750,38
+"APARELHO TELEFONICO SEM FIO.",4383872,40,INABILITADO,UND,3320,83
+"Apontador sem depósito",4383873,780,DESCLASSIFICADO,UND,1084.2,1.39
+"Bateria 9 volts no tamanho padrão",4383874,415,DESCLASSIFICADO,CAR,4129.25,9.95
+"Bateria Alcalina 1,5V LR44/A76/AG13",4383875,20,DESCLASSIFICADO,CAR,193.6,9.68
+"Bateria Recarregável 3,5 V Modelo 72300",4383876,19,VENCEU,UND,7486,394
+"Caderno Universitario capa dura.",4383883,560,DESCLASSIFICADO,UND,5600,10
+"Calculadora de mesa 12 digitos",4383887,212,INABILITADO,UND,3816,18
+"Caneta esferografica azul ponta fina",4383889,496,DESCLASSIFICADO,CX,19592,39.5
+"Clips para papel 2/0 caixa com 100 unidades.",4383897,2070,DESCLASSIFICADO,CX,7576.2,3.66
+"Clips para papel 3/0 caixa com 50 unidades",4383898,950,PERDEU,CX,950,1
+"Clips para papel 6/0 caixa com 50 unidades.",4383899,397,PERDEU,CX,794,2
+"Clips para papel 8/0 caixa com 25 unidades.",4383900,424,DESCLASSIFICADO,CX,1895.28,4.47
+"Corretivo em fita de 5mm x 5.5 mts",4383905,738,INABILITADO,UND,6863.4,9.3
+"Dispensador de senha.",4383907,18,PERDEU,UND,6660,370
+"Papel Off-set, alcalino, formato A-4.",4383937,1118,DESCLASSIFICADO,CX,235562.6,210.7
+"Papel Off-set, alcalino, formato A-4.",4383938,372,DESCLASSIFICADO,CX,78380.4,210.7
+"pasta suspensa craft 331x200 caixa com 50 unidades",4383946,285,DESCLASSIFICADO,CX,24225,85
+"Pen drive 128GB USB 3.0",4383947,20,VENCEU,UND,2760,138
+"Pen drive 64GB, USB 3.0",4383948,17,VENCEU,UND,1071,63
+"Pen drive de 16 Gb, USB 2.0",4383949,51,VENCEU,UND,1122,22
+"Pen drive de 4GB, USB 2.0",4383950,38,VENCEU,UND,874,23
+"Pen drive de 8 Gb, USB 2.0",4383951,73,PERDEU,UND,1474.6,20.2

@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guardanapo de papel folha simples.",1304306,58,200,ATIVO,EMBALAGEM,198,0.99
+"Pedra Sanitária",1310331,15,100,ATIVO,UNIDADE,150,1.5
+"Papel higiênico",1318599,44,6,ATIVO,FARDO,279,46.5
+"Copo descartavel 180 ml",1341682,56,20,ATIVO,CAIXA,940,47

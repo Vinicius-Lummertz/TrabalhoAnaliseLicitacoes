@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Macacão de segurança confeccionado em não tecido 100% M",4445710,800,VENCEU,UN,18384,22.98
+"Macacão de segurança confeccionado em não tecido 100% G",4445711,2500,PERDEU,UN,57475,22.99
+"Macacão de segurança confeccionado em não tecido 100% XG",4445712,1500,VENCEU,UN,34485,22.99
+"Macacão de segurança confeccionado em não tecido 100% XXG",4445713,300,VENCEU,UN,6897,22.99

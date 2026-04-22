@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AVENTAL DESCARTÁVEL",1,1000,Perdeu,UNI,5980,5.98
+"ÁLCOOL EM GEL 70% com extrato de aloe vera",2,1000,Perdeu,UNI,0,0
+"ÁLCOOL LÍQUIDO 70% 01 litro",3,1000,Perdeu,UNI,0,0
+"LUVA DE LÁTEX P",4,1000,Perdeu,CX,0,0
+"LUVA DE LÁTEX M",5,1000,Perdeu,CX,0,0
+"LUVA DE LÁTEX G",6,1000,Perdeu,CX,0,0
+"MÁSCARA FACIAL DESCARTÁVEL",7,1000,Perdeu,CX,20900,20.9

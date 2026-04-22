@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa de ancoragem 4 Furos (1/3)",12040626,3,VENCEU,UND,717,239
+"Destorcedor de corda",12040627,3,VENCEU,UND,840,280
+"Polia dupla em linha",12040628,3,PERDEU,UND,1581,527
+"Estribo pedal de fita regulável",12040629,2,VENCEU,UND,200,100
+"Malha rápida oval 6mm",12040630,4,VENCEU,UND,160,40
+"Malha Rápida Delta 8mm",12040631,4,VENCEU,UND,240,60
+"Malha rápida semicircular 10mm",12040633,4,VENCEU,UND,360,90
+"Mosquetão em formato D assimétrico com trava",12040634,12,VENCEU,UND,960,80
+"Mosquetão oval com trava rosca",12040635,6,VENCEU,UND,360,60
+"Mosquetão oval com trava automática",12040636,6,VENCEU,UND,630,105
+"Bota de Combate a Incêndios",12040638,15,VENCEU,PAR,11700,780

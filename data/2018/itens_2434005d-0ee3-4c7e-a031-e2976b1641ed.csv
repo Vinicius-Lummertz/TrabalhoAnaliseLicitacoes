@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa Adesiva 20x10 cm",1262340,106,1000,ATIVO,UNIDADE,2990,2.99
+"Panfleto 15x21cm papel sulfite colorido 4x0 brilho frente e",1262341,104,5000,ATIVO,UNIDADE,295,0.059
+BANNER,1262364,97,150,ATIVO,UNIDADE,7275,48.5
+"Folder 297x21cm 3 dobras",1262365,99,50000,ATIVO,UNIDADE,2450,0.049
+"Folder 297x21cm 2 dobras",1262366,100,50000,ATIVO,UNIDADE,3900,0.078
+"Folder 297x21cm 3 dobras",1262367,101,250000,ATIVO,UNIDADE,17500,0.07
+"Panfleto 15x21cm papel couche colorido 4x0 brilho frente  11",1262368,102,10000,ATIVO,UNIDADE,470,0.047
+"placa - adesivo 35,5x21cm",1262369,105,1000,ATIVO,UNIDADE,4990,4.99

@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Granito Claro",0,3,PERDEU," ",3740.01,1246.67
+"Granito Escuro",0,55,PERDEU," ",59766.85,1086.67
+"Armário Aéreo M²",0,5,VENCEU," ",11570,2314
+"Armário Alto m²",0,144,VENCEU," ",350812.8,2436.2
+"Armário Alto com Porta de Correr",0,52,VENCEU," ",138122.4,2656.2
+"Armário Baixo m2",0,33,VENCEU," ",86255.4,2613.8
+"Armário Baixo com Gavetas e Portas",0,13,VENCEU," ",35123.4,2701.8
+"Bancada sem tampo com Gavetas e Portas MDF ULTRA",0,7,VENCEU," ",17110.1,2444.3
+"Bancada sem tampo MDF ULTRA",0,31,VENCEU," ",83352.8,2688.8
+"Bancada sem tampo MDF ULTRA - Porta de Correr",0,4,VENCEU," ",11178.8,2794.7
+"Banco m²",0,23,VENCEU," ",112890.9,4908.3
+"Divisória Mesa Trabalho",0,11,VENCEU," ",14734.5,1339.5
+"Gaveteiro m²",0,9,VENCEU," ",30535.2,3392.8
+"Gaveteiro para Pasta Suspensa",0,10,VENCEU," ",34091,3409.1
+"Mesa de Apoio",0,2,VENCEU," ",4856,2428
+"Mesa de Centro Redonda",0,1,VENCEU," ",4902.28,4902.28
+"Mesa de Trabalho",0,29,VENCEU," ",83833.2,2890.8
+"Mesa de Trabalho com Gaveta",0,5,VENCEU," ",18039.5,3607.9
+"Mesa Refeitório",0,24,VENCEU," ",121788,5074.5
+"Mesa Reunião m²",0,5,VENCEU," ",26073,5214.6
+"Mesa Auditório",0,17,VENCEU," ",63716,3748
+"Mesa de Trabalho em L m²",0,20,VENCEU," ",71440,3572
+"Nicho Cor Madeira",0,4,VENCEU," ",14105.6,3526.4
+"Nicho Cor Preto",0,2,VENCEU," ",5710,2855
+"Painel Liso Cor Madeira",0,12,VENCEU," ",16034.4,1336.2
+"Painel Liso Cor Preto",0,8,VENCEU," ",9985.6,1248.2
+"Painel Ripado",0,28,VENCEU," ",79758,2848.5
+"Prateleira até 900mm de Comprimento Cor Madeira",0,2,VENCEU," ",3995.6,1997.8
+"Prateleira até 900mm de Comprimento Cor Preto",0,2,VENCEU," ",3897.8,1948.9
+"Prateleira maior 900mm de Comprimento Cor Madeira",0,2,VENCEU," ",4028.2,2014.1
+"Prateleira maior 900mm de Comprimento Cor Preto",0,18,VENCEU," ",33908.4,1883.8
+"Rack m²",0,3,VENCEU," ",8085.9,2695.3

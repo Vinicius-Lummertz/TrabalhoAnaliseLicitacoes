@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",11967170,20000,PERDEU,AMP,8600,0.43
+"Água destilada 5mL ampola.",11967171,20000,PERDEU,AMP,4660,0.233
+"Cloreto de sódio 0,9%, ampola 10ml.",11967239,24000,PERDEU,AMP,8736,0.364
+"Cloreto de sódio 20%, ampola 10ml.",11967240,600,PERDEU,AMP,300,0.5
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,6159.6,1.5399
+"Furosemida 10mg/mL injetável, ampola 2ml.",11967288,3000,PERDEU,AMP,4710,1.57
+"Glicose 25% , ampola 10ml.",11967292,3000,PERDEU,AMP,1668,0.556
+"Glicose 50%, ampola 10ml.",11967293,3000,PERDEU,AMP,2190,0.73

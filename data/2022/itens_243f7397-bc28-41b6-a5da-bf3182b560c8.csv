@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOLA DE FUTSAL",2789689,1,150,ATIVO,UNIDADE,11250,75
+CRONÔMETRO,2789690,7,10,ATIVO,UNIDADE,320,32
+"BOLA DE VOLEI",2789691,8,150,ATIVO,UNIDADE,13347,88.98

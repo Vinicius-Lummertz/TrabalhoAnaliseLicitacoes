@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mocho Odontológico.",4445120,2,VENCEU,UN,830,415
+"Aparelho de ultrassom odontológico",4445225,1,DESCLASSIFICADO,UN,1900,1900
+"Autoclave 21 litros",4445226,1,CANCELADO,UN,2690,2690
+"BOMBA VÁCUO",4445227,1,DESCLASSIFICADO,UN,2700,2700
+"CANETA DE ALTA ROTACAO",4445228,120,CANCELADO,UN,35400,295
+"Compressor odontológico em ferro fundido",4445229,1,CANCELADO,UN,2100,2100
+"Conjunto de CONTRA ÂNGULO E MICRO MOTOR",4445230,70,CANCELADO,UN,36400,520
+"Fotopolimerizador sem fio com bateria removível",4445233,10,VENCEU,UNI,4700,470

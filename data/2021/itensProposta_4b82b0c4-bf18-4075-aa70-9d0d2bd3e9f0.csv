@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACETILCISTEINA 600MG/ENV5GR.",5093024,50000,PERDEU,SACH,31500,0.63
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",5093030,6000,VENCEU,FR.,25500,4.25
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",5093063,12000,PERDEU,FR/AM,90000,7.5
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",5093080,180000,VENCEU,FR,9000,0.05
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",5093081,800000,VENCEU,COMP,39120,0.0489
+"Carvedilol 12,5 mg cpr, em blister.",5093084,200000,PERDEU,COMP,25400,0.127
+"Carvedilol 25 mg cpr, em blister.",5093085,250000,PERDEU,COMP,45000,0.18
+"Carvedilol 3,125 mg cpr, em blister.",5093086,60000,VENCEU,COMP,6000,0.1
+"Carvedilol 6,25 mg cpr, em blister.",5093087,100000,PERDEU,COMP,15000,0.15
+"Cefalexina 500mg, capsula ou comprimido, em blister.",5093088,80000,PERDEU,CAP/C,31120,0.389
+"Ceftriaxona 1G intramuscular (IM) injetável.",5093091,5000,PERDEU,FR/AM,38700,7.74
+"Dipirona 500mg cpr, em blister.",5093127,2200000,PERDEU,COMP,272800,0.124
+"Enalapril, maleato 10mg cpr, em blister.",5093133,2200000,PERDEU,COMP,121000,0.055
+"Enalapril, maleato 20mg cpr, em blister.",5093134,1200000,PERDEU,COMP,84000,0.07
+"Enalapril, maleato 5mg cpr, em blister.",5093135,300000,PERDEU,COMP,20700,0.069
+"Fluconazol 150mg capsula.",5093152,75000,PERDEU,CPLA,31500,0.42
+"Glibenclamida 5mg cpr, em blister.",5093159,1800000,PERDEU,COMP,45000,0.025
+"Losartana 50mg cpr revestido, em blister.",5093214,5000000,PERDEU,COMP,289500,0.0579

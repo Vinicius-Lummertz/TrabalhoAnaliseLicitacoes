@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de serralheiro/soldador (mão de obra) sem deslocamen",0,250,PERDEU," ",23427.5,93.71
+"Serviço de serralheiro/soldador (mão de obra) com deslocamen",0,250,PERDEU," ",31945,127.78
+"Fabricação e instalação (material + mão de obra) de grade me",0,15,PERDEU," ",6069.75,404.65
+"Fabricação e instalação (material + mão de obra) de corrimão",0,100,PERDEU," ",34076,340.76
+"Fabricação e instalação (material + mão de obra) de cerca me",0,5,PERDEU," ",2364,472.8
+"Fabricação e instalação (material + mão de obra) de portão",0,10,PERDEU," ",5835.4,583.54
+"Fabricação e instalação (material + mão de obra) de porta",0,10,PERDEU," ",5835.4,583.54
+"Fabricação e instalação ( material + mão de obra) de lixeira",0,20,PERDEU," ",17123,856.15
+"Reforma (material + mão de obra) de motor de portão eletrôni",0,5,PERDEU," ",5324.3,1064.86

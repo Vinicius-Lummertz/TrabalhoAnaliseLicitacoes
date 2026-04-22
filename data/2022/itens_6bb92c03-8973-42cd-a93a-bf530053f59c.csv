@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pá Carregadeira New Holland W130",3714292,8,2,ATIVO,UNIDADE,140000,12.9
+"Rolo Compactador Bomag BW212 D40",3714293,18,1,ATIVO,UNIDADE,56000,13.5
+"Retroescavadeira JCB 3CXB",3714295,19,1,ATIVO,UNIDADE,66000,13.8
+"Trator Agrícola New Holland TT4030",3714296,25,1,ATIVO,UNIDADE,64000,13.5
+"Escavadeira XCMG XE215BR",3714298,28,2,ATIVO,UNIDADE,266000,13.3

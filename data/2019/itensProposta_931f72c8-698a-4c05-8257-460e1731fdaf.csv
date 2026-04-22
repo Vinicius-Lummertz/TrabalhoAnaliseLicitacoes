@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado (B",4441049,240000,PERDEU,COMP,264000,1.1
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel.",4441050,6000,VENCEU,COMP,9720,1.62
+"Levodopa 100mg + benserazida 25mg HBS comprimido liberação p",4441051,60000,VENCEU,COMP,93000,1.55
+"Levodopa 200mg + benserazida 50mg comprimido.",4441052,20000,VENCEU,COMP,15600,0.78

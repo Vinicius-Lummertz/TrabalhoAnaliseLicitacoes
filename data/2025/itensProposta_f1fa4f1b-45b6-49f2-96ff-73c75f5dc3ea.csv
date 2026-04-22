@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escova dental adulto macia",20491196,100,VENCEU,PCT,2850,28.5
+"Escova dental infantil macia",20491197,100,VENCEU,PCT,2650,26.5
+"Fio dental bucal - Rolo 500 metros",20491219,100,PERDEU,UND,1615,16.15
+"Kit de higiene bucal adulto",20491248,20000,PERDEU,KIT,153000,7.65

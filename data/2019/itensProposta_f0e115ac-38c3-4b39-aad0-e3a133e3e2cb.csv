@@ -1,0 +1,50 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária  com 5 Litros.",4385494,180,VENCEU,GAL,981,5.45
+Alvejante,4385495,120,PERDEU,GAL,1074,8.95
+"Amaciante para tecidos",4385496,70,VENCEU,GAL,644,9.2
+"Desinfetante de uso geral",4385497,180,VENCEU,GAL,1258.2,6.99
+"Detergente Neutro Líquido de Uso Geral",4385498,180,VENCEU,GAL,1440,8
+"Sabão liquido de coco",4385499,60,VENCEU,GAL,539.4,8.99
+"Detergente com Cera Para Veículos",4385500,120,VENCEU,GAL,1168.8,9.74
+"Limpa pneus com silicone",4385501,80,PERDEU,GAL,2328,29.1
+"Desinfetante limpador de uso geral",4385502,30,VENCEU,GAL,4044,134.8
+"Sabonete Líquido com Bico Dosador Pump",4385503,300,PERDEU,EMB,2025,6.75
+"Sabonete líquido, perfumado galão contendo 5 litros",4385504,60,VENCEU,UND,816,13.6
+"Saboneteira de Mesa com Pump",4385505,25,VENCEU,UND,253.75,10.15
+"Álcool etílico em gel 70% (70 INPM)",4385506,100,VENCEU,GR,385,3.85
+"Álcool etílico hidratado 96% (92,8º INPM)",4385507,60,VENCEU,LT,300,5
+"Desodorizador de ambientes 360 ml.",4385509,60,PERDEU,FRA,403.2,6.72
+"Pedra Sanitária",4385510,300,VENCEU,UND,300,1
+"Sabão em barra",4385511,30,VENCEU,PCT,168,5.6
+"Sabão em pó .",4385512,60,INABILITADO,KG,478.8,7.98
+"Saponáceo em pó;",4385513,30,VENCEU,CXA,53.4,1.78
+"Saponáceo cremoso 300gr.",4385514,60,PERDEU,FRA,191.4,3.19
+"Escova para lavar roupas",4385515,20,VENCEU,UND,56.4,2.82
+"Escova para higienização de mãos e unhas",4385516,10,VENCEU,UND,40.2,4.02
+"Esfregão de Aço",4385517,250,VENCEU,UND,105,0.42
+"Esponja de lã de Aço.",4385518,120,VENCEU,PCT,144,1.2
+ESPONJA,4385519,180,VENCEU,PCT,243,1.35
+"Flanela para limpeza",4385520,30,PERDEU,UND,31.5,1.05
+"Luva para Limpeza.",4385521,40,PERDEU,UND,83.2,2.08
+"Balde Espremedor",4385522,1,VENCEU,UND,297,297
+"Refil Mopi úmido (refil)",4385523,60,VENCEU,UND,1080,18
+"Cabo de aluminio para suporte de Mop Úmido",4385524,10,VENCEU,UND,242,24.2
+"Pá coletora plástica.",4385527,4,VENCEU,UND,213.8,53.45
+"Pá de lixo plástica.",4385528,4,VENCEU,UND,12.4,3.1
+"Pano de copa e cozinha",4385529,30,VENCEU,UND,51,1.7
+"Pano Multiúso",4385530,60,PERDEU,RL,7020,117
+"Bobina de Papel Toalha",4385531,80,PERDEU,CX,5192,64.9
+"Dispenser para papel Toalha.",4385532,4,VENCEU,UND,661.2,165.3
+"Papel higiênico",4385533,6,VENCEU,FRD,413.4,68.9
+"Papel Higiênico Rolão",4385534,60,PERDEU,FRD,2262,37.7
+"Porta Papel Higiênico Rolão",4385535,4,PERDEU,UND,111.6,27.9
+"RODO PLASTICO",4385536,10,VENCEU,UND,94,9.4
+"Saca de tecido crua",4385537,10,VENCEU,PCT,155.5,15.55
+"Saco plástico de lixo doméstico de polietileno 240 L",4385538,20,VENCEU,UND,2599.6,129.98
+"Saco plástico de lixo domestico de polietileno,100 litros",4385539,10,VENCEU,PCT,395,39.5
+"Saco plástico de lixo domestico,com capacidade de 50 litros",4385540,15,VENCEU,PCT,149.7,9.98
+"Saco plástico de lixo domestico de polietileno 30 litros",4385541,15,VENCEU,PCT,130.5,8.7
+"Vassoura Nylon",4385542,20,INABILITADO,UND,116,5.8
+"VASSOURA PALHA",4385543,20,VENCEU,UND,214,10.7
+"Copo descartavel 180 ml",4385544,15,VENCEU,CX,840,56
+"Guardanapo de papel folha simples",4385546,150,VENCEU,UND,172.5,1.15

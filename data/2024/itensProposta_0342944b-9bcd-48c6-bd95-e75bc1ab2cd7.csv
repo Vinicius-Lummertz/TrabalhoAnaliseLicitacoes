@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor para materiais perfuro cortante (capacidade 13 Litros).",14877948,4000,PERDEU,UNI,27720,6.93
+"Coletor para materiais perfuro cortante (capacidade 7 Litros).",14877949,3000,PERDEU,UNI,11250,3.75
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",14877985,5250,PERDEU,UN,64312.5,12.25
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",14883071,1750,PERDEU,UN,15242.5,8.71
+"Esparadrapo Impermeável, com capa, 5cmx4,5m",14877986,9000,PERDEU,UNI,60570,6.73
+"Lençol hospitalar descartável em papel.",14878041,2500,PERDEU,ROLO,25550,10.22
+"Óleo de girassol (AGE) Embalagem 200ml",14878064,10000,PERDEU,UNI,68700,6.87
+"Preservativos Masculinos de 52mm,  com lubrificante",14878074,1200,PERDEU,CXA,54576,45.48
+"Sonda aspiração traqueal nº 08 em PVC, descartável.",14878100,36000,PERDEU,UN,19440,0.54
+"Sonda aspiração traqueal nº 10 em PVC, descartável.",14878101,15000,VENCEU,UNI,7800,0.52
+"Sonda aspiração traqueal nº 12 em PVC, descartável",14878102,20000,VENCEU,UNI,11600,0.58
+"Sonda aspiração traqueal nº 14 em PVC, descartável",14878103,16000,VENCEU,UNI,9920,0.62
+"Sonda uretral nº 06, descartável.",14878144,14000,PERDEU,UN,7420,0.53
+"Sonda uretral nº 08, descartável",14878145,40000,VENCEU,UNI,21200,0.53
+"Sonda uretral nº 10 descartável",14878147,45000,VENCEU,UN,23400,0.52
+"Sonda uretral nº 12 descartável.",14878148,80000,VENCEU,UN,42400,0.53
+"Sonda uretral nº 14 descartável.",14878150,25000,VENCEU,UNI,14500,0.58

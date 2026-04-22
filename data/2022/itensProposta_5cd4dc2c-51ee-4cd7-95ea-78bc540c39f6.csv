@@ -1,0 +1,240 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abacate: de 1ª qualidade,",8163578,60,PERDEU,KG,418.8,6.98
+"Abacaxi espinho",8163579,200,PERDEU,UNI,1392,6.96
+ACELGA,8163582,100,PERDEU,UND,585,5.85
+"Abobrinha verde",8163585,200,PERDEU,KG,1008,5.04
+"Açucar Mascavo 1Kg",8163588,50,PERDEU,PCT,733.5,14.67
+AGRIÃO,8163591,100,PERDEU,UND,509,5.09
+"Aipim: Mandioca limpa, descascada e congelada. Deve apresent",8163596,200,PERDEU,KG,1288,6.44
+"ALFACE AMERICANA",8163598,400,PERDEU,UND,1872,4.68
+"Alface crespa",8163602,600,PERDEU,UND,1884,3.14
+"Alho: selecionado classe 4. Deve apresentar características",8163604,350,PERDEU,UN,2551.5,7.29
+"Ameixa fresca nacional",8163607,150,PERDEU,KG,1558.5,10.39
+"Amendoim descascado: grãos selecionados de boa coloração, li",8163611,70,PERDEU,UN,352.1,5.03
+"Banana Branca: Classificada. Deve apresentar características",8163613,1000,PERDEU,KG,4660,4.66
+"Batata doce: Produto selecionado de 1ª qualidade, classe méd",8163615,150,PERDEU,KG,463.5,3.09
+"Batata Inglesa.",8163618,500,PERDEU,KG,2040,4.08
+BERINJELA,8163621,50,PERDEU,KG,306.5,6.13
+BETERRABA,8163624,250,PERDEU,KG,1487.5,5.95
+BRÓCOLIS,8163626,300,PERDEU,KG,2259,7.53
+"CANJICA MILHO BRANCA",8163629,50,PERDEU,UND,441.5,8.83
+"Caqui de 1º qualidade",8163632,200,PERDEU,kg,1232,6.16
+"Cebola de  Cabeça",8163635,600,PERDEU,KG,2424,4.04
+"Cenoura sem folhas: Cenoura de 1ª qualidade, classe média Ti",8163638,400,PERDEU,KG,3652,9.13
+CHICORIA,8163641,100,PERDEU,KG,343,3.43
+Chuchu,8163643,300,PERDEU,KG,1368,4.56
+"Couve chinesa",8163646,100,PERDEU,UNI,531,5.31
+"Couve flor",8163648,300,PERDEU,KG,1887,6.29
+"Couve folha: (couve manteiga) Deve apresentar folhas bem def",8163651,400,PERDEU,UN,1344,3.36
+"Espinafre: Deve apresentar folhas bem definidas, de cor verd",8163654,50,PERDEU,UN,195.5,3.91
+"Farinha de mandioca.",8163656,200,PERDEU,KG,1014,5.07
+"Farinha de milho.",8163659,200,PERDEU,KG,946,4.73
+"Feijão branco tipo I",8163662,50,PERDEU,UN,429,8.58
+"Feijão Vermelho: tipo 2",8163665,600,PERDEU,KG,6108,10.18
+GOIABA,8163667,100,PERDEU,KG,799,7.99
+"Grão de bico",8163671,70,PERDEU,UN,825.3,11.79
+Hortelã,8163673,50,PERDEU,MÇO,184,3.68
+"Laranja  Pêra",8163675,700,PERDEU,KG,2331,3.33
+Lentilha,8163679,70,PERDEU,UN,711.2,10.16
+LIMÃO,8163681,100,VENCEU,KG,349,3.49
+"Maçã Vermelha",8163683,600,PERDEU,KG,4116,6.86
+"Tempeiro Manjericão",8163687,30,PERDEU,UNI,150.9,5.03
+MANGA,8163689,200,PERDEU,KG,1092,5.46
+"Mamão comum",8163692,300,PERDEU,KG,2364,7.88
+MARACUJA.,8163694,50,PERDEU,KG,483,9.66
+MELANCIA,8163698,250,PERDEU,KG,852.5,3.41
+MELAO,8163700,200,PERDEU,KG,1706,8.53
+"Milho de Pipoca",8163703,150,PERDEU,UNI,819,5.46
+"MILHO VERDE  - in natura",8163707,100,PERDEU,KG,739,7.39
+"Moranga preta",8163709,200,PERDEU,KG,696,3.48
+"MORANGO IN NATURA",8163712,300,PERDEU,BDJA,2409,8.03
+"OVOS  DE GALINHA",8163715,600,PERDEU,DZ,5382,8.97
+PEPINO,8163718,200,PERDEU,KG,890,4.45
+"Pera 01 Qualidade",8163720,200,PERDEU,KG,1492,7.46
+PESSEGO,8163723,200,PERDEU,KG,1958,9.79
+PIMENTAO,8163726,200,PERDEU,KG,1426,7.13
+PINHAO,8163728,100,PERDEU,KG,1245,12.45
+"Polpa de frutas natural congelada",8163732,600,PERDEU,UN,1794,2.99
+Ponkan,8163735,400,PERDEU,KG,1856,4.64
+RADICHE,8163738,100,PERDEU,UND,338,3.38
+"REPOLHO ROXO",8163740,100,PERDEU,KG,643,6.43
+"REPOLHO VERDE.",8163744,150,PERDEU,UND,1044,6.96
+RUCULA,8163746,150,PERDEU,UND,661.5,4.41
+"TEMPERO VERDE;",8163748,400,PERDEU,MLHO,1412,3.53
+"Tomate Salada",8163752,500,PERDEU,KG,4480,8.96
+"Uva: tipo rubi, cachos bem formados",8163755,300,PERDEU,KG,3228,10.76
+VAGEM,8163757,200,PERDEU,KG,2728,13.64
+"Bebida Láctea com iogurte e polpa de frutas",8163761,500,PERDEU,L,3230,6.46
+"APRESUNTADO FATIADO",8163763,250,VENCEU,KG,7875,31.5
+"Bacon defumado em pedaços",8163764,50,VENCEU,KG,2160,43.2
+"Carne bovina: Acém resfriado",8163766,300,VENCEU,KG,10650,35.5
+"Carne bovina: Bucho bovino",8163767,200,VENCEU,KG,6700,33.5
+"Carne bovina: Coxão de fora resfriado (coxão duro)",8163768,300,VENCEU,KG,10950,36.5
+"Carne bovina de coxão mole",8163770,400,VENCEU,KG,17400,43.5
+"Carne bovina: Fraldinha resfriada",8163771,400,VENCEU,KG,15600,39
+"Carne bovina: Fígado",8163772,200,VENCEU,KG,6220,31.1
+"Carne bovina: Moída",8163774,400,VENCEU,KG,13800,34.5
+"Carne bovina: músculo",8163775,100,VENCEU,KG,3400,34
+"Carne bovina: Tatu",8163777,200,VENCEU,KG,7500,37.5
+"Carne de frango congelada: Coxa e sobrecoxa com osso e com p",8163778,400,VENCEU,KG,6600,16.5
+"Carne de frango congelada: Filé de peito (sassami)",8163779,400,VENCEU,KG,7120,17.8
+"Carne de frango congelada: Galinha caipira",8163781,300,VENCEU,KG,5040,16.8
+"Carne de frango congelada: Moela - Congelada",8163782,200,VENCEU,KG,3300,16.5
+"Carne de frango congelada: Peito com osso",8163784,200,VENCEU,KG,3900,19.5
+"Carne suína congelada: Costela",8163785,300,VENCEU,KG,7650,25.5
+"Carne suína congelada: Lombo médio sem osso",8163786,300,VENCEU,KG,7125,23.75
+"Carne suína congelada: Paleta suína, sem osso",8163787,200,VENCEU,KG,4760,23.8
+"Filé de Peixe congelado",8163789,400,VENCEU,KG,17400,43.5
+"Lingüiça de carne de pernil",8163790,200,PERDEU,KG,3420,17.1
+"Lingüiça de frango",8163792,300,PERDEU,KG,4920,16.4
+"Lingüiça tipo calabresa para fatiar",8163793,150,PERDEU,KG,3870,25.8
+"Pescado: peixe em posta",8163794,150,VENCEU,KG,4770,31.8
+"Salsicha hot dog",8163796,150,VENCEU,KG,2850,19
+"AMIDO DE MILHO",8163797,100,VENCEU,KG,1020,10.2
+"ARROZ INTEGRAL",8163798,100,VENCEU,KG,598,5.98
+"Arroz Parbolizado;",8163800,800,VENCEU,KG,3120,3.9
+"Arroz Polido",8163801,50,VENCEU,KG,205,4.1
+Aveia,8163803,60,VENCEU,UN,618,10.3
+"Barra de cereal",8163804,100,VENCEU,UN,350,3.5
+"Biscoito de chocolate.",8163805,400,VENCEU,PCT,1832,4.58
+"Biscoito doce tipo caseiro",8163806,500,VENCEU,PCT,2975,5.95
+"Biscoito doce sem recheio",8163808,500,VENCEU,UNI,3050,6.1
+"Biscoito salgado integral-",8163809,500,VENCEU,PCTE,3400,6.8
+"Biscoito salgado agua e sal",8163810,100,VENCEU,PCT,640,6.4
+Bolinho,8163811,400,VENCEU,UN,1060,2.65
+"Bolo de aniversário",8163813,60,VENCEU,KG,2760,46
+"Canudinho de maionese",8163814,80,VENCEU,UND,920,11.5
+"Docinhos diversos",8163815,50,VENCEU,CEM,3525,70.5
+"Farinha de rosca.",8163816,30,VENCEU,EMBA,237,7.9
+"Farinha de tapioca",8163818,10,VENCEU,PCTE,87,8.7
+"Farinha de trigo.",8163819,600,VENCEU,KG,2388,3.98
+"FARINHA DE TRIGO INTEGRAL",8163821,100,VENCEU,KG,485,4.85
+"Fermento biológico: Seco, instantâneo, embalado em envelopes",8163822,150,VENCEU,UN,298.5,1.99
+"Fermento em pó químico: Ingredientes: amido de milho ou fécu",8163824,150,VENCEU,UN,1146,7.64
+"Macarrão Tipo Conchinha",8163825,50,VENCEU,KG,352.5,7.05
+"MACARRÃO TIPO PARAFUSO INTEGRAL",8163826,250,VENCEU,KG,1825,7.3
+"Macarrão Tipo Espaguete Integral",8163828,250,VENCEU,KG,1825,7.3
+"Macarrão Tipo Espaguete",8163829,100,VENCEU,KG,610,6.1
+"Massa alimentícia",8163831,100,VENCEU,UN,775,7.75
+"Mini chocottone",8163832,400,VENCEU,UN,2500,6.25
+"Pão de forma tradicional",8163833,1000,VENCEU,PCT,6000,6
+"Ovo de chocolate",8163835,400,VENCEU,UN,3400,8.5
+"Pão de forma integral",8163836,1000,VENCEU,PCT,7250,7.25
+"Pão de Hot Dog",8163838,1000,VENCEU,PCT,7800,7.8
+"Pão frances",8163839,50,VENCEU,KG,510,10.2
+"Polvilho azedo, a base de mandióca",8163840,50,VENCEU,UN,347.5,6.95
+"Polvilho doce, a base de mandióca",8163842,50,VENCEU,EMB,278.5,5.57
+"Salgadinhos diversos",8163843,80,VENCEU,CENT,4120,51.5
+"Creme de leite fresco",8163844,150,VENCEU,UN,1380,9.2
+"CREME DE LEITE UHT",8163846,250,VENCEU,UND,950,3.8
+"Iogurte com polpa de frutas bandejas de 540 gr",8163847,250,VENCEU,BJ,1425,5.7
+"Iogurte natural",8163848,50,VENCEU,UND,182.5,3.65
+"Leite Condensado: Em embalagem treta pak de 395g.",8163849,200,VENCEU,UNI,1456,7.28
+"Manteiga: obtida de creme de leite",8163851,50,VENCEU,UND,475,9.5
+"Queijo ralado",8163853,100,VENCEU,UNI,890,8.9
+"Queijo tipo mussarela",8163854,350,VENCEU,KG,14525,41.5
+"Queijo ricota",8163855,50,VENCEU,UND,530,10.6
+Requeijão,8163857,150,VENCEU,UN,1792.5,11.95
+"leite desnatado  UHT",8163858,700,VENCEU,L,3836,5.48
+"Leite em pó 400g instantâneo",8163859,50,VENCEU,LAT,780,15.6
+"Leite Integral  UHT",8163861,1700,PERDEU,LIT,8364,4.92
+"Leite Semidesnatado UHT sem lactose",8163862,1000,VENCEU,L,5720,5.72
+"Achocolatado em pó.",8163863,150,VENCEU,UND,1770,11.8
+"ACUCAR REFINADO",8163864,800,VENCEU,KG,3520,4.4
+"Adoçante à base de stévia",8163866,50,VENCEU,UN,955,19.1
+"Adoçante culinário",8163867,10,VENCEU,UN,245,24.5
+"Azeite de oliva extra virgem",8163868,100,VENCEU,UN,3590,35.9
+"Balas macias",8163870,100,VENCEU,PCT,960,9.6
+"Bombom recheado",8163871,150,VENCEU,PCTE,6525,43.5
+"CACAU EM PÓ",8163873,50,VENCEU,PCT,815,16.3
+"castanha do pará embalagem c/ 200 gramas",8163874,10,VENCEU,UND,430,43
+"Chocolate ao leite",8163876,10,VENCEU,UNI,60,6
+"Chocolate Granulado: Em embalagem de polipropileno de 150g.",8163877,50,VENCEU,UNI,205,4.1
+"Chocolate meio amargo: Ingredientes: açúcar, massa de cacau,",8163878,30,VENCEU,UN,180,6
+"Coco Ralado: Granulado doce e úmido. Ingredientes: coco em f",8163880,100,VENCEU,UN,450,4.5
+"Doce de Frutas: Ingredientes: polpa de fruta (morango, pêsse",8163881,200,VENCEU,UN,1380,6.9
+"Doce de Leite em Pasta",8163883,200,VENCEU,UNI,1500,7.5
+"Gelatina de fruta: Ingredientes: Açúcar, gelatina comestível",8163884,100,VENCEU,UN,159,1.59
+"Leite de coco",8163885,50,VENCEU,UN,217.5,4.35
+"MARIA MOLE",8163887,10,VENCEU,CX,401,40.1
+"Paçoquinha rolha",8163888,50,VENCEU,POT,1845,36.9
+"pé de moleque de amendoim e rapadura",8163890,50,VENCEU,POT,1555,31.1
+"PIPOCA DOCE",8163891,1000,VENCEU,UNI,700,0.7
+Pirulito,8163892,50,VENCEU,PCT,490,9.8
+"Margarina (Creme Vegetal)",8163894,350,VENCEU,UNI,2793,7.98
+"Refrigerante de cola: Em embalagem pet de 2,5 litros",8163895,50,VENCEU,L,352.5,7.05
+"Refrigerante de guaraná: Em embalagem pet de 2 litros",8163897,50,VENCEU,L,332.5,6.65
+"Refrigerante de laranja: Em embalagem pet de 2 litros",8163898,50,VENCEU,L,315,6.3
+"Refrigerante de limão: Em embalagem pet de 2 litros",8163899,50,VENCEU,L,367.5,7.35
+"Suco de néctar de frutas",8163901,400,VENCEU,L,3960,9.9
+"Suco de néctar de frutas com volume de 200ml",8163902,200,VENCEU,CX,1360,6.8
+"Suco: natural",8163904,200,VENCEU,GAL,6180,30.9
+"Suspiro- açucar",8163905,30,VENCEU,CX,1194,39.8
+"Uva passa desidratada,",8163907,10,VENCEU,UND,89.5,8.95
+Açafrão;,8163908,50,VENCEU,UN,1695,33.9
+Azeitona,8163909,20,VENCEU,UN,476,23.8
+"Batata palha: Tipo baby (mais fina). Ingredientes: Batata, ó",8163911,200,VENCEU,UN,880,4.4
+"Batata palito congelada.",8163912,100,VENCEU,UN,1305,13.05
+"Café Extra  Forte",8163913,1000,VENCEU,UN,16050,16.05
+"Canela moída: Embalagem tipo saleiro de polietileno resisten",8163915,20,VENCEU,UN,88.6,4.43
+"CANELA EM PAU",8163916,20,VENCEU,UN,133,6.65
+"Catchup: molho tradicional, em embalagem pet de 390g.",8163917,30,VENCEU,UNI,152.4,5.08
+"Chá de camomila",8163919,50,VENCEU,CX,177.5,3.55
+"Chá de hortelã",8163920,50,VENCEU,CX,177.5,3.55
+"Chá mate",8163922,50,VENCEU,CX,177.5,3.55
+"Colorau (colorífico): Ingredientes: Fubá, urucum, óleo de so",8163923,100,VENCEU,UN,930,9.3
+"Cominho moído",8163925,100,VENCEU,UNI,730,7.3
+"Cravo da índia: Em embalagem de polietileno resistente, tran",8163926,20,VENCEU,UN,63,3.15
+"Ervilha em conserva: Ingredientes: ervilha, água e sal. Emba",8163927,100,VENCEU,UN,245,2.45
+"extrato de tomate 340 g",8163929,200,VENCEU,UNI,900,4.5
+"louro em folhas",8163930,30,VENCEU,EMB,80.4,2.68
+MAIONESE,8163932,100,VENCEU,UNI,603,6.03
+Manjericão,8163933,10,VENCEU,UN,259,25.9
+"Milho verde em conserva",8163935,250,VENCEU,UNI,740,2.96
+"mostarda frasco com 200 gramas",8163936,10,VENCEU,UND,50.5,5.05
+Orégano.,8163938,70,VENCEU,UND,1505,21.5
+Palmito,8163939,10,VENCEU,UN,134.5,13.45
+"PEPINO EM CONSERVA",8163940,10,VENCEU,UND,87,8.7
+"Pimenta preta moída",8163942,100,VENCEU,UNI,535,5.35
+"polpa de tomate.",8163943,400,VENCEU,UN,1960,4.9
+"Sal grosso",8163945,50,VENCEU,UN,150,3
+"Sal Refinado.",8163946,200,VENCEU,UN,480,2.4
+"Sardinha -125gr",8163959,100,VENCEU,LAT,397,3.97
+"Semente de linhaca",8163960,10,VENCEU,UN,117,11.7
+"Vinagre de álcool.",8163961,200,VENCEU,UND,590,2.95
+"Mel: Com predominância floral silvestre",8163962,20,VENCEU,UND,607,30.35
+"OLEO DE SOJA",8163963,400,VENCEU,UND,4360,10.9
+"Carvão vegetal para churrasco",8163964,15,VENCEU,UN,571.5,38.1
+"Bacia grande: produto fabricado com material ultra resistent",8163965,20,VENCEU,UN,570,28.5
+"Bandeja descartável - 46cm x 39cm",8163966,20,VENCEU,UN,112,5.6
+"Bandeja descartável 26cm x 32cm.",8163967,20,VENCEU,UN,218,10.9
+"Caixa organizadora  capac. 10 lt",8163968,8,VENCEU,UN,223.2,27.9
+"Caixa Organizadora plastico resistente 70 litros",8163969,15,VENCEU,UND,1741.5,116.1
+"Caixa de fósforos: Contendo aproximadamente 240 fósforos de",8163970,200,VENCEU,UN,700,3.5
+"Coador de pano",8163971,50,VENCEU,UN,462,9.24
+"COLHER DESCARTÁVEL",8163972,50,VENCEU,PCT,262,5.24
+"Embalagem para cachorro-quente",8163973,20,VENCEU,PCT,218,10.9
+"Embalagem plástica descartável:",8163974,100,VENCEU,UN,1500,15
+"Espetinho de madeira",8163975,20,VENCEU,PCT,96,4.8
+"Faca Descartável.",8163976,10,VENCEU,UNI,83.4,8.34
+FLANELA,8163977,20,PERDEU,UND,4680,234
+"Folha de alumínio: Em bobina de 30cm x 7,5m. Embalada em sac",8163978,100,VENCEU,UN,690,6.9
+"Garfo descartavel c/ 50 un",8163979,10,VENCEU,PCT,83,8.3
+"Garfinho descartável para bolo",8163980,20,VENCEU,PCT,89,4.45
+"Guardanapo de  papel",8163981,400,PERDEU,UN,756,1.89
+"Luvas plásticas",8163982,10,PERDEU,UN,59.3,5.93
+"Palito de dentes",8163983,100,VENCEU,CX,115,1.15
+"Pano de prato",8163984,50,VENCEU,UND,361.5,7.23
+"Papel filme PVC. Rolo 30m. 28cm",8163985,50,VENCEU,ROLO,297.5,5.95
+"PAPEL MANTEIGA",8163986,50,VENCEU,UND,280,5.6
+"Papel Toalha de copa e cozinha",8163987,600,PERDEU,PCT,2400,4
+"PRATO PLÁSTICO DESCARTÁVEL",8163988,50,VENCEU,PCT,192,3.84
+"Prato descartável para bolo",8163989,100,VENCEU,PCT,173,1.73
+"Saco de papel para pipoca",8163990,30,VENCEU,PCT,159,5.3
+"Bobina de saco plástico transparente",8163991,100,VENCEU,RL,660,6.6
+"Saco plástico 15 x 25 cm",8163992,200,VENCEU,UN,2190,10.95
+"Touca protetora  lavavel",8163993,100,VENCEU,PCT,1360,13.6
+"Calça tecido leve",8163995,4,VENCEU,UND,265.6,66.4
+"Camiseta 100% algodão",8163996,4,VENCEU,UND,143.6,35.9
+"Luva para forno",8163997,30,VENCEU,UN,744,24.8
+"Sapato de segurança.",8163998,6,VENCEU,PAR,429,71.5

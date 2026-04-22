@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pneu 215/60 R16",4787566,1,80,ATIVO,UNIDADE,34400,430
+"PNEU 185/65/R14",4787567,4,88,ATIVO,UNIDADE,29040,330
+"Pneu 110/80 R18 Traseiro",4787568,19,30,ATIVO,UNIDADE,8250,275

@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anestésico Dissociativo Cetamina 100mg/ml(10%).",20734935,25,PERDEU,FR,3625,145
+"Estimulante Cardiorespiratório Doxapram 20mg/ml (2%). Uso Injetável",20734937,5,PERDEU,FR,3050,610
+"Vacina antirrábica para cães e gatos.",20734947,1000,PERDEU,FR,16000,16
+"Vacina múltipla para cães (V10);",20734948,1000,PERDEU,FR,45000,45
+"Antibacteriano doxiciclina 200mg;",20734949,120,PERDEU,COMP,332.4,2.77
+"Antibacteriano enrofloxacina 50 mg; uso veterinário.;",20734950,100,PERDEU,COMP,127,1.27
+"Anti-inflamatório não esteroidal meloxicam 2 mg;",20734952,100,PERDEU,COMP,203,2.03
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",20734954,400,PERDEU,COMP,5200,13
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",20734955,200,PERDEU,COMP,3000,15
+"Ectoparasiticida sarolaner 40 mg para cães de 10 a 20 kg;",20734956,250,PERDEU,COMP,42500,170
+"Ectoparasiticida sarolaner 80 mg para cães de 20 a 40 kg;",20734957,250,PERDEU,COMP,45000,180
+"Pomada dermatológica anti-infecciosa e cicatrizante;",20734958,50,PERDEU,BIS,5500,110
+"Pomada antisséptica; composição: 0,7 g digluconato de clorexidina para cada 100 g; uso veterinário.",20734959,25,PERDEU,BIS,2250,90
+"Vermifugo (ectoparasiticida) para cães;",20734961,3000,PERDEU,COMP,6000,2
+"Vermifugo (ectoparasiticida) para gatos;",20734962,1000,PERDEU,COMP,7500,7.5
+"Analgésico cloridrato de tramadol 40 mg; uso veterinário.",20734965,200,VENCEU,CX,16400,82
+"Anti-inflamatório esteroidal prednisolona 5 mg; uso veterinário;",20734966,50,PERDEU,COMP,85,1.7
+"Anti-inflamatório esteroidal prednisolona 20 mg; uso veterinário.",20734967,100,PERDEU,COMP,260,2.6
+"Endectoparasiticida ivermectina 6 mg; uso veterinário. Apresentar registro no Ministério da Agricultura. Conter na embalagem a data de fabricação, data de validade e lote. Apresentar data de validade mínima de 12 meses. Apresentação: comprimidos.",20734969,200,PERDEU,COMP,1540,7.7
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",20734972,200,PERDEU,KIT,9000,45
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",20734973,200,PERDEU,KIT,7400,37
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",20734974,200,PERDEU,KIT,14800,74
+"Ração seca especial para cães adultos;",20734975,10000,PERDEU,KG,60000,6
+"Ração seca especial para cães filhotes;",20734976,600,PERDEU,KG,6000,10
+"Coleiras repelentes tamanho P;",20734993,100,VENCEU,UN,2400,24
+"Coleiras repelentes, tamanho G;",20734994,100,VENCEU,UN,2400,24

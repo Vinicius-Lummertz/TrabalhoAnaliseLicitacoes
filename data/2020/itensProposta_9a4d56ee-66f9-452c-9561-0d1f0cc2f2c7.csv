@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",4442944,5,PERDEU,FR.,3735,747
+"Coleiras repelentes P (48 cm)",4442945,50,PERDEU,UN,2500,50
+"Coleiras repelentes G (65cm)",4442946,50,PERDEU,UN,3475,69.5
+"Vacina antirrábica para cães e gatos",4442947,300,VENCEU,UN,2220,7.4
+"Sedativo injetável - Acepromazina 0,2%",4442948,10,VENCEU,FR.,152,15.2
+"Anestésico injetável - Cetamina 10%",4442949,20,VENCEU,FR.,392,19.6
+"Anestésico injetável - Xilazina 2%",4442950,20,VENCEU,FR.,323,16.15
+"Focinheiras nº 0, 1, 2",4442951,15,VENCEU,UN,75,5
+"Focinheiras nº  3, 4 e 5",4442952,15,VENCEU,UN,115.5,7.7
+"Lanterna luz negra",4442953,20,VENCEU,UN,920,46
+"Bacias mini",4442954,100,VENCEU,UN,320,3.2
+"Escova de limpeza para cantos",4442955,100,VENCEU,UN,310,3.1

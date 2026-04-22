@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sondagem a Percussão (profundidade mínima 10 mts)",0,150,VENCEU," ",103500,690
+"Sondagem Rotativa (profundidade mínima 20 mts)",0,70,VENCEU," ",27580,394
+"Mobilização de equipamentos",0,30,VENCEU," ",29520,984

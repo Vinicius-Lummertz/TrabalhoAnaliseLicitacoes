@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Livro de Língua Inglesa: ensino fundamental: anos iniciais. 1º ano",0,1573,PERDEU," ",147862,94
+"Livro de Língua Inglesa: ensino fundamental: anos iniciais. 2º ano",0,1583,PERDEU," ",148802,94
+"Livro de Língua Inglesa: ensino fundamental: anos iniciais. 3º ano",0,1647,PERDEU," ",154818,94
+"Livro de Língua Inglesa: ensino fundamental: anos iniciais. 4º ano",0,1764,PERDEU," ",165816,94
+"Livro de Língua Inglesa: ensino fundamental:
+anos iniciais. 5º ano",0,1594,PERDEU," ",149836,94
+"Língua Portuguesa 5º Ano - KIT ALUNO - Prepração para o SAEB",0,2010,VENCEU," ",242968.8,120.88
+"Língua Portuguesa 5º Ano - KIT PROFESSOR - Prepração para o SAEB",0,89,VENCEU," ",10724.5,120.5
+"Matemática 5º Ano - KIT ALUNO -Prepração para o SAEB",0,2010,VENCEU," ",242968.8,120.88
+"Matemática 5º Ano - KIT PROFESSOR - Prepração para o SAEB",0,89,VENCEU," ",10724.5,120.5
+"KIT DO ALUNO - 9º ANO - Língua Portuguesa - Prepração para o SAEB",0,1387,VENCEU," ",167660.56,120.88
+"KIT DO PROFESSOR - 9º ANO - Língua Portuguesa - Prepração para o SAEB",0,30,VENCEU," ",3615,120.5
+"KIT DO ALUNO - 9º ANO - Matemática - Prepração para o SAEB",0,1387,VENCEU," ",167660.56,120.88
+"KIT DO PROFESSOR - 9º ANO - Matemática - Prepração para o SAEB",0,30,VENCEU," ",3615,120.5

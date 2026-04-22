@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em blister.",16295826,550000,PERDEU,COMP,1540000,2.8
+"Betametasona, diproprionato +  betametasona fosfato, injetável, ampola 1ml.",16295837,18000,PERDEU,AMP,72000,4
+"Clonidina 0,1mg cpr, em blister.",16295872,6000,PERDEU,COMP,1740,0.29
+"Clonidina 0,15mg cpr, em blister.",16295874,6000,VENCEU,COMP,1919.4,0.3199
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3,5g.",16295876,200,PERDEU,bis,2736,13.68
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,VENCEU,AM,51927,8.6545
+"Metilfenidato 10 mg cpr, em blister.",16295980,800000,DESCLASSIFICADO,COMP,344000,0.43
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",16296002,500,VENCEU,BLIST,3085,6.17

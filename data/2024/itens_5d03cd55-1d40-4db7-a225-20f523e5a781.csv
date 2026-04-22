@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido tranexâmico 50mg/ml amp 5ml.",6570267,9,1000,ATIVO,AMPOLA,3980,3.98
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica, frasco 5ml.",6570268,67,30,ATIVO,FRASCO,307.2,10.2399
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",6570269,80,600,ATIVO,AMP,221.4,0.369
+"Cloreto de sódio 20%, ampola 10ml.",6570270,84,600,ATIVO,AMP,234.6,0.391
+"Fenitoina 50mg/mL, injetável, ampola 5ml.",6570271,119,2000,ATIVO,AMP,4999.8,2.4999
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",6570272,241,2000,ATIVO,FRASCO,5384,2.692
+"Benzilpenicilina (Procaína 300.000 UI + Potássica 100.000 UI).",6570273,257,1200,ATIVO,"Frasco ampola",7156.8,5.964
+"Sulfato de magnésio 10% amp 10ml.",6570274,262,1000,ATIVO,AMP,1031.3,1.0313

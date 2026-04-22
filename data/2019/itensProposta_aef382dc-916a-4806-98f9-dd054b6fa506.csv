@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fogão Industrial à gás de INOX, 06 bocas",4389680,5,VENCEU,UND,16195,3239
+"Fogão Industrial à gás de INOX, 04 bocas",4389681,20,PERDEU,UND,52800,2640
+"FREEZER VERTICAL",4389682,10,PERDEU,UND,21190,2119
+"LAVADORA DE ROUPAS",4389683,10,DESCLASSIFICADO,UND,18560,1856
+"Geladeira comercial em aço inoxidável 4 portas",4389684,15,PERDEU,UND,70350,4690
+"Liquidificador industrial",4389685,70,VENCEU,UND,47950,685
+"Televisor 40´, LED, SMART, HD",4389686,3,DESCLASSIFICADO,UND,4230,1410
+"Forno Elétrico",4389687,50,VENCEU,UND,20450,409
+"Balança 20 kg",4389688,2,PERDEU,UND,1244,622
+"Refresqueira dupla",4389689,6,DESCLASSIFICADO,UND,11940,1990
+"Lavadora de alta pressão",4389690,10,PERDEU,UND,16490,1649
+"Aspirador de Pó Portátil  Vertical",4389692,2,VENCEU,UND,440,220
+"Máquina de waffles",4389693,5,DESCLASSIFICADO,UND,13700,2740
+"Forno a  gás GLP baixa pressão de Pé",4389694,20,PERDEU,UND,29800,1490

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tela de Projeção",4462213,1,VENCEU,UND,413.4,413.4
+"VENTILADOR DE PAREDE",4462214,8,PERDEU,UNI,1923.52,240.44
+ESCADA,4462215,1,VENCEU,UNI,122.2,122.2
+"Cadeira de plástico",4462216,80,PERDEU,UND,2440,30.5
+"Mesa de plástico",4462217,30,PERDEU,UND,1530,51

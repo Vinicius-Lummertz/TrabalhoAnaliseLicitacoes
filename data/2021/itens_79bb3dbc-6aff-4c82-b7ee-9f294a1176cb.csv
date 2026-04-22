@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medalha Mérito Tempo de Serviço 30 Anos (Ouro)",1359394,40,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito Tempo de Serviço 20 Anos (Prata)",1359395,41,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito Tempo de Serviço 10 Anos (Bronze)",1359396,42,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito Bombeiro Militar Categoria Ouro",1359397,43,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito Bombeiro Militar Categoria Prata",1359398,44,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito Bombeiro Militar Categoria Bronze",1359399,45,5,ATIVO,UNIDADE,1600,320
+"Medalha de Atendimento Pré-Hospitalar",1359400,46,5,ATIVO,UNIDADE,1600,320
+"Medalha de Salvamento Aquático",1359401,47,5,ATIVO,UNIDADE,1600,320
+"Medalha de Mérito da Segurança Contra Incêndios",1359402,48,5,ATIVO,UNIDADE,1600,320
+"Medalha Mérito da Aviação CBMSC",1359403,49,1,ATIVO,UNIDADE,320,320
+"Medalha Mérito Comunitário CBMSC",1359404,50,10,ATIVO,UNIDADE,3200,320
+"Medalha de Mérito Cinotécnico",1359405,51,1,ATIVO,UNIDADE,320,320
+"Bóton Amigo do Bombeiro",1359406,52,5,ATIVO,UNIDADE,400,80
+"Distintivo Força Veterana",1359407,53,5,ATIVO,UNIDADE,400,80
+"Pasta Para Diplomas",1359408,54,5,ATIVO,UNIDADE,2000,400

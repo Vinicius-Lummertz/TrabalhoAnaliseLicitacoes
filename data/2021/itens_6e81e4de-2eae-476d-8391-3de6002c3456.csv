@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Torniquete tatico APH emergencia",1359692,14,50,ATIVO,UNIDADE,18750,375
+"LACRE ESCADA CARTELADO",1359693,17,400,ATIVO,PACOTE,8720,21.8
+"Maquina de Lavar Roupas automatica 8kg",1359694,21,1,ATIVO,UNIDADE,1500,1500
+"Travesseiro em fibra siliconizada",1359695,23,20,ATIVO,UNIDADE,990,49.5
+"Cobertor casal Tradicional",1359696,24,20,ATIVO,UNIDADE,3300,165
+"Jogo de roupa de Cama Solteiro",1359697,25,20,ATIVO,UNIDADE,2360,118
+"Toalha de banho felpuda 70 x 140 cm",1359698,26,50,ATIVO,UNIDADE,1350,27
+"Toalha de rosto felpuda 45 x 80 cm",1359699,27,50,ATIVO,UNIDADE,600,12

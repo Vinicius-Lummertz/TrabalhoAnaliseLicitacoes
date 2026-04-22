@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico;",1262543,11,2000,ATIVO,UNIDADE,7000,3.5
+"Clorexidina aquosa",1262545,58,1200,ATIVO,UNIDADE,1800,1.5
+"Álcool gel 70%.",1262569,12,1500,ATIVO,UNIDADE,8700,5.8
+"LUVA DE PREVENTIVO DESCARTÁVEL",1262572,144,1200,ATIVO,PACOTE,6996,5.83
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho G. ANTIAL",1262573,149,300,ATIVO,CAIXA,5070,16.9
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho M ANTIALÉ",1262574,150,1000,ATIVO,CAIXA,16880,16.88

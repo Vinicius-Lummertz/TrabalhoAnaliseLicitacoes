@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Câmera do tipo webcam",4448024,2,VENCEU,UN,1100,550
+"Kit teclado e mouse com conexão sem fio",4448025,3,PERDEU,UN,675,225
+"Fone de ouvido do tipo headset",4448026,65,VENCEU,UN,12350,190
+"Microfone do tipo condensador",4448027,2,PERDEU,UN,720,360
+"Caixa de som do tipo soundbar",4448028,65,PERDEU,UN,14950,230
+"Licença comercial, perpétua, software Corel Draw",4448030,1,PERDEU,UN,3790,3790
+DRONE,4448031,1,VENCEU,UND,5860,5860
+"Gravador digital de audio display LCD monocromatico",4448034,2,PERDEU,UN,2180,1090
+"Microfone de lapela com fio de 6 metros",4448037,4,PERDEU,UN,880,220
+"Tripé para celular e camera preto",4448038,2,PERDEU,UN,244,122

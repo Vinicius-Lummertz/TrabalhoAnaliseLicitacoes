@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ACETILENO,1305439,40,60,ATIVO,kg,3600,60
+OXIGENIO,1313545,42,300,ATIVO,"METRO CUBICO",5400,18
+Mistura,1319766,41,260,ATIVO,"METRO CUBICO",7020,27

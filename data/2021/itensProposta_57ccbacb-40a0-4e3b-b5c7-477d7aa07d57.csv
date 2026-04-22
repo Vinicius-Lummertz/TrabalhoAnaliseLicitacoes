@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Trado Perfurador de Solo",4402900,1,VENCEU,UND,3800,3800
+"Martelo Demolidor",4402901,1,NAO_COTOU,UND,0,0
+"Betoneira 150L",4402902,1,NAO_COTOU,UND,0,0
+"Serra Rápida Policorte 14",4402903,1,VENCEU,UND,1335,1335
+"Esmirilhadeira 4.1/2 850w",4402904,2,PERDEU,UND,798,399
+"Martelo Perfurador Rompedor",4402905,1,PERDEU,UND,1190,1190
+"Estação de Solda Digital profissional 60W",4402906,1,NAO_COTOU,UND,0,0
+"Maleta de ferramentas",4402907,1,PERDEU,UND,760,760
+"Carrinho Plataforma com Assoalho metálico capacidade 600kg",4402908,1,NAO_COTOU,UND,0,0
+"Exaustor Industrial Axial 500mm",4402909,2,NAO_COTOU,UND,0,0

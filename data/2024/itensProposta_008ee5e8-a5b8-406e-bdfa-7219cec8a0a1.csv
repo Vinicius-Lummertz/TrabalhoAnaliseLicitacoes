@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9900,0.33
+"Amoxicilina 500mg.  Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",16295825,600000,DESCLASSIFICADO,CAPS,168000,0.28
+"Clonazepam 2,5mg/mL , 20ml, FRASCO 20ml.",16295870,8000,PERDEU,FRA,21280,2.66
+"Cloreto de sódio 0,9%, ampola 10ml.",16295880,28000,PERDEU,AMP,13440,0.48
+"Simeticona 75mg/mL solução oral, frasco 10ml.",16295898,18000,PERDEU,FR.,31860,1.77
+"Dipirona 500mg/ml, injetável, ampola 2ml.",16295900,26000,PERDEU,AMP,36140,1.39
+"Furosemida 10mg/mL injetável, ampola 2ml.",16295930,5000,PERDEU,AMP,8600,1.72
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",16295971,4000,PERDEU,FR/AM,22000,5.5
+"Loratadina 1mg/mL xarope, frasco de 100ml.",16295974,10000,PERDEU,FR,41600,4.16
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",16296009,30000,PERDEU,FR.,55800,1.86
+"Sais de reidratação oral (Clor Sódio3,5g + Clor Potássio 1,5g + Citrato de Sódio 2,9g + Glicose 20gr/sachê). Sachê 27,9g.",16296023,55000,PERDEU,SACH,58850,1.07
+"Sulfadiazina de prata 1% pomada, pote com 400g.",16296029,200,PERDEU,POT,7800,39
+"Tramadol, cloridrato 50mg/mL injetável, ampola 2ml.",16296042,7000,PERDEU,AMP,13020,1.86
+"Metoclopramida 4mg/mL solução oral, frasco de 10ml.",16296050,3000,PERDEU,FR.,6300,2.1

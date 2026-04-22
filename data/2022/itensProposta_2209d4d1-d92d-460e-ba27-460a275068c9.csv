@@ -1,0 +1,64 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de Hora técnica",9136000,350,VENCEU," ",42000,120
+"Carga de gás R-12/R-134 para geladeira e freezer",9136000,25,VENCEU," ",9750,390
+"Capacitor para geladeira e freezer",9136000,5,VENCEU," ",450,90
+"Damper controle",9136000,10,VENCEU," ",900,90
+"84215062 KIT SENSOR",9136000,10,VENCEU," ",1500,150
+"Lâmpada para geladeira/freezer",9136000,10,VENCEU," ",220,22
+"Motores (compressor)",9136000,10,VENCEU," ",7000,700
+"Módulos para geladeira e freezer",9136000,6,VENCEU," ",1320,220
+"Resistência 220V",9136000,10,VENCEU," ",1500,150
+"Borracha porta geladeira e freezer",9136000,15,VENCEU," ",2175,145
+"Micromotor para geladeira e freezer",9136000,5,VENCEU," ",850,170
+"Rede de sensor",9136000,10,VENCEU," ",900,90
+"2852471 TERMOSTATO",9136000,10,VENCEU," ",1000,100
+Bimetal,9136000,4,VENCEU," ",320,80
+"Filtro Secador",9136000,4,VENCEU," ",140,35
+"Protetor Térmico",9136000,4,VENCEU," ",152,38
+"Controlador de temperatura",9136000,20,VENCEU," ",4800,240
+"Termostato para forno elétrico",9136000,5,VENCEU," ",600,120
+"MANUTENÇÃO FOGÃO Bicos injetores",9136000,5,VENCEU," ",1000,200
+"Abraçadeira BD 2 1/2",9136000,5,VENCEU," ",125,25
+"MANUTENÇÃO FOGÃO Cotovelo latão MF 1/2 para Fogão",9136000,5,VENCEU," ",250,50
+"MANUTENÇÃO FOGÃO Cachimbo longo para fogão",9136000,5,VENCEU," ",500,100
+"MANUTENÇÃO FOGÃO Cachimbo curto para fogão",9136000,5,VENCEU," ",325,65
+"MANUTENÇÃO FOGÃO Espalhador pequeno para fogão",9136000,2,VENCEU," ",60,30
+"MANUTENÇÃO FOGÃO Espalhador Grande para fogão",9136000,2,VENCEU," ",70,35
+"Mangueira malha de aço 1,50mts para fogão industrial",9136000,2,VENCEU," ",200,100
+"Mangueira ponta borracha P13 para fogão industrial",9136000,2,VENCEU," ",120,60
+"MANUTENÇÃO FOGÃO Mangueira ponta rosca P45",9136000,2,VENCEU," ",300,150
+"MANUTENÇÃO FOGÃO Usina Para Fogão",9136000,2,VENCEU," ",100,50
+"MANUTENÇÃO FOGÃO Registro torneira para fogão industrial",9136000,5,VENCEU," ",500,100
+"Placa eletrônica interface lavadouras de roupa",9136000,2,VENCEU," ",500,250
+"MANUTENÇÃO LAVADORAS Placa de Potencia",9136000,2,VENCEU," ",560,280
+"MANUTENÇÃO LAVADORAS Motores Elétricos",9136000,2,VENCEU," ",1100,550
+"17507 PRESSOSTATO",9136000,2,VENCEU," ",122,61
+Eletroválvula,9136000,2,VENCEU," ",160,80
+"11N492130 CORREIA",9136000,2,VENCEU," ",53,26.5
+"MANUTENÇÃO LAVADORAS Atuador de Freio",9136000,2,VENCEU," ",220,110
+"MANUTENÇÃO LAVADORAS Chave Rotativa Consul",9136000,2,VENCEU," ",100,50
+"MANUTENÇÃO LAVADORAS Válvula Solenoide Atuadora",9136000,2,VENCEU," ",336,168
+"MANUTENÇÃO LAVADORAS Mangueira de saída",9136000,2,VENCEU," ",92,46
+"MANUTENÇÃO LAVADORAS Mangueira de Entrada",9136000,2,VENCEU," ",80,40
+"MANUTENÇÃO LAVADORAS Termo Atuador",9136000,2,VENCEU," ",196,98
+"MANUTENÇÃO LAVADORAS Mecanismo Completo",9136000,2,VENCEU," ",750,375
+"MANUTENÇÃO LAVADORAS Chave Seletora",9136000,2,VENCEU," ",196,98
+"MANUTENÇÃO LAVADORAS Chicote Superior",9136000,3,VENCEU," ",540,180
+"MANUTENÇÃO LAVADORAS Retentor Tubo",9136000,3,VENCEU," ",150,50
+"MANUTENÇÃO LAVADORAS Selo Mecânico",9136000,3,VENCEU," ",159,53
+"MANUTENÇÃO LAVADORAS Kit Retentor",9136000,3,VENCEU," ",267,89
+"MANUTENÇÃO LAVADORAS Vara Suspensão",9136000,3,VENCEU," ",390,130
+"MANUTENÇÃO LAVADORAS Agitador",9136000,3,VENCEU," ",414,138
+"MANUTENÇÃO LAVADORAS Placa De Controle",9136000,3,VENCEU," ",510,170
+"MANUTENÇÃO MICROONDAS Apoio Prato",9136000,5,VENCEU," ",135,27
+"Manutenção de micoondas - Cabo de força",9136000,6,VENCEU," ",420,70
+"MANUTENÇÃO MICROONDAS Capacitor",9136000,6,VENCEU," ",450,75
+"MANUTENÇÃO MICROONDAS Diodo Terminal Largo",9136000,5,VENCEU," ",345,69
+"MANUTENÇÃO MICROONDAS Magnetron",9136000,2,VENCEU," ",380,190
+"MANUTENÇÃO MICROONDAS Guia de Ondas",9136000,5,VENCEU," ",500,100
+"Manutenção de micoondas - Lâmpada",9136000,5,VENCEU," ",130,26
+"Manutenção de Microondas - Transformadora tensão 220v",9136000,3,VENCEU," ",597,199
+"MANUTENÇÃO MICROONDAS Rodizio",9136000,2,VENCEU," ",70,35
+"MANUTENÇÃO MICROONDAS Prato Para Microondas",9136000,3,VENCEU," ",420,140
+"MANUTENÇÃO MICROONDAS Membrana Microondas",9136000,5,VENCEU," ",300,60
+"MANUTENÇÃO MICROONDAS Motor Prato",9136000,5,VENCEU," ",245,49

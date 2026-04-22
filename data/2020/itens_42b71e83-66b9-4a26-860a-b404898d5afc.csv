@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA OXIGENADA",1298787,1,300,ATIVO,LITRO,1149,3.83
+"Alcool Líquido 70%",1300881,3,300,ATIVO,LITRO,1740,5.8
+"Soro Fisiológico 250ml",1302889,6,300,ATIVO,MILILITRO,741,2.47
+"Soro Fisiológico 100ml",1306999,5,400,ATIVO,MILILITRO,776,1.94
+"Álcool Líquido 92,8 INPM",1307000,2,200,ATIVO,LITRO,1180,5.9
+"Álcool Gel 70 %",1313028,4,200,ATIVO,UNIDADE,1780,8.9

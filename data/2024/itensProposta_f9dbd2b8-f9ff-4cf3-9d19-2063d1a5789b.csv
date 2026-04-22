@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microcomputador,14940408,5,PERDEU,UND,18995.6,3799.12
+"Monitor Grande",14940411,5,PERDEU,UND,6495,1299
+"Monitor Médio",14940412,5,PERDEU,UND,6495,1299
+"Monitor Tela Curva",14940413,1,PERDEU,UND,9489,9489
+NOTEBOOK;,14940417,5,PERDEU,UND,42495,8499
+Smartphone,14940429,40,PERDEU,UND,79964.8,1999.12

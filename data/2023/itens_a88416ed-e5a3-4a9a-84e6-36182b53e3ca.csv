@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 5mL ampola.",4528230,16,20000,ATIVO,AMP,4400,0.22
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",4528231,24,2000,ATIVO,AMP,4073.8,2.0369
+"Ampicilina 500mg, capsula, em blister.",4528232,30,3000,ATIVO,CAPSULA,1290,0.43
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",4528233,38,9000,ATIVO,"Frasco ampola",52290,5.81
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",4528234,50,100,ATIVO,FRASCO,850,8.5
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",4528235,53,1800000,ATIVO,COMPRIMIDO,315000,0.175
+"Carbonato de lítio 300mg cpr, em blister.",4528236,57,600000,ATIVO,COMPRIMIDO,111000,0.185
+"Carvão ativado 1kg, pacote.",4528237,58,10,ATIVO,PACOTE,667.3,66.73
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconstituição.",4528238,64,10000,ATIVO,FRASCO,80000,8
+"Cloreto de sódio 0,9%, sistema ABERTO, frasco 250ml.",4528239,82,36000,ATIVO,FRASCO,102240,2.84
+"Dexametasona 4mg cpr, em blister.",4528240,93,10000,ATIVO,COMPRIMIDO,2225,0.2225
+"Fenitoina 50mg/mL, injetável, ampola 5ml.",4528241,120,1000,ATIVO,AMP,2000,2
+"Anestésico Lidocaína 2% com epinefrina 1:100.000",4528242,174,100,ATIVO,CAIXA,9879,98.79
+"Lidocaina 2% + epinefrina 1:200.000 20ml, frasco de vidro.",4528243,175,3000,ATIVO,"Frasco ampola",17700,5.9
+"Tramadol, cloridrato 50mg capsula, em blister.",4528244,250,1200000,ATIVO,COMPRIMIDO,178800,0.149
+"Cloreto de sódio 0,9%, ampola 5ml.",4528245,261,24000,ATIVO,AMPOLA,11280,0.47

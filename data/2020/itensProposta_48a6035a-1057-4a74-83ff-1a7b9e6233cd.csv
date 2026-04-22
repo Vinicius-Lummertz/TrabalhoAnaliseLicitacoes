@@ -1,0 +1,75 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",4445910,10000,VENCEU,UNI,250,0.025
+"Atestado Médico",4445911,1000,VENCEU,BLC,2000,2
+"Atestado Médico para Gestantes",4445912,100,VENCEU,BLC,262,2.62
+"Auto para coleta de água para consumo humano",4445914,50,PERDEU,BLCO,550,11
+"Auto de intimação vigilancia sanitaria",4445915,70,PERDEU,BLCO,1120,16
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",4445916,120,DESCLASSIFICADO,BLC,600,5
+"Bacteriologia da tuberculose .",4445917,30,VENCEU,BLC,96,3.2
+"Boletim de atendimento médico 24hs",4445918,500,PERDEU,BLC,1125,2.25
+"Boletim de Campo FAD RG 01",4445919,800,PERDEU,BLCO,1832,2.29
+"Boletim de Campo FAD RG 02",4445920,400,VENCEU,BLCO,1756,4.39
+"BPA individualiazado 2 vias autocopiativo (braco/azul)",4445921,30,PERDEU,BLCO,321,10.7
+"Condição Sócio Econômica- CAPS II",4445922,10,VENCEU,BLC,89,8.9
+"Consentimento informado - 2 vias autocopiativo (braco/azul)",4445923,35,PERDEU,BLCO,420,12
+"Controle de TODO;",4445924,100,PERDEU,BLC,228,2.28
+"Cuidados para vasectomia",4445925,40,VENCEU,BLC,239.6,5.99
+"Dados do atendimento do paciente- RAAS CAPS II",4445926,40,VENCEU,BLC,119.2,2.98
+"Dados do atendimento do paciente- RAAS CAPS III",4445927,40,VENCEU,BLC,119.2,2.98
+"Declaração de Comparecimento",4445928,500,VENCEU,BLC,1000,2
+"DOTS- Planilha Acompanhamento de Tratamento",4445929,7,VENCEU,BLC,73.5,10.5
+"Estudo sócio-econômica CAPS II ad-",4445930,10,VENCEU,BLC,92.5,9.25
+"Ficha clínica odontológica.",4445932,250,PERDEU,BLC,697.5,2.79
+"Ficha clínica Tuberculose",4445933,10,VENCEU,BLC,89,8.9
+"Ficha Controle de Atendimento frente e verso",4445934,20000,VENCEU,UNI,500,0.025
+"Ficha de acolhimento CAPS II ad 4 páginas(vias)",4445935,40,DESCLASSIFICADO,BLCO,900,22.5
+"Ficha de acolhimento CAPS II.",4445936,40,VENCEU,BLC,122.8,3.07
+"Ficha de acolhimento CAPS III",4445937,40,VENCEU,BLC,140,3.5
+"Ficha de atendimento SAMU .",4445938,400,PERDEU,BLC,3600,9
+"Ficha de cadastro individual",4445939,300,PERDEU,BLC,645,2.15
+"ficha de Observação do animal agressor",4445940,20,VENCEU,BLCO,120,6
+"Ficha de Procedimento E-SUS",4445941,50,VENCEU,BLC,133,2.66
+"Ficha visita domiciliar e-sus",4445942,100,PERDEU,BLC,229,2.29
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",4445943,100,PERDEU,BLC,1000,10
+"Ficha nominal- Programa Tuberculose",4445944,300,VENCEU,UNI,90,0.3
+"Fluxo e contra-fluxo",4445945,300,VENCEU,BLC,702,2.34
+"Memorando interno - 2 vias autocopiativo",4445946,250,PERDEU,BLC,1125,4.5
+"Monitoramento das doenças Diarreicas Agudas- distribuição de",4445947,20,VENCEU,BLCO,91.6,4.58
+"Monitoramento das doenças Diarreicas Agudas-",4445948,20,VENCEU,BLCO,119.8,5.99
+"Orientações CAPS III-30x21cm - 1x1",4445949,40,VENCEU,BLCO,119.6,2.99
+"Planilha de visitas domiciliares- CAPS II",4445950,10,PERDEU,BLC,71.2,7.12
+"Plano Terapêutico singular CAPS II ad- 30x21cm",4445951,20,VENCEU,BLCO,93.2,4.66
+"Prescrição de Óculos",4445952,20,PERDEU,BLC,110,5.5
+"Programa de Combate a Tuberculose.",4445953,15,VENCEU,BLC,93.45,6.23
+"Programa de controle da febre amarela dengue",4445954,10000,VENCEU,UNI,490,0.049
+"Programa de Planejamento Familiar",4445955,80,PERDEU,BLCO,202.4,2.53
+"Programa Nacional de Controle da Dengue - PNCD",4445956,800,PERDEU,BLC,1840,2.3
+"Proposta de tratamento CAPS II ad",4445957,10,VENCEU,BLC,88.1,8.81
+"Receituário B1",4445958,8000,PERDEU,BLCO,5200,0.65
+"Receituário B2",4445959,500,PERDEU,BLC,405,0.81
+"Receituário retinóide",4445960,50,VENCEU,BLCO,94,1.88
+"Receituário simples",4445961,8000,VENCEU,BLC,7520,0.94
+"Registro de falta de paciente a atendimento odontológico",4445962,10,VENCEU,BLCO,75,7.5
+"Registro Diário de Atividades",4445963,800,PERDEU,BLCO,1920,2.4
+"Relatório Sócio Econômico",4445964,50,PERDEU,BLC,600,12
+"SINAN - Acidente de Trabalho Grave",4445965,20,VENCEU,BLC,91,4.55
+"SINAN - Acidentes por Animais Peçonhentos",4445966,10,VENCEU,BLC,71.2,7.12
+"SINAN - Intoxicação exógena - frente e verso",4445967,10,VENCEU,BLC,61.5,6.15
+"SINAN- Atendimento Anti-Rábico Humano",4445968,20,PERDEU,BLCO,122.8,6.14
+"SINAN- Doenças exantemáticas febris",4445969,10,VENCEU,BLC,63.2,6.32
+"SINAN- Ficha de investigação da dengue",4445970,10,VENCEU,BLC,63.3,6.33
+"SINAN -Ficha de Notificação/ Conclusão",4445971,10,VENCEU,BLCO,63.3,6.33
+"SINAN- Síndrome Respiratória Aguda grave",4445972,10,VENCEU,BLC,63.3,6.33
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",4445973,30,VENCEU,BLC,116.1,3.87
+"SINAN-Ficha de investigação Hepatites Virais",4445974,10,VENCEU,BLC,62.2,6.22
+"SINAN-Ficha de notificação/ investigação Tuberculose",4445975,10,VENCEU,BLC,63.3,6.33
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",4445976,50,VENCEU,BLC,149.5,2.99
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",4445977,30,PERDEU,BLC,114,3.8
+"Solicitação de Eletrocardiograma",4445978,70,PERDEU,BLC,182,2.6
+"Termo de compromisso - CAPS III",4445979,20,VENCEU,BLC,103.2,5.16
+"Termo de responsabilidade - CAPS III",4445980,20,VENCEU,BLC,99.6,4.98
+"Termo de solicitação e informação 2 vias autocopiativo",4445981,70,PERDEU,BLC,770,11
+"Tratamento cirúrgico",4445982,5000,PERDEU,UN,250,0.05
+"RECEITUARIO  CONTROLE ESPECIAL",4445983,6000,PERDEU,BL,25500,4.25
+"Bloco de formulário Ficha de Busca Ativa de Escorpiões",4446008,100,PERDEU,BLCO,1100,11
+"Bloco de formulário Comunicado de Visita - Escorpiões",4446009,100,PERDEU,BLCO,600,6

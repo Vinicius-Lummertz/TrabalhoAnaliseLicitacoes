@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"limpeza e desinfecção de caixa dágua 500l",5165537,50,VENCEU," ",5185,103.7
+"limpeza e desinfecção de caixa dágua 1.000 litros",5165537,98,VENCEU," ",9604,98
+"limpeza e desinfecção de caixa dágua 1.500 litros",5165537,18,VENCEU," ",2358,131
+"limpeza e desinfecção de caixa dágua 2.000 litros",5165537,4,VENCEU," ",573.6,143.4
+"limpeza e desinfecção de caixa dágua 2.500 litros",5165537,5,VENCEU," ",763,152.6
+"limpeza e desinfecção de caixa dágua 5.000 litros",5165537,24,VENCEU," ",4178.4,174.1
+"limpeza e desinfecção de caixa dágua 10.000 litros",5165537,14,VENCEU," ",3253.6,232.4
+"limpeza e desinfecção de caixa dágua 20.000 litros",5165537,4,VENCEU," ",1084.4,271.1

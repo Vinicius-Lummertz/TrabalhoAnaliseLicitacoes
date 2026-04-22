@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bomba de vácuo: Voltagem 127/220V",1264808,3,2,ATIVO,UNIDADE,3920,1960
+"Câmara Escura Para Revelação.",1264809,8,1,ATIVO,UNIDADE,149,149
+"Autoclave 21 litros",1264810,10,10,ATIVO,UNIDADE,35900,3590
+"Fotopolimerizador sem fio",1264811,23,20,ATIVO,UNIDADE,9200,460
+"Aparelho de ultrassom odontológico",1264826,2,2,ATIVO,UNIDADE,3200,1600

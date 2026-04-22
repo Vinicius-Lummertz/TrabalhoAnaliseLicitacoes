@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",5093025,220000,PERDEU,COMP,34980,0.159
+"Ácido fólico 5mg cpr, em blister.",5093029,500000,PERDEU,COMP,23500,0.047
+"Adenosina 3mg/mL, injetável, ampola 2ml.",5093036,1500,PERDEU,AMP,14040,9.36
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",5093037,2000,PERDEU,AM,3300,1.65
+"Albendazol 400mg comprimido mastigável, em blister.",5093040,18000,PERDEU,COMP,5832,0.324
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",5093041,25000,PERDEU,FR.,24725,0.989
+"Alopurinol 100mg cpr, em blister.",5093043,600000,PERDEU,COMP,81000,0.135
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",5093047,1500,PERDEU,AMP,2775,1.85
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",5093049,15000,PERDEU,FRA,31200,2.08
+"Ampicilina 500mg, capsula, em blister.",5093053,6000,PERDEU,CPLA,2640,0.44
+"Atenolol 50mg cpr, em blister.",5093055,1800000,PERDEU,COMP,124200,0.069
+"Carbonato de lítio 300mg cpr, em blister.",5093082,500000,PERDEU,COMP,190000,0.38
+"Cloreto de sódio 0,9%, sistema ABERTO, frasco 250ml.",5093107,6000,PERDEU,FR.,13200,2.2
+"Enalapril, maleato 20mg cpr, em blister.",5093134,1200000,PERDEU,COMP,61200,0.051
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",5093149,1500,PERDEU,AM,8280,5.52
+"Levofloxacino 500mg cpr, em blister.",5093195,10000,PERDEU,COMP,6090,0.609
+"Lidocaína 2% gel, bisnaga 30g.",5093209,10000,PERDEU,BIS,21900,2.19
+"Losartana 50mg cpr revestido, em blister.",5093214,5000000,PERDEU,COMP,349500,0.0699
+"Metformina 850mg cpr, em blister.",5093217,3800000,PERDEU,COMP,296400,0.078
+"Metildopa 250mg cpr, em blister.",5093218,350000,VENCEU,COMP,122150,0.349
+"Metoclopramida, cloridrato 10mg cpr, em blister.",5093222,380000,PERDEU,COMP,28462,0.0749
+"Metronidazol 250mg cpr, em blister.",5093226,280000,PERDEU,COMP,38948,0.1391
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",5093227,5000,VENCEU,BIS,23450,4.69
+"Miconazol 20mg/g (2%) creme dermatológico, bisnaga 30g.",5093229,7000,VENCEU,BIS,18550,2.65
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",5093236,25000,PERDEU,BIS,37750,1.51
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",5093239,5000,PERDEU,FR.,19450,3.89
+"Omeprazol 20mg capsula, em blister.",5093246,4000000,PERDEU,CPLA,392000,0.098
+"Sinvastatina 20mg cpr, em blister.",5093270,1800000,PERDEU,COMP,133200,0.074
+"Sinvastatina 40 mg cpr, em blister.",5093271,1500000,PERDEU,COMP,239850,0.1599
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",5093277,220000,PERDEU,COMP,37752,0.1716

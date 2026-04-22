@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fita autoclave. Rolo de 19mm x 30m",10971421,200,PERDEU,ROLO,798,3.99
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",10971505,2000,PERDEU,PCT,2580,1.29
+"Luva cirurgica Látex, esterelizada, tamanho 7,5",10971506,2000,PERDEU,PCT,2580,1.29
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",10971507,2000,PERDEU,PCT,2580,1.29
+"Luva cirurgica Látex, esterelizada, tamanho 7,0",10971508,2500,PERDEU,PCT,3225,1.29
+"Máscara cirúrgica tripla",10971511,1500,PERDEU,CX,8130,5.42
+"Máscara de proteção respiratória (respirador particulado - N",10971514,200,PERDEU,UND,138,0.69

@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Campo cirúrgico SMS, 60X60cm, não estéril",4443807,10000,INABILITADO,UN,7900,0.79
+"Embalagens SMS 100x100cm",4443808,15000,INABILITADO,UN,28050,1.87
+"Caixa gaveteiro plástico tipo Bin Nº 6",4443812,1000,VENCEU,UN,5800,5.8
+"Caixa gaveteiro plástico tipo Bin Nº 5",4443813,2000,PERDEU,UN,7760,3.88
+"Caixa gaveteiro plástico tipo Bin Nº 4,",4443814,2000,VENCEU,UN,4700,2.35
+"Caixa organizadora baixa transparente retangular 15lt",4443815,250,PERDEU,UN,9875,39.5
+"Caixa organizadora alta transparente retangular 30lt",4443816,250,DESCLASSIFICADO,UN,15575,62.3
+"Lixeira cilíndrica 15 litros, com pedal, em polietileno de a",4443817,200,VENCEU,UN,19800,99
+"Pallet de plástico vazado 50 cm x 50cm x 5 cm, com encaixes",4443818,500,PERDEU,UN,18850,37.7
+"Termômetro Digital de máxima e mínima com cabo extensor",4443819,200,PERDEU,UN,21060,105.3
+"Óculos para proteção profissional",4443823,350,DESCLASSIFICADO,UND,2607.5,7.45

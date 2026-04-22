@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Curativo de Hidrogel",7630239,400,VENCEU,TUB,16000,40
+"Solução para irrigação/limpeza e descontaminação de feridas, não estéril",7630243,100,PERDEU,FRA,17000,170
+"Compressa não aderente 10x10cm",7630246,2000,VENCEU,UN,6500,3.25
+"Compressa não aderente 20x10cm",7630247,1000,VENCEU,UN,5150,5.15
+"Curativo em forma de pomada, que consiste de um cadexômero (microgrânulos de amido modificado) com iodo 0,9% em base de polietilenoglicol, Tamanho: tubo com 20gr",7630251,30,VENCEU,TB,9750,325
+"Cobertura de ação antimicrobiana, composta por uma camada de poliéster flexível, Tamanho: 10 cm x 10 cm",7630252,30,VENCEU,UNI,3975,132.5
+"Cobertura de ação antimicrobiana, composta por uma camada de poliéster flexível, Tamanho: 10 cm x 12,5 cm",7630253,30,VENCEU,UND,7275,242.5

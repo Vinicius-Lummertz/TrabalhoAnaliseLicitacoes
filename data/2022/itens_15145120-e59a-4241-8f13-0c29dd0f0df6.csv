@@ -1,0 +1,29 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",2629032,1,135,ATIVO,UNIDADE,7560,56
+"Rede de Traves para Futebol de Campo",2629033,2,18,ATIVO,PAR,5220,290
+"Bola de Futsal Adulto",2629034,3,80,ATIVO,UNIDADE,7600,95
+"Bola de Futsal Infantil para Treinamento",2629035,4,110,ATIVO,UNIDADE,6600,60
+"Bola de Basquetebol para Competição",2629036,7,60,ATIVO,UNIDADE,8400,140
+"Bola de Handebol H3L",2629037,11,30,ATIVO,UNIDADE,2640,88
+"Bola de Voleibol de Quadra para Treinamento",2629038,12,80,ATIVO,UNIDADE,9600,120
+"Rede Oficial de Voleibol de Quadra",2629039,14,8,ATIVO,UNIDADE,920,115
+"Marcação de Quadra de Vôlei de Praia/Areia",2629040,16,5,ATIVO,kit,425,85
+"Raquete de Tênis de Mesa para Iniciação",2629041,17,120,ATIVO,UNIDADE,3000,25
+"Tabuleiro de Xadrez Oficial",2629042,20,55,ATIVO,UNIDADE,1210,22
+"Sapatilha de Velocidade para Provas de Atletismo",2629043,21,35,ATIVO,PAR,7350,210
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",2629044,22,35,ATIVO,PAR,5390,154
+"Touca de Natação",2629045,25,100,ATIVO,UNIDADE,1100,11
+"Tatame Bicolor",2629046,28,360,ATIVO,UNIDADE,41040,114
+"Sacos para Bola",2629047,36,30,ATIVO,UNIDADE,570,19
+"Cone Chapéu Chinês / Prato Demarcatório",2629048,37,200,ATIVO,UNIDADE,400,2
+"Corda de Pular",2629049,38,50,ATIVO,UNIDADE,1295,25.9
+"Bomba de Ar para Bolas",2629050,39,26,ATIVO,UNIDADE,520,20
+"Calibrador de Bola tipo Caneta",2629051,40,26,ATIVO,UNIDADE,1040,40
+"Apito de Mesa",2629052,41,15,ATIVO,UNIDADE,517.5,34.5
+"Faixa Elástica Nível Forte",2629053,46,10,ATIVO,UNIDADE,570,57
+"Faixa Elástica Nível Médio",2629054,47,10,ATIVO,UNIDADE,148,14.8
+"Faixa Elástica Nível Fraco",2629055,48,10,ATIVO,UNIDADE,148,14.8
+"Mini Band Nível Forte",2629056,49,30,ATIVO,UNIDADE,444,14.8
+"Mini Band Nível Médio",2629057,50,30,ATIVO,UNIDADE,351,11.7
+"Colete Esportivo",2629058,53,1000,ATIVO,UNIDADE,10900,10.9
+"Placar de Mesa",2629059,57,26,ATIVO,UNIDADE,4550,175

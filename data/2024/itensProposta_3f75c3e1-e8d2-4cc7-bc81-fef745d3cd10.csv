@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 5mg cpr, em blister.",16295803,550000,VENCEU,COMP,20405,0.0371
+"Adenosina 3mg/mL, injetável, ampola 2ml.",16295810,2000,PERDEU,AMP,22042,11.021
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500mg, injetável, ampola 5ml.",16295843,14000,PERDEU,AM,19467,1.3905
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",16295850,1300000,PERDEU,COMP,338000,0.26
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",16295851,4000,VENCEU,FR.,31600,7.9
+"Carbonato de lítio 300mg cpr, em blister.",16295854,500000,VENCEU,COMP,99900,0.1998
+"Clonazepam 2,5mg/mL , 20ml, FRASCO 20ml.",16295870,8000,PERDEU,FRA,22534.4,2.8168
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",16295887,24000,PERDEU,BIS,62402.4,2.6001
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola 2,5mL.",16295888,25000,PERDEU,AM,41530,1.6612
+"Simeticona 75mg/mL solução oral, frasco 10ml.",16295898,18000,PERDEU,FR.,39002.4,2.1668
+"Dipirona 500mg/ml, injetável, ampola 2ml.",16295900,26000,PERDEU,AMP,30045.6,1.1556
+"Enalapril, maleato 10mg cpr, em blister.",16295906,2000000,PERDEU,COMP,127200,0.0636
+"Enalapril, maleato 20mg cpr, em blister.",16295907,1500000,VENCEU,COMP,52950,0.0353
+"Fenitoina 100mg cpr, em blister.",16295916,400000,DESCLASSIFICADO,COMP,98240,0.2456
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",16295922,3000,DESCLASSIFICADO,AM,13225.2,4.4084
+"Fluoxetina, cloridrato 20mg capsula, em blister.",16295928,2000000,PERDEU,CPLA,132200,0.0661
+"Heparina 5000 UI/0,25mL injetável, ampola.",16295942,12000,DESCLASSIFICADO,AMP,24267.6,2.0223
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",16295971,4000,PERDEU,FR/AM,23112,5.778
+"Metildopa 250mg cpr, em blister.",16295979,400000,PERDEU,COMP,231120,0.5778
+"Metoclopramida, cloridrato 10mg cpr, em blister.",16295982,850000,VENCEU,COMP,52530,0.0618
+"Morfina 10mg/mL injetável, ampola 1ml.",16295993,8000,DESCLASSIFICADO,AMP,24000,3
+"Omeprazol 20mg capsula, em blister.",16296005,3500000,PERDEU,CPLA,215950,0.0617
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",16296007,10000,PERDEU,AMP,16612,1.6612
+"Paracetamol 500mg  blister com 10 comprimidos ou acondicionado de forma unitarizada. Embalagem hospitalar.",16296010,1200000,PERDEU,COMP,117840,0.0982
+"Prometazina 25mg/mL injetável, ampola 2ml.",16296018,6000,DESCLASSIFICADO,AMP,21000,3.5
+"Propranolol 40mg cpr, em blister.",16296020,1000000,PERDEU,COMP,43200,0.0432
+"Tramadol, cloridrato 50mg capsula, em blister.",16296040,1200000,PERDEU,COMP,207960,0.1733
+"Cetoprofeno 100mg, sol. Injetavel 2ml.",16296054,14000,PERDEU,AMP,25278.4,1.8056

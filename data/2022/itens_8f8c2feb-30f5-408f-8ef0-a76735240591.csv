@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sapatilha de Atletismo de Lançamento e Arremesso",2629011,23,35,ATIVO,PAR,9947.35,284.21
+"Sapatilha de Salto em Distância para Provas de Atletismo",2629012,24,35,ATIVO,PAR,9702.35,277.21
+"Saco de Pancada",2629013,32,6,ATIVO,UNIDADE,1320,220
+"Apito profissional",2629014,42,60,ATIVO,UNIDADE,1188,19.8
+"Mini Band Nível Fraco",2629015,51,30,ATIVO,UNIDADE,240,8

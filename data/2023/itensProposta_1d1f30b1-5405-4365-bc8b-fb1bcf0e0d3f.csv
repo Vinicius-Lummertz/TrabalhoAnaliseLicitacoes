@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,VENCEU,COMP,32400,0.18
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,50400,0.14
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,VENCEU,COMP,57200,0.0286
+"Enalapril, maleato 20mg cpr, em blister.",11967265,1500000,VENCEU,COMP,73500,0.049
+"Enalapril, maleato 5mg cpr, em blister.",11967266,300000,PERDEU,COMP,14400,0.048
+"Finasterida 5 mg cpr, em blister.",11967281,180000,VENCEU,COMP,46800,0.26
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,VENCEU,COMP,54000,0.018
+"Loratadina 10mg cpr, em blister.",11967334,800000,PERDEU,COMP,48000,0.06
+"Loratadina 1mg/mL xarope, frasco de 100ml.",11967335,12000,VENCEU,FR,42000,3.5
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,480000,0.12
+"Sinvastatina 20mg cpr, em blister.",11967389,2000000,PERDEU,COMP,240000,0.12
+"Sinvastatina 40 mg cpr, em blister.",11967390,1800000,VENCEU,COMP,234000,0.13

@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Divisória com painéis branco no tipo naval simples e perfis",0,400,VENCEU," ",34880,87.2
+"Montagem de divisórias (sem fornecimento de material)",0,800,VENCEU," ",17520,21.9
+"Desmontagem de divisórias (sem fornecimento de material)",0,1200,VENCEU," ",18480,15.4

@@ -1,0 +1,82 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alavanca apical curva Esquerda",10971091,100,PERDEU,UN,4050,40.5
+"Alavanca apical curva Direita",10971092,100,PERDEU,UN,4050,40.5
+"Alavanca apical reta",10971093,100,PERDEU,UNI,4050,40.5
+"Alavanca Seldin tipo bandeirinha Direita N 1R",10971094,100,PERDEU,UN,3850,38.5
+"Alavanca Seldin tipo bandeirinha Esquerda N 1L",10971095,100,PERDEU,UN,3850,38.5
+"Alavanca Seldin Reta",10971096,200,PERDEU,UN,7700,38.5
+"CABO P/ ESPELHO ODONTOLOGICO",10971119,500,PERDEU,UNI,4250,8.5
+"Cureta de Lucas nº 85",10971133,100,PERDEU,UN,1016,10.16
+"Cureta dentina (escavador), nº 05 PEQUENA",10971134,120,PERDEU,UN,1620,13.5
+"Cureta dentina (escavador)nº20, GRANDE",10971135,100,PERDEU,UNI,1350,13.5
+"Espatula 24",10971145,50,PERDEU,UN,551.5,11.03
+"Espatula 7",10971146,20,PERDEU,UNI,197,9.85
+"Espelho bucal Nº5",10971154,80,PERDEU,UN,853.6,10.67
+"Espelho clinico Nº 5",10971155,1400,PERDEU,UN,7322,5.23
+"Ácido fosfórico 37% em gel",10971218,550,PERDEU,PCT,3575,6.5
+"Afastador Labial Expandex - adulto",10971223,20,PERDEU,UN,490,24.5
+"Afastador Labial Expandex - infantil",10971224,20,PERDEU,UN,490,24.5
+"Agulha gengival CURTA descartável",10971227,400,PERDEU,CX,19000,47.5
+"agulha gengival longa descartável",10971229,350,PERDEU,CXA,21175,60.5
+"Algodão em roletes.",10971234,2500,PERDEU,PCT,6125,2.45
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.",10971237,200,PERDEU,CX,44000,220
+"Anestésico MEPIVACAINA 2% COM vasoconstritor epinefrina 1:10",10971239,800,PERDEU,CX,157200,196.5
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",10971240,150,PERDEU,CX,29475,196.5
+"Anestésico tópico gel",10971241,500,PERDEU,POT,5775,11.55
+"Babador impermeável-superabsorvente",10971248,1900,PERDEU,PCT,24681,12.99
+"Barreira gengival tipo TOPDAM - fotopolimerizável",10971251,50,PERDEU,KIT,2125,42.5
+"Broca alta rotação n° 1112 F",10971255,250,PERDEU,UN,987.5,3.95
+"Broca alta rotação nº 1190 F",10971256,250,PERDEU,UN,987.5,3.95
+"Broca alta rotação nº 2135 F",10971257,300,PERDEU,UN,747,2.49
+"Broca alta rotação nº 3118 F",10971258,500,PERDEU,UN,1245,2.49
+"Broca alta rotação nº 3168 F",10971259,500,PERDEU,UNI,1245,2.49
+"Broca alta rotação nº 3195 F",10971260,300,PERDEU,UN,747,2.49
+"Broca de alta rotação carbide esférica n° ½",10971264,50,PERDEU,UN,602.5,12.05
+"Broca de alta rotação carbide esférica n° 4",10971265,150,PERDEU,UN,1807.5,12.05
+"Broca de alta rotação carbide esférica n° 6",10971266,150,PERDEU,UN,1807.5,12.05
+"Broca de alta rotação carbide esférica n° 8.",10971267,150,PERDEU,UN,1807.5,12.05
+"Broca de alta rotação diamantada 1033",10971269,60,PERDEU,UN,237,3.95
+"Broca de alta rotação diamantada 1047",10971270,50,PERDEU,UN,197.5,3.95
+"broca diamantada esférica haste longa 1012",10971271,250,PERDEU,UNID,987.5,3.95
+"broca diamantada esférica 1012",10971272,500,PERDEU,UNID,1975,3.95
+"broca diamantada esférica haste longa 1014",10971273,250,PERDEU,UNID,987.5,3.95
+"Broca de alta rotação diamantada esferica 1014.",10971274,500,PERDEU,UN,1975,3.95
+"broca diamantada esférica haste longa 1016",10971275,150,PERDEU,UNID,592.5,3.95
+"Broca de alta rotação diamantada nº3080",10971279,70,PERDEU,UN,184.1,2.63
+"Broca de alta rotação diamantada nº3082",10971280,70,PERDEU,UN,276.5,3.95
+"Broca de baixa rotação CARBIDE n° 1",10971282,200,PERDEU,UN,2410,12.05
+"Broca de baixa rotação carbide n° 2",10971283,300,PERDEU,UN,3615,12.05
+"Broca de baixa rotação CARBIDE n° 4.",10971284,450,PERDEU,UN,5422.5,12.05
+"Broca de baixa rotação carbide n° 6",10971285,450,PERDEU,UN,5422.5,12.05
+"Broca de baixa rotação CARBIDE n° 8.",10971286,450,PERDEU,UN,5422.5,12.05
+"Broca de baixa rotação haste longa n° 4",10971289,200,PERDEU,UN,3250,16.25
+"Broca de baixa rotação haste longa n° 6",10971290,200,PERDEU,UN,3250,16.25
+"Broca de baixa rotação haste longa n° 8.",10971291,200,PERDEU,UN,3250,16.25
+"Broca de Gates Glidden nº1 de 32 mm",10971293,100,PERDEU,UN,1315,13.15
+"Broca de Gates Glidden nº2 de 32 mm",10971294,100,PERDEU,UN,1315,13.15
+"Broca de Gates Glidden nº3 de 32 mm",10971296,100,PERDEU,UN,1315,13.15
+"Broca de Gates Glidden nº4 de 32 mm",10971297,50,PERDEU,UN,369.5,7.39
+"Cera Utilidade",10971328,50,PERDEU,UNID,1160,23.2
+"Cimento Resinoso Endodôntico para obturação de canais radicu",10971331,150,PERDEU,UN,29625,197.5
+"Escova de Robson reta.",10971394,1000,PERDEU,UN,1670,1.67
+"Ionômero de vidro Restaurador FOTOpolimerizavel – IONOFAST",10971448,500,PERDEU,KIT,30705,61.41
+"Lâmina de bisturi nº 15C",10971455,10,PERDEU,CX,675,67.5
+"Lençol de borracha puro látex 13,5x13,5cm",10971456,300,PERDEU,CX,10350,34.5
+"Lima Flex-file 1ª série nº 15 a 40 de 21 mm",10971469,60,PERDEU,CX,1080,18
+"Lima Flex-file 1ª série nº 15 a 40 de 25 mm",10971470,60,PERDEU,CX,1080,18
+"Lima tipo K  #08 de 21 mm",10971490,60,PERDEU,CX,1410,23.5
+"Lima tipo K #08 de 25 mm.",10971491,80,PERDEU,CX,6840,85.5
+"Lima tipo K #10 de 21 mm.",10971493,80,PERDEU,CX,6840,85.5
+"Lima tipo K #10 de 25 mm",10971494,60,PERDEU,CX,5130,85.5
+"Lima tipo K 2ª série (45-80 de 21 mm).",10971496,50,PERDEU,CX,4275,85.5
+"Lima tipo K 2ª série (45-80 de 25 mm).",10971497,50,PERDEU,CX,4275,85.5
+"Lima tipo K 2ª série (45-80 de 31 mm).",10971498,30,PERDEU,CX,2565,85.5
+"Óleo lubrificante p/ alta-baixa rotação spray-200ml",10971520,350,PERDEU,FR.,7868,22.48
+"Pasta profilática com granulação média com flúor",10971536,250,PERDEU,TBO,3287.5,13.15
+"Pasta Zinco-Enólica",10971537,20,PERDEU,KIT,1503,75.15
+"Pedra pomes extra fina",10971540,150,PERDEU,POT,2422.5,16.15
+"Pincel aplicador Micro brush ponta extra-fina",10971541,250,PERDEU,CX,5037.5,20.15
+"Pincel aplicador Micro brush ponta regular",10971542,400,PERDEU,CX,8060,20.15
+"Sugador cirúrgico descartável caixa c/ 40 unidades",10971599,300,PERDEU,CX,23850,79.5
+"Sugador de saliva descartável 130mm x 0,65mm - pacote c/ 40",10971600,2500,PERDEU,PCT,20750,8.3
+"Taça de borracha para contra-ângulo cor branca.",10971602,250,PERDEU,UN,450,1.8

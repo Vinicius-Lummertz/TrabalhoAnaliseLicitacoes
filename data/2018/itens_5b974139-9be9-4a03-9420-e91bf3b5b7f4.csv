@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óleo lubrificante para caixa de direção hidráulica .",1302187,8,50,ATIVO,BALDE,12150,243
+"Óleo lubrificante para sistema de embreagem e freios SAE 20W",1302188,11,50,ATIVO,BALDE,11500,230
+"Óleo lubrificante para transmissões automotivas SAE 85W140 A",1302189,14,10,ATIVO,BALDE,2800,280
+"Oleo mineral para engrenagem fechadas ISO 460.",1304297,18,10,ATIVO,Balde,2850,285
+"Fluído de Freio e Embreagem DOT4.",1306289,2,1,ATIVO,CAIXA,390,390
+"Óleo lubrificante multiviscoco SAE 15W40",1306291,6,2,ATIVO,TUBO,3680,1840
+"Óleo lubrificante para transmissões (caixas e diferenciais)",1308313,13,10,ATIVO,BALDE,2550,255
+"Óleo lubrificante para sistemas hidráulicos ISO VG68-DIN 515",1308314,12,150,ATIVO,BALDE,24000,160
+"Graxa lubrificante a base de sabão de calcio e oleo mineral.",1310319,4,10,ATIVO,TUBO,9890,989
+"Oleo mineral para engrenagem fechadas ISO 220.",1318586,17,10,ATIVO,BALDE,2850,285

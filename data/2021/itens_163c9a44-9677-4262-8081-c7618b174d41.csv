@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fita adesiva para Rotulador Eletrônico",1359462,24,12,ATIVO,UNIDADE,1128,94
+"Folha A4 Timbrada",1359463,26,300,ATIVO,RESMA,26400,88
+"Bloco Personalizado",1359464,28,15,ATIVO,CAIXA,6187.5,412.5
+"Bloco Personalizado Carbonado",1359465,29,10,ATIVO,CAIXA,7800,780
+"Impressão A4 Preto e Branco",1359466,30,2500,ATIVO,UNIDADE,625,0.25
+"Impressão A4 Colorida",1359467,31,1000,ATIVO,UNIDADE,2500,2.5
+"Impressão Colorida de Certificados",1359468,32,200,ATIVO,UNIDADE,1100,5.5
+"Encadernação Espiral capa Flexível até 100 folhas",1359469,33,50,ATIVO,UNIDADE,195,3.9
+"Encadernação Espiral capa Flexivel de 100 folhas à 200 folha",1359470,34,100,ATIVO,UNIDADE,490,4.9
+"Encadernação Espiral capa Flexível acima de 200 folhas",1359471,35,100,ATIVO,UNIDADE,590,5.9
+"Encadernação Capa Dura Colorida",1359472,36,3,ATIVO,UNIDADE,201,67
+"Serviço de Digitalização",1359473,37,500,ATIVO,"METRO LINEAR",3950,7.9
+"Grampos para grampeador 26/6",1359474,39,2,ATIVO,CAIXA,11.8,5.9
+"Pilhas C",1359475,44,30,ATIVO,EMBALAGEM,540,18
+"Cópia de Chave Comum",1359476,75,25,ATIVO,UNIDADE,350,14

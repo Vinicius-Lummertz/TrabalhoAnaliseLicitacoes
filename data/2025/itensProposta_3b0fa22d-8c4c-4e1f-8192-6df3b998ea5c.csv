@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto PB para drenagem 300mm PS1 simples - NBR 8890/2003",17624005,3750,VENCEU,M,161250,43
+"Tubo de concreto PB para drenagem 300mm PS1 simples - NBR 8890/2003",17653762,1250,VENCEU,M,53750,43
+"Tubo de concreto PB para drenagem 400mm PS1 simples - NBR 8890/2003",17624006,3750,VENCEU,M,187125,49.9
+"Tubo de concreto PB para drenagem 400mm PS1 simples - NBR 8890/2003",17653764,1250,VENCEU,M,62375,49.9
+"Tubo de concreto PB para drenagem 500mm PS1 simples - NBR 8890/2003",17624007,1125,VENCEU,M,81675,72.6
+"Tubo de concreto PB para drenagem 500mm PS1 simples - NBR 8890/2003",17653772,375,VENCEU,M,27225,72.6
+"Tubo de concreto PB para drenagem 600mm PA1 - NBR 8890/2003",17624008,450,PERDEU,M,109800,244
+"Tubo de concreto PB para drenagem 600mm PA1 - NBR 8890/2003",17653767,150,PERDEU,M,36600,244
+"Tubo de concreto PB para drenagem 800mm PA2 - NBR 8890/2003",17624009,600,PERDEU,M,236820,394.7
+"Tubo de concreto PB para drenagem 800mm PA2 - NBR 8890/2003",17653776,200,PERDEU,M,78940,394.7
+"Tubo de concreto PB para drenagem 1000mm PA2 -NBR 8890/2003",17624010,647,PERDEU,M,338251.6,522.8
+"Tubo de concreto PB para drenagem 1000mm PA2 -NBR 8890/2003",17653780,153,PERDEU,M,79988.4,522.8
+"Tubo de concreto PB para drenagem 1200mm PA2 - NBR 8890/2003",17624011,696,PERDEU,M,533136,766
+"Tubo de concreto PB para drenagem 1200mm PA2 - NBR 8890/2003",17653782,104,PERDEU,M,79664,766
+"Tubo de concreto PB para drenagem 1500mm PA2 - NBR 8890/2003",17624012,428,VENCEU,M,460100,1075
+"Tubo de concreto PB para drenagem 1500mm PA2 - NBR 8890/2003",17653783,72,VENCEU,M,77400,1075

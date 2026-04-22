@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",1571129,3,500,ATIVO,"METRO QUADRADO",16495,32.99
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",1571130,4,500,ATIVO,"METRO QUADRADO",16000,32
+"Piso Podotátil De Concreto 40 x 40 x 2,5cm",1571131,9,1000,ATIVO,UNIDADE,5200,5.2

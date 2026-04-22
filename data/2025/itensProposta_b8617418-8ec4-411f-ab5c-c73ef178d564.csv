@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Armário Aéreo M²",0,5,DESCLASSIFICADO," ",11000,2200
+"Armário Alto m²",0,144,DESCLASSIFICADO," ",331200,2300
+"Armário Alto com Porta de Correr",0,52,DESCLASSIFICADO," ",135200,2600
+"Armário Baixo m2",0,33,DESCLASSIFICADO," ",84150,2550
+"Armário Baixo com Gavetas e Portas",0,13,DESCLASSIFICADO," ",33800,2600
+"Bancada sem tampo com Gavetas e Portas MDF ULTRA",0,7,DESCLASSIFICADO," ",16800,2400
+"Bancada sem tampo MDF ULTRA",0,31,DESCLASSIFICADO," ",82150,2650
+"Bancada sem tampo MDF ULTRA - Porta de Correr",0,4,DESCLASSIFICADO," ",10800,2700
+"Banco m²",0,23,DESCLASSIFICADO," ",108100,4700
+"Divisória Mesa Trabalho",0,11,DESCLASSIFICADO," ",13200,1200
+"Gaveteiro m²",0,9,DESCLASSIFICADO," ",30150,3350
+"Gaveteiro para Pasta Suspensa",0,10,DESCLASSIFICADO," ",33000,3300
+"Mesa de Apoio",0,2,DESCLASSIFICADO," ",4700,2350
+"Mesa de Centro Redonda",0,1,DESCLASSIFICADO," ",4500,4500
+"Mesa de Trabalho",0,29,DESCLASSIFICADO," ",81200,2800
+"Mesa de Trabalho com Gaveta",0,5,DESCLASSIFICADO," ",17500,3500
+"Mesa Refeitório",0,24,DESCLASSIFICADO," ",120000,5000
+"Mesa Reunião m²",0,5,DESCLASSIFICADO," ",25000,5000
+"Mesa Auditório",0,17,DESCLASSIFICADO," ",62900,3700
+"Mesa de Trabalho em L m²",0,20,DESCLASSIFICADO," ",70000,3500
+"Nicho Cor Madeira",0,4,DESCLASSIFICADO," ",14000,3500
+"Nicho Cor Preto",0,2,DESCLASSIFICADO," ",5700,2850
+"Painel Liso Cor Madeira",0,12,DESCLASSIFICADO," ",13200,1100
+"Painel Liso Cor Preto",0,8,DESCLASSIFICADO," ",9200,1150
+"Painel Ripado",0,28,DESCLASSIFICADO," ",78400,2800
+"Prateleira até 900mm de Comprimento Cor Madeira",0,2,DESCLASSIFICADO," ",3800,1900
+"Prateleira até 900mm de Comprimento Cor Preto",0,2,DESCLASSIFICADO," ",3600,1800
+"Prateleira maior 900mm de Comprimento Cor Madeira",0,2,DESCLASSIFICADO," ",3800,1900
+"Prateleira maior 900mm de Comprimento Cor Preto",0,18,DESCLASSIFICADO," ",32400,1800
+"Rack m²",0,3,DESCLASSIFICADO," ",7800,2600

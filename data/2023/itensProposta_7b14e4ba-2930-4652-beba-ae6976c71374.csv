@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido tranexâmico 50mg/ml amp 5ml.",11967164,500,PERDEU,AM,2785,5.57
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,150400,9.4
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,105300,11.7
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,450000,0.25
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,12450,2.49
+"Clindamicina 300mg capsula, em blister.",11967227,10000,PERDEU,CPLA,17000,1.7
+"Diazepam 5mg/ml solução injetavel 2ml",11967251,4000,VENCEU,AMP,3560,0.89
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,VENCEU,AMP,5150,1.03
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",11967320,8000,PERDEU,COMP,6880,0.86
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,480000,0.12

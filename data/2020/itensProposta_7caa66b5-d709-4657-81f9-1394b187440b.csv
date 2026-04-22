@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fornecimento e plantio de Ipê Roxo",0,7,VENCEU," ",280,40
+"Fornecimento e plantio de Ipê Amarelo.",0,7,VENCEU," ",280,40
+"Fornecimento e plantio de Ipê Rosa.",0,6,VENCEU," ",240,40
+"Fornecimento e plantio de Ingá Feijão",0,10,VENCEU," ",400,40
+"Fornecimento e plantio de Ingá Banana",0,7,VENCEU," ",280,40
+"Fornecimento e plantio de Palmeira Imperial",0,30,VENCEU," ",9900,330
+"Fornecimento e plantio de Palmeira Família",0,4,VENCEU," ",980,245
+"Fornecimento e plantio de Clúsia",0,208,VENCEU," ",5824,28
+"Fornecimento e plantio de Móreia",0,100,VENCEU," ",2200,22

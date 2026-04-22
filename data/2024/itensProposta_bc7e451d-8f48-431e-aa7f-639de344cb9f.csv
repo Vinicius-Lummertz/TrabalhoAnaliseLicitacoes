@@ -1,0 +1,58 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",15527902,135,PERDEU,UN,8781.75,65.05
+"Rede de Traves para Futebol de Campo",15527903,18,VENCEU,PAR,4500,250
+"Bola de Futsal Adulto",15527904,80,VENCEU,UN,11920,149
+"Bola de Futsal Infantil para Treinamento",15527905,110,PERDEU,UN,9790,89
+"Rede de Traves de Futsal",15527906,10,VENCEU,PAR,1850,185
+"Rede de Traves de Handebol",15527907,10,VENCEU,PAR,1990,199
+"Bola de Basquete OFICIAL",15527908,60,PERDEU,UN,2999.4,49.99
+"Rede de Aro para Basquete",15527909,30,VENCEU,PAR,1200,40
+"Bola de Handebol H1L",15527910,25,VENCEU,UN,4125,165
+"Bola de Handebol H2",15527911,35,VENCEU,UN,5915,169
+"Bola de Handebol H3L",15527912,30,VENCEU,UN,3745.5,124.85
+"Bola de Voleibol de Quadra para Treinamento",15527913,80,PERDEU,UN,19200,240
+"Bola de Voleibol de Praia/Areia",15527914,20,VENCEU,UN,2201,110.05
+"Rede Oficial de Voleibol de Quadra",15527915,8,VENCEU,UN,1600,200
+"Rede Oficial de Voleibol de Praia/Areia",15527916,10,VENCEU,UN,1185,118.5
+"Marcação de Quadra de Vôlei de Praia/Areia",15527917,5,PERDEU,KIT,410.5,82.1
+"Raquete de Tênis de Mesa para Iniciação",15527918,120,VENCEU,UN,2583.6,21.53
+"Rede para Mesa de Tênis de Mesa",15527919,20,VENCEU,UN,2180,109
+"Jogo de Peças de Xadrez Oficial",15527920,55,PERDEU,JGO,2656.5,48.3
+"Tabuleiro de Xadrez Oficial",15527921,55,PERDEU,UN,4400,80
+"Sapatilha de Velocidade para Provas de Atletismo",15527922,35,VENCEU,PAR,7227.5,206.5
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",15527923,35,VENCEU,PAR,5932.5,169.5
+"Sapatilha de Atletismo de Lançamento e Arremesso",15527924,35,VENCEU,PAR,8573.25,244.95
+"Touca de Natação",15527925,100,PERDEU,UN,2003,20.03
+"Óculos de Natação",15527926,100,VENCEU,UN,2555,25.55
+"Kimono de Karatê",15527927,150,VENCEU,UN,28342.5,188.95
+"Placas de tatame 1x1 de 40mm cores diversas",15527928,360,VENCEU,UNI,32220,89.5
+"Kimono de Judô",15527929,100,VENCEU,UN,19895,198.95
+"Kimono de Jiu-Jitsu",15527930,100,VENCEU,UN,19895,198.95
+"Luva de Boxe",15527931,30,VENCEU,PAR,2995.5,99.85
+"Saco de Pancada",15527932,6,PERDEU,UN,1230,205
+"Manopla de Boxe",15527933,30,VENCEU,PAR,2998.5,99.95
+"Aparador de Chute",15527934,24,PERDEU,UN,2976,124
+"Aparador de Soco",15527935,24,PERDEU,UN,2448,102
+"Sacos para Bola",15527936,30,VENCEU,UN,599.4,19.98
+"CONE CHAPÉU CHINÊS",15527937,200,PERDEU,UND,1366,6.83
+"Corda de Pular",15527938,50,PERDEU,UN,2100,42
+"Bomba de Ar para Bolas",15527939,26,PERDEU,UN,596.18,22.93
+"Calibrador de Bola tipo Caneta",15527940,26,VENCEU,UN,441.48,16.98
+"Placar de Mesa",15527941,26,PERDEU,UN,3378.18,129.93
+"Apito de Mesa",15527942,15,PERDEU,UN,435,29
+"Apito profissional",15527943,60,PERDEU,UND,3498,58.3
+"Skate para Iniciantes",15527944,80,PERDEU,UN,13602.4,170.03
+"Capacete de Skate",15527945,80,PERDEU,UN,6074.4,75.93
+"Kit de Proteção Esportivo",15527946,80,PERDEU,KIT,8002.4,100.03
+"Faixa Elástica Nível Forte",15527947,10,PERDEU,UN,593.9,59.39
+"Faixa Elástica Nível Médio",15527948,10,PERDEU,UN,444.7,44.47
+"Faixa Elástica Nível Fraco",15527949,10,PERDEU,UN,410.3,41.03
+"Mini Band Nível Forte",15527950,30,PERDEU,UN,447.9,14.93
+"Mini Band Nível Médio",15527951,30,PERDEU,UN,450,15
+"Mini Band Nível Fraco",15527952,30,PERDEU,UN,450,15
+"Colete Esportivo",15527954,1000,PERDEU,UN,18990,18.99
+"Camiseta Esportiva",15527955,3750,PERDEU,UN,93300,24.88
+"Camiseta Esportiva",15527996,1250,PERDEU,UN,31100,24.88
+"Uniforme Esportivo",15527956,332,PERDEU,UN,22453.16,67.63
+"AGASALHO - JAQUETA E CALÇA POLIESTER",15527957,100,PERDEU,UND,21450,214.5
+"Sapatilha de Salto em Distância para Provas de Atletismo",15527958,35,VENCEU,PAR,8566.25,244.75

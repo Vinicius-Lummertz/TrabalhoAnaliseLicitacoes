@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CADEIRA GIRATÓRIA SECRETÁRIA",0,1000,PERDEU," ",385000,385
+"Armário para ferramentas em MDF",0,30,NAO_COTOU," ",0,0
+Banqueta,0,600,NAO_COTOU," ",0,0
+ESTANTE,0,80,NAO_COTOU," ",0,0
+"Mesa medindo 0,75 m x1,35 m x0,65m",0,486,NAO_COTOU," ",0,0
+"Mesa medindo 0,95m x 2,00m x 0,90",0,80,NAO_COTOU," ",0,0
+"Pia e armário aéreo",0,30,NAO_COTOU," ",0,0

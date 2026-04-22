@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira hidráulica sobre esteira, com potência mínima de 150 hp, ano de fabricação não inferior a 2013 peso operacional mínimo de 21.500kg, com operador, combustível e manutenção, hora efetivamente trabalhada.",4560620,500,VENCEU,HR,116500,233
+"Caminhões caçamba 6x4, com capacidade de no mínimo 12 m³, ano de fabricação não inferior a 2005, com motorista, combustível e manutenção, hora efetivamente trabalhada.",4560621,2500,VENCEU,HR,268750,107.5
+"Retroescavadeiras 4x4 com peso operacional mínimo de 6.000 kg, profundidade de escavação mínima de 4 m (quatro
+metros), caçamba traseira de no mínimo 0,24 m³, potência não inferior a 70 hp e ano de fabricação a partir de 2010, a
+diesel, com operador, combustível e manutenção, hora efetivamente trabalhada.",4560622,1000,VENCEU,HR,159400,159.4

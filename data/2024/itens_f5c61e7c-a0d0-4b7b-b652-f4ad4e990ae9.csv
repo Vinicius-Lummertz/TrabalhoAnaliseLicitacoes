@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",5936717,1,10000,ATIVO,"METRO QUADRADO",430000,43
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",5936718,3,1500,ATIVO,"METRO QUADRADO",76500,51
+"Tampas de boca de Lobo",5936719,8,2000,ATIVO,UNIDADE,560000,280

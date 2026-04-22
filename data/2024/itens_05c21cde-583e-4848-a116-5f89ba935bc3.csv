@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fresadora Wirtgen W100",6025699,3,1,ATIVO,UNIDADE,19117.65,51
+"Rolo Compactador Hamm",6025700,19,1,ATIVO,UNIDADE,19117.65,60.5
+"Trator Agrícola Budny 7540",6025701,23,1,ATIVO,UNIDADE,19117.65,29
+"Trator Agrícola New Holland TT4030",6025702,26,1,ATIVO,UNIDADE,19117.65,71

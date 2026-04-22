@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",1267909,3,2000000,ATIVO,COMPRIMIDO,80000,0.04
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",1267943,10,7000,ATIVO,FRASCO,23520,3.36
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3",1267944,77,360,ATIVO,BISNAGA,3582,9.95
+"Clorpromazina, cloridrato 100mg cpr.",1267945,82,350000,ATIVO,COMPRIMIDO,89250,0.255
+"Simeticona 75mg/mL solução oral, frasco 10ml.",1267946,97,16000,ATIVO,FRASCO,13920,0.87
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",1267947,194,200,ATIVO,AMP,1240,6.2
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",1267948,216,10000,ATIVO,FRASCO,32400,3.24
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",1267949,237,4000,ATIVO,FRASCO,2800,0.7

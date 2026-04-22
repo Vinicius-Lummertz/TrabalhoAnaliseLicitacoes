@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Controlador Eletrônico microprocessado 8/8 fases",0,3,VENCEU," ",39080.64,13026.88
+"Placa Controle e Processamento",0,5,VENCEU," ",8969.9,1793.98
+"Placa de potência",0,5,VENCEU," ",9215,1843
+"Placa Fonte",0,5,VENCEU," ",7617.55,1523.51
+"Recondicionamento de placa eletrônica diversas",0,75,VENCEU," ",19123.5,254.98
+"Fita flat comunicação 8 fases",0,20,VENCEU," ",2139.4,106.97
+"Grupo Focal pedestre 2x200mm a LED (quadrado)",0,7,VENCEU," ",11172,1596
+"Módulo a LED veicular 200mm - Cor: Vermelho",0,30,VENCEU," ",9918,330.6
+"Módulo a LED veicular 200mm - Cor: Amarelo",0,20,VENCEU," ",6612,330.6
+"Módulo a LED veicular 200mm - Cor: Verde",0,30,VENCEU," ",9918,330.6
+"Suporte basculante 101,6mm - Alumínio",0,50,VENCEU," ",5605,112.1
+"Botoeira para pedestre - tipo convencional",0,20,VENCEU," ",5662,283.1
+"Botoeira para pedestre - tipo sonora",0,3,VENCEU," ",6270,2090

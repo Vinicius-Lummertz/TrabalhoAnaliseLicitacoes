@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel toalha interfolhado",4402572,5000,NAO_COTOU,FRD,0,0
+"Papel Higiênico 30m.",4402573,300,NAO_COTOU,FRD,0,0
+"Álcool etílico em gel 70% (70 INPM) 500 gramas",4402574,5200,VENCEU,UND,41600,8
+"Álcool etílico 70° antisséptico",4402575,5200,PERDEU,FRA,26936,5.18

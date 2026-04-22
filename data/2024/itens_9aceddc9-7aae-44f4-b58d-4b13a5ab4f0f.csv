@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AGUA SANITARIA 1 LITRO",6346159,1,6200,ATIVO,UNIDADE,13578,2.19
+"Água Sanitária 5 Litros;",6346160,2,10740,ATIVO,GALAO,75180,7
+"Água Sanitária 5 Litros;",6346161,3,3580,ATIVO,GALAO,25060,7
+"Alvejante concentrado a base de hipoclorito de sódio 5 litros: teor de cloro ativo maior ou igual que 4,0% p/p e menor ou igual a 6,0% p/p.",6346162,10,7928,ATIVO,LITROS,126848,16
+"Alvejante concentrado a base de hipoclorito de sódio 5 litros: teor de cloro ativo maior ou igual que 4,0% p/p e menor ou igual a 6,0% p/p.",6346163,11,2642,ATIVO,LITROS,44385.6,16.8
+"Amaciante para tecidos 5 litros",6346164,12,1625,ATIVO,GALAO,17062.5,10.5
+"Desinfetante de uso geral 500mL.",6346165,30,5550,ATIVO,UNIDADE,8325,1.5
+"Detergente Líquido de uso geral 5 litros",6346166,39,7189,ATIVO,GALAO,76347.18,10.62
+"Detergente Líquido de uso geral 5 litros",6346167,40,2396,ATIVO,GALAO,25445.52,10.62
+"Detergente Líquido Neutro de uso geral com Glicerina  500 ml com bico dosador.",6346168,41,8380,ATIVO,UNIDADE,13827,1.65
+"Silicone em Gel automotivo para painel de 500ml.",6346169,139,430,ATIVO,UNIDADE,7486.3,17.41
+"Detergente com Cera Para Veículos",6346170,160,700,ATIVO,GALAO,11200,16

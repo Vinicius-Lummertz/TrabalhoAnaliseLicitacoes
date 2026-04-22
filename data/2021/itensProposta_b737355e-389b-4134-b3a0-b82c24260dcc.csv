@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento para Lactentes menores de 1 ano de idade com intolerância á Lactose",5469106,96,VENCEU,LAT,2076.48,21.63
+"Fórmula Infantil de segmento, á base de leite de vaca, com nutrientes adequado para lactentes a partir do 6º mês de vida.",5469113,500,VENCEU,LAT,13710,27.42
+"Formula Infantil de segmento, a base de proteínas isolada de soja, isento de lactose, para o segundo semestre de vida.",5469114,60,VENCEU,LAT,1899.6,31.66
+"Formula Infantil para lactentes até 6 meses, em pó à base de leite de vaca.",5469115,1500,PERDEU,LAT,44025,29.35
+"Fórmula infantil para recém-nascidos pré-termo e/ou de alto risco em pó. Com adição de DHA e ARA, vitaminas e minerais.",5469117,72,VENCEU,LAT,2057.76,28.58
+"Formula para lactentes que apresentem regurgitação e/ou refluxo gastroesofágico",5469120,250,VENCEU,LAT,8267.5,33.07

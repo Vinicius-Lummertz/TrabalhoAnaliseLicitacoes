@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lanceta com dispositivo de segurança (para uso pelos profissionais).",14878036,30000,PERDEU,UNI,4800,0.16
+"Lanceta do paciente – refil (para uso em lancetador)",14878037,350000,PERDEU,UNI,17500,0.05
+"Protetor Solar, fator 30, frasco com 120mL ou 125mL.",14878077,1000,VENCEU,UN,11490,11.49
+"Protetor Solar, fator 60, frasco com 120mL ou 125mL.",14878078,2000,VENCEU,UN,28820,14.41

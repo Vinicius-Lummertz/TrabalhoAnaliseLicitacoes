@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fórmula infantil para lactentes menores de um ano de idade",4442214,622,VENCEU,LAT,13870.6,22.3
+"Formula p/ lactentes que apresentam regurgitação e/ou reflux",4442217,316,VENCEU,LAT,10649.2,33.7
+"Fórmula infantil para lactentes até 06 meses, em pó",4442218,4252,VENCEU,LAT,124158.4,29.2
+"Formula infantil de segmento, à base de leite de vaca, com n",4442219,3220,VENCEU,LAT,96600,30
+"Fórmula infantil de transição, à base de leite de vaca",4442220,600,VENCEU,LAT,19920,33.2
+"Fórmula infantil de seguimento, a base de proteínas isolada",4442221,626,PERDEU,LAT,22504.7,35.95
+"Fórmula infantil para lactentes à base de proteínas isolada",4442222,576,PERDEU,LAT,20684.16,35.91

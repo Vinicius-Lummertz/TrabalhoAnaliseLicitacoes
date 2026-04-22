@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cartucho Compatível Epson TX115 (TO117) PRETO",0,10,VENCEU," ",150,15
+"Cartucho Compatível Epson TX115 (TO732N) CIANO",0,10,VENCEU," ",150,15
+"Cartucho Compatível Epson TX115 (TO733N) MAGENTA",0,10,VENCEU," ",150,15
+"Cartucho Original HP 122 Color 1,5ml (CH562HI)",0,10,VENCEU," ",150,15
+"Cartucho Original HP 122 Preto 2ml (CH561HI)",0,10,VENCEU," ",645,64.5
+"Cartucho Original HP 27 Preto 10ml (C8727A)",0,10,VENCEU," ",515,51.5
+"Cartucho Original HP 27 COLOR 8ml (C8728AL)",0,10,VENCEU," ",1245,124.5
+"Cartucho Original HP 60 COLOR 6,5ml (CC643WL)",0,10,VENCEU," ",1300,130
+"Cartucho Original HP 664 COLOR 1,5ml (F6V28AB)",0,10,VENCEU," ",1035,103.5
+"Cartucho Original HP 664 COLOR 1,5ml (F6V28AB)",0,10,VENCEU," ",975,97.5
+"Cartucho Original HP 92 Preto 5ml (C9362W)",0,10,VENCEU," ",440,44
+"Cartucho Original HP 93 Color 5ml (C361WL)",0,10,VENCEU," ",415,41.5
+"Cartucho Original HP 950XL Preto 53ml (CN045AB)",0,10,VENCEU," ",880,88
+"Cartucho Original HP 951XL Ciano 17ml (CN046AB)",0,10,VENCEU," ",1475,147.5
+"Cartucho Original HP 951XL Amarelo 17ml (CN048AB)",0,15,VENCEU," ",2715,181
+"Cartucho Original HP 951XL Magenta 17ml (CN047AB)",0,15,VENCEU," ",2100,140
+"Cartucho Original HP 951XL Amarelo 17ml (CN048AB)",0,15,VENCEU," ",2100,140
+"Cartucho Original HP 951XL Magenta 17ml (CN047AB)",0,15,VENCEU," ",2100,140
+"Bisnaga 70ml  de Tinta Preto T664120 Epson",0,10,VENCEU," ",488.5,48.85
+"Bisnaga 70ml de Tinta Ciano T664220 Epson",0,3,VENCEU," ",146.55,48.85
+"Bisnaga 70ml de Tinta Magenta T664320 Epson",0,3,VENCEU," ",146.55,48.85
+"Bisnaga 70ml de Tinta Amarelo  T664420 Epson",0,3,VENCEU," ",146.55,48.85

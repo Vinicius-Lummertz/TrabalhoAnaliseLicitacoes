@@ -1,0 +1,84 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Espelho bucal Nº5",14868392,80,PERDEU,UN,400,5
+"Porta-amálgama de plástico, autoclavável",14868434,5,PERDEU,UN,94.75,18.95
+"Pote dappen de vidro",14868438,250,PERDEU,UNI,1415,5.66
+"Ácido fosfórico 37% em gel",14868455,800,PERDEU,PCT,5448,6.81
+"Adesivo dental fotopolimerizável do tipo II",14868460,360,PERDEU,FR.,59126.4,164.24
+"Agulha gengival CURTA descartável",14868463,420,PERDEU,CX,24137.4,57.47
+"Agulha gengival EXTRA CURTA descartavel.",14868464,150,PERDEU,CX,8662.5,57.75
+"agulha gengival longa descartável",14868465,200,PERDEU,CXA,11466,57.33
+"Amalgama em cápsula - 1 Porção - Kit 50 cápsulas",14868470,2,PERDEU,KIT,225.74,112.87
+"Amalgama em cápsula - 2 Porções - Kit 50 cápsulas",14868471,2,PERDEU,KIT,385.06,192.53
+"Barreira gengival tipo TOPDAM - fotopolimerizável",14868486,100,PERDEU,KIT,1643,16.43
+"Bicarbonato de sódio - 200g",14868487,150,VENCEU,POT,1227,8.18
+"Broca alta rotação n° 1112 F",14868489,300,PERDEU,UN,1410,4.7
+"Broca alta rotação nº 1190 F",14868490,300,PERDEU,UN,1101,3.67
+"Broca alta rotação nº 2135 F",14868491,300,PERDEU,UN,1209,4.03
+"Broca alta rotação nº 3118 F",14868492,1200,PERDEU,UN,4224,3.52
+"Broca alta rotação nº 3168 F",14868493,1200,PERDEU,UNI,5208,4.34
+"Broca alta rotação nº 3195 F",14868495,700,PERDEU,UN,2352,3.36
+"Broca de alta rotação diamantada 1033",14868506,60,PERDEU,UN,271.8,4.53
+"Broca de alta rotação diamantada 1034",14868507,60,PERDEU,UND,181.8,3.03
+"Broca de alta rotação diamantada 1047",14868508,50,PERDEU,UN,132.5,2.65
+"broca diamantada esférica haste longa 1012",14868509,500,PERDEU,UNID,1875,3.75
+"broca diamantada esférica 1012",14868510,700,PERDEU,UNID,3241,4.63
+"broca diamantada esférica haste longa 1014",14868511,500,PERDEU,UNID,1970,3.94
+"Broca de alta rotação diamantada esferica 1014.",14868512,700,PERDEU,UN,2485,3.55
+"broca diamantada esférica haste longa 1016",14868513,150,PERDEU,UNID,495,3.3
+"Broca de alta rotação diamantada esférica 1019",14868516,500,PERDEU,UN,1670,3.34
+"Broca de alta rotação diamantada nº 2082",14868517,70,PERDEU,UN,244.3,3.49
+"Broca de alta rotação diamantada nº3082",14868520,70,PERDEU,UN,310.1,4.43
+"Broca de baixa rotação CARBIDE n° 1",14868522,200,PERDEU,UN,1644,8.22
+"Broca de baixa rotação CARBIDE n° 4.",14868524,450,PERDEU,UN,3586.5,7.97
+"Broca de baixa rotação haste longa n° 1",14868527,60,PERDEU,UN,769.2,12.82
+"Broca de baixa rotação haste longa n° 2",14868528,200,PERDEU,UN,2256,11.28
+"Broca de baixa rotação haste longa n° 4",14868529,200,PERDEU,UN,2958,14.79
+"Broca de baixa rotação haste longa n° 6",14868530,200,PERDEU,UN,3044,15.22
+"Broca de baixa rotação haste longa n° 8.",14868531,200,PERDEU,UN,3550,17.75
+"Broca de Gates Glidden nº1 de 25 mm",14868532,100,PERDEU,UN,1572,15.72
+"Broca de Gates Glidden nº1 de 32 mm",14868533,100,PERDEU,UN,853,8.53
+"Broca de Gates Glidden nº2 de 32 mm",14868534,100,PERDEU,UN,929,9.29
+"Broca de Gates Glidden nº3 de 25 mm",14868535,150,PERDEU,UN,1437,9.58
+"Broca de Gates Glidden nº3 de 32 mm",14868536,100,PERDEU,UN,841,8.41
+"Broca de Gates Glidden nº4 de 32 mm",14868537,50,PERDEU,UN,413.5,8.27
+"Broca diamantada esférica de alta rotação nº3018 FG",14868538,50,PERDEU,UN,170.5,3.41
+"Broca diamantada ponta de chama pequena nº 1111 FF",14868539,50,PERDEU,UN,188.5,3.77
+"BROCA ENDO Z - 21 MM",14868540,100,PERDEU,UNI,1132,11.32
+"Broca Zekrya Longa tamanho 28mm",14868554,200,PERDEU,UN,2238,11.19
+"Broca Zekrya .Tamanho 23mm",14868555,200,VENCEU,UN,2238,11.19
+"Cariostático a base de diaminufluoreto de prata 30%",14868561,90,PERDEU,FRA,2684.7,29.83
+"CIMENTO DE HIDROXIDO DE CALCIO",14868570,250,PERDEU,KIT,6175,24.7
+"Edta gel 24%. Embalagem com 2 seringas com 3g de gel cada.",14868617,50,PERDEU,CX,1401.5,28.03
+"Escova de Robson reta.",14868636,2300,PERDEU,UN,2093,0.91
+"Escova dental infantil macia",14868638,100,PERDEU,PCT,4555,45.55
+"ESPONJA HEMOSTÁTICA",14868643,300,PERDEU,CX,16263,54.21
+"Eucaliptol - Frasco 10 ml",14868645,20,VENCEU,FR,150.4,7.52
+Eugenol.,14868646,100,PERDEU,FR.,884,8.84
+"Evidenciador de placa",14868647,50,PERDEU,FR.,208.5,4.17
+"Fio agulhado seda, 3.0/EP2",14868653,350,PERDEU,CX,18368,52.48
+"Fio retrator nº 1 (médio).",14868660,30,PERDEU,UN,447.6,14.92
+"Fio retrator nº00 (extra fino).",14868661,30,PERDEU,UN,446.4,14.88
+"Fita matriz metálica de 5mm. Rolo 50cm.",14868662,700,PERDEU,UNID,1421,2.03
+"Fita matriz metálica de 7mm. Rolo 50cm.",14868663,350,PERDEU,UNID,752.5,2.15
+"Fita matriz poliéster transparente 10X120X0,05 mm",14868664,150,PERDEU,CX,492,3.28
+"Fixador para radiografia - Frasco com 475 ml",14868665,20,PERDEU,FR.,413.4,20.67
+"Flúor gel acidulado mínima de 1,23% de flúor-200 ml",14868666,500,PERDEU,FR.,3435,6.87
+"Hemostático Líquido",14868678,50,PERDEU,UN,879.5,17.59
+"Hidróxido de cálcio Pró-Análise - 10g",14868679,150,PERDEU,POT,763.5,5.09
+"Ionômero de vidro Restaurador FOTOpolimerizavel – IONOFAST",14868685,500,PERDEU,KIT,31940,63.88
+"Óleo lubrificante p/ alta-baixa rotação spray-200ml",14868760,350,PERDEU,FR.,8508.5,24.31
+"Pasta para polimento de resina composta",14868771,250,VENCEU,SRS,2472.5,9.89
+"Pasta profilática com granulação média com flúor",14868774,300,PERDEU,TBO,1998,6.66
+"Pavio para lamparina",14868776,10,PERDEU,PCT,38.2,3.82
+"Pedra pomes extra fina",14868778,150,PERDEU,POT,1045.5,6.97
+"Pincel aplicador Micro brush ponta extra-fina",14868779,250,PERDEU,CX,2780,11.12
+"Pincel aplicador Micro brush ponta regular",14868780,500,PERDEU,CX,6210,12.42
+"Restaurador provisório IRM",14868827,100,PERDEU,KIT,1529,15.29
+"REVELADOR PARA RADIOGRAFIA - FRASCO COM 475 ML",14868829,30,PERDEU,FRA,408,13.6
+"Selante Fotopolimerizável, COM liberação FLÚOR",14868833,100,VENCEU,KIT,1182,11.82
+"Sugador cirúrgico descartável caixa c/ 40 unidades",14868841,350,VENCEU,CX,12201,34.86
+"Sugador de saliva descartável 150mm x 0,65mm",14868842,3000,PERDEU,PCT,34440,11.48
+"Taça de borracha para contra-ângulo cor branca.",14868844,250,PERDEU,UN,240,0.96
+"TIP PERIO SUPRA",14868847,100,PERDEU,UNID,7482,74.82
+"Tira de lixa de aço 4mm para polimento de restaurações de am",14868848,550,PERDEU,PCT,3366,6.12
+"Verniz cavitário -10 ml",14868853,50,PERDEU,FR,595,11.9

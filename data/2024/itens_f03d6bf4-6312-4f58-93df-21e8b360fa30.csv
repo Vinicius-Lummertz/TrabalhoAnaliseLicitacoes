@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caminhão Basculante 6x4",5593345,1,6000,ATIVO,HORAS,894000,149
+"Escavadeira Hidráulica - peso operacional 21 toneladas",5593346,2,3000,ATIVO,HORAS,1143000,381
+"Escavadeira Hidráulica - peso operacional 14 toneladas",5593347,3,1500,ATIVO,HORAS,523500,349
+"Rolo Compactador",5593348,5,500,ATIVO,DIÁRIA,499500,999

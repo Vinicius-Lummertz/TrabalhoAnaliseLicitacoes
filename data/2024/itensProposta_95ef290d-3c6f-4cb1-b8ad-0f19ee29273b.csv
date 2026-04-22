@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Soro Fisiológico 1000ml sistema fechado (solução de cloreto de sódio 0,9%)",14878153,1200,PERDEU,UND,15600,13
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14883318,9500,PERDEU,UND,43320,4.56
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14883323,10000,PERDEU,UND,56000,5.6
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14883334,3750,VENCEU,UND,30750,8.2

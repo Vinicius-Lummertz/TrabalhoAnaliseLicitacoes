@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Calça Infraestrutura",0,45,VENCEU," ",6300,140
+"Bermuda Infraestrutura",0,45,VENCEU," ",4500,100
+"Camiseta Infraestrutura",0,65,VENCEU," ",1820,28
+"Jaleco Infraestrutura",0,20,VENCEU," ",1800,90
+"Jaqueta Infraestrutura",0,20,VENCEU," ",5000,250
+"Boné Infraestrutura",0,20,VENCEU," ",600,30
+"Chapéu Infraestrutura",0,20,VENCEU," ",700,35
+"Camiseta Gola Polo COORDENADORES E ADMINISTRATIVO",0,35,VENCEU," ",1225,35
+"Calça Jeans COORDENADORES E ADMINISTRATIVO",0,30,VENCEU," ",3000,100
+"Pullover COORDENADORES E ADMINISTRATIVO",0,15,VENCEU," ",2100,140
+"Camiseta ROTATIVO",0,300,VENCEU," ",8400,28
+"Colete ROTATIVO",0,300,VENCEU," ",10500,35
+"Boné ROTATIVO",0,200,VENCEU," ",4000,20
+"Calça Legging MANUTENÇÃO/CONSERVAÇÃO",0,40,VENCEU," ",2400,60
+"Camiseta MANUTENÇÃO/CONSERVAÇÃO",0,40,VENCEU," ",1120,28
+"Jaleco MANUTENÇÃO/CONSERVAÇÃO",0,30,VENCEU," ",2700,90
+"Jaqueta - MANUTENÇÃO/CONSERVAÇÃO",0,10,VENCEU," ",2500,250

@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"base de brita graduada",4397847,60000,NAO_COTOU,TON,0,0
+"PO DE PEDRA",4397848,30000,NAO_COTOU,TON,0,0
+"Macadame (ou brita nº 04)",4397849,25000,PERDEU,TON,1000000,40
+"Pedrisco (ou brita nº 00)",4397850,20000,NAO_COTOU,TON,0,0
+"BRITA 3/4 (BRITA Nº 01)",4397851,15000,NAO_COTOU,TON,0,0
+"Rachão (ou brita nº 05)",4397852,8000,PERDEU,TON,311200,38.9
+"Areia lavada média",4397853,5000,NAO_COTOU,M3,0,0
+"AREIA FINA S/ USO NA CONSTRUÇÃO CIVIL",4397854,10000,NAO_COTOU,TON,0,0
+"Areia lavada fina (Branca e limpa) para parques",4397855,3000,NAO_COTOU,TON,0,0

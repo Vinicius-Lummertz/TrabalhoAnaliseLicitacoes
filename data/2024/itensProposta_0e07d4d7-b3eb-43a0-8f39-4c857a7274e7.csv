@@ -1,0 +1,79 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Farinha de Mandioca crua",16304792,200,PERDEU,KG,820,4.1
+"Farinha de milho média ou fina enriquecida com ferro e ácido fólico",16304793,200,PERDEU,KG,728,3.64
+"Feijão branco",16304794,300,PERDEU,EMB,3027,10.09
+"FEIJAO PRETO",16304795,900,PERDEU,KG,7380,8.2
+"Grão de bico",16304796,220,PERDEU,UN,2398,10.9
+Lentilha,16304798,200,PERDEU,UN,2160,10.8
+"MILHO DE PIPOCA.",16304806,300,PERDEU,EMB,1650,5.5
+"Amido de milho embalagem",16304845,100,PERDEU,UND,1128,11.28
+"ARROZ INTEGRAL",16304846,300,PERDEU,KG,1740,5.8
+"Arroz parboilizado",16304847,1000,PERDEU,KG,5700,5.7
+"Arroz Polido",16304848,100,PERDEU,KG,605,6.05
+"Aveia laminada em flocos finos, embalada em pacote de 450g.",16304849,230,PERDEU,UND,2645,11.5
+"Biscoito de chocolate.",16304851,300,PERDEU,PCT,1800,6
+"Biscoito tipo caseiro sabor nata Embalagem com 350g",16304852,200,PERDEU,PCT,2580,12.9
+"Biscoito doce sem recheio Tipo ‘maisena” Embalagens de 360g",16304853,450,PERDEU,PCT,2250,5
+"Biscoito salgado integral Embalagens de 400g",16304854,500,PERDEU,PCT,3500,7
+"Biscoito salgado água Embalagens de 400g",16304855,100,PERDEU,PCT,600,6
+"Farinha de tapioca",16304862,70,PERDEU,PCTE,595,8.5
+"FARINHA DE TRIGO",16304863,520,PERDEU,KG,1690,3.25
+"FARINHA DE TRIGO INTEGRAL",16304864,100,PERDEU,KG,500,5
+"Fermento biológico Seco, instantâneo, embalado em envelopes de 10g.",16304865,8,PERDEU,UND,18.24,2.28
+"Fermento em pó químico Em latas de 250g",16304866,250,PERDEU,UND,2272.5,9.09
+"Macarrão Tipo Espaguete Integral 500g",16304867,150,PERDEU,UND,1342.5,8.95
+"Macarrão Tipo Espaguete tradicional 500g",16304868,48,PERDEU,UND,360,7.5
+"Polvilho azedo embalagem contendo 500 gramas",16304878,50,PERDEU,UND,440,8.8
+"Polvilho doce embalagem 500 gramas",16304879,50,PERDEU,UND,440,8.8
+"Creme de leite UHT embalagem tetra pak de 200g.",16304882,250,PERDEU,UND,1055,4.22
+"Leite Condensado: Em embalagem treta pak de 395g.",16304885,220,PERDEU,UNI,1489.4,6.77
+"Manteiga 200g",16304886,400,PERDEU,UND,4988,12.47
+"Leite Desnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304891,400,PERDEU,UND,2688,6.72
+"Leite em pó 400g instantâneo",16304892,50,PERDEU,LAT,1056.5,21.13
+"Leite Integral UHT caixa tetra pak de 1 litro tipo longa vida.",16304893,2400,PERDEU,LT,15408,6.42
+"Leite Semidesnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304894,1100,PERDEU,LT,8228,7.48
+"Achocolatado em pó lata 370g",16304895,150,PERDEU,UND,2250,15
+"Açúcar refinado 1Kg",16304896,1040,PERDEU,KG,5938.4,5.71
+"Cacau em pó 200g",16304902,110,PERDEU,UND,3080,28
+"Chocolate granulado embalagem de 150g",16304905,20,PERDEU,UND,111.4,5.57
+"Coco Ralado (sem adição de açúcar) 100gr",16304907,100,PERDEU,UND,510,5.1
+"Doce de frutas pote de 400g",16304908,400,PERDEU,POT,2520,6.3
+"Doce de Leite em Pasta pote de 350g",16304909,40,PERDEU,UND,341.2,8.53
+"Gelatina de fruta 20g",16304910,50,PERDEU,UND,142.5,2.85
+"Leite de coco 200 ml",16304911,50,PERDEU,UND,245,4.9
+"Margarina embalagens de 500g",16304916,200,PERDEU,POT,2220,11.1
+"Suco de néctar de frutas 1 litro",16304920,550,PERDEU,UND,4361.5,7.93
+"Batata palha embalagem 100g",16304926,80,PERDEU,UND,570.4,7.13
+"Café Tradicional 500g",16304928,1200,PERDEU,PCT,23604,19.67
+"Canela moída 30g.",16304929,20,PERDEU,UND,131.4,6.57
+"Canela em pau 12g.",16304930,8,PERDEU,UND,52.56,6.57
+"Chá de camomila caixa contendo 10 sachês",16304932,100,PERDEU,UND,550,5.5
+"Chá de hortelã caixa contendo 10 sachês",16304933,60,PERDEU,UND,330,5.5
+"Chá de erva doce caixa contendo 10 sachês",16304934,60,PERDEU,UND,330,5.5
+"Colorau (colorífico)",16304935,100,PERDEU,UNI,798,7.98
+"Cominho moído",16304936,200,PERDEU,UNI,1506,7.53
+"CRAVO DA INDIA",16304937,20,PERDEU,PCT,139,6.95
+"Ervilha em conserva lata",16304938,100,PERDEU,UND,375,3.75
+"Extrato de tomate 300g acondicionado em embalagem tetra pack.",16304939,230,PERDEU,UND,949.9,4.13
+"Louro folha 5g",16304940,30,PERDEU,UND,128.1,4.27
+"Maionese embalagem pet de 500g.",16304941,115,PERDEU,UND,974.05,8.47
+"Manjericão pacote de 100g.",16304942,10,PERDEU,UND,272.7,27.27
+"Milho verde em conserva lata",16304943,300,PERDEU,UND,1293,4.31
+"Orégano embalagem 50g",16304945,110,PERDEU,UND,986.7,8.97
+"Paprica defumada",16304946,230,PERDEU,UND,2168.9,9.43
+"Pimenta preta moída",16304947,100,PERDEU,UNI,587,5.87
+"Sal grosso embalagem de 1kg.",16304949,40,PERDEU,KG,137.2,3.43
+"Sal refinado 1kg",16304950,200,PERDEU,KG,496,2.48
+"Sardinha lata Embalagem de 125g",16304951,200,PERDEU,UND,1054,5.27
+"Vinagre 900ml.",16304954,200,PERDEU,UND,634,3.17
+"Óleo de soja embalagem com 900 ml.",16304956,440,PERDEU,UND,4312,9.8
+"Guardanapo de papel pacote folhas simples, medindo em torno de 23 cm X 22 cm.",16304974,300,PERDEU,PCT,933,3.11
+"Luvas plásticas descartáveis em Polietileno atóxico, ambidestra e Descartável. apresentação em caixa Com 100 unidades.",16304975,10,PERDEU,CX,74.7,7.47
+"Pano de prato atoalhado, na cor branca, 100% algodão.",16304977,48,PERDEU,UND,310.56,6.47
+"Papel Filme PVC Para freezer Em bobina de 28cm x 30m.",16304978,48,PERDEU,UND,374.4,7.8
+"Papel toalha Embalagem de polietileno, contendo 2 rolos com no mínimo 60 toalhas por rolo, medindo 22cm x 20cm cada.",16304980,800,PERDEU,PCT,4616,5.77
+"Prato descartável 20 cm de diâmetro pacotes plásticos com 10 unidades.",16304981,500,PERDEU,PCT,3275,6.55
+"Prato descartável 15 cm de diâmetro pacotes plásticos com 10 unidades.",16304982,1000,PERDEU,PCT,5270,5.27
+"Saco plástico transparente, medindo aproximadamente 21cm x 32cm, com 2kg. Embalagem com 100 unidades.",16304984,100,PERDEU,UND,837,8.37
+"Saco plástico transparente, medindo aproximadamente 15 x 10 cm embalagem com 100 unidades.",16304985,180,PERDEU,UND,2484,13.8
+"Touca protetora descartável sanfonada confeccionada em TNT (100 polipropileno atóxico) cor branca - Tam. único (pct com 100 und).",16304986,12,PERDEU,PCT,223.56,18.63

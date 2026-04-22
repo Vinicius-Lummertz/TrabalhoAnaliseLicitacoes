@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Mangueiras,14773709,1,PERDEU,UN,227089.57,12
+"Material de desgaste - lâminas",14773710,1,PERDEU,UND,307679.26,27.5
+"Material de desgaste - asfalto",14773711,1,VENCEU,UND,207300,66.5

@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adaptador de Rede USB",14940379,5,PERDEU,UND,1500,300
+"Adaptador USB Wifi",14940380,5,PERDEU,UND,994.45,198.89
+"Digitalizador de Documentos",14940399,2,PERDEU,UND,10000,5000
+"Monitor Grande",14940411,5,PERDEU,UND,15000,3000
+"Monitor Médio",14940412,5,PERDEU,UND,15000,3000
+"Monitor Tela Curva",14940413,1,PERDEU,UND,15000,15000
+Smartphone,14940429,40,PERDEU,UND,120000,3000
+"Smartphone Resistente",14940430,6,PERDEU,UND,30000,5000
+Tablet.,14940436,6,PERDEU,UND,30000,5000

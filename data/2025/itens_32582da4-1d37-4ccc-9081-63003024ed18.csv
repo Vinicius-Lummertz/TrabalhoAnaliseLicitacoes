@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bule hotel 5 LT",7829254,11,97,ATIVO,UNIDADE,9350.8,96.4
+"Bule com tampa 7 litros",7829255,12,97,ATIVO,UNIDADE,13289,137
+"Caixa organizadora 42,0cm x 31,0cm x 20,0cm",7829256,19,1695,ATIVO,UNIDADE,53731.5,31.7
+"Caixa organizadora 42,0cm x 31,0cm x 20,0cm",7829257,20,565,ATIVO,UNIDADE,19718.5,34.9
+"Caixa organizadora de Plástico 42 litros",7829258,22,208,ATIVO,UNIDADE,14976,72
+"Caixa Organizadora de Plástico 12,5 litros",7829259,23,550,ATIVO,UNIDADE,15345,27.9
+"Caixa organizadora média 20,39 litros  em polipropileno",7829260,26,1689,ATIVO,UNIDADE,68066.7,40.3
+"Caixa plástica multiuso com tampa e  trava 4 litros",7829261,28,760,ATIVO,UNIDADE,15640.8,20.58
+"Caixa plástica multiuso com tampa e trava 15 litros",7829262,30,930,ATIVO,UNIDADE,37525.5,40.35
+"Caixa plástica multiuso com tampa e trava 30 litros",7829263,31,932,ATIVO,UNIDADE,49629,53.25
+"Caixa plástica multiuso com tampa e trava  60 litros",7829264,33,190,ATIVO,UNIDADE,25213,132.7
+"Caixa plástica multiuso com tampa e trava 7,5 litros",7829265,34,760,ATIVO,UNIDADE,18240,24
+"Caixa Vazada Plástica Branca",7829266,35,90,ATIVO,UNIDADE,13590,151
+"Caixa Vazada Plástica na cor preta",7829267,36,758,ATIVO,UNIDADE,24862.4,32.8
+"Caixa Vazada Plástica na cor preta",7829268,37,252,ATIVO,UNIDADE,9954,39.5
+"Canecão hotel nº18",7829269,43,80,ATIVO,UNIDADE,4676,58.45
+"Carrinho Plataforma de aço dobrável, 300 kg",7829270,44,42,ATIVO,UNIDADE,45780,1090
+"Carro de Limpeza MOP 01 Balde",7829271,48,88,ATIVO,UNIDADE,73031.2,829.9
+"Carro de limpeza MOP dois baldes",7829272,51,47,ATIVO,UNIDADE,38258,814
+"Concha hotel em alumínio nº 12",7829273,59,96,ATIVO,UNIDADE,2309.76,24.06
+"Escumadeira em alumínio n° 12",7829274,64,88,ATIVO,UNIDADE,2719.2,30.9
+"Faca de pâo",7829275,68,158,ATIVO,UNIDADE,3997.4,25.3
+FRIGIDEIRA,7829276,69,90,ATIVO,UNIDADE,13041,144.9
+"Garrafa térmica inox 1,8 litros",7829277,73,276,ATIVO,UNIDADE,31436.4,113.9
+"Lixeira 100 litros com tampa e pedal",7829278,77,86,ATIVO,UNIDADE,22360,260
+"Mesa Pia de Inox",7829279,80,22,ATIVO,UNIDADE,48397.8,2199.9
+"Palete modular 25cmx50cmx2,5cm  Plástico CINZA",7829280,84,1250,ATIVO,UNIDADE,28750,23
+"Pallet Plástico Liso Monobloco",7829281,85,30,ATIVO,UNIDADE,10827,360.9
+"Pallet Plástico Liso Monobloco na cor Preta",7829282,86,40,ATIVO,UNIDADE,14436,360.9
+"Xícaras de Porcelana Branca com pires de 200ml",7829283,100,2180,ATIVO,UNIDADE,43600,20

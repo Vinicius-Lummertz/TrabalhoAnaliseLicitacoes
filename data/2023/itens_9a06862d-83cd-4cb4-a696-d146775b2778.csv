@@ -1,0 +1,146 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Armação secundária AR 22, galvanizada.",4021655,1,70,ATIVO,UNIDADE,1092,15.6
+"Barramento pente bifásico 50A",4021656,2,30,ATIVO,PACOTE,465,15.5
+"Barramento pente monofásico 50A",4021657,3,30,ATIVO,PACOTE,509.7,16.99
+"Barramento pente trifásico 50A",4021658,4,30,ATIVO,PACOTE,885,29.5
+"Braço para luminária iluminação pública 1,5m de comprimento com diâmetro de 25,4mm galvanizado a fogo, com sapata, espessura 1,9mm",4021659,6,150,ATIVO,UNIDADE,5248.5,34.99
+"Braço para luminária iluminação pública 2m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 2mm",4021660,7,150,ATIVO,PACOTE,14173.5,94.49
+"Cabo Flexivel, bitola 1,5 mm2 Isolamento PVC 750 V",4021661,9,10000,ATIVO,METRO,9100,0.91
+"Cabo Flexível, bitola 10,0 mm2 Isolamento EPR 1kV - VERDE",4021662,10,2000,ATIVO,MTS,13180,6.59
+"Cabo Flexível, bitola 16,0 mm2 Isolamento EPR 1kV - VERDE",4021663,11,2000,ATIVO,MTS,20360,10.18
+"Cabo Flexivel, bitola 2,5 mm2 Isolamento PVC 750 V",4021664,12,10000,ATIVO,METRO,13900,1.39
+"Cabo Flexível, bitola 25,0 mm², Isolamento EPR 1kV - VERDE",4021665,13,1500,ATIVO,MTS,23820,15.88
+"Cabo Flexivel, bitola 6,0 mm2 Isolamento EPR 1kV",4021666,15,2000,ATIVO,METRO,7720,3.86
+"Cabo PP, de cobre, bitola 4 x 2,5mm2, isolamento 1KV",4021667,18,5000,ATIVO,METRO,35350,7.07
+"Caixa de concreto 30x30",4021668,19,50,ATIVO,UNIDADE,2449.5,48.99
+"Caixa de concreto 40x40",4021669,20,50,ATIVO,UNIDADE,3649.5,72.99
+"Chave de comando para iluminação pública bipolar 50 amperes",4021670,24,17,ATIVO,PACOTE,4793.83,281.99
+"Chave de comando para iluminação pública unipolar 50 amperes",4021671,25,17,ATIVO,PACOTE,3944,232
+"Cinta circular para poste com dois parafusos e porca 160mm, galvanizado a fogo",4021672,26,70,ATIVO,PACOTE,2212,31.6
+"Cinta circular para poste com dois parafusos e porca 170mm, galvanizado a fogo",4021673,27,70,ATIVO,PACOTE,2274.3,32.49
+"Cinta circular para poste com dois parafusos e porca 180mm, galvanizado a fogo",4021674,28,70,ATIVO,PACOTE,2361.1,33.73
+"Cinta circular para poste com dois parafusos e porca 190mm, galvanizado a fogo",4021675,29,70,ATIVO,PACOTE,2425.5,34.65
+"Cinta circular para poste com dois parafusos e porca 200mm, galvanizado a fogo",4021676,30,70,ATIVO,PACOTE,2489.9,35.57
+"Cinta circular para poste com dois parafusos e porca 210mm, galvanizado a fogo",4021677,31,70,ATIVO,PACOTE,2554.3,36.49
+"Cinta circular para poste com dois parafusos e porca 220mm, galvanizado a fogo",4021678,32,70,ATIVO,PACOTE,2572.5,36.75
+"Cinta circular para poste com dois parafusos e porca 230mm, galvanizado a fogo",4021679,33,70,ATIVO,PACOTE,2659.3,37.99
+"Cinta circular para poste com dois parafusos e porca 240mm, galvanizado a fogo",4021680,34,70,ATIVO,PACOTE,2729.3,38.99
+"Cinta circular para poste com dois parafusos e porca 250mm, galvanizado a fogo",4021681,35,70,ATIVO,PACOTE,2809.8,40.14
+"Cinta plástica nylon autotravante 400mm x 6mm",4021682,36,3000,ATIVO,PACOTE,2010,0.67
+"Conector cunha de alumínio ampactinho tipo B (LARANJA)",4021683,37,1600,ATIVO,PACOTE,10256,6.41
+"Conector cunha de alumínio ampactinho tipo II (VERDE)",4021684,38,1600,ATIVO,PACOTE,7232,4.52
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 2 entradas.",4021685,42,300,ATIVO,PACOTE,621,2.07
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 3 entradas.",4021686,43,300,ATIVO,PACOTE,867,2.89
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 4 entradas.",4021687,44,300,ATIVO,PACOTE,1497,4.99
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 5 entradas.",4021688,45,200,ATIVO,PACOTE,998,4.99
+"Contator tripolar com bobina 220V para 25A Regime AC3",4021689,48,20,ATIVO,PACOTE,1332.6,66.63
+"Contator tripolar com bobina 220V para 50A Regime AC3",4021690,49,20,ATIVO,PACOTE,3738,186.9
+"Cruzeta metálica em aço carbono galvanizada a quente 2,40 mts",4021691,51,25,ATIVO,PACOTE,9674.75,386.99
+"Dispositivo protetor de surto (DPS) de 10Kv/10kA, para uso em luminairas pública de LED",4021692,52,350,ATIVO,PACOTE,9754.5,27.87
+"Eletroduto corrugado flexivel 2” tipo pesado",4021693,53,5000,ATIVO,METRO,19900,3.98
+"Eletroduto corrugado flexivel 3” tipo pesado",4021694,54,5000,ATIVO,METRO,33650,6.73
+"Eletroduto corrugado flexivel 4” tipo pesado",4021695,55,5000,ATIVO,METRO,46600,9.32
+"Eletroduto corrugado flexivel 1.1/2” tipo pesado",4021696,56,5000,ATIVO,METRO,16250,3.25
+"Eletroduto corrugado flexivel 1.1/4” tipo pesado",4021697,57,5000,ATIVO,METRO,11450,2.29
+"Eletroduto corrugado flexivel 1” tipo pesado",4021698,58,5000,ATIVO,METRO,10950,2.19
+"Fita isolante - 20m - preta",4021699,59,1000,ATIVO,ROLO,4330,4.33
+"Fita isolante de alta fusão PVC, comprimento de 20 m, cor preta",4021700,60,150,ATIVO,ROLO,2394,15.96
+"Kit postinho monofásico completo (fiação, disjuntor, DPS), com disjuntor de 50A, Ramal de entrada e saída aéreos com cabos de 10mm2, 8m de altura e esforço de 100daN (homologado Celesc)",4021701,62,10,ATIVO,UNIDADE,18932.9,1893.29
+"Kit postinho monofásico completo (fiação, disjuntor, DPS), com disjuntor de 50A, Ramal de entrada e saída aéreos com cabos de 10mm2, 8m de altura e esforço de 100daN (homologado Celesc) em fibra",4021702,63,1,ATIVO,PACOTE,2747.79,2747.79
+"Kit postinho trifásico completo (fiação, disjuntor, DPS), com disjuntor de 70A, Ramal de entrada e saída aéreos com cabos de 16mm2, 8m de altura e esforço de 150daN (homologado Celesc)",4021703,64,10,ATIVO,UNIDADE,27727.9,2772.79
+"Kit postinho trifásico completo (fiação, disjuntor, DPS), com disjuntor de 70A, Ramal de entrada e saída aéreos com cabos de 16mm2, 8m de altura e esforço de 150daN (homologado Celesc) em fibra",4021704,65,1,ATIVO,PACOTE,3241.49,3241.49
+"Lâmpada multivapor metálico 2.000W, tubolar, E-40, vida útil mínima de 10.000h, Im 205.000 lumens",4021705,69,35,ATIVO,PACOTE,13090,374
+"Lâmpada multivaporer metálico 400w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 35000 lumens",4021706,70,100,ATIVO,PACOTE,2440,24.4
+"Lâmpada multivapores metálico 250w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 20000 lumens, 5500K",4021707,71,350,ATIVO,PACOTE,9152.5,26.15
+"Lâmpada multivapores metálicos 150w, vida útil mínima de 12.000h, Im 11500 lumens, base E-27, 4200K",4021708,72,350,ATIVO,PACOTE,8050,23
+"Lâmpada vapor sódio alta pressão 150w, bulbo tubular, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 17.000 lumens, com Selo Procel",4021709,74,1500,ATIVO,UNIDADE,23445,15.63
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",4021710,75,3900,ATIVO,PACOTE,62751,16.09
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",4021711,76,1300,ATIVO,PACOTE,20917,16.09
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",4021712,78,7500,ATIVO,UNIDADE,88875,11.85
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",4021713,79,2500,ATIVO,UNIDADE,29600,11.84
+"Luminária para iluminação pública de alumínio difusor policarbonato injetado, conjunto óptico IP65, bocal E-40 reforçado para instalar em braço de 48,3mm, refletor em aluminio estampado e escalonado, pescoço de alumínio injetado na cor cinza, para lâmpada de sódio até 400w",4021714,80,140,ATIVO,UNIDADE,17778.6,126.99
+"Luminária para iluminação pública de alumínio, bocal E-40, instalação em braço de 48,3mm, para lâmpada vapor de sódio até 250W",4021715,81,140,ATIVO,PACOTE,12073.6,86.24
+"Luminária para iluminação pública de alumínio estampado, com grade, bocal E-27 reforçado para instalar em braço de 25,4mm, comprimento 415mm, largura 240mm, para lâmpada vapor de sódio até 70w",4021716,82,200,ATIVO,UNIDADE,10998,54.99
+"Luminária para iluminação pública led, potência máxima de 200w, fluxo minimo de 30.000 lumens, com eficiência maior ou igual a 150lm/W, tensão de entrada de 220V 60Hz, base para relê fotoelétrico incorporada, temperatura de cor: 5.000K.",4021717,86,50,ATIVO,PACOTE,36787.5,735.75
+"MiniDisjuntor monofásico 10 A, curva C, padrão IEC",4021718,89,84,ATIVO,UNIDADE,437.64,5.21
+"MiniDisjuntor monofásico 16 A, curva C, padrão IEC",4021719,90,84,ATIVO,UNIDADE,440.16,5.24
+"MiniDisjuntor monofásico 25 A, curva C, padrão IEC",4021720,91,84,ATIVO,UNIDADE,456.12,5.43
+"MiniDisjuntor monofásico 50 A, curva C, padrão IEC",4021721,92,84,ATIVO,UNIDADE,588,7
+"Parafuso cabeça abaloada 16x75mm com porca, galvanizado a fogo",4021722,97,250,ATIVO,PACOTE,1267.5,5.07
+"Parafuso máquina cabeça quadrada com porca 16x200mm, galvanizado a fogo",4021723,98,150,ATIVO,PACOTE,1143,7.62
+"Parafuso máquina cabeça quadrada com porca 16x250mm, galvanizado a fogo",4021724,99,150,ATIVO,PACOTE,1333.5,8.89
+"Parafuso máquina cabeça quadrada com porca 16x300mm, galvanizado a fogo",4021725,100,150,ATIVO,PACOTE,1522.5,10.15
+"Porca quadrada 16 mm, galvanizado a fogo",4021726,105,2500,ATIVO,UNIDADE,3975,1.59
+"Poste de concreto DT 9m/150dan (homolagado Celesc)",4021727,107,9,ATIVO,UNIDADE,11160,1240
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 07 mts",4021728,108,15,ATIVO,UNIDADE,10346.85,689.79
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 08 mts",4021729,109,15,ATIVO,PACOTE,13199.85,879.99
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 09 mts",4021730,110,15,ATIVO,PACOTE,15974.85,1064.99
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 10 mts",4021731,111,15,ATIVO,PACOTE,18730.35,1248.69
+"Poste reto em poliéster reforçado, altura livre de 07 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm , base engasatada. Resistência 60 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",4021732,112,25,ATIVO,UNIDADE,43000,1720
+"Poste reto em poliéster reforçado, altura livre de 08 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 100 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",4021733,113,15,ATIVO,UNIDADE,36750,2450
+"Poste reto em poliéster reforçado, altura livre de 09 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 100 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",4021734,114,17,ATIVO,UNIDADE,47600,2800
+"Poste reto em poliéster reforçado, altura livre de 12 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 200 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",4021735,115,8,ATIVO,UNIDADE,54400,6800
+"Quadro de comando metalico 400x400x200 com flange",4021736,119,35,ATIVO,UNIDADE,7252,207.2
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 1000w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",4021737,120,30,ATIVO,UNIDADE,8100,270
+"Relé fotoeletrônico para iluminação pública 1000w com retardo, garantia mínima 05 anos, os contatos devem ser capazes de suportar 35.000 operações com as cargas indutivas supracitadas, contando-se uma operação para cada ciclo completo (uma abertura e um fechamento), sem sofrer desgastes ou deteriorações que os inutilizem.",4021738,137,2500,ATIVO,PACOTE,38750,15.5
+"Suporte para instalação e fixação de 03 luminárias em topo de poste, com diâmetro de 60,3m, para uso em sistemas de iluminação de vias públicas.",4021739,141,10,ATIVO,PACOTE,755.1,75.51
+"Suporte para instalação e fixação de 04 luminárias em topo de poste, com diâmetro de 60,3m, para uso em sistemas de iluminação de vias públicas.",4021740,142,10,ATIVO,PACOTE,956.4,95.64
+"Temporizador digital programável",4021741,143,20,ATIVO,PACOTE,1750,87.5
+"Trilho DIN Perfurado 35x7,5x1000mm - Ferro Zincado",4021742,144,10,ATIVO,PACOTE,78.6,7.86
+"Alicate Amperímetro CAT4 com detector de tensão",4021743,145,10,ATIVO,PACOTE,1130.2,113.02
+"Alicate Bomba D'água - 10 polegadas",4021744,146,10,ATIVO,PACOTE,268.8,26.88
+"Alicate universal 8"" eletricista",4021745,147,35,ATIVO,PACOTE,1200.5,34.3
+"Chave combinada 13mm",4021746,148,16,ATIVO,PACOTE,231.84,14.49
+"Chave combinada 14mm",4021747,149,16,ATIVO,PACOTE,271.84,16.99
+"Chave combinada 17mm",4021748,151,16,ATIVO,PACOTE,396.8,24.8
+"Chave combinada 19mm",4021749,152,16,ATIVO,PACOTE,384,24
+"Chave combinada 22mm",4021750,153,16,ATIVO,PACOTE,552,34.5
+"Chave combinada 24mm",4021751,154,16,ATIVO,PACOTE,712,44.5
+"Chave fenda 1/4 x 5"" - isolada",4021752,155,35,ATIVO,UNIDADE,348.25,9.95
+"Chave fenda 3/16 x 5"" - isolada",4021753,157,35,ATIVO,UNIDADE,315,9
+"Chave fenda 3/8 x 10"" - isolada",4021754,158,35,ATIVO,PACOTE,696.5,19.9
+"Chave philips 1/8 x 3"" - isolada",4021755,159,35,ATIVO,UNIDADE,182.7,5.22
+"Chave philips 3/16 x 3"" - isolada",4021756,160,35,ATIVO,UNIDADE,203.7,5.82
+"Escada de alumínio dobrável 6 degraus",4021757,161,2,ATIVO,PACOTE,1180,590
+"Escada de alumínio multifuncional 4x4, 16 degraus (uso profissional)",4021758,162,2,ATIVO,UNIDADE,1500,750
+"Escada de fibra extensiva com altura (Aberta:10,20m Fechada:5,70m), Carga de trabalho: 120kg (uso profissional)",4021759,163,2,ATIVO,PACOTE,4060,2030
+"Esmerilhadeira industrial 5"" 900W 220V",4021760,164,2,ATIVO,UNIDADE,832,416
+"Facão 16"" com cabo PP",4021761,165,5,ATIVO,PACOTE,172,34.4
+"Gerador a gasolina de 10 kva",4021762,166,1,ATIVO,UNIDADE,9890,9890
+"Luva de Raspa Forrada Cano Longo, CA 28.750, tamanho 9,5",4021763,167,35,ATIVO,UNIDADE,500.5,14.3
+"Luva Isolante Classe 00 Preto, CA 38.400, tamanho 9,5",4021764,168,35,ATIVO,UNIDADE,3850,110
+"Maleta de couro 40x21x14cm grande",4021765,169,20,ATIVO,PACOTE,6000,300
+"Motoserra a gasolina 1,8cv 1,3kw - sabre 30cm",4021766,170,1,ATIVO,PACOTE,1200,1200
+"Parafusadeira / furadeira 18V c/ 2 baterias",4021767,171,5,ATIVO,PACOTE,2750,550
+"Perfurador de solo gasolina 1,4kw, broca de 800mm x 30mm",4021768,172,1,ATIVO,UNIDADE,3990,3990
+"Cabo de cobre isolado EPR 1kV 4,0mm2",4021769,173,780,ATIVO,METRO,1950,2.5
+"Cabo de cobre isolado EPR 1kV 6,0mm2",4021770,174,2140,ATIVO,METRO,8260.4,3.86
+"Cabo de cobre isolado EPR 1kV 10,0mm2",4021771,175,75,ATIVO,METRO,494.25,6.59
+"Cabo PP, de cobre, bitola 3 x 2,5mm, isolamento 1KV",4021772,176,220,ATIVO,METRO,1276,5.8
+"Disjuntor unipolar termo magnético 20 A",4021773,178,4,ATIVO,PACOTE,29.6,7.4
+"Disjuntor tripolar termo magnético 25 A",4021774,179,2,ATIVO,PACOTE,58,29
+"Disjuntor tripolar termo magnético 40 A",4021775,180,2,ATIVO,PACOTE,60.5,30.25
+"Interruptor fotoelétrico (fotocélula)",4021776,182,2,ATIVO,UNIDADE,44.76,22.38
+"Timer para acionamento de contatora",4021777,183,2,ATIVO,PACOTE,176.3,88.15
+"Abraçadeira PVC para duto 3/4""",4021778,184,450,ATIVO,UNIDADE,360,0.8
+"Abraçadeira PVC para duto 1""",4021779,185,155,ATIVO,PACOTE,170.5,1.1
+"Curva 90º para duto PVC rígido 3/4""",4021780,187,22,ATIVO,PACOTE,42.9,1.95
+"Curva 90º para duto PVC rígido 1""",4021781,188,16,ATIVO,PACOTE,43.2,2.7
+"Curva 180º para duto PVC rígido 1""",4021782,189,1,ATIVO,PACOTE,2.9,2.9
+"Luva para eletroduto em PVC rígido 1""",4021783,191,47,ATIVO,PACOTE,79.9,1.7
+"Eletroduto PVC rígido 3/4""",4021784,192,506,ATIVO,METRO,1593.9,3.15
+"Eletroduto PVC rígido 1""",4021785,193,160,ATIVO,METRO,576,3.6
+"Eletroduto corrugado PEAD 2""",4021786,194,545,ATIVO,METRO,1989.25,3.65
+"Cabo de cobre nú 35mm² para aterramento",4021787,197,21,ATIVO,METRO,420,20
+"Caixa de medição em poste com lente (padrão CELESC)",4021788,198,1,ATIVO,PACOTE,260,260
+"Conector tipo cunha para haste de aterramento",4021789,202,6,ATIVO,PACOTE,85.68,14.28
+"Conector tipo sapata para cabo #6mm²",4021790,203,10,ATIVO,PACOTE,40.8,4.08
+"DPS - Dispositivo de proteção contra surtos 275V/45kA",4021791,204,4,ATIVO,PACOTE,69.6,17.4
+"Cabo de Cobre Isol. EPR 1kV 2,5mm2.",4021792,207,400,ATIVO,METRO,712,1.78
+"Cabo Flexível, bitola 16,0 mm², Isolamento EPR 1kV - BRANCO",4021793,208,225,ATIVO,MTS,2184.75,9.71
+"Disjuntor unipolar termo magnético 16 A",4021794,209,2,ATIVO,PACOTE,12.86,6.43
+"Disjuntor tripolar Termo magnético 63 A",4021795,210,2,ATIVO,PACOTE,67.92,33.96
+"Disjuntor tripolar termo magnético 70 A",4021796,211,1,ATIVO,PACOTE,51,51
+"Abraçadeira tipo D para duto 2""",4021797,212,20,ATIVO,PACOTE,47,2.35
+"Refletor p/ uso externo com regulagem de foco em LED 100W - 5000K",4021798,218,8,ATIVO,PACOTE,704,88
+"Kit postinho CELESC com poste em concreto 8m/150daN e caixa para medição em policarbonato incorporada. Cabos 16mm² / Disj 70A",4021799,219,1,ATIVO,PACOTE,2200,2200

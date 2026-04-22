@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fogão industrial 4 bocas",10949691,2,VENCEU,UND,3000,1500
+"Refrigerador Frost Free, 2 portas, 220 V",10949693,2,VENCEU,UND,5914,2957
+"Televisor colorido 43 polegadas, SMART TV, com suporte de pa",10949694,3,PERDEU,UN,5235,1745
+"Aspirador de pó/água profissional, para Sólidos/Líquidos,   220V, 30 lt, 1.600W em aço inox",10949696,2,PERDEU,UND,2160,1080
+"Lavadora de alta pressão profissional, potência de 2500W pressão de 2300 PSI/Libras, tensão 220 V",10949697,2,VENCEU,UND,5460,2730

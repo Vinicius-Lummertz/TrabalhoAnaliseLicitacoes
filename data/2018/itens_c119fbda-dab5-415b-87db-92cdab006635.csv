@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico em gel 70% (70 INPM) 500 gramas;",1298144,3,7000,ATIVO,FRASCO,28000,4
+"Sabonete líquido.",1308382,59,2800,ATIVO,GALAO,28000,10
+"Desinfetante de uso geral 500mL.",1316611,16,1200,ATIVO,UNIDADE,1800,1.5

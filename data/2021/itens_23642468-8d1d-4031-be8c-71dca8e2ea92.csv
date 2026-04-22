@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Soro Fisiológico 1000ml (solução de cloreto de sódio 0,9%).",1353756,190,1200,ATIVO,UNIDADE,6156,5.13
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",1353757,191,36000,ATIVO,UNIDADE,78120,2.17
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",1353758,192,45000,ATIVO,UNIDADE,113400,2.52
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",1353759,193,9000,ATIVO,UNIDADE,27360,3.04
+"SORO GLICOFISIOLOGICO 250ml",1353760,194,1200,ATIVO,UNIDADE,3504,2.92
+"SORO GLICOFISIOLOGICO 500ml",1353761,195,1000,ATIVO,UNIDADE,3750,3.75
+"Soro Glicosado 250ml (solução de glicose a 5%).",1353762,196,1000,ATIVO,UNIDADE,2950,2.95
+"Soro Glicosado 500ml (solução de glicose a 5%).",1353763,197,700,ATIVO,UNIDADE,2611,3.73
+"Soro ringer lactato  500 ml",1353764,198,120,ATIVO,UNIDADE,416.4,3.47

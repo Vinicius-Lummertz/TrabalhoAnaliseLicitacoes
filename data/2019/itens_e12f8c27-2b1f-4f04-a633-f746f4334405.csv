@@ -1,0 +1,75 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno Penrose Esterilizado Nº 2",1265314,70,300,ATIVO,UNIDADE,501,1.67
+"Lâmina de Preventivo (Ponta Fosca).",1265316,116,300,ATIVO,CXA,1146,3.82
+"Lençol descartável com elástico (TNT)",1265317,119,600,ATIVO,PACOTE,4836,8.06
+"Máscara de oxigênio não reinalação Infantil.",1265318,141,30,ATIVO,UNIDADE,194.7,6.49
+"Óculos para proteção profissional",1265319,142,120,ATIVO,UNIDADE,234,1.95
+"Protetor ocular adulto",1265320,151,150,ATIVO,UNIDADE,1138.5,7.59
+"Punch Dermatológico estéril descartável Tamanho 2mm",1265321,152,3,ATIVO,CAIXA,183.21,61.07
+"Punch Dermatológico estéril descartável Tamanho 3mm",1265322,153,3,ATIVO,CAIXA,183.21,61.07
+"Punch Dermatológico estéril descartável Tamanho 4mm",1265323,154,3,ATIVO,CAIXA,183.21,61.07
+"Punch Dermatológico estéril descartável Tamanho 6mm",1265325,156,3,ATIVO,CAIXA,183.21,61.07
+"Sonda aspiração traqueal nº 12 em PVC, descartável",1265326,168,15000,ATIVO,UNIDADE,6900,0.46
+"Lâmina de Bisturi descartável Nº. 22.",1265327,115,10,ATIVO,CXA,285.9,28.59
+"Sonda de borracha tipo foley, 2 vias, calibre nº 12",1265328,172,10,ATIVO,CAIXA,231.4,23.14
+"Sonda de borracha tipo foley, 2 vias, calibre nº 16",1265329,174,20,ATIVO,CAIXA,462.8,23.14
+"Sonda de borracha tipo foley, 2 vias, calibre nº 18",1265330,175,20,ATIVO,CAIXA,462.8,23.14
+"Sonda de borracha tipo foley, 2 vias, calibre nº20",1265331,176,12,ATIVO,CAIXA,277.68,23.14
+"Sonda de borracha tipo foley, 2 vias, calibre nº22",1265332,177,5,ATIVO,CAIXA,115.7,23.14
+"Sonda de borracha tipo foley, 2 vias, calibre nº24.",1265333,178,5,ATIVO,CAIXA,115.7,23.14
+"Sonda endotraqueal em PVC sem balão nº 2,5",1265334,179,70,ATIVO,UNIDADE,205.8,2.94
+"Sonda endotraqueal em PVC com balão nº 3,0",1265335,180,60,ATIVO,UNIDADE,227.4,3.79
+"Sonda endotraqueal em PVC com balão nº 3,5",1265336,181,60,ATIVO,UNIDADE,227.4,3.79
+"Sonda endotraqueal em PVC com balão nº 4,0",1265337,182,60,ATIVO,UNIDADE,227.4,3.79
+"Sonda endotraqueal em PVC com balão nº4,5",1265338,183,60,ATIVO,UNIDADE,227.4,3.79
+"Sonda endotraqueal em PVC com balão nº5,0",1265339,184,80,ATIVO,UNIDADE,303.2,3.79
+"Sonda de borracha tipo foley, 2 vias, calibre nº 14",1265340,173,10,ATIVO,CAIXA,231.4,23.14
+"Sonda endotraqueal em PVC com balão nº5,5",1265341,185,80,ATIVO,UNIDADE,303.2,3.79
+"Lâmina de Bisturi descartável Nº. 20.",1265342,114,15,ATIVO,CAIXA,427.5,28.5
+"Lâmina de Bisturi descartável Nº. 12",1265343,112,50,ATIVO,CXA,1429.5,28.59
+"Água destilada galão de 5 litros para uso em autoclave",1265344,2,500,ATIVO,GALÃO,2600,5.2
+"Almotolia de uso médico-hospitalar Ambar",1265345,14,200,ATIVO,UNIDADE,446,2.23
+"Almotolia de uso médico-hospitalar Transparente",1265346,15,500,ATIVO,UNIDADE,1075,2.15
+"Anuscópio fechado",1265347,16,50,ATIVO,UNIDADE,70,1.4
+"Anuscópio fenestrado",1265348,17,50,ATIVO,UNIDADE,73.5,1.47
+"Ataduras de Crepom 12cm",1265349,21,35000,ATIVO,UNIDADE,23100,0.66
+"Ataduras de Crepom 15cm",1265350,22,30000,ATIVO,UNIDADE,24900,0.83
+"Ataduras de Crepom 20cm",1265351,23,20000,ATIVO,UNIDADE,22200,1.11
+"Caixa porta laminas.",1265352,30,150,ATIVO,UNIDADE,712.5,4.75
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",1265353,60,1000,ATIVO,CAIXA,10400,10.4
+"Dreno Penrose Esterilizado Nº 1",1265354,69,200,ATIVO,UNIDADE,246,1.23
+"Lâmina de Bisturi descartável Nº. 15.",1265355,113,20,ATIVO,CXA,570,28.5
+"Eletrodo para TENS/FES",1265356,73,500,ATIVO,UNIDADE,2540,5.08
+"Equipo tipo Microgotas para solução parental",1265357,80,1000,ATIVO,UNIDADE,1680,1.68
+"Espéculo vaginal, ESTÉRIL, tipo MINI descartável",1265358,86,200,ATIVO,UNIDADE,280,1.4
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  2-0",1265359,93,100,ATIVO,CAIXA,2877,28.77
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  3-0",1265360,94,150,ATIVO,CAIXA,4315.5,28.77
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  4-0",1265361,95,150,ATIVO,CAIXA,4315.5,28.77
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",1265362,99,6000,ATIVO,UNIDADE,9240,1.54
+"Garrote tubo látex no. 202.",1265363,103,12,ATIVO,PACOTE,525.6,43.8
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",1265364,104,1000,ATIVO,UNIDADE,1040,1.04
+"Haste flexível de algodão.",1265365,107,800,ATIVO,CXA,752,0.94
+"Kit citologia - 01 escova endocervical + 01 espátula de aire",1265366,109,15000,ATIVO,UNIDADE,5850,0.39
+"Lâmina de Bisturi descartável Nº. 11.",1265367,111,70,ATIVO,CXA,1946,27.8
+"Envelopes auto selantes 150mmx250mm",1265368,74,200,ATIVO,CAIXA,5232,26.16
+"Sonda endotraqueal em PVC com balão nº6,0",1265369,186,80,ATIVO,UNIDADE,303.2,3.79
+"Punch Dermatológico estéril descartável Tamanho 5mm",1265370,155,3,ATIVO,CAIXA,183.21,61.07
+"Sonda endotraqueal em PVC com balão nº7,0",1265371,188,100,ATIVO,UNIDADE,379,3.79
+"Sonda endotraqueal em PVC com balão nº6,5",1265386,187,100,ATIVO,UNIDADE,379,3.79
+"Sonda endotraqueal em PVC com balão nº7,5",1265401,189,100,ATIVO,UNIDADE,379,3.79
+"Sonda endotraqueal em PVC com balão nº8,0",1265402,190,100,ATIVO,UNIDADE,379,3.79
+"Sonda endotraqueal em PVC com balão nº8,5",1265403,191,30,ATIVO,UNIDADE,113.7,3.79
+"Sonda endotraqueal em PVC com balão nº9,0",1265404,192,5,ATIVO,UNIDADE,18.95,3.79
+"Sonda nasal para alimentação enteral nº 10",1265405,197,50,ATIVO,UNIDADE,435,8.7
+"Sonda nasal para alimentação enteral nº 12",1265406,198,300,ATIVO,UNIDADE,2652,8.84
+"Cabo para bisturi nº3",1265407,223,30,ATIVO,UNIDADE,235.5,7.85
+"Pinça Kelly reta 14cm",1265408,229,30,ATIVO,UNIDADE,630,21
+"PINCA KELLY CURVA 14CM",1265409,230,30,ATIVO,UNIDADE,630,21
+"Pinça anatômica dissecção com serrilha 14 cm",1265410,235,70,ATIVO,UNIDADE,637,9.1
+"Pinça anatômica dente de rato 12 cm.",1265411,236,70,ATIVO,UNIDADE,679,9.7
+"Sonda nasal para alimentação enteral nº 08",1265412,196,20,ATIVO,UNIDADE,174,8.7
+"Porta agulha mayo 14 cm",1265413,242,40,ATIVO,UNIDADE,780,19.5
+"Pinça Halstead mosquito reta 12,5cm c/ serrilha",1265415,237,30,ATIVO,UNIDADE,558,18.6
+"Especulo vaginal, descartável, estéril, sem lubrificação G",1328333,84,1000,ATIVO,UNIDADE,840,0.84
+"Especulo vaginal, descartável, estéril, sem lubrificação M",1328334,83,8000,ATIVO,UNIDADE,6320,0.79
+"Equipo tipo Macrogotas para solução parental",1328335,79,25000,ATIVO,UNIDADE,41500,1.66

@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bombona Água Mineral, 20 Litros",3037904,1,22250,ATIVO,UNIDADE,363120,16.32
+"Água Mineral sem gás, 500 Ml em garrafa fardo com 12 uni",3037905,2,2700,ATIVO,FARDO,53777.79,19.9177
+"Água Mineral, com gás, 500 Ml em garrafa fardo com 12 uni",3037906,3,2100,ATIVO,FARDO,44912.28,21.3868
+"Agua Mineral, copo 200Ml, cx com 48 unidades",3037907,4,1780,ATIVO,CAIXA,68790.24,38.6462

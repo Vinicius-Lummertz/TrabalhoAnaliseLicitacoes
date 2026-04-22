@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental de PVC",4475559,2,400,ATIVO,UNIDADE,4040,10.1
+"BOTA CANO LONGO",4475560,3,300,ATIVO,PAR,28470,94.9
+"Calçado ocupacional de uso profissional tipo tênis",4475561,4,400,ATIVO,UNIDADE,30000,75
+"Porta crachá retrátil com a impressão de 24mm",4475562,6,3000,ATIVO,UNIDADE,8100,2.7
+"Creme protetor solar com repelente",4475563,7,350,ATIVO,UNIDADE,8046.5,22.99

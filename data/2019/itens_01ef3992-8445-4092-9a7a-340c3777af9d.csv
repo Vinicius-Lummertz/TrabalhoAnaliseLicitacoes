@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Radiografia carpal",1265195,10,20,ATIVO,UNIDADE,980,49
+"Tomografia Computadorizada Cone Bean ATM Bilateral",1265196,8,25,ATIVO,UNIDADE,5875,235
+"Tomografia Computadorizada Cone Bean Total Duas Arcadas",1265197,6,20,ATIVO,UNIDADE,5400,270
+"Tomografia Computadorizada Cone Bean mais de 2 elementos den",1265198,4,10,ATIVO,UNIDADE,1550,155
+"Tomografia Computadorizada Cone Bean mais de 02 elementos de",1265199,3,15,ATIVO,UNIDADE,1950,130

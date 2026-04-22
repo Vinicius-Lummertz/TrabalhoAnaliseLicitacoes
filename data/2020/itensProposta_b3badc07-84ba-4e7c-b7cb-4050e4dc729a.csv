@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de implantação e treinamento do sistema de Gestão da",0,1,VENCEU," ",30000,30000
+"Manutenção preventiva e corretiva mensal do Sistema de Gestã",0,12,VENCEU," ",30000,2500
+"Customização (manutenção evolutiva específica, sob demanda d",0,240,VENCEU," ",38400,160
+"Licença de locação por usuário habilitado (coletor) - 50 usu",0,12,VENCEU," ",114000,9500
+"SMS para envio de confirmação de entrega - 20.00 sms",0,12,VENCEU," ",31200,2600

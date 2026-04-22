@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Focinheira nº 0",1268786,2,5,ATIVO,UNIDADE,39.5,7.9
+"Focinheira nº 1",1268787,3,5,ATIVO,UNIDADE,39.5,7.9
+"Focinheira nº 2",1268788,4,5,ATIVO,UNIDADE,39.5,7.9
+"Focinheira nº 3",1268789,5,5,ATIVO,UNIDADE,39.5,7.9
+"Focinheira nº 5",1268790,7,5,ATIVO,UNIDADE,49.5,9.9
+"Vacina antirrábica para cães e gatos",1268791,11,300,ATIVO,UNIDADE,3660,12.2
+"Sedativo injetável - Acepromazina 0,2%",1268792,12,6,ATIVO,FRASCO,252,42
+"Anestésico injetável - Xilazina 2%",1268793,14,12,ATIVO,FRASCO,330,27.5
+"Focinheira nº 4",1268799,6,5,ATIVO,UNIDADE,49.5,9.9

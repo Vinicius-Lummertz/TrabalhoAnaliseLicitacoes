@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOLA DE FUTSAL",7663261,150,NAO_COTOU,UND,0,0
+"Rede de Futsal",7663262,10,NAO_COTOU,UND,0,0
+"Kit Colete em Dry Fit",7663263,20,NAO_COTOU,KIT,0,0
+"Luva para Goleiro",7663264,10,NAO_COTOU,PAR,0,0
+"Cone para treinamento 50 cm",7663265,100,NAO_COTOU,UND,0,0
+"Tênis para futsal oficial",7663266,100,NAO_COTOU,PAR,0,0
+CRONÔMETRO,7663267,10,NAO_COTOU,UNI,0,0
+"BOLA DE VOLEI",7663268,150,PERDEU,UND,44550,297
+"Rede Oficial de Voleibol Indoor",7663270,5,NAO_COTOU,UND,0,0
+"Tabuleiro de Xadrez Oficial",7663271,21,NAO_COTOU,UN,0,0
+"Tabuleiro de Damas Oficial",7663272,21,NAO_COTOU,UNI,0,0
+"Jogo de Quebra-Cabeças  (até 500 peças)",7663273,21,NAO_COTOU,UND,0,0
+"Roupas para apresentações - Gaúchas",7663274,20,NAO_COTOU,UND,0,0
+"Roupas para apresentações - Street Style",7663275,20,NAO_COTOU,CJT,0,0
+"Kit Lanche",7663276,9600,NAO_COTOU,KIT,0,0

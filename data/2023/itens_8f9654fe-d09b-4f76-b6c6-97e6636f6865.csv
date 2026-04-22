@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cefalexina 500mg, capsula ou comprimido, em blister.",4525711,63,450000,ATIVO,"capsula ou comprimid",216000,0.48
+"Doxiciclina 100mg cpr, em blister.",4525712,108,1000,ATIVO,COMPRIMIDO,400,0.4
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",4525713,124,1500,ATIVO,AMP,2370,1.58
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",4525714,129,500,ATIVO,AMP,2925,5.85
+"GLICONATO DE CÁLCIO 10% 10 ML",4525715,139,600,ATIVO,AMP,1194,1.99
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",4525716,142,3000,ATIVO,AMP,5100,1.7
+"Haloperidol, decanoato 70,52mg/mL 1ml",4525717,143,10000,ATIVO,AMP,38000,3.8
+"Haloperidol, 2mg/ml solução oral 20ml, frasco.",4525718,144,600,ATIVO,FRASCO,1890,3.15
+"Hidrocortisona 100mg pó para suspensão injetável.",4525719,147,2000,ATIVO,"Frasco ampola",6000,3
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",4525720,161,500000,ATIVO,COMPRIMIDO,495000,0.99
+"Levodopa 100mg + benserazida 25mg HBS comprimido liberação p",4525721,163,70000,ATIVO,COMPRIMIDO,119000,1.7
+"Levodopa 200mg + benserazida 50mg comprimido.",4525722,164,70000,ATIVO,COMPRIMIDO,114800,1.64
+"Levotiroxina sódica 25mcg cpr, em blister.",4525723,172,700000,ATIVO,COMPRIMIDO,105000,0.15
+"Levotiroxina sódica 50 mcg cpr, em blister.",4525724,173,700000,ATIVO,COMPRIMIDO,98000,0.14
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",4525725,196,2000,ATIVO,AMP,3400,1.7
+"Pirimetamina 25mg cpr.",4525726,220,2000,ATIVO,COMPRIMIDO,178,0.089
+"Sinvastatina 20mg cpr, em blister.",4525727,234,2000000,ATIVO,COMPRIMIDO,130000,0.065
+"Sulfadiazina de prata 1% pomada, pote com 400g.",4525728,238,600,ATIVO,POTE,20400,34
+"sulfadiazina de prata 1% pomada, bisnaga",4525729,239,6000,ATIVO,BISNAGA,33900,5.65
+"Tenoxicam 20 mg pó, para suspensão injetável endovenoso ou i",4525730,245,1000,ATIVO,"Frasco ampola",6800,6.8
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",4525731,246,1000,ATIVO,AMP,1200,1.2
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",4525732,249,2000,ATIVO,FRASCO,5400,2.7
+"Varfarina sódica 5 mg cpr, em blister.",4525733,254,120000,ATIVO,COMPRIMIDO,20400,0.17

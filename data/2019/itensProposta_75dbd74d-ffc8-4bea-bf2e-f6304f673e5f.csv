@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Câmara de ar 1000x20 com valvula de metal",0,12,VENCEU," ",1026,85.5
+"Câmara de ar 1100x22 com valvula de metal",0,8,VENCEU," ",1512,189
+"Câmara de ar 12.5/80x18",0,4,VENCEU," ",736,184
+"Pneu Novo 1000x20 radial misto borrachudo 16 lonas",0,30,VENCEU," ",51540,1718
+"Pneu Novo 1000x20,radial,misto,liso,16 lonas",0,8,VENCEU," ",13744,1718
+"Pneu Novo 12x16.5",0,4,VENCEU," ",4352,1088
+"Pneu Novo 1100x22,  radial liso, 16 Lonas",0,4,VENCEU," ",7188,1797
+"Pneu Novo 12.5/80-18 dianteiro 12 lonas",0,6,VENCEU," ",9402,1567
+"Pneu novo 1300x24 12 lonas",0,4,VENCEU," ",11020,2755
+"Pneu Novo 165/70 R13",0,16,VENCEU," ",3280,205
+"Pneu Novo 175/70 R14",0,16,VENCEU," ",5056,316
+"Pneu Novo 185 R14 8 lonas",0,4,VENCEU," ",1732,433
+"Pneu Novo 185/70 R14",0,7,VENCEU," ",2359,337
+"Pneu Novo 19.5x24 12 lonas traseiro",0,2,VENCEU," ",9310,4655
+"Pneu Novo 195/60 R15",0,2,VENCEU," ",794,397
+"Pneu Novo 205/65/15",0,2,VENCEU," ",670,335
+"Pneu Novo 205/70/15",0,2,VENCEU," ",1102,551
+"Pneu Novo 235/70 R16",0,4,VENCEU," ",2720,680
+"Pneu Novo 235/75 R15",0,2,VENCEU," ",1292,646
+"Pneu Novo 900x20 radial,Liso 14 Lonas",0,20,VENCEU," ",28440,1422
+"Pneu Novo 1400x24 borrachudo 16 lonas",0,4,VENCEU," ",15360,3840

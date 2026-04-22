@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sedativo Acepromazina 2mg/ml(0,2%). Uso injetável (Via Intramuscular e Endovenosa).",20734933,23,INABILITADO,FR,526.7,22.9
+"Anestésico Dissociativo Cetamina 100mg/ml(10%).",20734935,25,PERDEU,FR,3705,148.2
+"Anti-Inflamatório Esteroidal Dexametasona 2mg/ml.",20734936,10,PERDEU,FR,224.9,22.49
+"Estimulante Cardiorespiratório Doxapram 20mg/ml (2%). Uso Injetável",20734937,5,VENCEU,FR,2299.5,459.9
+"Antagonista Ioimbina 10mg/ml (1%). Uso Injetável",20734938,5,PERDEU,UND,1117.85,223.57
+"Sedativo Xilazina 20mg/ml (2%).",20734944,25,PERDEU,FR,2442.5,97.7
+"Vacina antirrábica para cães e gatos.",20734947,1000,PERDEU,FR,16690,16.69
+"Vacina múltipla para cães (V10);",20734948,1000,PERDEU,FR,47170,47.17
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",20734954,400,PERDEU,COMP,5236,13.09
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",20734955,200,PERDEU,COMP,3030,15.15
+"Ectoparasiticida sarolaner 40 mg para cães de 10 a 20 kg;",20734956,250,PERDEU,COMP,43885,175.54
+"Ectoparasiticida sarolaner 80 mg para cães de 20 a 40 kg;",20734957,250,PERDEU,COMP,46815,187.26
+"Pomada dermatológica anti-infecciosa e cicatrizante;",20734958,50,PERDEU,BIS,5564,111.28
+"Pomada antisséptica; composição: 0,7 g digluconato de clorexidina para cada 100 g; uso veterinário.",20734959,25,PERDEU,BIS,2367.75,94.71
+"Endoparasiticida metronidazol + sulfadimetoxina; uso oral;",20734964,20,INABILITADO,FR,1898,94.9
+"Endectoparasiticida ivermectina 6 mg; uso veterinário. Apresentar registro no Ministério da Agricultura. Conter na embalagem a data de fabricação, data de validade e lote. Apresentar data de validade mínima de 12 meses. Apresentação: comprimidos.",20734969,200,PERDEU,COMP,1542,7.71
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",20734972,200,PERDEU,KIT,9156,45.78
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",20734973,200,PERDEU,KIT,7476,37.38
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",20734974,200,PERDEU,KIT,14900,74.5
+"Coleiras repelentes, tamanho G;",20734994,100,PERDEU,UN,12952,129.52

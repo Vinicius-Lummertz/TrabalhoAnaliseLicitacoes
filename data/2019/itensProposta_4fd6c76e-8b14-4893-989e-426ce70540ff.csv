@@ -1,0 +1,66 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bobina de Papel Toalha",4385531,80,PERDEU,CX,9520,119
+"Papel higiênico",4385533,6,PERDEU,FRD,630,105
+"Papel Higiênico Rolão",4385534,60,DESCLASSIFICADO,FRD,4488,74.8
+"VASSOURA PALHA",4385543,20,PERDEU,UND,450,22.5
+"Copo descartavel 180 ml",4385544,15,DESCLASSIFICADO,CX,1339.5,89.3
+"Apagador para Quadro Branco.",4385547,2,PERDEU,UND,11.1,5.55
+Atilho,4385548,10,VENCEU,CX,37,3.7
+"Bloco de recados grande",4385549,10,VENCEU,EMB,40,4
+"Blocos de recados pequeno",4385550,10,PERDEU,EMB,42.7,4.27
+"Bobina Termica",4385551,40,PERDEU,UND,270,6.75
+"Caixa arquivo morto desmontável",4385552,100,VENCEU,UND,430,4.3
+"Caneta permanente",4385553,10,PERDEU,UND,37,3.7
+"Caneta corretivo",4385554,10,PERDEU,UND,52.9,5.29
+"Caneta esferográfica azul;",4385555,100,PERDEU,UND,93,0.93
+"Caneta esferografica vermelha.",4385556,50,PERDEU,UND,48,0.96
+"Caneta esferografica preta.",4385557,100,PERDEU,UND,96,0.96
+"CANETA MARCA-TEXTO.",4385558,50,VENCEU,UND,48,0.96
+"Clipes para papel n.º 1",4385559,10,VENCEU,CX,105,10.5
+"Clipes para papéis n.º 3",4385560,10,PERDEU,CX,107,10.7
+"Clipes para papéis n.º 8/0",4385561,10,PERDEU,CX,108,10.8
+"Cola Bastão",4385562,10,VENCEU,UND,69.5,6.95
+COLA,4385563,10,PERDEU,UND,45.5,4.55
+"Envelope Saco na cor parda 162 x 229",4385564,10,PERDEU,CX,377,37.7
+"Envelope pardo 240 x 340",4385565,20,VENCEU,CX,1040,52
+"Envelopes de Polietileno",4385566,15,VENCEU,CX,1620,108
+"Etiqueta adesiva",4385567,3,VENCEU,CX,165,55
+"Fita adesiva 45 MM",4385568,15,PERDEU,UND,44.4,2.96
+"Folha A4",4385571,300,VENCEU,RES,5970,19.9
+"Grampeador de mesa pequeno",4385584,5,PERDEU,UND,75.9,15.18
+"Grampos para grampeador 26/6",4385585,10,PERDEU,CX,39.5,3.95
+"Marcador para quadro branco.",4385586,20,VENCEU,UND,201,10.05
+"PASTA SUSPENSA",4385587,5,VENCEU,CX,250,50
+"PERFURADOR DE PAPEL",4385588,2,VENCEU,UND,49,24.5
+"Pilhas AA",4385589,60,VENCEU,EMB,618,10.3
+"Pilhas alcalinas C",4385590,30,PERDEU,EMB,444,14.8
+"Pilhas alcalinas AAA",4385591,60,PERDEU,EMB,474,7.9
+"Plástico autoadesivo transparente",4385592,3,PERDEU,RL,267,89
+"Prancheta para anotações",4385593,10,VENCEU,UND,141,14.1
+"TESOURA GRANDE",4385594,4,VENCEU,UND,39.2,9.8
+"Tesoura média",4385595,4,PERDEU,UND,27.92,6.98
+"Tinta Carimbo Preta",4385596,10,VENCEU,UND,67,6.7
+"Tinta Carimbo Vermelha",4385597,15,VENCEU,UND,100.5,6.7
+"Escaninho para correspondência",4385598,4,VENCEU,UND,224,56
+"Toner Preto HP color laserjet pro mfp m177fw original",4385599,20,PERDEU,UND,8298,414.9
+"Toner Ciano HP color laserjet pro mfp m177fw original",4385600,15,PERDEU,UND,6448.5,429.9
+"Toner Magenta HP color laserjet pro mfp m177fw original",4385601,15,PERDEU,UND,6435,429
+"Toner Amarelo HP color laserjet pro mfp m177fw original",4385602,15,PERDEU,UND,6435,429
+"Toner Preto HP color laserjet pro mfp m180fw original",4385603,20,PERDEU,UND,7800,390
+"Toner Ciano HP color laserjet pro mfp m180fw original",4385604,15,PERDEU,UND,4935,329
+"Toner Magenta HP color laserjet pro mfp m180fw original",4385605,15,PERDEU,UND,5235,349
+"Toner Amarelo HP color laserjet pro mfp m180fw original",4385606,15,PERDEU,UND,5235,349
+"Toner HP laserjet pro mfp m 521 dn original",4385607,15,PERDEU,UND,12120,808
+"Toner HP laserjet m1132 e m1212 MFP original",4385608,15,PERDEU,UND,4620,308
+"Toner RICOH Aficio MP171 e MP201 original",4385609,20,PERDEU,UND,1160,58
+"Toner Preto HP color laserjet pro mfp m177fw compatível",4385610,30,VENCEU,UND,1383,46.1
+"Toner Ciano HP color laserjet pro mfp m177fw compatível",4385611,30,VENCEU,UND,1383,46.1
+"Toner Magenta HP color laserjet pro mfp m177fw compatível",4385612,30,VENCEU,UND,1383,46.1
+"Toner Amarelo HP color laserjet pro mfp m177fw compatível",4385613,30,VENCEU,UND,1383,46.1
+"Toner Preto HP color laserjet pro mfp m180fw compatível",4385614,30,VENCEU,UND,5340,178
+"Toner Ciano HP color laserjet pro mfp m180fw compatível",4385615,30,VENCEU,UND,5340,178
+"Toner Magenta HP color laserjet pro mfp m180fw compatível",4385616,30,VENCEU,UND,5340,178
+"Toner Amarelo HP color laserjet pro mfp m180fw compatível",4385617,30,VENCEU,UND,5340,178
+"Toner HP laserjet pro mfp m 521 dn compatível",4385618,30,VENCEU,UND,2220,74
+"Toner HP laserjet m1132 e m1212 MFP compatível",4385619,30,VENCEU,UND,930,31
+"Toner RICOH Aficio MP171 e MP201 compatível",4385620,30,DESCLASSIFICADO,UND,2040,68

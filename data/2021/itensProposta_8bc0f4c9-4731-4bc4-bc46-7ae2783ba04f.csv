@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulhas hipodérmicas 13mmX4,5mm",4448056,350,DESCLASSIFICADO,CX,3990,11.4
+"Agulhas hipodérmicas 20mmX5,5mm",4448057,200,DESCLASSIFICADO,CX,3400,17
+"Agulhas hipodérmicas 25 X 7",4448059,2000,DESCLASSIFICADO,CX,22800,11.4
+"Agulhas hipodérmicas 25 X 8",4448060,200,DESCLASSIFICADO,CX,2280,11.4
+"Agulhas hipodérmicas 30 X 8",4448061,200,DESCLASSIFICADO,CX,2280,11.4
+"Agulhas hipodérmicas 40 X 12",4448062,2500,DESCLASSIFICADO,CX,34750,13.9
+"Cateter Intravenoso n°18 G",4448093,6000,DESCLASSIFICADO,UN,12600,2.1
+"Cateter Intravenoso n°20 G",4448094,6000,DESCLASSIFICADO,UN,12600,2.1
+"Cateter Intravenoso n°22 G",4448095,5000,DESCLASSIFICADO,UN,10500,2.1
+"Cateter Intravenoso n°24 G",4448096,3000,DESCLASSIFICADO,UN,6600,2.2
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4448101,6000,PERDEU,UNI,42000,7
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4448102,5000,PERDEU,UNI,24500,4.9
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",4448114,6000,VENCEU,UNI,1440,0.24
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp)",4448115,8000,VENCEU,UN,1920,0.24
+"Dispositivo para infusão endovenosa, n°23 (apelido scalp).",4448116,8000,PERDEU,UN,1920,0.24
+"Dispositivo para infusão endovenosa, n°25 (apelido scalp).",4448117,4000,VENCEU,UN,960,0.24
+"Dispositivo para infusão endovenosa, n°27 (apelido scalp).",4448118,2000,PERDEU,UN,560,0.28
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",4448129,7200,PERDEU,UN,57312,7.96
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",4448130,7200,DESCLASSIFICADO,UN,34560,4.8
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4448146,8000,DESCLASSIFICADO,UNI,18720,2.34
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",4448147,14000,PERDEU,UNI,50400,3.6
+"Luva Cirúrgica estéril Nº. 6,5",4448174,2500,VENCEU,PAR,3047.5,1.219
+"Luva Cirúrgica estéril no.7,0",4448175,3000,VENCEU,PAR,3657,1.219
+"Luva Cirúrgica estéril Nº. 7,5",4448176,3000,VENCEU,PAR,3837,1.279
+"Luva Cirúrgica estéril Nº. 8,0",4448177,1000,VENCEU,PAR,1290,1.29
+"Luva Cirúrgica estéril Nº. 8,5",4448178,500,VENCEU,PAR,645,1.29
+"Seringa 3ml, sem agulha",4448195,25000,PERDEU,UN,4500,0.18
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4448242,36000,DESCLASSIFICADO,UNI,92160,2.56
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4448243,45000,DESCLASSIFICADO,UNI,130500,2.9
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",4448244,9000,DESCLASSIFICADO,UN,33300,3.7

@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rede de Poteção em polipropileno",7329480,1,30000,ATIVO,"METRO QUADRADO",129000,4.3
+"Rede de Proteção em Polietileno, malha 5x5.",7329481,2,20000,ATIVO,"METRO QUADRADO",173000,8.65
+"Rede de Proteção em Polipropileno, fio 3, malha 10x10.",7329482,3,10000,ATIVO,"METRO QUADRADO",80000,8
+"Reforma de Redes, com devidos materiais necessários, conforme Termo de Referência.",7329483,4,10000,ATIVO,"METRO QUADRADO",40000,4
+"Rede Para Aro de Basquete.",7329484,5,140,ATIVO,PAR,3892,27.8
+"Rede Oficial de Voleibol de Quadra.",7329485,6,120,ATIVO,PAR,23940,199.5
+"Rede Oficial Para Traves de Futsal",7329486,7,120,ATIVO,PAR,12996,108.3
+"Rede de Beach Tennis.",7329487,8,20,ATIVO,UNIDADE,7162,358.1

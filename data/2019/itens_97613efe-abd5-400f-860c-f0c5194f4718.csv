@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomografia Computadorizada Cone Bean ATM Unilateral",1265191,7,25,ATIVO,UNIDADE,3250,130
+"Tomografia Computadorizada Cone Bean de Mandíbula ou Maxila",1265192,5,50,ATIVO,UNIDADE,7500,150
+"Tomografia Computadorizada Cone Bean (02 elementos dentais d",1265193,2,20,ATIVO,UNIDADE,2500,125
+"Teleradiografia de perfil com traçado",1265194,9,60,ATIVO,UNIDADE,2940,49
+"Tomografia Computadorizada Cone Bean de 1 (um) elemento dent",1265200,1,20,ATIVO,UNIDADE,2500,125

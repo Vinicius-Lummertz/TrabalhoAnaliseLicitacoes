@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lixeira de polietileno 100l, cor verde",2566447,1,250,ATIVO,UNIDADE,58750,235
+"Lixeira de polietileno 100l, cor amarela",2566448,2,250,ATIVO,UNIDADE,58750,235
+"Suporte para duas lixeiras",2566449,3,200,ATIVO,UNIDADE,42000,210
+"Suporte para uma lixeira",2566450,4,100,ATIVO,UNIDADE,16000,160

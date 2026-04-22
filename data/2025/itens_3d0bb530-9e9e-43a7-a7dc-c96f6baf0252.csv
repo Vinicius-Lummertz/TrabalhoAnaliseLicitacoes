@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto estrutural, dimensões 14 x 19 x 39 cm, Fck",7093090,2,15000,ATIVO,UNIDADE,58500,3.9
+"Piso Podotátil De Concreto - direcional e alerta dimensões: 25 X 25 X 2,5 cm",7093091,6,500,ATIVO,"METRO QUADRADO",53050,106.1
+"Piso Podotátil De Concreto 40 x 40 x 2,5cm",7093092,7,1000,ATIVO,UNIDADE,7400,7.4

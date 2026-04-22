@@ -1,0 +1,60 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 6,0mm2",0,3190,VENCEU," ",13717,4.3
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 10,0mm2",0,4900,VENCEU," ",30380,6.2
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 16,0mm2",0,17500,VENCEU," ",148750,8.5
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 25,0mm2",0,17700,VENCEU," ",223197,12.61
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 70,0mm2",0,3240,VENCEU," ",130701.6,40.34
+"Cabo de cobre tipo PP 3 x #2,5mm² 0,6/1,0kV",0,3400,VENCEU," ",11492,3.38
+"Cabo de cobre nú, tipo bimetálico aço/cobre 16mm² p/ aterram",0,450,VENCEU," ",3577.5,7.95
+"Disj. Unipolar Termomagnético 32A IEC/DIN",0,6,VENCEU," ",42.12,7.02
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,7,VENCEU," ",64.82,9.26
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,5,VENCEU," ",46.3,9.26
+"Disj. Unipolar Termomagnético 80A IEC/DIN",0,11,VENCEU," ",615.34,55.94
+"Disj. Tripolar Termomagnético 40A IEC/DIN",0,6,VENCEU," ",204.96,34.16
+"Disj. Tripolar Termomagnético 80A IEC/DIN",0,2,VENCEU," ",274.5,137.25
+"Disj. Tripolar Termomagnético em caixa moldada 150A (40kA)",0,2,VENCEU," ",513.68,256.84
+"Disj. Tripolar Termomagnético em caixa moldada 200A (40kA)",0,1,VENCEU," ",286.05,286.05
+"Dispositivo de Proteção contra Surto (275V - 40kA)",0,4,VENCEU," ",459.4,114.85
+"Quadro de distribuição em chapa de aço  AxLxP (100x70x20)cm",0,2,VENCEU," ",1303.14,651.57
+"Quadro de distribuição em chapa de aço (40x40x12)cm",0,4,VENCEU," ",661.44,165.36
+"Eletroduto Corrugado 3/4",0,3600,VENCEU," ",4644,1.29
+"Eletroduto  Corrugado 2",0,7800,VENCEU," ",23556,3.02
+"Eletroduto Corrugado 3",0,800,VENCEU," ",3552,4.44
+"Caixa de passagem em concreto (50x50)cm c/ tampa",0,14,VENCEU," ",924.42,66.03
+"Caixa de passagem em concreto com tampa - 30X30cm",0,287,VENCEU," ",7086.03,24.69
+"Grampo estanhado para aterramento 5/8 x 3/4",0,300,VENCEU," ",624,2.08
+"Haste de aterramento tipo Copperweld 1,2m",0,300,VENCEU," ",4602,15.34
+"Terminal a compressão para cabo de cobre nú 16mm²",0,300,VENCEU," ",366,1.22
+"Luminária Pública (Tipo II/média) - ?90W ?150lm/W - 13500lm",0,143,VENCEU," ",177718.97,1242.79
+"Luminária Pública (Tipo II/média) - ?135W ?150lm/W - 20250lm",0,348,VENCEU," ",540541.44,1553.28
+"Luminária Pública (Tipo II/média) - ?54W ?150lm/W - 8100lm",0,15,VENCEU," ",12052.95,803.53
+"Projetor de LED (abertura 60°) - ?180W ?120lm/W - 21600lm",0,56,VENCEU," ",57623.44,1028.99
+"Projetor de LED (abertura 60°) - ?240W ?120lm/W - 28800lm",0,36,VENCEU," ",48673.08,1352.03
+"Luminária para monumento  LED RGB- ?150W Feixe Médio",0,5,VENCEU," ",6022.8,1204.56
+"Poste Concreto Circular 12m - 300daN",0,20,VENCEU," ",29070,1453.5
+"Cruzeta de Aço tubular - 2400mm - 400daN",0,20,VENCEU," ",4788.6,239.43
+"Cinta para poste circular 110 mm",0,20,VENCEU," ",437.4,21.87
+"Cinta para poste circular 120 mm",0,20,VENCEU," ",448,22.4
+"Sela para fixação da cruzeta ao poste",0,20,VENCEU," ",204.2,10.21
+"Parafuso para fixação Cabeça Abaulada 16 x 150 mm",0,20,VENCEU," ",103.8,5.19
+"Parafuso para fixação Cabeça Abaulada 16 x 125 mm",0,20,VENCEU," ",100.2,5.01
+"Parafuso para fixação CCabeça Quadrada 16 x 45 mm",0,20,VENCEU," ",53.4,2.67
+"Mão Francesa Perfilada de 726 mm, reforçada.",0,20,VENCEU," ",560,28
+"Poste ferro galvanizado á fogo com pintura poliéster, 11m",0,87,VENCEU," ",133116.96,1530.08
+"Núcleo de ferro galvanizado á fogo para 4 luminárias braço 1",0,87,VENCEU," ",16561.32,190.36
+"Poste ferro galvanizado á fogo pintura poliéster, 9m, 2 péta",0,54,VENCEU," ",56948.94,1054.61
+"Núcleo de ferro galvanizado á fogo para 2 luminárias braço 1",0,54,VENCEU," ",6112.26,113.19
+"Poste ferro galvanizado á fogo com pintura poliéster, 9m",0,35,VENCEU," ",36911.35,1054.61
+"Núcleo de ferro galvanizado á fogo para 1 luminárias braço 1",0,35,VENCEU," ",2308.25,65.95
+"Poste ferro galvanizado á fogo com pintura poliéster, 5m",0,15,VENCEU," ",5603.1,373.54
+"Núcleo de ferro galvanizado á fogo p/ 1 luminária braço 0,5m",0,15,VENCEU," ",989.25,65.95
+"Abertura e Fechamento de Vala para cabo subterrâneo diretame",0,4000,VENCEU," ",233480,58.37
+"Retirada de Poste  - Com Guindauto",0,100,VENCEU," ",8051,80.51
+"Instalação de Caixa de Passagem... Tipo A com Tampa",0,287,VENCEU," ",3693.69,12.87
+"Instalação de Caixa de Passagem e Derivação de concreto arma",0,14,VENCEU," ",360.5,25.75
+"Lançamento de Circuitos de Baixa Tensão (1, 2, 3 ou 4 Condut",0,4600,VENCEU," ",61042,13.27
+"Aterramento simples, primeira haste",0,300,VENCEU," ",24153,80.51
+"Montagem de 4 Projetores por Cruzeta, por conjunto",0,20,VENCEU," ",6922,346.1
+"Instalação de Poste Menor que 12m - om Guindauto",0,20,VENCEU," ",4010,200.5
+"Implantação e instalação elétrica completa de poste de ilumi",0,200,VENCEU," ",66906,334.53
+"Sistema que permita identificar a localização, informe sobre",0,15,VENCEU," ",12790.8,852.72

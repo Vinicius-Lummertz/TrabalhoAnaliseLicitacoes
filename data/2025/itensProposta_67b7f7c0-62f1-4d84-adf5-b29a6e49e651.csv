@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fogão Industrial à gás de INOX, 06 bocas",21175399,17,VENCEU,UND,61200,3600
+"Forno a  gás GLP baixa pressão de Pé",21175400,21,PERDEU,UND,63000,3000
+"Forno a  gás GLP baixa pressão de Pé",21180740,6,PERDEU,UND,18000,3000

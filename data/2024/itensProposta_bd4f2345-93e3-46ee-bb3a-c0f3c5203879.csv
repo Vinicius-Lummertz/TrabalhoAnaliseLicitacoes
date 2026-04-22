@@ -1,0 +1,46 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água para autoclave, galão de 5 litros.",14877906,6000,PERDEU,GL,60000,10
+"Água para autoclave, galão de 5 litros.",14882845,2000,PERDEU,GL,20000,10
+"Agulhas hipodérmicas 25X6 mm.",14877910,1000,PERDEU,CX,7280,7.28
+"Agulhas hipodérmicas 25X7 mm.",14877911,1100,PERDEU,CX,7018,6.38
+"Agulhas hipodérmicas 25X8 mm.",14877912,300,PERDEU,CX,2046,6.82
+"Algodão Hidrófilo 100%",14877917,500,PERDEU,UNI,7390,14.78
+"Almotolia de uso médico-hospitalar Transparente",14877919,300,PERDEU,UN,873,2.91
+"Aparelho de pressão adulto obeso (Esfigmomanômetro adulto+braçadeira obeso).",14877923,150,PERDEU,UNI,14400,96
+"Cânula de Traqueostomia de silicone SEM BALONETE COM NUMERAÇÃO ENTRE 4,0 a 8,5.",14877937,100,PERDEU,UNI,1602,16.02
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp).",14877962,5000,PERDEU,UNI,1100,0.22
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp).",14877963,8000,PERDEU,UN,2000,0.25
+"Equipo tipo microgotas para solução parental - 60 mgts/ml",14877983,1000,PERDEU,UN,1670,1.67
+"Fio cirúrgico preto monofilamentar de poliamida no. 2.0. agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº.  2-0 (Mononylon).",14877996,30,PERDEU,CX,972,32.4
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0. Agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº.  4-0 (Mononylon).",14878001,250,PERDEU,CX,7812.5,31.25
+"Fixador Citológico, 100ml. Spray, frasco de 100ml.",14878008,500,PERDEU,FRA,4365,8.73
+"Gorro tipo Touca Descartável com elástico 45x45cm.",14878019,1000,PERDEU,PCT,7180,7.18
+"Kit citologia - 01 escova endocervical + 01 espátula de ayre.",14878026,30000,VENCEU,UNI,20400,0.68
+"Lâmina de Bisturi descartável no. 12.",14878031,200,PERDEU,CX,7200,36
+"Lâmina de Preventivo (Ponta Fosca).",14878035,800,PERDEU,CXA,4472,5.59
+"Lanceta com dispositivo de segurança (para uso pelos profissionais).",14878036,30000,PERDEU,UNI,6900,0.23
+"Lençol descartável com elástico (TNT).",14878040,3000,PERDEU,PCT,24360,8.12
+"Luva Cirúrgica estéril no. 6,5.",14878042,5000,PERDEU,PAR,7500,1.5
+"Luva Cirúrgica estéril no. 8,0",14878043,3000,PERDEU,PAR,4500,1.5
+"Luva Cirúrgica estéril no.7,0.",14878044,8000,PERDEU,PAR,12000,1.5
+"Luva Cirúrgica estéril no.7,5",14878045,8000,PERDEU,PAR,12000,1.5
+"Luva Cirúrgica estéril no.8,5.",14878046,500,PERDEU,PAR,750,1.5
+"Manta Térmica Aluminizada",14878056,30,PERDEU,UND,182.7,6.09
+"Máscara cirúrgica tripla descartável.",14878057,7000,PERDEU,UNI,49980,7.14
+"Máscara de oxigênio com bolsa reservatório e de não reinalação Infantil.",14878059,200,PERDEU,UNI,4000,20
+"Máscara Proteção respiratória (respirador particulado – N95/PFF2",14878061,4500,PERDEU,UNI,4815,1.07
+"Óculos para proteção profissional",14878063,500,VENCEU,UND,1730,3.46
+"Reanimador manual adulto",14878084,20,PERDEU,UND,2045.4,102.27
+"Reanimador manual pediátrico",14878086,30,PERDEU,UN,3677.1,122.57
+"Sonda de borracha (látex natural) tipo foley 2 vias, calibre nº 12.",14878106,200,PERDEU,UNI,450,2.25
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº 16.",14878108,300,PERDEU,UND,990,3.3
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº 18.",14878109,300,PERDEU,UND,990,3.3
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº24.",14878113,50,PERDEU,UND,175,3.5
+"Sonda endotraqueal em PVC com balão nº5,0",14878120,100,PERDEU,UN,344,3.44
+"Sonda endotraqueal em PVC com balão nº 7,5",14878127,120,PERDEU,UNI,547.2,4.56
+"Sonda endotraqueal em PVC com balão nº 8,0.",14878129,120,PERDEU,UNI,412.8,3.44
+"Sonda Gástrica Longa nº 16, descartável",14878136,60,VENCEU,UNI,66,1.1
+"Sonda Gástrica Longa nº 18, descartável",14878138,30,VENCEU,UN,30,1
+"Sonda uretral nº 06, descartável.",14878144,14000,PERDEU,UN,9520,0.68
+"Termômetro clínico digital.",14878169,200,PERDEU,UN,2800,14
+"Umidificador Frasco polipropileno oxigênio medicinal",14878175,50,PERDEU,UND,758,15.16

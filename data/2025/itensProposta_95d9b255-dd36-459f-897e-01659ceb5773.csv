@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PIA LAVATÓRIO",0,300,PERDEU," ",300000,1000
+"BANHEIRO QUIMÍCO, M, F, NE",0,300,PERDEU," ",66000,220
+"SERVIÇO DE LOCAÇÃO, MONTAGEM E DESMONTAGEM DE BANHEIROS QUÍMICOS PARA PESSOA COM DEFICIÊNCIA",0,150,PERDEU," ",42750,285
+"SISTEMA DE GERADORES TIPO 01 STAND BY",0,46,PERDEU," ",138000,3000
+"SISTEMA DE GERADORES TIPO 02 USO CONTÍNUO",0,46,PERDEU," ",202400,4400
+"Locação de passa cabos Locação de passa cabos de 5 vias, protetor de cabos",0,46,PERDEU," ",1610,35
+"Banqueta em madeira maciça",0,2200,INABILITADO," ",19580,8.9
+"Cadeira em Polipropileno na cor branca",0,10000,INABILITADO," ",44000,4.4
+"Cadeira fixa estofada",0,500,INABILITADO," ",1850,3.7
+"FOGAO INDUSTRIAL",0,50,INABILITADO," ",11215,224.3
+"Freezer horizontal 300 litros",0,50,INABILITADO," ",14440,288.8
+"Geladeira vertical",0,50,INABILITADO," ",7475,149.5
+"Mesa bistrô",0,1100,INABILITADO," ",24640,22.4
+"Mesa em Polipropileno, na cor branca",0,2500,INABILITADO," ",14750,5.9
+"Mesa redonda com tampo de vidro",0,100,INABILITADO," ",2240,22.4
+"Puff estofado de 1 lugar",0,100,INABILITADO," ",1490,14.9
+"SOFÁ 2 LUGARES",0,100,INABILITADO," ",11210,112.1
+"SOFA 1 LUGAR ESTOFADO",0,100,INABILITADO," ",7470,74.7
+"Vasos decorativos com plantas naturais",0,200,INABILITADO," ",16440,82.2
+"Estruturas metálicas para arquibancada",0,4000,INABILITADO," ",321600,80.4
+Barricada.,0,1500,INABILITADO," ",100500,67
+"Estandes com Montagens Básicas",0,10000,INABILITADO," ",234000,23.4
+"Estande Especial para Eventos",0,5000,INABILITADO," ",251000,50.2
+"Estande Construído para Eventos",0,2000,INABILITADO," ",160800,80.4
+"Camarim para Eventos",0,800,INABILITADO," ",47800,59.75
+"Separador de Fila, Organizador de Fila",0,1500,INABILITADO," ",60300,40.2
+CARPETE,0,11000,INABILITADO," ",110000,10

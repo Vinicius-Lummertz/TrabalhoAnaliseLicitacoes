@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Albendazol 400mg comprimido mastigável, em blister.",5093040,18000,PERDEU,COMP,7020,0.39
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",5093041,25000,PERDEU,FR.,24525,0.981
+"Alendronato de sódio 70mg, blister com 4cpr.",5093042,25000,PERDEU,COMP,6200,0.248
+"Amiodarona 200mg cpr, em blister.",5093046,220000,PERDEU,COMP,112640,0.512
+"Atenolol 50mg cpr, em blister.",5093055,1800000,PERDEU,COMP,162000,0.09
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",5093057,10000,PERDEU,FR,74900,7.49
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",5093063,12000,PERDEU,FR/AM,74160,6.18
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",5093078,1800000,PERDEU,COMP,396000,0.22
+"Clonazepam 2,5mg/mL , 20ml, frasco de vidro âmbar 20ml.",5093098,5000,PERDEU,FR.,8450,1.69
+"Diclofenaco sódico 50mg cpr, em blister.",5093122,600000,PERDEU,COMP,48000,0.08
+"Dipirona 500mg cpr, em blister.",5093127,2200000,PERDEU,COMP,308000,0.14
+"Enalapril, maleato 10mg cpr, em blister.",5093133,2200000,PERDEU,COMP,88000,0.04
+"Enalapril, maleato 5mg cpr, em blister.",5093135,300000,PERDEU,COMP,21000,0.07
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",5093136,6000,PERDEU,AM,77940,12.99
+"Estrogênios conjugados 0,625mg cpr, em blister.",5093141,60000,VENCEU,COMP,47400,0.79
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",5093148,1500,PERDEU,AMP,3750,2.5
+"Fluconazol 150mg capsula.",5093152,75000,PERDEU,CPLA,35250,0.47
+"Hidroclorotiazida 25mg cpr, em blister.",5093170,2400000,PERDEU,COMP,96000,0.04
+"Losartana 50mg cpr revestido, em blister.",5093214,5000000,VENCEU,COMP,264500,0.0529
+"Metildopa 250mg cpr, em blister.",5093218,350000,PERDEU,COMP,161000,0.46
+"Metoclopramida, cloridrato 10mg cpr, em blister.",5093222,380000,PERDEU,COMP,49400,0.13
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",5093223,36000,PERDEU,COMP,28800,0.8
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",5093238,400000,PERDEU,COMP,60000,0.15
+"Omeprazol 20mg capsula, em blister.",5093246,4000000,PERDEU,CPLA,480000,0.12
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",5093250,24000,PERDEU,FR.,27120,1.13
+"Permetrina 10mg/mL loção, frasco 60ml.",5093252,8000,VENCEU,FR.,13432,1.679
+"Permetrina 50mg/mL loção, frasco 60ml.",5093253,6000,PERDEU,FR.,21060,3.51
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",5093269,15000,PERDEU,FR.,127500,8.5
+"Sinvastatina 20mg cpr, em blister.",5093270,1800000,PERDEU,COMP,180000,0.1
+"Sinvastatina 40 mg cpr, em blister.",5093271,1500000,PERDEU,COMP,240000,0.16
+"Sulfadiazina de prata 1% pomada, pote com 400g.",5093274,600,PERDEU,POT,25068,41.78
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",5093282,1500,VENCEU,AMP,3150,2.1

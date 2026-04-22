@@ -1,0 +1,67 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo  de silicone tamanho 204",1262520,235,10,ATIVO,PACOTE,1139.1,113.91
+"Teste rapido de gravidez",1262554,233,10,ATIVO,UNIDADE,790,79
+"Sonda nasal para alimentação enteral nº 10",1262595,212,5,ATIVO,UNIDADE,40.8,8.16
+"Sonda Gástrica Longa nº 18, descartável",1262597,210,70,ATIVO,UNIDADE,64.4,0.92
+"Sonda nasal para alimentação enteral nº 08.",1262651,211,5,ATIVO,UNIDADE,40.8,8.16
+"ABAIXADOR DE LINGUA",1262661,1,750,ATIVO,PACOTE,6487.5,8.65
+"Luva Cirúrgica estéril Nº. 7,0",1262662,139,1800,ATIVO,PAR,1584,0.88
+"Luva Cirúrgica estéril Nº. 7,5",1262663,140,1800,ATIVO,PAR,1584,0.88
+"Luva Cirúrgica estéril Nº. 8,0",1262664,141,1502,ATIVO,PAR,1321.76,0.88
+"Luva Cirúrgica estéril Nº. 8,5",1262665,142,500,ATIVO,PAR,440,0.88
+"Malha Tubular largura  Ortopédica 10cm  x comprimento 25 m",1262667,154,30,ATIVO,ROLO,308.7,10.29
+"Máscara de oxigênio com bolsa reservatório e de não reinalaç",1262668,162,30,ATIVO,UNIDADE,252,8.4
+"Óculos para proteção profissional",1262669,163,120,ATIVO,UNIDADE,355.2,2.96
+"Papel para ECG (eletrocardiograma) A4.",1262670,165,3,ATIVO,CAIXA,230.61,76.87
+"Seringa 5ml, sem agulha",1262671,176,20000,ATIVO,UNIDADE,2560,0.128
+"Seringa 1ml, sem agulha",1262672,177,30000,ATIVO,UNIDADE,3300,0.11
+"Seringa 60ml, sem agulha",1262673,178,200,ATIVO,UNIDADE,360,1.8
+"Sonda de borracha (látex natural) nº 10",1262674,187,3,ATIVO,CAIXA,78.75,26.25
+"Sonda de borracha (látex natural), nº 12",1262675,188,5,ATIVO,CAIXA,114,22.8
+"Sonda de borracha (látex natural) nº 14",1262676,189,10,ATIVO,CAIXA,228,22.8
+"Sonda de borracha (látex natural) nº 16",1262677,190,20,ATIVO,CAIXA,456,22.8
+"Sonda de borracha (látex natural) nº 18",1262678,191,20,ATIVO,CAIXA,456,22.8
+"Sonda de borracha (látex natural) nº20.",1262679,192,20,ATIVO,CAIXA,456,22.8
+"Sonda de borracha (látex natural) nº22.",1262680,193,5,ATIVO,CAIXA,114,22.8
+"Sonda de borracha (látex natural) nº24.",1262681,194,3,ATIVO,CAIXA,68.4,22.8
+"Sonda endotraqueal em PVC com balão nº5,0",1262682,200,80,ATIVO,UNIDADE,273.6,3.42
+"Sonda endotraqueal em PVC com balão nº6,0",1262683,202,80,ATIVO,UNIDADE,273.6,3.42
+"Sonda endotraqueal em PVC com balão nº6,5",1262684,203,100,ATIVO,UNIDADE,342,3.42
+"Sonda endotraqueal em PVC com balão nº7,0",1262685,204,100,ATIVO,UNIDADE,342,3.42
+"Sonda endotraqueal em PVC com balão nº7,5",1262686,205,100,ATIVO,UNIDADE,342,3.42
+"Sonda endotraqueal em PVC com balão nº8,0",1262687,206,100,ATIVO,UNIDADE,342,3.42
+"Sonda endotraqueal em PVC com balão nº8,5",1262688,207,30,ATIVO,UNIDADE,102.6,3.42
+"Sonda endotraqueal em PVC com balão nº9,0",1262689,208,5,ATIVO,UNIDADE,17.1,3.42
+"Sonda Gástrica Longa nº 16, descartável",1262690,209,70,ATIVO,UNIDADE,58.1,0.83
+"Luva Cirúrgica estéril Nº. 6,5",1262691,138,1000,ATIVO,PAR,880,0.88
+"Lanceta do profissional de saúde",1262692,135,20000,ATIVO,UNIDADE,3600,0.18
+"Lâmina de Bisturi descartável Nº. 22",1262694,132,5,ATIVO,CXA,122.5,24.5
+"Lanceta do paciente - refil",1262695,134,200000,ATIVO,UNIDADE,8000,0.04
+"Fixador Citológico, 40ml",1262696,117,500,ATIVO,FRASCO,1620,3.24
+"Filme para Ultrassonografia",1262697,102,15,ATIVO,ROLO,1004.55,66.97
+"Equipo 2 vias , (POLIFIX).",1262698,87,2500,ATIVO,UNIDADE,1400,0.56
+"Garrote tubo látex no. 202",1262699,119,200,ATIVO,PACOTE,214,1.07
+"Envelopes auto selantes 250mmx350mm.",1262700,86,30,ATIVO,CAIXA,1317.3,43.91
+"Envelopes auto selantes 150mmx250mm.",1262701,85,50,ATIVO,CAIXA,1057,21.14
+"Eletrodo para Monitorização Cardíaca c/ Gel - Pediátrico",1262702,83,8000,ATIVO,UNIDADE,1920,0.24
+"Dreno Penrose Esterilizado Nº 2.",1262703,78,300,ATIVO,UNIDADE,387,1.29
+"Dreno Penrose Esterilizado Nº 1",1262704,77,200,ATIVO,UNIDADE,192,0.96
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",1262705,67,250,ATIVO,CAIXA,2625,10.5
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",1262706,66,250000,ATIVO,PACOTE,100000,0.4
+"Cateter Intravenoso n°22 G",1262707,54,2000,ATIVO,UNIDADE,3160,1.58
+"Cateter Intravenoso n°20 G",1262708,53,2000,ATIVO,UNIDADE,3140,1.57
+"Eletrodo para Monitorização Cardíaca c/ Gel - Neonatal",1262709,82,200,ATIVO,UNIDADE,48,0.24
+"Cânula de Traqueostomia de silicone com balonete número 5,5",1262710,43,3,ATIVO,UNIDADE,130.47,43.49
+"Cânula de Traqueostomia de silicone com balonete número 5,0",1262711,42,3,ATIVO,UNIDADE,130.47,43.49
+"Cânula de Traqueostomia de silicone com balonete número 4,5",1262712,41,5,ATIVO,UNIDADE,269.95,53.99
+"Lâmina de Bisturi descartável Nº. 20",1262713,131,5,ATIVO,CXA,122.5,24.5
+"Cânula de Traqueostomia de silicone com balonete número 4,0",1262714,40,5,ATIVO,UNIDADE,269.95,53.99
+"Cadarço sarjado",1262715,37,10,ATIVO,ROLO,209.1,20.91
+"Bolsa Coletora de urina sistema fechado  2000mL",1262716,36,1200,ATIVO,UNIDADE,2676,2.23
+"Bolsa coletora de urina de perna, 500 a 750ml.",1262717,35,500,ATIVO,UNIDADE,1350,2.7
+"Almotolia de uso médico-hospitalar",1262718,15,600,ATIVO,UNIDADE,1272,2.12
+"Almotolia de uso médico-hospitalar",1262719,14,200,ATIVO,UNIDADE,424,2.12
+"Lâmina de Bisturi descartável Nº. 11.",1262720,128,60,ATIVO,CXA,1470,24.5
+"Lâmina de Bisturi descartável Nº. 12",1262721,129,60,ATIVO,CXA,1470,24.5
+"Lâmina de Bisturi descartável Nº. 15.",1262722,130,30,ATIVO,CXA,735,24.5
+"Cânula de Traqueostomia de silicone com balonete número 6,0",1262723,44,3,ATIVO,UNIDADE,67.92,22.64

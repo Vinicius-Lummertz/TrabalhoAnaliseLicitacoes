@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo Flexível 4mm Rolo com 15 m",1298132,51,10,ATIVO,ROLO,238,23.8
+CIMENTO,1298134,32,200,ATIVO,SACA,4200,21
+"Revestimento de Parede Borda Reta Brilhante 45x90cm",1310370,43,200,ATIVO,"METRO QUADRADO",12800,64
+"Cabo Flexível 6mm Rolo com 15 m",1316604,52,10,ATIVO,ROLO,360,36
+"Cabo Flexível 1,5mm Rolo com 15 m",1316605,49,15,ATIVO,ROLO,127.5,8.5

@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"carrinho de mão de chapa",1300123,28,10,ATIVO,UNIDADE,1850,185
+"LUVA VAQUETA",1302178,22,150,ATIVO,UNIDADE,2235,14.9
+"Óculos de proteção em policarbonato (incolor e fumê)",1304293,23,150,ATIVO,UNIDADE,495,3.3
+"Creme protetor solar FPS-30 bisnaga 120GR",1304294,20,100,ATIVO,UNIDADE,1395,13.95
+"Plástico Filme Stretch",1310314,42,700,ATIVO,ROLO,26425,37.75
+"Botina c/ elástico sola PU BI-DENSIDADE com bico de proteção",1312323,18,300,ATIVO,PAR,13500,45
+"Luva de raspa 07cm com ref",1316554,21,300,ATIVO,PAR,2625,8.75
+"Chapeu de palha aba longa",1318577,19,50,ATIVO,UNIDADE,700,14

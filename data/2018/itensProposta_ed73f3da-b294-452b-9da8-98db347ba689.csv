@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta amarela bld (18 l)",0,400,CANCELADO," ",69075.96,172.6899
+"Tinta branca bld (18 l)",0,400,CANCELADO," ",69075.8,172.6895
+"Tinta azul bld (18 l)",0,30,CANCELADO," ",5180.68,172.6895
+"Tinta preta bld (18 l)",0,30,CANCELADO," ",5180.68,172.6895
+"Tinta vermelha bld (18 l)",0,10,CANCELADO," ",1726.9,172.6895
+"Solvente bld (18 l)",0,320,CANCELADO," ",43576.96,136.178
+"Micro esfera de vidro",0,5000,CANCELADO," ",23683,4.7366
+"Fornecimento e implantação de laminado elastoplástico branca",0,1000,NAO_COTOU," ",0,0
+"Fornecimento e implantação de laminado elastoplástico amarel",0,500,NAO_COTOU," ",0,0
+"Tachão a base de resina - Bi direcional - amarelo 245 x 170m",0,1800,NAO_COTOU," ",0,0
+"Tachão a base de resina - Bi direcional - Amarelo com Reflet",0,1200,NAO_COTOU," ",0,0
+"Tachão a base de resina - Monodirecional - amarelo 245 x 170",0,1800,NAO_COTOU," ",0,0
+"Tachão a base de resina - Mono direcional - Amarelo com Refl",0,1800,NAO_COTOU," ",0,0
+"Cola para tachão, tachinha",0,3200,NAO_COTOU," ",0,0
+"Tachinha Bi direcional 11 x 8 x 2,5 cm amarelo",0,1000,NAO_COTOU," ",0,0
+"Tachinha Bi direcional 11 x 8 x 2,5 cm Branca",0,1000,NAO_COTOU," ",0,0
+"Tachinha Mono direcional 11 x 8 x 2,5 cm amarelo",0,1000,NAO_COTOU," ",0,0
+"Tachinha Mono direcional 11 x 8 x 2,5 cm Branca",0,1000,NAO_COTOU," ",0,0

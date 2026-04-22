@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa de ancoragem 4 Furos (1/3)",4661137,7,3,ATIVO,UNIDADE,717,239
+"Destorcedor de corda",4661138,8,3,ATIVO,UNIDADE,840,280
+"Estribo pedal de fita regulável",4661139,10,2,ATIVO,UNIDADE,200,100
+"Malha rápida oval 6mm",4661140,11,4,ATIVO,UNIDADE,160,40
+"Malha Rápida Delta 8mm",4661141,12,4,ATIVO,UNIDADE,240,60
+"Malha rápida semicircular 10mm",4661142,14,4,ATIVO,UNIDADE,360,90
+"Mosquetão em formato D assimétrico com trava",4661143,15,12,ATIVO,UNIDADE,960,80
+"Mosquetão oval com trava rosca",4661144,16,6,ATIVO,UNIDADE,360,60
+"Mosquetão oval com trava automática",4661145,17,6,ATIVO,UNIDADE,630,105
+"Bota de Combate a Incêndios",4661146,19,15,ATIVO,PAR,11700,780

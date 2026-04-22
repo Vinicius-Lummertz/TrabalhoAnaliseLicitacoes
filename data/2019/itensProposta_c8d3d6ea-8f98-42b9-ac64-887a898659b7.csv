@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Finasterida 5 mg cpr, em blister.",4441014,50000,PERDEU,COMP,18750,0.375
+"Omeprazol 20mg capsula, em blister.",4441099,3800000,VENCEU,CPLA,197600,0.052
+"Sinvastatina 20mg cpr, em blister.",4441124,1800000,DESCLASSIFICADO,COMP,135000,0.075

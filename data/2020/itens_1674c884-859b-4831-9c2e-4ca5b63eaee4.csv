@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Botas (EPI)",1266672,4,90,ATIVO,PAR,2488.5,27.65
+"Conjunto de roupa de chuva para motoqueiro: blusa/jaqueta +",1266676,5,44,ATIVO,conjunto,2901.8,65.95
+"Máscara facial inteira (completa) com dois filtros (EPI)",1266677,8,6,ATIVO,UNIDADE,3780,630
+"Cartucho químico para respiradores de máscara facial inteira",1266678,9,15,ATIVO,UNIDADE,1484.85,98.99
+"Luvas de vaqueta com punho de raspa (EPI)",1266679,10,15,ATIVO,PAR,225,15

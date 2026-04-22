@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Minicarregadeira Caterpillar 246C",5936332,5,1,ATIVO,UNIDADE,36000,16.5
+"Pá Carregadeira Doosan SD200-3",5936333,9,1,ATIVO,UNIDADE,90000,16
+"Pá Carregadeira Michigan 55C",5936334,11,1,ATIVO,UNIDADE,50000,13.5
+"Retroescavadeira New Holland LB110",5936335,15,2,ATIVO,UNIDADE,64000,13.5
+"Rolo Compactador Muller VAP55",5936336,23,1,ATIVO,UNIDADE,40000,50
+"Trator Agrícola Budny 7540",5936337,24,1,ATIVO,UNIDADE,24000,50

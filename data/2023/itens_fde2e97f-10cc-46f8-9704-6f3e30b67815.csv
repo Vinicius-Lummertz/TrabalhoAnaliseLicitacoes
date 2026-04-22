@@ -1,0 +1,18 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4528252,3,5000,ATIVO,BISNAGA,9450,1.89
+"Ácido Acetilsalicilico 100mg cpr, em blister.",4528253,4,2500000,ATIVO,COMPRIMIDO,89500,0.0358
+"Aminofilina 100mg, em blister.",4528254,21,1000,ATIVO,COMPRIMIDO,70,0.07
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",4528255,55,180000,ATIVO,FRASCO,7200,0.04
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",4528256,56,1000000,ATIVO,COMPRIMIDO,40000,0.04
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",4528257,81,7000,ATIVO,FRASCO,6580,0.94
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",4528258,91,24000,ATIVO,BISNAGA,35760,1.49
+"Diclofenaco sódico 50mg cpr, em blister.",4528259,98,550000,ATIVO,COMPRIMIDO,25795,0.0469
+"Digoxina 0,25mg cpr, em blister.",4528260,99,200000,ATIVO,COMPRIMIDO,36000,0.18
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextrose 1000 mg + d-frutose 1000 mg injetável Endovenoso (EV), ampola 10ml.",4528261,101,1000,ATIVO,AMPOLA,8091,8.091
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",4528262,105,30000,ATIVO,FRASCO,34200,1.14
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",4528263,149,12000,ATIVO,FRASCO,32160,2.68
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",4528264,189,30000,ATIVO,COMPRIMIDO,11400,0.38
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",4528265,193,5000,ATIVO,BISNAGA,27500,5.5
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",4528266,194,10000,ATIVO,BISNAGA,71000,7.1
+"Nortriptilina 50 mg capsula, em blister.",4528267,209,2000,ATIVO,CAPSULA,700,0.35
+"Sulfato ferroso 40mg cpr, em blister.",5348186,244,1040000,ATIVO,COMPRIMIDO,31096,0.0299

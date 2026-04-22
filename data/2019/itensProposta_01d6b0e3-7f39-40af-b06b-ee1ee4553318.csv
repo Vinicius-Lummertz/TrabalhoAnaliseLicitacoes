@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão de obra para manutenção de equipamentos",0,130,PERDEU," ",15600,120
+"Carga de gás R-12/R-134 para geladeira e freezer",0,15,PERDEU," ",3150,210
+"Capacitor para geladeira e freezer",0,10,PERDEU," ",440,44
+"Damper controle",0,21,PERDEU," ",945,45
+"KIT SENSOR",0,15,PERDEU," ",975,65
+"Lâmpada para geladeira/freezer",0,20,PERDEU," ",422,21.1
+"Motores (compressor)",0,10,PERDEU," ",4500,450
+"Módulos para geladeira e freezer",0,6,PERDEU," ",828,138
+"Resistência 220V",0,6,PERDEU," ",540,90
+"Borracha porta geladeira e freezer",0,20,PERDEU," ",1800,90
+"Micro motor para geladeira e freezer",0,6,PERDEU," ",540,90
+"Rede de sensor",0,13,PERDEU," ",849.94,65.38
+TERMOSTATO,0,10,PERDEU," ",620,62
+Bimetal,0,4,PERDEU," ",97.2,24.3
+"Filtro Secador",0,4,PERDEU," ",97.2,24.3
+"Protetor Térmico",0,4,PERDEU," ",140,35
+"Controlador de Temperartura",0,30,PERDEU," ",4026,134.2
+"Rele de Geladeira e Freezer",0,10,PERDEU," ",350,35
+"Fusivel Termico",0,10,PERDEU," ",241.2,24.12
+"Placa de potência",0,5,PERDEU," ",1100,220
+"Placa Interface",0,5,PERDEU," ",700,140

@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Memória 8gb DDR4",14640334,4,PERDEU,UND,408,102
+"Monitor 19,5”",14640335,2,PERDEU,UND,798,399
+"Mouse com fio USB",14640336,30,PERDEU,UND,540,18
+"Nobreak 1500VA SMS 115v",14640337,2,PERDEU,UND,2476,1238
+"Placa Mãe PcWare IPMH510G",14640338,2,PERDEU,UND,898,449
+"Processador Intel Core i5-10400 2.9 GHz",14640339,2,VENCEU,UND,1860,930
+"ssd 240gb a400.",14640340,4,PERDEU,UNID,596,149
+"Teclado com fio USB",14640341,30,PERDEU,UND,840,28
+"KIT DE TECLADO E MOUSE SEM FIO",14640342,30,PERDEU,UND,1410,47
+"Fone de ouvido com fio, in-ear",14640343,20,PERDEU,UND,260,13
+"Fone de ouvido sem fio, in-ear",14640344,20,PERDEU,UND,1000,50
+"Caixa de som para computador",14640345,20,PERDEU,UND,440,22
+"Pen drive 32Gb",14640346,10,PERDEU,UND,210,21
+"Pen drive 64GB, USB 3.0",14640347,10,VENCEU,UND,240,24
+"Fone de ouvido com fio, over-ear",14640348,20,VENCEU,UND,840,42

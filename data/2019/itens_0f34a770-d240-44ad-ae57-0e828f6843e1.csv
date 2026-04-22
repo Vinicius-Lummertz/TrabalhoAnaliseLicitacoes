@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Macadame (ou brita nº 04)",1302775,3,10000,ATIVO,TONELADA,339500,33.95
+"Pedrisco (ou brita nº 00)",1304825,4,20000,ATIVO,TONELADA,859000,42.95
+"PO DE PEDRA",1315067,2,30000,ATIVO,"METRO CUBICO",957000,31.9

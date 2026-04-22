@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lingüiça tipo calabresa para fatiar",4786568,89,70,ATIVO,kg,1558.2,22.26
+"Pescado: peixe em posta",4786569,90,150,ATIVO,kg,4272,28.48
+"Creme de leite fresco",4786570,127,150,ATIVO,UNIDADE,1560,10.4
+"Leite Condensado: Em embalagem treta pak de 395g.",4786571,131,200,ATIVO,UNIDADE,1180,5.9
+"Manteiga: obtida de creme de leite",4786572,132,50,ATIVO,UNIDADE,500,10
+"Queijo tipo mussarela",4786573,134,250,ATIVO,kg,9500,38
+"Leite Semidesnatado UHT sem lactose",4786574,140,800,ATIVO,LITRO,3992,4.99
+"Margarina (Creme Vegetal)",4786575,163,350,ATIVO,UNIDADE,2345,6.7

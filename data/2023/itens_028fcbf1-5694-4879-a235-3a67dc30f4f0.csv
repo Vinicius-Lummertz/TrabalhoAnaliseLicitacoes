@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",4220711,3,1500,ATIVO,"METRO QUADRADO",75000,50
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",4220712,4,2000,ATIVO,"METRO QUADRADO",77000,38.5
+"Bloco de concreto modelo unistein/16 faces/onda, com 22 x 11 x 8 cm",4220713,5,1500,ATIVO,"METRO QUADRADO",73500,49
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",4220714,6,6000,ATIVO,Metro,120000,20

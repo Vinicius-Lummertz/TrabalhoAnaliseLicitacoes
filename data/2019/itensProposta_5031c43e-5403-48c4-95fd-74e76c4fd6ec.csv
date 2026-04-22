@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bomba de Óleo misturador",0,3,VENCEU," ",2889.6,963.2
+"Cantoneira A-36",0,18,VENCEU," ",2292.84,127.38
+"Caracol Misturador Hardox 500 3/8",0,1,VENCEU," ",3704.84,3704.84
+"Chapa 1045 1/2",0,500,VENCEU," ",3820,7.64
+"Chapa 1045 1/4",0,500,VENCEU," ",3820,7.64
+"Chapa 1045 3/8",0,500,VENCEU," ",3820,7.64
+"Correia Transp. Cilo 01",0,14,VENCEU," ",1495.2,106.8
+"Correia Transp. Cilo 02",0,14,VENCEU," ",1495.2,106.8
+"Corrente Elevador 4",0,14,VENCEU," ",9108.68,650.62
+"Eixo chavetado elevador",0,4,VENCEU," ",4280,1070
+"Eixo motor correia transp.",0,6,VENCEU," ",2169.42,361.57
+"eixo motriz correia transp.",0,3,VENCEU," ",2178.21,726.07
+"engranagem tração Elevador",0,2,VENCEU," ",3127.7,1563.85
+"Esticador Correia Transp.",0,8,VENCEU," ",587.92,73.49
+"F211 Mancal",0,50,VENCEU," ",2204.5,44.09
+"Filtro Manga",0,112,VENCEU," ",14486.08,129.34
+"Gaiola filtro manga",0,112,VENCEU," ",18437.44,164.62
+"Mangueira Pneumática 1/4",0,100,VENCEU," ",539,5.39
+"Manometro 50 BAR",0,5,VENCEU," ",440.95,88.19
+"Motor Com Redutor",0,2,VENCEU," ",10272.82,5136.41
+"Motor Elétricp 1.1/2CV WEG 04 polos",0,3,VENCEU," ",1222.86,407.62
+"Motor Elétrico 15 CV WEG",0,1,VENCEU," ",3448.12,3448.12
+"Motor Eletrico 4CV WEG 04 polos",0,3,VENCEU," ",6434.73,2144.91
+"Queimador S-B26",0,1,VENCEU," ",7162.75,7162.75
+"Registro 2",0,5,VENCEU," ",617.3,123.46
+"Rolamento Mancal.",0,50,VENCEU," ",3184.5,63.69
+"Rolete correia transp.",0,30,VENCEU," ",11581.8,386.06
+"rolete mancal secador",0,4,VENCEU," ",8861.84,2215.46
+"Válvula Pneumática",0,3,VENCEU," ",332.16,110.72
+"Mão de Obra mecânica;",0,100,VENCEU," ",8378,83.78
+"Mão de Obra Elétrica.",0,100,VENCEU," ",6957,69.57
+"Torno e solda",0,80,VENCEU," ",8544,106.8

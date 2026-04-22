@@ -1,0 +1,30 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cateter para oxigênio tipo óculos nº 12",4447629,3000,PERDEU,UNI,2400,0.8
+"Eletrodo Para Monitorização Cardíaca c/ Gel - Adulto.",4447630,72000,PERDEU,UNI,21600,0.3
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",4447631,7500,PERDEU,UN,30525,4.07
+"Fio cirúrgico preto monofilamentar de poliamida no. 3,0",4447632,150,PERDEU,CX,4680,31.2
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0.",4447633,150,VENCEU,CX,4672.5,31.15
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4447634,3500,VENCEU,UNI,7000,2
+"Fita Cirúrgica Microporosa largura 10cm x 4,5m, na cor bege",4447635,3000,PERDEU,UN,16500,5.5
+"Lanceta para coleta de sangue por punção digital",4447636,35000,PERDEU,UN,8050,0.23
+"Lençol descartável com elástico (TNT).",4447637,2000,VENCEU,PCT,30480,15.24
+"Luva Látex não Estéril tamanho  PP.",4447638,500,PERDEU,CX,42940,85.88
+"Luva Látex não Estéril tamanho  P.",4447640,800,PERDEU,CX,68640,85.8
+"Luva Látex não Estéril tamanho  M.",4447643,800,PERDEU,CX,68640,85.8
+"Luva Látex não Estéril tamanho  G.",4447645,800,PERDEU,CX,68640,85.8
+"Luva Nitrilica não Estéril tamanho PP cor azul.",4447647,600,PERDEU,CX,57780,96.3
+"Luva Nitrilica não Estéril tamanho P cor azul.",4447648,625,PERDEU,CX,59400,95.04
+"Luva Nitrilica não Estéril tamanho M cor azul.",4447650,750,VENCEU,CX,71280,95.04
+"Luva Nitrilica não Estéril tamanho G cor azul.",4447652,250,PERDEU,CX,23760,95.04
+"Luva Plástica Estéril.",4447654,2400,VENCEU,PCT,28440,11.85
+"Luvas Látex não Estéril tamanho P, SEM PÓ",4447655,600,PERDEU,CX,60192,100.32
+"Luvas Látex não Estéril tamanho M, SEM PÓ",4447656,200,PERDEU,CX,20064,100.32
+"oleo de girassol",4447658,3000,VENCEU,UN,12600,4.2
+"Seringa 1ml, sem agulha",4447660,60000,INABILITADO,UN,14400,0.24
+"Seringa 3ml, sem agulha",4447661,150000,PERDEU,UN,43500,0.29
+"Seringa 5ml, sem agulha",4447662,50000,PERDEU,UN,15500,0.31
+"Seringa 10ml, sem agulha",4447663,50000,VENCEU,UNI,21000,0.42
+"Seringa 20ml, sem agulha",4447664,45000,PERDEU,UNI,28350,0.63
+"Seringa 60ml, sem agulha",4447665,3000,PERDEU,UN,7110,2.37
+"Sonda uretral nº 10 descartável",4447667,30000,PERDEU,UN,15000,0.5
+"Sonda uretral nº 14 descartável",4447668,30000,PERDEU,UN,17700,0.59

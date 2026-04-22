@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"VDRL-latex c/ controle negativo e positivo",10849755,20000,PERDEU,TEST,2800,0.14
+"Tubo plástico sistema a vácuo p/ hemograma 4 ml com EDTA",10849759,3500,PERDEU,UN,1995,0.57
+"Tubo plástico sistema à vácuo para sorologia, com gel separador de 8 ml",10849760,3500,VENCEU,UNI,3675,1.05

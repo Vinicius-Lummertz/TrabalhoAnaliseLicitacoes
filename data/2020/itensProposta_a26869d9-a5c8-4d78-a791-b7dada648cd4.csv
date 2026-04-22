@@ -1,0 +1,164 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 18 L",4390784,15,PERDEU,LAT,4050,270
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 18 L",4390785,10,PERDEU,LAT,3700,370
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 3,6 L",4390786,10,PERDEU,GAL,600,60
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 3,6 L",4390787,10,PERDEU,GAL,750,75
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 18 L",4390788,10,PERDEU,LAT,2700,270
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 3,6 L",4390789,10,PERDEU,GAL,600,60
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 18 L",4390790,5,PERDEU,LAT,1400,280
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 3,6 L",4390791,5,PERDEU,GAL,325,65
+"Tinta Esmalte Para Madeira e Metal Padrão CBMSC Marrom Café",4390792,10,PERDEU,GAL,650,65
+"MASSA CORRIDA",4390793,6,NAO_COTOU,LAT,0,0
+"Solvente Aguarrás",4390794,20,PERDEU,LAT,190,9.5
+"TINTA SPRAY",4390795,30,NAO_COTOU,TB,0,0
+"Tinta Fundo Zarcão",4390796,5,PERDEU,GAL,325,65
+"SELADOR ACRILICO",4390797,10,PERDEU,LAT,550,55
+"Thinner 900 ml",4390798,5,PERDEU,LAT,50,10
+"Pincel Pintura 1/2",4390799,5,NAO_COTOU,UND,0,0
+"Pincel Pintura 3/4",4390800,5,NAO_COTOU,UND,0,0
+"PINCEL 1",4390801,5,NAO_COTOU,UND,0,0
+"PINCEL 2",4390802,5,NAO_COTOU,UND,0,0
+"Rolo Pintura Espuma 05Cm C/Cabo Polyester",4390803,2,NAO_COTOU,UND,0,0
+"Rolo Pintura Espuma 09Cm C/Cabo Polyester",4390804,2,NAO_COTOU,UND,0,0
+"Rolo Lã Anti Gota",4390805,8,NAO_COTOU,UND,0,0
+"BROXA RETANGULAR GRANDE",4390806,3,NAO_COTOU,UND,0,0
+"Lixa Amarela a seco folha G-220",4390807,30,NAO_COTOU,M,0,0
+"Lixa Amarela a seco folha G-80",4390808,30,NAO_COTOU,M,0,0
+"Areia Lavada Fina",4390809,20,NAO_COTOU,M3,0,0
+"Areia lavada média",4390810,20,NAO_COTOU,M3,0,0
+"AREIA LAVADA GROSSA",4390811,20,NAO_COTOU,M3,0,0
+"Pedra brita 3/4",4390812,15,NAO_COTOU,MC,0,0
+"Pedra brita 1",4390813,15,NAO_COTOU,MC,0,0
+"Argamassa Massa Pronta",4390814,30,NAO_COTOU,SA,0,0
+"Argamassa ACII Cerâmica Externa",4390815,30,NAO_COTOU,SA,0,0
+"Argamassa ACIII Cerâmica Externa",4390816,30,NAO_COTOU,SA,0,0
+CIMENTO,4390817,50,NAO_COTOU,SC,0,0
+"Bloco de Concreto Celular Autoclavado",4390818,150,NAO_COTOU,UND,0,0
+"Tijolo à Vista 6 Furos",4390819,6000,NAO_COTOU,UND,0,0
+"Tijolo à Vista 6 Furos Metade",4390820,2000,NAO_COTOU,UND,0,0
+"Bloco de Concreto Estrutural",4390821,250,NAO_COTOU,UND,0,0
+"Telha de Fibrocimento 1,83x1,10mx6mm",4390822,100,NAO_COTOU,UND,0,0
+"Telha de Fibrocimento Cumeeira Ondulada 1,10x0,64m",4390823,50,NAO_COTOU,UND,0,0
+"Telha ondulada 6mm 110x153 fibrocimento sem amianto",4390824,70,NAO_COTOU,UND,0,0
+"Telha ondulada 8mm 110x153 fibrocimento sem amianto",4390825,70,NAO_COTOU,UND,0,0
+"Cumeeira Fibrocimento Ondulada 30º para Telha de 8mm",4390826,50,NAO_COTOU,UND,0,0
+"Espigão Fibrocimento para Telha de 8mm",4390827,50,NAO_COTOU,UND,0,0
+"Gesso Rápido",4390828,10,NAO_COTOU,EMB,0,0
+Kalfácil,4390829,15,NAO_COTOU,EMB,0,0
+"CABO FLEXIVEL 10MM",4390830,100,NAO_COTOU,M,0,0
+"CABO FLEXIVEL 16MM",4390831,100,NAO_COTOU,M,0,0
+"CABO FLEXIVEL 2,5 MM",4390832,100,NAO_COTOU,M,0,0
+"Cabo flexível 6 mm",4390833,100,NAO_COTOU,M,0,0
+"Cabo LAN 4 pares para rede logica",4390834,100,NAO_COTOU,M,0,0
+"Cabo PP2 x 1,5mm",4390835,100,NAO_COTOU,M,0,0
+"Cabo PP3 x 1,5mm",4390836,100,NAO_COTOU,M,0,0
+"Caixa Condulete 1/2 e 3/4 com 6 Entradas",4390837,15,NAO_COTOU,UND,0,0
+"Caixa de Passagem PVC condulete 1",4390838,15,NAO_COTOU,UND,0,0
+"Caixa de Passagem PVC condulete 3/4",4390839,15,NAO_COTOU,UND,0,0
+"Caixa Distribuição Embutir 6 / 8 disjuntores (C/ Barramento)",4390840,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono 32A",4390841,10,NAO_COTOU,UND,0,0
+"Disjuntor Mono B2 0A 3KA Curva B",4390842,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono B4 0A 3KA Curva C",4390843,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono SHB1-CO 10A",4390844,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono SHB1-CO 20A",4390845,3,NAO_COTOU,UND,0,0
+"Disjuntor Mono SHB1-CO 32A",4390846,10,NAO_COTOU,UND,0,0
+"Disjuntor Trifásico SHB3 B32A curva C",4390847,2,NAO_COTOU,UND,0,0
+"DUCHA ELETRÔNICA 7700W",4390848,10,NAO_COTOU,UND,0,0
+"Eletrocalha Perfurada",4390849,40,NAO_COTOU,UND,0,0
+"Eletroduto corrugado simples 3/4",4390850,500,NAO_COTOU,M,0,0
+"Filtro de Linha bivolt com 6 Tomadas",4390851,10,NAO_COTOU,UND,0,0
+"Fita isolante preta 10 metros",4390852,40,NAO_COTOU,UND,0,0
+"Fita isolante preta 20 metros",4390853,40,NAO_COTOU,UND,0,0
+"Lâmpada de Led T8 Tubular Vidro 20W 120cm Branco Frio 6500K",4390854,50,NAO_COTOU,UND,0,0
+"Lâmpada Dicróica GU10 LED 6w bivolt",4390855,20,NAO_COTOU,UND,0,0
+"Lâmpada geladeira/fogão clara 40w E27",4390856,20,NAO_COTOU,UND,0,0
+"Lâmpada LED tubolar T8 18W 6500K- Branca",4390857,50,NAO_COTOU,UND,0,0
+"Lâmpada pera LED 15W bivolt branca",4390858,150,NAO_COTOU,UND,0,0
+"Lâmpada pera LED 50W bivolt branca",4390859,150,NAO_COTOU,UND,0,0
+"Lâmpada pera LED 9W bivolt branca",4390860,150,NAO_COTOU,UND,0,0
+"Luminária Flex Sobrepor 32w Em Led 60cm",4390861,30,NAO_COTOU,UND,0,0
+"Luminária Sobrepor Tubular 2 Lâmpadas LED 120cm",4390862,30,NAO_COTOU,UND,0,0
+"Luva Alta Tensão Classe 00 - 2,5 Kv",4390863,2,NAO_COTOU,UND,0,0
+"Painel Plafon Quadrado Luminária Sobrepor Led 12w Frio",4390864,15,NAO_COTOU,UND,0,0
+"Placa sinalização com bateria simples LED",4390865,10,NAO_COTOU,UND,0,0
+"Bloco de emergência 30 LED simples",4390866,10,NAO_COTOU,UND,0,0
+"Refletor alumínio LED luz branca 100W",4390867,10,NAO_COTOU,UND,0,0
+"Refletor alumínio LED luz branca 50W",4390868,10,NAO_COTOU,UND,0,0
+"Rele foto célula com retardo 220v monofásico",4390869,5,NAO_COTOU,UND,0,0
+"Timer industrial para trilho digital 16A 220v",4390870,2,NAO_COTOU,UND,0,0
+"Abraçadeira de Nylon 2,5mm x 100mm Branca",4390871,5,NAO_COTOU,PCT,0,0
+"Abraçadeira de Nylon 4,8mm x 300mm",4390872,5,NAO_COTOU,PCT,0,0
+"Abraçadeira de Nylon 7,2mm x 300mm",4390873,5,NAO_COTOU,PCT,0,0
+"Abraçadeira de pressão Rosca S/fim 16x19",4390874,20,NAO_COTOU,UND,0,0
+"Abraçadeira de pressão Rosca S/fim 17x25",4390875,20,NAO_COTOU,UND,0,0
+"Abraçadeira de pressão Rosca S/fim 19x25",4390876,20,NAO_COTOU,UND,0,0
+"Abraçadeira de pressão Rosca S/fim 25x38",4390877,20,NAO_COTOU,UND,0,0
+"Abraçadeira de pressão Rosca S/fim 76x89",4390878,20,NAO_COTOU,UND,0,0
+"Abraçadeira p/ mangote 20mm",4390879,20,NAO_COTOU,UND,0,0
+"Abraçadeira p/ mangote 86-94mm",4390880,20,NAO_COTOU,UND,0,0
+"Adesivo Instantâneo",4390881,20,NAO_COTOU,UND,0,0
+"Cola Resina Bicomponente",4390882,10,NAO_COTOU,UND,0,0
+"Assento sanitário PVC branco",4390883,10,NAO_COTOU,UND,0,0
+"Balde Metálico para Concreto 10L Preto",4390884,4,NAO_COTOU,UND,0,0
+"Balde PVC 15 litros simples",4390885,4,NAO_COTOU,UND,0,0
+"Bateria 9V Alcalina",4390886,20,NAO_COTOU,UND,0,0
+"Boina de lã sintetica para polimento 8",4390887,10,NAO_COTOU,UND,0,0
+"Cabo de madeira para enxada redondo",4390888,20,NAO_COTOU,UND,0,0
+"Cadeado nº 20mm",4390889,2,NAO_COTOU,UND,0,0
+"Cadeado nº 25mm",4390890,2,NAO_COTOU,UND,0,0
+"Cadeado nº 60mm",4390891,2,NAO_COTOU,UND,0,0
+"Caixa organizadora 56L",4390892,20,NAO_COTOU,UND,0,0
+"Cera para veículos",4390893,40,NAO_COTOU,LAT,0,0
+"cocho de massa pvc preto",4390894,2,NAO_COTOU,UND,0,0
+"Cola Adesiva tipo Fixa Tudo",4390895,10,NAO_COTOU,UND,0,0
+"Corda Multifilamento Trançada Polipropileno 10mm",4390896,200,NAO_COTOU,M,0,0
+"Corda Multifilamento Trançada Polipropileno 2mm",4390897,100,NAO_COTOU,M,0,0
+"Desentupidor Diabo Verde líquido",4390898,20,NAO_COTOU,EMB,0,0
+"Eletrodo Revestido 3,25mm E6010 ou E6011",4390899,15,NAO_COTOU,EMB,0,0
+"Escova Circular 6 x 1/2 x 1/2 Aço Carbono",4390900,4,NAO_COTOU,UND,0,0
+"Espuma expansiva Poliuretano 300ml",4390901,10,NAO_COTOU,UND,0,0
+"Estanho fio fluxo 1mm 63 x 37 25 Gr",4390902,2,NAO_COTOU,UND,0,0
+"Estopa Desfiada Para Polimento",4390903,15,NAO_COTOU,PCT,0,0
+"FIO DE NYLON PARA ROCADEIRA",4390904,20,NAO_COTOU,RL,0,0
+"Fita Dupla Face 12 mm transparente 20 mt",4390905,5,NAO_COTOU,RL,0,0
+"FITA KREPP 50MT X 25MM",4390906,10,NAO_COTOU,RL,0,0
+"Fita para demarcação amarela/preta 70 x 200 mt",4390907,10,NAO_COTOU,RL,0,0
+"Fita Silver Tape Adesiva 48 mm X 10 Mts Multiuso Reforçada",4390908,10,NAO_COTOU,RL,0,0
+"Formicida gel",4390909,20,NAO_COTOU,EMB,0,0
+"Haste telha roscavel 1/4x300 com arruela e porca",4390910,400,NAO_COTOU,UND,0,0
+Multi-inseticida,4390911,15,NAO_COTOU,EMB,0,0
+"Inseticida Líquido Para Cupim 500ml",4390912,15,NAO_COTOU,EMB,0,0
+"Inseticida 30ml",4390913,15,NAO_COTOU,EMB,0,0
+"Lápis carpinteiro vermelho",4390914,2,NAO_COTOU,UND,0,0
+"Limpa contato eletrônico aerosol 300ml",4390915,3,NAO_COTOU,EMB,0,0
+"Lixeira plástica 65 lts redonda simples com tampa",4390916,4,NAO_COTOU,UND,0,0
+"Lixeira plástico 100 lt branca com tampa",4390917,5,NAO_COTOU,UND,0,0
+"Lona Preta PVC 8 mt largura 100 micras",4390918,400,NAO_COTOU,M,0,0
+"Luva couro tipo vaqueta mista",4390919,30,NAO_COTOU,PAR,0,0
+"Luva de látex forrada",4390920,100,NAO_COTOU,PAR,0,0
+"Luva profissional uso geral",4390921,50,NAO_COTOU,PAR,0,0
+"Luva Térmica Cano Longo 33Cm",4390922,10,NAO_COTOU,PAR,0,0
+"Luvas vaqueta cano curto com reforço",4390923,40,NAO_COTOU,PAR,0,0
+"COLA BRANCA",4390924,10,NAO_COTOU,KG,0,0
+"Mangueira Ar Comprimido 300/psi 1/2 20 Mts",4390925,4,NAO_COTOU,RL,0,0
+"Máscara descartável azul com válvula PFF1/PFF2",4390926,200,NAO_COTOU,UND,0,0
+"Massa de polir Nº2 490 gr",4390927,20,NAO_COTOU,LAT,0,0
+"Naftalina bolas 1 Kg",4390928,10,NAO_COTOU,EMB,0,0
+"Óleo anti-desingripante spray 300 ml",4390929,50,NAO_COTOU,EMB,0,0
+"Óleo/Silicone Liq. Lubrificante para Esteira de academia 1L",4390930,4,NAO_COTOU,EMB,0,0
+"Pilha alcalina AA",4390931,40,NAO_COTOU,EMB,0,0
+"Pilha alcalina AAA",4390932,50,NAO_COTOU,EMB,0,0
+"Massa Adesiva Epóxi",4390933,5,NAO_COTOU,EMB,0,0
+"Prego com cabeça 14x18 1 Kg",4390934,10,NAO_COTOU,PCT,0,0
+"Prego com cabeça 14x27 1 Kg",4390935,10,NAO_COTOU,PCT,0,0
+"Prego telheiro galvanizado 18 x 27 1 kg",4390936,10,NAO_COTOU,PCT,0,0
+"Prendedor de roupas madeira por dúzia",4390937,10,NAO_COTOU,DZ,0,0
+"Ralo japonês",4390938,5,NAO_COTOU,UND,0,0
+"Rebolo Silício 75x13x10mm",4390939,5,NAO_COTOU,UND,0,0
+"Saco Para Aspirador A10/gt2000 10 litros",4390940,5,NAO_COTOU,PCT,0,0
+"Selante poliuretano PU branco 400 Gr",4390941,4,NAO_COTOU,EMB,0,0
+"Silicone transparente acético 280g",4390942,10,NAO_COTOU,EMB,0,0
+"Soda Cáustica escamas pote de 1Kg",4390943,10,NAO_COTOU,POT,0,0
+"Tapa trinca multimassa 90g",4390944,5,NAO_COTOU,EMB,0,0
+"Tira limo",4390945,30,NAO_COTOU,GAL,0,0
+"Varal chão ferro branco com abas pequeno",4390946,3,NAO_COTOU,UND,0,0

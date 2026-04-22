@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sistema Portátil para Formação de Espuma",10997394,1,VENCEU,UND,8920,8920
+"Líquido Gerador de Espuma",10997395,30,PERDEU,UND,19500,650
+"Bota de Combate a Incêndios",10997405,10,VENCEU,PAR,8000,800
+"Luva de Combate a Incêndios",10997407,15,PERDEU,PAR,12150,810

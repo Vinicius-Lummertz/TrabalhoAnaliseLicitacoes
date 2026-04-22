@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Monitor para computador 24""",16936245,40,PERDEU,UND,120000,3000
+"TELEVISOR SMART 50”",16936251,10,DESCLASSIFICADO,UN,35000,3500
+"TELEVISOR SMART 65""",16936252,10,DESCLASSIFICADO,UND,50000,5000

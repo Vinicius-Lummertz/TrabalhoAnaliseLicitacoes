@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",16295981,10000,PERDEU,AMP,7500,0.75
+"Espaçador para administração de medicamentos adulto.",16296048,50,PERDEU,AMP,1450,29
+"Espaçador para administração de medicamentos pediátrico.",16296049,50,PERDEU,UNID,1590,31.8

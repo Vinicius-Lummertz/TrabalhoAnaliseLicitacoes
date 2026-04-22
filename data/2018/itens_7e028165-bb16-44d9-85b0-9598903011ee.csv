@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"base de brita graduada",1319859,2,31500,ATIVO,TONELADA,941850,29.9
+PEDRISCO,1319866,5,2100,ATIVO,TONELADA,67032,31.92
+PEDRISCO,1319867,6,6300,ATIVO,TONELADA,201096,31.92

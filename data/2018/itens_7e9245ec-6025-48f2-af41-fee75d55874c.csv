@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno de concreto D=0,20",1314012,1,3000,ATIVO,METRO,44100,14.7
+"Dreno de concreto D=0,80 CA 1",1314013,7,300,ATIVO,METRO,34500,115
+"Dreno de concreto D=0,60",1316154,6,500,ATIVO,METRO,19750,39.5
+"Dreno de concreto D=0,50",1318152,5,400,ATIVO,METRO,13000,32.5

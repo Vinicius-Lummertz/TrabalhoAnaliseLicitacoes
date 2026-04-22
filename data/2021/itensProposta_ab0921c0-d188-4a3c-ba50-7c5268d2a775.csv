@@ -1,0 +1,37 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACETILCISTEINA 600MG/ENV5GR.",5093024,50000,PERDEU,SACH,32000,0.64
+"Aciclovir 200 mg cpr, em blister.",5093025,220000,PERDEU,COMP,35222,0.1601
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",5093026,10000,VENCEU,BIS,17500,1.75
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",5093035,8000,PERDEU,FR.,30400,3.8
+"Albendazol 400mg comprimido mastigável, em blister.",5093040,18000,VENCEU,COMP,4320,0.24
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",5093041,25000,PERDEU,FR.,19250,0.77
+"Alopurinol 100mg cpr, em blister.",5093043,600000,PERDEU,COMP,78000,0.13
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",5093049,15000,PERDEU,FRA,29850,1.99
+"Ampicilina 500mg, capsula, em blister.",5093053,6000,VENCEU,CPLA,2040,0.34
+"Atenolol 50mg cpr, em blister.",5093055,1800000,VENCEU,COMP,90000,0.05
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",5093057,10000,VENCEU,FR,42000,4.2
+"Azitromicina 500mg. Blister com 01 comprimido, ou acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",5093058,60000,VENCEU,COMP,52200,0.87
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",5093069,2000,PERDEU,FR.,1600,0.8
+"Dexametasona 0,1% creme, bisnaga 10g.",5093115,30000,PERDEU,bis,27900,0.93
+"Dipirona 500mg cpr, em blister.",5093127,2200000,PERDEU,COMP,220000,0.1
+"Doxazosina 2 mg cpr, em blister.",5093131,180000,PERDEU,COMP,14418,0.0801
+"Furosemida 40mg cpr, em blister.",5093158,850000,PERDEU,COMP,51000,0.06
+"Levofloxacino 500mg cpr, em blister.",5093195,10000,VENCEU,COMP,5000,0.5
+"Loratadina 1mg/mL xarope, frasco de 60ml.",5093213,10000,PERDEU,FR.,28000,2.8
+"Losartana 50mg cpr revestido, em blister.",5093214,5000000,PERDEU,COMP,290000,0.058
+"Metformina 500mg cpr, em blister.",5093216,1500000,PERDEU,COMP,105000,0.07
+"Metformina 850mg cpr, em blister.",5093217,3800000,PERDEU,COMP,266000,0.07
+"Metronidazol 250mg cpr, em blister.",5093226,280000,VENCEU,COMP,28000,0.1
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",5093227,5000,PERDEU,BIS,23500,4.7
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",5093228,12000,VENCEU,BIS,69600,5.8
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",5093236,25000,PERDEU,BIS,37500,1.5
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",5093239,5000,VENCEU,FR.,19000,3.8
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",5093251,2400000,PERDEU,COMP,240000,0.1
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",5093257,12000,PERDEU,FR.,41400,3.45
+"Risperidona 1mg cpr, em blister.",5093263,200000,VENCEU,COMP,14000,0.07
+"Risperidona 2mg cpr, em blister.",5093264,280000,VENCEU,COMP,22400,0.08
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",5093265,1000,VENCEU,FR.,5200,5.2
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",5093277,220000,VENCEU,COMP,35200,0.16
+"SULFATO FERROSO- EQUIVALENTE A 40MG DE FERRO ELEMENTAR- em b",5093280,900000,PERDEU,COMP,45000,0.05
+"Tiamina 300 mg cpr, em blister.",5093284,12000,PERDEU,COMP,2280,0.19
+"Tramadol, cloridrato 50mg capsula, em blister.",5093286,300000,PERDEU,COMP,51000,0.17

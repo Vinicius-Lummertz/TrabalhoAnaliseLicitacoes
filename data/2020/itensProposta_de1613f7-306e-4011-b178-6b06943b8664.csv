@@ -1,0 +1,164 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 18 L",4390784,15,DESCLASSIFICADO,LAT,9661.31,644.0875
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 18 L",4390785,10,DESCLASSIFICADO,LAT,10522.06,1052.2065
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 3,6 L",4390786,10,DESCLASSIFICADO,GAL,1415.42,141.542
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 3,6 L",4390787,10,DESCLASSIFICADO,GAL,2232.18,223.2185
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 18 L",4390788,10,DESCLASSIFICADO,LAT,4192.54,419.254
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 3,6 L",4390789,10,DESCLASSIFICADO,GAL,1044.4,104.4395
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 18 L",4390790,5,DESCLASSIFICADO,LAT,1934.68,386.937
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 3,6 L",4390791,5,DESCLASSIFICADO,GAL,460.62,92.123
+"Tinta Esmalte Para Madeira e Metal Padrão CBMSC Marrom Café",4390792,10,DESCLASSIFICADO,GAL,1125.23,112.523
+"MASSA CORRIDA",4390793,6,PERDEU,LAT,382.7,63.784
+"Solvente Aguarrás",4390794,20,PERDEU,LAT,162,8.1
+"TINTA SPRAY",4390795,30,VENCEU,TB,315,10.5
+"Tinta Fundo Zarcão",4390796,5,DESCLASSIFICADO,GAL,480.55,96.1095
+"SELADOR ACRILICO",4390797,10,DESCLASSIFICADO,LAT,738.3,73.83
+"Thinner 900 ml",4390798,5,VENCEU,LAT,44,8.8
+"Pincel Pintura 1/2",4390799,5,PERDEU,UND,9,1.8
+"Pincel Pintura 3/4",4390800,5,PERDEU,UND,10,2
+"PINCEL 1",4390801,5,PERDEU,UND,14.5,2.9
+"PINCEL 2",4390802,5,VENCEU,UND,18,3.6
+"Rolo Pintura Espuma 05Cm C/Cabo Polyester",4390803,2,PERDEU,UND,4.5,2.25
+"Rolo Pintura Espuma 09Cm C/Cabo Polyester",4390804,2,PERDEU,UND,6,3
+"Rolo Lã Anti Gota",4390805,8,PERDEU,UND,107.2,13.4
+"BROXA RETANGULAR GRANDE",4390806,3,PERDEU,UND,14.7,4.9
+"Lixa Amarela a seco folha G-220",4390807,30,PERDEU,M,69,2.3
+"Lixa Amarela a seco folha G-80",4390808,30,PERDEU,M,69,2.3
+"Areia Lavada Fina",4390809,20,PERDEU,M3,1160,58
+"Areia lavada média",4390810,20,PERDEU,M3,1414.74,70.737
+"AREIA LAVADA GROSSA",4390811,20,PERDEU,M3,1571.31,78.5655
+"Pedra brita 3/4",4390812,15,VENCEU,MC,1196.72,79.781
+"Pedra brita 1",4390813,15,VENCEU,MC,1190.34,79.356
+"Argamassa Massa Pronta",4390814,30,PERDEU,SA,209.7,6.99
+"Argamassa ACII Cerâmica Externa",4390815,30,PERDEU,SA,351,11.7
+"Argamassa ACIII Cerâmica Externa",4390816,30,VENCEU,SA,447,14.9
+CIMENTO,4390817,50,PERDEU,SC,1095,21.9
+"Bloco de Concreto Celular Autoclavado",4390818,150,VENCEU,UND,1119.45,7.463
+"Tijolo à Vista 6 Furos",4390819,6000,PERDEU,UND,7140,1.19
+"Tijolo à Vista 6 Furos Metade",4390820,2000,PERDEU,UND,2805,1.4025
+"Bloco de Concreto Estrutural",4390821,250,VENCEU,UND,818.12,3.2725
+"Telha de Fibrocimento 1,83x1,10mx6mm",4390822,100,PERDEU,UND,3350,33.5
+"Telha de Fibrocimento Cumeeira Ondulada 1,10x0,64m",4390823,50,VENCEU,UND,1324.5,26.49
+"Telha ondulada 6mm 110x153 fibrocimento sem amianto",4390824,70,PERDEU,UND,2169.3,30.99
+"Telha ondulada 8mm 110x153 fibrocimento sem amianto",4390825,70,PERDEU,UND,2963.7,42.3385
+"Cumeeira Fibrocimento Ondulada 30º para Telha de 8mm",4390826,50,PERDEU,UND,2349.5,46.99
+"Espigão Fibrocimento para Telha de 8mm",4390827,50,VENCEU,UND,796.88,15.9375
+"Gesso Rápido",4390828,10,PERDEU,EMB,30.68,3.0685
+Kalfácil,4390829,15,PERDEU,EMB,60.75,4.05
+"CABO FLEXIVEL 10MM",4390830,100,PERDEU,M,430,4.3
+"CABO FLEXIVEL 16MM",4390831,100,PERDEU,M,606.05,6.0605
+"CABO FLEXIVEL 2,5 MM",4390832,100,PERDEU,M,113.9,1.139
+"Cabo flexível 6 mm",4390833,100,PERDEU,M,258.4,2.584
+"Cabo LAN 4 pares para rede logica",4390834,100,PERDEU,M,139,1.39
+"Cabo PP2 x 1,5mm",4390835,100,PERDEU,M,210,2.1
+"Cabo PP3 x 1,5mm",4390836,100,PERDEU,M,279,2.79
+"Caixa Condulete 1/2 e 3/4 com 6 Entradas",4390837,15,VENCEU,UND,46.5,3.1
+"Caixa de Passagem PVC condulete 1",4390838,15,PERDEU,UND,112.5,7.5
+"Caixa de Passagem PVC condulete 3/4",4390839,15,VENCEU,UND,46.5,3.1
+"Caixa Distribuição Embutir 6 / 8 disjuntores (C/ Barramento)",4390840,2,PERDEU,UND,61.46,30.7275
+"Disjuntor Mono 32A",4390841,10,PERDEU,UND,72,7.2
+"Disjuntor Mono B2 0A 3KA Curva B",4390842,2,VENCEU,UND,15.1,7.548
+"Disjuntor Mono B4 0A 3KA Curva C",4390843,2,VENCEU,UND,18.84,9.418
+"Disjuntor Mono SHB1-CO 10A",4390844,2,PERDEU,UND,15.1,7.548
+"Disjuntor Mono SHB1-CO 20A",4390845,3,PERDEU,UND,22.64,7.548
+"Disjuntor Mono SHB1-CO 32A",4390846,10,PERDEU,UND,69,6.9
+"Disjuntor Trifásico SHB3 B32A curva C",4390847,2,PERDEU,UND,69.8,34.9
+"DUCHA ELETRÔNICA 7700W",4390848,10,PERDEU,UND,800,80
+"Eletrocalha Perfurada",4390849,40,VENCEU,UND,1310.36,32.759
+"Eletroduto corrugado simples 3/4",4390850,500,PERDEU,M,300,0.6
+"Filtro de Linha bivolt com 6 Tomadas",4390851,10,PERDEU,UND,240,24
+"Fita isolante preta 10 metros",4390852,40,PERDEU,UND,96,2.4
+"Fita isolante preta 20 metros",4390853,40,PERDEU,UND,177.14,4.4285
+"Lâmpada de Led T8 Tubular Vidro 20W 120cm Branco Frio 6500K",4390854,50,PERDEU,UND,587.5,11.75
+"Lâmpada Dicróica GU10 LED 6w bivolt",4390855,20,VENCEU,UND,297.6,14.88
+"Lâmpada geladeira/fogão clara 40w E27",4390856,20,PERDEU,UND,76,3.8
+"Lâmpada LED tubolar T8 18W 6500K- Branca",4390857,50,PERDEU,UND,840,16.8
+"Lâmpada pera LED 15W bivolt branca",4390858,150,PERDEU,UND,1650,11
+"Lâmpada pera LED 50W bivolt branca",4390859,150,PERDEU,UND,9600,64
+"Lâmpada pera LED 9W bivolt branca",4390860,150,PERDEU,UND,1169.18,7.7945
+"Luminária Flex Sobrepor 32w Em Led 60cm",4390861,30,PERDEU,UND,1165.86,38.862
+"Luminária Sobrepor Tubular 2 Lâmpadas LED 120cm",4390862,30,PERDEU,UND,2040,68
+"Luva Alta Tensão Classe 00 - 2,5 Kv",4390863,2,VENCEU,UND,1032.07,516.035
+"Painel Plafon Quadrado Luminária Sobrepor Led 12w Frio",4390864,15,VENCEU,UND,367.46,24.497
+"Placa sinalização com bateria simples LED",4390865,10,VENCEU,UND,417.26,41.7265
+"Bloco de emergência 30 LED simples",4390866,10,PERDEU,UND,140,14
+"Refletor alumínio LED luz branca 100W",4390867,10,VENCEU,UND,1090,109
+"Refletor alumínio LED luz branca 50W",4390868,10,PERDEU,UND,699,69.9
+"Rele foto célula com retardo 220v monofásico",4390869,5,PERDEU,UND,134.81,26.962
+"Timer industrial para trilho digital 16A 220v",4390870,2,PERDEU,UND,192.49,96.2455
+"Abraçadeira de Nylon 2,5mm x 100mm Branca",4390871,5,PERDEU,PCT,18.1,3.621
+"Abraçadeira de Nylon 4,8mm x 300mm",4390872,5,PERDEU,PCT,129.07,25.8145
+"Abraçadeira de Nylon 7,2mm x 300mm",4390873,5,PERDEU,PCT,280,56
+"Abraçadeira de pressão Rosca S/fim 16x19",4390874,20,PERDEU,UND,15.4,0.77
+"Abraçadeira de pressão Rosca S/fim 17x25",4390875,20,PERDEU,UND,16.83,0.8415
+"Abraçadeira de pressão Rosca S/fim 19x25",4390876,20,PERDEU,UND,15.6,0.78
+"Abraçadeira de pressão Rosca S/fim 25x38",4390877,20,VENCEU,UND,35.87,1.7935
+"Abraçadeira de pressão Rosca S/fim 76x89",4390878,20,PERDEU,UND,54,2.7
+"Abraçadeira p/ mangote 20mm",4390879,20,VENCEU,UND,52.7,2.635
+"Abraçadeira p/ mangote 86-94mm",4390880,20,VENCEU,UND,153.68,7.684
+"Adesivo Instantâneo",4390881,20,PERDEU,UND,132.77,6.6385
+"Cola Resina Bicomponente",4390882,10,PERDEU,UND,397.2,39.7205
+"Assento sanitário PVC branco",4390883,10,PERDEU,UND,135,13.5
+"Balde Metálico para Concreto 10L Preto",4390884,4,VENCEU,UND,43.38,10.846
+"Balde PVC 15 litros simples",4390885,4,PERDEU,UND,23.96,5.99
+"Bateria 9V Alcalina",4390886,20,PERDEU,UND,306.68,15.334
+"Boina de lã sintetica para polimento 8",4390887,10,PERDEU,UND,149,14.9
+"Cabo de madeira para enxada redondo",4390888,20,PERDEU,UND,119.8,5.99
+"Cadeado nº 20mm",4390889,2,VENCEU,UND,21.42,10.71
+"Cadeado nº 25mm",4390890,2,VENCEU,UND,24.92,12.461
+"Cadeado nº 60mm",4390891,2,PERDEU,UND,79,39.5
+"Caixa organizadora 56L",4390892,20,PERDEU,UND,968,48.4
+"Cera para veículos",4390893,40,PERDEU,LAT,436,10.9
+"cocho de massa pvc preto",4390894,2,PERDEU,UND,12.6,6.3
+"Cola Adesiva tipo Fixa Tudo",4390895,10,PERDEU,UND,82,8.2
+"Corda Multifilamento Trançada Polipropileno 10mm",4390896,200,PERDEU,M,258,1.29
+"Corda Multifilamento Trançada Polipropileno 2mm",4390897,100,PERDEU,M,19,0.19
+"Desentupidor Diabo Verde líquido",4390898,20,PERDEU,EMB,566,28.3
+"Eletrodo Revestido 3,25mm E6010 ou E6011",4390899,15,PERDEU,EMB,450,30
+"Escova Circular 6 x 1/2 x 1/2 Aço Carbono",4390900,4,VENCEU,UND,110.06,27.5145
+"Espuma expansiva Poliuretano 300ml",4390901,10,PERDEU,UND,130,13
+"Estanho fio fluxo 1mm 63 x 37 25 Gr",4390902,2,PERDEU,UND,9.6,4.8
+"Estopa Desfiada Para Polimento",4390903,15,VENCEU,PCT,52.5,3.5
+"FIO DE NYLON PARA ROCADEIRA",4390904,20,PERDEU,RL,858.16,42.908
+"Fita Dupla Face 12 mm transparente 20 mt",4390905,5,PERDEU,RL,262.35,52.4705
+"FITA KREPP 50MT X 25MM",4390906,10,VENCEU,RL,32.9,3.29
+"Fita para demarcação amarela/preta 70 x 200 mt",4390907,10,VENCEU,RL,100,10
+"Fita Silver Tape Adesiva 48 mm X 10 Mts Multiuso Reforçada",4390908,10,PERDEU,RL,88,8.8
+"Formicida gel",4390909,20,PERDEU,EMB,216,10.8
+"Haste telha roscavel 1/4x300 com arruela e porca",4390910,400,VENCEU,UND,360.04,0.9001
+Multi-inseticida,4390911,15,PERDEU,EMB,135,9
+"Inseticida Líquido Para Cupim 500ml",4390912,15,VENCEU,EMB,223.5,14.9
+"Inseticida 30ml",4390913,15,PERDEU,EMB,134.85,8.99
+"Lápis carpinteiro vermelho",4390914,2,PERDEU,UND,2.4,1.2
+"Limpa contato eletrônico aerosol 300ml",4390915,3,VENCEU,EMB,26.7,8.9
+"Lixeira plástica 65 lts redonda simples com tampa",4390916,4,PERDEU,UND,137.52,34.38
+"Lixeira plástico 100 lt branca com tampa",4390917,5,VENCEU,UND,554.12,110.823
+"Lona Preta PVC 8 mt largura 100 micras",4390918,400,PERDEU,M,1380,3.45
+"Luva couro tipo vaqueta mista",4390919,30,VENCEU,PAR,414,13.8
+"Luva de látex forrada",4390920,100,PERDEU,PAR,750,7.5
+"Luva profissional uso geral",4390921,50,PERDEU,PAR,6500,130
+"Luva Térmica Cano Longo 33Cm",4390922,10,VENCEU,PAR,133.28,13.328
+"Luvas vaqueta cano curto com reforço",4390923,40,VENCEU,PAR,684.08,17.102
+"COLA BRANCA",4390924,10,PERDEU,KG,223.21,22.321
+"Mangueira Ar Comprimido 300/psi 1/2 20 Mts",4390925,4,VENCEU,RL,21.08,5.27
+"Máscara descartável azul com válvula PFF1/PFF2",4390926,200,PERDEU,UND,398,1.99
+"Massa de polir Nº2 490 gr",4390927,20,PERDEU,LAT,338,16.9
+"Naftalina bolas 1 Kg",4390928,10,PERDEU,EMB,179,17.9
+"Óleo anti-desingripante spray 300 ml",4390929,50,PERDEU,EMB,269.5,5.39
+"Óleo/Silicone Liq. Lubrificante para Esteira de academia 1L",4390930,4,VENCEU,EMB,50.97,12.7415
+"Pilha alcalina AA",4390931,40,VENCEU,EMB,124.44,3.111
+"Pilha alcalina AAA",4390932,50,VENCEU,EMB,124.5,2.49
+"Massa Adesiva Epóxi",4390933,5,PERDEU,EMB,37.66,7.531
+"Prego com cabeça 14x18 1 Kg",4390934,10,PERDEU,PCT,89.9,8.99
+"Prego com cabeça 14x27 1 Kg",4390935,10,VENCEU,PCT,92.74,9.2735
+"Prego telheiro galvanizado 18 x 27 1 kg",4390936,10,PERDEU,PCT,109,10.9
+"Prendedor de roupas madeira por dúzia",4390937,10,VENCEU,DZ,17.4,1.74
+"Ralo japonês",4390938,5,PERDEU,UND,22.95,4.59
+"Rebolo Silício 75x13x10mm",4390939,5,VENCEU,UND,113.22,22.644
+"Saco Para Aspirador A10/gt2000 10 litros",4390940,5,VENCEU,PCT,76.8,15.3595
+"Selante poliuretano PU branco 400 Gr",4390941,4,PERDEU,EMB,59.6,14.9
+"Silicone transparente acético 280g",4390942,10,PERDEU,EMB,100,10
+"Soda Cáustica escamas pote de 1Kg",4390943,10,PERDEU,POT,140,14
+"Tapa trinca multimassa 90g",4390944,5,VENCEU,EMB,29.95,5.99
+"Tira limo",4390945,30,VENCEU,GAL,739.24,24.6415
+"Varal chão ferro branco com abas pequeno",4390946,3,PERDEU,UND,191.35,63.784

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"jogo de focinheira",2326011,4,2,ATIVO,Jogo,34.56,17.28
+"Vermífugo oral de amplo espectro para cães e gatos",2326012,11,100,ATIVO,CAIXA,1028,10.28
+"Sedativo injetável - Acepromazina 0,2%",2326013,12,6,CANCELADO,FRASCO,185.04,30.84
+"Anestésico injetável - Cetamina 10%",2326014,13,12,ATIVO,FRASCO,284.4,23.7
+"Anestésico injetável - Xilazina 2%",2326015,14,12,ATIVO,FRASCO,182.16,15.18

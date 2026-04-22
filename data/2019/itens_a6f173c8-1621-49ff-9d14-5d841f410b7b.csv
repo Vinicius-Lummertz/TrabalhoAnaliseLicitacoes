@@ -1,0 +1,61 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levonorgestrel 0,75mg cpr, blister com dois comprimidos.",1265426,164,200,ATIVO,BLISTER,250.74,1.2537
+"Ácido Acetilsalicilico 100mg cpr, em blister.",1265431,3,2000000,ATIVO,COMPRIMIDO,56000,0.028
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",1265432,4,8000,ATIVO,AMP,4952,0.619
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",1265433,10,11000,ATIVO,FRASCO,27720,2.52
+"Adrenalina 1mg/mL, injetável, ampola 1ml.",1265434,12,2000,ATIVO,AMP,3570,1.785
+"Água destilada 10mL ampola.",1265435,13,18000,ATIVO,AMP,2520,0.14
+"Água destilada 5mL ampola.",1265436,14,10000,ATIVO,AMP,1800,0.18
+"Aminofilina 100mg, em blister.",1265437,19,1000,ATIVO,COMPRIMIDO,63,0.063
+"Aminofilina 24mg/mL, injetável, ampola 10ml.",1265438,20,100,ATIVO,AMP,86.1,0.861
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",1265439,22,1000,ATIVO,AMP,1880,1.88
+"Anlodipino, besilato 5mg cpr, em blister.",1265440,29,1800000,ATIVO,COMPRIMIDO,41580,0.0231
+"Atropina 0,25mg/mL, injetável, ampola 1ml.",1265441,31,1000,ATIVO,AMP,283.5,0.2835
+"Benzilpenicilina Benzatina 600.000 UI.",1265442,39,300,ATIVO,"Frasco ampola",2170.35,7.2345
+"Brometo de N-butilescopolamina 20mg/mL injetável, ampola 1ml",1265443,45,5000,ATIVO,AMP,4410,0.882
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",1265444,46,15000,ATIVO,AMP,17850,1.19
+"Bromidrato de fenoterol 5mg/mL solução para inalação, frrasc",1265445,47,2000,ATIVO,FRASCO,7350,3.675
+"Captopril 25mg cpr, em blister.",1265446,52,1500000,ATIVO,COMPRIMIDO,31500,0.021
+"Carbonato de lítio 300mg cpr, em blister.",1265447,57,350000,ATIVO,COMPRIMIDO,99225,0.2835
+"Cefalexina 500mg, capsula ou comprimido, em blister.",1265448,63,350000,ATIVO,"capsula ou comprimid",95550,0.273
+"Clindamicina 300mg capsula, em blister.",1265449,70,1500,ATIVO,CAPSULA,1260,0.84
+"Clorpromazina, cloridrato 5mg/mL, injetável, ampola 5ml.",1265450,85,500,ATIVO,AMP,480,0.96
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola",1265451,88,24000,ATIVO,AMP,14400,0.6
+"Diazepam 10mg cpr.",1265453,89,1200000,ATIVO,COMPRIMIDO,100800,0.084
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",1265496,92,25000,ATIVO,AMP,14375,0.575
+"Fenobarbital 100mg cpr, em blister.",1265497,116,350000,ATIVO,COMPRIMIDO,35350,0.101
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",1265498,100,18000,ATIVO,FRASCO,10980,0.61
+"Dimenidrato 50mg + piridoxina 50mg/mL, injetável, ampola 1ml",1265532,95,18000,ATIVO,AMP,21564,1.198
+"Doxazosina 2 mg cpr, em blister.",1265535,102,150000,ATIVO,COMPRIMIDO,15750,0.105
+"Enalapril, maleato 10mg cpr, em blister.",1265536,104,2000000,ATIVO,COMPRIMIDO,56000,0.028
+"Espironolactona 25mg cpr, em blister.",1265537,111,720000,ATIVO,COMPRIMIDO,92880,0.129
+"Fenitoina 50mg/mL, injetável, ampola 5ml.",1265538,115,200,ATIVO,AMP,357,1.785
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",1265540,119,500,ATIVO,AMP,498.75,0.9975
+"Fluoxetina, cloridrato 20mg capsula, em blister.",1265541,125,2000000,ATIVO,CAPSULA,115400,0.0577
+"Furosemida 10mg/mL injetável, ampola 2ml.",1265542,127,14000,ATIVO,AMP,5586,0.399
+"Glibenclamida 5mg cpr, em blister.",1265543,129,1500000,ATIVO,COMPRIMIDO,25200,0.0168
+"Gluconato de cálcio 10%, ampola 10ml.",1265544,133,200,ATIVO,AMP,270,1.35
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",1265545,136,3000,ATIVO,AMP,3175.2,1.0584
+"Haloperidol, 2mg/ml solução oral 20ml, frasco.",1265546,138,400,ATIVO,FRASCO,871.6,2.179
+"Hidrocortisona 500mg pó para suspensão injetável.",1265547,142,4000,ATIVO,"Frasco ampola",18270,4.5675
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",1265548,150,200000,ATIVO,COMPRIMIDO,43260,0.2163
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",1265549,181,24000,ATIVO,AMP,7152,0.298
+"Metoclopramida, cloridrato 10mg cpr, em blister.",1265551,182,200000,ATIVO,COMPRIMIDO,16800,0.084
+"Noradrenalina 2mg/ml, injetável, ampola 4ml.",1265552,201,500,ATIVO,AMP,887.25,1.7745
+"Óleo Mineral, frasco 100ml.",1265553,204,10000,ATIVO,FRASCO,20200,2.02
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",1265554,210,2200000,ATIVO,COMPRIMIDO,170720,0.0776
+"Petidina, cloridrato 50mg/mL injetável, ampola 2ml.",1265555,213,100,ATIVO,AMP,185,1.85
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",1265556,216,10000,ATIVO,FRASCO,30000,3
+"Prometazina 25mg/mL injetável, ampola 2ml.",1265557,219,12000,ATIVO,AMP,20400,1.7
+"Salbutamol 0,5mg/mL, injetável, ampola 1ml.",1265558,228,200,ATIVO,AMP,300,1.5
+"Sinvastatina 40 mg cpr, em blister.",1265559,231,1500000,ATIVO,COMPRIMIDO,358500,0.239
+"Sulfadiazina 500mg cpr, em blister.",1265560,233,5000,ATIVO,COMPRIMIDO,1155,0.231
+"Tramadol, cloridrato 50mg capsula, em blister.",1265561,245,1000000,ATIVO,COMPRIMIDO,105000,0.105
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",1265562,246,12000,ATIVO,AMP,7320,0.61
+"Verapamil 80mg cpr, em blister.",1265563,250,500000,ATIVO,COMPRIMIDO,42000,0.084
+"Nitrofurantoína 100 mg capsula, em blister.",1265567,199,2000,ATIVO,CAPSULA,500,0.25
+"Azitromicina 500mg  blister com 01 comprimido",1328337,33,100000,ATIVO,COMPRIMIDO,68900,0.689
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",1328346,244,400,ATIVO,FRASCO,529.2,1.323
+"Sinvastatina 20mg cpr, em blister.",1328347,230,1800000,ATIVO,COMPRIMIDO,86940,0.0483
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",1328348,79,4000,ATIVO,FRASCO,2520,0.63
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",1328349,65,1000,ATIVO,"Frasco ampola",7000,7

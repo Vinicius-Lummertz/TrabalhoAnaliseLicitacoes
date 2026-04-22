@@ -1,0 +1,65 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",4403113,120,PERDEU,GAL,990,8.25
+Alvejante,4403114,30,PERDEU,GAL,387,12.9
+"Amaciante para tecidos",4403115,50,DESCLASSIFICADO,GAL,575,11.5
+"Desinfetante de uso geral",4403116,180,DESCLASSIFICADO,GAL,2232,12.4
+"Detergente Neutro Líquido de Uso Geral",4403117,180,DESCLASSIFICADO,GAL,2430,13.5
+"Sabão liquido de coco",4403118,50,DESCLASSIFICADO,GAL,712.5,14.25
+"Detergente com Cera Para Veículos",4403119,120,PERDEU,GAL,1860,15.5
+"Limpa pneus com silicone",4403120,60,PERDEU,GAL,2418,40.3
+"Desinfetante limpador de uso geral",4403121,12,NAO_COTOU,GAL,0,0
+"Sabonete Líquido com Bico Dosador Pump",4403122,150,PERDEU,EMB,1920,12.8
+"Sabonete líquido Galão",4403123,50,DESCLASSIFICADO,GAL,1095,21.9
+"Saboneteira de Mesa com Pump",4403124,10,VENCEU,UND,89,8.9
+"Álcool etílico em gel 70% (70 INPM)",4403125,400,DESCLASSIFICADO,GR,3800,9.5
+"Álcool etílico hidratado 96% (92,8º INPM)",4403126,20,PERDEU,LT,146.6,7.33
+"Lustra móveis.",4403127,15,PERDEU,FRA,100.5,6.7
+"Desodorizador de ambientes",4403128,30,PERDEU,ML,234,7.8
+"Escova Sanitária",4403129,30,PERDEU,UND,285,9.5
+"Sabão em barra",4403130,30,PERDEU,PCT,255,8.5
+"SABAO EM PO",4403131,80,DESCLASSIFICADO,KG,912,11.4
+"SAPONACEO EM PO",4403132,5,PERDEU,GR,14.25,2.85
+"Saponáceo cremoso",4403133,60,PERDEU,ML,396,6.6
+"Escova para lavar roupas",4403134,20,VENCEU,UND,53,2.65
+"Escova para higienização de mãos e unhas",4403135,10,PERDEU,UND,57,5.7
+"Esfregão de Aço",4403136,250,PERDEU,UND,475,1.9
+"Esponja de lã de Aço.",4403137,100,PERDEU,PCT,238,2.38
+"Esponja Multiuso",4403138,60,PERDEU,PCT,2100,35
+"FLANELA PARA LIMPEZA.",4403139,30,PERDEU,UND,72.6,2.42
+"LUVA PARA LIMPEZA",4403140,20,PERDEU,UND,57.2,2.86
+"Balde Espremedor",4403141,2,PERDEU,UND,760,380
+"REFIL MOP UMIDO",4403142,60,PERDEU,UND,708,11.8
+"Cabo de aluminio para suporte de Mop Úmido",4403143,10,PERDEU,UND,285,28.5
+"Balde com espremedor giratório",4403144,6,NAO_COTOU,UND,0,0
+"Refil para balde giratório",4403145,40,VENCEU,UND,539.6,13.49
+"Pá coletora plástica.",4403146,10,NAO_COTOU,UND,0,0
+"Pá de lixo plástica.",4403147,10,PERDEU,UND,118,11.8
+"Pano de copa e cozinha",4403148,100,PERDEU,UND,570,5.7
+"Pano Multiúso",4403149,50,NAO_COTOU,RL,0,0
+"Bobina de Papel Toalha",4403150,80,VENCEU,CX,4838.4,60.48
+"DISPENSER PARA PAPEL TOALHA",4403151,2,VENCEU,UND,297,148.5
+"Papel higiênico",4403152,6,VENCEU,FRD,378,63
+"Papel Higiênico Rolão",4403153,60,VENCEU,FRD,2190,36.5
+"Porta Papel Higiênico Rolão",4403154,4,PERDEU,UND,126,31.5
+"RODO PLASTICO",4403155,10,VENCEU,UND,135,13.5
+"Saca de tecido crua",4403156,10,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo doméstico de polietileno 300 L",4403157,30,PERDEU,UND,5520,184
+"Saco plástico de lixo doméstico de polietileno 240 L",4403158,30,PERDEU,UND,4560,152
+"Saco plástico de lixo doméstico de polietileno 150 L",4403159,30,PERDEU,UND,3420,114
+"Saco plástico de lixo doméstico de polietileno 100 L",4403160,15,PERDEU,UND,1282.5,85.5
+"Saco plástico de lixo doméstico de polietileno 50 L",4403161,15,PERDEU,UND,270,18
+"Saco plástico de lixo doméstico de polietileno 30 L",4403162,15,DESCLASSIFICADO,UND,217.5,14.5
+"Saco plástico de lixo doméstico de polietileno 20 L",4403163,15,NAO_COTOU,UND,0,0
+"Vassoura Nylon",4403164,30,NAO_COTOU,UND,0,0
+"VASSOURA PALHA",4403165,20,PERDEU,UND,570,28.5
+"Copo descartavel 180 ml",4403166,7,PERDEU,CX,1130.5,161.5
+"Copo descartável 300 ml Transparente",4403167,7,VENCEU,CX,1047.69,149.67
+"Guardanapo de papel folha simples.",4403168,200,PERDEU,EMB,570,2.85
+"Balde com separador de partículas 19L",4403169,4,VENCEU,UND,214.8,53.7
+"Desentupidor Sanitário de Borracha",4403170,4,PERDEU,UND,49.2,12.3
+"Lixeira Escritório 15L sem tampa",4403171,30,PERDEU,UND,975,32.5
+"Lixeira com pedal 15L",4403172,10,PERDEU,UND,799,79.9
+"Lixeira com tampa basculante 30L",4403173,8,PERDEU,UND,388.8,48.6
+"Lixeiras com pedal e roda 100L",4403174,8,NAO_COTOU,UND,0,0
+"Balde Multiuso 20L Reforçado",4403175,10,VENCEU,UND,234,23.4
+"Mop Auto Torção",4403176,5,NAO_COTOU,UND,0,0

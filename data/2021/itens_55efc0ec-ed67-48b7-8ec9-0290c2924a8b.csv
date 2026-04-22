@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Assoalho eucalipto 1°",1496777,54,465,ATIVO,"METRO QUADRADO",26040,56
+"bardela eucalipto 3,5 x 5 cm",1496778,58,5979,ATIVO,METRO,10164.3,1.7
+"Forro de pinus 1ª",1496779,299,615,ATIVO,"METRO QUADRADO",9348,15.2
+"Forro de pinus tratado 1ª",1496780,300,2087,ATIVO,"METRO QUADRADO",30887.6,14.8
+"meia-cana pinus tamanho pádrão",1496781,458,1129,ATIVO,UNIDADE,4516,4
+"prancha de eucalipto bruta seca",1496782,530,23,ATIVO,"METRO CUBICO",47150,2050
+"prancha de eucalipto tratada seca",1496783,531,30,ATIVO,"METRO CUBICO",70500,2350
+"prancha de eucalipto tratada seca",1496784,532,9,ATIVO,"METRO CUBICO",21150,2350
+"Repartição de pinus encantilhada",1496785,574,455,ATIVO,"METRO QUADRADO",15470,34
+"Repartição de pinus tratado encantilhada",1496786,575,675,ATIVO,"METRO QUADRADO",26797.5,39.7
+"ripa eucalipto tratado 1 x 2",1496787,577,605,ATIVO,METRO,847,1.4
+"tábua caixaria de pinus",1496788,609,243,ATIVO,"METRO CUBICO",140940,580
+"tábua caixaria de pinus",1496789,610,81,ATIVO,"METRO CUBICO",46980,580
+"Tacação de pinus para forro",1496790,611,1310,ATIVO,METRO,2410.4,1.84
+"vara eucalipto para armação",1496791,748,6030,ATIVO,METRO,33044.4,5.48
+"vara eucalipto para armação tratado",1496792,749,4960,ATIVO,METRO,37200,7.5

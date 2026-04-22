@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",1265585,1,130000,ATIVO,COMPRIMIDO,23387,0.1799
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elemen",1265586,55,100000,ATIVO,COMPRIMIDO,6800,0.068
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no",1265587,56,800000,ATIVO,COMPRIMIDO,93600,0.117
+"Dexametasona 0,1% creme, bsinaga 10g.",1265588,87,30000,ATIVO,BISNAGA,28470,0.949
+"Digoxina 0,25mg cpr, em blister.",1265589,94,250000,ATIVO,COMPRIMIDO,13250,0.053
+"Hidroxido de aluminio200mg + hidroxido de magnésio 200mg com",1265590,144,20000,ATIVO,COMPRIMIDO,7000,0.35
+"Ivermectina 6mg cpr, em blister.",1265591,153,10000,ATIVO,COMPRIMIDO,1480,0.148
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg blister com 2",1265593,163,5000,ATIVO,BLISTER,8500,1.7
+"Lidocaína 2% gel, bisnaga 30g.",1265618,169,9000,ATIVO,BISNAGA,20699.1,2.2999
+"Oxido de zinco 25% (Pasta d´agua). Embalagem com 80g a 100g,",1265620,208,8000,ATIVO,BISNAGA,45200,5.65
+"Metronidazol 200mg/5mL suspensão oral, frasco 80ml.",1265641,185,5000,ATIVO,FRASCO,28850,5.77
+"Sais de reidratação oral",1265646,227,24000,ATIVO,SACHE,10800,0.45

@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vacina antirrábica para cães e gatos.",7545779,15,1000,ATIVO,FRASCO,10690,10.69
+"Vacina múltipla para cães (V10);",7545780,16,1000,ATIVO,FRASCO,12400,12.4
+"Antibacteriano doxiciclina 200mg;",7545781,17,120,ATIVO,COMPRIMIDO,180,1.5
+"Antibacteriano sulfadiazina + trimetoprim; uso veterinário;",7545782,19,200,ATIVO,COMPRIMIDO,820,4.1
+"Anti-inflamatório não esteroidal meloxicam 0,5 mg; uso veterinário.",7545783,21,100,ATIVO,COMPRIMIDO,110,1.1
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",7545784,22,400,ATIVO,COMPRIMIDO,2760,6.9
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",7545785,23,200,ATIVO,COMPRIMIDO,1478,7.39
+"Pomada dermatológica anti-infecciosa e cicatrizante;",7545786,26,50,ATIVO,BISNAGA,2425,48.5
+"Endoparasiticida metronidazol + sulfadimetoxina; uso oral;",7545787,31,20,ATIVO,FRASCO,1900,95
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",7545788,39,200,ATIVO,kit,3960,19.8
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",7545789,40,200,ATIVO,kit,4200,21
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",7545790,41,200,ATIVO,kit,7580,37.9
+"Tubos para coleta de sangue a vácuo (soro), com ativador e coágulo: para coleta de amostras destinadas ao diagnóstico de leishmaniose canina;",7545791,52,5,ATIVO,kit,373.1,74.62
+"Ponteiras para micropipetas: para processamento de amostras destinadas ao diagnóstico de leishmaniose canina;",7545792,53,3,ATIVO,PACOTE,131.19,43.73
+"Tubo de centrifugação (tubo falcon), 15 ml, fundo cônico, graduado, não estéril, autoclavável, tampa rosqueável: para coleta de amostras biológicas",7545793,56,6,ATIVO,PACOTE,447.6,74.6

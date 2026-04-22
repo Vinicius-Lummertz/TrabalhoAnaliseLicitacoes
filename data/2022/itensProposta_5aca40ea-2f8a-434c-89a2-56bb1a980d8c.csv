@@ -1,0 +1,151 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",7273650,10000,VENCEU,UNI,600,0.06
+"Atestado Médico",7273651,1000,PERDEU,BLC,2650,2.65
+"Atestado Médico para Gestantes",7273652,100,VENCEU,BLC,355.5,3.555
+"Auto para coleta de água para consumo humano- 2 vias autocop",7273653,50,PERDEU,BLC,595.5,11.91
+"Auto de intimação vigilancia sanitaria",7273654,70,VENCEU,BLCO,919.8,13.14
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",7273655,120,PERDEU,BLC,414.72,3.456
+"Bacteriologia da tuberculose .",7273656,30,PERDEU,BLC,150,5
+"BOLETIM DE ATENDIMENTO MEDICO",7273657,500,PERDEU,BLC,1475,2.95
+"Boletim de Campo FAD RG 01",7273658,800,PERDEU,BLCO,2360,2.95
+"Boletim de Campo FAD RG 02",7273659,400,DESCLASSIFICADO_LANCE,BLCO,2360,5.9
+"BPA individualiazado 2 vias autocopiativo",7273660,30,PERDEU,BLC,375,12.5
+"Condição Sócio Econômica- CAPS II",7273661,10,PERDEU,BLC,150,15
+"Consentimento informado - 2 vias autocopiativo",7273662,35,PERDEU,BLC,402.5,11.5
+"Controle de TOD",7273663,100,PERDEU,BLCO,360,3.6
+"Cuidados para vasectomia- 23x16 cm 2 vias autocopiativo",7273664,40,PERDEU,BLC,318,7.95
+"Dados do atendimento do paciente- RAAS CAPS II",7273665,40,PERDEU,BLC,200,5
+"Dados do atendimento do paciente- RAAS CAPS III",7273666,40,PERDEU,BLC,200,5
+"Declaração de Comparecimento",7273667,500,PERDEU,BLC,1323,2.646
+"DOTS- Planilha Acompanhamento de Tratamento",7273668,7,PERDEU,BLC,140,20
+"Estudo sócio-econômica CAPS II ad-",7273669,10,PERDEU,BLC,140,14
+"Etique laboratório Dengue (picotado)",7273670,10,PERDEU,BLC,140,14
+"Ficha clínica odontológica.",7273671,250,PERDEU,BLC,937.5,3.75
+"Ficha clínica Tuberculose",7273672,10,PERDEU,BLC,140,14
+"Ficha Controle de Atendimento frente e verso",7273673,20000,PERDEU,UNI,1000,0.05
+"Ficha de acolhimento CAPS II ad 4 páginas",7273674,40,PERDEU,BLC,560,14
+"Ficha de acolhimento CAPS II.",7273675,40,PERDEU,BLC,220,5.5
+"Ficha de acolhimento CAPS III",7273676,40,PERDEU,BLC,220,5.5
+"Ficha de atendimento SAMU .",7273677,400,PERDEU,BLC,3480,8.7
+"Ficha de cadastro individual e-sus frente e verso",7273678,300,PERDEU,BLC,1050,3.5
+"ficha de Observação do animal agressor",7273679,20,PERDEU,BLCO,161.82,8.091
+"Ficha de Procedimento e-sus- frente e verso",7273680,50,PERDEU,BLC,240,4.8
+"Ficha de Visita Domiciliar E-SUS",7273681,100,PERDEU,BLC,400,4
+"Ficha individual: de notificação de laqueadura tubária e vas",7273682,100,PERDEU,BLC,1000,10
+"Ficha nominal- Programa Tuberculose- (papel offset 180gr)",7273683,300,PERDEU,UN,120,0.4
+"Fluxo e contra-fluxo",7273684,300,PERDEU,BLC,900,3
+"Memorando interno.",7273685,250,PERDEU,BLC,1375,5.5
+"Monitoramento das doenças Diarreicas Agudas- distribuição de",7273686,20,PERDEU,BLCO,200,10
+"Monitoramento das doenças Diarreicas Agudas-",7273687,20,PERDEU,BLCO,200,10
+"Orientações CAPS III-30x21cm - 1x1",7273688,40,PERDEU,BLCO,240,6
+"Planilha de visitas domiciliares- CAPS II",7273689,10,PERDEU,BLC,130,13
+"Plano Terapêutico singular CAPS II ad- 30x21cm",7273690,20,PERDEU,BLCO,189.6,9.48
+"Prescrição de Óculos",7273691,20,PERDEU,BLC,180,9
+"Programa de Combate a Tuberculose.",7273692,15,PERDEU,BLC,195,13
+"Programa de controle da febre amarela dengue",7273693,10000,PERDEU,UNI,900,0.09
+"Programa de Planejamento Familiar",7273694,80,PERDEU,BLCO,360,4.5
+"Programa Nacional de Controle da Dengue - PNCD",7273695,800,PERDEU,BLC,2360,2.95
+"Proposta de tratamento CAPS II ad",7273696,10,PERDEU,BLC,180,18
+"Receituário B1",7273697,8000,PERDEU,BLCO,4800,0.6
+"Receituário B2- cor azul",7273698,500,PERDEU,BLC,460,0.92
+"Receituário retinóide",7273699,50,PERDEU,BLCO,122,2.44
+"Receituário simples",7273700,8000,PERDEU,BLC,10800,1.35
+"Registro de falta de paciente a atendimento odontológico",7273701,10,PERDEU,BLCO,160,16
+"Registro Diário de Atividades",7273702,800,PERDEU,BLCO,2560,3.2
+"Relatório Sócio Econômico",7273703,50,PERDEU,BLC,575,11.5
+"SINAN - Acidente de Trabalho Grave",7273704,20,PERDEU,BLC,179.8,8.99
+"SINAN - Acidentes por animais peçonhentos - frente e verso",7273705,10,PERDEU,BLC,180,18
+"SINAN - Intoxicação exógena - 30x21cm -1x1",7273706,10,PERDEU,BLC,180,18
+"SINAN- Atendimento Anti-Rábico Humano",7273707,20,PERDEU,BLCO,179.8,8.99
+"SINAN- Doenças exantemáticas febris",7273708,10,PERDEU,BLC,180,18
+"SINAN- Ficha de investigação da dengue",7273709,10,PERDEU,BLC,180,18
+"SINAN -Ficha de Notificação/ Conclusão",7273710,10,PERDEU,BLCO,180,18
+"SINAN- Síndrome Respiratória Aguda grave",7273711,10,PERDEU,BLC,180,18
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",7273712,30,PERDEU,BLC,202.5,6.75
+"SINAN-Ficha de investigação Hepatites Virais-frente e verso",7273713,10,PERDEU,BLCO,180,18
+"SINAN-Ficha de notificação/ investigação Tuberculose",7273714,10,PERDEU,BLC,180,18
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",7273715,50,PERDEU,BLC,225,4.5
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",7273716,30,PERDEU,BLC,175.5,5.85
+"Solicitação de Eletrocardiograma",7273717,70,PERDEU,BLC,346.5,4.95
+"Termo de compromisso - CAPS III",7273718,20,PERDEU,BLC,179.8,8.99
+"Termo de responsabilidade - CAPS III",7273719,20,PERDEU,BLC,178,8.9
+"Termo de solicitação e informação 2 vias autocopiativo",7273720,70,PERDEU,BLC,661.5,9.45
+"Tratamento cirúrgico",7273721,5000,PERDEU,UN,300,0.06
+"Receituário de Controle especial - 2 vias autocopiativo",7273722,6000,PERDEU,BLC,25800,4.3
+"BANNER 0,90 X 1,20",7273723,120,NAO_COTOU,UND,0,0
+"Folder 297x21cm 2 dobras",7273724,12500,PERDEU,UN,4875,0.39
+"Folder 297x21cm 3 dobras- papel couche",7273725,18000,PERDEU,UN,7560,0.42
+"Folder 57x21cm, 4x4 cores em couche",7273726,18000,NAO_COTOU,UNI,0,0
+"Folheto 14x22cm, 4x4 cores em couche brilho 150g",7273727,1500,PERDEU,UND,405,0.27
+"Folder 40x21 cm",7273728,2000,PERDEU,UNI,720,0.36
+"Folder 297x21 3 dobras - papel couche;  cor 4x0 colorido, br",7273729,2500,PERDEU,UN,675,0.27
+"Folheto 10,5x19,5cm em couche",7273730,3000,PERDEU,UN,570,0.19
+"Folder 297x21cm 2 dobras colorido, brilho",7273731,30000,PERDEU,UN,11400,0.38
+"Folder 297x21cm 3 dobras- papel couche colorido",7273732,30000,PERDEU,UNI,11400,0.38
+"Folder 20x21cm 1 dobra",7273733,12000,PERDEU,UN,3600,0.3
+"Panfleto 15x21cm papel couche colorido 4x4",7273734,25000,PERDEU,UNI,6000,0.24
+"Panfleto 15x21cm  papel couche 150g ; cor 4x4 colorido",7273735,10000,PERDEU,UND,3700,0.37
+"Placa - adesivo 35,5x21cm papel couche",7273736,500,NAO_COTOU,UNI,0,0
+"Faixa em lona 440g, colorida",7273737,70,NAO_COTOU,UN,0,0
+"Placa Adesiva 20x10 cm, 4 cores em adesivo vinil",7273738,500,NAO_COTOU,UN,0,0
+"Placa adesivada em os 2mm, 30x11,5cm",7273739,500,NAO_COTOU,UN,0,0
+"Placa adesivada em os 2mm, 40x30cm",7273740,300,NAO_COTOU,UN,0,0
+"Placa adesivada 2mm, 30x11cm impressão colorida",7273741,500,NAO_COTOU,UN,0,0
+"Pasta com Orelha com medidas aproximadas de 31x22cm",7273742,3000,PERDEU,UN,2670,0.89
+"Placa de identificação interna para os ambientes da UBS",7273743,800,NAO_COTOU,UN,0,0
+"Totem confeccionado em PVC, 3mm",7273744,100,NAO_COTOU,UNI,0,0
+"Bloco de formulário 2 vias com papel carbono",7273745,100,PERDEU,BLC,896,8.96
+"Bloco de formulário 2 vias com papel carbono: conforme modelo a ser encaminhado (“Comunicado de Visita – Escorpiões”; tamanho: 21,0 x 14,5 cm);",7273746,100,PERDEU,BLC,555,5.55
+"Caderneta da gestante",7273747,13500,DESCLASSIFICADO_LANCE,UN,60075,4.45
+"Caderneta da gestante",7405121,4500,PERDEU,UN,20025,4.45
+"Confecção de crachá",7273748,1500,NAO_COTOU,UN,0,0
+"Livro: Guia Alimentar para a população Brasileira (2014) na versão “de bolso”",7273749,500,PERDEU,UND,6795,13.59
+"Livro: Guia Alimentar para Menores de 2 anos (BRASIL, 2019)",7273750,250,PERDEU,UND,21000,84
+"Livro: Guia Alimentar para a População Brasileira (BRASIL, 2014)",7273751,250,PERDEU,UND,21250,85
+"Livro: Metodologia de trabalho em Grupos para Ações de Alimentação para Ações de Alimentação e Nutrição na Atenção Básica (BRASIL, 2016)",7273752,25,NAO_COTOU,UND,0,0
+"Livro: Na Cozinha com  as Frutas, Legumes e Verduras (BRASIL, 2016)",7273753,25,NAO_COTOU,UND,0,0
+"Livro: Desmistificando dúvidas sobre alimentação e nutrição (Brasil, 2016),",7273754,25,NAO_COTOU,UND,0,0
+"Placa de fachada confeccionado em ACM, 3mm,  para as diversas UBS, dimensão:    3,00   m   comp    x    1,50     larg. Fixação na fachada através de  parafusos.",7273755,75,NAO_COTOU,UND,0,0
+"Placa de fachada confeccionado em ACM, 3mm,  para as diversas UBS, dimensão:    3,00   m   comp    x    1,50     larg. Fixação na fachada através de  parafusos.",7405449,25,NAO_COTOU,UND,0,0
+"Placa fachada confeccionada em ACM  3mm,  para as UBS credenciadas no Programa Saúde na Hora, dimensão:    3,00   m   comp    x    1,50     larg",7273756,20,NAO_COTOU,UND,0,0
+"Totem externo com iluminação frontal para identificação de UBS credenciadas no Programa Saúde na Hora.Deverá atender o Manual do Programa Saúde na Hora do governo federal",7273757,15,NAO_COTOU,UND,0,0
+"Totem externo com iluminação frontal para identificação de UBS credenciadas no Programa Saúde na Hora.Deverá atender o Manual do Programa Saúde na Hora do governo federal",7405587,5,NAO_COTOU,UND,0,0
+"Mapa do município atualizado com territorialização e divisão das microáreas de cada UBS, na dimensão: 1,20m comp x 0,90m altura.",7273758,100,NAO_COTOU,UND,0,0
+"Banner -  em lona com alta qualidade de impressão e acabamento gráfico. Mídia espessa de alta gramatura com 440g/m2 e 4 cores de impressão na frente. Acabamento com canaletas e cordão suspenso.  Tamanho 90 x 120 cm.",7273759,200,NAO_COTOU,UND,0,0
+"Totem 3 faces + iluminação externa, 65x350cm, 4xo cores para identificação de Unidade de Pronto Atendimento 24horas (UPA 24h|).",7273760,4,NAO_COTOU,UND,0,0
+"Placa frente em lona front light, refile, corte reto, alicação local, 500 x 175cm, 4x0 cores, para identificação de Unidade de Pronto Atendimento 24horas (UPA 24h|)",7273761,4,NAO_COTOU,UND,0,0
+"Placa em chapa + suporte 150 x 75cm, placa de rua, 150 x 75cm, 4x0 cores em adesivo vinil branco brilho.",7273762,10,NAO_COTOU,UND,0,0
+"Placa frente em lona front light, refile, corte reto, alicação local, 500 x 175cm, 4x0 cores",7273763,10,NAO_COTOU,UND,0,0
+"Papel adesivo contact fosco, lavável, cor preta, rolo 10m x 45cm",7273764,60,NAO_COTOU,RL,0,0
+"Adesivos  10x15cm",7273505,2000,NAO_COTOU,UND,0,0
+"Adesivos 20x25cm",7273506,2000,NAO_COTOU,UNI,0,0
+"Adesivo 30x45cm",7273507,2000,NAO_COTOU,UNI,0,0
+AGENDA,7273508,500,NAO_COTOU,UND,0,0
+"Apostila  Libras",7273509,300,NAO_COTOU,UND,0,0
+"Banner  0,50 cm x 1,00 m",7273510,100,NAO_COTOU,UND,0,0
+"Banner 1,20 cm x 1,30 m",7273511,100,NAO_COTOU,UND,0,0
+"Banner Tamanho 1,20 cm x 1,50 m",7273512,100,NAO_COTOU,UND,0,0
+"Bloco de anotações",7273513,2500,PERDEU,UND,13475,5.39
+"Bloco de anotações Tamanho 18x10cm fechado",7273514,2500,PERDEU,UND,14150,5.66
+"Caderno desafio fácil.",7273515,1200,PERDEU,UND,7140,5.95
+"Caderno para baixa visão",7273516,200,NAO_COTOU,UND,0,0
+"capa de transferencia .",7273517,10000,PERDEU,UND,5700,0.57
+"Cartões (Dia do Professor, Diretor)",7273518,250,PERDEU,UND,387.5,1.55
+Convites.,7273519,800,PERDEU,UND,1192,1.49
+"Diretriz Curricular da Educação Infantil.",7273520,1000,PERDEU,UND,37000,37
+"Diretriz Curricular do Ensino Fundamental",7273521,750,PERDEU,UND,33750,45
+"Diretriz Curricular do Ensino Fundamental",7405746,250,PERDEU,UND,21250,85
+"Faixa em lona   250 x 70 cm",7273522,100,NAO_COTOU,UNI,0,0
+"Faixa 60x60cm",7273523,100,NAO_COTOU,UNI,0,0
+"Impressão colorida digital tamanho A3",7273524,2000,NAO_COTOU,UND,0,0
+"Informativo  Aberto: 42x29,7 cm",7273525,3000,NAO_COTOU,UND,0,0
+"Informativo: 27x20,5 cm",7273526,5000,DESCLASSIFICADO_LANCE,UNI,2750,0.55
+"Livro de histórias criação dos alunos",7273527,4165,NAO_COTOU,UND,0,0
+"Livro de histórias criação dos alunos",7411084,835,NAO_COTOU,UND,0,0
+"Livro didático da História de Criciúma",7273528,1500,PERDEU,UND,42000,28
+"Livro didático da História de Criciúma",7412207,500,PERDEU,UND,25000,50
+"Livro PME - Plano Municipal da Educação",7273529,3000,PERDEU,UND,28500,9.5
+"Livro PME - Plano Municipal da Educação",7413420,1000,PERDEU,UND,16500,16.5
+"Revista 15x21cm",7273530,10000,DESCLASSIFICADO_LANCE,UNI,29500,2.95
+"Revista 20x21cm",7273531,7000,DESCLASSIFICADO_LANCE,UNI,23100,3.3
+"Revista 30x21cm",7273532,7000,DESCLASSIFICADO_LANCE,UND,26250,3.75

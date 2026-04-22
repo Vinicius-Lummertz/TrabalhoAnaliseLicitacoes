@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dreno de concreto D=0,40 perfurado",1299698,4,1200,ATIVO,METRO,28680,23.9
+"Dreno de concreto D=1,00 CA 1",1299699,8,400,ATIVO,METRO,62000,155
+"Dreno de concreto D=0,40",1301781,3,2000,ATIVO,METRO,41800,20.9
+"Dreno de concreto D=0,30",1305851,2,3000,ATIVO,METRO,51000,17

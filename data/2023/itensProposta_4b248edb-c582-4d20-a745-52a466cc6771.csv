@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmpada multivapor metálico 1000w, bulbo tubolar, E-40, vida útil mínima de 9.000h, Im 85000 lumens",10967571,35,PERDEU,PC,35000,1000
+"Lâmpada vapor sódio alta pressão 400w, bulbo tubolar, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 58.000 lumens, com Selo Procel",10967579,100,PERDEU,PC,100000,1000
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",10967580,7500,PERDEU,UND,3750000,500
+"Luminária para iluminação pública de alumínio difusor policarbonato injetado, conjunto óptico IP65, bocal E-40 reforçado para instalar em braço de 48,3mm, refletor em aluminio estampado e escalonado, pescoço de alumínio injetado na cor cinza, para lâmpada de sódio até 400w",10967581,140,PERDEU,UND,140000,1000
+"Luminária para iluminação pública LED, potência máxima de 100W, fluxo mínimo de 15.000 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967584,50,PERDEU,PC,150000,3000
+"MiniDisjuntor monofásico 10 A, curva C, padrão IEC",10967590,84,PERDEU,UND,799.68,9.52
+"MiniDisjuntor monofásico 16 A, curva C, padrão IEC",10967591,84,PERDEU,UND,799.68,9.52
+"MiniDisjuntor monofásico 25 A, curva C, padrão IEC",10967592,84,PERDEU,UND,799.68,9.52
+"MiniDisjuntor monofásico 50 A, curva C, padrão IEC",10967593,84,PERDEU,UND,1037.4,12.35
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",10967594,20,PERDEU,UND,3409.6,170.48
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",10967595,34,PERDEU,UND,1615,47.5
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",10967596,34,PERDEU,UND,1615,47.5
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",10967597,34,PERDEU,UND,1615,47.5

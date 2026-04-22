@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 500mg cpr.",1265479,9,450000,ATIVO,COMPRIMIDO,152550,0.339
+"Amiodarona 200mg cpr, em blister.",1265480,21,220000,ATIVO,COMPRIMIDO,107360,0.488
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral",1265481,32,12000,ATIVO,FRASCO,59760,4.98
+"Estrogênios conjugados 0,625mg cpr, em blister.",1265482,112,50400,ATIVO,COMPRIMIDO,34524,0.685
+"Permetrina 50mg/mL loção, frasco 60ml.",1328340,212,3000,ATIVO,FRASCO,6450,2.15
+"Doxiciclina 100mg cpr, em blister.",1328342,103,3000,ATIVO,COMPRIMIDO,409.5,0.1365
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",1328343,86,3000,ATIVO,BISNAGA,20011.2,6.6704
+"Claritromicina 500mg comprimido, em blister.",1328344,69,1000,ATIVO,COMPRIMIDO,2273.8,2.2738
+"Ácido Valproico 250mg capsula.",1328345,8,320000,ATIVO,CAPSULA,55680,0.174
+"Permetrina 10mg/mL loção, frasco 60ml.",1328350,211,7000,ATIVO,FRASCO,9053.8,1.2934

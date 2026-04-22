@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atadura de algodão Ortopédico 15 cm",1262577,20,50,ATIVO,PACOTE,525,10.5
+"Atadura Gessada 100% algodão 8 cm",1262578,22,50,ATIVO,UNIDADE,42.5,0.85
+"Atadura Gessada 100% algodão 12 cm",1262579,24,100,ATIVO,UNIDADE,150,1.5
+"Atadura Gessada 100% algodão 15 cm",1262580,25,100,ATIVO,UNIDADE,175,1.75
+"Esparadrapo Impermeável e Hipoalérgico, com capa 10cm x 4,5m",1262581,94,1880,ATIVO,UNIDADE,8366,4.45
+"Soro Glicosado 250ml (solução de glicose a 5%).",1262583,227,1000,ATIVO,UNIDADE,2240,2.24
+"Soro Glicosado 500ml (solução de glicose a 5%).",1262594,228,1000,ATIVO,UNIDADE,2800,2.8

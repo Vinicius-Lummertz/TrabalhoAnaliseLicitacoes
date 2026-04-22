@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Luva para Goleiro",5252103,4,10,ATIVO,PAR,499,49.9
+"BOLA DE VOLEI",5252104,8,150,ATIVO,UNIDADE,17235,114.9

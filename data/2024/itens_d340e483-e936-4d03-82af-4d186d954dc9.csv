@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Estabilizador 1000 VA",6781020,10,40,ATIVO,UNIDADE,17280,432
+"Monitor para computador 24""",6781021,14,40,ATIVO,UNIDADE,55120,1378
+"Impressora multifuncional jato de tinta tanque",6976050,11,0,ATIVO,UNIDADE,0,1250

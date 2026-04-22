@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Reanimador manual adulto",1269417,37,20,ATIVO,UNIDADE,3640,182
+"Reanimador manual infantil",1269418,36,15,ATIVO,UNIDADE,2730,182
+"Órtese de Philadelphia",1269419,30,5,ATIVO,UNIDADE,515,103
+"MULETA AXILAR",1269420,19,20,ATIVO,PAR,2833.4,141.67
+"Meia ¾ de alta compressão p/m/g/gg",1269421,15,10,ATIVO,PAR,2680,268
+"CADEIRA DE RODAS INFANTIL Auto-Propulsável",1269422,7,10,ATIVO,UNIDADE,18880,1888
+"CADEIRA DE RODAS PARA BANHO COM ASSENTO SANITARIO SIMPLES",1269423,6,30,ATIVO,UNIDADE,6599.7,219.99
+"Meia ¾ de média compressão p/m/g/gg",1269425,16,10,ATIVO,PAR,2680,268

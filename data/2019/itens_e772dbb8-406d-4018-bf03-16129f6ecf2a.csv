@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papelão Paraná",1298670,59,100,ATIVO,PACOTE,3200,32
+"Bloco de Papel para desenho na cor branca formato A3",1300735,15,1820,ATIVO,BLOCO,8026.2,4.41
+"Cola Branca 100g",1308863,33,2000,ATIVO,UNIDADE,4400,2.2
+"Tesoura de picotar",1312878,71,100,ATIVO,UNIDADE,2450,24.5
+"Régua de alumínio 30 cm",1312879,67,1820,ATIVO,UNIDADE,4277,2.35
+"Pasta L",1312880,60,50,ATIVO,PACOTE,207.5,4.15
+"Tinta PVA para artesanato",1315063,75,100,ATIVO,UNIDADE,436,4.36
+"Lápis preto de grafite nº 2.",1315066,52,500,ATIVO,CAIXA,10200,20.4
+"Apagador para Quadro Branco.",1341715,1,400,ATIVO,UNIDADE,988,2.47
+"Compasso escolar",1341716,35,1820,ATIVO,UNIDADE,6006,3.3
+"Giz branco plastificado",1341717,42,1000,ATIVO,CAIXA,1550,1.55
+"Giz colorido plastificado",1341718,43,1000,ATIVO,CAIXA,1900,1.9
+"Lápis colorido.",1341719,50,1000,ATIVO,CAIXA,2750,2.75
+"PINCEL ATOMICO",1341720,61,1000,ATIVO,UNIDADE,860,0.86
+"Pincel para Quadro Branco Recarregável",1341721,63,2000,ATIVO,UNIDADE,1800,0.9
+"Tesoura de ponta arredondada",1341722,72,4000,ATIVO,UNIDADE,4720,1.18

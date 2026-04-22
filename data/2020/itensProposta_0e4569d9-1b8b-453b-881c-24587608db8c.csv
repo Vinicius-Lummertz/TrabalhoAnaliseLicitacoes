@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de serralheiro/soldador (mão de obra) sem deslocamen",0,200,VENCEU," ",11850,59.25
+"Serviço de serralheiro/soldador (mão de obra) com deslocamen",0,200,VENCEU," ",17064,85.32
+"Fabricação e instalação grade metálica em cantoneira 3/4 x",0,15,VENCEU," ",2453.1,163.54
+"Fabricação e instalação de corrimão metálico em cano 2 e 1",0,60,VENCEU," ",8390.4,139.84
+"Fabricação e instalação de cerca metálica em tubo 30x30",0,15,VENCEU," ",2773.05,184.87
+"Fabricação e instalação de portão de correr metálico em tubo",0,15,VENCEU," ",3519.6,234.64
+"Fabricação e instalação de porta metálica em tubo 30x30",0,15,VENCEU," ",3484.05,232.27
+"Reforma (material + mão de obra) de motor de portão eletrôni",0,5,VENCEU," ",2239.75,447.95
+"Fabricação e instalação de lixeira metálica de 0,40x0,60x1,2",0,20,VENCEU," ",13225.2,661.26

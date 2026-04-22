@@ -1,0 +1,74 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bandeja p esterilização fabricada em aço inox",20490913,300,PERDEU,UND,21924,73.08
+"CANETA DE ALTA ROTACAO",20490918,80,INABILITADO,UN,74467.2,930.84
+"Coletor de material perfuro cortante 3L. Caixa com 10 unidades",20490924,60,PERDEU,CX,3197.4,53.29
+"Conjunto de CONTRA ÂNGULO E MICRO MOTOR",20490925,20,DESCLASSIFICADO,UN,42526,2126.3
+"Cuba Inox Redonda 10cm",20490927,25,PERDEU,UND,1069.75,42.79
+"Fórceps 18L",20490954,100,PERDEU,UND,13298,132.98
+"FÓRCEPS 18R",20490955,100,PERDEU,UNID,13298,132.98
+"FORCEPS Nº150",20490956,100,PERDEU,UNI,8590,85.9
+"FORCEPS Nº151",20490957,100,PERDEU,UNI,13298,132.98
+"Fórceps nº17",20490958,100,PERDEU,UN,13298,132.98
+"Fórceps nº68",20490959,100,PERDEU,UN,13298,132.98
+"Fórceps nº69",20490960,100,PERDEU,UN,8396,83.96
+"Pinça Hemostática KELLY RETA 14cm",20490981,10,PERDEU,UND,338.5,33.85
+"Pinça Hemostática KELLY curva 16cm",20490982,10,PERDEU,UN,581.7,58.17
+"Pinça Mosquito 12cm curva",20490983,10,PERDEU,UND,430.8,43.08
+"Porta agulha Mayo-Hager 15 cm",20490987,170,PERDEU,UN,10281.6,60.48
+"Porta Agulha Orto Mathieu 14cm",20490988,10,PERDEU,UN,695.3,69.53
+"Porta algodão e/ou resíduos, em aço inox.",20490989,200,VENCEU,UND,10084,50.42
+"Seringa Carpule com refluxo-12,5cm",20490996,350,PERDEU,UN,21794.5,62.27
+"suporte de fixação para coletor perfuro cortante 3l",20491003,50,PERDEU,UNID,1516.5,30.33
+"Suporte de envelope para autoclave - esterilização  de 13 envelopes",20491004,50,VENCEU,UND,5979.5,119.59
+"Tesoura cirúrgica IRIS reta 12cm",20491006,250,PERDEU,UN,4692.5,18.77
+"Tesoura cirúrgica MAYO reta 14cm",20491007,250,PERDEU,UN,14855,59.42
+"Tesoura Metzenbaum Curva 15cm",20491008,50,PERDEU,UN,2035,40.7
+"Agulha gengival CURTA descartável",20491019,420,PERDEU,CX,50034.6,119.13
+"Agulha gengival EXTRA CURTA descartavel.",20491020,75,VENCEU,CX,1867.5,24.9
+"agulha gengival longa descartável",20491021,100,PERDEU,CXA,11913,119.13
+"Algodão em roletes.",20491025,3000,PERDEU,PCT,20490,6.83
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.000",20491028,200,PERDEU,CX,54306,271.53
+"Anestésico LIDOCAÍNA 2% COM vasoconstritor epinefrina 1:100.000",20491029,600,PERDEU,CX,112398,187.33
+"Anestésico MEPIVACAÍNA 2% COM vasoconstritor epinefrina 1:100.000",20491030,600,PERDEU,CX,101706,169.51
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",20491031,50,PERDEU,CX,8300,166
+"Avental RX para Paciente Adulto",20491035,1,VENCEU,UN,614.48,614.48
+"Avental RX para Paciente Infantil",20491036,1,PERDEU,UN,760.84,760.84
+"Babador Impermeável  para uso  odontológico – Pacote com 100 und. descartável",20491039,900,PERDEU,PCT,24786,27.54
+"Campo cirúrgico 60X60 cm",20491110,70,PERDEU,UN,6730.5,96.15
+"Campo cirúrgico fenestrado 50x50cm",20491111,70,PERDEU,UN,8750,125
+"Compressas de Gaze Hidrófila 09 fios",20491127,1500,PERDEU,PCT,39300,26.2
+"Escova dental adulto macia",20491196,100,PERDEU,PCT,4765,47.65
+"Escova dental infantil macia",20491197,100,PERDEU,PCT,4070,40.7
+"Filme Periapical ADULTO E-speed – ultra rápido",20491210,1,PERDEU,CX,264.5,264.5
+"Filme Periapical INFANTIL E-speed  - ultra rapido.",20491211,1,PERDEU,CX,304.15,304.15
+"Fio agulhado SEDA 3.0/EP2",20491212,100,PERDEU,CX,5900,59
+"Fio dental bucal - Rolo 500 metros",20491219,100,PERDEU,UND,1615,16.15
+"Flúor gel acidulado mínima de 1,23% de flúor-200 ml",20491226,500,PERDEU,FR.,5050,10.1
+"Kit de higiene bucal adulto",20491248,20000,PERDEU,KIT,153000,7.65
+"Luva Látex não Estéril p/ Procedimento médico  não cirúrgico sem Pó – tamanho  P.",20491304,1500,DESCLASSIFICADO,CX,55260,36.84
+"Luva Látex não Estéril p/ Procedimento médico  não cirúrgico sem Pó – tamanho  M",20491305,1500,DESCLASSIFICADO,CX,55260,36.84
+"Papel toalha interfolhado 20x21,5cm",20491324,1400,INABILITADO,PCT,39872,28.48
+"Pasta profilática com granulação média com flúor",20491328,300,PERDEU,TBO,3258,10.86
+"Pincel aplicador Micro brush ponta extrafina",20491333,250,PERDEU,CX,6635,26.54
+"Pincel aplicador Micro brush ponta regular",20491334,500,PERDEU,CX,13270,26.54
+"Resina composta de baixa viscosidade (flow) cor A3",20491372,500,PERDEU,SRS,16765,33.53
+"Seringa descartável 20ml com Agulha LuerLock 25x7 22G",20491385,2000,VENCEU,UN,780,0.39
+"Seringa descartável 10ml com agulha Luer Lock 25x7 22G",20491386,2000,VENCEU,UND,580,0.29
+"Sobre luva plástica descartável -  Embalagem com 100 unidades",20491387,500,VENCEU,EMB,1170,2.34
+"Spray congelante -50º / 200ml para teste de vitalidade pulpa",20491389,170,PERDEU,FR.,7408.6,43.58
+"Sugador de saliva descartável 150mm x 0,65mm",20491392,2000,PERDEU,PCT,24580,12.29
+"Aparelho de ultrassom odontológico",20491405,10,DESCLASSIFICADO,UN,50053.3,5005.33
+"Autoclave 21 litros",20491406,20,DESCLASSIFICADO,UN,143052.8,7152.64
+"AUTOCLAVE 54 LITROS",20491407,3,DESCLASSIFICADO,UNID,69131.46,23043.82
+"BOMBA VÁCUO",20491408,10,DESCLASSIFICADO,UN,60609.6,6060.96
+"COMPRESSOR ODONTOLÓGICO EM FERRO FUNDIDO.",20491409,10,DESCLASSIFICADO,UND,53983.3,5398.33
+"CUBA ULTRASSONICA 2,6 A 3 LITROS",20491411,5,DESCLASSIFICADO,UN,5549.75,1109.95
+"DESTILADORA DE ÁGUA",20491413,1,DESCLASSIFICADO,UND,1436.12,1436.12
+"Fotopolimerizador sem fio",20491414,10,DESCLASSIFICADO,UN,17452.9,1745.29
+"Peça Reta odontológica",20491415,5,DESCLASSIFICADO,UND,3704.8,740.96
+"LASER DE ALTA E BAIXA. COM SISTEMA WIRELESS SEM FIO",20491416,2,DESCLASSIFICADO,UN,9463.62,4731.81
+"Localizador apical eletrônico",20491417,1,DESCLASSIFICADO,UN,2207.82,2207.82
+"Mocho Odontológico.",20491421,10,DESCLASSIFICADO,UN,9744.3,974.43
+"Motor Endodôntico Elétrico",20491422,1,DESCLASSIFICADO,UN,6616.37,6616.37
+"RAIO-X PORTÁTIL",20491424,1,DESCLASSIFICADO,UN,17813.2,17813.2
+"Seladora térmica digital",20491425,5,DESCLASSIFICADO,UNI,4823.55,964.71

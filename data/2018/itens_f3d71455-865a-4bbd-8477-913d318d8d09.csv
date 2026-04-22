@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BATERIA 9 VOLTS.",1262219,7,100,ATIVO,CARTELA,299,2.99
+"CANETA DESTACA TEXTO",1262220,16,80,ATIVO,CAIXA,708,8.85
+"Corretivo líquido.",1262222,22,20,ATIVO,CAIXA,190.8,9.54
+"Fita adesiva branca",1262223,29,300,ATIVO,UNIDADE,594,1.98
+"Fita adesiva marron",1262224,30,300,ATIVO,UNIDADE,861,2.87
+"Fita adesiva plastica transparente 12mm x 30 mts",1262225,31,250,ATIVO,UNIDADE,117.5,0.47
+"Fita dupla face emborrachada 19x30",1262226,34,40,ATIVO,UNIDADE,147.2,3.68
+"Pasta arquivo de A-Z  tamanho oficio",1262227,51,100,ATIVO,UNIDADE,610,6.1
+"Pen drive de 8 Gb, USB 2.0",1262228,56,15,ATIVO,UNIDADE,252,16.8
+"Pen drive de 16 Gb, USB 2.0",1262229,57,10,ATIVO,UNIDADE,216,21.6
+"Tesoura Doméstica",1262230,65,50,ATIVO,UNIDADE,191.5,3.83

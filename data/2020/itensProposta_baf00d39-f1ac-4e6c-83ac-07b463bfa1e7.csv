@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubos em cobre Classe A",4443908,1,VENCEU,CNJ,208300,208300
+"Central de vácuo duplex",4443909,1,VENCEU,CNJ,58500,58500
+"Central de ar comprimido medicinal",4443910,1,VENCEU,CNJ,9750,9750
+"Central de gás oxigênio medicinal",4443911,1,VENCEU,CNJ,9750,9750
+"Fluxômetro O2",4443912,118,VENCEU,UN,8348.5,70.75
+"Fluxômetro ar",4443913,11,VENCEU,UN,836,76
+"Regulador de posto de O2",4443914,11,VENCEU,UN,1814.34,164.94
+"Regulador de Posto de Ar",4443915,11,VENCEU,UNI,1949.86,177.26
+"Umidificador com fraco O2",4443916,118,VENCEU,UN,6618.62,56.09
+"Umidificador com fraco ar",4443917,11,VENCEU,UN,616.66,56.06
+Vacuometro,4443918,11,VENCEU,UN,1531.2,139.2
+"Tomada dupla para O2",4443919,70,VENCEU,UN,6608,94.4
+"Regulador de cilindro O2 com fluxometro",4443920,3,VENCEU,UN,885,295
+"Carrinho suporte torpedos",4443921,3,VENCEU,UN,2004,668

@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Micropipeta monocanal",4500098,4,DESCLASSIFICADO,UN,1548,387
+"Frasco de vidro",4500099,500,VENCEU,UN,5450,10.9
+"Tubo de ensaio em vidro",4500100,300,DESCLASSIFICADO,UN,1995,6.65
+"Tubo capilar  sem heparina",4500101,2,VENCEU,UN,99.3,49.65
+Cremômetro,4500102,1,VENCEU,UN,565,565
+"CENTRÍFUGA p/ Microhematócrito Digital - Digital",4500103,1,VENCEU,UN,5000,5000
+"Banho Maria para Pasteurização de Leite Humano",4500104,1,PERDEU,UN,21300,21300
+"Bomba extratora de leite materno",4500105,10,INABILITADO,UN,2200,220

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.",14868472,300,VENCEU,CX,35100,117
+"Anestésico LIDOCAINA 2% COM vasocontritor epinefrina 1:100.0",14868473,100,PERDEU,CX,12500,125
+"Anestésico MEPIVACAÍNA 2% COM vasoconstritor epinefrina 1:100.000",14868474,400,VENCEU,CX,44000,110
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",14868475,150,PERDEU,CX,25500,170

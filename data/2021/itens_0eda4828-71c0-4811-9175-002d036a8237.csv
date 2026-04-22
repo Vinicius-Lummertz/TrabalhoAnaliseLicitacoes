@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA OXIGENADA",1299302,1,300,ATIVO,LITRO,1521,5.07
+"Soro Fisiológico 250ml",1301393,6,300,ATIVO,MILILITRO,912,3.04
+Esparadrapo,1313581,16,80,ATIVO,UNIDADE,670.4,8.38
+"Soro Fisiológico 100ml",1315730,5,400,ATIVO,MILILITRO,960,2.4
+"Atadura de crepom 15cm",1317778,19,1500,ATIVO,UNIDADE,1590,1.06
+"Fita Hipoalérgica Microporosa",1319807,17,50,ATIVO,UNIDADE,190.5,3.81
+"Atadura de crepom 20cm",1319813,20,2000,ATIVO,UNIDADE,2680,1.34

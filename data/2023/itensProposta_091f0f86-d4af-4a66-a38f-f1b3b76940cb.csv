@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",11967170,20000,PERDEU,AMP,7800,0.39
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",11967235,600,PERDEU,AMP,312,0.52
+"Cloreto de sódio 0,9%, sistema ABERTO, frasco 250ml.",11967237,36000,PERDEU,FR.,108000,3
+"Cloreto de sódio 0,9%, sistema ABERTO, frasco 100ml",11967238,8000,PERDEU,FRA,20000,2.5
+"Cloreto de sódio 0,9%, ampola 10ml.",11967239,24000,PERDEU,AMP,9360,0.39

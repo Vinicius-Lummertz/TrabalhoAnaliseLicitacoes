@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",4440898,320000,PERDEU,CPLA,64000,0.2
+"Ácido Valproico 500mg cpr.",4440899,450000,DESCLASSIFICADO,COMP,180000,0.4
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL,  acompanha c",4440916,10000,DESCLASSIFICADO,FR.,199000,19.9
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",4440918,450000,PERDEU,COMP,423000,0.94
+"Beclometasona 50mcg spray nasal com 200 doses, frasco 11,4ml",4440928,5000,VENCEU,FR.,78000,15.6
+"Carbamazepina 200mg cpr.",4440944,1600000,DESCLASSIFICADO,COMP,1232000,0.77
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",4440945,3000,DESCLASSIFICADO,FR.,49470,16.49
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",4440978,3000,DESCLASSIFICADO,BIS,47400,15.8
+"Estrogênios conjugados 0,625mg cpr, em blister.",4441004,50400,DESCLASSIFICADO,COMP,46368,0.92
+"Metilfenidato 10 mg cpr, em blister.",4441073,120000,DESCLASSIFICADO,COMP,117840,0.982
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",4441123,5000,DESCLASSIFICADO,FR.,39500,7.9

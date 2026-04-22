@@ -1,0 +1,27 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,75600,8.4
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,7935,2.645
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,338400,0.188
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,27250,0.109
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,53200,0.19
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,269955,0.5999
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,19000,19
+"Clopidogrel 75mg comprimido revestido, em blister.",11967233,280000,PERDEU,COMP,105000,0.375
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,PERDEU,AMP,12225,2.445
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,PERDEU,AMP,7300,1.46
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,7000,1.75
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,99000,0.0495
+"Enalapril, maleato 20mg cpr, em blister.",11967265,1500000,PERDEU,COMP,104550,0.0697
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,48000,0.12
+"Fenobarbital 100mg cpr, em blister.",11967276,420000,PERDEU,COMP,75600,0.18
+"Finasterida 5 mg cpr, em blister.",11967281,180000,PERDEU,COMP,60300,0.335
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",11967320,8000,PERDEU,COMP,4800.8,0.6001
+"Levotiroxina sódica 100mcg cpr, em blister.",11967326,550000,VENCEU,COMP,93390,0.1698
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,PERDEU,AMP,19824,2.478
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,12556,3.139
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,6600,3.3
+"Prometazina, cloridrato 25mg cpr, em blister.",11967380,450000,PERDEU,COMP,76500,0.17
+"Risperidona 1mg cpr, em blister.",11967382,480000,PERDEU,COMP,67200,0.14
+"Risperidona 2mg cpr, em blister.",11967383,600000,PERDEU,COMP,84000,0.14
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",11967388,24000,PERDEU,FR.,269520,11.23
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",11967412,4000,VENCEU,AMP,11319.6,2.8299

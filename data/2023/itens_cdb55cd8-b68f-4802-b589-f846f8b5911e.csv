@@ -1,0 +1,39 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 5mg cpr, em blister.",4525659,6,700000,ATIVO,COMPRIMIDO,25200,0.036
+"Ácido tranexâmico 50mg/ml amp 5ml.",4525660,9,500,ATIVO,AMPOLA,2200,4.4
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",4525661,12,6500,ATIVO,FRASCO,30095,4.63
+"Adenosina 3mg/mL, injetável, ampola 2ml.",4525662,13,500,ATIVO,AMP,4900,9.8
+"Água destilada 10mL ampola.",4525663,15,20000,ATIVO,AMP,5798,0.2899
+"Alendronato de sódio 70mg, blister com 4cpr.",4525664,19,30000,ATIVO,COMPRIMIDO,5097,0.1699
+"Aminofilina 24mg/mL, injetável, ampola 10ml.",4525665,22,200,ATIVO,AMP,1164,5.82
+"Anlodipino, besilato 5mg cpr, em blister.",4525666,31,2500000,ATIVO,COMPRIMIDO,70000,0.028
+"Captopril 25mg cpr, em blister.",4525667,52,1500000,ATIVO,COMPRIMIDO,30000,0.02
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",4525668,54,4000,ATIVO,FRASCO,31200,7.8
+"Carvedilol 12,5 mg cpr, em blister.",4525669,59,250000,ATIVO,COMPRIMIDO,22375,0.0895
+"Carvedilol 25 mg cpr, em blister.",4525670,60,280000,ATIVO,COMPRIMIDO,40600,0.145
+"Carvedilol 6,25 mg cpr, em blister.",4525671,62,180000,ATIVO,COMPRIMIDO,18000,0.1
+"Claritromicina 500mg comprimido, em blister.",4525672,71,5000,ATIVO,COMPRIMIDO,8625,1.725
+"Clonazepam 2,5mg/mL 20ml",4525673,73,6000,ATIVO,FRASCO,13800,2.3
+"Dipirona 500mg cpr, em blister",4525674,103,3000000,ATIVO,COMPRIMIDO,354000,0.118
+"Doxazosina 2 mg cpr, em blister.",4525675,107,360000,ATIVO,COMPRIMIDO,32400,0.09
+"Espironolactona 25mg cpr, em blister.",4525676,116,1000000,ATIVO,COMPRIMIDO,200000,0.2
+"Fluconazol 150mg capsula.",4525677,128,70000,ATIVO,CAPSULA,28000,0.4
+"Fluoxetina, cloridrato 20mg capsula, em blister.",4525678,131,2000000,ATIVO,CAPSULA,148000,0.074
+"Glibenclamida 5mg cpr, em blister.",4525679,135,1200000,ATIVO,COMPRIMIDO,28800,0.024
+"Hidrocortisona 500mg pó para suspensão injetável.",4525680,148,3000,ATIVO,"Frasco ampola",15450,5.15
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",4525681,156,180000,ATIVO,COMPRIMIDO,54000,0.3
+"Isossorbida, mononitrato 20mg cpr, em blister.",4525682,157,800000,ATIVO,COMPRIMIDO,122880,0.1536
+"Isossorbida, mononitrato 40mg cpr, em blister.",4525683,158,300000,ATIVO,COMPRIMIDO,90000,0.3
+"Medroxiprogesterona 150mg/mL, injetável, ampola 1ml.",4525684,182,2000,ATIVO,AMP,21780,10.89
+"Metformina 500mg cpr, em blister.",4525685,183,2000000,ATIVO,COMPRIMIDO,220000,0.11
+"Metildopa 250mg cpr, em blister.",4525686,185,400000,ATIVO,COMPRIMIDO,224000,0.56
+"Metilfenidato 10 mg cpr, em blister.",4525687,186,600000,ATIVO,COMPRIMIDO,168000,0.28
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",4525688,187,2000,ATIVO,AMP,1200,0.6
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",4525689,204,400000,ATIVO,COMPRIMIDO,55600,0.139
+"Omeprazol 20mg capsula, em blister.",4525690,211,4000000,ATIVO,CAPSULA,199600,0.0499
+"Omeprazol 40mg, injetável, com diluente 10ml.",4525691,212,200,ATIVO,"Frasco ampola",1222,6.11
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",4525692,215,30000,ATIVO,FRASCO,49800,1.66
+"Prometazina 25mg/mL injetável, ampola 2ml.",4525693,224,2000,ATIVO,AMP,3799.8,1.8999
+"Sais de reidratação oral",4525694,231,50000,ATIVO,SACHE,44000,0.88
+"SULFAMETOXAZOL 200MG - TRIMETROPINA 40MG SOL ORAL 100ML",4525695,240,3800,ATIVO,FRASCO,17100,4.5
+"Verapamil 80mg cpr, em blister.",4525696,255,500000,ATIVO,COMPRIMIDO,147500,0.295

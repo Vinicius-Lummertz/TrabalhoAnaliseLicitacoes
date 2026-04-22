@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apontador sem depósito",4446060,247,DESCLASSIFICADO,UND,234.65,0.95
+"CANETA DESTACA TEXTO",4446063,400,DESCLASSIFICADO,CX,8000,20
+"Dispensador de senha",4446064,15,PERDEU,UND,3750,250
+"Grampeador para papeis",4446065,220,DESCLASSIFICADO,UN,3713.6,16.88
+"Papel Off-Set, alcalino, formato A-4",4446066,162,VENCEU,CX,24624,152
+"Papel Off-Set, alcalino, formato A-4",4446067,488,PERDEU,CX,74176,152
+"Pasta plastica de arquivo, com no minimo 30",4446069,600,DESCLASSIFICADO,UN,2016,3.36
+"Pasta plastica de arquivo, com no minimo 50",4446070,200,DESCLASSIFICADO,UN,994,4.97
+"Rolo de senha de papel de 2 (dois) digitos",4446071,200,PERDEU,UN,2200,11
+"Tesoura Doméstica",4446072,250,PERDEU,UND,1387.5,5.55
+"CARTOLINA TAMANHO OFICIO",4446073,30000,PERDEU,UND,6000,0.2
+"Balão tamanho no. 7",4446074,300,DESCLASSIFICADO,PCT,2025,6.75
+"Lápis colorido",4446078,30,DESCLASSIFICADO,CX,182.4,6.08
+"PASTA SUSPENSA",4446080,25,DESCLASSIFICADO,CX,1687.5,67.5

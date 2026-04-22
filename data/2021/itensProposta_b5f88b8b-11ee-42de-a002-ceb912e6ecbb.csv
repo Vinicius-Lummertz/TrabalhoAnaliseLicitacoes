@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mochila infantil",0,8000,DESCLASSIFICADO," ",440960,55.12
+"mochila fundamental",0,14500,DESCLASSIFICADO," ",879570,60.66
+"Tênis Unissex",0,22500,DESCLASSIFICADO," ",1793025,79.69
+"Meias tipo colegial unissex",0,45000,VENCEU," ",376200,8.36
+"Camisetas clube da matemática",0,1000,NAO_COTOU," ",0,0
+"Camisetas Manga Longa",0,300,NAO_COTOU," ",0,0
+"Camisas PROJAE - manga curta",0,3000,NAO_COTOU," ",0,0
+"Camisetas Unissex-cores a serem definidas",0,2000,NAO_COTOU," ",0,0
+"Camisas polos",0,2500,NAO_COTOU," ",0,0
+"bermuda masculina/feminina sem bolso e detalhes na lateral",0,3000,NAO_COTOU," ",0,0
+"Bermuda feminina",0,4800,PERDEU," ",130128,27.11
+"Bermuda Masculina",0,12000,PERDEU," ",378120,31.51
+"Short saia feminina",0,9000,PERDEU," ",308880,34.32
+"Camiseta manga curta unissex-uniforme",0,45000,PERDEU," ",1142550,25.39
+"Calça masculina",0,11250,PERDEU," ",375975,33.42
+"CALÇA FEMININA",0,11250,PERDEU," ",345487.5,30.71
+"Jaqueta moleton",0,22500,PERDEU," ",1395900,62.04
+"Jaqueta Tactel",0,22000,PERDEU," ",1787940,81.27

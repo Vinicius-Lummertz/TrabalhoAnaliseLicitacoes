@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adaptador USB Wifi",5997459,2,5,ATIVO,UNIDADE,460,92
+"Ponto de Acesso (Roteador Wireless)",5997460,49,5,ATIVO,UNIDADE,2770,554
+Smartphone,5997461,51,40,ATIVO,UNIDADE,51960,1299
+"Switch 24 Portas POE",5997462,56,2,ATIVO,UNIDADE,3600,1800

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Termômetro clínico digital.",8483540,150,PERDEU,UN,2530.5,16.87
+"Termometro clinico infravermelho",8483541,120,PERDEU,UND,9000,75
+"Reanimador manual adulto",8483552,60,PERDEU,UND,10380,173
+"Reanimador manual pediátrico",8483553,30,PERDEU,UN,5190,173

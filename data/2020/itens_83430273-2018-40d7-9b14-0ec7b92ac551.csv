@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Folha em EVA 600x400x2mm",1306994,37,6000,ATIVO,UNIDADE,5340,0.89
+"Tesoura de ponta arredondada",1309009,75,4000,ATIVO,UNIDADE,4360,1.09
+"Lápis preto de grafite nº 2.",1313015,50,1000,ATIVO,CAIXA,27860,27.86
+"Grampo para grampeador de madeira",1315193,46,200,ATIVO,CAIXA,1548,7.74
+"Caderno quadriculado com arame",1341761,10,100,ATIVO,UNIDADE,684,6.84

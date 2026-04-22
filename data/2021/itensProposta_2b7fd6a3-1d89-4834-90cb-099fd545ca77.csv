@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ativação e habilitação de canal (linha telefônica)",5203877,3,VENCEU," ",3099,1033
+"Licença de uso e/ou manutenção mensal, hospedagem e suporte técnico para até 200 usuários",5203877,12,VENCEU," ",160128,13344
+"Mensagem de notificação ativa (template hsm - high structured message) - sob demanda.",5203877,120000,VENCEU," ",54000,0.45
+"*Mensagem de sessão (dau) de atendimento ativa/receptiva (sessionmessages) - sob demanda.",5203877,180000,VENCEU," ",45000,0.25
+"Serviços de treinamento, customização e implantação de sistema.",5203877,1,VENCEU," ",13773,13773

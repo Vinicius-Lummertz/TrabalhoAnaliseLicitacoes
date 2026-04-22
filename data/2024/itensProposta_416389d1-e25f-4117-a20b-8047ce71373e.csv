@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico, frasco 1lt.",14882855,3750,PERDEU,UNI,21675,5.78
+"Aparelho de pressão adulto (Esfigmomanômetro adulto+braçadeira)",14877922,200,PERDEU,UNI,17780,88.9
+"Aparelho de pressão adulto obeso (Esfigmomanômetro adulto+braçadeira obeso).",14877923,150,PERDEU,UNI,14985,99.9
+"Ataduras de Crepom 10cm.",14877926,40000,PERDEU,UNI,38800,0.97
+"Ataduras de Crepom 12cm.",14877927,40000,PERDEU,UNI,46000,1.15
+"Ataduras de Crepom 15cm",14877928,40000,PERDEU,UN,57200,1.43
+"Ataduras de Crepom 20cm",14877929,18000,PERDEU,UN,33660,1.87
+"Ataduras de Crepom 6cm",14877930,20000,PERDEU,UN,12600,0.63
+"Ataduras de Crepom 8cm",14877931,25000,PERDEU,UN,21000,0.84
+"Clorexidina aquosa.",14877946,2000,VENCEU,UNI,4600,2.3
+"Coletor para materiais perfuro cortante (capacidade 13 Litros).",14877948,4000,PERDEU,UNI,25760,6.44
+"Coletor para materiais perfuro cortante (capacidade 7 Litros).",14877949,3000,PERDEU,UNI,17850,5.95
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descartável.",14882882,375,PERDEU,PCT,41625,111
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não descartável.",14877951,500,PERDEU,PCT,22495,44.99
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 13 fios, pacote com 500und.",14877953,1200,PERDEU,PCT,39600,33
+"Equipo para nutrição enteral ESCALONADO.",14877981,50000,PERDEU,UNI,62000,1.24
+"Frasco para nutrição enteral capacidade 300mL",14878012,40000,PERDEU,UNI,39600,0.99
+"Gorro tipo Touca Descartável com elástico 45x45cm.",14878019,1000,PERDEU,PCT,6740,6.74
+"Hipoclorito de sódio 1%.",14878021,1300,PERDEU,L,5694,4.38
+"Lençol descartável com elástico (TNT).",14878040,3000,PERDEU,PCT,55200,18.4
+"Lençol hospitalar descartável em papel.",14878041,2500,PERDEU,ROLO,29625,11.85
+"Luva Cirúrgica estéril no. 6,5.",14878042,5000,PERDEU,PAR,7100,1.42
+"Luva Cirúrgica estéril no. 8,0",14878043,3000,PERDEU,PAR,4170,1.39
+"Luva Cirúrgica estéril no.7,0.",14878044,8000,PERDEU,PAR,11360,1.42
+"Luva Cirúrgica estéril no.7,5",14878045,8000,PERDEU,PAR,11120,1.39
+"Máscara cirúrgica tripla descartável.",14878057,7000,PERDEU,UNI,27860,3.98
+"Óleo de girassol (AGE) Embalagem 200ml",14878064,10000,PERDEU,UNI,70000,7
+"Preservativos Masculinos de 52mm,  com lubrificante",14878074,1200,PERDEU,CXA,59964,49.97
+"Protetor Solar, fator 30, frasco com 120mL ou 125mL.",14878077,1000,PERDEU,UN,11980,11.98
+"Protetor Solar, fator 60, frasco com 120mL ou 125mL.",14878078,2000,PERDEU,UN,30980,15.49
+"Seringa 10ml sem agulha LUER SLIP.",14878092,60000,PERDEU,UNI,16200,0.27
+"Seringa 3ml sem agulha LUER LOCK",14878094,140000,PERDEU,UNI,22400,0.16
+"Sonda aspiração traqueal nº 06 em PVC, descartável",14878099,20000,PERDEU,UNI,12000,0.6
+"Sonda aspiração traqueal nº 08 em PVC, descartável.",14878100,36000,PERDEU,UN,21600,0.6
+"Sonda aspiração traqueal nº 10 em PVC, descartável.",14878101,15000,PERDEU,UNI,9300,0.62
+"Sonda aspiração traqueal nº 12 em PVC, descartável",14878102,20000,PERDEU,UNI,13000,0.65
+"Sonda aspiração traqueal nº 14 em PVC, descartável",14878103,16000,PERDEU,UNI,11200,0.7
+"Sonda uretral nº 06, descartável.",14878144,14000,PERDEU,UN,9520,0.68
+"Sonda uretral nº 08, descartável",14878145,40000,PERDEU,UNI,24000,0.6
+"Sonda uretral nº 10 descartável",14878147,45000,PERDEU,UN,27900,0.62
+"Sonda uretral nº 12 descartável.",14878148,80000,PERDEU,UN,51200,0.64
+"Sonda uretral nº 14 descartável.",14878150,25000,PERDEU,UNI,17000,0.68

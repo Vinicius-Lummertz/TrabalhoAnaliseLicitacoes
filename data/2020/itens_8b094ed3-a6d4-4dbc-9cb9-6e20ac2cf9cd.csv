@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Clorexidina alcoólica",1267853,45,1200,ATIVO,LITRO,9408,7.84
+"Hipoclorito de sódio 1%.",1267854,103,500,ATIVO,LITRO,1505,3.01
+"Agua oxigenada 10% (peróxido de hidrogênio)",1267855,209,150,ATIVO,LITRO,529.5,3.53

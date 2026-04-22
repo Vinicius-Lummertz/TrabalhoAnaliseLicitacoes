@@ -1,0 +1,74 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PLACA DE OBRA PADRÃO PMC",0,100,INABILITADO," ",20612,206.12
+"Tapume provisório de madeira de 2,00m de altura",0,1000,INABILITADO," ",31330,31.33
+"Fornecimento e colocação de lona plastica 150 micra",0,3000,INABILITADO," ",8070,2.69
+"Demolição de telhamento de fibrocimento",0,9000,INABILITADO," ",13860,1.54
+"Demolição de telhamento de telha cerâmica",0,10000,INABILITADO," ",15400,1.54
+"Demolição de forro de beiral",0,2700,INABILITADO," ",5994,2.22
+"Demolição de forro interno sem reaproveitamento, inclusive t",0,6000,INABILITADO," ",13320,2.22
+"Demolição de estrutura de madeira telhado",0,17000,INABILITADO," ",56270,3.31
+"Carga, transporte e destino final de entulho",0,1700,INABILITADO," ",46325,27.25
+"Retirada de calha de alumínio de beiral para aproveitamento",0,3000,INABILITADO," ",33000,11
+"Estrut telhado em madeira de eucalipto p/ telha fibrocimento",0,5500,INABILITADO," ",194260,35.32
+"Estrutura  telhado em madeira de eucalipto p/ telha cerâmica",0,4000,INABILITADO," ",160680,40.17
+"Estrutura  telhado em madeira de eucalipto p/ telha de PVC",0,6600,INABILITADO," ",204600,31
+"Telhamento com telha de fibrocimento ondulada de 6mm com ace",0,4500,INABILITADO," ",92025,20.45
+"Limpeza de telha de fibrocimento com bomba lavajato de alta",0,1200,INABILITADO," ",1236,1.03
+"Retelhamento de telha de fibrocimento reaproveitada com aces",0,1200,INABILITADO," ",5964,4.97
+"Telhamento com telha cerâmica colonial, com encaixe",0,4200,INABILITADO," ",100758,23.99
+"Telhamento com telha de PVC tipo colonial epessura 2.0mm na",0,6600,INABILITADO," ",220968,33.48
+"Cumeeira de fibrocimento ondulada de 6mm",0,1050,INABILITADO," ",27678,26.36
+"Recolocação de cumeeira de fibrocimento reaproveitada",0,220,INABILITADO," ",1885.4,8.57
+"Espigão de fibrocimento de 6mm, com vedação com manta asfalt",0,350,INABILITADO," ",10482.5,29.95
+"Cumeeira e beiral de telha cerâmica argamassada tipo colonia",0,200,INABILITADO," ",6248,31.24
+"Calha de alumínio de encontro de telhado corte 50cm",0,300,INABILITADO," ",10077,33.59
+"Calha de alumínio de beiral",0,1100,INABILITADO," ",27533,25.03
+"Recolocação de calha de alumínio de beiral",0,3240,INABILITADO," ",35640,11
+"Tubo de queda pluvial em PVC 75mm- fixação com braçadeiras p",0,700,INABILITADO," ",5628,8.04
+"Joelho de PVC leve de 75mm x 45°",0,600,INABILITADO," ",7488,12.48
+"Joelho de PVC leve de 75mm x 90°",0,200,INABILITADO," ",2558,12.79
+"Espelho de madeira de lei de 18x2cm, com ranhura para encaix",0,3300,INABILITADO," ",50754,15.38
+"Tacação de pinus tratado para forro de PVC cada 40cm",0,8000,INABILITADO," ",164800,20.6
+"Forro PVC",0,6500,INABILITADO," ",216710,33.34
+"Pintura esmalte sintético sobre madeira 3 demãos incluindo f",0,1000,INABILITADO," ",14700,14.7
+"Retirada de luminárias",0,1700,INABILITADO," ",1105,0.65
+"Retirada de interruptores e tomadas embutidas",0,900,INABILITADO," ",297,0.33
+"Retirada de fiação elétrica",0,25000,INABILITADO," ",8250,0.33
+"Cabo unipolar isolado 0,75V de 1.5mm²",0,14000,INABILITADO," ",17360,1.24
+"Cabo unipolar isolado 0,75V de 2.5mm²",0,50000,INABILITADO," ",87500,1.75
+"Cabo unipolar isolado 0,75V de 4.0mm²",0,4200,INABILITADO," ",11382,2.71
+"Cabo unipolar isolado 0,75V de 6.0mm²",0,2000,INABILITADO," ",7500,3.75
+"Cabo unipolar isolado 0,75V de 10.0mm²",0,2600,INABILITADO," ",15678,6.03
+"Interruptor simples 1 tecla de embutir com placa",0,200,INABILITADO," ",3058,15.29
+"Interruptor simples 2 teclas de embutir com placa",0,50,INABILITADO," ",1207.5,24.15
+"Interruptor simples 3 teclas de embutir com placa",0,30,INABILITADO," ",999.6,33.32
+"Tomada de embutir 2P+T - 10A - hexagonal com placa",0,600,INABILITADO," ",14454,24.09
+"Luminária de sobrepor para 2 lampadas tubular LED de 2 x 20W",0,1000,INABILITADO," ",132840,132.84
+"Reposição de luminária de sobrepor, reaproveitada",0,500,INABILITADO," ",12995,25.99
+"Luminária de sobrepor tipo plafon de PVC com soquete de porc",0,200,INABILITADO," ",6890,34.45
+"Eletroduto de PVC cinza soldável de 3/4",0,600,INABILITADO," ",2022,3.37
+"Condulete de PVC tipo C de 3/4 com tomada hexagonal 2P+T co",0,200,INABILITADO," ",7050,35.25
+"Abraçadeira de PVC cinza de 3/4 para eletroduto, com bucha",0,200,INABILITADO," ",336,1.68
+"Adaptador de PVC cinza para eletroduto de 3/4 e condulete",0,200,INABILITADO," ",56,0.28
+"Disjuntor tripolar termomagnético DIN 50A",0,20,INABILITADO," ",1410.8,70.54
+"Disjuntor tripolar termomagnético DIN 60A",0,20,INABILITADO," ",2035.6,101.78
+"Disjuntor tripolar termomagnético DIN 70A",0,10,INABILITADO," ",1017.8,101.78
+"Disjuntor tripolar termomagnético DIN 100A",0,10,INABILITADO," ",1017.8,101.78
+"Disjuntor unipolar termomagnético DIN 10A",0,250,INABILITADO," ",2175,8.7
+"Disjuntor unipolar termomagnético DIN 16A",0,200,INABILITADO," ",1822,9.11
+"Disjuntor unipolar termomagnético DIN 20A",0,250,INABILITADO," ",2427.5,9.71
+"Disjuntor unipolar termomagnético DIN 25A",0,250,INABILITADO," ",2435,9.74
+"Disjuntor unipolar termomagnético DIN 32A",0,50,INABILITADO," ",529,10.58
+"Dispositivo DR, 4 polos, sensibilidade 30MA, corrente de 63A",0,40,INABILITADO," ",3524.4,88.11
+"Dispositivo DR, 4 polos, sensibilidade 30MA, corrente de 80A",0,20,INABILITADO," ",3288.4,164.42
+"Dispositivo DPS classe II, 1 polo, tensão máxima de 275V",0,80,INABILITADO," ",4240,53
+"Eletroduto corrugado de PVC de 3/4",0,4000,INABILITADO," ",14160,3.54
+"Eletroduto corrugado de PVC de 1",0,1200,INABILITADO," ",5760,4.8
+"Centro de distribuição de PVC com barramento trifásico para",0,10,INABILITADO," ",3028.3,302.83
+"Centro de distribuição de PVC trifásico para 24 disjuntores",0,10,INABILITADO," ",3516.8,351.68
+"Centro de distribuição de PVC trifásico para 32 disjuntores",0,10,INABILITADO," ",5662.3,566.23
+"Centro de distribuição de PVC trifásico para 40 disjuntores",0,10,INABILITADO," ",6778.1,677.81
+"Luminária de emergência, bloco autônomo de 30LEDs",0,350,INABILITADO," ",12082,34.52
+"Placa de sinalização de saída, bloco autônomo, com LEDs",0,180,INABILITADO," ",9108,50.6
+"Placa de sinalização de segurança contra incêndio",0,600,INABILITADO," ",4758,7.93
+"Limpeza final da obra",0,15400,INABILITADO," ",22330,1.45

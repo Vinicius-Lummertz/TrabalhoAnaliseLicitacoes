@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Estufa aquecimento com cobertura em aço inox.",4985858,30,VENCEU,UND,164400,5480
+"Fogão Industrial à gás de INOX, 04 bocas",4985859,10,NAO_COTOU,UND,0,0
+"Fogão Industrial à gás de INOX, 06 bocas",4985861,10,NAO_COTOU,UND,0,0
+"Forno a Gás  em aço inox (GLP BAIXA PRESSÃO)",4985863,30,NAO_COTOU,UN,0,0
+"FRAGMENTADORA DE PAPEL",4985870,50,NAO_COTOU,UN,0,0
+"Geladeira comercial em aço inoxidável 4 portas",4985871,5,PERDEU,UND,41775,8355
+"Guilhotina Refiladora Multifuncional",4985877,50,NAO_COTOU,UN,0,0
+"Lavadora de alta pressão",4985879,10,NAO_COTOU,UND,0,0
+"LAVADORA DE ROUPAS AUTOMÁTICA",4985899,10,PERDEU,UND,37050,3705
+Liquidificador,4985901,72,NAO_COTOU,UND,0,0
+"Liquidificador industrial",4985903,30,DESCLASSIFICADO,UND,29850,995
+"MICROONDAS - COR BRANCA",4985904,12,NAO_COTOU,UND,0,0
+"PIPOQUEIRA ELÉTRICA COM CARRINHO",4985906,30,DESCLASSIFICADO,UN,350850,11695
+"Plastificadora, para papel A3< A4, A5, RG",4985908,50,NAO_COTOU,UN,0,0
+"REFRIGERADOR Duplex  Frost free",4985909,15,NAO_COTOU,UND,0,0
+"Refrigerador tipo Frigobar Branco",4985910,10,NAO_COTOU,UN,0,0
+"Secador de cabelo  2000W",4985911,2,NAO_COTOU,UN,0,0
+"Desumidificador de papel",4985913,5,NAO_COTOU,UN,0,0

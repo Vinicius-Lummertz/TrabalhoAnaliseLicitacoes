@@ -1,0 +1,72 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amendoim com casca",16304776,40,VENCEU,UND,324.8,8.12
+"CANJICA MILHO BRANCA",16304784,50,VENCEU,UND,416.5,8.33
+"Farinha de Mandioca crua",16304792,200,VENCEU,KG,890,4.45
+"Farinha de milho média ou fina enriquecida com ferro e ácido fólico",16304793,200,VENCEU,KG,718,3.59
+"Feijão branco",16304794,300,PERDEU,EMB,2691,8.97
+"FEIJAO PRETO",16304795,900,VENCEU,KG,7335,8.15
+"Grão de bico",16304796,220,VENCEU,UN,2413.4,10.97
+Lentilha,16304798,200,VENCEU,UN,2056,10.28
+"MILHO DE PIPOCA.",16304806,300,VENCEU,EMB,1794,5.98
+"OVOS  DE GALINHA",16304810,700,PERDEU,DZ,7126,10.18
+"Polpa de frutas natural congelada",16304816,500,VENCEU,UN,5950,11.9
+"Bebida Láctea com iogurte e polpa de frutas",16304825,900,PERDEU,L,5256,5.84
+"APRESUNTADO FATIADO",16304826,500,PERDEU,KG,13325,26.65
+"Carne bovina: Acém resfriado",16304828,1000,PERDEU,KG,31100,31.1
+"Carne bovina: Coxão de fora resfriado (coxão duro)",16304829,300,PERDEU,KG,10791,35.97
+"Carne bovina: Coxão mole",16304830,400,PERDEU,KG,16340,40.85
+"Carne bovina: Fígado",16304831,150,PERDEU,KG,3690,24.6
+"Carne bovina: Moída",16304832,450,PERDEU,KG,15943.5,35.43
+"Carne bovina: Tatu",16304833,200,PERDEU,KG,7350,36.75
+"Carne de frango congelada Coxa e sobrecoxa",16304834,750,PERDEU,KG,9352.5,12.47
+"Carne de frango congelada Filé de peito (sassami) sem osso e sem pele",16304835,700,PERDEU,KG,14910,21.3
+"Carne de frango congelada Galinha caipira serrada com osso",16304836,300,PERDEU,KG,3240,10.8
+"Carne de frango congelada: Moela",16304837,200,PERDEU,KG,2426,12.13
+"Carne suína congelada: Costela",16304838,350,PERDEU,KG,8785,25.1
+"Carne suína congelada: Lombo médio sem osso",16304839,350,PERDEU,KG,8690.5,24.83
+"Carne suína congelada: Paleta suína, sem osso",16304840,200,PERDEU,KG,4470,22.35
+"Salsicha hot dog",16304844,160,PERDEU,KG,2475.2,15.47
+"Amido de milho embalagem",16304845,100,PERDEU,UND,1050,10.5
+"ARROZ INTEGRAL",16304846,300,PERDEU,KG,1860,6.2
+"Arroz parboilizado",16304847,1000,PERDEU,KG,6000,6
+"Arroz Polido",16304848,100,PERDEU,KG,635,6.35
+"Biscoito de chocolate.",16304851,300,VENCEU,PCT,1950,6.5
+"Biscoito doce sem recheio Tipo ‘maisena” Embalagens de 360g",16304853,450,PERDEU,PCT,2520,5.6
+"Biscoito salgado integral Embalagens de 400g",16304854,500,PERDEU,PCT,4000,8
+"Biscoito salgado água Embalagens de 400g",16304855,100,PERDEU,PCT,710,7.1
+"FARINHA DE TRIGO",16304863,520,PERDEU,KG,1716,3.3
+"FARINHA DE TRIGO INTEGRAL",16304864,100,PERDEU,KG,420,4.2
+"Fermento em pó químico Em latas de 250g",16304866,250,VENCEU,UND,2150,8.6
+"Macarrão Tipo Espaguete Integral 500g",16304867,150,PERDEU,UND,1320,8.8
+"Macarrão Tipo Espaguete tradicional 500g",16304868,48,PERDEU,UND,420,8.75
+"Polvilho azedo embalagem contendo 500 gramas",16304878,50,VENCEU,UND,325,6.5
+"Polvilho doce embalagem 500 gramas",16304879,50,PERDEU,UND,435,8.7
+"Creme de leite UHT embalagem tetra pak de 200g.",16304882,250,PERDEU,UND,1025,4.1
+"Leite Condensado: Em embalagem treta pak de 395g.",16304885,220,PERDEU,UNI,1452,6.6
+"Queijo tipo mussarela",16304888,535,PERDEU,KG,25198.5,47.1
+"Leite Desnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304891,400,PERDEU,UND,2660,6.65
+"Leite em pó 400g instantâneo",16304892,50,PERDEU,LAT,1030,20.6
+"Leite Integral UHT caixa tetra pak de 1 litro tipo longa vida.",16304893,2400,VENCEU,LT,11880,4.95
+"Leite Semidesnatado UHT caixa tetra pak de 1 litro tipo longa vida",16304894,1100,PERDEU,LT,8140,7.4
+"Achocolatado em pó lata 370g",16304895,150,PERDEU,UND,1395,9.3
+"Açúcar refinado 1Kg",16304896,1040,PERDEU,KG,5772,5.55
+"Azeite de oliva extra virgem garrafa 500mL",16304899,120,PERDEU,UND,5268,43.9
+"Bombom recheado pacote 1Kg",16304901,150,PERDEU,UND,8445,56.3
+"Doce de frutas pote de 400g",16304908,400,PERDEU,POT,2520,6.3
+"Doce de Leite em Pasta pote de 350g",16304909,40,PERDEU,UND,341.2,8.53
+"Leite de coco 200 ml",16304911,50,PERDEU,UND,240,4.8
+"Refrigerante de guaraná embalagem pet de 2 litros",16304918,160,PERDEU,UND,1504,9.4
+"Suco de néctar de frutas 1 litro",16304920,550,PERDEU,UND,4262.5,7.75
+"Suco de néctar de frutas caixa 200ml",16304921,200,PERDEU,UND,540,2.7
+"Café Tradicional 500g",16304928,1200,PERDEU,PCT,23544,19.62
+"Catchup embalagem pet de 390g",16304931,30,PERDEU,UND,251.1,8.37
+"Colorau (colorífico)",16304935,100,PERDEU,UNI,790,7.9
+"Ervilha em conserva lata",16304938,100,VENCEU,UND,325,3.25
+"Extrato de tomate 300g acondicionado em embalagem tetra pack.",16304939,230,PERDEU,UND,926.9,4.03
+"Maionese embalagem pet de 500g.",16304941,115,PERDEU,UND,943,8.2
+"Milho verde em conserva lata",16304943,300,PERDEU,UND,1260,4.2
+"Sal grosso embalagem de 1kg.",16304949,40,PERDEU,KG,137.2,3.43
+"Sal refinado 1kg",16304950,200,PERDEU,KG,496,2.48
+"Sardinha lata Embalagem de 125g",16304951,200,PERDEU,UND,950,4.75
+"Vinagre 900ml.",16304954,200,PERDEU,UND,600,3
+"Óleo de soja embalagem com 900 ml.",16304956,440,PERDEU,UND,4224,9.6

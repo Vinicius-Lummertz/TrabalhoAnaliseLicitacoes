@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bermuda feminina",5303253,1,6000,ATIVO,UNIDADE,203400,33.9
+"Bermuda Masculina",5303254,2,12000,ATIVO,UNIDADE,406800,33.9
+"Short saia feminina",5303255,3,5000,ATIVO,UNIDADE,174500,34.9
+"Calça masculina",5303256,4,11500,ATIVO,UNIDADE,458850,39.9
+"CALÇA FEMININA",5303257,5,11500,ATIVO,UNIDADE,458850,39.9
+JAQUETA,5303258,6,23000,ATIVO,UNIDADE,1607700,69.9
+"Camiseta manga curta unissex-uniforme",5303259,7,46000,ATIVO,UNIDADE,1375400,29.9

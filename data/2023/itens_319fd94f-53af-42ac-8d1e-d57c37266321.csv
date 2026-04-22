@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Betametasona, diproprionato +  betametasona fosfato 1ml",4525916,40,22000,ATIVO,AMP,81400,3.7
+"Clindamicina 300mg capsula, em blister.",4525917,72,10000,ATIVO,CAPSULA,11700,1.17
+"Estrogênios conjugados 0,625mg cpr, em blister.",4525918,117,70000,ATIVO,COMPRIMIDO,58100,0.83
+"Insulina NPH 100UI/mL, frasco 10ml.",4525919,154,400,ATIVO,FRASCO,8160,20.4
+"Insulina regular 100 UI/ml 10ml",4525920,155,150,ATIVO,"Frasco ampola",3060,20.4
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",4525921,169,7000,ATIVO,COMPRIMIDO,11830,1.69
+"Metoclopramida 4mg/mL solução oral, frasco de 10ml.",4525922,260,6000,ATIVO,FRASCO,10740,1.79

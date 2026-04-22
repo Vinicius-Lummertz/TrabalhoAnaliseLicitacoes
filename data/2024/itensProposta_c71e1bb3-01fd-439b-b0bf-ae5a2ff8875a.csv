@@ -1,0 +1,83 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abaixador de língua embalado INDIVIDUALMENTE",14877903,1000,VENCEU,PCT,8250,8.25
+"Agulhas hipodérmicas 13mmX4,5mm",14877908,280,PERDEU,CX,1870.4,6.68
+"Agulhas hipodérmicas 20X5,5 mm.",14877909,580,PERDEU,CX,3938.2,6.79
+"Agulhas hipodérmicas 25X6 mm.",14877910,1000,PERDEU,CX,6600,6.6
+"Agulhas hipodérmicas 25X7 mm.",14877911,1100,PERDEU,CX,7425,6.75
+"Agulhas hipodérmicas 25X8 mm.",14877912,300,PERDEU,CX,2400,8
+"Agulhas hipodérmicas 30X8 mm.",14877913,150,PERDEU,CX,1350,9
+"Agulhas hipodérmicas 40X12 mm.",14877914,1500,PERDEU,CX,10110,6.74
+"Algodão Hidrófilo 100%",14877917,500,PERDEU,UNI,12500,25
+"Almotolia de uso médico-hospitalar Transparente",14877919,300,PERDEU,UN,831,2.77
+"Avental de Proteção Descartável manga longa.",14877932,3000,PERDEU,PCT,90000,30
+"Cadarço sarjado rolo com 50 metros",14877935,100,PERDEU,RL,1898,18.98
+"Cateter Intravenoso n°14 G, com dispositivo de segurança.",14877938,2500,PERDEU,UNI,5000,2
+"Cateter Intravenoso n°16 G, com dispositivo de segurança",14877939,4000,PERDEU,UNI,8000,2
+"Cateter Intravenoso n°18 G, com dispositivo de segurança",14877940,3000,PERDEU,UNI,6000,2
+"Cateter Intravenoso n°20 G, com dispositivo de segurança",14877941,8000,PERDEU,UNI,16000,2
+"Cateter Intravenoso n°22 G, com dispositivo de segurança",14877942,4000,PERDEU,UNID,8000,2
+"Cateter Intravenoso n°24 G, com dispositivo de segurança.",14877943,4000,PERDEU,UNI,8000,2
+"Coletor para materiais perfuro cortante (capacidade 13 Litros).",14877948,4000,PERDEU,UNI,20800,5.2
+"Coletor para materiais perfuro cortante (capacidade 7 Litros).",14877949,3000,PERDEU,UNI,11550,3.85
+"Cuba rim, comprimento 26cm, largura 12cm, altura 6cm, capacidade cerca de 750ml.",14877956,120,PERDEU,UND,6600,55
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp).",14877962,5000,PERDEU,UNI,1500,0.3
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp).",14877963,8000,PERDEU,UN,2400,0.3
+"Dispositivo para infusão endovenosa, n°23 (apelido scalp).",14877964,12000,PERDEU,UN,3840,0.32
+"Dispositivo para infusão endovenosa, n°25 (apelido scalp).",14877965,4000,PERDEU,UN,1280,0.32
+"Dispositivo para infusão endovenosa, n°27 (apelido scalp).",14877966,1000,PERDEU,UN,320,0.32
+"Especulo vaginal, descartável, ESTÉRIL, sem lubrificação G (grande)",14877987,3000,PERDEU,UNI,6000,2
+"Especulo vaginal, descartável, ESTÉRIL, sem lubrificação M (médio)",14877988,15000,PERDEU,UNI,30000,2
+"Especulo vaginal, descartável, ESTÉRIL, sem lubrificação P (pequeno).",14877989,12000,PERDEU,UNI,24000,2
+"Fixador Citológico, 100ml. Spray, frasco de 100ml.",14878008,500,PERDEU,FRA,4025,8.05
+"Garrote adulto",14878013,250,PERDEU,UN,2280,9.12
+"Garrote infantil",14878014,150,PERDEU,UN,1500,10
+"Gorro tipo Touca Descartável com elástico 45x45cm.",14878019,1000,PERDEU,PCT,10000,10
+"Indicador biológico.",14878023,1200,PERDEU,CX,36000,30
+"Integrador químico classe V.  Caixa com 250 unidades.",14878024,400,PERDEU,CX,20000,50
+"Kit citologia - 01 escova endocervical + 01 espátula de ayre.",14878026,30000,PERDEU,UNI,30000,1
+"Lâmina de Bisturi descartável no.11",14878030,180,PERDEU,CX,6300,35
+"Lâmina de Bisturi descartável no. 12.",14878031,200,PERDEU,CX,7000,35
+"Lâmina de Bisturi descartável no 15",14878032,180,PERDEU,CX,6300,35
+"Lâmina de Bisturi descartável n. 20",14878033,40,PERDEU,CX,1400,35
+"Lâmina de Bisturi descartável n. 22",14878034,40,PERDEU,CX,1400,35
+"Lâmina de Preventivo (Ponta Fosca).",14878035,800,PERDEU,CXA,8000,10
+"Lanterna clínica tipo caneta.",14878039,70,PERDEU,UNI,1750,25
+"Lençol descartável com elástico (TNT).",14878040,3000,PERDEU,PCT,60000,20
+"Lençol hospitalar descartável em papel.",14878041,2500,PERDEU,ROLO,37500,15
+"Luva Cirúrgica estéril no. 6,5.",14878042,5000,PERDEU,PAR,7500,1.5
+"Luva Cirúrgica estéril no. 8,0",14878043,3000,PERDEU,PAR,4500,1.5
+"Luva Cirúrgica estéril no.7,0.",14878044,8000,PERDEU,PAR,12000,1.5
+"Luva Cirúrgica estéril no.7,5",14878045,8000,PERDEU,PAR,12000,1.5
+"Luva Cirúrgica estéril no.8,5.",14878046,500,PERDEU,PAR,750,1.5
+"Máscara cirúrgica tripla descartável.",14878057,7000,PERDEU,UNI,36050,5.15
+"Pinça Cheron descartável, em polietileno cristal ou cor branca, ESTÉRIL",14878071,3000,PERDEU,UNI,6030,2.01
+"Pote para coleta de urina, fezes e secreção de polietileno",14878072,80000,PERDEU,UN,80000,1
+"Seringa 10ml sem agulha LUER SLIP.",14878092,60000,VENCEU,UNI,11400,0.19
+"Seringa 20ml sem agulha LUER SLIP",14878093,50000,VENCEU,UNI,16000,0.32
+"Seringa 3ml sem agulha LUER LOCK",14878094,140000,PERDEU,UNI,35000,0.25
+"Seringa 5ml sem agulha LUER LOCK",14878095,52000,PERDEU,UNI,13000,0.25
+"Seringa 60ml sem agulha LUER SLIP",14878096,2000,VENCEU,UNI,2040,1.02
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº 10",14878105,100,VENCEU,UNI,234,2.34
+"Sonda de borracha (látex natural) tipo foley 2 vias, calibre nº 12.",14878106,200,VENCEU,UNI,448,2.24
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº 14.",14878107,200,VENCEU,UND,458,2.29
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº 16.",14878108,300,PERDEU,UND,699,2.33
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº 18.",14878109,300,VENCEU,UND,687,2.29
+"Sonda de borracha (látex natural) tipo foley 2 vias, calibre nº20.",14878110,100,VENCEU,UND,223,2.23
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº22.",14878111,50,VENCEU,UND,114.5,2.29
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº24.",14878113,50,PERDEU,UND,175,3.5
+"Sonda endotraqueal em PVC com balão nº 3,0.",14878114,100,VENCEU,UND,315,3.15
+"Sonda endotraqueal em PVC com balão nº 3,5.",14878115,100,VENCEU,UND,315,3.15
+"Sonda endotraqueal em PVC com balão nº 4,0.",14878117,100,VENCEU,UND,313,3.13
+"Sonda endotraqueal em PVC com balão nº4,5.",14878118,100,VENCEU,UND,315,3.15
+"Sonda endotraqueal em PVC com balão nº5,0",14878120,100,VENCEU,UN,315,3.15
+"Sonda endotraqueal em PVC com balão nº5,5",14878121,120,VENCEU,UN,373.2,3.11
+"Sonda endotraqueal em PVC com balão nº6,0",14878123,120,PERDEU,UN,380.4,3.17
+"Sonda endotraqueal em PVC com balão nº 6,5",14878124,120,VENCEU,UNI,376.8,3.14
+"Sonda endotraqueal em PVC com balão nº 7,0",14878126,120,PERDEU,UNI,360,3
+"Sonda endotraqueal em PVC com balão nº 7,5",14878127,120,VENCEU,UNI,379.2,3.16
+"Sonda endotraqueal em PVC com balão nº 8,0.",14878129,120,VENCEU,UNI,372,3.1
+"Sonda endotraqueal em PVC com balão nº 8,5.",14878130,100,PERDEU,UNI,316,3.16
+"Sonda endotraqueal em PVC com balão nº 9,0",14878132,100,VENCEU,UNI,316,3.16
+"Sonda endotraqueal em PVC sem balão nº 2,5",14878133,100,PERDEU,UN,248,2.48
+"Termômetro clínico digital.",14878169,200,PERDEU,UN,1978,9.89
+"Teste rápido de gravidez (embalado individualmente)",14878171,10000,PERDEU,UND,5200,0.52

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",0,5000,VENCEU," ",21500,4.3
+"microscópio com iluminação de LED",0,1,VENCEU," ",27500,27500
+"Adesivo (bandagem) estéril indicado p/ uso após punção venos",0,60000,VENCEU," ",3600,0.06
+Estereomicroscópio.,0,1,VENCEU," ",3135.12,3135.12
+"Autoclave de bancada (horizontal),",0,1,VENCEU," ",3564.88,3564.88

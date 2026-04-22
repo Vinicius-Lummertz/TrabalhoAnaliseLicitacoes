@@ -1,0 +1,67 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ACHOCOLATADO,1,700,"Não cotou",KG,0,0
+"ACHOCOLATADO EM PÓ ZERO AÇÚCAR, LACTOSE E GLUTÉN",2,80,"Não cotou",LAT,0,0
+"AÇÚCAR REFINADO",3,2000,"Não cotou",KG,0,0
+"ADOÇANTE DIETÉTICO LÍQUIDO",4,80,"Não cotou",UNI,0,0
+"Amido de milho",5,500,"Não cotou",KG,0,0
+"ARROZ INTEGRAL",6,100,"Não cotou",KG,0,0
+"BATATA PALHA",7,700,"Não cotou",PCT,0,0
+"BEBIDA SABOR MORANGO",8,400,"Não cotou",KG,0,0
+"BISCOITO BROA DE POLVILHO  DIVERSOS SABORES  (AMENDOIM, COCO",9,700,"Não cotou",KG,0,0
+"BISCOITO MAISENA  DE CHOCOLATE - SEM LEITE",10,700,"Não cotou",KG,0,0
+"BISCOITO DE COCO - SEM LEITE",11,650,"Não cotou",KG,0,0
+"BISCOITO SALGADO INTEGRAL - SEM LEITE",12,200,"Não cotou",KG,0,0
+"BOLACHA AGUA E SAL",13,700,"Não cotou",PCT,0,0
+CAFÉ,14,1000,"Não cotou",PCT,0,0
+"canela em pó",15,200,"Não cotou",PT,0,0
+"coco ralado",16,450,"Não cotou",UNI,0,0
+COLORAU,17,300,"Não cotou",KG,0,0
+"creme de leite",18,500,"Não cotou",UNI,0,0
+"Creme de leite sem lactose",19,50,"Não cotou",UNI,0,0
+"DOCE DE LEITE",20,700,"Não cotou",UNI,0,0
+"Doce de Leite sem lactose",21,30,"Não cotou",UNI,0,0
+"extrato de tomate",22,2000,"Não cotou",UNI,0,0
+"FARINHA DE CEREAIS - Aveia",23,84,"Não cotou",KG,0,0
+"FARINHA DE TRIGO",24,2000,"Não cotou",KG,0,0
+"FERMENTO BIOLOGICO",25,180,"Não cotou",UNI,0,0
+"Fermento em po",26,500,"Não cotou",UNI,0,0
+"FUBÁ DE MILHO",27,150,"Não cotou",KG,0,0
+GELATINA,28,650,"Não cotou",UNI,0,0
+"leite condensado",29,600,"Não cotou",UNI,0,0
+"Leite Condensado sem lactose",30,20,"Não cotou",UNI,0,0
+LOURO,31,400,"Não cotou",UNI,0,0
+MACARRÃO,32,1200,"Não cotou",PCT,0,0
+"MACARRÃO INTEGRAL",33,200,"Não cotou",PCT,0,0
+"MACARRÃO SEM GLÚTEN",34,50,"Não cotou",PCT,0,0
+MAIONESE,35,400,"Não cotou",UNI,0,0
+MARGARINA,36,500,"Não cotou",KG,0,0
+"MILHO CANJICA",37,150,"Não cotou",UNI,0,0
+"milho verde",38,800,"Não cotou",LAT,0,0
+"ÓLEO DE SOJA NÃO TRANSGÊNICO",39,2000,"Não cotou",UN,0,0
+"OREGANO DESIDRATADO",40,600,"Não cotou",UNI,0,0
+"Pão para cachorro quente",41,62000,"Não cotou",UNI,0,0
+"PÃO SEM GLÚTEN",42,200,"Não cotou",PCT,0,0
+"pêssego em calda",43,125,"Não cotou",LAT,0,0
+"PRESUNTO FATIADO",44,1200,"Não cotou",KG,0,0
+REFRIGERANTE,45,1000,"Não cotou",UNI,0,0
+"sal refinado iodado",46,500,"Não cotou",KG,0,0
+"SALSICHA VERMELHA",47,600,"Não cotou",PCT,0,0
+"tempero pimenta",48,200,"Não cotou",UNI,0,0
+"TEMPERO MANJERICÃO",49,300,"Não cotou",UN,0,0
+"SUCO NATURAL",50,1250,"Não cotou",UNI,0,0
+"SUCO NATURAL",51,3750,"Não cotou",UNI,0,0
+"tempero cominho",52,400,"Não cotou",PT,0,0
+VINAGRE,53,600,"Não cotou",LIT,0,0
+"MILHO PARA PIPOCA",54,700,"Não cotou",PCT,0,0
+"POLVILHO AZEDO",55,250,"Não cotou",PCT,0,0
+"CARNE - MÚSCULO TRASEIRO BOVINO MOÍDO (Lagartão)",56,2500,"Não cotou",KG,0,0
+"CARNE - PALETA GROSSA EM CUBOS",57,2000,"Não cotou",KG,0,0
+"PERNIL SUÍNO CORTADO EM CUBOS",58,2000,"Não cotou",KG,0,0
+"FILE DE PEIXE CONGELADO (TILÁPIA)",59,750,Venceu,KG,24000,32
+"FILE DE PEIXE CONGELADO (TILÁPIA)",60,2250,Venceu,KG,72000,32
+"FILÉ DE FRANGO CONGELADO (SASSAMI)",61,2500,"Não cotou",KG,0,0
+"SOBRECOXA DESOSSADA",62,2000,"Não cotou",KG,0,0
+"Acém Bovino Moído",63,2500,"Não cotou",KG,0,0
+"Acém Bovino",64,2000,"Não cotou",KG,0,0
+"COXA E SOBRECOXA DE FRANGO",65,2500,"Não cotou",KG,0,0
+"LEITE SEM LACTOSE",66,150,"Não cotou",LIT,0,0

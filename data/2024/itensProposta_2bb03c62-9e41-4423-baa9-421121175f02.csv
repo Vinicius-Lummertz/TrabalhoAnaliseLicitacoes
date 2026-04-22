@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressora multifuncional jato de tinta tanque",16936243,20,PERDEU,UN,40000,2000
+"Impressora Multifuncional Laser",16936244,15,VENCEU,UND,55650,3710
+"Impressora Multifuncional Laser",16939419,5,VENCEU,UND,18550,3710
+"Monitor para computador 24""",16936245,40,PERDEU,UND,120000,3000
+"TECLADO ABNT 2 - USB - PT BR",16936249,150,PERDEU,UND,57000,380
+"Refil tinta para impressora HP Ink Tank Wireless 412",16936258,50,PERDEU,UND,19000,380
+"Toner CF258X",16936259,50,VENCEU,UND,19000,380
+"Refil de tinta para impressora Epson EcoTank L380",16936260,50,PERDEU,UND,16000,320
+"Toner Compatível Brother TN1060",16936261,50,DESCLASSIFICADO,UND,20000,400
+"Toner CE285A",16936262,50,DESCLASSIFICADO,UND,40000,800
+"Cartucho de tinta preta para impressora HP OfficeJet 200 Mobile",16936263,50,VENCEU,UND,16500,330
+"Cartucho de tinta colorida para impressora HP OfficeJet 200 Mobile",16936264,50,VENCEU,UND,19900,398

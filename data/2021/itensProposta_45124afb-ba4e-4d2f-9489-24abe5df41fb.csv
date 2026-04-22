@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta SAMU azul marinho",4448348,50,VENCEU,UN,1550,31
+"JAQUETA SAMU EM MICROFIBRA, TAMANHO P, M,G,G,XG,XXG",4448351,20,VENCEU,UN,3700,185
+"Macacão de Emergência  SAMU 192, TAMANHO PP, P, M,G, GG,XG,",4448352,40,VENCEU,UN,12000,300
+"Toalha de banho felpuda 70 x 140 cm",4448373,50,PERDEU,UN,1400,28
+"Toalha de rosto felpuda 45 x 80 cm",4448374,50,PERDEU,UN,650,13

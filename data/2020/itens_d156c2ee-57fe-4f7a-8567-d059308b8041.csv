@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lenço de papel",1301202,12,5000,ATIVO,CAIXA,35700,7.14
+"Bobina Plástica 5kg",1303255,3,310,ATIVO,UNIDADE,11284,36.4
+"Embalagem plástica para bolo, redondo, transparente 270 x 10",1305298,4,1,ATIVO,CAIXA,74.97,74.97
+"Pote plástico Redondo com Tampa, descartavel",1307335,13,5,ATIVO,CAIXA,705.5,141.1
+"Sacos plásticos para acondicionamento cachorro quente",1307337,21,80,ATIVO,FARDO,1440,18
+"Embalagem plástica, retangular Transparente 190 x 120 x 58 m",1309348,7,2,ATIVO,CAIXA,439.9,219.95
+"Embalagem plástica para bolo, retangular, Transparente 347 x",1309349,6,2,ATIVO,CAIXA,265,132.5
+"Sacola de Papel Kraft",1311416,17,8,ATIVO,PACOTE,815.84,101.98
+"Embalagem plástica para bolo, redondo, transparente 347 x 18",1317603,5,2,ATIVO,CAIXA,239,119.5

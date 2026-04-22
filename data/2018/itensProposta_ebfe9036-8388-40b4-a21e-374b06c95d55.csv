@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,25,PERDEU," ",1317.5,52.7
+"APARELHO TELEFONICO S/ FIO",0,10,PERDEU," ",1210,121
+"APARELHO C/ HEADSET COMPACTO",0,6,PERDEU," ",1386,231
+"Switch de 8 portas 10/100",0,12,PERDEU," ",1260,105
+"Switch de16 portas 10/100",0,8,PERDEU," ",2584,323
+"Switch 24 portas 10/100/1000",0,4,PERDEU," ",3648,912
+"Patch panel Cat 05E 24 portas",0,12,PERDEU," ",2172,181
+"Interface de celular",0,3,PERDEU," ",1932,644
+"SUPORTE ARTICULADO P/ MONITOR",0,8,PERDEU," ",520,65
+"ROTEADOR MODEM WIRELLES",0,12,PERDEU," ",1752,146
+"RACK DE 19 7U X 450 MM PAREDE",0,8,PERDEU," ",5512,689
+"Estabilizador 500 VA",0,8,PERDEU," ",1200,150
+"Bucha 6",0,1500,PERDEU," ",795,0.53
+"Cabo utp Lan Cat. 5E",0,5950,PERDEU," ",13804,2.32
+"Canaleta sistema 20 x 10 x 2000 mm",0,300,PERDEU," ",1830,6.1
+"Canaleta sistema 50 x 20 x 2000 mm",0,300,PERDEU," ",4110,13.7
+"Conector RJ 45 Cat. 5E",0,740,PERDEU," ",1295,1.75
+"ETIQUETA IDENTIFICAÇÃO PONTO REDE",0,500,PERDEU," ",350,0.7
+"Fio Elétrico Flexivel 2,5mm",0,4950,PERDEU," ",9405,1.9
+"Abraçadeira pct com 100 unidades",0,15,PERDEU," ",795,53
+"Fita isolante rolo com 20m.",0,30,PERDEU," ",255,8.5
+"Parafuso para bucha 6",0,1500,PERDEU," ",705,0.47
+"Patch Cord 2,5m Cat 5E",0,190,PERDEU," ",3040,16
+"Patch Cord 1,5m Cat 5E",0,190,PERDEU," ",2660,14
+"Tomada 2P + terra NBR",0,250,PERDEU," ",3375,13.5
+"Caixa sist. X 3 X 3",0,380,PERDEU," ",2470,6.5
+"Espelho Sistema X 2 furos para RJ 45",0,200,PERDEU," ",1040,5.2
+"Haste terra",0,10,PERDEU," ",460,46
+"conector haste terra",0,10,PERDEU," ",115,11.5
+"Fio telefônico FE 100(Drope)",0,350,PERDEU," ",630,1.8
+"Conjunto de porca gaiola",0,50,PERDEU," ",135,2.7
+"Jack RJ 45 Keystone",0,300,PERDEU," ",4080,13.6

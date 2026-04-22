@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Controlador de monitoramento de geração fotovoltaica",21998122,1,PERDEU," ",14000,14000
+"Cabo de instrumentação,sinal multipar 4x2x0,50 mm² blindado",21998122,700,PERDEU," ",24500,35
+"Rack de parede metálico 8U x 350mm com porta frontal",21998122,1,PERDEU," ",1350,1350
+Nobreak,21998122,1,PERDEU," ",1540,1540
+"Serviços de instalação, configuração e testes",21998122,1,PERDEU," ",6200,6200

@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Banqueta em madeira maciça",0,2200,VENCEU," ",19800,9
+"Cadeira em Polipropileno na cor branca",0,10000,VENCEU," ",45000,4.5
+"Cadeira fixa estofada",0,500,VENCEU," ",1850,3.7
+"FOGAO INDUSTRIAL",0,50,VENCEU," ",11280,225.6
+"Freezer horizontal 300 litros",0,50,VENCEU," ",13510,270.2
+"Geladeira vertical",0,50,VENCEU," ",7520,150.4
+"Mesa bistrô",0,1100,VENCEU," ",24750,22.5
+"Mesa em Polipropileno, na cor branca",0,2500,VENCEU," ",15000,6
+"Mesa redonda com tampo de vidro",0,100,VENCEU," ",2250,22.5
+"Puff estofado de 1 lugar",0,100,VENCEU," ",1500,15
+"SOFÁ 2 LUGARES",0,100,VENCEU," ",11280,112.8
+"SOFA 1 LUGAR ESTOFADO",0,100,VENCEU," ",7520,75.2
+"Vasos decorativos com plantas naturais",0,200,VENCEU," ",16540,82.7
+"Estruturas metálicas para arquibancada",0,4000,VENCEU," ",324080,81.02
+Barricada.,0,1500,VENCEU," ",101265,67.51
+"Estandes com Montagens Básicas",0,10000,VENCEU," ",236300,23.63
+"Estande Especial para Eventos",0,5000,VENCEU," ",253150,50.63
+"Estande Construído para Eventos",0,2000,VENCEU," ",162040,81.02
+"Camarim para Eventos",0,800,VENCEU," ",46080,57.6
+"Separador de Fila, Organizador de Fila",0,1500,VENCEU," ",60765,40.51
+CARPETE,0,11000,VENCEU," ",111320,10.12

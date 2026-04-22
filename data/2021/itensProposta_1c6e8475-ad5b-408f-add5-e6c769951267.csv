@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Viagens de estudo/Municipal",4985835,25000,PERDEU,km,245000,9.8
+"Viagens de estudo/ Intermunicipais.",4985836,70000,PERDEU,km,671300,9.59
+"Viagens de estudo/ InterEstaduais",4985837,30000,VENCEU,km,288000,9.6

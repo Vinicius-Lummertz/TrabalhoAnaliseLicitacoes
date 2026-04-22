@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de serralheiro/soldador sem deslocamento",1300208,4,55,ATIVO,HORAS,4950,90
+"Guarda-corpo com tubo metálico, 2 (polegadas), pintura elet",1302248,1,60,ATIVO,"METRO QUADRADO",24600,410
+"Corrimão metálico com pintura eletrostática ( metro linear)",1302249,2,60,ATIVO,"METRO QUADRADO",14100,235
+"Serviço de serralheiro/soldador com deslocamento",1314549,5,30,ATIVO,HORAS,4200,140
+"Portão chapeado galvanizado, pintura eletrostática, tubo 40x",1318633,3,60,ATIVO,"METRO QUADRADO",21000,350

@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Oxímetro de pulso clipe de dedo, portátil",4444133,3,INABILITADO,UN,525,175
+"Cadeira de rodas adulto   manual",4444135,6,PERDEU,UN,9594,1599
+"Escadinha hospitalar com 02 degraus em aço inox",4444137,12,VENCEU,UNI,1920,160
+"Foco auxiliar e ginecológico portátil, lâmpada LED, com espe",4444138,5,PERDEU,UNI,2350,470
+"Suporte de soro em aço inox",4444141,2,INABILITADO,UN,420,210
+"Autoclave esterilização a vapor",4444145,1,PERDEU,UNI,5645,5645
+"Mocho giratório com encosto e rodízios",4444147,4,VENCEU,UN,1260,315
+"Aspirador Cirúrgico Elétrico Portátil",4444148,1,INABILITADO,UNI,370,370
+"Foco Cirúrgico Auxiliar com tecnologia LED",4444149,1,INABILITADO,UN,17900,17900
+"Balança Eletrônica digital Adulto Obeso visor LED",4444151,1,INABILITADO,UN,1140,1140
+"Balança digital infantil, visor em LED",4444152,1,VENCEU,UN,580,580
+"Conjunto de Oxigênio Medicinal Portátil",4444153,1,VENCEU,UN,1080,1080
+"Detector de batimento cardíaco fetal digital portátil",4444154,2,VENCEU,UN,910,455
+"Eletrocardiógrafo Portátil, digital, 12 derivações de ECG, c",4444159,2,PERDEU,UN,18500,9250
+"Oftalmoscópio fibra ótica, iluminação LED",4444162,2,VENCEU,UNI,1340,670
+"Negatoscópio de 1 corpo, de parede, iluminação LED",4444163,4,VENCEU,UN,920,230
+"Otoscópio fibra ótica, com 5 espéculos reutilizáveis (Esteri",4444164,4,INABILITADO,CJ,1840,460

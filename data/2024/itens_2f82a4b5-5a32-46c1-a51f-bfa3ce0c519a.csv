@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BATERIA ACÚSTICA",6057857,1,2,ATIVO,UNIDADE,15960,7980
+"KIT PRATO - PAR DE PRATO : ATAQUE, CONDUÇÃO, CHIMBAL",6057858,2,2,ATIVO,kit,4600,2300
+"Par Prato China 14'",6057859,3,2,ATIVO,PAR,1040,520
+"Pele batedeira para surdo 12",6057860,33,46,ATIVO,UNIDADE,460,10
+"Pele batedeira para surdo 14",6057861,34,46,ATIVO,UNIDADE,634.8,13.8
+"Pele de resposta caixa 12",6057862,35,20,ATIVO,UNIDADE,240,12
+"Pele de resposta para tarol e caixa 14",6057863,36,66,ATIVO,UNIDADE,891,13.5
+"Surdo médio",6139846,22,56,ATIVO,UNIDADE,11200,200

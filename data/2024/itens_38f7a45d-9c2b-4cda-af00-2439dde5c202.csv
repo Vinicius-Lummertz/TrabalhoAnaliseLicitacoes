@@ -1,0 +1,25 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",6093551,1,135,ATIVO,UNIDADE,5790.15,42.89
+"Bola de Futsal Infantil para Treinamento",6093552,4,110,ATIVO,UNIDADE,5936.7,53.97
+"Bola de Basquete OFICIAL",6093553,7,60,ATIVO,UNIDADE,1649.4,27.49
+"Bola de Voleibol de Quadra para Treinamento",6093554,12,80,ATIVO,UNIDADE,12799.2,159.99
+"Marcação de Quadra de Vôlei de Praia/Areia",6093555,16,5,ATIVO,kit,279.45,55.89
+"Jogo de Peças de Xadrez Oficial",6093556,19,55,ATIVO,JOGO,1924.45,34.99
+"Tabuleiro de Xadrez Oficial",6093557,20,55,ATIVO,UNIDADE,824.45,14.99
+"Touca de Natação",6093558,24,100,ATIVO,UNIDADE,1300,13
+"CONE CHAPÉU CHINÊS",6093559,36,200,ATIVO,UNIDADE,344,1.72
+"Corda de Pular",6093560,37,50,ATIVO,UNIDADE,724.5,14.49
+"Bomba de Ar para Bolas",6093561,38,26,ATIVO,UNIDADE,381.94,14.69
+"Placar de Mesa",6093562,40,26,ATIVO,UNIDADE,2599.74,99.99
+"Apito de Mesa",6093563,41,15,ATIVO,UNIDADE,161.85,10.79
+"Apito profissional",6093564,42,60,ATIVO,UNIDADE,599.4,9.99
+"Skate para Iniciantes",6093565,43,80,ATIVO,UNIDADE,7639.2,95.49
+"Capacete de Skate",6093566,44,80,ATIVO,UNIDADE,4799.2,59.99
+"Kit de Proteção Esportivo",6093567,45,80,ATIVO,kit,3519.2,43.99
+"Faixa Elástica Nível Forte",6093568,46,10,ATIVO,UNIDADE,139.9,13.99
+"Faixa Elástica Nível Médio",6093569,47,10,ATIVO,UNIDADE,125.9,12.59
+"Faixa Elástica Nível Fraco",6093570,48,10,ATIVO,UNIDADE,127.9,12.79
+"Mini Band Nível Forte",6093571,49,30,ATIVO,UNIDADE,287.7,9.59
+"Mini Band Nível Médio",6093572,50,30,ATIVO,UNIDADE,278.1,9.27
+"Mini Band Nível Fraco",6093573,51,30,ATIVO,UNIDADE,268.5,8.95
+"Prato para Tiro Esportivo",6093574,52,40000,ATIVO,UNIDADE,27200,0.68

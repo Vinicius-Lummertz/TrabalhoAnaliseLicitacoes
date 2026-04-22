@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CABO PP",0,150,PERDEU," ",594,3.96
+"Cano cobre ½",0,100,PERDEU," ",1720,17.2
+"Cano cobre ¼",0,120,PERDEU," ",1190.4,9.92
+"Cano cobre ¾",0,100,PERDEU," ",3200,32
+"Cano cobre 3/8",0,120,PERDEU," ",1881.6,15.68
+"Cano cobre 5/8",0,75,PERDEU," ",1800,24
+"Cano esponjoso ¼",0,60,PERDEU," ",100.8,1.68
+"Cano esponjoso ½",0,60,PERDEU," ",120,2
+"Cano esponjoso ¾",0,60,PERDEU," ",196.8,3.28
+"Cano esponjoso 3/8",0,60,PERDEU," ",139.2,2.32
+"Cano esponjoso 5/8",0,60,PERDEU," ",187.2,3.12
+"Capacitor 380V 2 MF",0,50,PERDEU," ",328,6.56
+"Capacitor 380V 4 MF",0,50,PERDEU," ",368,7.36
+"CAPACITOR 380 V  6 UF",0,50,PERDEU," ",408,8.16
+"Capacitor 380V 25 MF",0,50,PERDEU," ",1052,21.04
+"Capacitor 380V 30 MF",0,100,PERDEU," ",2368,23.68
+"Capacitor 380V 35 MF",0,150,PERDEU," ",3552,23.68
+"Capacitor 380V 40 MF",0,100,PERDEU," ",2368,23.68
+"Capacitor 380V 45 MF",0,75,PERDEU," ",2148,28.64
+"Capacitor 380V 55 MF",0,50,PERDEU," ",1560,31.2
+"Chave contactora CWM 09",0,15,PERDEU," ",1860,124
+"Chave contactora CWM 10",0,15,PERDEU," ",1980,132
+"Compressor para Split 9000 BTUS",0,10,PERDEU," ",3452.3,345.23
+"Compressor para Split 12000 BTUS",0,10,PERDEU," ",3640,364
+"Compressor para Split 18000 BTUS",0,10,PERDEU," ",4240,424
+"Compressor para Split 24000 BTUS",0,10,PERDEU," ",4760,476
+"Compressor para Split 30000 BTUS",0,10,PERDEU," ",6480,648
+"Compressor para Split 60000 BTUS",0,3,PERDEU," ",3600,1200
+"CONTROLE REMOTO",0,50,PERDEU," ",2000,40
+"GÁS R410",0,150,PERDEU," ",17400,116
+"Gás R22",0,150,PERDEU," ",14400,96
+"HELICE DE AR CONDICIONADO 7000Á 24000 BTUS",0,10,PERDEU," ",1000,100
+"Placa eletrônica para split",0,60,PERDEU," ",9600,160
+"Moto de ventilador",0,20,PERDEU," ",2960,148
+"Suporte split 7/12000btus",0,15,PERDEU," ",240,16
+"Suporte split 18/30000btus",0,15,PERDEU," ",360,24
+"Termostato ar cond. 1601",0,10,PERDEU," ",240,24
+"TURBINA VENTILADOR",0,10,PERDEU," ",960,96
+"INSTALAÇÃO D AR CONDICIONADO",0,50,PERDEU," ",14000,280
+"SERVIÇO DE HORA CORRETIVA",0,750,PERDEU," ",45000,60
+"SERVIÇO HORA PREVENTIVA",0,2400,PERDEU," ",144000,60

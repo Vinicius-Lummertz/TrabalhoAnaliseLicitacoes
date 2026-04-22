@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",11967160,4000,PERDEU,AMP,9560,2.39
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,76320,8.48
+"benzilpenicilina benzatina - 600.000 UI",11967194,1000,VENCEU,FR/AM,8150,8.15
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,8450,1.69
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,8430,2.81
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,14500,14.5
+"Cimetidina 150mg/ml, ampola 2ml.",11967223,1500,PERDEU,AM,2625,1.75
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,PERDEU,AMP,14350,2.87
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,6080,1.52
+"Etomidato 2mg/ml, injetável, ampola 10ml.",11967273,1000,PERDEU,AMP,19500,19.5
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",11967279,1500,PERDEU,AMP,3675,2.45
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",11967280,2000,PERDEU,AM,11900,5.95
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,PERDEU,AMP,25920,3.24
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,2010,10.05
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,13400,3.35
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,6600,3.3
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",11967406,2000,PERDEU,AMP,8600,4.3

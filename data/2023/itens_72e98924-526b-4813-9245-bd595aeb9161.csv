@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coleiras repelentes P (48 cm)",4285076,7,100,ATIVO,UNIDADE,7149,71.49
+"Coleiras repelentes G (65cm)",4285077,8,100,ATIVO,UNIDADE,8449,84.49
+"Vacina polivalente (múltipla) para cães",4285078,10,800,ATIVO,FRASCO,8624,10.78
+"Vermífugo oral de amplo espectro para cães",4285079,12,500,ATIVO,COMPRIMIDO,1045,2.09
+"Vermífugo oral de amplo espectro para gatos",4285080,13,500,ATIVO,COMPRIMIDO,1245,2.49
+"Antipulgas e carrapatos para cães de até 10 kg (pipeta)",4285081,14,200,ATIVO,pipeta,6398,31.99
+"Antipulgas e carrapatos para gatos de até 10 kg (pipeta)",4285082,15,200,ATIVO,pipeta,6598,32.99
+"Sedativo injetável - Acepromazina 0,2%",4285083,16,6,ATIVO,FRASCO,224.4,37.4
+"Antialérgico loratadina 10 mg",4285084,19,100,ATIVO,COMPRIMIDO,506,5.06

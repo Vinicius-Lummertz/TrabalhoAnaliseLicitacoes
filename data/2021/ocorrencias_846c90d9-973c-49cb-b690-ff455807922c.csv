@@ -1,0 +1,8 @@
+data,justificativa,responsavel,tipo
+2022-02-08,"Transferencia dos itens: 151,186 e 187","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-02-08,"Alteração de preços após recebimento de itens 151,186 e 187","CLESIO SALVARO",ALTERACAO_PRECOS
+2022-05-02,"Registro de Fornecedor remanescente","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-05-02,"Reajuste de preço apos recebimento de item 027","CLESIO SALVARO",ALTERACAO_PRECOS
+2022-05-18,"tranferencia do item 24","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-05-18,"reequilibrio apos recebimento do item 24","CLESIO SALVARO",ALTERACAO_PRECOS
+2022-05-24,REEQUILÍBRIO,"CLESIO SALVARO",ALTERACAO_PRECOS

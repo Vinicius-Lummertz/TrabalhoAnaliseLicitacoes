@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Termometro clinico infravermelho",3312415,234,120,ATIVO,UNIDADE,5880,49
+"Estetoscópio adulto duo sonic",3312416,244,250,ATIVO,UNIDADE,3130,12.52
+"Reanimador manual adulto",3312417,245,60,ATIVO,UNIDADE,7500,125

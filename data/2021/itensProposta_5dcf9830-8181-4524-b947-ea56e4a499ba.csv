@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",5883397,5,PERDEU,FR.,5500,1100
+"Coleiras repelentes P",5883398,100,PERDEU,UN,9000,90
+"Coleiras repelentes G",5883399,100,PERDEU,UN,10000,100
+"Vacina polivalente (múltipla) para cães",5883401,600,VENCEU,FRA,8040,13.4
+"Vermífugo oral de amplo espectro para cães e gatos",5883403,100,PERDEU,CX,1140,11.4
+"Luva Raspa de couro cano longo",5883415,20,PERDEU,PAR,326,16.3
+Capacete.,6419397,73,PERDEU,UNID,18250,250
+"Capa de chuva Conjunto calça com jaqueta",6419693,115,PERDEU,UNID,18400,160
+"Bota impermeável",6420007,64,PERDEU,PAR,3680,57.5
+"Botina botina",6420124,64,PERDEU,PAR,3680,57.5

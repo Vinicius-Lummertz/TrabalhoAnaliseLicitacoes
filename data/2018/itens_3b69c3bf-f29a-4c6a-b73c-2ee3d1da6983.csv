@@ -1,0 +1,23 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",1262342,1,5000,ATIVO,UNIDADE,150,0.03
+"Atestado Médico",1262343,2,1000,ATIVO,BLOCO,1690,1.69
+"Atestado Médico para Gestantes",1262344,3,150,ATIVO,BLOCO,298.5,1.99
+"Bacteriologia da tuberculose .",1262345,7,30,ATIVO,BLOCO,105,3.5
+"Comprovante de Reuniões Educativas",1262346,15,10,ATIVO,BLOCO,92.9,9.29
+"Cuidados para vasectomia",1262347,19,40,ATIVO,BLOCO,255.6,6.39
+"Estudo sócio-econômica CAPS II ad-",1262348,24,10,ATIVO,BLOCO,97.4,9.74
+"ficha de Observação do animal agressor",1262349,36,20,ATIVO,BLOCO,133.8,6.69
+"Laudo Médico para emissão de BPA-I (anti - HCV)",1262350,42,5,ATIVO,BLOCO,99.95,19.99
+"Orientações CAPS III- frente e verso",1262351,50,40,ATIVO,BLOCO,210,5.25
+"Planilha de visitas domiciliares- CAPS II",1262352,51,10,ATIVO,BLOCO,72.9,7.29
+"Plano Terapêutico singular CAPS II ad- frente e verso",1262353,52,20,ATIVO,BLOCO,99.8,4.99
+"Programa Nacional de Controle da Dengue - PNCD",1262354,57,800,ATIVO,BLOCO,1592,1.99
+"Receituário B1",1262355,59,8000,ATIVO,BLOCO,2960,0.37
+"Receituário retinóide",1262356,64,50,ATIVO,BLOCO,114.5,2.29
+"Requisição de ultrassonografia",1262357,71,300,ATIVO,BLOCO,1005,3.35
+"Requisição para exame laboratório Conveniado",1262358,73,300,ATIVO,BLOCO,990,3.3
+"Requisição para exame laboratório Municipal",1262359,74,300,ATIVO,BLOCO,990,3.3
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",1262360,87,50,ATIVO,BLOCO,199.5,3.99
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",1262361,88,50,ATIVO,BLOCO,199.5,3.99
+"SISVAN- cadastro de domícilio",1262362,89,50,ATIVO,BLOCO,199.5,3.99
+"SISVAN- Mapa de Acompanhamento Nutricional",1262371,90,50,ATIVO,BLOCO,199.5,3.99

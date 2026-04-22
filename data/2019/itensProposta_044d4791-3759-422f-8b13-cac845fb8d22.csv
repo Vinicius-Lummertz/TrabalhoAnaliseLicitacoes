@@ -1,0 +1,80 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária  com 5 Litros.",4385494,180,PERDEU,GAL,1798.2,9.99
+Alvejante,4385495,120,VENCEU,GAL,950.4,7.92
+"Amaciante para tecidos",4385496,70,DESCLASSIFICADO,GAL,1679.3,23.99
+"Desinfetante de uso geral",4385497,180,DESCLASSIFICADO,GAL,2482.2,13.79
+"Detergente Neutro Líquido de Uso Geral",4385498,180,DESCLASSIFICADO,GAL,2799,15.55
+"Sabão liquido de coco",4385499,60,PERDEU,GAL,540,9
+"Detergente com Cera Para Veículos",4385500,120,DESCLASSIFICADO,GAL,7599.6,63.33
+"Limpa pneus com silicone",4385501,80,PERDEU,GAL,2880,36
+"Desinfetante limpador de uso geral",4385502,30,PERDEU,GAL,3990,133
+"Sabonete Líquido com Bico Dosador Pump",4385503,300,PERDEU,EMB,4197,13.99
+"Sabonete líquido, perfumado galão contendo 5 litros",4385504,60,PERDEU,UND,2340,39
+"Saboneteira de Mesa com Pump",4385505,25,PERDEU,UND,287.5,11.5
+"Álcool etílico em gel 70% (70 INPM)",4385506,100,PERDEU,GR,999,9.99
+"Álcool etílico hidratado 96% (92,8º INPM)",4385507,60,DESCLASSIFICADO,LT,599.4,9.99
+"Lustra móveis .",4385508,60,PERDEU,FRA,540,9
+"Desodorizador de ambientes 360 ml.",4385509,60,PERDEU,FRA,599.4,9.99
+"Pedra Sanitária",4385510,300,PERDEU,UND,741,2.47
+"Sabão em barra",4385511,30,PERDEU,PCT,299.7,9.99
+"Sabão em pó .",4385512,60,VENCEU,KG,480,8
+"Saponáceo em pó;",4385513,30,PERDEU,CXA,207,6.9
+"Saponáceo cremoso 300gr.",4385514,60,PERDEU,FRA,192,3.2
+"Escova para lavar roupas",4385515,20,PERDEU,UND,130,6.5
+"Esfregão de Aço",4385517,250,PERDEU,UND,625,2.5
+"Esponja de lã de Aço.",4385518,120,PERDEU,PCT,348,2.9
+ESPONJA,4385519,180,PERDEU,PCT,1368,7.6
+"Luva para Limpeza.",4385521,40,DESCLASSIFICADO,UND,368,9.2
+"Balde Espremedor",4385522,1,PERDEU,UND,399,399
+"Refil Mopi úmido (refil)",4385523,60,PERDEU,UND,1620,27
+"Cabo de aluminio para suporte de Mop Úmido",4385524,10,PERDEU,UND,250,25
+"Balde com espremedor giratório",4385525,6,VENCEU,UND,1422,237
+"Refil para balde giratório",4385526,40,VENCEU,UND,760,19
+"Pá de lixo plástica.",4385528,4,PERDEU,UND,112,28
+"Pano Multiúso",4385530,60,PERDEU,RL,8820,147
+"Bobina de Papel Toalha",4385531,80,VENCEU,CX,4665.6,58.32
+"Papel Higiênico Rolão",4385534,60,DESCLASSIFICADO,FRD,4740,79
+"Saco plástico de lixo doméstico de polietileno 240 L",4385538,20,PERDEU,UND,2540,127
+"Saco plástico de lixo domestico de polietileno,100 litros",4385539,10,PERDEU,PCT,590,59
+"Vassoura Nylon",4385542,20,PERDEU,UND,471,23.55
+"VASSOURA PALHA",4385543,20,PERDEU,UND,531.4,26.57
+"Copo descartavel 180 ml",4385544,15,DESCLASSIFICADO,CX,1335,89
+"copo descartavel 300ml CX transparente",4385545,15,VENCEU,CX,1435.5,95.7
+"Guardanapo de papel folha simples",4385546,150,PERDEU,UND,366,2.44
+"Caixa arquivo morto desmontável",4385552,100,PERDEU,UND,450,4.5
+"Caneta esferográfica azul;",4385555,100,PERDEU,UND,97,0.97
+"Caneta esferografica vermelha.",4385556,50,PERDEU,UND,48.5,0.97
+"Caneta esferografica preta.",4385557,100,PERDEU,UND,97,0.97
+"Envelope Saco na cor parda 162 x 229",4385564,10,PERDEU,CX,499,49.9
+"Envelope pardo 240 x 340",4385565,20,PERDEU,CX,1260,63
+"Envelopes de Polietileno",4385566,15,PERDEU,CX,1635,109
+"Fita auto adesiva crepe",4385569,25,VENCEU,UND,244.25,9.77
+"Fita adesiva para Rotulador Eletrônico",4385570,30,VENCEU,UND,2430,81
+"Folha A4",4385571,300,PERDEU,RES,7137,23.79
+"Folha A4 Timbrada",4385572,300,VENCEU,RES,22491,74.97
+"Pilhas AA",4385589,60,PERDEU,EMB,599.4,9.99
+"Pilhas alcalinas C",4385590,30,PERDEU,EMB,449.7,14.99
+"Pilhas alcalinas AAA",4385591,60,PERDEU,EMB,599.4,9.99
+"Plástico autoadesivo transparente",4385592,3,PERDEU,RL,279.99,93.33
+"Toner Preto HP color laserjet pro mfp m177fw original",4385599,20,VENCEU,UND,7384,369.2
+"Toner Ciano HP color laserjet pro mfp m177fw original",4385600,15,VENCEU,UND,5790,386
+"Toner Magenta HP color laserjet pro mfp m177fw original",4385601,15,VENCEU,UND,5790,386
+"Toner Amarelo HP color laserjet pro mfp m177fw original",4385602,15,VENCEU,UND,5790,386
+"Toner Preto HP color laserjet pro mfp m180fw original",4385603,20,VENCEU,UND,7000,350
+"Toner Ciano HP color laserjet pro mfp m180fw original",4385604,15,VENCEU,UND,4425,295
+"Toner Magenta HP color laserjet pro mfp m180fw original",4385605,15,VENCEU,UND,4710,314
+"Toner Amarelo HP color laserjet pro mfp m180fw original",4385606,15,VENCEU,UND,4710,314
+"Toner HP laserjet pro mfp m 521 dn original",4385607,15,VENCEU,UND,10905,727
+"Toner HP laserjet m1132 e m1212 MFP original",4385608,15,VENCEU,UND,4155,277
+"Toner RICOH Aficio MP171 e MP201 original",4385609,20,VENCEU,UND,1042,52.1
+"Toner Preto HP color laserjet pro mfp m177fw compatível",4385610,30,PERDEU,UND,1389,46.3
+"Toner Ciano HP color laserjet pro mfp m177fw compatível",4385611,30,PERDEU,UND,1469.7,48.99
+"Toner Magenta HP color laserjet pro mfp m177fw compatível",4385612,30,PERDEU,UND,1469.7,48.99
+"Toner Amarelo HP color laserjet pro mfp m177fw compatível",4385613,30,PERDEU,UND,1469.7,48.99
+"Toner Preto HP color laserjet pro mfp m180fw compatível",4385614,30,PERDEU,UND,5364,178.8
+"Toner Ciano HP color laserjet pro mfp m180fw compatível",4385615,30,PERDEU,UND,5970,199
+"Toner Magenta HP color laserjet pro mfp m180fw compatível",4385616,30,PERDEU,UND,5970,199
+"Toner Amarelo HP color laserjet pro mfp m180fw compatível",4385617,30,PERDEU,UND,5970,199
+"Toner HP laserjet pro mfp m 521 dn compatível",4385618,30,PERDEU,UND,2274,75.8
+"Toner HP laserjet m1132 e m1212 MFP compatível",4385619,30,PERDEU,UND,939,31.3
+"Toner RICOH Aficio MP171 e MP201 compatível",4385620,30,VENCEU,UND,1057.5,35.25

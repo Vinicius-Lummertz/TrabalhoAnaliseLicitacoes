@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CARNE - PALETA GROSSA EM CUBOS",1,0,"Não cotou",KG,0,0
+"FILE DE PEIXE CONGELADO (TILÁPIA)",2,2200,Perdeu,KG,110000,50
+"FILÉ DE FRANGO CONGELADO (SASSAMI)",3,0,"Não cotou",KG,0,0
+"SOBRECOXA DESOSSADA",4,0,"Não cotou",KG,0,0
+"Acém Bovino Moído",5,0,"Não cotou",KG,0,0
+"Acém Bovino",6,0,"Não cotou",KG,0,0
+"COXA E SOBRECOXA DE FRANGO",7,0,"Não cotou",KG,0,0

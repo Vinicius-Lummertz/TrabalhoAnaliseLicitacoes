@@ -1,0 +1,52 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,50,DESCLASSIFICADO," ",398,7.96
+"Cano cobre ½",0,25,DESCLASSIFICADO," ",620,24.8
+"Cano cobre ¼",0,25,DESCLASSIFICADO," ",300,12
+"Cano cobre ¾",0,25,DESCLASSIFICADO," ",1110,44.4
+"Cano cobre 3/8",0,25,DESCLASSIFICADO," ",555.75,22.23
+"Cano cobre 5/8",0,25,DESCLASSIFICADO," ",807.5,32.3
+"Cano esponjoso ¼",0,25,DESCLASSIFICADO," ",97.5,3.9
+"Cano esponjoso ½",0,25,DESCLASSIFICADO," ",99.5,3.98
+"Cano esponjoso ¾",0,25,DESCLASSIFICADO," ",106.25,4.25
+"Cano esponjoso 3/8",0,25,DESCLASSIFICADO," ",93.75,3.75
+"Cano esponjoso 5/8",0,25,DESCLASSIFICADO," ",100,4
+"Capacitor 380V 2 MF",0,25,DESCLASSIFICADO," ",300,12
+"Capacitor 380V 3 MF",0,25,DESCLASSIFICADO," ",450,18
+"Capacitor 380V 4 MF",0,25,DESCLASSIFICADO," ",475,19
+"Capacitor 380V 5 MF",0,25,DESCLASSIFICADO," ",500,20
+"Capacitor 380V 8 MF",0,25,DESCLASSIFICADO," ",500,20
+"Capacitor 380V 10 MF",0,25,DESCLASSIFICADO," ",501,20.04
+"Capacitor 380V 15 MF",0,25,DESCLASSIFICADO," ",474.25,18.97
+"Capacitor 380V 20 MF",0,25,DESCLASSIFICADO," ",475,19
+"Capacitor 380V 25 MF",0,25,DESCLASSIFICADO," ",707.75,28.31
+"Capacitor 380V 30 MF",0,25,DESCLASSIFICADO," ",700,28
+"Capacitor 380V 35 MF",0,25,DESCLASSIFICADO," ",700,28
+"Capacitor 380V 40 MF",0,25,DESCLASSIFICADO," ",700,28
+"Capacitor 380V 45 MF",0,25,DESCLASSIFICADO," ",958.75,38.35
+"Capacitor 380V 55 MF",0,25,DESCLASSIFICADO," ",958.75,38.35
+"Chave contactora CWM 09",0,3,DESCLASSIFICADO," ",900,300
+"Chave contactora CWM 10",0,3,DESCLASSIFICADO," ",900,300
+"Compressor para Split 9000 BTUS",0,3,DESCLASSIFICADO," ",1251,417
+"Compressor para Split 12000 BTUS",0,3,DESCLASSIFICADO," ",1321.5,440.5
+"Compressor para Split 18000 BTUS",0,3,DESCLASSIFICADO," ",1734,578
+"Compressor para Split 24000 BTUS",0,3,DESCLASSIFICADO," ",1980,660
+"Compressor para Split 30000 BTUS",0,2,DESCLASSIFICADO," ",1994,997
+"Compressor para Split 60000 BTUS",0,1,DESCLASSIFICADO," ",1269,1269
+"Controle remoto univ. ar split",0,20,DESCLASSIFICADO," ",1854.8,92.74
+"Filtro do pó ar cond.",0,16,DESCLASSIFICADO," ",800,50
+"Fita PVC 100mm branca",0,50,DESCLASSIFICADO," ",190,3.8
+"Gás R134 (carga)",0,50,DESCLASSIFICADO," ",7500,150
+"Gás R22 (carga)",0,50,DESCLASSIFICADO," ",7500,150
+"Helice de Ar condicionado 7.000 Btus",0,5,DESCLASSIFICADO," ",475,95
+"Hélice ar cond.  10/18000btus",0,5,DESCLASSIFICADO," ",600,120
+"Placa eletrônica para split",0,15,DESCLASSIFICADO," ",8490,566
+"Moto de ventilador",0,5,DESCLASSIFICADO," ",1000,200
+"Rele Monti",0,8,DESCLASSIFICADO," ",256,32
+"Sensor de temperatura frio",0,6,DESCLASSIFICADO," ",345.9,57.65
+"Sensor temp. aquecimento",0,6,DESCLASSIFICADO," ",345.9,57.65
+"Suporte split 7/12000btus",0,10,DESCLASSIFICADO," ",415,41.5
+"Suporte split 18/30000btus",0,10,DESCLASSIFICADO," ",504.2,50.42
+"Termostato ar cond. 1601",0,10,DESCLASSIFICADO," ",590,59
+"Turbina ventilador 10/30000",0,7,DESCLASSIFICADO," ",980,140
+"Instalação de  Ap. de Ar Condicionado",0,14,DESCLASSIFICADO," ",6300,450
+"Serviço (Hora)",0,750,DESCLASSIFICADO," ",75000,100

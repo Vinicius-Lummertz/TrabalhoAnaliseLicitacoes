@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Toner  CF 410 Preto (Compatível)",16424509,30,PERDEU,UND,1947,64.9
+"Toner  CF 411  Ciano (compatível)",16424510,30,PERDEU,UND,2035.5,67.85
+"Toner  CF 412  Yello   (compatível)",16424511,30,PERDEU,UND,2026.5,67.55
+"Toner  CF 413  Magenta  (compatível)",16424512,30,PERDEU,UND,2037,67.9
+"Toner Amarelo HP color laserjet pro mfp m177fw compatível",16424513,40,VENCEU,UND,1020,25.5
+"Toner Amarelo HP color laserjet pro mfp m180fw compatível",16424515,33,PERDEU,UND,2306.7,69.9
+"Toner Ciano HP color laserjet pro mfp m177fw compatível",16424517,40,VENCEU,UND,1020,25.5
+"Toner Ciano HP color laserjet pro mfp m180fw compatível",16424519,33,VENCEU,UND,1419,43
+"Toner HP laserjet m1132 e m1212 MFP compatível",16424521,35,VENCEU,UND,700,20
+"Toner HP laserjet pro mfp m 521 dn compatível",16424523,40,PERDEU,UND,2796,69.9
+"Toner Magenta HP color laserjet pro mfp m177fw compatível",16424525,40,VENCEU,UND,791.6,19.79
+"Toner Magenta HP color laserjet pro mfp m180fw compatível",16424527,33,PERDEU,UND,2306.7,69.9
+"Toner Preto HP color laserjet pro mfp m177fw compatível",16424529,55,VENCEU,UND,1087.9,19.78
+"Toner Preto HP color laserjet pro mfp m180fw compatível",16424531,35,VENCEU,UND,1222.9,34.94

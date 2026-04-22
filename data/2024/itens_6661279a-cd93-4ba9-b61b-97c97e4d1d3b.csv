@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria Dell Inspirion 5557 (070A)",5997474,5,5,ATIVO,UNIDADE,1339.95,267.99
+"Cartão Memória Micro SD 32gb",5997475,18,5,ATIVO,UNIDADE,381.95,76.39
+"Memória DDR4 8Gb para Desktop",5997476,28,16,ATIVO,UNIDADE,2032,127
+"Monitor Médio",5997477,34,5,ATIVO,UNIDADE,4888,977.6
+"Monitor Tela Curva",5997478,35,1,ATIVO,UNIDADE,9300,9300
+"Mouse sem fio",5997479,37,20,ATIVO,UNIDADE,3380,169
+"Pen drive 32Gb",5997480,46,10,ATIVO,UNIDADE,319.9,31.99
+"Smartphone Resistente",5997481,52,6,ATIVO,UNIDADE,20634,3439
+"torre de som",5997482,62,1,ATIVO,UNIDADE,2920,2920

@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa de madeira de 1m de altura, 80 de largura",7884466,12,VENCEU,UND,46788,3899
+"Caixa de madeira de 2m de altura, 80 de largura e 50 de profundidade",7884467,3,VENCEU,UND,11877,3959
+"Camiseta em algodao",7884468,150,PERDEU,UND,6915,46.1
+"Flamula em veludo em formato triangulo",7884469,150,VENCEU,UND,49350,329
+"MODELO 01. Conjunto de uniforme para fanfarra unissex com 6 peças",7884470,90,PERDEU,CJ,62910,699
+"MODELO 02.Conjunto de uniforme para fanfarra unissex com 6 peças",7884471,55,PERDEU,CJ,38445,699
+"MODELO 3, Conjunto de uniforme para fanfarra unissex com 6 peças",7884472,90,PERDEU,CJ,62910,699
+"MODELO 4, Conjunto de uniforme para corpo coreográfico masculino com 8 peças",7884473,20,VENCEU,CJ,12200,610
+"MODELO 5, Conjunto de uniforme para corpo coreográfico feminino com 8 peças",7884474,20,VENCEU,CJ,12200,610
+"Standard em veludo",7884475,12,VENCEU,UND,6600,550

@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Colhedora de forragens (ensiladeira)",4399659,6,PERDEU,UND,171000,28500
+"Carreta caçamba, com pneus novos de 11.0 L 16",4399660,5,VENCEU,UND,107500,21500
+"Arado subsolador 5 haste",4399661,5,PERDEU,UND,0,0
+"Roçadeira com capacidade do tanque de combustível",4399662,3,PERDEU,UND,0,0
+"Semeadora, adubadora hidráulica",4399663,2,VENCEU,UND,48000,24000
+"Raspadeira, modelo STA",4399664,1,PERDEU,UND,0,0
+"Grade hidráulica com 28 discos por 22 polegadas",4399665,1,PERDEU,UND,0,0
+"Distribuidor de adubo orgânico",4399666,1,PERDEU,UND,0,0

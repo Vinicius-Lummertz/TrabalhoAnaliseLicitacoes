@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"IMPRESSÃO PRETO E BRANCO, TAMANHO A4, FOLHA BRANCA, PAPEL 75",0,2000,DESCLASSIFICADO," ",460,0.23
+"IMPRESSÃO COLORIDA, TAMANHO A4, FOLHA BRANCA, PAPEL 75 M/G,",0,1000,DESCLASSIFICADO," ",1620,1.62
+"Impressão preto e branco, tamanho A3, folha branca, PAPEL 75",0,1000,DESCLASSIFICADO," ",680,0.68
+"IMPRESSÃO COLORIDA, TAMANHO A3, FOLHA BRANCA, PAPEL 75 M/G,",0,500,DESCLASSIFICADO," ",1640,3.28
+"Encadernação em espiral até 100 folhas tamanho A",0,200,DESCLASSIFICADO," ",1056,5.28
+"Encadernação em espiral acima de 100 folhas tamanho A4",0,50,DESCLASSIFICADO," ",305.5,6.11
+"PLOTAGEM DE VEÍCULO",0,200,DESCLASSIFICADO," ",25800,129

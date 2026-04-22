@@ -1,0 +1,19 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bacon defumado em pedaços",1267581,31,30,ATIVO,kg,1092,36.4
+"Carne de frango congelada: Coxa e sobrecoxa",1267582,38,1300,ATIVO,kg,10400,8
+"Carne de frango congelada: Filé de peito (sassami)",1267583,39,850,ATIVO,kg,9494.5,11.17
+"Carne de frango congelada: Galinha caipira",1267584,40,150,ATIVO,kg,1275,8.5
+"Carne de frango congelada: Moela",1267585,41,100,ATIVO,kg,830,8.3
+"Carne suína congelada: Lombo médio sem osso",1267587,42,140,ATIVO,kg,2590,18.5
+"Pescado: peixe em posta",1267588,44,140,ATIVO,kg,2798.6,19.99
+"AMIDO DE MILHO",1267589,45,50,ATIVO,kg,212,4.24
+"Arroz Parbolizado;",1267590,46,2200,ATIVO,kg,7656,3.48
+"Arroz Polido;",1267591,47,120,ATIVO,kg,444,3.7
+Aveia,1267592,48,25,ATIVO,UNIDADE,212.5,8.5
+"BISCOITO SALGADO INTEGRAL",1267593,50,450,ATIVO,PACOTE,1845,4.1
+"Pão de forma integral",1267594,56,400,ATIVO,PACOTE,2508,6.27
+"Pão frances",1267595,57,510,ATIVO,kg,4590,9
+"ACUCAR REFINADO",1267596,60,800,ATIVO,kg,2064,2.58
+"Lingüiça de frango",1267597,43,140,ATIVO,kg,1869,13.35
+"Adoçante à base de stévia",1267598,61,20,ATIVO,UNIDADE,380,19
+OREGANO,1267622,77,25,ATIVO,kg,130.5,5.22

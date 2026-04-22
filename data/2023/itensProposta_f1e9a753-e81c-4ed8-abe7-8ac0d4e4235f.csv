@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",11967162,5000,PERDEU,FR.,26750,5.35
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,109600,6.85
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,11800,2.36
+"Simeticona 75mg/mL solução oral, frasco 10ml.",11967257,15000,PERDEU,FR.,28650,1.91
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,45900,1.53
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",11967287,4000,PERDEU,FR,23879.6,5.9699
+"GLICONATO DE CÁLCIO 10% 10 ML",11967294,600,PERDEU,AMP,1380,2.3
+"Lidocaína 2% gel, bisnaga 30g.",11967331,10000,VENCEU,BIS,30000,3
+"Loratadina 1mg/mL xarope, frasco de 100ml.",11967335,12000,PERDEU,FR,44520,3.71
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,PERDEU,COMP,30900,1.03
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,58200,4.85
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",11967370,30000,PERDEU,FR.,58200,1.94
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,55500,1.11
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,PERDEU,FR.,6930,0.99

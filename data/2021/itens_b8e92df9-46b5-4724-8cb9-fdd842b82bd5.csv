@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cadarço sarjado",1353877,28,200,ATIVO,ROLO,6500,32.5
+"Detergente enzimático",1353878,60,250,ATIVO,GALÃO,18537.5,74.15
+"Sonda aspiração traqueal nº 08 em PVC, descartável",1353879,151,20000,ATIVO,UNIDADE,9780,0.489
+"Sonda aspiração traqueal nº 12 em PVC, descartável",1353880,153,15000,ATIVO,UNIDADE,7635,0.509
+"Sonda uretral nº 08, descartável",1353881,185,24000,ATIVO,UNIDADE,11040,0.46
+"Sonda uretral nº 10 descartável",1353882,186,36000,ATIVO,UNIDADE,17100,0.475
+"Sonda uretral nº 12 descartável",1353883,187,135000,ATIVO,UNIDADE,64125,0.475
+"Sonda uretral nº 14 descartável",1353884,188,36000,ATIVO,UNIDADE,17640,0.49
+"Sonda uretral nº 16 descartável",1353885,189,2000,ATIVO,UNIDADE,1040,0.52
+"Termômetro Clínico Digital de Testa sem contato",1353886,205,200,ATIVO,UNIDADE,18780,93.9

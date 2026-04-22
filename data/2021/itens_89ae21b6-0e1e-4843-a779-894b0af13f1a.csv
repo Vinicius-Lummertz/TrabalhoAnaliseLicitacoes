@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho XG/GG",1269460,4,675000,ATIVO,UNIDADE,810000,1.2
+"Fralda descartável infantil tamanho P",1269461,5,1000,ATIVO,UNIDADE,380,0.38
+"Fralda descartável infantil tamanho M",1269462,6,1500,ATIVO,UNIDADE,645,0.43
+"Fralda descartável infantil tamanho G",1269463,7,7000,ATIVO,UNIDADE,3360,0.48
+"Fralda descartável infantil tamanho GG",1269464,8,7000,ATIVO,UNIDADE,3780,0.54

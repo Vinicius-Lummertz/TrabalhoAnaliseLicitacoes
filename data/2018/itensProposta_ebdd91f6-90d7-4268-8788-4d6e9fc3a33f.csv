@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-A : frasco de 10ml",0,8,VENCEU," ",196,24.5
+"Anti-B: frasco de 10ml",0,8,VENCEU," ",196,24.5
+"Anti-D: frasco de 10ml",0,15,VENCEU," ",588,39.2
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",0,2000,VENCEU," ",7970,3.985
+"VDRL-latex c/ controle negativo e positivo",0,20000,VENCEU," ",4800,0.24
+"Bastão de vidro de 15 cm",0,200,VENCEU," ",690,3.45
+"Albumina a 22%,  Fr c/ 10 ml",0,8,VENCEU," ",250,31.25
+"Homogeneizador para  tubos de ensaio",0,1,VENCEU," ",990,990

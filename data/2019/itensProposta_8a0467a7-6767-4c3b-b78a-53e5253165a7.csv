@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bota modelo padrão CBMSC",0,55,PERDEU," ",5445,99
+"Medalha Mérito Tempo de Serviço 30 Anos (Ouro)",0,5,VENCEU," ",648.65,129.73
+"Medalha Mérito Tempo de Serviço 20 Anos (Prata)",0,10,VENCEU," ",1297.3,129.73
+"Medalha Mérito Tempo de Serviço 10 Anos (Bronze)",0,15,VENCEU," ",1945.95,129.73
+"Medalha Mérito Bombeiro Militar Categoria Ouro",0,5,VENCEU," ",698.55,139.71
+"Medalha Mérito Bombeiro Militar Categoria Prata",0,10,VENCEU," ",1297.3,129.73
+"Medalha Mérito Bombeiro Militar Categoria Bronze",0,15,VENCEU," ",1945.95,129.73
+"Medalha de Atendimento Pré-Hospitalar",0,15,VENCEU," ",2095.65,139.71
+"Medalha de Salvamento Aquático",0,15,VENCEU," ",2095.65,139.71
+"Medalha de Mérito da Segurança Contra Incêndios",0,15,VENCEU," ",2095.65,139.71
+"Medalha Mérito da Aviação CBMSC",0,5,VENCEU," ",698.55,139.71
+"Medalha Mérito Comunitário CBMSC",0,20,VENCEU," ",2794.2,139.71
+"Medalha de Mérito Cinotécnico",0,5,VENCEU," ",698.55,139.71
+"Bóton Amigo do Bombeiro",0,25,VENCEU," ",748.5,29.94
+"Distintivo Força Veterana",0,10,VENCEU," ",349.3,34.93
+"Pasta Para Diplomas",0,30,VENCEU," ",4490.7,149.69

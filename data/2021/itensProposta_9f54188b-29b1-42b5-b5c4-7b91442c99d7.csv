@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",5093025,220000,PERDEU,COMP,41250,0.1875
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",5093026,10000,PERDEU,BIS,23300,2.33
+"Ácido Acetilsalicilico 100mg cpr, em blister.",5093027,2800000,VENCEU,COMP,133000,0.0475
+"Albendazol 400mg comprimido mastigável, em blister.",5093040,18000,PERDEU,COMP,6840,0.38
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",5093041,25000,PERDEU,FR.,25250,1.01
+"Alendronato de sódio 70mg, blister com 4cpr.",5093042,25000,PERDEU,COMP,6562.5,0.2625
+"Alopurinol 100mg cpr, em blister.",5093043,600000,PERDEU,COMP,82500,0.1375
+"Amiodarona 200mg cpr, em blister.",5093046,220000,PERDEU,COMP,121000,0.55
+"Ampicilina 500mg, capsula, em blister.",5093053,6000,PERDEU,CPLA,2611.2,0.4352
+"Anlodipino, besilato 5mg cpr, em blister.",5093054,2000000,PERDEU,COMP,60000,0.03
+"Atenolol 50mg cpr, em blister.",5093055,1800000,PERDEU,COMP,142200,0.079
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",5093057,10000,PERDEU,FR,68500,6.85
+"Clonazepam 2,5mg/mL , 20ml, frasco de vidro âmbar 20ml.",5093098,5000,PERDEU,FR.,8750,1.75
+"Dipirona 500mg cpr, em blister.",5093127,2200000,PERDEU,COMP,349800,0.159
+"Ivermectina 6mg cpr, em blister.",5093183,30000,PERDEU,COMP,14403,0.4801
+"Levofloxacino 500mg cpr, em blister.",5093195,10000,PERDEU,COMP,8100,0.81
+"Losartana 50mg cpr revestido, em blister.",5093214,5000000,PERDEU,COMP,426000,0.0852
+"Metformina 850mg cpr, em blister.",5093217,3800000,PERDEU,COMP,424840,0.1118
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",5093236,25000,PERDEU,BIS,51500,2.06
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",5093239,5000,PERDEU,FR.,23000,4.6
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",5093251,2400000,PERDEU,COMP,240240,0.1001
+"Risperidona 1mg cpr, em blister.",5093263,200000,PERDEU,COMP,21600,0.108
+"Risperidona 2mg cpr, em blister.",5093264,280000,PERDEU,COMP,37800,0.135
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",5093265,1000,PERDEU,FR.,13299,13.299

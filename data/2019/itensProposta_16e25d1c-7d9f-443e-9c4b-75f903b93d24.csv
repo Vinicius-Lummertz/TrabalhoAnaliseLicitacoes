@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Palco,0,1,VENCEU," ",6000,6000
+Fechamento,0,3,VENCEU," ",200.01,66.67
+Carpe,0,60,VENCEU," ",600,10
+"Iluminação de médio porte",0,1,VENCEU," ",8000,8000
+"Sonorização de médio porte",0,1,VENCEU," ",12000,12000
+"Tenda com divisória",0,1,VENCEU," ",2000,2000
+"Tenda com iluminação",0,1,VENCEU," ",1500,1500
+"Backdrop Q15 (fundo do palco)",0,1,VENCEU," ",1000,1000
+"Backdrop Q15 (área externa)",0,1,VENCEU," ",1000,1000
+"Tenda  chapéu bruxa",0,2,VENCEU," ",3900,1950
+"Cadeira PVC",0,150,VENCEU," ",699.99,4.6666

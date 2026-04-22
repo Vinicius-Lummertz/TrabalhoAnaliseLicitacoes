@@ -1,0 +1,95 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",4440071,20000,PERDEU,UNI,600,0.03
+"Atestado Médico",4440072,1000,PERDEU,BLC,2900,2.9
+"Atestado Médico para Gestantes",4440073,100,DESCLASSIFICADO,BLC,395,3.95
+"Auto para coleta de água para consumo humano",4440074,50,DESCLASSIFICADO,BLCO,525,10.5
+"Auto de intimação vigilancia sanitaria",4440075,70,DESCLASSIFICADO,BLCO,1152.9,16.47
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",4440076,120,DESCLASSIFICADO,BLC,576,4.8
+"Bacteriologia da tuberculose .",4440077,30,DESCLASSIFICADO,BLC,189,6.3
+"Boletim de atendimento médico 24hs",4440078,500,VENCEU,BLC,1340,2.68
+"Boletim de Reconhecimento Geográfico (Dengue) 1 via",4440079,50,PERDEU,BLC,275,5.5
+"BPA consolidado 2 vias autocopiativo (braco/azul)",4440080,30,DESCLASSIFICADO,BLCO,456,15.2
+"BPA individualiazado 2 vias autocopiativo (braco/azul)",4440081,30,DESCLASSIFICADO,BLCO,456,15.2
+"Condição Sócio Econômica- CAPS II",4440082,10,PERDEU,BLC,110,11
+"Consentimento informado - 2 vias autocopiativo (braco/azul)",4440083,35,DESCLASSIFICADO,BLCO,451.5,12.9
+"Controle de TODO;",4440084,100,DESCLASSIFICADO,BLC,395,3.95
+"Cuidados para vasectomia",4440085,40,DESCLASSIFICADO,BLC,380,9.5
+"Dados do atendimento do paciente- RAAS CAPS II",4440086,40,DESCLASSIFICADO,BLC,252,6.3
+"Dados do atendimento do paciente- RAAS CAPS III",4440087,40,DESCLASSIFICADO,BLC,252,6.3
+"Declaração de Comparecimento",4440088,500,DESCLASSIFICADO,BLC,1600,3.2
+"DOTS- Planilha Acompanhamento de Tratamento",4440089,7,DESCLASSIFICADO,BLC,105,15
+"Estudo sócio-econômica CAPS II ad-",4440090,10,PERDEU,BLC,120,12
+"Etique laboratório Dengue (picotado);",4440091,10,DESCLASSIFICADO,BLC,155,15.5
+"Ficha clínica odontológica.",4440092,250,PERDEU,BLC,805,3.22
+"Ficha clínica Tuberculose",4440093,10,DESCLASSIFICADO,BLC,130,13
+"Ficha Controle de Atendimento frente e verso",4440094,2000,DESCLASSIFICADO,UNI,440,0.22
+"Ficha de acolhimento CAPS II ad 4 páginas(vias)",4440095,40,DESCLASSIFICADO,BLCO,718,17.95
+"Ficha de acolhimento CAPS II.",4440096,40,DESCLASSIFICADO,BLC,260,6.5
+"Ficha de acolhimento CAPS III",4440097,40,DESCLASSIFICADO,BLC,260,6.5
+"Ficha de atendimento SAMU .",4440098,200,DESCLASSIFICADO,BLC,2160,10.8
+"Ficha de cadastro individual",4440099,200,DESCLASSIFICADO,BLC,760,3.8
+"ficha de Observação do animal agressor",4440100,20,PERDEU,BLCO,170,8.5
+"Ficha de Procedimento E-SUS",4440101,50,DESCLASSIFICADO,BLC,300,6
+"Ficha visita domiciliar e-sus",4440102,100,DESCLASSIFICADO,BLC,470,4.7
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",4440103,70,DESCLASSIFICADO,BLC,875,12.5
+"Ficha nominal- Programa Tuberculose",4440104,300,DESCLASSIFICADO,UNI,135,0.45
+"Fluxo e contra-fluxo",4440105,300,DESCLASSIFICADO,BLC,1020,3.4
+"Memorando interno - 2 vias autocopiativo",4440106,250,DESCLASSIFICADO,BLC,1450,5.8
+"Monitoramento das doenças Diarreicas Agudas- distribuição de",4440107,20,DESCLASSIFICADO,BLCO,162,8.1
+"Monitoramento das doenças Diarreicas Agudas-",4440108,20,DESCLASSIFICADO,BLCO,162,8.1
+"Orientações CAPS III- frente e verso",4440109,40,DESCLASSIFICADO,BLC,310,7.75
+"Planilha de visitas domiciliares- CAPS II",4440110,10,DESCLASSIFICADO,BLC,125,12.5
+"Plano Terapêutico singular CAPS II ad- frente e verso",4440111,20,DESCLASSIFICADO,BLC,200,10
+"Prescrição de Óculos",4440112,20,DESCLASSIFICADO,BLC,150,7.5
+"Programa de Combate a Tuberculose.",4440113,15,DESCLASSIFICADO,BLC,175.5,11.7
+"Programa de controle da febre amarela dengue",4440114,10000,DESCLASSIFICADO,UNI,1050,0.105
+"Programa de Planejamento Familiar",4440115,80,DESCLASSIFICADO,BLCO,420,5.25
+"Programa Nacional de Controle da Dengue - PNCD",4440116,800,DESCLASSIFICADO,BLC,2760,3.45
+"Proposta de tratamento CAPS II ad",4440117,10,DESCLASSIFICADO,BLC,135,13.5
+"Receituário B1",4440118,8000,DESCLASSIFICADO,BLCO,6400,0.8
+"Receituário B2",4440119,500,DESCLASSIFICADO,BLC,725,1.45
+"Receituário retinóide",4440120,50,DESCLASSIFICADO,BLCO,299.5,5.99
+"Receituário simples",4440121,10000,PERDEU,BLC,14600,1.46
+"Registro de falta de paciente a atendimento odontológico",4440122,10,DESCLASSIFICADO,BLCO,160,16
+"Registro diário do serviço antivetorial.",4440123,50,DESCLASSIFICADO,BLCO,330,6.6
+"Relatório Sócio Econômico",4440124,50,DESCLASSIFICADO,BLC,595,11.9
+"SINAN - Acidente de Trabalho Grave",4440125,20,DESCLASSIFICADO,BLC,220,11
+"SINAN - Acidentes por Animais Peçonhentos",4440126,10,DESCLASSIFICADO,BLC,135,13.5
+"SINAN - Intoxicação exógena - frente e verso",4440127,10,DESCLASSIFICADO,BLC,135,13.5
+"SINAN- Atendimento Anti-Rábico Humano",4440128,20,DESCLASSIFICADO,BLCO,210,10.5
+"SINAN- Doenças exantemáticas febris",4440129,10,DESCLASSIFICADO,BLC,135,13.5
+"SINAN- Ficha de investigação da dengue",4440130,10,DESCLASSIFICADO,BLC,135,13.5
+"SINAN -Ficha de Notificação/ Conclusão",4440131,10,DESCLASSIFICADO,BLCO,135,13.5
+"SINAN- Síndrome Respiratória Aguda grave",4440132,10,DESCLASSIFICADO,BLC,135,13.5
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",4440133,30,DESCLASSIFICADO,BLC,255,8.5
+"SINAN-Ficha de investigação Hepatites Virais",4440134,10,PERDEU,BLC,120,12
+"SINAN-Ficha de notificação/ investigação Tuberculose",4440135,10,PERDEU,BLC,110,11
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",4440136,50,DESCLASSIFICADO,BLC,300,6
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",4440137,30,DESCLASSIFICADO,BLC,195,6.5
+"Solicitação de Eletrocardiograma",4440138,70,DESCLASSIFICADO,BLC,371,5.3
+"Termo de compromisso - CAPS III",4440139,20,DESCLASSIFICADO,BLC,170,8.5
+"Termo de responsabilidade - CAPS III",4440140,20,DESCLASSIFICADO,BLC,170,8.5
+"Termo de solicitação e informação 2 vias autocopiativo",4440141,70,DESCLASSIFICADO,BLC,931,13.3
+"Tratamento cirúrgico",4440142,5000,PERDEU,UN,250,0.05
+"RECEITUARIO  CONTROLE ESPECIAL",4440143,5000,DESCLASSIFICADO,BL,31350,6.27
+"Banner em lona 90 x1,20",4440144,250,VENCEU,UN,8750,35
+"Folder 297x21cm 2 dobras",4440145,10000,DESCLASSIFICADO,UN,3600,0.36
+"Folder 297x21cm 3 dobras",4440146,30000,DESCLASSIFICADO,UN,6900,0.23
+"Folder 57x21 cm",4440147,20000,PERDEU,UNI,9000,0.45
+"folheto 14x22 cm",4440148,15000,DESCLASSIFICADO,UNI,2250,0.15
+"Folder 40x21 cm",4440149,25000,DESCLASSIFICADO,UNI,7250,0.29
+"Folder 297x21 3 dobras - papel couche;  cor 4x0 colorido, br",4440150,80000,DESCLASSIFICADO,UN,17600,0.22
+"Folheto 10,5x19,5cm em couche",4440151,15000,DESCLASSIFICADO,UN,2850,0.19
+"Folder 57x21cm, 4x4 cores em couche",4440152,10000,DESCLASSIFICADO,UNI,6800,0.68
+"Folder 297x21cm 2 dobras colorido, brilho",4440153,200000,DESCLASSIFICADO,UN,40000,0.2
+"Folder 297x21cm 3 dobras colorido, brilho",4440154,350000,PERDEU,UN,31500,0.09
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente",4440155,15000,DESCLASSIFICADO,UN,4350,0.29
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",4440156,20000,DESCLASSIFICADO,UN,4600,0.23
+"Panfleto 15x21cm papel couche colorido 4x4",4440157,10000,DESCLASSIFICADO,UNI,3700,0.37
+"Placa - adesivo 35,5x21cm papel couche",4440158,1000,VENCEU,UNI,7490,7.49
+"faixa em lona 440g",4440159,60,VENCEU,UNI,4920,82
+"Placa Adesiva 20x10 cm",4440160,1000,VENCEU,UNI,3490,3.49
+"Pasta com Orelha com medidas",4440161,25000,DESCLASSIFICADO,UNI,20250,0.81
+"CONFECÇÃO DE CRACHA ( DE PESCOÇO E  CORDAO)",4440162,5000,PERDEU,UNI,2200,0.44
+"Placa de identifuicação interna",4440163,900,VENCEU,UNI,10800,12
+"Totem confeccionado em PVC, 3mm",4440164,60,VENCEU,UNI,13800,230

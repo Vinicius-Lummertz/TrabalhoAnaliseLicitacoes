@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abrigo de Ônibus Tipo I",6976269,1,50,ATIVO,UNIDADE,153665,3073.3
+"Abrigo de Ônibus tipo II",6976270,2,30,ATIVO,UNIDADE,88116,2937.2
+"Abrigo de ônibus metálico sem cobertura",6976271,3,10,ATIVO,UNIDADE,14397,1439.7
+"Cobertura de Abrigo metálico (telhado)",6976272,4,60,ATIVO,"METRO QUADRADO",16530,275.5
+"Painel de fundos para abrigos de ônibus, confeccionado em chapas inteiriças de 3750x1000mm, com plotagem",6976273,5,20,ATIVO,UNIDADE,25948,1297.4
+"Banco para abrigo de ônibus em madeira de lei, com tubos de 2",6976274,6,40,ATIVO,UNIDADE,13244,331.1

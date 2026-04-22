@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P (pequeno), formato anatômico, antialérgica.",5600867,1,35000,ATIVO,UNIDADE,36400,1.04
+"Fralda descartável adulto tamanho M (médio), formato anatômico, antialérgica.",5600868,2,75000,ATIVO,UNIDADE,79500,1.06
+"Fralda descartável adulto tamanho G (grande), formato anatômico, antialérgica.",5600869,3,300000,ATIVO,UNIDADE,342000,1.14
+"Fralda descartável adulto tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",5600870,4,400000,ATIVO,UNIDADE,484000,1.21

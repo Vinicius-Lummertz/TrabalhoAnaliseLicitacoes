@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de ultrassom odontológico",2748754,78,3,ATIVO,UNIDADE,7470,2490
+"BOMBA DE VACUO",2748755,80,4,ATIVO,UNIDADE,13200,3300
+"Compressor odontológico em ferro fundido",2748756,81,10,ATIVO,UNIDADE,49800,4980

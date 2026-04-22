@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Livros da educação infantil",4389695,500,PERDEU,UND,11000,22
+"Livro didático da História de Criciúma",4389696,3000,PERDEU,UND,33000,11
+"Livro da História de Criciúma",4389697,4000,PERDEU,UND,96000,24
+"Livro curriculo anos finais",4389698,500,VENCEU,UND,16540,33.08

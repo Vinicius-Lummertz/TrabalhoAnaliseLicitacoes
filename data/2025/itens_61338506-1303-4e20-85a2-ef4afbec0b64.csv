@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACESS POINT",7855080,1,31,ATIVO,UNIDADE,31000,1000
+"Computador Avançado",7855081,6,17,ATIVO,UNIDADE,279990,16470
+"Computador Avançado",7855082,7,4,ATIVO,UNIDADE,68680,17170
+Microfone,7855083,21,15,ATIVO,UNIDADE,5250,350

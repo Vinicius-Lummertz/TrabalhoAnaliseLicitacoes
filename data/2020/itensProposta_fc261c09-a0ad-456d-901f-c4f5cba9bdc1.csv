@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cópias preto e branco em papel tamanho A4",0,180000,PERDEU," ",27000,0.15
+"Cópias preto e branco em papel tamanho A3",0,6000,PERDEU," ",2100,0.35
+"Cópia colorida em papel tamanho A4 até 120gr",0,7200,PERDEU," ",15480,2.15
+"Cópia colorida em papel tamanho A3 até 120gr",0,3000,PERDEU," ",9750,3.25
+"Impressão colorida em papel tamanho A4 até 120gr.",0,6000,PERDEU," ",15000,2.5
+"Impressão colorida em papel tamanho A3 até 120gr.",0,1200,PERDEU," ",3900,3.25
+"Encadernação de até 100 folhas, com papel tamanho A4 , inclu",0,600,PERDEU," ",1410,2.35
+"Encadernação de até 200 folhas, com papel tamanho A4, inclui",0,240,PERDEU," ",780,3.25
+"Encadernação acima de 200 folhas, com papel tamanho A4, incl",0,120,PERDEU," ",504,4.2

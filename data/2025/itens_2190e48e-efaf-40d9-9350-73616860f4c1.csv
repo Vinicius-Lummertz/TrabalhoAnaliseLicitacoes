@@ -1,0 +1,233 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abraçadeira tipo D para eletroduto PVC rígido 2",7883224,1,30,ATIVO,PEÇAS,139.2,4.64
+"Alça pre formada de arame e aço galvanizado para cabos 10mm² isolado",7883225,2,50,ATIVO,PEÇAS,90,1.8
+"Alça pre formada de arame e aço galvanizado para cabos 16mm² – isolado",7883226,3,50,ATIVO,PEÇAS,91,1.82
+"Armação secundária AR 11, galvanizada",7883227,4,50,ATIVO,PEÇAS,787.5,15.75
+"Arruela roscável em alumínio para tubo de ferro galvanizado 1 ½.",7883228,5,50,ATIVO,PEÇAS,87,1.74
+"Base para relé fotoeletrônico, com haste de aço galvanizada a fogo,",7883229,6,150,ATIVO,PEÇAS,1851,12.34
+"Bloco autônomo de emergência LED",7883230,7,10,ATIVO,PEÇAS,720,72
+"Bocal adaptador porcelana E-27  E-40",7883231,8,100,ATIVO,PEÇAS,564,5.64
+"Bocal adaptador porcelana E-40  E-27",7883232,9,50,ATIVO,PEÇAS,285,5.7
+"Box reto em PVC 1 ½ preto.",7883233,10,30,ATIVO,PEÇAS,303.9,10.13
+"Cabo de cobre nú 16mm² para aterramento",7883234,11,30,ATIVO,PEÇAS,417,13.9
+"Cabo de cobre nú 35mm² para aterramento",7883235,12,5500,ATIVO,METRO,172150,31.3
+"Cabo Flexível, bitola 1,5 mm² Isolamento PVC 750v",7883236,13,24000,ATIVO,METRO,35520,1.48
+"Cabo Flexível, bitola 10 mm² Isolamento PVC 750v",7883237,14,12000,ATIVO,METRO,105960,8.83
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – AZUL.",7883238,15,24000,ATIVO,METRO,249600,10.4
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – BRANCO.",7883239,16,24000,ATIVO,METRO,249600,10.4
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – PRETO.",7883240,17,24000,ATIVO,METRO,249600,10.4
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – VERDE.",7883241,18,24000,ATIVO,METRO,249600,10.4
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – VERMELHO.",7883242,19,24000,ATIVO,METRO,249600,10.4
+"Cabo Flexível, bitola 16,0 mm² Isolamento EPR 1kV – AZUL.",7883243,20,9000,ATIVO,METRO,126270,14.03
+"Cabo Flexível, bitola 16,0 mm² Isolamento EPR 1kV – BRANCO.",7883244,21,9000,ATIVO,METRO,126270,14.03
+"Cabo Flexível, bitola 16,0 mm² Isolamento EPR 1kV – PRETO.",7883245,22,9000,ATIVO,METRO,126270,14.03
+"Cabo Flexível, bitola 16,0 mm² Isolamento EPR 1kV – VERDE.",7883246,23,9000,ATIVO,METRO,126270,14.03
+"Cabo Flexível, bitola 16,0 mm² Isolamento EPR 1kV – VERMELHO.",7883247,24,9000,ATIVO,METRO,126270,14.03
+"Cabo Flexível, bitola 2,5 mm² Isolamento PVC  750v.",7883248,25,24000,ATIVO,METRO,49680,2.07
+"Cabo Flexível, bitola 25 mm² Isolamento EPR 1kV – AZUL.",7883249,26,9000,ATIVO,METRO,195030,21.67
+"Cabo Flexível, bitola 25 mm² Isolamento EPR 1kV – BRANCO.",7883250,27,9000,ATIVO,METRO,195030,21.67
+"Cabo Flexível, bitola 25 mm² Isolamento EPR 1kV – PRETO.",7883251,28,9000,ATIVO,METRO,195030,21.67
+"Cabo Flexível, bitola 25 mm² Isolamento EPR 1kV – VERDE.",7883252,29,9000,ATIVO,METRO,195030,21.67
+"Cabo Flexível, bitola 25 mm² Isolamento EPR 1kV – VERMELHO.",7883253,30,9000,ATIVO,METRO,195030,21.67
+"Cabo Flexível, bitola 35 mm² Isolamento EPR 1kV – AZUL.",7883254,31,5000,ATIVO,METRO,154400,30.88
+"Cabo Flexível, bitola 35 mm² Isolamento EPR 1kV – BRANCO.",7883255,32,5000,ATIVO,METRO,154400,30.88
+"Cabo Flexível, bitola 35 mm² Isolamento EPR 1kV – PRETO.",7883256,33,5000,ATIVO,METRO,154400,30.88
+"Cabo Flexível, bitola 35 mm² Isolamento EPR 1kV – VERDE.",7883257,34,5000,ATIVO,METRO,154400,30.88
+"Cabo Flexível, bitola 35 mm² Isolamento EPR 1kV – VERMELHO.",7883258,35,5000,ATIVO,METRO,154400,30.88
+"Cabo Flexível, bitola 4 mm² Isolamento PVC 750v.",7883259,36,15000,ATIVO,METRO,51750,3.45
+"Cabo Flexível, bitola 50 mm² Isolamento EPR 1kV – AZUL.",7883260,37,2000,ATIVO,METRO,88000,44
+"Cabo Flexível, bitola 50 mm² Isolamento EPR 1kV – BRANCO.",7883261,38,2000,ATIVO,METRO,88000,44
+"Cabo Flexível, bitola 50 mm² Isolamento EPR 1kV – PRETO",7883262,39,2000,ATIVO,METRO,88000,44
+"Cabo Flexível, bitola 50 mm² Isolamento EPR 1kV – VERDE.",7883263,40,2000,ATIVO,METRO,88000,44
+"Cabo Flexível, bitola 50 mm² Isolamento EPR 1kV – VERMELHO.",7883264,41,2000,ATIVO,METRO,88000,44
+"Cabo Flexível, bitola 6 mm² Isolamento PVC 750v.",7883265,42,12000,ATIVO,METRO,61560,5.13
+"Cabo Flexível, bitola 6,0 mm² Isolamento EPR 1kV – AZUL.",7883266,43,10000,ATIVO,METRO,65200,6.52
+"Cabo Flexível, bitola 6,0 mm² Isolamento EPR 1kV – BRANCO.",7883267,44,10000,ATIVO,METRO,65200,6.52
+"Cabo Flexível, bitola 6,0 mm² Isolamento EPR 1kV – PRETO.",7883268,45,10000,ATIVO,METRO,65200,6.52
+"Cabo Flexível, bitola 6,0 mm² Isolamento EPR 1kV – VERDE.",7883269,46,10000,ATIVO,METRO,65200,6.52
+"Cabo Flexível, bitola 6,0 mm² Isolamento EPR 1kV – VERMELHO.",7883270,47,10000,ATIVO,METRO,65200,6.52
+"Cabo multiplexado alumínio isolado XLPE 1x1x10+1x10mm (monofasico) neutro isolado",7883271,48,7000,ATIVO,METRO,23100,3.3
+"Cabo multiplexado alumínio isolado XLPE 1x1x10+1x10mm (monofasico) neutro nu",7883272,49,7000,ATIVO,METRO,22820,3.26
+"Cabo multiplexado alumínio isolado XLPE 1x1x16+1x16mm (monofasico) neutro isolado",7883273,50,7000,ATIVO,METRO,32690,4.67
+"Cabo multiplexado alumínio isolado XLPE 1x1x16+1x16mm (monofasico) neutro nu",7883274,51,7000,ATIVO,METRO,28630,4.09
+"Cabo multiplexado alumínio isolado XLPE 1x1x25+1x25mm (monofasico) neutro isolado",7883275,52,7000,ATIVO,METRO,48650,6.95
+"Cabo multiplexado alumínio isolado XLPE 1x1x35+1x35mm (monofasico) neutro isolado.",7883276,53,5000,ATIVO,METRO,50950,10.19
+"Cabo multiplexado alumínio isolado XLPE 2x1x10+1x10mm (bifasico) neutro isolado.",7883277,54,7000,ATIVO,METRO,29050,4.15
+"Cabo multiplexado alumínio isolado XLPE 2x1x10+1x10mm (bifasico) neutro nu.",7883278,55,7000,ATIVO,METRO,26250,3.75
+"Cabo multiplexado alumínio isolado XLPE 2x1x16+1x16mm (bifasico) neutro isolado",7883279,56,7000,ATIVO,METRO,61530,8.79
+"Cabo multiplexado alumínio isolado XLPE 2x1x16+1x16mm (bifasico) neutro nu.",7883280,57,7000,ATIVO,METRO,52850,7.55
+"Cabo multiplexado alumínio isolado XLPE 2x1x25+1x25mm (bifasico) neutro isolado.",7883281,58,7000,ATIVO,METRO,82530,11.79
+"Cabo multiplexado alumínio isolado XLPE 2x1x35+1x35mm (bifasico) neutro isolado.",7883282,59,5000,ATIVO,METRO,65750,13.15
+"Cabo multiplexado alumínio isolado XLPE 3x1x10+1x10mm (trifasico) neutro isolado.",7883283,60,7000,ATIVO,METRO,46340,6.62
+"Cabo multiplexado alumínio isolado XLPE 3x1x10+1x10mm (trifasico) neutro nu.",7883284,61,7000,ATIVO,METRO,41440,5.92
+"Cabo multiplexado alumínio isolado XLPE 3x1x16+1x16mm (trifasico) neutro isolado.",7883285,62,7000,ATIVO,METRO,73640,10.52
+"Cabo multiplexado alumínio isolado XLPE 3x1x16+1x16mm (trifasico) neutro nu.",7883286,63,7000,ATIVO,METRO,65100,9.3
+"Cabo multiplexado alumínio isolado XLPE 3x1x25+1x25mm (trifasico) neutro isolado.",7883287,64,7000,ATIVO,METRO,96810,13.83
+"Cabo multiplexado alumínio isolado XLPE 3x1x35+1x35mm (trifasico) neutro isolado.",7883288,65,4000,ATIVO,METRO,77560,19.39
+"Cabo multiplexado alumínio isolado XLPE 3x1x50+1x50mm (trifasico) neutro isolado.",7883289,66,3500,ATIVO,METRO,89705,25.63
+"Cabo multiplexado alumínio isolado XLPE 3x1x70+1x70mm (trifasico) neutro isolado.",7883290,67,2500,ATIVO,METRO,80625,32.25
+"Cabo PP 750V 3x1,5mm",7883291,68,3000,ATIVO,METRO,16680,5.56
+"Cabo PP 750V 3x2,5mm.",7883292,69,3000,ATIVO,METRO,34980,11.66
+"Cabo PP, de cobre, bitola 4 x 10mm², isolamento 1KV",7883293,70,500,ATIVO,METRO,22865,45.73
+"Cabo PP, de cobre, bitola 4 x 4mm², isolamento 1KV.",7883294,71,1000,ATIVO,METRO,9090,9.09
+"Cabo PP, de cobre, bitola 4 x 6mm², isolamento 1KV.",7883295,72,1000,ATIVO,METRO,26980,26.98
+"Caixa de inspeção de aterramento em PVC, padrão CELESC com tampa.",7883296,73,50,ATIVO,PEÇAS,881.5,17.63
+"Caixa de medição monofásica em policarbonato com lente, fixação em poste, padrão CELESC",7883297,74,120,ATIVO,PEÇAS,11934,99.45
+"Caixa de medição trifásico em poli carbonato com lente, fixação em poste, padrão CELESC.",7883298,75,20,ATIVO,PEÇAS,2541.4,127.07
+"Caixa de passagem em concreto com tampa 30x30x40 cm",7883299,76,50,ATIVO,PEÇAS,1818,36.36
+"Caixa de passagem em concreto com tampa 60x60x40cm",7883300,77,50,ATIVO,PEÇAS,5489,109.78
+"Caixa de passagem para entrada subterrânea tipo A1 (46x70) em concreto armado padrão Celesc conforme especificações contidos na norma N-321,0001",7883301,78,30,ATIVO,PEÇAS,2642.4,88.08
+"Caixa montagem ou comando em material termo plástico medindo (400x300x200)cm  de PVC para painel elétrico com fecho e dobradiça em plástico vedação emborrachada  com grau de proteção IP65 com placa de montagem plástica",7883302,79,30,ATIVO,PEÇAS,9217.2,307.24
+"Caixa para ligação provisória em material plástico de alta resistência com pré-cortes para entrada de cabos) tamanho (322x260x120)mm IP65",7883303,80,10,ATIVO,PEÇAS,51.3,5.13
+"Chave de comando em grupo  de iluminação em caixa de alumínio , 1x30A proteção dos circuitos dos disjuntores por termomagnéticos , com cabos de ligação  tensão de alimentação 220/240volts 60hz",7883304,81,40,ATIVO,PEÇAS,11430.8,285.77
+"Chave de comando em grupo  de iluminação em caixa de alumínio 1x50A proteção dos circuitos dos disjuntores por termomagnéticos , com cabos de ligação  tensão de alimentação 220/240V  60hz ,",7883305,82,40,ATIVO,PEÇAS,11430.8,285.77
+"Chave de comando em grupo  de iluminação em caixa de alumínio 2x30A proteção dos circuitos dos disjuntores por termomagnéticos , com cabos de ligação  tensão de alimentação 220/240V 60hz.",7883306,83,50,ATIVO,PEÇAS,14815,296.3
+"Chave de comando em grupo  de iluminação em caixa de alumínio 2x40A proteção dos circuitos dos disjuntores por termomagnéticos , com cabos de ligação  tensão de alimentação 220/240V   60hz ,",7883307,84,50,ATIVO,PEÇAS,16719.5,334.39
+"Cinta em alumínio para amarração de duto em poste de concreto ¾.",7883308,85,100,ATIVO,METRO,345,3.45
+"Conector cunha bimetalálico 5/8 para haste de aterramento",7883309,86,200,ATIVO,PEÇAS,2430,12.15
+"Conector cunha de alumínio ampactinho múltiplo tipo III, IV, V (tricolor).",7883310,87,300,ATIVO,PEÇAS,2019,6.73
+"Conector cunha de alumínio ampactinho tipo A.",7883311,88,300,ATIVO,METRO,1665,5.55
+"Conector cunha de aluminio ampactinho tipo I",7883312,89,300,ATIVO,PEÇAS,2577,8.59
+"Conector de emenda com materiais condutores conectáveis em Cobre, grau de proteção IP20, para condutores de 0,5 mm² até 6mm² com 2 entradas, Normas NBR5410, NR10 e NR12.",7883313,90,3000,ATIVO,PEÇAS,10650,3.55
+"Conector de emenda com materiais condutores conectáveis em Cobre, grau de proteção IP20, para condutores de 0,5 mm² até 6mm² com 3 entradas,Normas NBR5410, NR10 e NR12.",7883314,91,3000,ATIVO,PEÇAS,12660,4.22
+"Conector de emenda com materiais condutores conectáveis em Cobre, grau de proteção IP20, para condutores de 0,5 mm² até 6mm² com 4 entradas,Normas NBR5410, NR10 e NR12.",7883315,92,3000,ATIVO,PEÇAS,19530,6.51
+"Conector de emenda com materiais condutores conectáveis em Cobre, grau de proteção IP20, para condutores de 0,5 mm² até 6mm² com 5 entradas, Normas NBR5410, NR10 e NR12.",7883316,93,3000,ATIVO,PEÇAS,21330,7.11
+"Conector genérico curto em material termo plástico auto extinguível e componente metálico, Cabo 6mm² à 25mm²",7883317,94,200,ATIVO,PEÇAS,1106,5.53
+"Conector genérico longo em material termo plástico auto extinguível e componente metálico, Cabo 6mm² à 25mm².",7883318,95,200,ATIVO,PEÇAS,1432,7.16
+"Conector perfurante (piercing) com parafusos e arruela de aço inoxidável e contratos em cobre estanhado -Condutor principal (25 - 150mm²) - Condutor Derivação  (25 até 150mm²).",7883319,96,500,ATIVO,PEÇAS,7270,14.54
+"Conector tipo sapata de cobre para cabo #10mm²",7883320,97,50,ATIVO,PEÇAS,172.5,3.45
+"Conector tipo sapata de cobre para cabo #16mm²",7883321,98,20,ATIVO,PEÇAS,79,3.95
+"Conector tipo sapata de cobre para cabo 6mm²",7883322,99,30,ATIVO,PEÇAS,100.5,3.35
+"Contator tripolar com bobina 220V para 30A Regime AC3",7883323,100,30,ATIVO,PEÇAS,2872.5,95.75
+"Contator tripolar com bobina 220V para 50A Regime AC3",7883377,101,30,ATIVO,PACOTE,7894.8,263.16
+"Contator tripolar com bobina 220V para 80A Regime AC3",7883378,102,25,ATIVO,PEÇAS,9637,385.48
+"Contator tripular com bobina 220V para 40A Regime AC3",7883380,103,20,ATIVO,PEÇAS,4530.2,226.51
+"Curva 90º para eletroduto PVC rígido 2.",7883381,104,20,ATIVO,METRO,112.6,5.63
+"Curva eletroduto 180° em PVC rígido 1,1/2 – Preto",7883383,105,20,ATIVO,PEÇAS,146.8,7.34
+"Eletroduto corrugado reforçado PEAD 1' (polegadas)",7883384,106,5000,ATIVO,METRO,6400,1.28
+"Eletroduto corrugado reforçado PEAD 2 (polegadas)",7883386,107,5000,ATIVO,METRO,18750,3.75
+"Eletroduto corrugado reforçado PEAD 3-4",7883387,108,5000,ATIVO,METRO,5900,1.18
+"Fecho dentado em aço inoxidável para cinta em alumínio utilizada em amarração de duto em poste de concreto  ¾",7883389,109,50,ATIVO,PEÇAS,41.5,0.83
+"Fita Isolante (rolos de 20m)",7883390,110,500,ATIVO,PEÇAS,1975,3.95
+"Fita isolante diversas cores.",7883392,111,30,ATIVO,PEÇA,140.4,4.68
+"Haste de aterramento com  5-8 x 2,40m x 0,254m de cobre conforme NBR 13571 e especificação Celesc E-313,0007.",7883393,112,20,ATIVO,PEÇAS,1584,79.2
+"Interruptor difercencial residual (DR) 2p-300MA25A",7883395,113,40,ATIVO,PEÇAS,2826,70.65
+"Interruptor difercencial residual (DR) 2p-300MA40A",7883396,114,40,ATIVO,PEÇAS,3080,77
+"Interruptor difercencial residual (DR) 2p-300MA63A",7883398,115,40,ATIVO,PEÇAS,3506,87.65
+"Interruptor difercencial residual (DR) 2p-300MA80A",7883399,116,40,ATIVO,PEÇAS,6489.2,162.23
+"Lâmpada Bulbo LED 50W - E27",7883401,117,200,ATIVO,PACOTE,3754,18.77
+"Lâmpada Bulbo LED 50W - E40",7883402,118,200,ATIVO,PEÇAS,3754,18.77
+"Lâmpada Bulbo LED 70W - E27",7883404,119,200,ATIVO,UNIDADE,15178,75.89
+"Lâmpada Bulbo LED 70W - E40",7883405,120,200,ATIVO,PEÇAS,15178,75.89
+"Lâmpada vapor sódio alta pressão 250W bulbo  tubular, E-40, vida útil mínima de 35,000H,fluxo luminoso mínimo ml 36,000 Lumens",7883407,121,3000,ATIVO,PEÇAS,75570,25.19
+"Lâmpada vapor sódio alta pressão 70W bulbo  tubular, E-27, vida útil mínima de 35,000H,fluxo luminoso mínimo 6800 lumens, com selo procel",7883408,122,14400,ATIVO,PEÇAS,250416,17.39
+"Luva para eletroduto em PVC rígido 2",7883410,123,20,ATIVO,PACOTE,43.8,2.19
+"Luva para tubo Eletroduto em aço-carbono zincado a quente rígido 1,1/2 – NBR 5597/5598)",7883411,124,20,ATIVO,PEÇAS,363.6,18.18
+"Luva para tubo Eletroduto em PVC rígido 1,1/2 – Preto",7883412,125,20,ATIVO,PEÇAS,26.4,1.32
+"MiniDisjuntor Bipolar Termomagnético 50A, curva C, padrão IEC/DIN",7883413,126,50,ATIVO,PEÇAS,1529,30.58
+"MiniDisjuntor Bipolar Termomagnético 63A, curva C, padrão IEC/DIN",7883414,127,50,ATIVO,PEÇAS,1529,30.58
+"MiniDisjuntor tetrapolar Termomagnético 63A, curva C, padrão IEC/DIN",7883415,128,50,ATIVO,PEÇAS,2287.5,45.75
+"MiniDisjuntor tetrapolar Termomagnético 70A, curva C, padrão IEC/DIN",7883416,129,50,ATIVO,PEÇAS,2964.5,59.29
+"MiniDisjuntor Unipolar Termomagnético 20A, curva C, padrão IEC/DIN",7883417,130,50,ATIVO,PEÇAS,415,8.3
+"MiniDisjuntor Unipolar Termomagnético 32A, curva C, padrão IEC/DIN",7883418,131,50,ATIVO,PEÇAS,415,8.3
+"MiniDisjuntor Unipolar Termomagnético 63A, curva C, padrão IEC/DIN",7883419,132,50,ATIVO,PEÇAS,510.5,10.21
+"Parafuso auto brocante sextavado com arruela de borracha ponta tipo broca rosca inteira diâmetro 12(5,5Mm) zincado branco para chave de aperto 8mm em aço carbônico comprimento 3/4(19mm)",7883420,133,200,ATIVO,PEÇAS,118,0.59
+"Parafuso máquina em aço galvanizado a fogo M16 - 16x150mm com porca.",7883421,134,50,ATIVO,PEÇAS,232.5,4.65
+"Parafuso máquina em aço galvanizado a fogo M16 – 16x250mm com porca",7883422,135,50,ATIVO,PEÇAS,331.5,6.63
+"Parafuso máquina em aço galvanizado a fogo M16 – 16x300mm com porca",7883423,136,50,ATIVO,PEÇAS,380,7.6
+"Parafuso máquina em aço galvanizado a fogo M16 – 16x45mm com porca",7883424,137,50,ATIVO,PEÇAS,124.5,2.49
+"Plug 2P T 10A 250V fêmea – preto.",7883425,138,50,ATIVO,PEÇAS,149,2.98
+"Plug 2P T 10A 250V macho – preto.",7883426,139,50,ATIVO,PEÇAS,148,2.96
+"Plug 2P T 20A 250V fêmea – preto.",7883427,140,50,ATIVO,PEÇAS,296,5.92
+"Plug 2P T 20A 250V macho – preto.",7883428,141,50,ATIVO,PEÇAS,222,4.44
+"Porca quadrada m16 galvanizada a fogo conforme ABNT - nbr6323.",7883429,142,200,ATIVO,PEÇAS,176,0.88
+"Quadro de distribuição de sobrepor em chapa de aço  para uso externo com barramento para fases, neutro e terra, Capacidade para 30 disjuntores.",7883430,143,20,ATIVO,PEÇAS,6627.6,331.38
+"Quadro metálico de distribuição para uso externo (40x40cm), com barramento para fase, neutro e terra e possibilidade de chaveamento.",7883431,144,20,ATIVO,PEÇAS,6464.6,323.23
+"Reator externo AFP 0,93 para lampada vapor de sodio 250W, 220v, 60Hz galvanizado a fogo, com selo PROCEL.",7883432,145,3000,ATIVO,PEÇAS,317790,105.93
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70W, 220v, 60Hz galvanizado a fogo, com selo PROCEL.",7883433,146,6000,ATIVO,PEÇAS,470040,78.34
+"Receptáculo em  Porcelana E-27.",7883434,147,100,ATIVO,PEÇAS,227,2.27
+"Relé Fechado,  que substitui o relê fotoelétrico, shorting Gap - Capa ligada com ìndice de proteção IP65 ou superior, tensão 220V, frequência 50/60Hz, potência de comando 1000W/15A, conforme NBR 5123.",7883435,148,800,ATIVO,PEÇAS,26400,33
+"Relé Foto eletrônico para iluminação pública LED 1000w com retardo, garantia de 5 anos, em conformidade com a NBR 5123.",7883436,149,10000,ATIVO,PEÇAS,260800,26.08
+"Tampa e moldura de ferro fundido modular para caixa de passagem de entrada subterrânea tipo A1 conforme especificações contidos na norma N-321,0001 Classe mínima B 125.",7883437,150,30,ATIVO,PEÇAS,21122.4,704.08
+"Tampa e moldura de ferro fundido nodular para caixa de passagem de entrada subterrânea tipo A1 conforme especificações contidos na norma N-321,0001 Classe mínima D 400.",7883438,151,30,ATIVO,PEÇAS,24372.6,812.42
+"Terminal ilhos tubular  10mm² com terminal curto e com capa plástica para isolação na região da conexão do condutor, isolação em PVC retardante a chamas.",7883439,152,100,ATIVO,PEÇAS,23,0.23
+"Terminal ilhos tubular 10mm² com terminal longo e com capa plástica para isolação na região da conexão do condutor, isolação em PVC retardante a chamas.",7883440,153,100,ATIVO,PEÇAS,29,0.29
+"Terminal ilhos tubular 16mm² com terminal curto e com capa plástica para isolação na região da conexão do condutor, isolação em PVC retardante a chamas.",7883441,154,100,ATIVO,PEÇAS,39,0.39
+"Terminal ilhos tubular 16mm² com terminal longo e com capa plástica para isolação na região da conexão do condutor, isolação em PVC retardante a chamas.",7883442,155,100,ATIVO,PEÇAS,40,0.4
+"Terminal olhal com estrutura de olhal em cobre estanhado, pré isolado, amarelo com furo 06mm².",7883443,156,100,ATIVO,PEÇAS,31,0.31
+"Tomada/régua múltipla 5x para extensão 10A/20A, potência máxima conjunto 4400W (220V)",7883444,157,30,ATIVO,PEÇAS,510.9,17.03
+"Trilho DIN Perfurado 35x7,5x1000mm - Ferro Zincado.",7883445,158,10,ATIVO,METRO,88.1,8.81
+"Tubo Eletroduto em aço-carbono zincado a quente rígido 1,1/2 – Barra 06 mts NBR 5597/5598.",7883446,159,30,ATIVO,PEÇAS,9815.4,327.18
+"Tubo eletroduto em PVC rígido 2 -barra03 m-preto.",7883447,160,30,ATIVO,PEÇAS,674.1,22.47
+"Alicate Amperímetro digital CATIV 300V e CATIII 600V, com detector de tensão, medição de corrente de 400A e tensão até 600V, True RMS, com terminais de teste.",7883448,161,20,ATIVO,PEÇAS,12959,647.95
+"Alicate Bomba D'Água de 305Mn, isolado para 1000V",7883449,162,12,ATIVO,PEÇAS,2002.68,166.89
+"Alicate de bico 6 eletricista - isolado 1000V, em aço.",7883450,163,15,ATIVO,PEÇAS,564.3,37.62
+"Alicate de corte 6 eletricista - isolado 1000V, em aço.",7883451,164,25,ATIVO,PEÇAS,926.25,37.05
+"Alicate hidráulica elétrica profissional para climpagemn de cobre e alumínio de 16-400mm² bateria de 18 v 4,0AH",7883452,165,1,ATIVO,PEÇAS,3615.75,3615.75
+"Alicate Tesoura Com Catraca Para Corte De Fios Elétricos De Cobre Ou Alumínio Estrutura Em Aço E Carbono Anti Ferrugem Com Corte Ate 400 Mm², Com Cabo De Borracha",7883453,166,2,ATIVO,PEÇAS,1867.52,933.76
+"Alicate universal 8 eletricista  uso profissional - isolado 1000V, em aço, Norma din ISO 5746,NBR 9699,NR10.",7883454,167,30,ATIVO,PEÇAS,1108.8,36.96
+"Arco de serra em aço carbono regulável 12'' acabamento com pintura eletroestática cabo ergonômico injetado.",7883455,168,5,ATIVO,PEÇAS,178.35,35.67
+"BROCA DE AÇO RAPIDO 8MM.",7883456,169,20,ATIVO,UNIDADE,114.2,5.71
+"BROCA DE AÇO RAPIDO 6MM.",7883457,170,20,ATIVO,UNIDADE,76.2,3.81
+"Broca de aço rápido 10mm.",7883458,171,20,ATIVO,PEÇAS,169.4,8.47
+"Cavadeira articulada boca de lobo com cabo de no mínimo 1,20m",7883459,172,10,ATIVO,PEÇAS,617.2,61.72
+"Chave combinada 10mm, em aço.",7883460,173,20,ATIVO,PEÇAS,186.6,9.33
+"Chave combinada 11mmem, em aço.",7883461,174,20,ATIVO,PEÇAS,240,12
+"Chave combinada 12mm, em aço.",7883462,175,20,ATIVO,PEÇAS,283.8,14.19
+"Chave de fenda elétrica mínimo  3,6V  recarregável bivolt potencia mínima 6w velocidade mínima de rotação 350 rpm, Autonomia mínima 1,5 Ah.",7883463,176,10,ATIVO,PEÇAS,1775.6,177.56
+"Chave fenda 14 x 6 - isolado 1000V, com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883464,177,20,ATIVO,PEÇAS,314.2,15.71
+"Chave fenda 316 x 6 - isolado 1000V, com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883465,178,20,ATIVO,PEÇAS,346.6,17.33
+"Chave fenda 38 x 6 - isolado 1000V, com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883466,179,20,ATIVO,PEÇAS,383.8,19.19
+"Chave inglesa ajustável 10 - isolado 1000V, em aço.",7883467,180,10,ATIVO,PEÇAS,2896.8,289.68
+"Chave Philips 14 x 6 - isolado 1000V, com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883468,181,20,ATIVO,PEÇAS,295.2,14.76
+"Chave Philips 18 x 6 - isolado 1000V,com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883469,182,20,ATIVO,PEÇAS,330.4,16.52
+"Chave Philips 316 x 6 - isolado 1000Vcom cabo haste niquelada e cromada ponta fosfatisada em aço.",7883470,183,20,ATIVO,PEÇAS,381,19.05
+"Chave Philips 38 x 6 - isolado 1000V, com cabo haste niquelada e cromada ponta fosfatisada em aço.",7883471,184,20,ATIVO,PEÇAS,405.8,20.29
+"Cinta plástica nylon autotravante 400mm x 6mm",7883472,185,10000,ATIVO,PACOTE,4200,0.42
+"Enxada larga forjada em aço carbono com cabo de madeira de no mínimo 1,20m.",7883473,186,10,ATIVO,PEÇAS,622.9,62.29
+"Enxadão estreito com cabo, em aço largura de no minimo 104 mm altura de no minimo 206mm cabo no minimo 1,20m.",7883474,187,10,ATIVO,PEÇAS,660.5,66.05
+"Escada de fibra extensiva com altura 10,20m aberta",7883475,188,2,ATIVO,PEÇAS,3620.48,1810.24
+"Escada telescópica 100 alumínio 13 degraus, reta, 5 mts uso profissional, capacidade de carga mínima de 150kg.",7883476,189,2,ATIVO,PEÇAS,1990.9,995.45
+"Esmilharadeira  grande 220v  velocidade mínima 8,500 rpm potencia mínima de 2800w diâmetro do disco 180",7883477,190,2,ATIVO,PEÇAS,2034.06,1017.03
+"Esmilharadeira 220v  velocidade mínima 12,000 Rpm  potencia mínima de 800w diâmetro do disco 115.",7883478,191,2,ATIVO,PEÇAS,551.44,275.72
+"Estilete profissional 18mm com guia de aço, trava de segurança e lâmina segmentada, comprimento maior que 16cm, e corpo do estilete com material emborrachado.",7883479,192,100,ATIVO,PEÇAS,1028,10.28
+"Estopa de pano.",7883480,193,100,ATIVO,kg,2676,26.76
+"Fita zebrada amarelo/preto para segurança/isolamento- 7cmx200m.",7883481,194,40,ATIVO,PEÇAS,682,17.05
+"Furadeira /parafusadeira 18v, profissional de impacto sem fio, Com uma bateria reserva  e com torque mínimo 50Nm, bivolt de até duas velocidades.",7883482,195,2,ATIVO,PEÇAS,1441.06,720.53
+"Jogo chave allen 1,5Mm à 10mm, em aço,",7883483,196,10,ATIVO,PEÇAS,329.5,32.95
+"Jogo de beats para parafusadeira Philips ph2.",7883484,197,5,ATIVO,PEÇAS,155.25,31.05
+"Jogo de soquete canhao para parfusadeira do 8 ao 14.",7883485,198,10,ATIVO,UNIDADE,332.4,33.24
+"Lamina para estilete.",7883486,199,100,ATIVO,PEÇAS,371,3.71
+"Lanterna de cabeça com suporte de fixação adaptável a capacete eletricista.",7883487,200,10,ATIVO,PEÇAS,2095.6,209.56
+"Maleta de couro para ferramentas medindo 40x16x24 com fechos de metal totalmente costurada com alças presas por rebites com pés de apoio em PVC.",7883488,201,15,ATIVO,PEÇAS,2930.55,195.37
+"Máquina de cintar poste com catraca para fita e fecho de aço inox, corpo da ferramenta em aço temperado com empunhadeira de borracha, catraca",7883489,202,1,ATIVO,PEÇAS,495.34,495.34
+"Máquina medir enrolar fios com marcador metragem, com bancada de altura mínima de 80cm, capacidade medição mínima 900mts, para fios cabos até 16mm  aprovação INMETRO.",7883490,203,1,ATIVO,PEÇAS,2839.28,2839.28
+"Martelete  de uso profissional no mínimo 800w C/ uma talhadeira 220v.",7883491,204,1,ATIVO,PEÇAS,763.97,763.97
+"Mini Motosserra a gasolina 1,8cv 1,4kw - sabre 30cm (Gatilho na parte superior do motor).",7883492,205,2,ATIVO,PEÇAS,1239.12,619.56
+"Motosserra a gasolina 1,8cv 1,3kw - sabre 30cm.",7883493,206,1,ATIVO,PEÇAS,951.06,951.06
+"Pá cortadeira  28x20 cm corte de bico ponta com cabo de no mínimo 1,20m.",7883494,207,10,ATIVO,PEÇAS,570.6,57.06
+"Pá de juntar em aço carbônico quadrada 250/279 mm cabo no mínimo 1,20 m em madeira.",7883495,208,10,ATIVO,PEÇAS,621,62.1
+"Perfurador de solo a gasolina 1,9 Cv 1,4Kv.",7883496,209,1,ATIVO,PEÇAS,1047.84,1047.84
+"Picareta com cabo ponta e pá alvião em ferro fundido e pintada, altura da picareta no mínimo 65mm largura no mínimo 83 mm, comprimento total no mínimo 1m  comprimento do cabo",7883497,210,10,ATIVO,PEÇAS,1386,138.6
+"Serra mármore 220 v para disco de corte 110mm potencia mínima 1200w com velocidade mínima de rotação 1300 rpm/s",7883498,211,2,ATIVO,PEÇAS,679,339.5
+"Serrinha 12 300mm 24 dentes",7883499,212,10,ATIVO,PEÇAS,45.7,4.57
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 100W  Branco, Vida útil 25,000 Horas",7883500,227,150,ATIVO,PEÇAS,3660,24.4
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 100W  Verde, Vida útil 25,000 Horas",7883501,228,50,ATIVO,PEÇAS,2194,43.88
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 150W  Branco, Vida útil 25,000 Horas",7883502,229,250,ATIVO,PEÇAS,7875,31.5
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 200W  Branco, Vida útil 25,000 Horas",7883503,230,250,ATIVO,PEÇAS,10225,40.9
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 30W  Verde, Vida útil: 25,000 Horas",7883504,231,50,ATIVO,PEÇAS,1340,26.8
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 400W  Branco frio luminosidade mínima 3600 80",7883505,232,150,ATIVO,PEÇAS,14610,97.4
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 50W  Branco, Vida útil 25,000 Horas",7883506,233,150,ATIVO,PEÇAS,2445,16.3
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 50W Verde, Vida útil 25,000 Horas",7883507,234,50,ATIVO,PEÇAS,1150,23
+"Braço para luminária iluminação pública 2m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 2mm",7883508,235,20,ATIVO,PACOTE,2006.6,100.33
+"Braço para luminária iluminação pública 3m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 3mm",7883509,236,20,ATIVO,PACOTE,2969.6,148.48
+"Cruzeta metálica aérea fabricada em aço carbono 1010/1020 galvanizada a fogo, 90x90x2000mm",7883510,237,30,ATIVO,PEÇAS,4520.7,150.69
+"Kit poste CELESC completo.",7883511,238,20,ATIVO,PEÇAS,26387,1319.35
+"Kit postinho monofásico completo (fiação, disjuntor, DPS) - Padrão Celesc, com disjuntor de 50A.",7883512,239,20,ATIVO,PEÇAS,28928,1446.4
+"Kit postinho trifásico completo (fiação, disjuntor, DPS)- Padrão Celesc, com disjuntor de 70A.",7883513,240,20,ATIVO,PEÇAS,32257.5,1612.875
+"Mão francesa perfilada em aço galvanizado a fogo 726x38mm",7883514,241,25,ATIVO,PEÇAS,613,24.52
+"Poste de ferro galvanizado a fogo conforme a NBR 6323.",7883515,242,30,ATIVO,PEÇAS,29523.6,984.12
+"Suporte  com braços de 1m  para instalação e fixação de 03 luminárias em topo de poste.",7883516,243,200,ATIVO,PEÇAS,44706,223.53
+"Suporte com braços de 1m para instalação e fixação de 04 luminárias em topo de poste.",7883517,244,200,ATIVO,PEÇAS,56082,280.41
+"Suporte com braços de 1m para instalação e fixação de 01 luminárias em topo de poste",7883518,245,200,ATIVO,PEÇAS,26946,134.73
+"Suporte com braços de 1m para instalação e fixação de 02 luminárias em topo de poste.",7883519,246,200,ATIVO,PEÇAS,39560,197.8

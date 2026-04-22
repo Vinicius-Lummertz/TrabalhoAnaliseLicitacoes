@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mão de obra para manutenção de equipamentos",0,130,VENCEU," ",15210,117
+"Carga de gás R-12/R-134 para geladeira e freezer",0,15,VENCEU," ",3071.25,204.75
+"Capacitor para geladeira e freezer",0,10,VENCEU," ",429,42.9
+"Damper controle",0,21,VENCEU," ",921.27,43.87
+"KIT SENSOR",0,15,VENCEU," ",950.55,63.37
+"Lâmpada para geladeira/freezer",0,20,VENCEU," ",411.4,20.57
+"Motores (compressor)",0,10,VENCEU," ",4387.5,438.75
+"Módulos para geladeira e freezer",0,6,VENCEU," ",807.3,134.55
+"Resistência 220V",0,6,VENCEU," ",526.5,87.75
+"Borracha porta geladeira e freezer",0,20,VENCEU," ",1755,87.75
+"Micro motor para geladeira e freezer",0,6,VENCEU," ",526.5,87.75
+"Rede de sensor",0,13,VENCEU," ",828.62,63.74
+TERMOSTATO,0,10,VENCEU," ",604.5,60.45
+Bimetal,0,4,VENCEU," ",94.76,23.69
+"Filtro Secador",0,4,VENCEU," ",94.76,23.69
+"Protetor Térmico",0,4,VENCEU," ",136.48,34.12
+"Controlador de Temperartura",0,30,VENCEU," ",3925.2,130.84
+"Rele de Geladeira e Freezer",0,10,VENCEU," ",341.2,34.12
+"Fusivel Termico",0,10,VENCEU," ",235.1,23.51
+"Placa de potência",0,5,VENCEU," ",1072.5,214.5
+"Placa Interface",0,5,VENCEU," ",682.5,136.5

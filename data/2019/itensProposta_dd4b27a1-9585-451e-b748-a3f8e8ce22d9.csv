@@ -1,0 +1,39 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pano de copa e cozinha",4385529,30,DESCLASSIFICADO,UND,118.5,3.95
+"Papel higiênico",4385533,6,PERDEU,FRD,701.1,116.85
+"VASSOURA PALHA",4385543,20,DESCLASSIFICADO,UND,532.6,26.63
+"Apagador para Quadro Branco.",4385547,2,VENCEU,UND,9.94,4.97
+Atilho,4385548,10,PERDEU,CX,37.7,3.77
+"Bloco de recados grande",4385549,10,PERDEU,EMB,40.2,4.02
+"Blocos de recados pequeno",4385550,10,VENCEU,EMB,38.4,3.84
+"Bobina Termica",4385551,40,VENCEU,UND,242.8,6.07
+"Caixa arquivo morto desmontável",4385552,100,PERDEU,UND,436,4.36
+"Caneta permanente",4385553,10,VENCEU,UND,33,3.3
+"Caneta corretivo",4385554,10,VENCEU,UND,47.6,4.76
+"Caneta esferográfica azul;",4385555,100,VENCEU,UND,83,0.83
+"Caneta esferografica vermelha.",4385556,50,VENCEU,UND,41.5,0.83
+"Caneta esferografica preta.",4385557,100,VENCEU,UND,83,0.83
+"CANETA MARCA-TEXTO.",4385558,50,PERDEU,UND,49.5,0.99
+"Clipes para papéis n.º 3",4385560,10,VENCEU,CX,95,9.5
+"Clipes para papéis n.º 8/0",4385561,10,VENCEU,CX,95,9.5
+"Cola Bastão",4385562,10,PERDEU,UND,65,6.5
+COLA,4385563,10,VENCEU,UND,40.9,4.09
+"Envelope Saco na cor parda 162 x 229",4385564,10,VENCEU,CX,339.3,33.93
+"Envelope pardo 240 x 340",4385565,20,PERDEU,CX,1044,52.2
+"Etiqueta adesiva",4385567,3,PERDEU,CX,150,50
+"Fita adesiva 45 MM",4385568,15,VENCEU,UND,39.9,2.66
+"Folha A4",4385571,300,PERDEU,RES,7107,23.69
+"Grampeador de mesa pequeno",4385584,5,VENCEU,UND,68.3,13.66
+"Grampos para grampeador 26/6",4385585,10,VENCEU,CX,35.5,3.55
+"Marcador para quadro branco.",4385586,20,PERDEU,UND,201.6,10.08
+"PERFURADOR DE PAPEL",4385588,2,PERDEU,UND,48.98,24.49
+"Pilhas AA",4385589,60,PERDEU,EMB,583.2,9.72
+"Pilhas alcalinas C",4385590,30,VENCEU,EMB,395.1,13.17
+"Pilhas alcalinas AAA",4385591,60,VENCEU,EMB,420,7
+"Plástico autoadesivo transparente",4385592,3,VENCEU,RL,237,79
+"Prancheta para anotações",4385593,10,PERDEU,UND,142.1,14.21
+"TESOURA GRANDE",4385594,4,PERDEU,UND,36,9
+"Tesoura média",4385595,4,VENCEU,UND,24,6
+"Tinta Carimbo Preta",4385596,10,PERDEU,UND,68.9,6.89
+"Tinta Carimbo Vermelha",4385597,15,PERDEU,UND,103.35,6.89
+"Escaninho para correspondência",4385598,4,PERDEU,UND,223.96,55.99

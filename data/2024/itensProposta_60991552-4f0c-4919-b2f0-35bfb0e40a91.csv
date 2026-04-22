@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria Gel Estacionaria 17/18Ah",14940385,10,VENCEU,UND,3150,315
+NO-BREAK,14940416,15,PERDEU,UND,17505,1167
+"Switch 24 Portas POE",14940434,2,PERDEU,UND,7996,3998

@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomografia Computadorizada Cone Bean ATM Bilateral.",1262294,8,10,ATIVO,UNIDADE,2800,280
+"Tomografia Computadorizada Cone Bean ATM Unilateral.",1262295,7,10,ATIVO,UNIDADE,1750,175
+"Tomografia Computadorizada Cone Bean Total Duas Arcadas",1262296,6,15,ATIVO,UNIDADE,5250,350
+"Tomografia Computadorizada Cone Bean de Mandíbula ou",1262297,5,20,ATIVO,UNIDADE,4000,200
+"Tomografia Computadorizada Cone Bean por região (mais de 2 e",1262298,4,15,ATIVO,UNIDADE,3000,200
+"Tomografia Computadorizada Cone Bean por região (mais de",1262299,3,20,ATIVO,UNIDADE,3500,175
+"Tomografia Computadorizada Cone Bean por região (02 elemento",1262300,2,30,ATIVO,UNIDADE,4500,150
+"Tomografia Computadorizada Cone Bean de 1 (um) elemento dent",1262301,1,30,ATIVO,UNIDADE,4050,135

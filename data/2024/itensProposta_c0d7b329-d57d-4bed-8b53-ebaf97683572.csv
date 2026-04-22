@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",14877985,5250,VENCEU,UN,38850,7.4
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,5m comprimento.",14878007,12375,PERDEU,UNI,32298.75,2.61
+"Papel grau cirúrgico 25cmx100m.",14878069,750,PERDEU,BOBI,72907.5,97.21
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14878154,28500,PERDEU,UND,204915,7.19
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14878156,30000,PERDEU,UND,183600,6.12
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14878157,11250,PERDEU,UND,76500,6.8

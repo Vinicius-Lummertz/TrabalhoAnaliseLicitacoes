@@ -1,0 +1,111 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MOTOSSERRA - Cilindro com pistão Æ 40 mm",0,2,VENCEU," ",443.32,221.66
+"MOTOSSERRA - Virabrequim",0,2,VENCEU," ",470.72,235.36
+"MOTOSSERRA - Corrente",0,6,VENCEU," ",321.6,53.6
+"MOTOSSERRA - Amortecedor",0,5,VENCEU," ",44.3,8.86
+"MOTOSSERRA - Esticador de corrente",0,2,VENCEU," ",14.04,7.02
+"MOTOSSERRA - Bomba óleo",0,2,VENCEU," ",159.54,79.77
+"MOTOSSERRA - Prisioneiro",0,2,VENCEU," ",11.44,5.72
+"MOTOSSERRA - Coroa da corrente",0,3,VENCEU," ",57.09,19.03
+"MOTOSSERRA - Sabre 28 polegadas",0,2,VENCEU," ",257.38,128.69
+"MOTOSSERRA - Carburador C1S-S3E",0,2,VENCEU," ",223.78,111.89
+"MOTOSSERRA - Jogo de juntas de vedação",0,2,VENCEU," ",8.22,4.11
+"MOTOSSERRA - Rolamento de esferas 6001-Z",0,3,VENCEU," ",44.4,14.8
+"MOTOSSERRA - Rolamento de esferas 6000",0,3,VENCEU," ",45.06,15.02
+"MOTOSSERRA - Jogo de pinhões",0,2,VENCEU," ",215.88,107.94
+"MOTOSSERRA - Retentor 12x32x7",0,2,VENCEU," ",10.68,5.34
+"MOTOSSERRA - Proteção",0,2,VENCEU," ",68.24,34.12
+"MOTOSSERRA - Porca de seg com colar M12x 15",0,3,VENCEU," ",13.05,4.35
+"MOTOSSERRA - Parafuso de fechamento",0,15,VENCEU," ",61.65,4.11
+"MOTOSSERRA - Arruela de pressão 15x60x3",0,3,VENCEU," ",23.16,7.72
+"MOTOSSERRA - Carcaça de tanque",0,2,VENCEU," ",418.88,209.44
+"MOTOSSERRA - Cabeçote de aspiração",0,10,VENCEU," ",48.7,4.87
+"MOTOSSERRA - Tampa do tanque",0,2,VENCEU," ",30.24,15.12
+"MOTOSSERRA - Conexão",0,2,VENCEU," ",60.3,30.15
+"MOTOSSERRA - Agulha de admissão",0,2,VENCEU," ",30.1,15.05
+"MOTOSSERRA - Membrana da bomba",0,3,VENCEU," ",50.31,16.77
+"MOTOSSERRA - Gaiola de agulhas 10x14x13",0,5,VENCEU," ",49.7,9.94
+"MOTOSSERRA - Graxa 80gr",0,20,VENCEU," ",141,7.05
+"MOTOSSERRA - Vela ignição",0,15,VENCEU," ",150,10
+"MOTOSSERRA - Cordão de arranque",0,10,VENCEU," ",38.4,3.84
+"MOTOSSERRA - Filtro combustível",0,15,VENCEU," ",74.85,4.99
+"MOTOSSERRA - Mangueira",0,10,VENCEU," ",51,5.1
+"MOTOSSERRA -  Cilindro c/ pistão",0,1,VENCEU," ",223.93,223.93
+"MOTOSSERRA - Lima redonda para afiar corrente moto serra",0,5,VENCEU," ",19.4,3.88
+"MOTOSSERRA - Óleo 2T 8017 (usado na proporção 1/50 com perío",0,80,VENCEU," ",1152,14.4
+"MOTOSSERRA - Mão de obra mecânica para executar os serviços",0,50,VENCEU," ",1967.5,39.35
+"PLACA COMPACTADORA Cilindro com pistão",0,4,VENCEU," ",827.52,206.88
+"PLACA COMPACTADORA Virabrequim",0,2,VENCEU," ",703.1,351.55
+"PLACA COMPACTADORA Amortecedor",0,8,VENCEU," ",846.16,105.77
+"PLACA COMPACTADORA Carburador C1S-S3E",0,2,VENCEU," ",451.3,225.65
+"PLACA COMPACTADORA Jogo de juntas de vedação",0,2,VENCEU," ",10.34,5.17
+"PLACA COMPACTADORA Rolamento de esferas 6001-Z",0,4,VENCEU," ",66.2,16.55
+"PLACA COMPACTADORA Rolamento de esferas 6000",0,4,VENCEU," ",62.56,15.64
+"PLACA COMPACTADORA Retentor 12x32x7",0,2,VENCEU," ",11.94,5.97
+"PLACA COMPACTADORA Proteção",0,2,VENCEU," ",112.56,56.28
+"PLACA COMPACTADORA Porca de seg com colar M10x 20",0,4,VENCEU," ",21.64,5.41
+"PLACA COMPACTADORA Parafuso de fechamento",0,15,VENCEU," ",70.35,4.69
+"PLACA COMPACTADORA Arruela de pressão 15x60x5",0,6,VENCEU," ",41.7,6.95
+"PLACA COMPACTADORA Carcaça de tanque",0,3,VENCEU," ",676.65,225.55
+"PLACA COMPACTADORA Cabeçote de aspiração",0,10,VENCEU," ",50.5,5.05
+"PLACA COMPACTADORA  Tampa do tanque",0,2,VENCEU," ",32.28,16.14
+"PLACA COMPACTADORA Agulha de admissão",0,2,VENCEU," ",21.04,10.52
+"PLACA COMPACTADORA Membrana da bomba",0,4,VENCEU," ",56,14
+"PLACA COMPACTADORA Graxa 80gr",0,20,VENCEU," ",132.8,6.64
+"PLACA COMPACTADORA Vela ignição",0,10,VENCEU," ",97,9.7
+"PLACA COMPACTADORA Cordão de arranque",0,7,VENCEU," ",31.43,4.49
+"PLACA COMPACTADORA Filtro combustível",0,10,VENCEU," ",59.7,5.97
+"PLACA COMPACTADORA Mangueira",0,7,VENCEU," ",43.61,6.23
+"PLACA COMPACTADORA Cilindro c/ pistão",0,2,VENCEU," ",634.32,317.16
+"PLACA COMPACTADORA  Óleo 4T 20w50 mineral",0,20,VENCEU," ",410.4,20.52
+"PLACA COMPACTADORA Mão de obra mecânica para executar os ser",0,40,VENCEU," ",1528.8,38.22
+"POLICORTE - Correia",0,5,VENCEU," ",67.5,13.5
+"POLICORTE - Mangueira Hidr. D-471-4-1/4 R1AT // GHL",0,5,VENCEU," ",47.5,9.5
+"POLICORTE - Óleo motor 20w50 4T GT4 p/ Moto 1lt Mineral",0,5,VENCEU," ",71.15,14.23
+"POLICORTE - 10811140 Mola Retrátil",0,2,VENCEU," ",44.82,22.41
+"POLICORTE - 14000031 Elemento filtro ar B4T",0,6,VENCEU," ",135.36,22.56
+"POLICORTE - 90300830 Carburador Comp. c/ torn. p/B4T 5,5 CV",0,2,VENCEU," ",628.9,314.45
+"POLICORTE - Peça 00004007000 Vela de ignição NKG BPMR 7 A",0,10,VENCEU," ",179.9,17.99
+"POLICORTE - Serviço de mão de obra",0,75,VENCEU," ",4758.75,63.45
+"ROÇADEIRA E PERFURADOR Cilindro com pistão Æ 40 mm",0,3,VENCEU," ",667.68,222.56
+"ROÇADEIRA E PERFURADOR Virabrequim",0,3,VENCEU," ",721.35,240.45
+"ROÇADEIRA E PERFURADOR Carburador C1S-S3E",0,4,VENCEU," ",481.44,120.36
+"ROÇADEIRA E PERFURADOR Jogo de juntas de vedação",0,5,VENCEU," ",28,5.6
+"ROÇADEIRA E PERFURADOR Transmissão completa",0,3,VENCEU," ",735.57,245.19
+"ROÇADEIRA E PERFURADOR Rolamento de esferas 6001-Z",0,5,VENCEU," ",28.45,5.69
+"ROÇADEIRA E PERFURADOR Rolamento de esferas 6000",0,5,VENCEU," ",76.15,15.23
+"ROÇADEIRA E PERFURADOR Rolamento de esferas 6002-2RS",0,3,VENCEU," ",51.51,17.17
+"ROÇADEIRA E PERFURADOR Rolamento de esferas 6001",0,3,VENCEU," ",51.69,17.23
+"ROÇADEIRA E PERFURADOR Carcaça de engrenagem",0,3,VENCEU," ",331.77,110.59
+"ROÇADEIRA E PERFURADOR Jogo de pinhões",0,3,VENCEU," ",349.59,116.53
+"ROÇADEIRA E PERFURADOR Rolamento de esferas 6201",0,8,VENCEU," ",123.6,15.45
+"ROÇADEIRA E PERFURADOR Retentor 12x20x5",0,4,VENCEU," ",22.56,5.64
+"ROÇADEIRA E PERFURADOR Retentor 12x32x7",0,4,VENCEU," ",24.48,6.12
+"ROÇADEIRA E PERFURADOR Proteção",0,4,VENCEU," ",163.56,40.89
+"ROÇADEIRA E PERFURADOR Cinta dupla para ombro",0,20,VENCEU," ",1505.2,75.26
+"ROÇADEIRA E PERFURADOR Anel de proteção",0,5,VENCEU," ",66.15,13.23
+"ROÇADEIRA E PERFURADOR Prato giratório",0,15,VENCEU," ",118.35,7.89
+"ROÇADEIRA E PERFURADOR Porca de seg com colar M12x 15",0,10,VENCEU," ",56.4,5.64
+"ROÇADEIRA E PERFURADOR Parafuso de fechamento",0,40,VENCEU," ",195.6,4.89
+"ROÇADEIRA E PERFURADOR Arruela de pressão 15x60x3",0,5,VENCEU," ",54.8,10.96
+"ROÇADEIRA E PERFURADOR Carcaça de tanque",0,3,VENCEU," ",667.68,222.56
+"ROÇADEIRA E PERFURADOR Cabeçote de aspiração",0,40,VENCEU," ",195.6,4.89
+"ROÇADEIRA E PERFURADOR Tampa do tanque",0,3,VENCEU," ",45.69,15.23
+"ROÇADEIRA E PERFURADOR Conexão",0,3,VENCEU," ",94.74,31.58
+"ROÇADEIRA E PERFURADOR Cabo acelerador",0,4,VENCEU," ",216.4,54.1
+"ROÇADEIRA E PERFURADOR Eixo de acionamento",0,4,VENCEU," ",340.92,85.23
+"ROÇADEIRA E PERFURADOR Agulha de admissão",0,4,VENCEU," ",57.44,14.36
+"ROÇADEIRA E PERFURADOR Membrana da bomba",0,8,VENCEU," ",521.84,65.23
+"ROÇADEIRA E PERFURADOR Gaiola de agulhas 10x14x13",0,15,VENCEU," ",177.6,11.84
+"ROÇADEIRA E PERFURADOR Graxa 80gr",0,80,VENCEU," ",517.6,6.47
+"ROÇADEIRA E PERFURADOR Vela ignição",0,50,VENCEU," ",578,11.56
+"ROÇADEIRA E PERFURADOR Cordão de arranque",0,20,VENCEU," ",79.8,3.99
+"ROÇADEIRA E PERFURADOR Filtro combustível",0,35,VENCEU," ",224.35,6.41
+"ROÇADEIRA E PERFURADOR Mangueira",0,20,VENCEU," ",111.2,5.56
+"ROÇADEIRA E PERFURADOR Cilindro c/ pistão Æ 038 mm",0,3,VENCEU," ",685.35,228.45
+"ROÇADEIRA E PERFURADOR Lamina 02 facas para roçadeira FS 220",0,50,VENCEU," ",2106,42.12
+"ROÇADEIRA E PERFURADOR Lima redonda para afiar corrente moto",0,8,VENCEU," ",26,3.25
+"ROÇADEIRA E PERFURADOR Óleo 2T 8017 (usado na proporção 1/50",0,250,VENCEU," ",3905,15.62
+"ROÇADEIRA E PERFURADOR Fio de Nylon para roçadeira 3,0mm",0,6000,VENCEU," ",3000,0.5
+"ROÇADEIRA E PERFURADOR Conjunto de polimatic para roçadeira",0,100,VENCEU," ",4000,40
+"ROÇADEIRA E PERFURADOR Mão de obra mecânica para executar os",0,170,VENCEU," ",9686.6,56.98

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CAFÉ PRETO",7530071,3000,VENCEU," ",35929.5,11.9765
+"Leite líquido integral",7530071,3000,VENCEU," ",26242.2,8.7474
+"CAFÉ COM LEITE",7530071,3000,VENCEU," ",41687.7,13.8959
+"Caldo de cana",7530071,3000,VENCEU," ",41687.7,13.8959
+"BOLO DE MILHO",7530071,3000,VENCEU," ",59682.9,19.8943
+"Almoço 1: típico italiano com sobremesa",7530071,1000,VENCEU," ",54884,54.884
+"Almoço 2: típico italiano",7530071,1000,VENCEU," ",47886,47.886

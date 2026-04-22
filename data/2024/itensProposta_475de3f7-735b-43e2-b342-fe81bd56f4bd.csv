@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL, acompanha copo-medida, 75ml após reconstituição",16295824,20000,PERDEU,FRA,440000,22
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em blister.",16295826,550000,PERDEU,COMP,1578500,2.87
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",16295850,1300000,PERDEU,COMP,273000,0.21
+"Carbonato de lítio 300mg cpr, em blister.",16295854,500000,PERDEU,COMP,175000,0.35
+"Cefalexina 500mg, capsula ou comprimido, em blister.",16295860,500000,PERDEU,CAP/C,500000,1
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",16295862,3000,PERDEU,FR/AM,45000,15
+"Ceftriaxona 1G intramuscular (IM) injetável.",16295863,1500,PERDEU,FR/AM,19455,12.97
+"Clindamicina 300mg capsula, em blister.",16295869,8000,PERDEU,CPLA,12640,1.58
+"Clonazepam 2mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",16295871,3000000,PERDEU,COMP,420000,0.14
+"Clonidina 0,1mg cpr, em blister.",16295872,6000,VENCEU,COMP,1619.4,0.2699
+"Clonidina 0,15mg cpr, em blister.",16295874,6000,PERDEU,COMP,2400,0.4
+"Diazepam 5mg/mL solução injetável, ampola 2ml.",16295892,4000,PERDEU,AMP,4000,1
+"Diclofenaco sódico 50mg cpr, em blister.",16295894,550000,PERDEU,COMP,38500,0.07
+"Digoxina 0,25mg cpr, em blister.",16295895,150000,PERDEU,COMP,30000,0.2
+"Simeticona 75mg/mL solução oral, frasco 10ml.",16295898,18000,PERDEU,FR.,31860,1.77
+"Dipirona 500mg/ml, injetável, ampola 2ml.",16295900,26000,PERDEU,AMP,36140,1.39
+"Doxazosina 2 mg cpr, em blister.",16295903,400000,PERDEU,COMP,52000,0.13
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,PERDEU,AM,120000,20
+"Espironolactona 25mg cpr, em blister.",16295913,800000,PERDEU,COMP,192000,0.24
+"Estrogênios conjugados 0,625mg cpr, em blister.",16295914,70000,PERDEU,COMP,87500,1.25
+"Furosemida 10mg/mL injetável, ampola 2ml.",16295930,5000,PERDEU,AMP,8600,1.72
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",16295952,180000,PERDEU,COMP,59400,0.33
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg blister com 21 cpr.",16295963,7000,VENCEU,BLS,13998.6,1.9998
+"Metilfenidato 10 mg cpr, em blister.",16295980,800000,PERDEU,COMP,648000,0.81
+"Omeprazol 20mg capsula, em blister.",16296005,3500000,PERDEU,CPLA,245000,0.07
+"Sulfametoxazol 200mg+ Trimetoprima 40mg/5mL, suspensão oral, frasco 100ml.",16296031,3800,PERDEU,FRA,19494,5.13
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",16296039,2000,PERDEU,FR.,6000,3
+"Verapamil 80mg cpr, em blister.",16296045,300000,PERDEU,COMP,102000,0.34
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg, B2 2mg, B1 8mg/ampola), ampola 2ml.",16296047,6000,PERDEU,AMP,11580,1.93
+"Nitrofurantoina 100 mg, capsula ou comprimido, em blister.",16296051,150000,VENCEU,COMP,38235,0.2549
+"Ibuprofeno 100mg/mL, solução oral, frasco 20ml.",16296061,20000,PERDEU,FRA,54000,2.7

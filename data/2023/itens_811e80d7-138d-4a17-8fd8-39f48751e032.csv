@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa plástica multiuso com tampa e trava  60 litros",4678383,22,70,ATIVO,UNIDADE,5872.3,83.89
+"Canecão hotel nº18",4678384,26,70,ATIVO,UNIDADE,3325,47.5
+"Carro de Carga com 2 rodas",4678385,28,70,ATIVO,UNIDADE,31164,445.2
+"Cortador Picador de legumes",4678386,35,70,ATIVO,UNIDADE,6860,98
+"Faca de Mesa De Inox",4678387,41,2000,ATIVO,UNIDADE,8840,4.42
+FRIGIDEIRA,4678388,43,70,ATIVO,UNIDADE,3979.5,56.85
+"Garfo Mesa De Inox",4678389,45,5000,ATIVO,UNIDADE,14500,2.9
+"Caçarola de alumínio número 28 aprox. 8,5 litros.",4678390,59,70,ATIVO,UNIDADE,18487,264.1
+"Tábua (placa de corte)",4678391,67,140,ATIVO,UNIDADE,10456.6,74.69

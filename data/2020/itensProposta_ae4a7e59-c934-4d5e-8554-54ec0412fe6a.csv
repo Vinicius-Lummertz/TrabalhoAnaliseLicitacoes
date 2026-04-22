@@ -1,0 +1,162 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+TRAVA,0,4,PERDEU," ",17,4.25
+RETENTOR,0,2,PERDEU," ",48.8,24.4
+"Engrenagem 18Z",0,1,PERDEU," ",325.45,325.45
+"Eixo roda traseira 10 furos",0,1,PERDEU," ",3768.2,3768.2
+"PARAFUSO DE RODA",0,10,PERDEU," ",208,20.8
+"retentor roda K7",0,1,PERDEU," ",220.4,220.4
+"retentor roda K7",0,4,PERDEU," ",881.6,220.4
+PLACA,0,1,PERDEU," ",36.2,36.2
+"ANEL DE VEDAÇÃO",0,4,PERDEU," ",129.2,32.3
+"ANEL DE VEDAÇÃO",0,4,PERDEU," ",178.6,44.65
+"ANEL TRAVA",0,12,PERDEU," ",10.8,0.9
+"Engrenagem 42Z",0,1,PERDEU," ",1733,1733
+"Disco freio Paper 4.50mm",0,20,PERDEU," ",2830,141.5
+"Suporte roda motriz",0,1,PERDEU," ",1745.2,1745.2
+ANEL,0,4,PERDEU," ",187.2,46.8
+"Placa de trava",0,8,PERDEU," ",32.4,4.05
+ROLAMENTO,0,4,PERDEU," ",1310,327.5
+ROLAMENTO,0,4,PERDEU," ",1427.2,356.8
+"porca do pinhão",0,1,PERDEU," ",236,236
+"RETENTOR DO PINHAO",0,1,PERDEU," ",23.5,23.5
+ROLAMENTO,0,1,PERDEU," ",295.3,295.3
+"calço de ajuste",0,1,PERDEU," ",452.5,452.5
+ROLAMENTO,0,3,PERDEU," ",1815,605
+ROLAMENTO,0,1,PERDEU," ",1774.5,1774.5
+"Arruela com trava",0,1,PERDEU," ",303.5,303.5
+"ENGRENAGEM SATELITE",0,1,PERDEU," ",1264.5,1264.5
+"cruzeta diferencial inferior traseiro",0,1,PERDEU," ",1124.5,1124.5
+ENGRENAGEM,0,1,PERDEU," ",1409.5,1409.5
+ARRUELA,0,1,PERDEU," ",86.2,86.2
+"Engrenagem planet. DE",0,4,PERDEU," ",2698,674.5
+ARRUELA,0,4,PERDEU," ",120.8,30.2
+"Disco de aço 3.50mm",0,7,PERDEU," ",9551.5,1364.5
+"Disco sinterizado",0,6,PERDEU," ",3879,646.5
+PISTAO,0,1,PERDEU," ",7084,7084
+ROLAMENTO,0,1,PERDEU," ",869.5,869.5
+ANEL,0,2,PERDEU," ",2,1
+MOLA,0,1,PERDEU," ",1087.5,1087.5
+"Bucha diferencial",0,1,PERDEU," ",110.5,110.5
+ROLAMENTO,0,1,PERDEU," ",217,217
+"ARRUELA PLANA",0,1,PERDEU," ",66.5,66.5
+"Pistão diferencial traseiro",0,1,PERDEU," ",1628.5,1628.5
+ANEL,0,2,PERDEU," ",46.4,23.2
+TAMPA,0,1,PERDEU," ",956,956
+ANEL,0,1,PERDEU," ",26.5,26.5
+"junta de cortiça",0,4,PERDEU," ",72.8,18.2
+"junta de cortiça",0,8,PERDEU," ",84,10.5
+RESPIRO,0,2,PERDEU," ",33,16.5
+"junta de cortiça",0,2,PERDEU," ",44,22
+"retentor tandem",0,4,PERDEU," ",286,71.5
+"bucha celeron semi-acabada",0,2,PERDEU," ",320,160
+"Anel oring",0,8,PERDEU," ",168.8,21.1
+"arruela celeron 30mm",0,4,PERDEU," ",496,124
+CALCO,0,5,PERDEU," ",145,29
+CALCO,0,5,PERDEU," ",12.5,2.5
+"arruela de celeron",0,4,PERDEU," ",501.6,125.4
+"Filtro de Ar Interno",0,1,PERDEU," ",47.5,47.5
+"Filtro de Ar Externo",0,1,PERDEU," ",164.5,164.5
+"OLEO LUBRIFICANTE",0,1,PERDEU," ",96.5,96.5
+"filtro de água anti-corrosivo",0,1,PERDEU," ",122.5,122.5
+"filtro secundário diesel",0,1,PERDEU," ",35.5,35.5
+"filtro primário diesel",0,1,PERDEU," ",65.5,65.5
+"FILTRO TRANSMISSAO",0,1,PERDEU," ",493,493
+"filtro hidráulico do tanque",0,1,PERDEU," ",44.3,44.3
+"filtro do ar condicionado",0,1,PERDEU," ",181,181
+TUBO,0,1,PERDEU," ",553.5,553.5
+MANGUEIRA,0,2,PERDEU," ",135,67.5
+TUBO,0,1,PERDEU," ",421.5,421.5
+"mangueira b.p.borr.v",0,1,PERDEU," ",62.5,62.5
+ABRAÇADEIRA,0,6,PERDEU," ",15,2.5
+ABRAÇADEIRA,0,18,PERDEU," ",45,2.5
+MANGUEIRA,0,1,PERDEU," ",141,141
+TUBO,0,1,PERDEU," ",421.5,421.5
+MANGUEIRA,0,2,PERDEU," ",105,52.5
+ABRAÇADEIRA,0,6,PERDEU," ",12,2
+MANGUEIRA,0,2,PERDEU," ",113,56.5
+TUBO,0,1,PERDEU," ",282,282
+"tubo refrigeração",0,1,PERDEU," ",645.5,645.5
+ABRAÇADEIRA,0,4,PERDEU," ",16,4
+MANGUEIRA,0,1,PERDEU," ",202.5,202.5
+MANGUEIRA,0,1,PERDEU," ",83.5,83.5
+ABRAÇADEIRA,0,8,PERDEU," ",11.2,1.4
+MANGUEIRA,0,1,PERDEU," ",245,245
+MANGUEIRA,0,1,PERDEU," ",38.2,38.2
+ABRAÇADEIRA,0,8,PERDEU," ",25.6,3.2
+MANGUEIRA,0,1,PERDEU," ",91.05,91.05
+MANGUEIRA,0,1,PERDEU," ",842.5,842.5
+ABRAÇADEIRA,0,8,PERDEU," ",2692,336.5
+MANGUEIRA,0,1,PERDEU," ",303.5,303.5
+MANGUEIRA,0,1,PERDEU," ",1176.5,1176.5
+MANGUEIRA,0,1,PERDEU," ",34.5,34.5
+ABRAÇADEIRA,0,1,PERDEU," ",4,4
+ABRAÇADEIRA,0,1,PERDEU," ",2.5,2.5
+"BOMBA DAGUA",0,1,PERDEU," ",211.5,211.5
+ANEL,0,1,PERDEU," ",1.5,1.5
+"CORREIA DO VENTILADOR",0,1,PERDEU," ",8,8
+MANGUEIRA,0,1,PERDEU," ",147.5,147.5
+MANGUEIRA,0,1,PERDEU," ",189.5,189.5
+ABRAÇADEIRA,0,3,PERDEU," ",13.5,4.5
+ABRAÇADEIRA,0,1,PERDEU," ",4.5,4.5
+"terminal esférico",0,3,PERDEU," ",34.5,11.5
+RETENTOR,0,2,PERDEU," ",142,71
+RETENTOR,0,2,PERDEU," ",14.4,7.2
+ANEL,0,2,PERDEU," ",2.4,1.2
+FLANGE,0,1,PERDEU," ",607,607
+"flange freio estacio",0,1,PERDEU," ",7169,7169
+"INTERRUPTOR DO FREIO",0,2,PERDEU," ",212,106
+CRUZETA,0,1,PERDEU," ",229,229
+RESPIRO,0,2,PERDEU," ",141,70.5
+"PASTILHA DE FREIO",0,2,PERDEU," ",211,105.5
+"mola de aço do freio",0,1,PERDEU," ",3.2,3.2
+"conjunto pedal do freio",0,1,PERDEU," ",16600,16600
+"pressostato de freio",0,1,PERDEU," ",1180.5,1180.5
+INTERRUPTOR,0,1,PERDEU," ",865.5,865.5
+MANGUEIRA,0,1,PERDEU," ",1063,1063
+ABRAÇADEIRA,0,2,PERDEU," ",271,135.5
+ANEL,0,2,PERDEU," ",7.8,3.9
+ANEL,0,1,PERDEU," ",3.2,3.2
+ANEL,0,1,PERDEU," ",2.5,2.5
+ANEL,0,1,PERDEU," ",0.5,0.5
+ANEL,0,1,PERDEU," ",1,1
+ANEL,0,2,PERDEU," ",2,1
+ABRAÇADEIRA,0,4,PERDEU," ",1168,292
+MANGUEIRA,0,1,PERDEU," ",38.5,38.5
+"Junta de amianto",0,1,PERDEU," ",84.3,84.3
+MANGUEIRA,0,1,PERDEU," ",152,152
+"anel do eixo",0,5,PERDEU," ",4,0.8
+"anel back up",0,8,PERDEU," ",12,1.5
+"coxim borracha p/ tam. Lat",0,4,PERDEU," ",21.2,5.3
+"mangueira ap. borr. Vu",0,1,PERDEU," ",65,65
+"abraçadeira aço ace.",0,4,PERDEU," ",2,0.5
+"cj. Condensador",0,1,PERDEU," ",3000,3000
+"CORREIA DO VENTILADOR",0,1,PERDEU," ",24.5,24.5
+"conj. Assento vinil",0,1,PERDEU," ",4257,4257
+SILENCIOSO,0,1,PERDEU," ",695,695
+ABRAÇADEIRA,0,1,PERDEU," ",15.5,15.5
+"anel o",0,3,PERDEU," ",0.3,0.1
+"anel o",0,1,PERDEU," ",259,259
+JUNTA,0,1,PERDEU," ",1.95,1.95
+ANEL,0,1,PERDEU," ",1,1
+CALCO,0,2,PERDEU," ",3.2,1.6
+CALCO,0,2,PERDEU," ",1.9,0.95
+CALCO,0,3,PERDEU," ",3.6,1.2
+"arruela de celeron",0,1,PERDEU," ",13.4,13.4
+ANEL,0,1,PERDEU," ",60,60
+"arruela de celeron",0,2,PERDEU," ",26.4,13.2
+"coroa de aço",0,1,PERDEU," ",2305,2305
+RETENTOR,0,1,PERDEU," ",20.5,20.5
+PINHAO.,0,1,PERDEU," ",1210,1210
+"BUCHA DE BRONZE",0,1,PERDEU," ",103,103
+"bucha de celeron",0,1,PERDEU," ",28.5,28.5
+"rolamento roletes co",0,2,PERDEU," ",960,480
+CALCO,0,3,PERDEU," ",7.5,2.5
+CALCO,0,3,PERDEU," ",5.85,1.95
+CALCO,0,3,PERDEU," ",6,2
+ANEL,0,1,PERDEU," ",2.4,2.4
+"MAO DE OBRA",0,1,PERDEU," ",28800,28800
+"OLEO 15W40",0,3,PERDEU," ",1089,363
+AGRIFLU,0,2,PERDEU," ",565,282.5
+"ambar mastertrans",0,7,PERDEU," ",3279.5,468.5
+"ambar axf 80w90",0,3,PERDEU," ",1597.5,532.5
+"Ambart TRX SAE 20w40",0,8,PERDEU," ",3936,492

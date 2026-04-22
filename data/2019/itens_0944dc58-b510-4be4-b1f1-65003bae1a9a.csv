@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido folinico 15mg (folinato de cálcio) cpr, em blister.",1265473,7,5000,ATIVO,COMPRIMIDO,4700,0.94
+"Cloreto de sódio 0,9%, ampola 10ml.",1265474,80,8000,ATIVO,AMP,1248,0.156
+"Insulina NPH 100UI/mL, frasco 10ml.",1265475,148,100,ATIVO,FRASCO,2100,21
+"Insulina regular 100 UI/mL , frasco 10ml.",1265476,149,100,ATIVO,FRASCO,2100,21
+"Lidocaina sem vaso constritor 2% 20ml, frasco de vidro âmbar",1265477,170,4000,ATIVO,"Frasco ampola",10320,2.58
+"Prednisona 5mg cpr.",1265478,218,280000,ATIVO,COMPRIMIDO,28000,0.1

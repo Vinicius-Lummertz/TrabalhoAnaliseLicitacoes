@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caminhão Basculante 6x4",14904313,6000,PERDEU,H,900000,150
+"Escavadeira Hidráulica - peso operacional 21 toneladas",14904314,3000,PERDEU,H,1205400,401.8
+"Escavadeira Hidráulica - peso operacional 14 toneladas",14904315,1500,PERDEU,H,546750,364.5
+Retroescavadeira,14904316,3000,PERDEU,H,557640,185.88
+"Rolo Compactador",14904317,500,PERDEU,DR,500000,1000
+"Trator de Esteiras",14904318,3000,PERDEU,H,1201920,400.64

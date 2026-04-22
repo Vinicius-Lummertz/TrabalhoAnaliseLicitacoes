@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em blister.",16295826,550000,VENCEU,COMP,510950,0.929
+"Anlodipino, besilato 5mg cpr, em blister.",16295828,2200000,PERDEU,COMP,66000,0.03
+"Cinarizina 75mg cpr, em blister.",16295866,300000,DESCLASSIFICADO,COMP,144900,0.483
+"Clopidogrel 75mg comprimido revestido, em blister.",16295875,280000,VENCEU,COMP,63840,0.228
+"Espironolactona 25mg cpr, em blister.",16295913,800000,PERDEU,COMP,200000,0.25
+"Gliclazida 30mg cpr liberação prolongada, em blister.",16295933,2500000,VENCEU,COMP,402500,0.161

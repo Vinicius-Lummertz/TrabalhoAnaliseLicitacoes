@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,PERDEU,UN,17130.15,126.89
+"Rede de Traves para Futebol de Campo",13710962,18,PERDEU,PAR,15389.28,854.96
+"Bola de Futsal Adulto",13710963,80,PERDEU,UN,24099.2,301.24
+"Bola de Futsal Infantil para Treinamento",13710964,110,PERDEU,UN,22972.4,208.84
+"Rede de Traves de Futsal",13710965,10,PERDEU,PAR,2199.9,219.99
+"Bola de Basquete OFICIAL",13710967,60,PERDEU,UN,26699.4,444.99
+"Rede de Aro para Basquete",13710968,30,PERDEU,PAR,5139,171.3
+"Bola de Handebol H1L",13710969,25,PERDEU,UN,5217.25,208.69
+"Bola de Handebol H2",13710970,35,PERDEU,UN,7564.9,216.14
+"Bola de Handebol H3L",13710971,30,PERDEU,UN,5639.4,187.98
+"Bola de Voleibol de Quadra para Treinamento",13710972,80,PERDEU,UN,19598.4,244.98
+"Bola de Voleibol de Praia/Areia",13710973,20,PERDEU,UN,5713.2,285.66
+"Rede Oficial de Voleibol de Praia/Areia",13710975,10,PERDEU,UN,2999.8,299.98
+"Marcação de Quadra de Vôlei de Praia/Areia",13710976,5,PERDEU,KIT,1222.05,244.41
+"Raquete de Tênis de Mesa para Iniciação",13710977,120,PERDEU,UN,11484,95.7
+"Touca de Natação",13710984,100,PERDEU,UN,3900,39
+"Óculos de Natação",13710985,100,PERDEU,UN,13455,134.55
+"Placas de tatame 1x1 de 40mm cores diversas",13710987,360,PERDEU,UNI,57600,160
+"Saco de Pancada",13710991,6,PERDEU,UN,1697.82,282.97
+"Manopla de Boxe",13710992,30,PERDEU,PAR,3899.7,129.99
+"Aparador de Soco",13710994,24,PERDEU,UN,13392,558
+"Sacos para Bola",13710995,30,PERDEU,UN,1140,38
+"CONE CHAPÉU CHINÊS",13710996,200,PERDEU,UND,934,4.67
+"Corda de Pular",13710997,50,PERDEU,UN,3000,60
+"Bomba de Ar para Bolas",13710998,26,PERDEU,UN,792.74,30.49
+"Calibrador de Bola tipo Caneta",13710999,26,PERDEU,UN,791.44,30.44
+"Placar de Mesa",13711000,26,PERDEU,UN,13728,528
+"Apito de Mesa",13711001,15,PERDEU,UN,450,30
+"Apito profissional",13711002,60,PERDEU,UND,1794,29.9
+"Mini Band Nível Forte",13711009,30,PERDEU,UN,585,19.5
+"Mini Band Nível Médio",13711010,30,PERDEU,UN,585,19.5
+"Mini Band Nível Fraco",13711011,30,PERDEU,UN,585,19.5

@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"limpeza e desinfecção de caixa dágua 500 litro",0,210,DESCLASSIFICADO," ",21000,100
+"limpeza e desinfecção de caixa dágua 750 litros",0,16,DESCLASSIFICADO," ",1760,110
+"limpeza e desinfecção de caixa dágua 1.000 litros",0,286,DESCLASSIFICADO," ",34320,120
+"limpeza e desinfecção de caixa dágua 1.500 litros",0,18,DESCLASSIFICADO," ",2340,130
+"limpeza e desinfecção de caixa dágua 2.000 litros",0,20,DESCLASSIFICADO," ",2700,135
+"limpeza e desinfecção de caixa dágua 2.500 litros",0,4,DESCLASSIFICADO," ",560,140
+"limpeza e desinfecção de caixa dágua 3.000 litros",0,4,DESCLASSIFICADO," ",600,150
+"limpeza e desinfecção de caixa dágua 5.000 litros",0,48,DESCLASSIFICADO," ",9600,200
+"limpeza e desinfecção de caixa dágua 7.500 litros",0,2,DESCLASSIFICADO," ",500,250
+"limpeza e desinfecção de caixa dágua 10.000 litros",0,24,DESCLASSIFICADO," ",7200,300
+"limpeza e desinfecção de caixa dágua 15.000 litros",0,6,DESCLASSIFICADO," ",2100,350
+"limpeza e desinfecção de caixa dágua 20.000 litros",0,13,DESCLASSIFICADO," ",4810,370
+"limpeza e desinfecção de caixa dágua 30.000 litros",0,1,DESCLASSIFICADO," ",390,390
+"limpeza e desinfecção de Cisterna 125.000",0,2,DESCLASSIFICADO," ",1500,750

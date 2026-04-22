@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",16295801,2200000,PERDEU,COMP,88000,0.04
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",16295802,8000,PERDEU,AMP,8640,1.08
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9600,0.32
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",16295815,30000,PERDEU,FR.,35100,1.17
+"Alopurinol 100mg cpr, em blister.",16295817,750000,PERDEU,COMP,135000,0.18
+"Amiodarona 200mg cpr, em blister.",16295820,200000,PERDEU,COMP,82000,0.41
+"Anlodipino, besilato 5mg cpr, em blister.",16295828,2200000,PERDEU,COMP,66000,0.03
+"Atenolol 50mg cpr, em blister.",16295829,1500000,PERDEU,COMP,120000,0.08
+"Captopril 25mg cpr, em blister.",16295849,1200000,PERDEU,COMP,48000,0.04
+"Clonazepam 2,5mg/mL , 20ml, FRASCO 20ml.",16295870,8000,PERDEU,FRA,18720,2.34
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola 2,5mL.",16295888,25000,PERDEU,AM,37000,1.48
+"Diclofenaco sódico 50mg cpr, em blister.",16295894,550000,PERDEU,COMP,33000,0.06
+"Dipirona 500mg cpr, em blister.",16295899,3000000,PERDEU,COMP,450000,0.15
+"Dipirona 500mg/ml, injetável, ampola 2ml.",16295900,26000,PERDEU,AMP,27040,1.04
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",16295901,30000,PERDEU,FR.,44400,1.48
+"Doxazosina 2 mg cpr, em blister.",16295903,400000,PERDEU,COMP,32000,0.08
+"Enalapril, maleato 10mg cpr, em blister.",16295906,2000000,PERDEU,COMP,140000,0.07
+"Enalapril, maleato 20mg cpr, em blister.",16295907,1500000,PERDEU,COMP,135000,0.09
+"Enalapril, maleato 5mg cpr, em blister.",16295908,300000,PERDEU,COMP,18000,0.06
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,PERDEU,AM,92100,15.35
+"Furosemida 10mg/mL injetável, ampola 2ml.",16295930,5000,PERDEU,AMP,5550,1.11
+"Furosemida 40mg cpr, em blister.",16295931,850000,PERDEU,COMP,59500,0.07
+"Glibenclamida 5mg cpr, em blister.",16295932,1200000,PERDEU,COMP,60000,0.05
+"Losartana 50mg cpr revestido, em blister.",16295975,5500000,PERDEU,COMP,330000,0.06
+"Metformina 500mg cpr, em blister.",16295977,2000000,PERDEU,COMP,320000,0.16
+"Metformina 850mg cpr, em blister.",16295978,4000000,PERDEU,COMP,600000,0.15
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",16295981,10000,PERDEU,AMP,7000,0.7
+"Omeprazol 20mg capsula, em blister.",16296005,3500000,PERDEU,CPLA,280000,0.08
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",16296009,30000,PERDEU,FR.,44400,1.48
+"Paracetamol 500mg  blister com 10 comprimidos ou acondicionado de forma unitarizada. Embalagem hospitalar.",16296010,1200000,PERDEU,COMP,108000,0.09
+"Risperidona 1mg cpr, em blister.",16296021,500000,PERDEU,COMP,65000,0.13
+"Risperidona 2mg cpr, em blister.",16296022,600000,PERDEU,COMP,84000,0.14
+"Sinvastatina 20mg cpr, em blister.",16296025,1800000,PERDEU,COMP,162000,0.09
+"Sinvastatina 40 mg cpr, em blister.",16296026,1800000,PERDEU,COMP,396000,0.22

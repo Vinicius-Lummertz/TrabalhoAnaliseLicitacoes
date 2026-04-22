@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 500mg.  Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2216254,28,350000,ATIVO,CAPSULAS,119000,0.34
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",2216255,29,450000,ATIVO,COMPRIMIDO,301500,0.67
+"Beclometasona 250mcg/mL - 200 doses aerossol oral 10ml.",2216256,37,10000,ATIVO,FRASCO,266500,26.65
+"Ciprofloxacino 500mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2216257,72,250000,ATIVO,COMPRIMIDO,85000,0.34
+"Gliclazida 30mg cpr liberação prolongada, em blister.",2216258,137,1800000,ATIVO,COMPRIMIDO,180000,0.1
+"Nortriptilina 50 mg capsula, em blister.",2216259,212,2000,ATIVO,CAPSULA,680,0.34
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",2216260,237,15000,ATIVO,FRASCO,108000,7.2

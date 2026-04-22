@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Troféu exclusivo 45cm de altura, 20cm de largura",1,50,Perdeu,UND,3975,79.5
+"Troféu exclusivo 35cm de altura, 20cm de largura",2,50,Perdeu,UND,2982.5,59.65
+"Troféu exclusivo 30cm de altura, 18cm de largura.",3,50,Perdeu,UND,1995,39.9
+"Troféu exclusivo 60cm de altura, 25cm de largura",4,5,Perdeu,UND,497.5,99.5
+"Troféu exclusivo 50cm de altura, 25cm de largura",5,5,Perdeu,UND,399,79.8
+"Troféu exclusivo 40cm de altura, 20cm de largura",6,5,Perdeu,UND,300,60
+"Medalha exclusiva 20mm e 80cm de comp. medalha de 8cm X 8cm",7,600,Perdeu,UND,4260,7.1
+"Medalha exclusiva 20mm e 80cm de comp.medalha de 5cm X 5cm X",8,1200,Perdeu,UND,6060,5.05

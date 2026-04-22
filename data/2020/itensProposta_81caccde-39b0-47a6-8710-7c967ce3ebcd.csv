@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico",4444252,5000,DESCLASSIFICADO,FRA,38250,7.65
+"Algodão Hidrófilo, 100%.",4444254,1000,DESCLASSIFICADO,ROLO,12000,12
+"Ataduras de Crepom 8cm",4444260,24000,PERDEU,UN,12240,0.51
+"Ataduras de Crepom 10cm",4444261,40000,PERDEU,UN,24000,0.6
+"Ataduras de Crepom 12cm",4444262,40000,DESCLASSIFICADO,UN,30800,0.77
+"Ataduras de Crepom 15cm",4444263,40000,DESCLASSIFICADO,UN,38000,0.95
+"Ataduras de Crepom 20cm",4444264,20000,DESCLASSIFICADO,UN,28000,1.4
+"Ataduras de Crepom 6cm",4444265,24000,DESCLASSIFICADO,UN,10560,0.44
+"Cateter Intravenoso n°14 G",4444280,1000,DESCLASSIFICADO,UN,3350,3.35
+"Cateter Intravenoso n°16 G",4444281,3000,DESCLASSIFICADO,UN,7890,2.63
+"Cateter Intravenoso n°18 G",4444282,3000,DESCLASSIFICADO,UN,7320,2.44
+"Cateter Intravenoso n°20 G",4444283,4000,DESCLASSIFICADO,UN,9760,2.44
+"Cateter Intravenoso n°22 G",4444284,4000,DESCLASSIFICADO,UN,9760,2.44
+"Cateter Intravenoso n°24 G",4444285,2000,DESCLASSIFICADO,UN,5640,2.82
+"Clorexidina alcoólica",4444287,1200,DESCLASSIFICADO,L,13776,11.48
+"Clorexidina aquosa",4444288,3500,PERDEU,UND,6825,1.95
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4444290,5000,DESCLASSIFICADO,UNI,30750,6.15
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444292,900,DESCLASSIFICADO,PCT,83700,93
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444293,300,DESCLASSIFICADO,PCT,27900,93
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4444294,500,DESCLASSIFICADO,PCT,19500,39
+"Compressa de gaze (tipo queijo) em rolo",4444295,100,DESCLASSIFICADO,ROLO,10800,108
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4444296,1500,DESCLASSIFICADO,PCT,33525,22.35
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444297,503000,DESCLASSIFICADO,PCT,281680,0.56
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444298,97000,DESCLASSIFICADO,PCT,54320,0.56
+"Equipo 2 vias , (POLIFIX).",4444314,3000,DESCLASSIFICADO,UNI,3390,1.13
+"Equipo tipo Macrogotas para solução parental 20gotas/ml",4444316,30000,PERDEU,UN,59400,1.98
+"Equipo tipo Macrogotas para solução parental 60mgts/ml",4444317,1000,DESCLASSIFICADO,UN,2140,2.14
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",4444318,4000,DESCLASSIFICADO,UN,38280,9.57
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",4444319,6000,DESCLASSIFICADO,UN,29280,4.88
+"Filtro Solar, fator 30, frasco com 120ml ou 125ml",4444324,1500,DESCLASSIFICADO,UNI,13140,8.76
+"Fio absorvível de Catgut Simples amarelo Nº. 2-0",4444325,20,VENCEU,CX,1359.8,67.99
+"Fio absorvível de Catgut Simples amarelo Nº. 3-0",4444326,20,VENCEU,CX,1311.8,65.59
+"Fio absorvível de Catgut Simples amarelo Nº. 4-0",4444327,20,VENCEU,CX,1379.8,68.99
+"Fio absorvível de Catgut Simples amarelo CIRC. 3,0 cm Nº. 2-",4444328,15,VENCEU,CX,878.85,58.59
+"Fio absorvível de Catgut Simples amarelo CIRC. 4,0 Nº. 2-0",4444329,15,VENCEU,CX,970.5,64.7
+"Lençol hospitalar descartável em papel",4444357,1800,DESCLASSIFICADO,ROLO,31086,17.27
+"oleo de girassol",4444367,10000,DESCLASSIFICADO,UN,44000,4.4
+"Preservativo feminino de borracha nitrilica",4444371,3750,PERDEU,UN,61500,16.4
+"Preservativo feminino de borracha nitrilica",4444372,1250,DESCLASSIFICADO,UN,20500,16.4
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",4444382,500,PERDEU,L,8820,17.64
+"Otoscópio com Iluminação halógena por Fibra Ótica.",4444438,15,DESCLASSIFICADO,UN,12285,819

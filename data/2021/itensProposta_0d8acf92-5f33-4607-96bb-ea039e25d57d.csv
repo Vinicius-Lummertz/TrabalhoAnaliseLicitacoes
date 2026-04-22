@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"FOLDERS 21 x 20",1,10000,"Não cotou",UNI,0,0
+"FOLDERS 30 X 21",2,5000,"Não cotou",UNI,0,0
+"FOLDERS 30 X 21",3,30000,"Não cotou",UNI,0,0
+"IMPRESSOS - 15X21 - 10 MODELOS",4,10000,"Não cotou",UNI,0,0
+"CARTAZES - 64x46 - 5 modelos",5,2000,"Não cotou",UNI,0,0
+"PASTA - sem bolso",6,3000,"Não cotou",UNI,0,0
+"ENVELOPES GRANDES",7,2500,"Não cotou",UNI,0,0
+"ENVELOPES MÉDIOS",8,2500,"Não cotou",UNI,0,0
+"ENVELOPES PEQUENOS",9,2000,"Não cotou",UNI,0,0
+"CARTILHAS - A5 - 44 Páginas + capa",10,2500,"Não cotou",UNI,0,0
+"FAIXA - Faixa 300x70",11,25,"Não cotou",UNI,0,0
+"ADESIVO - Adesivo 50x40",12,25,"Não cotou",UNI,0,0
+"BLOCOS F.A.F",13,2000,Venceu,BLC,25000,12.5
+"BANNERS 100x200",14,30,"Não cotou",UNI,0,0
+"BANNERS  90X120",15,30,"Não cotou",UNI,0,0

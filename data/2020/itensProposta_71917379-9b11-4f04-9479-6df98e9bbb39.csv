@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefônico com fio",4446058,100,PERDEU,UND,4760,47.6
+"APARELHO TELEFONICO SEM FIO",4446059,100,DESCLASSIFICADO,UND,13200,132
+"Apontador sem depósito",4446060,247,VENCEU,UND,29.64,0.12
+"CAIXA PARA CORRESPONDENCIA",4446061,150,PERDEU,UND,5643,37.62
+"Calculadora de mesa 12 digitos",4446062,150,DESCLASSIFICADO,UND,2610,17.4
+"CANETA DESTACA TEXTO",4446063,400,PERDEU,CX,4604,11.51
+"Grampeador para papeis",4446065,220,PERDEU,UN,2288,10.4
+"Papel Off-Set, alcalino, formato A-4",4446066,162,INABILITADO,CX,27378,169
+"Papel Off-Set, alcalino, formato A-4",4446067,488,INABILITADO,CX,82472,169
+"Pasta plastica de arquivo, com no minimo 25",4446068,474,PERDEU,UN,1071.24,2.26
+"Pasta plastica de arquivo, com no minimo 30",4446069,600,PERDEU,UN,1752,2.92
+"Pasta plastica de arquivo, com no minimo 50",4446070,200,PERDEU,UN,790,3.95
+"Rolo de senha de papel de 2 (dois) digitos",4446071,200,VENCEU,UN,1970,9.85
+"Tesoura Doméstica",4446072,250,PERDEU,UND,950,3.8
+"CARTOLINA TAMANHO OFICIO",4446073,30000,DESCLASSIFICADO,UND,11100,0.37
+"Balão tamanho no. 7",4446074,300,PERDEU,PCT,1470,4.9
+"Caixa organizadora  capac. 10 lt",4446076,150,DESCLASSIFICADO,UN,3660,24.4
+"Caixa organizadora  capac. 20 lt",4446077,150,PERDEU,UN,4575,30.5
+"Lápis colorido",4446078,30,VENCEU,CX,85.5,2.85
+"Papel cartão colorido fosco",4446079,300,PERDEU,UN,234,0.78
+"PASTA SUSPENSA",4446080,25,PERDEU,CX,1175,47

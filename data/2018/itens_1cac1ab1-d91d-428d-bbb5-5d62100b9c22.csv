@@ -1,0 +1,28 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"AMPICILINA 500MG.",1328389,26,2000,ATIVO,CAPSULA,580,0.29
+"Atropina 0,25mg/mL",1328535,29,1000,ATIVO,AMP,277.6,0.2776
+"BENZILPENICILINA BENZATINA 1.200.000 UI",1328536,36,10000,ATIVO,"Frasco ampola",93000,9.3
+"Betametasona, diproprionato +  betametasona fosfato 1ml",1328537,38,5000,ATIVO,AMP,13679.5,2.7359
+"Bicarbonato de sódio 8,4% ampola 10ml.",1328538,39,200,ATIVO,AMP,106,0.53
+"Carbamazepina 200mg",1328539,51,1000000,ATIVO,COMPRIMIDO,89400,0.0894
+"Carvão ativado 1kg",1328540,56,4,ATIVO,PAC,195.15,48.7878
+"Carvedilol 12,5 mg",1328541,57,36000,ATIVO,COMPRIMIDO,3744,0.104
+"Carvedilol 3,125 mg",1328542,59,5000,ATIVO,COMPRIMIDO,420,0.084
+"Carvedilol 6,25 mg",1328543,60,15000,ATIVO,COMPRIMIDO,1305,0.087
+"Cefalexina 50mg/mL suspensão oral 60ml",1328544,62,10000,ATIVO,FRASCO,49200,4.92
+"Cloreto de sódio 20% 10ml",1328545,77,200,ATIVO,AMP,47.58,0.2379
+"Dopamina 5mg/ml 10ml",1328546,97,400,ATIVO,AMP,666.12,1.6653
+"Furosemida 10mg/mL injetável 2ml",1328548,122,14000,ATIVO,AMP,4508,0.322
+"Lidocaina 2% + epinefrina  1:100.000",1328549,162,350,ATIVO,AMP,939.08,2.6831
+"Metronidazol 200mg/5mL suspensão oral 80ml",1328550,179,4000,ATIVO,FRASCO,36478.8,9.1197
+"Petidina, cloridrato 50mg/mL injetável 2ml",1328551,204,200,ATIVO,AMP,380.66,1.9033
+"RANITIDINA 50mg/2mL",1328552,214,10000,ATIVO,AMP,3675,0.3675
+"Salbutamol 0,4mg/mL",1328553,218,200,ATIVO,AMP,214,1.07
+"Sulfametoxazol 200mg+ Trimetoprima 40mg/5mL 100ml",1328554,225,4000,ATIVO,FRASCO,5692,1.423
+"Sulfato ferroso 125mg/mL solução oral  30ml",1328555,227,1000,ATIVO,FRASCO,660,0.66
+"Sulfato ferroso 25 mg/ml xarope 120 ml",1328556,228,1000,ATIVO,FRASCO,1414.2,1.4142
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% 1",1328557,232,400,ATIVO,FRASCO,3737.76,9.3444
+"Timolol, Maleato 0,5% 5ml",1328558,234,400,ATIVO,FRASCO,471.6,1.179
+"Tramadol, cloridrato 50mg",1328559,235,800000,ATIVO,COMPRIMIDO,78400,0.098
+"Tramadol, cloridrato 50mg/mL 1ml",1328560,236,12000,ATIVO,AMP,6120,0.51
+"Hidrocortisona 100mg",1328561,136,4000,ATIVO,"Frasco ampola",8320,2.08

@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Porta agulha Mayo-Hager 15 cm",1265114,61,100,ATIVO,UNIDADE,2089,20.89
+"Pinça Hemostática kelly",1265115,75,10,ATIVO,UNIDADE,225.6,22.56
+"Pinça Mosquito 12cm",1265116,76,10,ATIVO,UNIDADE,197.7,19.77
+"Pinça Hemostática kelly curva com 16cm",1265117,78,10,ATIVO,UNIDADE,267.4,26.74
+"Compressas de Gaze Hidrófila",1265119,190,1800,ATIVO,PACOTE,32400,18
+"Escova dental adulto;",1265120,225,50,ATIVO,PACOTE,1575,31.5
+"Escova dental infantil macia",1265121,226,50,ATIVO,PACOTE,1425,28.5
+"Luva de Látex não esteril tamanho PP",1265122,302,1000,ATIVO,CAIXA,15150,15.15
+"Luva de Látex não esteril tamanho P",1265123,303,1300,ATIVO,CAIXA,19695,15.15
+"Luva de Látex não esteril tamanho M.",1265124,304,600,ATIVO,CAIXA,9090,15.15
+"Luva de Látex não esteril tamanho G",1265126,305,50,ATIVO,CAIXA,757.5,15.15
+"Tesoura Metzenbaum Curva 15cm",1265142,96,5,ATIVO,UNIDADE,149,29.8

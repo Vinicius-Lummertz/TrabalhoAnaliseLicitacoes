@@ -1,0 +1,26 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"RODO PLASTICO",1301221,43,10,ATIVO,UNIDADE,60,6
+"Escova Sanitária",1301223,17,30,ATIVO,UNIDADE,135,4.5
+"Pá coletora plástica.",1303290,34,4,ATIVO,UNIDADE,143.6,35.9
+"Pá de lixo plástica.",1303291,35,4,ATIVO,UNIDADE,12.6,3.15
+"Vassoura Nylon",1303292,49,30,ATIVO,UNIDADE,321,10.7
+"Luva para Limpeza.",1303294,28,40,ATIVO,UNIDADE,115.6,2.89
+"Esponja de lã de Aço.",1303296,25,200,ATIVO,PACOTE,258,1.29
+"Dispenser para papel Toalha.",1305320,39,2,ATIVO,UNIDADE,299.8,149.9
+"Papel higiênico",1305321,40,6,ATIVO,FARDO,345.6,57.6
+"Álcool etílico em gel 70% (70 INPM)",1305325,13,400,ATIVO,GRAMAS,2248,5.62
+ESPONJA,1307367,26,200,ATIVO,PACOTE,288,1.44
+"Desodorizador de ambientes 360 ml.",1307369,16,60,ATIVO,FRASCO,414,6.9
+"Agua Sanitária  com 5 Litros.",1309378,1,180,ATIVO,GALAO,1033.2,5.74
+"Álcool etílico hidratado 96% (92,8º INPM)",1309379,14,60,ATIVO,LITRO,387,6.45
+"Refil Mopi úmido (refil)",1311445,30,60,ATIVO,UNIDADE,633,10.55
+"Saco plástico de lixo domestico de polietileno 30 litros",1311446,48,15,ATIVO,PACOTE,138,9.2
+"Desinfetante limpador de uso geral",1311447,9,30,ATIVO,GALAO,4099.5,136.65
+"Saboneteira de Mesa com Pump",1313416,12,30,ATIVO,UNIDADE,315,10.5
+"Escova para higienização de mãos e unhas",1313417,23,10,ATIVO,UNIDADE,43.1,4.31
+"Cabo de aluminio para suporte de Mop Úmido",1315575,31,10,ATIVO,UNIDADE,134,13.4
+"Saco plástico de lixo domestico,com capacidade de 50 litros",1315577,47,15,ATIVO,PACOTE,175.5,11.7
+"Guardanapo de papel folha simples;",1315578,53,200,ATIVO,EMBALAGEM,190,0.95
+"Sabão liquido de coco",1315581,6,70,ATIVO,GALAO,707,10.1
+"Sabão em pó .",1315583,19,80,ATIVO,kg,420,5.25
+"Escova para lavar roupas",1319643,22,20,ATIVO,UNIDADE,59.6,2.98

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bandeira Cônica Contínua Tipo II",0,6,VENCEU," ",83400,13900
+"Bandeira Cônica Dupla Continua Tipo II",0,4,VENCEU," ",63600,15900
+"Pórtico Viga vazada",0,3,VENCEU," ",110700,36900
+"Pórtico Treliçado",0,2,VENCEU," ",81600,40800
+"Placas em ACM",0,200,VENCEU," ",108000,540

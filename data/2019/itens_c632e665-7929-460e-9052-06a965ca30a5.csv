@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água Oxigenada 10 V",1298219,1,250,ATIVO,LITRO,1045,4.18
+"Compressa cirúrgica",1300302,7,140,ATIVO,PACOTE,10780,77
+"Atadura de crepom 20cm",1308456,20,2000,ATIVO,UNIDADE,2700,1.35
+"Atadura de crepom 8 cm",1310476,18,1500,ATIVO,UNIDADE,855,0.57
+"Bobina de Gaze Hidrófila",1314638,9,15,ATIVO,ROLO,1027.35,68.49

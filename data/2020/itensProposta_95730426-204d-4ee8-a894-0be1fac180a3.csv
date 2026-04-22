@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Um elevador marca SUR modernizado Castelo, modelo convencio",0,12,VENCEU," ",11520,960
+"Um elevador marca Castelo, modelo hidráulico, capacidade 10",0,12,VENCEU," ",9960,830
+"Uma plataforma elevatória marca Daiken, modelo hidráulico, c",0,12,VENCEU," ",8160,680

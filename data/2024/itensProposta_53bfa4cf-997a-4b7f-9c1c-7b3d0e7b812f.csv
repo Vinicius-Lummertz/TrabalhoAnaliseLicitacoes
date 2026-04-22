@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Conector RJ45 Cat 5E",14940397,1000,PERDEU,UNI,600,0.6
+"Conector RJ45 CAT 6",14940398,1000,PERDEU,UND,600,0.6
+"Memória DDR3 8Gb para Notebook",14940405,16,PERDEU,UND,1963.84,122.74
+"Memória DDR4 8Gb para Notebook",14940407,10,PERDEU,UND,2225.9,222.59
+"Mouse Pad",14940414,100,PERDEU,UND,910,9.1
+"Suporte Elevado para Notebook",14940433,10,PERDEU,UND,1570,157
+"Teclado sem fio",14940439,20,PERDEU,UND,2937,146.85

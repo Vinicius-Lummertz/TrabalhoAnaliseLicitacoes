@@ -1,0 +1,71 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Corpo coreográfico,  modelo 01",19562436,12,PERDEU,CJT,23017.92,1918.16
+"Corpo coreográfico, modelo 02",19562437,18,VENCEU,CJT,13320,740
+"Vestido Banda e Fanfarra,  Modelo 3",19562438,32,VENCEU,UND,23680,740
+"Corpo coreográfico, modelo 04",19562439,16,PERDEU,CJT,35733.28,2233.33
+"Casaco e saia, Modelo Coreográfico 5",19562440,3,VENCEU,UND,3897,1299
+"Corpo Coreográfico, Modelo 6",19562441,15,VENCEU,UND,14145,943
+"Corpo coreográfico, Modelo 7",19562442,18,VENCEU,UND,9000,500
+"Corpo Musical, Modelo 1",19562443,50,VENCEU,CJT,23250,465
+"Corpo Musical, Modelo 2",19562444,45,VENCEU,UND,63000,1400
+"Corpo Musical, Modelo 3",19562445,50,PERDEU,UND,65000,1300
+Quepe,19562446,163,PERDEU,UND,56173.06,344.62
+"Conjunto, Modelo Etnia Alemã",19562447,20,VENCEU,UND,46100,2305
+"Conjunto, Modelo Etnia Italiana",19562448,20,VENCEU,UND,50666.6,2533.33
+"Conjunto, Modelo Etnia Negra",19562449,20,DESCLASSIFICADO,UND,44146.8,2207.34
+"Conjunto, Modelo Etnia Portuguesa",19562450,20,VENCEU,UND,54333.4,2716.67
+"Conjunto, Modelo Etnia Polonesa",19562451,20,VENCEU,UND,55000,2750
+"Conjunto, Modelo Etnia Árabe",19562452,20,VENCEU,UND,50274.6,2513.73
+"Conjunto, Modelo Etnia Espanhola",19562453,20,VENCEU,UND,59133.4,2956.67
+"Conjunto, Modelo Indígena",19562454,8,DESCLASSIFICADO,UND,24800,3100
+"Sapato masculino, fechado em couro",19562455,319,PERDEU,PAR,102829.65,322.35
+"Bota masculino confeccionada em couro",19562456,98,PERDEU,PAR,35530.88,362.56
+"Sapato feminino estilo boneca",19562457,350,VENCEU,PAR,52150,149
+"Sandália Franciscana em couro",19562458,46,PERDEU,PAR,15598.14,339.09
+"Meia Masculina",19562460,298,PERDEU,PAR,13410,45
+"Meião de Jogador",19562461,114,PERDEU,PAR,6496.86,56.99
+"Meia de Listra",19562462,6,PERDEU,PAR,445.98,74.33
+"Bota de Borracha",19562463,28,PERDEU,PAR,3138.52,112.09
+"Bota feminina em couro",19562464,4,VENCEU,PAR,1920,480
+"Sandália rasteirinha em couro",19562465,30,PERDEU,PAR,8628.6,287.62
+"Meia calça fio 15 adulto",19562466,276,PERDEU,UND,11569.92,41.92
+"Meia calça de listras",19562467,8,PERDEU,UND,1176.8,147.1
+"Meia arrastão",19562468,12,PERDEU,UND,796.56,66.38
+"Meia Fina fio 20 três quartos",19562469,76,PERDEU,PAR,2154.6,28.35
+"Kit de acessórios para cabelo  e maquiagem",19562470,16,PERDEU,KIT,8453.28,528.33
+"Casquete Fascinator",19562471,24,DESCLASSIFICADO,UND,4800,200
+"Acessório de cabelo  com base prateada",19562472,44,DESCLASSIFICADO,UND,8283.44,188.26
+"Saia de tecido em filo e forro 100 por cento poliéster",19562473,17,DESCLASSIFICADO,UND,3060,180
+"Bandeira 1,40 por 80  com suporte",19562474,12,VENCEU,UND,2364,197
+"Estandarte Modelo 1",19562475,8,PERDEU,UND,10725.44,1340.68
+"Estandarte Modelo 2",19562476,2,PERDEU,UND,2945.24,1472.62
+"Rolo de malha PV 20kg",19562477,4,PERDEU,UNID,8022.68,2005.67
+"Bastão de mor",19562478,4,VENCEU,UND,1124,281
+"Carro Alegórico",19562479,1,DESCLASSIFICADO,UND,21880,21880
+"Vestido para Coral",19562480,60,DESCLASSIFICADO,UND,48909,815.15
+"Conjunto Masculino para Coral",19562481,60,VENCEU,UND,45127.8,752.13
+Casaco,19562482,110,VENCEU,UND,66000,600
+"Bandeira em malha 3m X1,30m",19562483,82,VENCEU,UND,21976,268
+"Conjunto da Banda Masculino e Feminina",19562484,90,VENCEU,UND,53910,599
+"Conjunto Masculino, casaco, colete,calça e cartola",19562485,6,DESCLASSIFICADO,UND,11034,1839
+"Conjunto de fantasias de Renas",19562486,6,VENCEU,UND,10339.98,1723.33
+"Vestido Bela",19562487,6,DESCLASSIFICADO,UND,8850,1475
+"Vestido Clássico",19562488,6,DESCLASSIFICADO,UND,10080,1680
+"Conjunto de Fantasias Feminino, Colete, Bermuda, Chapéu tipo cartola",19562489,6,VENCEU,UND,10980,1830
+"Macacão e capacete de Mineiro",19562490,10,VENCEU,UND,7000,700
+"CONJUNTO ELEGANTE",19562491,4,DESCLASSIFICADO,UND,9666.68,2416.67
+"Traje de Duende 1 masculino",19562492,6,VENCEU,UND,9698.04,1616.34
+"Traje de Duende 2 Feminino",19562493,6,DESCLASSIFICADO,UND,12373.74,2062.29
+"Vestido Natalino",19562494,6,VENCEU,UND,13300.02,2216.67
+"Traje de Mágico",19562495,6,VENCEU,UND,17980.02,2996.67
+"Soldados de Chumbo",19562496,8,DESCLASSIFICADO,UND,34933.36,4366.67
+"Reis Magos modelo 1",19562497,1,DESCLASSIFICADO,UND,2523.33,2523.33
+"Reis Magos modelo 2",19562498,1,DESCLASSIFICADO,UND,2150,2150
+"Reis Magos modelo 3",19562499,1,DESCLASSIFICADO,UND,2245,2245
+"Caixa de Presente em madeira",19562500,3,DESCLASSIFICADO,UND,5340,1780
+"Vestes de José e Maria",19562501,1,DESCLASSIFICADO,UND,1566.67,1566.67
+"Gorro de Natal",19562502,200,PERDEU,UND,13700,68.5
+Carruagem,19562503,1,VENCEU,UND,23258,23258
+"Cavalete em madeira 1,80m x 0,80m",19562504,6,PERDEU,UND,10548,1758
+"Flamula em veludo em formato triangulo",19562505,35,VENCEU,UND,7000,200
+"Estandarte em veludo 1,30 x 1,30 bordado",19562506,6,VENCEU,UND,7200,1200

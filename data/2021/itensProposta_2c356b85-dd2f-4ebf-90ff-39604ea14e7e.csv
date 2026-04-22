@@ -1,0 +1,41 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"DOCE DE BANANA",1,750,"Não analisado",PT,10537.5,14.05
+"FARINHA DE MANDIOCA",2,1000,"Não analisado",KG,4750,4.75
+"FARINHA DE MILHO",3,400,"Não analisado",KG,1920,4.8
+LEITE,4,20314,Desclassificado,LIT,0,0
+"QUEIJO PRATO",5,1100,"Não analisado",KG,0,0
+"SUCO NATURAL",6,7000,"Não analisado",UNI,0,0
+ABACAXI,7,700,"Não analisado",UNI,3360,4.8
+"ABOBORA TRONCO",8,400,Desclassificado,KG,1000,2.5
+aipim,9,1500,"Não analisado",KG,7500,5
+"ALFACE CRESPA .",10,2500,Desclassificado,UNI,7450,2.98
+"ALHO IN NATURA",11,300,"Não analisado",KG,0,0
+ARROZ,12,9000,"Não analisado",KG,39600,4.4
+"BANANA BRANCA",13,7000,Desclassificado,KG,24710,3.53
+"BATATA DOCE",14,800,Desclassificado,KG,2872,3.59
+"BATATA INGLESA",15,3500,Desclassificado,KG,12355,3.53
+BETERRABA,16,1000,"Não analisado",KG,4290,4.29
+Brocolis,17,800,Desclassificado,UNI,4040,5.05
+"CEBOLA DE CABEÇA",18,2500,"Não analisado",KG,9500,3.8
+CENOURA,19,1200,"Não analisado",KG,5148,4.29
+Chuchu,20,600,Desclassificado,KG,1860,3.1
+"COUVE FLOR",21,600,"Não analisado",UNI,3060,5.1
+"Couve folha",22,1400,Desclassificado,MLHO,4130,2.95
+ESPINAFRE,23,600,Desclassificado,MLHO,1890,3.15
+"FEIJÃO PRETO",24,5300,"Não analisado",KG,35510,6.7
+iogurte,25,12000,"Não analisado",LIT,0,0
+LARANJA,26,8000,"Não analisado",KG,0,0
+MAÇÃ,27,8000,"Não analisado",KG,0,0
+MAMÃO,28,1700,"Não analisado",KG,0,0
+Melancia,29,4000,"Não analisado",KG,0,0
+MELÃO,30,1700,"Não analisado",KG,0,0
+"MORANGA KABOTIÁ",31,1700,"Não analisado",KG,5066,2.98
+"OVOS  DE GALINHA",32,3200,"Não analisado",DZ,20800,6.5
+PIMENTÃO,33,1000,"Não analisado",KG,4490,4.49
+REPOLHO,34,1200,"Não analisado",UNI,4512,3.76
+"TEMPERO VERDE",35,2200,"Não analisado",MLHO,6446,2.93
+TOMATE,36,3400,"Não analisado",KG,16422,4.83
+LIMÃO,37,350,"Não analisado",KG,1911,5.46
+"MILHO VERDE  - in natura",38,800,"Não analisado",KG,4872,6.09
+PEPINO,39,1200,"Não analisado",KG,4668,3.89
+"MARACUJÁ AZEDO",40,400,"Não analisado",KG,0,0

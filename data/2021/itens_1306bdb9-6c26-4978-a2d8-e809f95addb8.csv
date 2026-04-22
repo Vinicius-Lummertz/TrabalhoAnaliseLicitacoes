@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",2216250,4,2800000,ATIVO,COMPRIMIDO,112000,0.04
+"Fenitoina 100mg cpr, em blister.",2216251,120,360000,ATIVO,COMPRIMIDO,37440,0.104
+"Haloperidol, 2mg/ml solução oral 20ml, frasco.",2216252,145,600,ATIVO,FRASCO,2064,3.44
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",2216253,178,6000,ATIVO,"Frasco ampola",24000,4

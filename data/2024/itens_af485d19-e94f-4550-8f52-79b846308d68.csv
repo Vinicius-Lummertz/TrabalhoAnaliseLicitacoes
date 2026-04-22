@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa de Mesa",5592994,5,10,ATIVO,UNIDADE,2283.3,228.33
+"Placa de Mesa Comando-Geral",5592995,6,9,ATIVO,UNIDADE,2193.75,243.75
+"Placa suporte de espada",5592996,7,3,ATIVO,UNIDADE,2611.32,870.44
+"Placa Quadro Ex-Comandantes",5592997,8,5,ATIVO,UNIDADE,1925,385
+"Sacola Plástica Personalizada",5592998,10,5,CANCELADO,MILHEIRO,1421.35,284.27

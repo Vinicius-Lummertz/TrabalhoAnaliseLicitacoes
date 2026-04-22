@@ -1,0 +1,125 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabeçote p/ usina",0,2,VENCEU," ",6835.8,3417.9
+"Conexão pu azul",0,30,VENCEU," ",1041,34.7
+"Correia p/usina",0,10,VENCEU," ",824,82.4
+"Engate rápido p/ usina",0,10,VENCEU," ",943,94.3
+"Filtro ar compressor p/ usina",0,80,VENCEU," ",5960,74.5
+"Gatilho graxeira",0,1,VENCEU," ",111.2,111.2
+"Graxeira hidráulica",0,1,VENCEU," ",138.4,138.4
+Mandrilhadora,0,100,VENCEU," ",3080,30.8
+"Mangueira pu azul",0,50,VENCEU," ",990,19.8
+"Manômetro p/usina",0,8,VENCEU," ",1319.2,164.9
+"Óleo compressor p/ usina",0,160,VENCEU," ",1744,10.9
+"Purgador eletrônico",0,6,VENCEU," ",1913.4,318.9
+"Registro p/ usina",0,10,VENCEU," ",606,60.6
+"Tubulação p/ uso na usina",0,50,VENCEU," ",345,6.9
+"mao de obra diversos",0,200,VENCEU," ",20260,101.3
+"ABB CONTACTOR 150 A 220V",0,1,VENCEU," ",1679.9,1679.9
+"ABB contactor AC25-30 220V",0,10,VENCEU," ",2174,217.4
+"ABB disjuntor motor MS116 1,6-2,5A",0,4,VENCEU," ",1185.6,296.4
+"ABB disjuntor motor MS116 10-14AA",0,1,VENCEU," ",415,415
+"ABB disjuntor motor MS116 1-1,6A",0,1,VENCEU," ",227.2,227.2
+"ABB disjuntor motor MS116 6,3-10A",0,1,VENCEU," ",326.1,326.1
+"Bloco contato S2-H",0,8,VENCEU," ",473.6,59.2
+"CABO FLEX 750V-   4,0MM-PRETO",0,100,VENCEU," ",290,2.9
+"Cabo flex 750V 10,00mm azul",0,100,VENCEU," ",910,9.1
+"Cabo flex 750V 10,00mm branco",0,100,VENCEU," ",880,8.8
+"Cabo flex 750V 10,00mm preto",0,100,VENCEU," ",880,8.8
+"cabo flex 750V 10,00mm verde",0,100,VENCEU," ",880,8.8
+"Cabo flex 750V 10,00mm vermelho",0,100,VENCEU," ",880,8.8
+"Cabo flex 750V 2,5MM azul",0,100,VENCEU," ",190,1.9
+"Cabo flex 750V 2,5MM vermelho",0,100,VENCEU," ",190,1.9
+"Cabo flex 750V 2,5MM branco",0,100,VENCEU," ",190,1.9
+"Cabo flex 750V 2,5MM preto",0,100,VENCEU," ",190,1.9
+"Cabo flex 750V 4,0MM azul",0,100,VENCEU," ",190,1.9
+"Cabo PT100 3X24 AWG silicone",0,100,VENCEU," ",1380,13.8
+"Chave softstart",0,2,VENCEU," ",5948.8,2974.4
+"Contator 100-250VCA/CC",0,3,VENCEU," ",800.4,266.8
+"Controlador de temperatura N1030",0,2,VENCEU," ",632.4,316.2
+"Controlador N1040 PR",0,1,VENCEU," ",499,499
+"Disjuntor 10A monofásico",0,5,VENCEU," ",49,9.8
+"Disjuntor CM1-400 250A TRIF.",0,1,VENCEU," ",800.4,800.4
+"Disjuntor tripolar ABB SH203 T40A",0,1,VENCEU," ",99.8,99.8
+"Disjuntor tripolar ABB SH203 T63A",0,1,VENCEU," ",126.4,126.4
+"Fita isolante 20M",0,20,VENCEU," ",128,6.4
+"Fonte chaveada 24V 10A",0,1,VENCEU," ",1106.7,1106.7
+"FOTOCÉLULA BRAHMA UV1",0,1,VENCEU," ",2164.1,2164.1
+"Fotocelula UV1",0,2,VENCEU," ",2015.8,1007.9
+"Inversor frequência 5CV 380-480",0,1,VENCEU," ",4062.4,4062.4
+"Inversor frequência trifásico 3,0CV",0,2,VENCEU," ",6166.2,3083.1
+"Mini disjuntor tripolar ABB SH203",0,3,VENCEU," ",296.4,98.8
+"MINIDISJUNTOR SH203T-C2 TRIPOLAR",0,19,VENCEU," ",2458.6,129.4
+"MÓDULO MODBUS DE ENTRADA PT100",0,2,VENCEU," ",266.8,133.4
+"Motor WEG 1 CV 4P",0,1,VENCEU," ",299.4,299.4
+"Motor WEG 3 CV 4P",0,2,VENCEU," ",2994.2,1497.1
+"Motor WEG 30CV 2P",0,1,VENCEU," ",2422,2422
+"Motor WEG 5CV 4P",0,1,VENCEU," ",3053.5,3053.5
+"PROGRAMADOR DE CHAMA BRAHMA MF2",0,1,VENCEU," ",2994.2,2994.2
+"PROGRAMADOR CHAMA SIEMENS LMO14",0,1,VENCEU," ",2262.9,2262.9
+"Rele sequência e falta de fase 380V",0,1,VENCEU," ",98.8,98.8
+"Rele stop preventa",0,1,VENCEU," ",1630.5,1630.5
+"Sensor PT100 3TI16X250R1",0,3,VENCEU," ",829.8,276.6
+"Sensor PT100 5TI110X100",0,3,VENCEU," ",859.5,286.5
+"Sinaleiro LED 22MM Verde 220V",0,24,VENCEU," ",211.2,8.8
+"Softstarter 45A",0,1,VENCEU," ",4056.5,4056.5
+"Temporizador omrom H3DKZ 24-240VCC",0,1,VENCEU," ",233.8,233.8
+"ABB disjuntor motor MS116 4,0-6A",0,4,VENCEU," ",1181.6,295.4
+"Transf. corrente MSQ-40 250/5A",0,3,VENCEU," ",251.7,83.9
+"Serv. rebobinagem motor weg 30CV",0,2,VENCEU," ",5978.6,2989.3
+"Serv. rebobinagem motor weg 3CV",0,2,VENCEU," ",1379.4,689.7
+"Serv. rebobinagem motor weg 5CV",0,6,VENCEU," ",5329.8,888.3
+"Mão de obra eletricista",0,200,VENCEU," ",17580,87.9
+"Aço 1020",0,200,NAO_COTOU," ",0,0
+"Aço 1040",0,200,NAO_COTOU," ",0,0
+"Aço 4140",0,100,NAO_COTOU," ",0,0
+"Aço 4320",0,100,NAO_COTOU," ",0,0
+"Braço lado direito",0,24,NAO_COTOU," ",0,0
+"Braço lado esquerdo",0,24,NAO_COTOU," ",0,0
+"Correia (20MX50CM)",0,3,NAO_COTOU," ",0,0
+"Correia 13x0895",0,10,NAO_COTOU," ",0,0
+"Correia 13x1325",0,10,NAO_COTOU," ",0,0
+"Correia c122",0,10,NAO_COTOU," ",0,0
+"Correia transportadora material acabado",0,30,NAO_COTOU," ",0,0
+"Corrente de rolete (2 METROS)",0,2,NAO_COTOU," ",0,0
+"Eixo guia elevador",0,10,NAO_COTOU," ",0,0
+"Eixo Matriz Elevador tração",0,3,NAO_COTOU," ",0,0
+"Eixo rolante guia secador",0,20,NAO_COTOU," ",0,0
+"Engrenagem de tração corrente elevador",0,2,NAO_COTOU," ",0,0
+"Engrenagem tracionamento elevador",0,2,NAO_COTOU," ",0,0
+"Filtro de manga",0,168,NAO_COTOU," ",0,0
+"Gaiola do filtro de manga",0,96,NAO_COTOU," ",0,0
+"Graxa alta temperatura",0,200,NAO_COTOU," ",0,0
+"Mancal F209",0,12,NAO_COTOU," ",0,0
+"Mancal F211",0,20,NAO_COTOU," ",0,0
+"Mancal p/ usina",0,8,NAO_COTOU," ",0,0
+"Mangueira do óleo térmico alta temperatura",0,20,NAO_COTOU," ",0,0
+"Motor de redução",0,2,NAO_COTOU," ",0,0
+"Óleo térmico",0,200,NAO_COTOU," ",0,0
+"Parafuso 1/2 X 3.1/2",0,150,NAO_COTOU," ",0,0
+"Parafuso 1/2 X 5 c/ porca",0,100,NAO_COTOU," ",0,0
+"Parafuso 3/8 x 2.1/2 c/ porca",0,100,NAO_COTOU," ",0,0
+"Parafuso 3/8 X 3",0,320,NAO_COTOU," ",0,0
+"Pás p/ usina",0,96,NAO_COTOU," ",0,0
+"Ponta de eixo estriada",0,3,NAO_COTOU," ",0,0
+"Queimador p/ usina",0,2,NAO_COTOU," ",0,0
+"Raspadores do eixo",0,16,NAO_COTOU," ",0,0
+"Redutor GD40",0,2,NAO_COTOU," ",0,0
+"Redutor GD50",0,2,NAO_COTOU," ",0,0
+"Relógio marcador de pressão",0,4,NAO_COTOU," ",0,0
+"Rolamento (base dos rolos)",0,16,NAO_COTOU," ",0,0
+"Rolamento F209",0,12,NAO_COTOU," ",0,0
+"Rolamento F211",0,20,NAO_COTOU," ",0,0
+"Rolamento p/ usina",0,8,NAO_COTOU," ",0,0
+"Rolete correia transp. Da base",0,10,NAO_COTOU," ",0,0
+"Rolete de atrito",0,8,NAO_COTOU," ",0,0
+"Rolete guia",0,4,NAO_COTOU," ",0,0
+"Rolo de carga grande (25CMX10CM)",0,16,NAO_COTOU," ",0,0
+"Rolo de carga pequenos (25CMX5CM)",0,20,NAO_COTOU," ",0,0
+"Válvula pneumática ¼",0,5,NAO_COTOU," ",0,0
+"Tempera p/ usina",0,100,NAO_COTOU," ",0,0
+"Centro de usinagem",0,100,NAO_COTOU," ",0,0
+"Geradora de dentes fellows",0,100,NAO_COTOU," ",0,0
+"MAO DE OBRA DE MECANICA",0,150,NAO_COTOU," ",0,0
+"Mão de obra soldador manutenção",0,150,NAO_COTOU," ",0,0
+"Torno CNC",0,100,NAO_COTOU," ",0,0
+"Torno convencional",0,50,NAO_COTOU," ",0,0

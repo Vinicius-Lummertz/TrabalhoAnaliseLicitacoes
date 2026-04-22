@@ -1,0 +1,39 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Espelho 4mm lapidados em maquinas industrial",4243014,1,140,ATIVO,"METRO QUADRADO",36162,258.3
+"Espelho 3mm lixado",4243015,2,190,ATIVO,"METRO QUADRADO",39504.8,207.92
+"Vidro mini boreal",4243016,3,152,ATIVO,"METRO QUADRADO",19264.48,126.74
+"Vidro canelado",4243017,4,122,ATIVO,"METRO QUADRADO",15914.9,130.45
+"Vidro martelado",4243018,5,117,ATIVO,"METRO QUADRADO",18618.21,159.13
+"Vidro incolor 3 mm",4243019,6,171,ATIVO,"METRO QUADRADO",18438.93,107.83
+"Vidro incolor 4mm",4243020,7,181,ATIVO,UNIDADE,24485.68,135.28
+"Vidro comum 6mm fumê",4243021,8,22,ATIVO,"METRO QUADRADO",4841.76,220.08
+"Vidro temperado 8mm fumê",4243022,9,6,ATIVO,"METRO QUADRADO",3097.8,516.3
+"Vidro temperado 10mm fumê",4243023,10,16,ATIVO,"METRO QUADRADO",11442.24,715.14
+"Vidro temperado 8mm incolor",4243024,11,247,ATIVO,"METRO QUADRADO",101097.1,409.3
+"Vidro temperado 10mm incolor",4243025,12,425,ATIVO,"METRO QUADRADO",222938,524.56
+"Quadro de vidro incolor 4mm",4243026,13,31,ATIVO,UNIDADE,12639.94,407.74
+"Fechadura para de vidro porta votante - modelo 1520",4243027,14,57,ATIVO,UNIDADE,6816.63,119.59
+"Contra fechadura porta de vidro votante- modelo 1504",4243028,15,39,ATIVO,UNIDADE,1847.82,47.38
+"Trinco para porta de vidro- modelo 1521",4243029,16,54,ATIVO,UNIDADE,2283.66,42.29
+"Mola hidráulica de piso para porta de piso até 120cm",4243030,17,16,ATIVO,UNIDADE,17530.08,1095.63
+"Dobradiça superior para porta de vidro-  modelo 1101",4243031,18,40,ATIVO,UNIDADE,3815.6,95.39
+"Dobradiça para porta de vidro inferior-  modelo 1102",4243032,19,39,ATIVO,UNIDADE,3658.98,93.82
+"Dobradiça para mola de porta de vidro - modelo 1103",4243033,20,33,ATIVO,UNIDADE,3884.1,117.7
+"Trinco com mola para porta de vidro -  modelo 1521a",4243034,21,28,ATIVO,UNIDADE,1151.92,41.14
+"Trilho superior para porta de vidro",4243035,22,80,ATIVO,UNIDADE,23953.6,299.42
+"Perfil tipo u (al-25) para vidros",4243036,23,80,ATIVO,UNIDADE,12917.6,161.47
+"Trilho inferior para vidros",4243037,24,80,ATIVO,UNIDADE,14218.4,177.73
+"Perfil batente para vedação",4243038,25,75,ATIVO,UNIDADE,5931.75,79.09
+"Perfil transpasse para vedação",4243039,26,75,ATIVO,UNIDADE,7011,93.48
+"Tubo de alumínio 5x10cm",4243040,27,80,ATIVO,UNIDADE,44999.2,562.49
+"Perfil superior para porta de vidro duas móveis",4243041,28,62,ATIVO,UNIDADE,25932.74,418.27
+"Trilho inferior para porta de vidro duas móveis",4243042,29,65,ATIVO,UNIDADE,16526.9,254.26
+"Click de acabamento",4243043,30,65,ATIVO,UNIDADE,3766.75,57.95
+"Escova de vedação",4243044,31,67,ATIVO,UNIDADE,4673.25,69.75
+"Roldana para porta de correr todas móveis -  modelo 1122",4243045,32,99,ATIVO,UNIDADE,4961.88,50.12
+"Roldana para porta de correr - modelo 1125",4243046,33,99,ATIVO,UNIDADE,894.96,9.04
+"Conjunto mão de amigo (transpasse de 10cm nos vidros) - modelo 1710",4243047,34,59,ATIVO,UNIDADE,5085.8,86.2
+"Presilha para trinco 1521ª, uso em janelas - modelo 1805",4243048,35,59,ATIVO,UNIDADE,500.32,8.48
+"Fechadura de alavanca para porta de vidro - modelo 1520mc",4243049,36,55,ATIVO,UNIDADE,13076.8,237.76
+"Puxador para janela de vidro - modelo 1650",4243050,37,55,ATIVO,UNIDADE,1211.1,22.02
+"Prolongador estrutural para vidros  modelo 1932",4243051,38,65,ATIVO,UNIDADE,1673.75,25.75

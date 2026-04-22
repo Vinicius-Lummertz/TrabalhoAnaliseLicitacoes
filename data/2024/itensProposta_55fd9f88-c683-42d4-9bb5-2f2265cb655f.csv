@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ACHOCOLATADO,16159389,1000,PERDEU,KG,14640,14.64
+CAFE,16159411,3000,PERDEU,EMB,49410,16.47
+"OLEO DE SOJA",16159455,3000,PERDEU,UND,27960,9.32
+"BOMBOM  - Embalados individualmente, recheado, coberto por chocolate preto. Em pacote de 1kg.",16159505,500,PERDEU,PCT,32545,65.09
+"BOMBOM  - Embalados individualmente, recheado, coberto por chocolate branco. Em pacote de 1kg.",16159507,500,PERDEU,PCT,33655,67.31

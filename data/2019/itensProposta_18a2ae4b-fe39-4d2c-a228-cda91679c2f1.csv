@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de ultrassom odontológico",4439538,2,VENCEU,UN,3200,1600
+"Bomba de vácuo: Voltagem 127/220V",4439539,2,VENCEU,UN,3920,1960
+"Avental RX para Paciente Infantil",4439542,2,DESCLASSIFICADO,UN,840,420
+"Avental RX para Paciente Adulto",4439543,2,DESCLASSIFICADO,UN,1040,520
+"Câmara Escura Para Revelação.",4439544,1,VENCEU,UN,149,149
+"Amalgamador capsular digital",4439545,3,PERDEU,UN,1530,510
+"Autoclave 21 litros",4439546,10,VENCEU,UN,35900,3590
+"Compressor odontológico em ferro fundido",4439547,10,INABILITADO,UN,25000,2500
+"Contra ângulo odontológico para peça de mão",4439548,7,PERDEU,UNI,2450,350
+"Kit acadêmico contendo caneta de alta rotação",4439551,20,INABILITADO,CX,28000,1400
+"CANETA DE ALTA ROTACAO",4439552,10,INABILITADO,UN,3500,350
+"Mini incubadora biológica",4439554,15,PERDEU,UN,2850,190
+"Seladora termica digital, de mesa",4439558,20,DESCLASSIFICADO,UNI,19800,990
+"Fotopolimerizador sem fio",4439559,20,VENCEU,UN,9200,460

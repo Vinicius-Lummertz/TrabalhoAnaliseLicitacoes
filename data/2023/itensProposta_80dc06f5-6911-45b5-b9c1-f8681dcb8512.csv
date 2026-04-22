@@ -1,0 +1,44 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo Flexivel, bitola 1,5 mm2 Isolamento PVC 750 V",10967512,10000,PERDEU,M,10800,1.08
+"Cabo Flexível, bitola 10,0 mm2 Isolamento EPR 1kV - VERDE",10967513,2000,PERDEU,MTS,15360,7.68
+"Cabo Flexível, bitola 16,0 mm2 Isolamento EPR 1kV - VERDE",10967514,2000,PERDEU,MTS,24280,12.14
+"Cabo Flexivel, bitola 2,5 mm2 Isolamento PVC 750 V",10967515,10000,PERDEU,M,17700,1.77
+"Cabo Flexível, bitola 25,0 mm², Isolamento EPR 1kV - VERDE",10967516,1500,PERDEU,MTS,27975,18.65
+"Cabo Flexivel, bitola 4,0 mm2 Isolamento PVC 750 V",10967517,2000,PERDEU,M,5620,2.81
+"Cabo Flexivel, bitola 6,0 mm2 Isolamento EPR 1kV",10967518,2000,PERDEU,M,10100,5.05
+"Cabo PP, de cobre, bitola 2 x 2,5mm2, isolamento 1KV",10967519,5000,PERDEU,M,24800,4.96
+"Cabo PP, de cobre, bitola 3 x 2,5mm2, isolamento 1KV",10967520,5000,PERDEU,M,33350,6.67
+"Cabo PP, de cobre, bitola 4 x 2,5mm2, isolamento 1KV",10967521,5000,PERDEU,M,44550,8.91
+"Cinta circular para poste com dois parafusos e porca 160mm, galvanizado a fogo",10967529,70,PERDEU,PC,2404.5,34.35
+"Cinta circular para poste com dois parafusos e porca 170mm, galvanizado a fogo",10967530,70,PERDEU,PC,2658.6,37.98
+"Cinta circular para poste com dois parafusos e porca 180mm, galvanizado a fogo",10967531,70,PERDEU,PC,2727.9,38.97
+"Cinta circular para poste com dois parafusos e porca 190mm, galvanizado a fogo",10967532,70,PERDEU,PC,2867.9,40.97
+"Cinta circular para poste com dois parafusos e porca 200mm, galvanizado a fogo",10967533,70,PERDEU,PC,2937.9,41.97
+"Cinta circular para poste com dois parafusos e porca 210mm, galvanizado a fogo",10967534,70,PERDEU,PC,3006.5,42.95
+"Cinta circular para poste com dois parafusos e porca 220mm, galvanizado a fogo",10967535,70,PERDEU,PC,3078.6,43.98
+"Cinta circular para poste com dois parafusos e porca 230mm, galvanizado a fogo",10967536,70,PERDEU,PC,3218.6,45.98
+"Cinta circular para poste com dois parafusos e porca 240mm, galvanizado a fogo",10967537,70,PERDEU,PC,3286.5,46.95
+"Cinta circular para poste com dois parafusos e porca 250mm, galvanizado a fogo",10967538,70,PERDEU,PC,3568.6,50.98
+"Conector perfurante (piercing) 10/70mm",10967549,1600,VENCEU,PC,9392,5.87
+"Fita isolante - 20m - preta",10967562,1000,PERDEU,RL,4280,4.28
+"Lâmpada Bulbo LED 50W - E27",10967569,100,PERDEU,PC,3117,31.17
+"Lâmpada Bulbo LED 70W - E27",10967570,100,PERDEU,UND,7996,79.96
+"Parafuso cabeça abaloada 16x75mm com porca, galvanizado a fogo",10967598,250,PERDEU,PC,1270,5.08
+"Parafuso máquina cabeça quadrada com porca 16x200mm, galvanizado a fogo",10967599,150,PERDEU,PC,1144.5,7.63
+"Parafuso máquina cabeça quadrada com porca 16x250mm, galvanizado a fogo",10967600,150,PERDEU,PC,1335,8.9
+"Parafuso máquina cabeça quadrada com porca 16x300mm, galvanizado a fogo",10967601,150,PERDEU,PC,1524,10.16
+"Plug 2P+T 10A fêmea",10967602,100,PERDEU,UND,392,3.92
+"Plug 2P+T 10A macho",10967603,100,PERDEU,UND,381,3.81
+"Plug 2P+T 20A fêmea",10967604,50,PERDEU,UND,200,4
+"Plug 2P+T 20A macho",10967605,50,PERDEU,UND,279.5,5.59
+"Porca quadrada 16 mm, galvanizado a fogo",10967606,2500,PERDEU,UND,4000,1.6
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 100W / Branco. Vida útil: 25.000 horas",10967630,100,PERDEU,UND,9692,96.92
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 200W / Branco. Vida útil: 25.000 horas",10967632,100,PERDEU,UND,20725,207.25
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 50W / Branco. Vida útil: 25.000 horas",10967634,100,PERDEU,UND,6239,62.39
+"Cabo de cobre isolado EPR 1kV 4,0mm2",10967671,780,PERDEU,M,2394.6,3.07
+"Cabo de cobre isolado EPR 1kV 6,0mm2",10967672,2140,PERDEU,M,9929.6,4.64
+"Cabo de cobre isolado EPR 1kV 10,0mm2",10967673,75,PERDEU,M,557.25,7.43
+"Cabo PP, de cobre, bitola 3 x 2,5mm, isolamento 1KV",10967674,220,PERDEU,M,1452,6.6
+"Cabo em alumínio triplex 3 x #10mm² - PVC 1kV",10967675,6,VENCEU,M,27.84,4.64
+"Eletroduto PVC rígido 3/4""",10967690,506,PERDEU,M,1922.8,3.8
+"Refletor LED para uso externo 100W",10967694,20,PERDEU,UND,1143,57.15

@@ -1,0 +1,45 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cantoneira - 1/4 x 1",0,20,VENCEU," ",1246,62.3
+"Cantoneira - 1/8 x 3/4 - (SER 3/4)",0,20,VENCEU," ",502.2,25.11
+"Cantoneira - 1/8 x 5/8 - (SER 5/8)",0,20,VENCEU," ",446.2,22.31
+"Cantoneira - 3/16 x 2",0,20,VENCEU," ",2008.6,100.43
+"Cantoneira - 1/4x 2",0,40,VENCEU," ",5356.4,133.91
+"Cantoneira - 3/4 x 6",0,5,VENCEU," ",5869.6,1173.92
+"Cantoneira - 5/16 x 2",0,40,VENCEU," ",8258,206.45
+"Chapa FQ",0,4000,VENCEU," ",19680,4.92
+"Chapa Piso",0,500,VENCEU," ",3160,6.32
+"Ferro Chato - 1/2 x 1",0,80,VENCEU," ",5949.6,74.37
+"Ferro Chato - 1/8 x 1",0,80,VENCEU," ",1399.2,17.49
+"Ferro Chato - 1/8 x 1/2 - (SER. 1/2)",0,80,VENCEU," ",816.8,10.21
+"Ferro Chato - 1/8 x 2",0,70,VENCEU," ",2604,37.2
+"Ferro Chato - 1/8 x 3/4",0,70,VENCEU," ",972.3,13.89
+"Ferro Chato - 3/16 x 1/2",0,70,VENCEU," ",993.3,14.19
+"Ferro Chato - 3/16 x 1",0,50,VENCEU," ",1371.5,27.43
+"Ferro Chato - 3/16 x 2",0,50,VENCEU," ",2092.5,41.85
+"Ferro Redondo 1020 (12.70) - 1/2",0,100,VENCEU," ",2325,23.25
+"Ferro Redondo 1020 (19.05) - 3/4",0,100,VENCEU," ",6363,63.63
+"Ferro Redondo  1020 (25.40) - 1",0,200,VENCEU," ",16608,83.04
+"Tubo Quad. 30x30x2.00x6000",0,100,VENCEU," ",6045,60.45
+"Tubo Quad. 50x50x2.00x6000",0,50,VENCEU," ",5022,100.44
+"Tubo Ret. 30x70x2.00x6000",0,50,VENCEU," ",5115,102.3
+"Tubo Ret. 40x80x3.00x6000",0,40,VENCEU," ",7028.4,175.71
+"Tubo Ret. 40x60x2.65x6000",0,40,VENCEU," ",5160.8,129.02
+"Serviço Calandra Chapa",0,1000,VENCEU," ",1400,1.4
+"Serviço Corte/Dobra Chapa",0,2000,VENCEU," ",2400,1.2
+"Arame Mig 1,00mm CC - ER 70S6 ROLO COM 18 KG",0,30,VENCEU," ",5017.8,167.26
+"Spay Anti Respingo",0,30,VENCEU," ",389.7,12.99
+"Disco de Corte 230x3.0x22.22 A30Q-BF",0,100,VENCEU," ",787,7.87
+"Disco de Corte Bsic - Xpert 115x1.0",0,200,VENCEU," ",744,3.72
+"Disco Premium 230x1.9",0,60,VENCEU," ",459.6,7.66
+"Disco de Corte Standard 178x3.2",0,60,VENCEU," ",318.6,5.31
+"Disco de Desbaste 115x6x22.22 A30R",0,60,VENCEU," ",335.4,5.59
+"Disco de Desbaste Secur 178x7.0",0,60,VENCEU," ",646.2,10.77
+"Eletrodo 2.0 - Eletron Inox",0,15,VENCEU," ",1359.9,90.66
+"Eletrodo 3.25 70x18",0,15,VENCEU," ",344.25,22.95
+"Eletrodo 3.25 60x13",0,30,VENCEU," ",422.4,14.08
+"Eletrodo 2.5mm 60x13",0,30,VENCEU," ",345.9,11.53
+"Eletrodo de Corte - Chanfro",0,30,VENCEU," ",757.2,25.24
+"Lixa Ferro Tipo Grão 180gr 275x225",0,200,VENCEU," ",380,1.9
+ACETILENO,0,50,PERDEU," ",1938.5,38.77
+MISTURA,0,135,PERDEU," ",2339.55,17.33
+OXIGÊNIO,0,220,PERDEU," ",2299,10.45

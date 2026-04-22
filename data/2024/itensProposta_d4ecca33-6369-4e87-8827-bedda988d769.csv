@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico, frasco 1lt.",14877915,11250,PERDEU,UNI,56137.5,4.99
+"Álcool etílico 70° antisséptico, frasco 1lt.",14882855,3750,PERDEU,UNI,18712.5,4.99
+"Álcool gel 70%.",14877916,8000,PERDEU,UNI,80000,10
+"Hipoclorito de sódio 1%.",14878021,1300,VENCEU,L,4316,3.32
+"Máscara cirúrgica tripla descartável.",14878057,7000,PERDEU,UNI,49980,7.14

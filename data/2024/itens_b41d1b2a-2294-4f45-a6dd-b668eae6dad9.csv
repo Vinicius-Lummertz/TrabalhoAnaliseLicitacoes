@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria CR123A Lithium Industrial",5997491,4,20,ATIVO,UNIDADE,700,35
+"Cabo HDMI 1 metro",5997492,12,10,ATIVO,UNIDADE,223,22.3
+"Cabo HDMI - 2 Metros",5997493,14,10,ATIVO,UNIDADE,845,84.5
+"Cabo HDMI 5 metros",5997494,15,2,ATIVO,UNIDADE,336,168
+"Cabo USB para USB-C",5997495,16,10,ATIVO,UNIDADE,774,77.4
+"CAIXA DE SOM",5997496,17,5,ATIVO,PAR,1669,333.8
+"Digitalizador de Documentos",5997497,21,2,ATIVO,UNIDADE,5596,2798
+"Teclado sem fio",5997498,61,20,ATIVO,UNIDADE,2858,142.9

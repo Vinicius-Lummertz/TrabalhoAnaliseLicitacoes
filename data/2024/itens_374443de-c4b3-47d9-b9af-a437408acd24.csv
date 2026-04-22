@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"MOUSE OPTICO COM FIO",6781023,15,150,ATIVO,UNIDADE,11250,75
+"TELEVISOR SMART 65""",6781024,22,10,ATIVO,UNIDADE,35400,3540
+Smartphone,6781025,28,10,ATIVO,UNIDADE,20500,2050

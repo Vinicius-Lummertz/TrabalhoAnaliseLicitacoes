@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carvedilol 12,5 mg cpr, em blister.",4445473,120000,PERDEU,COMP,16200,0.135
+"Carvedilol 25 mg cpr, em blister.",4445474,120000,CANCELADO,COMP,18948,0.1579
+"Carvedilol 3,125 mg cpr, em blister.",4445475,50000,PERDEU,COMP,4000,0.08
+"Carvedilol 6,25 mg cpr, em blister.",4445476,90000,PERDEU,COMP,10800,0.12
+"Sulfato ferroso 40mg cpr, em blister.",4445654,900000,CANCELADO,COMP,29700,0.033

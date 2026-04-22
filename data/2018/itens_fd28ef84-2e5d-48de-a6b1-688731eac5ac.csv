@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bastão de vidro de 15 cm",1262261,16,200,ATIVO,UNIDADE,690,3.45
+"Homogeneizador para  tubos de ensaio",1262262,20,1,ATIVO,UNIDADE,990,990
+"Albumina a 22%,  Fr c/ 10 ml",1262263,17,8,ATIVO,FRASCO,250,31.25
+"VDRL-latex c/ controle negativo e positivo",1262264,15,20000,ATIVO,TESTE,4800,0.24
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",1262265,14,2000,ATIVO,TESTE,7970,3.985
+"Anti-D: frasco de 10ml",1262266,13,15,ATIVO,FRASCO,588,39.2
+"Anti-B: frasco de 10ml",1262267,12,8,ATIVO,FRASCO,196,24.5
+"Anti-A : frasco de 10ml",1262268,11,8,ATIVO,FRASCO,196,24.5

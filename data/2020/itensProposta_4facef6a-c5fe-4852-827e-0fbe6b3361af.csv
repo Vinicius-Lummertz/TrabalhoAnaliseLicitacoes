@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CABO PP",0,150,PERDEU," ",554.1,3.694
+"Cano cobre ½",0,100,PERDEU," ",947.27,9.4727
+"Cano cobre ¼",0,120,PERDEU," ",1023.05,8.5254
+"Cano cobre ¾",0,100,PERDEU," ",1420.91,14.2091
+"Cano cobre 3/8",0,120,PERDEU," ",1136.72,9.4727
+"Cano cobre 5/8",0,75,PERDEU," ",106.57,1.4209
+"Cano esponjoso ¼",0,60,PERDEU," ",85.25,1.4209
+"Cano esponjoso ½",0,60,PERDEU," ",85.25,1.4209
+"Cano esponjoso ¾",0,60,PERDEU," ",113.67,1.8945
+"Cano esponjoso 3/8",0,60,PERDEU," ",113.67,1.8945
+"Cano esponjoso 5/8",0,60,PERDEU," ",142.09,2.3682
+"Capacitor 380V 2 MF",0,50,PERDEU," ",378.91,7.5782
+"Capacitor 380V 4 MF",0,50,PERDEU," ",426.27,8.5254
+"CAPACITOR 380 V  6 UF",0,50,PERDEU," ",71.04,1.4209
+"Capacitor 380V 25 MF",0,50,PERDEU," ",947.27,18.9454
+"Capacitor 380V 30 MF",0,100,PERDEU," ",1894.54,18.9454
+"Capacitor 380V 35 MF",0,150,PERDEU," ",2841.81,18.9454
+"Capacitor 380V 40 MF",0,100,PERDEU," ",1894.54,18.9454
+"Capacitor 380V 45 MF",0,75,PERDEU," ",1776.14,23.6818
+"Capacitor 380V 55 MF",0,50,PERDEU," ",947.27,18.9454
+"Chave contactora CWM 09",0,15,PERDEU," ",994.64,66.309
+"Chave contactora CWM 10",0,15,PERDEU," ",994.64,66.309
+"Compressor para Split 9000 BTUS",0,10,PERDEU," ",4073.26,407.3265
+"Compressor para Split 12000 BTUS",0,10,PERDEU," ",4262.72,426.2719
+"Compressor para Split 18000 BTUS",0,10,PERDEU," ",4736.35,473.6354
+"Compressor para Split 24000 BTUS",0,10,PERDEU," ",5636.26,563.6262
+"Compressor para Split 30000 BTUS",0,10,PERDEU," ",7578.17,757.8167
+"Compressor para Split 60000 BTUS",0,3,PERDEU," ",4262.72,1420.9063
+"CONTROLE REMOTO",0,50,PERDEU," ",1894.54,37.8908
+"GÁS R410",0,150,PERDEU," ",11367.26,75.7817
+"Gás R22",0,150,PERDEU," ",11367.26,75.7817
+"HELICE DE AR CONDICIONADO 7000Á 24000 BTUS",0,10,PERDEU," ",852.54,85.2544
+"Placa eletrônica para split",0,60,PERDEU," ",5683.63,94.7271
+"Moto de ventilador",0,20,PERDEU," ",2841.81,142.0906
+"Suporte split 7/12000btus",0,15,PERDEU," ",213.14,14.2091
+"Suporte split 18/30000btus",0,15,PERDEU," ",284.18,18.9454
+"Termostato ar cond. 1601",0,10,PERDEU," ",94.73,9.4727
+"TURBINA VENTILADOR",0,10,PERDEU," ",1042,104.1998
+"INSTALAÇÃO D AR CONDICIONADO",0,50,PERDEU," ",8525.44,170.5088
+"SERVIÇO DE HORA CORRETIVA",0,750,PERDEU," ",26997.22,35.9963
+"SERVIÇO HORA PREVENTIVA",0,2400,PERDEU," ",86391.12,35.9963

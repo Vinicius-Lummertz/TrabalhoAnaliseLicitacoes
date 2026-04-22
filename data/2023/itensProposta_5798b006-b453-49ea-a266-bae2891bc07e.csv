@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bandeira oficial do Brasil (0,90m x 1,28m)",11755316,100,VENCEU,UND,5300,53
+"Bandeira oficial de Santa Catarina (0,90m x 1,28m)",11755319,100,VENCEU,UND,5800,58
+"Bandeira oficial de Criciúma (0,90m x 1,28m)",11755322,100,VENCEU,UND,5800,58
+"Bandeira oficial do Brasil (1,80m x 2,57m)",11755324,22,VENCEU,UND,2420,110
+"Bandeira oficial de Santa Catarina (1,80m x 2,57m)",11755328,22,VENCEU,UND,2420,110
+"Bandeira oficial de Criciúma (1,80m x 2,57m)",11755330,22,VENCEU,UND,4180,190
+"Bandeira Oficial do Brasil (5,85m X8,36m), de 13 pano",11755333,5,VENCEU,UND,4340,868
+"Conjunto de Bandeiras oficiais das etnias (1,80m x 2,57m)",11755336,5,VENCEU,CJ,3850,770

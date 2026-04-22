@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",6570385,10,400000,ATIVO,CAPSULA,120000,0.3
+"Ácido Valproico 500mg cpr.",6570386,11,650000,ATIVO,COMPRIMIDO,364000,0.56

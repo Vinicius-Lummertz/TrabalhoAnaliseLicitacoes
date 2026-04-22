@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pacote de voz ilimitado, SMS ilimitado e internet 1GB",0,1020,VENCEU," ",93840,92
+"Pacote de voz ilimitado, SMS ilimitado e internet 3GB",0,360,VENCEU," ",43200,120
+"Pacote de voz ilimitado, SMS ilimitado e internet 6GB",0,120,VENCEU," ",23040,192

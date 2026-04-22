@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Granito Claro",0,3,PERDEU," ",3740.01,1246.67
+"Granito Escuro",0,55,PERDEU," ",59766.85,1086.67
+"Armário Aéreo M²",0,5,DESCLASSIFICADO," ",11833.35,2366.67
+"Armário Alto m²",0,144,DESCLASSIFICADO," ",358800.48,2491.67
+"Armário Alto com Porta de Correr",0,52,DESCLASSIFICADO," ",141266.84,2716.67
+"Armário Baixo m2",0,33,DESCLASSIFICADO," ",88219.89,2673.33
+"Armário Baixo com Gavetas e Portas",0,13,DESCLASSIFICADO," ",35923.29,2763.33
+"Bancada sem tampo com Gavetas e Portas MDF ULTRA",0,7,DESCLASSIFICADO," ",17500,2500
+"Bancada sem tampo MDF ULTRA",0,31,DESCLASSIFICADO," ",85250,2750
+"Bancada sem tampo MDF ULTRA - Porta de Correr",0,4,DESCLASSIFICADO," ",11433.32,2858.33
+"Banco m²",0,23,DESCLASSIFICADO," ",115460,5020
+"Divisória Mesa Trabalho",0,11,DESCLASSIFICADO," ",15070,1370
+"Gaveteiro m²",0,9,DESCLASSIFICADO," ",31230,3470
+"Gaveteiro para Pasta Suspensa",0,10,DESCLASSIFICADO," ",34866.7,3486.67
+"Mesa de Apoio",0,2,DESCLASSIFICADO," ",4966.66,2483.33
+"Mesa de Centro Redonda",0,1,DESCLASSIFICADO," ",4993.33,4993.33
+"Mesa de Trabalho",0,29,DESCLASSIFICADO," ",85743.43,2956.67
+"Mesa de Trabalho com Gaveta",0,5,DESCLASSIFICADO," ",18450,3690
+"Mesa Refeitório",0,24,DESCLASSIFICADO," ",124560,5190
+"Mesa Reunião m²",0,5,DESCLASSIFICADO," ",26666.65,5333.33
+"Mesa Auditório",0,17,DESCLASSIFICADO," ",65166.61,3833.33
+"Mesa de Trabalho em L m²",0,20,DESCLASSIFICADO," ",73066.6,3653.33
+"Nicho Cor Madeira",0,4,DESCLASSIFICADO," ",14426.68,3606.67
+"Nicho Cor Preto",0,2,DESCLASSIFICADO," ",5840,2920
+"Painel Liso Cor Madeira",0,12,DESCLASSIFICADO," ",16400.04,1366.67
+"Painel Liso Cor Preto",0,8,DESCLASSIFICADO," ",10213.36,1276.67
+"Painel Ripado",0,28,DESCLASSIFICADO," ",81573.24,2913.33
+"Prateleira até 900mm de Comprimento Cor Madeira",0,2,DESCLASSIFICADO," ",4086.66,2043.33
+"Prateleira até 900mm de Comprimento Cor Preto",0,2,DESCLASSIFICADO," ",3986.66,1993.33
+"Prateleira maior 900mm de Comprimento Cor Madeira",0,2,DESCLASSIFICADO," ",4120,2060
+"Prateleira maior 900mm de Comprimento Cor Preto",0,18,DESCLASSIFICADO," ",34680.06,1926.67
+"Rack m²",0,3,DESCLASSIFICADO," ",8270.01,2756.67

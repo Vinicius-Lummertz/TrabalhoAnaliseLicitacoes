@@ -1,0 +1,27 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Touca descartável",1262495,234,50,ATIVO,PACOTE,260,5.2
+"Termômetro clínico",1262507,232,150,ATIVO,UNIDADE,1432.5,9.55
+"Sonda endotraqueal em PVC com balão nº5,5",1262517,201,80,ATIVO,UNIDADE,277.6,3.47
+"Sonda endotraqueal em PVC com balão nº 3,5",1262518,197,60,ATIVO,UNIDADE,208.2,3.47
+"Sonda endotraqueal em PVC com balão nº 4,0",1262519,198,60,ATIVO,UNIDADE,208.2,3.47
+"Água destilada galão de 5 litros para uso em autoclave",1262521,2,400,ATIVO,GALÃO,2120,5.3
+"Cateter Intravenoso n°18 G",1262522,52,2000,ATIVO,UNIDADE,3120,1.56
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",1262523,60,3000,ATIVO,UNIDADE,9360,3.12
+"Dispositivo para incontinência Urinária Masculina sem extens",1262524,69,500,ATIVO,UNIDADE,385,0.77
+"Dispositivo para incontinência Urinária Masculina , Nº06",1262525,70,500,ATIVO,UNIDADE,385,0.77
+"EQUIPO PARA NUTRIÇÃO ENTERAL",1262526,88,5000,ATIVO,UNIDADE,4000,0.8
+"Equipo tipo Macrogotas para solução parental",1262527,89,8000,ATIVO,UNIDADE,24000,3
+"Equipo tipo Microgotas para solução parental",1262528,90,1000,ATIVO,UNIDADE,3050,3.05
+"Fita adesiva para teste de esterilização em Autoclave;",1262529,114,600,ATIVO,ROLO,1464,2.44
+"Sonda endotraqueal em PVC com balão nº4,5",1262530,199,60,ATIVO,UNIDADE,208.2,3.47
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",1262531,120,1000,ATIVO,UNIDADE,990,0.99
+"Lençol descartável com elástico (TNT)",1262532,136,100,ATIVO,PACOTE,813,8.13
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho P ANTIALÉ",1262533,151,1000,ATIVO,CAIXA,16880,16.88
+"Máscaras Cirúrgicas Facial Descartável.",1262534,160,100,ATIVO,CAIXA,420,4.2
+"Óleo de girassol.",1262535,164,5000,ATIVO,UNIDADE,14750,2.95
+"Protetor ocular adulto;",1262536,172,200,ATIVO,UNIDADE,1552,7.76
+"Seringa 10ml, sem agulha.",1262537,173,15000,ATIVO,UNIDADE,3255,0.217
+"Seringa 20ml, sem agulha",1262538,174,10000,ATIVO,UNIDADE,3100,0.31
+"Sonda endotraqueal em PVC sem balão nº 2,5",1262539,195,70,ATIVO,UNIDADE,167.3,2.39
+"Sonda endotraqueal em PVC com balão nº 3,0",1262540,196,60,ATIVO,UNIDADE,208.2,3.47
+"Kit de nebulização adulto",1262542,127,50,ATIVO,UNIDADE,200,4

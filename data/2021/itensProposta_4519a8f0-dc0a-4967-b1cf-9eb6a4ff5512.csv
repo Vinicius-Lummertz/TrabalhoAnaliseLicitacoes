@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base de brita graduada - incluso frete",4401729,85000,NAO_COTOU,TON,0,0
+"Pó de pedra - incluso frete",4401730,30000,NAO_COTOU,TON,0,0
+"Macadame (ou brita nº 04) - incluso frete",4401731,22000,NAO_COTOU,TON,0,0
+"Pedrisco (ou brita nº 00) - incluso frete",4401732,12000,NAO_COTOU,TON,0,0
+"Brita 3/4 (brita nº 01) - incluso frete",4401733,13000,NAO_COTOU,TON,0,0
+"Rachão (ou brita nº 05) - incluso frete",4401734,6000,NAO_COTOU,TON,0,0
+"Areia lavada média p/ uso na construção civil - incluso fret",4401735,3000,PERDEU,TON,195000,65
+"Areia fina s/ uso na construção civil - incluso frete",4401736,10000,DESCLASSIFICADO,TON,540000,54
+"Areia lavada fina (Branca e limpa) para parques - incluso fr",4401737,2000,VENCEU,TON,46000,23

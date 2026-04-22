@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apontador sem depósito",4434311,300,PERDEU,UND,81,0.27
+"Alfinete com cabeça",4434312,10,PERDEU,CX,42.3,4.23
+"Aparelho telefônico com fio",4434313,50,PERDEU,UND,1631.5,32.63
+"Balão colorido",4434315,200,PERDEU,PCT,1100,5.5
+"BARBANTE DE ALGODAO",4434316,15,PERDEU,ROLO,112.5,7.5
+"BATERIA 9 VOLTS.",4434317,100,VENCEU,CART,299,2.99
+"CANETA DESTACA TEXTO",4434326,80,VENCEU,CX,708,8.85
+"CANETA ESFEROGRAFICA AZUL",4434327,70,PERDEU,CX,1400,20
+"CANETA ESFEROGRAFICA PRETA",4434328,40,PERDEU,CX,800,20
+"Clips tamanho 2/0",4434330,200,PERDEU,CX,250,1.25
+"Corretivo líquido.",4434332,20,VENCEU,CX,190.8,9.54
+"Fita adesiva branca",4434339,300,VENCEU,UND,594,1.98
+"Fita adesiva marron",4434340,300,VENCEU,UND,861,2.87
+"Fita adesiva plastica transparente 12mm x 30 mts",4434341,250,VENCEU,UND,117.5,0.47
+"Fita adesiva plastica transparente 48 mm x 50 mts",4434342,250,PERDEU,UND,685,2.74
+"Fita dupla face emborrachada 19x30",4434344,40,VENCEU,UND,147.2,3.68
+"Grampeador para papeis comprimento base 14 - 17cm",4434346,50,PERDEU,UNI,379.5,7.59
+"Grampo para grampeador galvanizado 26/6 caixa com 5000",4434347,200,PERDEU,CX,476,2.38
+"Lápis colorido",4434349,20,PERDEU,CX,91.2,4.56
+"Lápis preto de grafite nº 2",4434350,2160,PERDEU,CX,561.6,0.26
+"Livro fiscal ponto",4434352,100,PERDEU,UND,906,9.06
+"Papel cartão colorido fosco (46cm x 66cm)",4434359,400,PERDEU,UNI,280,0.7
+"Pasta arquivo de A-Z  tamanho oficio",4434361,100,VENCEU,UND,610,6.1
+"PASTA CATALOGO",4434362,70,PERDEU,UND,452.9,6.47
+"Pasta suspensa craft 331x200",4434365,30,DESCLASSIFICADO,CX,1687.5,56.25
+"Pen drive de 8 Gb, USB 2.0",4434366,15,VENCEU,UND,252,16.8
+"Pen drive de 16 Gb, USB 2.0",4434367,10,VENCEU,UND,216,21.6
+"Prancha de Madeira",4434369,100,PERDEU,UND,284,2.84
+"Quadro branco",4434370,10,PERDEU,UND,624,62.4
+"Quadro de aviso",4434371,5,PERDEU,UNI,186,37.2
+TNT,4434374,20,DESCLASSIFICADO,RL,1149.6,57.48
+"Tesoura Doméstica",4434375,50,VENCEU,UND,191.5,3.83
+"TINTA PARA CARIMBO",4434376,120,PERDEU,UND,261.6,2.18

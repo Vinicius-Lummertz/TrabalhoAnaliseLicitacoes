@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3119.4,1.0398
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,135000,0.09
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",11967245,3000,PERDEU,BIS,36120,12.04
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,PERDEU,AMP,11395,2.279
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,PERDEU,AMP,6185,1.237
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,25850,0.047
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,5012,1.253
+"Dopamina 5mg/ml, injetável, ampola 10ml.",11967261,400,PERDEU,AMP,1175.6,2.939
+"Etomidato 2mg/ml, injetável, ampola 10ml.",11967273,1000,PERDEU,AMP,13689,13.689
+"Fenobarbital 40mg/mL - solução oral- 20ml, frasco de vidro âmbar.",11967278,4000,PERDEU,FR,17396,4.349
+"Fluconazol 150mg capsula.",11967283,70000,PERDEU,CPLA,30730,0.439
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",11967284,500,PERDEU,AMP,5999.5,11.999
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,160000,0.08
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",11967297,3000,PERDEU,AMP,7797,2.599
+"Haloperidol, decanoato 70,52mg/mL 1ml",11967298,10000,PERDEU,AMP,87590,8.759
+"Heparina 5000 UI/0,25mL injetável, ampola.",11967300,12000,PERDEU,AMP,99588,8.299
+"Ivermectina 6mg cpr, em blister.",11967314,60000,VENCEU,COMP,23940,0.399
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,495000,0.099
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",11967342,2000,PERDEU,AMP,1600,0.8
+"Metoprolol, tartarato 1mg/ml, injetável, ampola 5ml.",11967345,100,PERDEU,AMP,1799,17.99
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",11967351,2000,PERDEU,AMP,6298,3.149
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",11967362,500,PERDEU,AM,1721.5,3.443
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,308000,0.077
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,1479.8,7.399
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,7676,1.919
+"Permetrina 10mg/mL loção, frasco 60ml.",11967372,12000,VENCEU,FR.,23388,1.949
+"Permetrina 50mg/mL loção, frasco 60ml.",11967373,10000,VENCEU,FR.,29450,2.945
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,56450,1.129
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,21539.4,35.899
+"SULFAMETOXAZOL 200MG - TRIMETROPINA 40MG SOL ORAL 100ML",11967395,3800,PERDEU,FR.,18122.2,4.769
+"Metoclopramida 4mg/mL solução oral, frasco de 10ml.",11967415,6000,PERDEU,FR.,10800,1.8

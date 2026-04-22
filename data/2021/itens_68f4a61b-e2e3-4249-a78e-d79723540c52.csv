@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Jaleco branco manga longa Atenção Básica",1576200,1,800,ATIVO,UNIDADE,46592,58.24
+"Jaleco branco manga longa NASF",1576201,2,120,ATIVO,UNIDADE,6988.8,58.24
+"Jaleco branco manga longa Atenção Especializada",1576202,3,240,ATIVO,UNIDADE,13977.6,58.24
+"Jaleco branco manga longa Odontologia CEO",1576203,4,100,ATIVO,UNIDADE,5824,58.24
+"Jaleco branco manga longa Odontologia Atenção Básica",1576204,5,300,ATIVO,UNIDADE,17472,58.24
+"Jaleco branco manga longa Urgência e Emergência",1576205,6,120,ATIVO,UNIDADE,6988.8,58.24
+"Jaleco branco manga longa Laboratório Municipal",1576206,7,60,ATIVO,UNIDADE,3494.4,58.24
+"Jaleco branco manga longa  Farmaceuticos",1576207,8,100,ATIVO,UNIDADE,5824,58.24
+"Jaleco azul manga longa  Almoxarifado",1576208,9,45,ATIVO,UNIDADE,2664,59.2
+"Jaleco consultório na rua",1576209,10,15,ATIVO,UNIDADE,888,59.2

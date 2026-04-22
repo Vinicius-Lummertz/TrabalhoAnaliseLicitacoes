@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CAPACETE COMBATE A INCÊNDIO ESTRUTURAL",4401018,10,INABILITADO,UND,24000,2400
+"Luva de combate a incendio",4401019,10,DESCLASSIFICADO,PAR,7350,735
+"Conjunto de Proteção para Combate a Incêndio Estrutural",4401020,10,PERDEU,UND,53000,5300
+"BOTA COMBATE A INCÊNDIO",4401021,10,INABILITADO,PAR,8800,880

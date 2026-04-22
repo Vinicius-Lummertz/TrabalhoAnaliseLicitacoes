@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"HD para Notebook",1300885,21,2,ATIVO,UNIDADE,685.2,342.6
+"Monitor Grande",1309020,4,6,ATIVO,UNIDADE,9900,1650
+"Kit Teclado e Mouse sem fio",1311055,6,10,ATIVO,UNIDADE,4199,419.9

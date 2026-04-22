@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico hidratado 92,8° INPM",2785633,2,50,ATIVO,CAIXA,384.5,7.69
+"Álcool gel 70%;",2785634,4,50,ATIVO,FRASCO,416,8.32
+"Compressa cirúrgica",2785635,7,25,ATIVO,PACOTE,1473.75,58.95
+"Colar cervical G",2785636,32,5,ATIVO,UNIDADE,58.15,11.63
+"Reanimador manual neonatal",2785637,42,3,ATIVO,UNIDADE,570,190
+"Reanimador manual infantil",2785638,43,3,ATIVO,UNIDADE,570,190
+"Reanimador manual adulto",2785639,44,3,ATIVO,UNIDADE,570,190
+"Oxímetro digital portátil para dedo",2785640,45,2,ATIVO,UNIDADE,166.04,83.02

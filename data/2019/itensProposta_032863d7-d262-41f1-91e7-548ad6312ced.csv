@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tomografia Computadorizada Cone Bean de 1 (um) elemento dent",4441147,20,VENCEU,UNI,2500,125
+"Tomografia Computadorizada Cone Bean (02 elementos dentais d",4441148,20,VENCEU,UN,2500,125
+"Tomografia Computadorizada Cone Bean mais de 02 elementos de",4441149,15,PERDEU,UN,2025,135
+"Tomografia Computadorizada Cone Bean mais de 2 elementos den",4441150,10,PERDEU,UN,1600,160
+"Tomografia Computadorizada Cone Bean de Mandíbula ou Maxila",4441151,50,VENCEU,UN,7500,150
+"Tomografia Computadorizada Cone Bean Total Duas Arcadas",4441152,20,PERDEU,UN,5500,275
+"Tomografia Computadorizada Cone Bean ATM Unilateral",4441153,25,VENCEU,UN,3250,130
+"Tomografia Computadorizada Cone Bean ATM Bilateral",4441154,25,PERDEU,UN,6125,245
+"Teleradiografia de perfil com traçado",4441155,60,VENCEU,UN,2940,49
+"Radiografia carpal",4441156,20,PERDEU,UN,1000,50

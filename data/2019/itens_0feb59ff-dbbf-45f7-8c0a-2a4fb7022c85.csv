@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ADESIVO - Adesivo 50x40",1243484,13,25,ATIVO,UNIDADE,600,24
+"ENVELOPES PRONTOS - Ofício 11,4 x 22,90",1243485,9,2000,ATIVO,UNIDADE,280,0.14
+"IMPRESSOS - 15X21 - 10 MODELOS",1243486,4,10000,ATIVO,UNIDADE,2000,0.2

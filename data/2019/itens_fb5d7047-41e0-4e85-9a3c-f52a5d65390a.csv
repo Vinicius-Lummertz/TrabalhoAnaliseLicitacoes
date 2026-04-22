@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-A : frasco de 10ml",1264634,11,25,ATIVO,FRASCO,525.66,21.0264
+"Anti-D: frasco de 10ml",1264635,13,25,ATIVO,FRASCO,525.67,21.0267
+"Ponteiras azuis tipo eppendorff vol. 200 - 1000 microlitros,",1264636,20,25,ATIVO,PACOTE,650,26
+"Pipeta automática, volume variável: 5 - 50 ul",1264637,44,3,ATIVO,UNIDADE,317.1,105.6999
+"Centrífuga de mesa com controle microprocessador",1264638,27,1,ATIVO,UNIDADE,10400,10400
+"Pote plástico com tampa de rosca descartável p/ coleta de 50",1264639,28,65000,ATIVO,UNIDADE,17999.8,0.27692
+"Adesivo (bandagem) estéril indicado p/ uso após punção venen",1264640,36,60000,ATIVO,UNIDADE,1798.8,0.02998
+"Pipetador manual 10 ml (que se adapte em pipetas de vidro)",1264641,39,3,ATIVO,UNIDADE,46.2,15.4
+"Pipeta automática, volume variável: 100 - 1000 ul",1264642,42,3,ATIVO,UNIDADE,317.1,105.6999
+"Pipeta automática, volume variável: 10 - 100 ul",1264643,43,3,ATIVO,UNIDADE,317.1,105.6999
+"Aspirador para pipetas de 5 a 10 ml",1264644,45,3,ATIVO,UNIDADE,28.7,9.5669
+"Bastão de vidro de 15 cm",1264645,25,200,ATIVO,UNIDADE,468,2.34
+"Anti-B: frasco de 10ml",1264647,12,25,ATIVO,FRASCO,525.67,21.0267

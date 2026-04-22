@@ -1,0 +1,209 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta Acrílica Fosca Padrão CBMSC Amarela 18 L",4401202,10,VENCEU,LAT,6500,650
+"Tinta Acrílica Fosca Padrão CBMSC Vermelha 18 L",4401203,5,VENCEU,LAT,3250,650
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 18 L",4401204,5,VENCEU,LAT,2395,479
+"Tinta Acrílica Semi Brilho Padrão CBMSC Palha 3,6 L",4401205,5,VENCEU,GAL,590,118
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 18 L",4401206,4,VENCEU,LAT,1728,432
+"Tinta Acrílica Semi Brilho Padrão CBMSC Branca 3,6 L",4401207,4,VENCEU,GAL,416,104
+"Tinta Esmalte Para Madeira e Metal Padrão CBMSC Marrom Café",4401208,20,VENCEU,GAL,2560,128
+"MASSA CORRIDA",4401209,6,PERDEU,LAT,360,60
+"Solvente Aguarrás",4401210,20,VENCEU,LAT,190,9.5
+"TINTA SPRAY",4401211,30,PERDEU,TB,450,15
+"Tinta Fundo Zarcão",4401212,2,PERDEU,GAL,144,72
+"SELADOR ACRILICO",4401213,10,NAO_COTOU,LAT,0,0
+"Thinner 900 ml",4401214,10,VENCEU,LAT,108,10.8
+"Pincel Pintura 1/2",4401215,5,NAO_COTOU,UND,0,0
+"Pincel Pintura 3/4",4401216,5,VENCEU,UND,9.75,1.95
+"PINCEL 1",4401217,5,VENCEU,UND,13.75,2.75
+"PINCEL 2",4401218,5,VENCEU,UND,21.5,4.3
+"Pincel 4",4401219,10,VENCEU,UND,100,10
+"Rolo Pintura Espuma 05Cm C/Cabo Polyester",4401220,5,VENCEU,UND,15.25,3.05
+"Rolo Pintura Espuma 09Cm C/Cabo Polyester",4401221,5,VENCEU,UND,24,4.8
+"Rolo Lã Anti Gota 15 CM com cabo",4401222,10,VENCEU,UND,81.5,8.15
+"BROXA RETANGULAR GRANDE",4401223,3,VENCEU,UND,15.9,5.3
+"Lixa Amarela a seco folha G-220",4401224,10,PERDEU,M,35,3.5
+"Lixa Amarela a seco folha G-80",4401225,30,PERDEU,M,120,4
+"Areia Lavada Fina",4401226,10,VENCEU,M3,885,88.5
+"Areia lavada média",4401227,10,VENCEU,M3,885,88.5
+"AREIA LAVADA GROSSA",4401228,10,VENCEU,M3,1050,105
+"Pedra brita 3/4",4401229,15,VENCEU,MC,1530,102
+"Pedra brita 1",4401230,15,VENCEU,MC,1530,102
+"Argamassa Massa Pronta",4401231,60,VENCEU,SA,486,8.1
+"Argamassa ACII Cerâmica Externa",4401232,30,VENCEU,SA,396,13.2
+"Argamassa ACIII Cerâmica Externa",4401233,30,VENCEU,SA,519,17.3
+"Cimento G",4401234,50,VENCEU,SA,1650,33
+"Tijolo 6 furos",4401235,6000,VENCEU,UND,4500,0.75
+"Tijolo 6 Furos Metade",4401236,2000,VENCEU,UND,1500,0.75
+"Bloco de Concreto Estrutural",4401237,250,VENCEU,UND,975,3.9
+"Telha de Fibrocimento 1,83x1,10mx6mm",4401238,100,VENCEU,UND,4900,49
+"Telha de Fibrocimento Cumeeira Ondulada 1,10x0,64m",4401239,50,VENCEU,UND,2095,41.9
+"Telha ondulada 6mm 110x153 fibrocimento sem amianto",4401240,70,NAO_COTOU,UND,0,0
+"Telha ondulada 8mm 110x153 fibrocimento sem amianto",4401241,70,NAO_COTOU,UND,0,0
+"Cumeeira Fibrocimento Ondulada 30º, para Telha de 8mm",4401242,50,NAO_COTOU,UND,0,0
+"Espigão Fibrocimento para Telha de 8mm",4401243,50,NAO_COTOU,UND,0,0
+Kalfácil,4401244,15,VENCEU,EMB,96,6.4
+"CABO FLEXIVEL 10MM",4401245,200,VENCEU,M,1840,9.2
+"CABO FLEXIVEL 16MM",4401246,200,VENCEU,M,3000,15
+"Cabo Flexível 1,5 mm",4401247,200,VENCEU,M,270,1.35
+"CABO FLEXIVEL 2,5 MM",4401248,1000,VENCEU,M,2200,2.2
+"Cabo Flexível 4 mm",4401249,200,VENCEU,M,720,3.6
+"Cabo flexível 6 mm",4401250,500,VENCEU,M,2650,5.3
+"Cabo PP2 x 1,5mm",4401251,100,VENCEU,M,370,3.7
+"Cabo PP3 x 1,5mm",4401252,100,VENCEU,M,520,5.2
+"Caixa Condulete 1/2 e 3/4 com 6 Entradas",4401253,100,VENCEU,UND,410,4.1
+"Caixa de Passagem PVC condulete 1",4401254,15,NAO_COTOU,UND,0,0
+"Caixa de Passagem PVC condulete 3/4",4401255,15,VENCEU,UND,210,14
+"Eletrodudo PVC Condulete 3/4",4401256,30,VENCEU,UND,360,12
+"Eletrodudo PVC Condulete 1",4401257,30,VENCEU,UND,420,14
+"Adaptador condulete 1",4401258,200,NAO_COTOU,UND,0,0
+"Adaptador condulete 3/4",4401259,200,VENCEU,UND,198,0.99
+"Joelho Condutele 1",4401260,50,NAO_COTOU,UND,0,0
+"Joelho Condutele 3/4",4401261,50,VENCEU,UND,185,3.7
+"Interruptor Simples p/ Condulete",4401262,20,VENCEU,UND,103,5.15
+"Interruptor Duplo p/ Condulete",4401263,10,VENCEU,UND,85,8.5
+"Módulo Tomada Predial 10A para Condulete",4401264,30,VENCEU,UND,193.2,6.44
+"Módulo Tomada Predial Dupla 10A para Condulete",4401265,40,VENCEU,UND,469.2,11.73
+"Módulo Tomada Predial 20A para Condulete",4401266,20,VENCEU,UND,134,6.7
+"CHAVE TESTE",4401267,2,VENCEU,UND,5,2.5
+"Plug macho para extensão 10A",4401268,20,PERDEU,UND,109,5.45
+"Plug fêmea para extensão 10A",4401269,20,PERDEU,UND,85,4.25
+"Plug macho para extensão 20A",4401270,10,NAO_COTOU,UND,0,0
+"Plug fêmea para extensão 20A",4401271,10,VENCEU,UND,29.8,2.98
+"Caixa Distribuição Embutir 6 / 8 disjuntores (C/ Barramento)",4401272,2,VENCEU,UND,90,45
+"Disjuntor Mono 32A",4401273,10,VENCEU,UND,85,8.5
+"Disjuntor Mono B2 0A 3KA Curva B",4401274,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono B4 0A 3KA Curva C",4401275,2,NAO_COTOU,UND,0,0
+"Disjuntor Mono SHB1-CO 10A",4401276,2,VENCEU,UND,18,9
+"Disjuntor Mono SHB1-CO 20A",4401277,3,VENCEU,UND,27,9
+"Disjuntor Mono SHB1-CO 32A",4401278,10,VENCEU,UND,90,9
+"Disjuntor Trifásico SHB3 B32A curva C",4401279,2,VENCEU,UND,82,41
+"DUCHA ELETRÔNICA 7700W",4401280,10,PERDEU,UND,1120,112
+"Eletrocalha Perfurada",4401281,40,VENCEU,UND,1500,37.5
+"Eletroduto corrugado simples 3/4",4401282,100,VENCEU,M,95,0.95
+"Filtro de Linha bivolt com 6 Tomadas",4401283,20,PERDEU,UND,785.6,39.28
+"Fita isolante preta 20 metros",4401284,40,PERDEU,UND,250,6.25
+"Lâmpada de Led T8 Tubular Vidro 20W 120cm Branco Frio 6500K",4401285,20,VENCEU,UND,277,13.85
+"Lâmpada Dicróica GU10 LED 6w bivolt",4401286,2,NAO_COTOU,UND,0,0
+"Lâmpada pera LED 15W bivolt branca",4401287,30,VENCEU,UND,279,9.3
+"Lâmpada pera LED 50W bivolt branca",4401288,20,PERDEU,UND,1500,75
+"Lâmpada pera LED 9W bivolt branca",4401289,50,VENCEU,UND,244.5,4.89
+"Luminária Flex Sobrepor 32w Em Led 60cm",4401290,20,VENCEU,UND,1300,65
+"Luminária Sobrepor Tubular 2 Lâmpadas LED 120cm",4401291,20,NAO_COTOU,UND,0,0
+"Luva Alta Tensão Classe 00 - 2,5 Kv",4401292,2,NAO_COTOU,UND,0,0
+"Painel Plafon Quadrado Luminária Sobrepor Led 12w Frio",4401293,10,PERDEU,UND,280,28
+"Plafon Lâmpada Comum Branco",4401294,40,VENCEU,UND,111.6,2.79
+"Placa sinalização com bateria simples LED",4401295,10,VENCEU,UND,480,48
+"Bloco de emergência 30 LED simples",4401296,10,VENCEU,UND,180,18
+"Refletor alumínio LED luz branca 100W",4401297,10,VENCEU,UND,1550,155
+"Refletor alumínio LED luz branca 50W",4401298,10,VENCEU,UND,685,68.5
+"Rele foto célula com retardo 220v monofásico",4401299,5,NAO_COTOU,UND,0,0
+"Timer industrial para trilho digital 16A 220v",4401300,2,NAO_COTOU,UND,0,0
+"Abraçadeira de Nylon 2,5mm x 100mm Branca",4401301,5,PERDEU,PCT,27.5,5.5
+"Abraçadeira de Nylon 4,8mm x 300mm",4401302,5,PERDEU,PCT,140,28
+"Abraçadeira de Nylon 7,2mm x 300mm",4401303,5,NAO_COTOU,PCT,0,0
+"Abraçadeira de pressão Rosca S/fim 16x19",4401304,5,VENCEU,UND,5,1
+"Abraçadeira de pressão Rosca S/fim 17x25",4401305,5,VENCEU,UND,7.5,1.5
+"Abraçadeira de pressão Rosca S/fim 19x25",4401306,5,VENCEU,UND,4.75,0.95
+"Abraçadeira de pressão Rosca S/fim 25x38",4401307,5,NAO_COTOU,UND,0,0
+"Abraçadeira de pressão Rosca",4401308,5,VENCEU,UND,14.5,2.9
+"Abraçadeira p/ mangote 20mm",4401309,4,NAO_COTOU,UND,0,0
+"Abraçadeira p/ mangote 86-94mm",4401310,4,NAO_COTOU,UND,0,0
+"Adesivo Instantâneo",4401311,10,PERDEU,UND,80,8
+"Assento sanitário PVC branco",4401312,10,VENCEU,UND,191.9,19.19
+"Balde Metálico para Concreto 10L Preto",4401313,4,VENCEU,UND,66,16.5
+"Balde PVC 15 litros simples",4401314,4,NAO_COTOU,UND,0,0
+"Bateria 9V Alcalina",4401315,5,VENCEU,UND,67.45,13.49
+"Boina de lã sintetica para polimento 8",4401316,2,VENCEU,UND,35,17.5
+"Cabo de madeira para enxada redondo",4401317,5,VENCEU,UND,45,9
+"Cadeado nº 20mm",4401318,50,VENCEU,UND,542.5,10.85
+"Cadeado nº 25mm",4401319,20,VENCEU,UND,300,15
+"Cadeado nº 45mm",4401320,10,VENCEU,UND,250,25
+"Caixa organizadora 56L",4401321,20,VENCEU,UND,3500,175
+"Cera para veículos",4401322,20,VENCEU,LAT,280,14
+"cocho de massa pvc preto",4401323,1,VENCEU,UND,10.5,10.5
+"Cola Adesiva tipo Fixa Tudo",4401324,10,NAO_COTOU,UND,0,0
+"Corda Multifilamento Trançada Polipropileno 10mm",4401325,200,VENCEU,M,336,1.68
+"Corda Multifilamento Trançada Polipropileno 2mm",4401326,200,VENCEU,M,50,0.25
+"Desentupidor Diabo Verde líquido",4401327,10,VENCEU,EMB,340,34
+"Eletrodo Revestido 3,25mm E6010 ou E6011",4401328,1,VENCEU,EMB,25,25
+"Escova Circular 6 x 1/2 x 1/2 Aço Carbono",4401329,1,NAO_COTOU,UND,0,0
+"Espuma expansiva Poliuretano 300ml",4401330,5,VENCEU,UND,95,19
+"Estanho fio fluxo 1mm 63 x 37 25 Gr",4401331,1,NAO_COTOU,UND,0,0
+"Estopa Desfiada Para Polimento",4401332,10,NAO_COTOU,PCT,0,0
+"FIO DE NYLON PARA ROCADEIRA",4401333,1,VENCEU,RL,48,48
+"Fita Dupla Face 12 mm transparente 20 mt",4401334,2,PERDEU,RL,160,80
+"FITA KREPP 50MT X 25MM",4401335,10,VENCEU,RL,37.5,3.75
+"Fita para demarcação amarela/preta 70 x 200 mt",4401336,50,VENCEU,RL,600,12
+"Fita Silver Tape Adesiva 48 mm X 10 Mts Multiuso Reforçada",4401337,2,VENCEU,RL,24,12
+"Formicida gel",4401338,10,NAO_COTOU,EMB,0,0
+"Haste telha roscavel 1/4x300 com arruela e porca",4401339,100,VENCEU,UND,169,1.69
+Multi-inseticida,4401340,15,VENCEU,EMB,187.5,12.5
+"Lápis carpinteiro vermelho",4401341,2,VENCEU,UND,3.8,1.9
+"Limpa contato eletrônico aerosol 300ml",4401342,2,PERDEU,EMB,22,11
+"Lixeira plástica 65 lts redonda simples com tampa",4401343,5,VENCEU,UND,196.25,39.25
+"Lixeira plástico 100 lt branca com tampa",4401344,5,VENCEU,UND,625,125
+"Lona Preta PVC 8 mt largura 100 micras",4401345,100,VENCEU,M,685,6.85
+"Luva profissional uso geral",4401346,50,VENCEU,PAR,7500,150
+"Luvas vaqueta cano curto com reforço",4401347,80,VENCEU,PAR,872,10.9
+"COLA BRANCA",4401348,1,VENCEU,KG,22,22
+"Máscara descartável azul com válvula PFF1/PFF2",4401349,50,VENCEU,UND,325,6.5
+"Massa de polir Nº2 490 gr",4401350,1,VENCEU,LAT,19,19
+"Naftalina bolas 1 Kg",4401351,2,VENCEU,EMB,44,22
+"Óleo anti-desingripante spray",4401352,35,PERDEU,EMB,245,7
+"Óleo/Silicone Liq. Lubrificante para Esteira de academia 1L",4401353,3,NAO_COTOU,EMB,0,0
+"Grafite Spray",4401354,10,NAO_COTOU,EMB,0,0
+"Pilha alcalina AA",4401355,100,NAO_COTOU,EMB,0,0
+"Pilha alcalina AAA",4401356,100,NAO_COTOU,EMB,0,0
+"Massa Adesiva Epóxi",4401357,5,NAO_COTOU,EMB,0,0
+"Prego com cabeça 14x18 1 Kg",4401358,1,VENCEU,PCT,19,19
+"Prego com cabeça 14x27 1 Kg",4401359,1,VENCEU,PCT,17,17
+"Prego telheiro galvanizado 18 x 27 1 kg",4401360,1,VENCEU,PCT,17,17
+"Prendedor de roupas madeira por dúzia",4401361,10,VENCEU,DZ,23.9,2.39
+"Ralo japonês",4401362,5,NAO_COTOU,UND,0,0
+"Rebolo Silício 75x13x10mm",4401363,1,NAO_COTOU,UND,0,0
+"Saco Para Aspirador Electrolux Hidrolux AWD01",4401364,5,NAO_COTOU,PCT,0,0
+"Selante poliuretano PU branco 400 Gr",4401365,4,PERDEU,EMB,100,25
+"Silicone transparente acético 280g",4401366,10,VENCEU,EMB,108.5,10.85
+"Soda Cáustica escamas pote de 1Kg",4401367,5,VENCEU,POT,90,18
+"Tira limo",4401368,2,NAO_COTOU,GAL,0,0
+"Varal chão ferro branco com abas pequeno",4401369,2,PERDEU,UND,178,89
+"Martelete Perfurador",4401370,1,VENCEU,UND,885,885
+"Broca Madeira 6mm",4401371,4,PERDEU,UND,56,14
+"Broca Madeira 8mm",4401372,4,PERDEU,UND,64,16
+"Broca Madeira 10mm",4401373,4,PERDEU,UND,76,19
+"broca aço rapido 6mm",4401374,4,VENCEU,UND,20,5
+"BROCA ACO RAPIDO 8mm",4401375,4,VENCEU,UND,39.92,9.98
+"broca aço rápido 10mm",4401376,4,PERDEU,UND,88,22
+"Broca Alvenaria 6mm",4401377,4,VENCEU,UND,18.8,4.7
+"Broca Alvenaria 8mm",4401378,4,VENCEU,UND,23.4,5.85
+"Broca Alvenaria 10mm",4401379,4,VENCEU,UND,35.8,8.95
+"Tábua Aplainada 30x1,5x300cm",4401380,30,VENCEU,UND,1800,60
+"Kit Trilho Duplo p/ Prateleira",4401381,20,NAO_COTOU,UND,0,0
+"Suporte de Trilho para prateleira",4401382,60,NAO_COTOU,UND,0,0
+"Alicate de Bico",4401383,2,NAO_COTOU,UND,0,0
+"ALICATE UNIVERSAL",4401384,2,PERDEU,UND,54,27
+"Chave de fenda 5/16 x 6 (8 x 150mm)",4401385,4,VENCEU,UND,47,11.75
+"Chave de fenda 3/16 x 4 (5 x 100mm)",4401386,4,VENCEU,UND,22.6,5.65
+"Chave de fenda 1/8 x 3 (3,5 x 75 mm)",4401387,4,VENCEU,UND,16.6,4.15
+"Chave Philips 1/4 x 4 (PH2 x 100mm)",4401388,4,VENCEU,UND,31.2,7.8
+"Chave Philips 3/16 x 4 (PH1 x 100 mm)",4401389,4,VENCEU,UND,23,5.75
+"Chave Philips 1/8 x 3 (PH0 x 75 mm)",4401390,4,VENCEU,UND,17.8,4.45
+"Alicate Bomba DÁgua",4401391,2,NAO_COTOU,UND,0,0
+"Maleta de couro para ferramenta.",4401392,4,NAO_COTOU,UND,0,0
+"Caixa Plástica 130 litros com tampa - preto",4401393,20,NAO_COTOU,UND,0,0
+"Trena 5 metros",4401394,5,VENCEU,UND,54.5,10.9
+"Torneira Parede 1/4 de volta",4401395,5,PERDEU,UND,275,55
+"Tanque Lavação plástico com válvula",4401396,2,PERDEU,UND,150,75
+"Mangueira Jardim",4401397,50,NAO_COTOU,M,0,0
+"Vaso Sanitário c/ caixa acoplada",4401398,3,NAO_COTOU,UND,0,0
+"FITA VEDA ROSCA",4401399,10,VENCEU,UND,23.9,2.39
+"Parafuso para madeira Phillips",4401400,2,CANCELADO,UND,0.32,0.16
+"Parafuso para madeira Phillips 4,5x60mm - 500 und",4401401,2,CANCELADO,UND,0.66,0.33
+"Parafuso para madeira Phillips 5x60mm - 500 und",4401402,2,CANCELADO,UND,0.76,0.38
+"Bucha para tijolo furado nº6 - 1000 und",4401403,1,CANCELADO,UND,0.15,0.15
+"Bucha para tijolo furado nº8 - 1000 und",4401404,1,CANCELADO,UND,0.24,0.24
+"Bucha para tijolo furado nº10 - 1000 und",4401405,1,CANCELADO,UND,0.37,0.37
+"Sifão Extensível 2 metros",4401406,10,VENCEU,UND,180,18
+"Sifão Extensível 1,5 metros",4401407,10,VENCEU,UND,93.5,9.35
+"Sifão Extensível 0,66 metros",4401408,10,VENCEU,UND,43,4.3
+"Esmerilhadeira 4 1/2 850W",4401409,1,PERDEU,UND,490,490

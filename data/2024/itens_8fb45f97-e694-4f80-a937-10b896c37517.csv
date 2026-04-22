@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Chapa de alumínio composto (ACM) para confecção de placas de",5600954,1,300,ATIVO,"METRO QUADRADO",69000,230
+"Tubo de Aço 2” x 3m x 2mm e acessórios para fixação",5600955,2,550,ATIVO,UNIDADE,71500,130
+"Tubo de Aço 2” x 3,5m x 2mm e acessórios para fixação",5600956,3,320,ATIVO,UNIDADE,48000,150

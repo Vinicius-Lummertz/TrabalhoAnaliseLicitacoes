@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,150000,0.06
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",11967160,4000,PERDEU,AMP,9960,2.49
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,42000,0.06
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3900.6,1.3002
+"Água destilada 10mL ampola.",11967170,20000,PERDEU,AMP,8800,0.44
+"Anlodipino, besilato 5mg cpr, em blister.",11967186,2500000,PERDEU,COMP,100000,0.04
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,98910,10.99
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,7500.5,1.5001
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,10500,3.5
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,75000,0.05
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,PERDEU,FR,12600,0.07
+"Cloreto de sódio 0,9%, ampola 10ml.",11967239,24000,PERDEU,AMP,12480,0.52
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,9000,2.25
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,120000,0.06
+"Enalapril, maleato 20mg cpr, em blister.",11967265,1500000,PERDEU,COMP,120000,0.08
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",11967280,2000,PERDEU,AM,6000,3
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,68000,0.08
+"Glibenclamida 5mg cpr, em blister.",11967290,1200000,PERDEU,COMP,48000,0.04
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,120000,0.04
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,450000,0.09
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",11967352,1000,PERDEU,AM,4550,4.55
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",11967359,400000,PERDEU,COMP,76000,0.19
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,520000,0.13
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,2012,10.06
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,13560,3.39
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,192000,0.12
+"Sinvastatina 20mg cpr, em blister.",11967389,2000000,PERDEU,COMP,240000,0.12
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,60000,0.05

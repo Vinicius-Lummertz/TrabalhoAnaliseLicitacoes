@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Minicarregadeira New Holland L325",5972991,5,1,ATIVO,UNIDADE,13235.29,40
+"Retroescavadeira JCB 3CX",5972992,12,3,ATIVO,UNIDADE,39705.87,60
+"Retroescavadeira New Holland LB110",5972993,14,2,ATIVO,UNIDADE,26470.58,60
+"Trator Agrícola New Holland T6.110",5972994,25,1,ATIVO,UNIDADE,13235.29,75
+"Trator de Esteira John Deere 750J",5972995,27,1,ATIVO,UNIDADE,13235.29,69
+"Vibroacabadora Ciber AF4000",5972996,28,1,ATIVO,UNIDADE,13235.29,68

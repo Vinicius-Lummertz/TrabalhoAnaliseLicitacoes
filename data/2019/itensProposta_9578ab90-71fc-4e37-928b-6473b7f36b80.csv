@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Borracha nº 08",4389084,200,VENCEU,UND,8080,40.4
+"Bola de Borracha nº 10",4389085,200,PERDEU,UND,8930,44.65
+"BOLA DE FUTSAL",4389086,50,PERDEU,UND,10325,206.5
+"Bola de handebol (menor):  Material: PU x PVC",4389087,30,PERDEU,UND,3957,131.9
+"Bola de voleibol.",4389088,100,VENCEU,UND,10155,101.55
+"Bola Futebol de Campo",4389089,10,PERDEU,UND,1490,149
+"Bola pilates",4389090,2,PERDEU,UND,351.8,175.9
+"Bola tenis  de campo",4389091,500,PERDEU,UND,19390,38.78
+"Bola basquetebol",4389092,100,PERDEU,UND,7195,71.95
+"Bomba de encher bola em  Plástico",4389093,80,VENCEU,UND,4240,53
+"Cavaletes corrida (barreiras)",4389094,10,PERDEU,UND,1199.5,119.95
+COLCHONETE,4389095,750,DESCLASSIFICADO,UND,66037.5,88.05
+COLCHONETE,4389096,250,DESCLASSIFICADO,UND,22012.5,88.05
+"Disco de lançamento",4389097,20,PERDEU,UND,2158,107.9
+"Mini bola basquete",4389100,100,VENCEU,UND,7870,78.7

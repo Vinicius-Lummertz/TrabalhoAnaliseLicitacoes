@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microcomputador,14940408,5,PERDEU,UND,22239.1,4447.82
+"Monitor Grande",14940411,5,PERDEU,UND,6720,1344
+"Monitor Médio",14940412,5,PERDEU,UND,5885,1177
+"Monitor Tela Curva",14940413,1,PERDEU,UND,10505,10505
+"Ponto de Acesso (Roteador Wireless)",14940427,5,PERDEU,UND,5415,1083
+Smartphone,14940429,40,PERDEU,UND,88000,2200
+"Switch 24 Portas POE",14940434,2,PERDEU,UND,8800,4400

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A3, folha branca, PAPEL 75",1301686,3,1000,ATIVO,UNIDADE,550,0.55
+"Encadernação em espiral até 100 folhas tamanho A4",1301687,5,200,ATIVO,UNIDADE,1000,5
+"Impressão colorida , tamanho A4",1303794,2,1000,ATIVO,UNIDADE,2000,2
+"Impressão colorida em papel 75 gr tamanho A3",1305767,4,500,ATIVO,UNIDADE,2000,4
+"Encadernação em espiral acima de 100 folhas",1309856,6,50,ATIVO,UNIDADE,350,7
+"Impressão preto e branco, tamanho A4,",1316068,1,2000,ATIVO,UNIDADE,500,0.25
+"Plotagem de viatura",1316069,7,200,ATIVO,UNIDADE,22000,110

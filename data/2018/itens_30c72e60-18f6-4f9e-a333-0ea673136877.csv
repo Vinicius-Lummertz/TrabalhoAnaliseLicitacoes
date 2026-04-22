@@ -1,0 +1,18 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel Higiênico Rolão",1298087,45,50,ATIVO,FARDO,1550,31
+"Copo descartavel 180 ml",1300143,56,20,ATIVO,CAIXA,950,47.5
+"Sabonete líquido.",1300147,18,50,ATIVO,GALAO,640,12.8
+"Detergente Neutro Líquido de Uso Geral",1300148,7,110,ATIVO,GALAO,539,4.9
+"Desinfetante de uso geral",1302206,6,100,ATIVO,GALAO,590,5.9
+"Dispenser para sabonete líquido",1306305,55,5,ATIVO,UNIDADE,1150,230
+"Lustra móveis;",1306309,12,40,ATIVO,FRASCO,65.2,1.63
+"Bobina de Papel Toalha",1308332,42,80,ATIVO,CAIXA,7651.2,95.64
+"Limpa pneus com silicone",1310332,10,40,ATIVO,GALAO,820,20.5
+"Amaciante para tecidos",1310333,5,70,ATIVO,GALAO,490,7
+"Detergente com Cera Para Veículos",1312346,9,100,ATIVO,GALAO,960,9.6
+"ÁGUA SANITÁRIA",1314490,1,300,ATIVO,GALAO,1410,4.7
+"Saponáceo cremoso.",1314492,20,50,ATIVO,UNIDADE,100,2
+"SABAO EM PO",1316568,17,75,ATIVO,kg,300,4
+Alvejante,1316569,2,90,ATIVO,GALAO,720,8
+"Sabão liquido de coco",1318597,8,100,ATIVO,GALAO,870,8.7
+"Cera auto-brilho.",1318598,11,30,ATIVO,GARRAFA,1044,34.8

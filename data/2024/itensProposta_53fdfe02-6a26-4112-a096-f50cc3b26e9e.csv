@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",16295801,2200000,PERDEU,COMP,110000,0.05
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9900,0.33
+"Aminofilina 100mg, em blister.",16295818,1000,PERDEU,COMP,90,0.09
+"Amitriptilina , cloridrato 25mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",16295822,2220000,DESCLASSIFICADO,COMP,155400,0.07
+"Atenolol 50mg cpr, em blister.",16295829,1500000,PERDEU,COMP,90000,0.06
+"Carvedilol 25 mg cpr, em blister.",16295857,280000,PERDEU,COMP,47600,0.17
+"Ceftriaxona 1G intramuscular (IM) injetável.",16295863,1500,PERDEU,FR/AM,18000,12
+"Clindamicina 300mg capsula, em blister.",16295869,8000,PERDEU,CPLA,12000,1.5
+"Dexametasona 4mg cpr, em blister.",16295889,20000,PERDEU,COMP,5000,0.25
+"Digoxina 0,25mg cpr, em blister.",16295895,150000,PERDEU,COMP,30000,0.2
+"Doxazosina 2 mg cpr, em blister.",16295903,400000,PERDEU,COMP,52000,0.13
+"Enalapril, maleato 20mg cpr, em blister.",16295907,1500000,PERDEU,COMP,90000,0.06
+"Fluoxetina, cloridrato 20mg capsula, em blister.",16295928,2000000,PERDEU,CPLA,200000,0.1
+"Furosemida 40mg cpr, em blister.",16295931,850000,PERDEU,COMP,59500,0.07
+"Loratadina 10mg cpr, em blister.",16295973,700000,PERDEU,COMP,70000,0.1
+"Losartana 50mg cpr revestido, em blister.",16295975,5500000,PERDEU,COMP,330000,0.06
+"Nifedipino 10mg cpr, em blister.",16295997,250000,PERDEU,COMP,32500,0.13
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",16296007,10000,PERDEU,AMP,19100,1.91
+"Sinvastatina 20mg cpr, em blister.",16296025,1800000,PERDEU,COMP,162000,0.09
+"Varfarina sódica 5 mg cpr, em blister.",16296044,100000,PERDEU,COMP,19000,0.19

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ART,1263693,5,6,ATIVO,UNIDADE,400.5,66.75
+"Projeto Executivo de sistema preventivo de incêndio, compree",1263694,3,4300,ATIVO,"METRO QUADRADO",10621,2.47
+"Projeto Executivo de Sistema Hidrossanitário, compreendendo",1263695,2,4300,ATIVO,"METRO QUADRADO",10621,2.47
+"Projeto Executivo Estrutural e de Fundação",1263696,1,4300,ATIVO,"METRO QUADRADO",27692,6.44
+"Projeto executivo de sistema elétrico, compreendendo o siste",1263697,4,4300,ATIVO,"METRO QUADRADO",10621,2.47

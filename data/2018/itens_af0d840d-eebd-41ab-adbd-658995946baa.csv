@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de Concreto Diâmetro de 200mm (nbr 8890)",1300195,1,1000,ATIVO,METRO,13000,13
+"Tubo de Concreto Diâmetro de 400mm Perfurado (nbr 8890)",1314537,4,2000,ATIVO,METRO,50000,25

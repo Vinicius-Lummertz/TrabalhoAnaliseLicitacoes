@@ -1,0 +1,54 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulhas hipodérmicas 13mmX4,5mm",1265231,4,400,ATIVO,CAIXA,2200,5.5
+"Agulhas hipodérmicas 20mmX5,5mm",1265256,5,450,ATIVO,CAIXA,2502,5.56
+"EQUIPO PARA NUTRIÇÃO ENTERAL",1265257,77,20000,ATIVO,UNIDADE,17300,0.865
+"Agulhas hipodérmicas 25 X 7",1265258,7,1000,ATIVO,CAIXA,5600,5.6
+"Frasco para nutrição enteral capacidade 300mL",1265259,102,20000,ATIVO,UNIDADE,14000,0.7
+"Kit de nebulização adulto",1265260,110,150,ATIVO,UNIDADE,750,5
+"Lanceta do profissional de saúde",1265261,118,20000,ATIVO,UNIDADE,3800,0.19
+"Luva Cirúrgica estéril Nº. 6,5",1265262,121,1800,ATIVO,PAR,1674,0.93
+"Luva Cirúrgica estéril Nº. 8,5",1265263,125,100,ATIVO,PAR,95,0.95
+"Luva Nitrilica não Estéril p/ Procedimento Tamanho PP- cor a",1265264,136,1000,ATIVO,CAIXA,15800,15.8
+"Máscara N95 PFF2 descartável para proteção contra tuberculos",1265265,137,500,ATIVO,UNIDADE,810,1.62
+"oleo de girassol",1265266,143,6000,ATIVO,UNIDADE,19680,3.28
+"Pote para coleta de urina, fezes e secreção",1265267,147,90000,ATIVO,UNIDADE,18900,0.21
+"Seringa 10ml, sem agulha",1265268,157,15000,ATIVO,UNIDADE,3420,0.228
+"Seringa 20ml, sem agulha",1265269,158,20000,ATIVO,UNIDADE,6800,0.34
+"Fita adesiva para teste de esterilização em Autoclave",1265270,98,600,ATIVO,UNIDADE,1500,2.5
+"Tubo de silicone tamanho 204",1265271,219,10,ATIVO,PACOTE,1160,116
+"Eletrodo (Pás) para uso no desfibrilador ADULTO, modelo CPR",1265272,225,6,ATIVO,PAR,8400,1400
+"Eletrodo (Pás) INFANTIL para uso no desfibrilador modelo CPR",1265273,226,3,ATIVO,PAR,4314,1438
+"Esfigmomanômetro Adulto",1265274,227,150,ATIVO,UNIDADE,8400,56
+"Cuba rim, comprimento 26cm, largura 12cm, altura 6cm, capaci",1265275,244,20,ATIVO,UNIDADE,598,29.9
+"Cuba redonda para assepsia, profundidade 5cm, diâmetro 10cm,",1265276,245,50,ATIVO,UNIDADE,585,11.7
+"Oxímetro de pulso clipe de dedo, portátil",1265283,221,15,ATIVO,UNIDADE,1260,84
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1265284,82,5000,ATIVO,UNIDADE,16400,3.28
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",1265285,81,3000,ATIVO,UNIDADE,15900,5.3
+"Equipo 2 vias , (POLIFIX).",1265286,76,3000,ATIVO,UNIDADE,1620,0.54
+"Agulhas hipodérmicas 40 X 12",1265287,10,1500,ATIVO,CAIXA,8370,5.58
+"Algodão Hidrófilo, 100%.",1265288,13,700,ATIVO,ROLO,6685,9.55
+"Aparelho para Tricotomia Descartável",1265289,18,1500,ATIVO,UNIDADE,825,0.55
+"Ataduras de Crepom 6cm",1265290,24,20000,ATIVO,UNIDADE,6700,0.335
+"Bolsa coletora de urina de perna, 500 a 750ml",1265291,27,400,ATIVO,UNIDADE,1280,3.2
+"Caneta para ECG",1265292,31,20,ATIVO,UNIDADE,378,18.9
+"Cânula de Traqueostomia de silicone com balonete número 4,0",1265293,32,10,ATIVO,UNIDADE,170,17
+"Cânula de Traqueostomia de silicone com balonete número 4,5",1265294,33,10,ATIVO,UNIDADE,170,17
+"Cânula de Traqueostomia de silicone com balonete número 5,0",1265295,34,5,ATIVO,UNIDADE,85,17
+"Cânula de Traqueostomia de silicone com balonete número 5,5",1265296,35,5,ATIVO,UNIDADE,85,17
+"Cânula de Traqueostomia de silicone com balonete número 6,0",1265297,36,5,ATIVO,UNIDADE,85,17
+"Cânula de Traqueostomia de silicone com balonete número 6,5",1265298,37,5,ATIVO,UNIDADE,85,17
+"Cânula de Traqueostomia de silicone com balonete número 7,0",1265299,38,3,ATIVO,UNIDADE,51,17
+"Cânula de Traqueostomia de silicone com balonete número 7,5",1265300,39,3,ATIVO,UNIDADE,51,17
+"Cânula de Traqueostomia de silicone com balonete número 8,0",1265301,40,3,ATIVO,UNIDADE,51,17
+"Cânula de Traqueostomia de silicone com balonete número 8,5",1265302,41,3,ATIVO,UNIDADE,51,17
+"Coletor Infantil com furo recortado, unissex, com furo oval",1265303,51,3000,ATIVO,UNIDADE,780,0.26
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",1265304,52,3000,ATIVO,UNIDADE,9000,3
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",1265305,53,3000,ATIVO,UNIDADE,6660,2.22
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",1265306,55,300,ATIVO,PACOTE,8700,29
+"Compressa de gaze (tipo queijo) em rolo",1265307,56,100,ATIVO,ROLO,6850,68.5
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",1265308,59,100000,ATIVO,PACOTE,42000,0.42
+"Disp. p/ infusão endovenosa, n° 19 (apelido scalp)",1265309,64,5000,ATIVO,UNIDADE,900,0.18
+"Disp. p/ infusão endovenosa, n° 21 (apelido scalp)",1265310,65,8000,ATIVO,UNIDADE,1440,0.18
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",1265311,71,10000,ATIVO,UNIDADE,2200,0.22
+"Agulhas hipodérmicas 25 X 6",1265312,6,400,ATIVO,CAIXA,2180,5.45
+"Lanceta do paciente - refil",1328336,117,200000,ATIVO,UNIDADE,10000,0.05

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Link de internet principal de 1,5 Gbps, com firewall e filtr",0,12,VENCEU," ",132015.12,11001.26
+"Interligação do paço municipal com pontos com velocidade de",0,1932,VENCEU," ",437308.2,226.35
+"Interligação do paço municipal com pontos com v. 50 mbps",0,228,VENCEU," ",72850.56,319.52
+"Interligação do paço municipal com pontos com v. 100 mbps",0,108,VENCEU," ",54819.72,507.59
+"Link de internet redundante com velocidade de 100 Mbps.",0,12,INABILITADO," ",15060,1255

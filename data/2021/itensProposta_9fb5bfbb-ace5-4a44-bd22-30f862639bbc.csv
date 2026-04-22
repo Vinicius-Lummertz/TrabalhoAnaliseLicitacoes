@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escova dental adulto - Pacote com 50 unidades",5488306,40,VENCEU,PCT,1300,32.5
+"Escova dental infantil -  Pacote com 50 unidades",5488307,40,VENCEU,PCT,1260,31.5
+"Escova extra flexível para limpeza de instrumentais c/ cabo",5488308,120,VENCEU,UN,1212,10.1
+"Fio dental bucal",5488327,100,PERDEU,UN,1010,10.1
+"Kit odontológico de higiene dental adulto",6554562,3000,VENCEU,KIT,14640,4.88
+"Kit odontológico de higiene dental adulto",5488356,9000,PERDEU,KIT,43920,4.88
+"Kit odontológico de higiene dental infantil",5488358,7000,VENCEU,KIT,47530,6.79

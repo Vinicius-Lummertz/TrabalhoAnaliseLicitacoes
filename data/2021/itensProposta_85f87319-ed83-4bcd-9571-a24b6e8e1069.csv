@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Adesivos,4401000,2000,NAO_COTOU,UND,0,0
+AGENDA,4401001,300,PERDEU,UND,4230,14.1
+"Apostila  Libras",4401002,600,NAO_COTOU,UND,0,0
+Atlas,4401003,4000,PERDEU,UND,76000,19
+"Banner  0,50 cm x 1,00 m",4401004,100,NAO_COTOU,UND,0,0
+"Banner 1,20 cm x 1,30 m",4401005,100,NAO_COTOU,UND,0,0
+"Banner   Tamanho 1,20 cm x 1,50 m",4401006,100,NAO_COTOU,UND,0,0
+"Caderno desafio fácil.",4401007,1200,PERDEU,UND,3480,2.9
+"Caderno para baixa visão",4401008,100,NAO_COTOU,UND,0,0
+"capa de transferencia .",4401009,10000,NAO_COTOU,UND,0,0
+"Cartões (Dia do Professor, Diretor)",4401010,2500,NAO_COTOU,UND,0,0
+CERTIFICADO,4401011,6000,NAO_COTOU,UND,0,0
+Convites.,4401012,800,NAO_COTOU,UND,0,0
+"Diretriz Curricular da Educação Infantil.",4401013,500,PERDEU,UND,13400,26.8
+informativo,4401014,3000,PERDEU,UND,840,0.28
+"Impressão colorida digital tamanho A3",4401015,2000,VENCEU,UND,2220,1.11
+"Livro didático da História de Criciúma",4401016,1000,PERDEU,UND,12100,12.1
+REVISTA,4401017,500,VENCEU,UND,1105,2.21

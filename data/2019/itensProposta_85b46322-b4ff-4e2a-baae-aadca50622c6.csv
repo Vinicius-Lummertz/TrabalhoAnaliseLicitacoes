@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Mochila tipo academia",4388686,600,VENCEU,UND,17700,29.5
+"BOLA DE FUTEBOL DE CAMPO",4388687,40,PERDEU,UND,11200,280
+"Bola futsal adulto",4388688,40,VENCEU,UND,8720,218

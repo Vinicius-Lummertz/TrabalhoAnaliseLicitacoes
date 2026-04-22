@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Clorexidina alcoólica",1265240,49,1200,ATIVO,LITRO,9432,7.86
+"Detergente enzimático.",1265242,61,250,ATIVO,GALÃO,16225,64.9
+"Hipoclorito de sódio 1%.",1265243,108,300,ATIVO,LITRO,732,2.44
+"Lençol hospitalar descartável em papel",1265244,120,1000,ATIVO,ROLO,8210,8.21
+"GLICERINA LIQUIDA",1265255,106,30,ATIVO,LITRO,504,16.8

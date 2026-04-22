@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alcool Líquido 70%",1300296,3,250,ATIVO,LITRO,1025,4.1
+"Máscara cirúrgica descartável",1302354,12,100,ATIVO,CAIXA,593,5.93
+"Saco de lixo infectante 50 L",1302357,28,20,ATIVO,CAIXA,491.8,24.59
+"Compressa de Gaze Hidrófila",1308455,8,6000,ATIVO,PACOTE,2340,0.39
+"Atadura de crepom 15cm",1310478,19,1500,ATIVO,UNIDADE,1485,0.99
+"Lençol descartável",1312496,14,120,ATIVO,PACOTE,1233.6,10.28
+"Álcool Líquido 92,8 INPM",1314633,2,250,ATIVO,LITRO,1225,4.9
+"Saco de lixo infectante 30 L",1316703,27,60,ATIVO,CAIXA,1003.2,16.72
+"Álcool Gel 70 %",1318723,4,150,ATIVO,UNIDADE,912,6.08
+"Luva Nitrílica Azul",1318725,11,900,ATIVO,CAIXA,17523,19.47

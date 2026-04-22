@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tapete Emborrachado",8634778,1,VENCEU,UN,390,390
+"Aspirador de pó",8634780,1,PERDEU,UN,479,479
+Freezer,8634781,1,PERDEU,UNI,4248,4248
+"Furadeira de Impacto",8634782,1,PERDEU,UND,540,540
+GELADEIRA,8634783,1,PERDEU,UND,2999,2999
+"Lavadora da alta pressão",8634784,1,PERDEU,UN,1790,1790
+"Flipshart com Papel",8634789,1,PERDEU,UN,200,200
+"COMPUTADOR BÁSICO COMPLETO",8634792,16,VENCEU,UND,68608,4288
+"HD externo 4TB",8634793,1,PERDEU,UNID,729,729

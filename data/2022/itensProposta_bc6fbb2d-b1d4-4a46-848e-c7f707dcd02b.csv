@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Locação, pavilhão nas dimensões de 20x160 metros",8298190,3600,VENCEU,M2,139788,38.83
+"Locação, pavilhão nas dimensões de 30x60 metros",8298191,1800,VENCEU,M2,68094,37.83
+"Locação de pavilhão nas dimensões de 20X40 metros, ,montagem, manutenção e desmontagem",8298192,800,VENCEU,M2,31064,38.83
+"Locação de pirâmide 10X10 METROS, montagem, manutenção e desmontagem",8298193,1,VENCEU,UND,1866.67,1866.67
+"Locação de pirâmides 5x5 metros, montagem, manutenção e desmontagem",8298194,6,VENCEU,UNI,4780.02,796.67
+"Locação de estandes, montagem, manutenção e desmontagem",8298195,720,VENCEU,M2,66002.4,91.67
+"Locação, montagem, manutenção e desmontagem de estande 2500 m²",8298196,2500,VENCEU,M2,141675,56.67
+"Locação de fechamento em placa de aço, montagem, manutenção e desmontagem",8298197,120,VENCEU,M/L,3499.2,29.16
+"Locação, transporte de baias metálicas -alojamento de bovinos PO e PC semi-rústicos,  montagens, manutenção, desmontagens",8298198,33,VENCEU,UND,25509,773
+"Locação de  estrutura metálicas, , transporte, montagens, manutenção, desmontagens",8298199,200,VENCEU,M/L,10400,52
+"Locação de portões metálicos, transporte, montagens, manutenção, desmontagens e transportes retorno",8298200,111,VENCEU,M/L,11100,100
+"Locação  de baias metálicas e ou madeiras, para alojamento de ovinos e caprinos. transporte, manutenção, desmontagem e transporte retorno",8298201,110,VENCEU,UND,6490,59
+"Locação, transporte  de  baias metálicas e com lonas,  para alojamento de Equinos. montagens, desmontagens e transporte retorno",8298202,48,VENCEU,UND,19200,400
+"Locação, de arquibancadas metálicas, de 8 lances para assentos,  transporte, montagens, manutenção e desmontagens.",8298203,80,VENCEU,M/L,5600,70
+"cepilho de madeira para colchão das camas dos animais",8298204,270,VENCEU,M³,1485,5.5
+AREÃO,8298205,175,VENCEU,M3,3150,18
+"Locação, montagens, manutenção de  sanitários químicos femininos, sanitários para público masculino e pias e água corrente.",8298206,15,VENCEU,UND,8964,597.6
+"CAÇAMBA DE TELE ENTULHO",8298207,10,VENCEU,DIAS,800,80
+"silagem de milho para os bovinos e ovinos",8298208,960,VENCEU,KG,14400,15
+"mesa plástica quadrada com 4 cadeiras",8298209,50,VENCEU,JGO,800,16
+"Montagem e desmontagem de palco",8298210,1,VENCEU,UND,1500,1500
+"Sonorização para cerimonial de abertura e apresentações",8298211,1,VENCEU,UND,3100,3100
+"Servicos de sonorizacao",8298212,1,VENCEU,UND,4726.67,4726.67
+"Sonorização interna do evento/ sistema aéreo",8298213,1,VENCEU,UND,4266.67,4266.67
+"Sistema de SONORIZAÇÃO 01",8298214,1,VENCEU,UND,1966.67,1966.67
+"rosetas de tafetá com botton DH",8298215,400,VENCEU,UND,1000,2.5
+"Faixas bordadas em veludo",8298216,16,VENCEU,UND,1000,62.5
+"Equipe de 3 profissionais para montagens e desmontagem dos equipamentos hidráulicos",8298217,260,VENCEU,HS,6934.2,26.67
+"Equipe com 08 profissionais para distribuição de cepilho nas baias",8298218,560,VENCEU,HS,9144.8,16.33
+"recolhimento de resíduos e reposição- com ferramentas incluso",8298219,392,VENCEU,H,6401.36,16.33
+"Equipe de profissionais para limpeza, manutenção e reposição das áreas internas no pavilhão principal e pavilhões paralelos",8298220,1016,VENCEU,H,16591.28,16.33
+"Equipe profissional de segurança e vigilância, no período de",8298221,3126,VENCEU,HORA,67740.42,21.67
+"médico veterinário RT Responsável Técnico do evento",8298222,40,VENCEU,DIA,8280,207
+"médico veterinário responsável pela gestão e manejo dos animais na descarga, decorrer do evento e no retorno/saída das espécies.",8298223,8,VENCEU,DIA,2720,340

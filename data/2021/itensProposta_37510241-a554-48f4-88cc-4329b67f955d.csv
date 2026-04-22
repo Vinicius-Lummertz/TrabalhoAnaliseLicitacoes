@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",4641350,150,VENCEU," ",624,4.16
+"Cano cobre ½;",4641350,50,VENCEU," ",754,15.08
+"Cano cobre ¼;",4641350,50,VENCEU," ",632,12.64
+"Cano cobre ¾;",4641350,50,VENCEU," ",1247,24.94
+"Cano cobre 3/8;",4641350,50,VENCEU," ",815.5,16.31
+"Cano cobre 5/8;",4641350,50,VENCEU," ",847,16.94
+"Cano esponjoso ¼;",4641350,70,VENCEU," ",135.8,1.94
+"Cano esponjoso ½.",4641350,70,VENCEU," ",135.8,1.94
+"Cano esponjoso ¾;",4641350,70,VENCEU," ",135.8,1.94
+"Cano esponjoso 3/8;",4641350,70,VENCEU," ",135.8,1.94
+"Cano esponjoso 5/8.",4641350,70,VENCEU," ",135.8,1.94
+"Capacitor 380V 2 UF",4641350,8,VENCEU," ",71.2,8.9
+"Capacitor 380V 4 UF",4641350,8,VENCEU," ",91.92,11.49
+"Capacitor 380V 6 UF",4641350,8,VENCEU," ",102.48,12.81
+"Capacitor 380V 25 UF",4641350,8,VENCEU," ",130.56,16.32
+"Capacitor 380V 30 UF",4641350,8,VENCEU," ",169.68,21.21
+"Capacitor 380V 35 UF",4641350,8,VENCEU," ",170.64,21.33
+"Capacitor 380V 40 UF",4641350,8,VENCEU," ",172.88,21.61
+"Capacitor 380V 45 UF",4641350,8,VENCEU," ",204,25.5
+"Capacitor 380V 55 UF",4641350,8,VENCEU," ",206.56,25.82
+"Chave contactora CWM 09",4641350,4,VENCEU," ",397.48,99.37
+"Chave contactora CWM 10",4641350,4,VENCEU," ",397.48,99.37
+"Compressor para Split 9000 BTUS",4641350,2,VENCEU," ",522.7,261.35
+"Compressor para Split 12000 BTUS",4641350,2,VENCEU," ",663.8,331.9
+"Compressor para Split 18000 BTUS",4641350,2,VENCEU," ",781.62,390.81
+"Compressor para Split 24000 BTUS",4641350,2,VENCEU," ",1005.16,502.58
+"Compressor para Split 30000 BTUS",4641350,2,VENCEU," ",1056.34,528.17
+"Compressor para Split 60000 BTUS",4641350,1,VENCEU," ",789.17,789.17
+"Controle remoto univ. ar split",4641350,10,VENCEU," ",328.5,32.85
+"Hélice ar cond. 7000 a 24.000 BTUS",4641350,10,VENCEU," ",629.1,62.91
+"90328929 PLACA ELETRONICA",4641350,5,VENCEU," ",438.8,87.76
+"87426773	MOTOR DO VENTILADOR",4641350,2,VENCEU," ",218.66,109.33
+"Suporte split 7/12000btus",4641350,30,VENCEU," ",1122.6,37.42
+"Suporte split 18/30000btus",4641350,30,VENCEU," ",1748.7,58.29
+"Termostato do ar condicionado",4641350,3,VENCEU," ",80.97,26.99
+"Turbina  do ventilador",4641350,10,VENCEU," ",337.6,33.76
+"Gás R22 (carga).",4641350,100,VENCEU," ",4432,44.32
+"Gas R410 A (carga).",4641350,100,VENCEU," ",6660,66.6
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",4641350,200,VENCEU," ",20290,101.45
+"Limpeza completa do ar split com retirada do aparelho",4641350,190,VENCEU," ",26622.8,140.12
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos (hora)",4641350,210,VENCEU," ",22808.1,108.61

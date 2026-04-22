@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Computador administrativo",17190258,12,DESCLASSIFICADO,UN,66000,5500
+"Computador pedagógico",17190259,45,DESCLASSIFICADO,UN,166050,3690
+"Computador pedagógico",17218019,15,DESCLASSIFICADO,UN,55350,3690
+Notebook,17190261,5,PERDEU,UND,20000,4000

@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxilina 500mg+ ac. Clavulanico 125 mg cpr, em blister",4448001,80000,PERDEU,CP,49200,0.615
+"amoxilina 250mg+ ac. Clavulanico 62,5mg/ml, com copo medida,",4448002,1000,VENCEU,FR.,10900,10.9
+"Dipirona 500mg cpr, em blister",4448005,280000,VENCEU,CP,30240,0.108

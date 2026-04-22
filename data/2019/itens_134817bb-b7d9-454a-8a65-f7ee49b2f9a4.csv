@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",1265597,6,5000,ATIVO,FRASCO,18500,3.7
+"Piridoxina 40mg cpr, em blister.",1265598,214,3000,ATIVO,COMPRIMIDO,2250,0.75
+"Sulfato ferroso 40mg cpr, em blister.",1265599,239,900000,ATIVO,COMPRIMIDO,26100,0.029

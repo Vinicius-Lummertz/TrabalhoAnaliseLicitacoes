@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microcomputador,12371302,7,PERDEU,UND,32452,4636
+"Monitor Grande",12371303,15,PERDEU,UND,23490,1566
+"Monitor Médio",12371304,15,PERDEU,UND,20850,1390
+"Monitor Tela Curva",12371305,4,PERDEU,UND,47560,11890
+NOTEBOOK;,12371310,6,PERDEU,UND,36504,6084
+"Ponto de Acesso (Roteador Wireless)",12371322,3,PERDEU,UND,2664,888

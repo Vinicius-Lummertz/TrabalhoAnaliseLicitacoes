@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto para drenagem 1000mm PA1 -NBR",1301332,8,800,ATIVO,METRO,152000,190
+"Tubo de concreto para drenagem 500mm PS1 simples",1307476,5,2000,ATIVO,METRO,79800,39.9
+"Tubo de concreto para drenagem 800mm PA1 - NBR",1317721,7,1000,ATIVO,METRO,150000,150
+"Tubo de concreto para drenagem 1200mm PA2 - NBR",1317722,9,100,ATIVO,METRO,34000,340

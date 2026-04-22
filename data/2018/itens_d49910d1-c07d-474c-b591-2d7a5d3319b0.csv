@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Programa de controle da febre amarela dengue",1262314,55,10000,ATIVO,UNIDADE,440,0.044
+"Receituário B2",1262315,60,500,ATIVO,BLOCO,300,0.6
+"Requisição de clínica de RX",1262316,69,100,ATIVO,BLOCO,440,4.4
+"Requisição de materiais e/ ou serviços",1262317,70,150,ATIVO,BLOCO,598.5,3.99
+"Requisição para eletroencefalograma",1262318,72,30,ATIVO,BLOCO,229.5,7.65
+"Requisição para fisioterapia",1262319,75,50,ATIVO,BLOCO,335,6.7
+"Cartão nacional do SUS",1262320,107,30000,ATIVO,UNIDADE,45000,1.5

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Clorpromazina, cloridrato 25mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",5093111,300000,VENCEU,COMP,56940,0.1898
+"Fenobarbital 100mg cpr, em blister.",5093145,400000,VENCEU,COMP,40000,0.1
+"Levomepromazina, maleato 25mg.",5093201,220000,PERDEU,CP,70598,0.3209
+"Permetrina 10mg/mL loção, frasco 60ml.",5093252,8000,PERDEU,FR.,16320,2.04
+"Permetrina 50mg/mL loção, frasco 60ml.",5093253,6000,PERDEU,FR.,17880,2.98

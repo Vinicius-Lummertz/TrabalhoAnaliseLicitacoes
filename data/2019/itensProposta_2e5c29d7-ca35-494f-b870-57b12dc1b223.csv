@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SMART TV 40",0,60,INABILITADO," ",101400,1690
+"SMART TV 50",0,10,INABILITADO," ",23090,2309
+"SUPORTE DE PAREDE",0,70,INABILITADO," ",2100,30

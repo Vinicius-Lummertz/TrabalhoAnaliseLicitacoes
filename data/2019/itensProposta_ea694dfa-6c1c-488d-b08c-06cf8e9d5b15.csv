@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ventilador turbo de coluna",4439489,12,PERDEU,UN,1860,155
+"Refrigerador tipo doméstico 2 portas",4439491,4,DESCLASSIFICADO,UN,7000,1750
+"Refrigerador tipo doméstico 1 porta.",4439492,4,INABILITADO,UN,6600,1650
+"Aparelho Microondas capac. 25lt, na cor branca",4439493,4,DESCLASSIFICADO,UNI,1900,475
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4439494,8,PERDEU,UNI,3200,400
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 9",4439498,10,INABILITADO,UND,13250,1325
+"Aparelho de Ar Condicionado tipo Split HI-WALL cap12.000 BTU",4439499,40,INABILITADO,UNI,58520,1463
+"Aparelho de Ar Condicionado tipo Split HI-WALL CAP.24.000 BT",4439500,7,INABILITADO,UN,21350,3050
+"Carro funcional  para limpeza.",4439506,4,VENCEU,CNJ,2660,665

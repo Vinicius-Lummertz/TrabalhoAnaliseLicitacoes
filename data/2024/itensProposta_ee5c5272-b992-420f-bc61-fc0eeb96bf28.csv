@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P (pequeno), formato anatômico, antialérgica.",14610709,35000,PERDEU,UND,68950,1.97
+"Fralda descartável adulto tamanho M (médio), formato anatômico, antialérgica.",14610710,75000,PERDEU,UND,303750,4.05
+"Fralda descartável adulto tamanho G (grande), formato anatômico, antialérgica.",14610711,300000,PERDEU,UND,1215000,4.05
+"Fralda descartável adulto tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",14610712,400000,PERDEU,UND,1848000,4.62
+"Fralda descartável infantil tamanho P (pequeno), formato anatômico, antialérgica.",14610713,1000,PERDEU,UND,1650,1.65
+"Fralda descartável infantil tamanho M (médio), formato anatômico, antialérgica.",14610714,1000,PERDEU,UND,1830,1.83
+"Fralda descartável infantil tamanho G (grande), formato anatômico, antialérgica.",14610715,6000,PERDEU,UND,12420,2.07
+"Fralda descartável infantil tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",14610716,8000,PERDEU,UND,18720,2.34

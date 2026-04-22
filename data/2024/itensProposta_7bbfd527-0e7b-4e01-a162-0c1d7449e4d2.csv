@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Monitor 19,5”",14640335,2,PERDEU,UND,760,380
+"Mouse com fio USB",14640336,30,VENCEU,UND,168,5.6
+"Nobreak 1500VA SMS 115v",14640337,2,VENCEU,UND,1900,950
+"Teclado com fio USB",14640341,30,VENCEU,UND,503.4,16.78
+"KIT DE TECLADO E MOUSE SEM FIO",14640342,30,VENCEU,UND,1396.8,46.56
+"Fone de ouvido com fio, in-ear",14640343,20,VENCEU,UND,178,8.9
+"Fone de ouvido sem fio, in-ear",14640344,20,PERDEU,UND,599.8,29.99
+"Caixa de som para computador",14640345,20,VENCEU,UND,400,20
+"Pen drive 32Gb",14640346,10,PERDEU,UND,350,35

@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit Serra Sabre a Bateria",12040620,1,PERDEU,KIT,7837.86,7837.86
+"Chave de Impacto a Bateria",12040621,1,VENCEU,UND,9499,9499
+"Torre de Iluminação a Bateria",12040622,1,VENCEU,UND,12999,12999

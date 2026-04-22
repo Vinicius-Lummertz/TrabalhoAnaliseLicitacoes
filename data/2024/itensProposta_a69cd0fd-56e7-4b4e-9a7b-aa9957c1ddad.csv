@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base de brita graduada - incluso frete",15973995,85000,PERDEU,TON,6375000,75
+"Pó de pedra - incluso frete",15973996,28902,PERDEU,TON,2023140,70
+"Pó de pedra - incluso frete",16222854,1098,VENCEU,TON,76860,70
+"Macadame (ou brita nº 04) - incluso frete",15973997,13894,PERDEU,TON,972580,70
+"Macadame (ou brita nº 04) - incluso frete",16222860,1106,PERDEU,TON,74102,67
+"Pedrisco (ou brita nº 00) - incluso frete",15973998,11079,PERDEU,TON,941715,85
+"Pedrisco (ou brita nº 00) - incluso frete",16222870,921,PERDEU,TON,73680,80
+"Brita 3/4 (brita nº 01) - incluso frete",15973999,11955,PERDEU,TON,896625,75
+"Brita 3/4 (brita nº 01) - incluso frete",16223199,1045,PERDEU,TON,75240,72
+"Rachão (ou brita nº 05) - incluso frete",15974000,4806,PERDEU,TON,312390,65
+"Rachão (ou brita nº 05) - incluso frete",16223201,1194,PERDEU,TON,77610,65
+"Areia lavada média p/ uso na construção civil - incluso fret",15974001,2250,PERDEU,TON,225000,100
+"Areia lavada média p/ uso na construção civil - incluso fret",16223203,750,PERDEU,TON,75000,100
+"Areia fina s/ uso na construção civil - incluso frete",15974002,7215,PERDEU,TON,721500,100
+"Areia fina s/ uso na construção civil - incluso frete",16223205,785,PERDEU,TON,78500,100
+"Areia lavada fina (Branca e limpa) para parques - incluso frete",15974003,7215,PERDEU,TON,721500,100
+"Areia lavada fina (Branca e limpa) para parques - incluso frete",16223206,785,PERDEU,TON,78500,100
+"Base de Seixo parcialmente britado com granulometria de até 2''",15974004,6652,VENCEU,TON,432380,65
+"Base de Seixo parcialmente britado com granulometria de até 2''",16223207,348,VENCEU,TON,69600,200

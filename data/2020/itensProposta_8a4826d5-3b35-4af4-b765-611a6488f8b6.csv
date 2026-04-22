@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefônico com fio",4446058,100,DESCLASSIFICADO,UND,5590,55.9
+"APARELHO TELEFONICO SEM FIO",4446059,100,VENCEU,UND,11700,117
+"Apontador sem depósito",4446060,247,DESCLASSIFICADO,UND,66.69,0.27
+"CAIXA PARA CORRESPONDENCIA",4446061,150,VENCEU,UND,4425,29.5
+"Calculadora de mesa 12 digitos",4446062,150,VENCEU,UND,1755,11.7
+"CANETA DESTACA TEXTO",4446063,400,VENCEU,CX,4120,10.3
+"Dispensador de senha",4446064,15,VENCEU,UND,3748.5,249.9
+"Grampeador para papeis",4446065,220,DESCLASSIFICADO,UN,4774,21.7
+"Papel Off-Set, alcalino, formato A-4",4446066,162,INABILITADO,CX,24575.4,151.7
+"Papel Off-Set, alcalino, formato A-4",4446067,488,INABILITADO,CX,74029.6,151.7
+"Pasta plastica de arquivo, com no minimo 25",4446068,474,VENCEU,UN,1019.1,2.15
+"Pasta plastica de arquivo, com no minimo 30",4446069,600,VENCEU,UN,1440,2.4
+"Pasta plastica de arquivo, com no minimo 50",4446070,200,VENCEU,UN,560,2.8
+"Rolo de senha de papel de 2 (dois) digitos",4446071,200,PERDEU,UN,2200,11
+"Tesoura Doméstica",4446072,250,DESCLASSIFICADO,UND,1425,5.7
+"CARTOLINA TAMANHO OFICIO",4446073,30000,PERDEU,UND,5700,0.19
+"Balão tamanho no. 7",4446074,300,PERDEU,PCT,1440,4.8
+"Barbante em algodão fio no.8, 240 gr.",4446075,75,VENCEU,ROLO,352.5,4.7
+"Caixa organizadora  capac. 10 lt",4446076,150,PERDEU,UN,3450,23
+"Caixa organizadora  capac. 20 lt",4446077,150,PERDEU,UN,4890,32.6
+"Lápis colorido",4446078,30,DESCLASSIFICADO,CX,184.5,6.15
+"Papel cartão colorido fosco",4446079,300,PERDEU,UN,231,0.77
+"PASTA SUSPENSA",4446080,25,DESCLASSIFICADO,CX,1747.5,69.9
+"TNT (TECIDO NÃO TEXTURIZADO)",4446081,30,PERDEU,ROLO,2487,82.9
+"Escada de alumino 5 degraus",4446082,70,DESCLASSIFICADO,UN,13790,197
+"Mangueira de jardim",4446083,70,DESCLASSIFICADO,UN,26250,375
+"Refil Mop seco 60 cm",4446084,150,PERDEU,UND,3600,24
+"Papel Higiênico 30m, fardo com 64",4446085,325,PERDEU,FAR,16835,51.8
+"Papel Higiênico 30m, fardo com 64",4446086,975,PERDEU,FAR,50407.5,51.7
+"COPOS DESCARTÁVEIS PARA ÁGUA DE 180ml",4446087,550,VENCEU,UND,35035,63.7
+"Papel toalha interfolhado na cor branca, 2 dobras.",4446088,3500,PERDEU,FAR,24850,7.1

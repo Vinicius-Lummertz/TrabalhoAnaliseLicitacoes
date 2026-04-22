@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caderno Pequeno brochura não reciclado",1297729,6,10000,ATIVO,UNIDADE,7900,0.79
+"Régua escritório 30cm",1297732,47,8000,ATIVO,UNIDADE,3280,0.41
+"Papel Cartao.",1307971,31,20000,ATIVO,UNIDADE,12600,0.63

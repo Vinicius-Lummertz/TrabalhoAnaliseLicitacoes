@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cuba rim, comprimento 26cm, largura 12cm, altura 6cm, capaci",1267684,198,100,ATIVO,UNIDADE,2870,28.7
+"Lençol hospitalar descartável em papel",1267731,115,1800,ATIVO,ROLO,15696,8.72
+"Seringa 20ml, sem agulha",1267732,134,20000,ATIVO,UNIDADE,7800,0.39
+"Seringa 5ml, sem agulha",1267733,136,45000,ATIVO,UNIDADE,5850,0.13
+"Seringa 1ml, sem agulha",1267734,137,15000,ATIVO,UNIDADE,1950,0.13
+"Sonda aspiração traqueal nº 06 em PVC, descartável",1267735,141,8000,ATIVO,UNIDADE,3520,0.44
+"Sonda uretral nº 06, descartável",1267736,175,4000,ATIVO,UNIDADE,1840,0.46
+"Sonda uretral nº 16 descartável",1267737,180,2000,ATIVO,UNIDADE,1220,0.61
+"Esfigmomanômetro Adulto",1267738,197,150,ATIVO,UNIDADE,9660,64.4
+"Lençol descartável com elástico (TNT)",1267752,114,800,ATIVO,PACOTE,9520,11.9
+"Fita adesiva para teste de esterilização em Autoclave",1267801,93,800,ATIVO,UNIDADE,2240,2.8
+"Especulo vaginal, descartável, estéril, sem lubrificação G",1267802,79,3000,ATIVO,UNIDADE,2820,0.94
+"Especulo vaginal, descartável, estéril, sem lubrificação P",1267806,80,18000,ATIVO,UNIDADE,14580,0.81
+"Termômetro clinico digital de testa sem contato.",1267838,201,50,ATIVO,UNIDADE,9750,195
+"Algodão Hidrófilo, 100%.",1267857,12,1000,ATIVO,ROLO,9950,9.95
+"Ataduras de Crepom 8cm",1267858,18,24000,ATIVO,UNIDADE,11040,0.46
+"Ataduras de Crepom 6cm",1267859,23,24000,ATIVO,UNIDADE,8136,0.339
+"Bolsa Coletora de urina sistema fechado  2000mL",1267860,25,1800,ATIVO,UNIDADE,7020,3.9
+"Cadarço sarjado",1267861,26,200,ATIVO,ROLO,660,3.3
+"Caneta para ECG",1267862,27,20,ATIVO,UNIDADE,406,20.3
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",1267863,56,97000,ATIVO,PACOTE,41710,0.43
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",1267864,76,4000,ATIVO,UNIDADE,27280,6.82
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1267878,77,6000,ATIVO,UNIDADE,20700,3.45
+"Equipo tipo Macrogotas para solução parental 60mgts/ml",1328352,75,1000,ATIVO,UNIDADE,1400,1.4
+"Equipo tipo Macrogotas para solução parental 20gotas/ml",1328356,74,30000,ATIVO,UNIDADE,42000,1.4
+"Compressa de gaze (tipo queijo) em rolo",1328358,53,100,ATIVO,ROLO,5180,51.8
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",1328359,52,500,ATIVO,PACOTE,14650,29.3
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",1328360,51,300,ATIVO,PACOTE,15540,51.8
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",1328361,50,900,ATIVO,PACOTE,46620,51.8
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",1328362,55,503000,ATIVO,PACOTE,198685,0.395

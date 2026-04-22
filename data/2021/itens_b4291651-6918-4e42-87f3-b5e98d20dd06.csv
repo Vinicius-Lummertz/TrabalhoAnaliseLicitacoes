@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Curativo de Hidrogel",1334740,2,300,ATIVO,TUB,10500,35
+"Cobertura de ação antimicrobiana 10 cm x 12,5 cm",1334765,20,30,ATIVO,UNIDADE,6990,233
+"Curativo em forma de pomadaq",1334766,18,30,ATIVO,TUB,6780,226
+"Compressa não aderente 20x10cm",1334767,14,1000,ATIVO,UNIDADE,4850,4.85
+"Compressa não aderente 10x10cm",1334768,13,2000,ATIVO,UNIDADE,5500,2.75
+"Dispositivo coletor de exsudato 750ml",1334769,12,5,ATIVO,UNIDADE,6615,1323
+"Dispositivo coletor de exsudato 300ml",1334770,11,8,ATIVO,UNIDADE,3728,466
+"Curativo constituído de espuma em 100% poliuretano 20 cm x 1",1334771,10,8,ATIVO,UNIDADE,6160,770
+"Curativo constituído de espuma em 100% poliuretano 10 cm x 8",1334772,9,15,ATIVO,UNIDADE,8400,560
+"Solução para irrigação/limpeza e descontaminação de feridas",1334773,6,50,ATIVO,FRASCO,7750,155

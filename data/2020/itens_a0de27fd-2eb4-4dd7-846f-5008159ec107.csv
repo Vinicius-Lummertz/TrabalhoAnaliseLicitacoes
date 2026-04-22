@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fabricação e instalação (material+mão de obra) de Corrimão",1299211,2,300,ATIVO,METRO,49995,166.65
+"Fabricação e instalação (material+mão de obra) de lixeira me",1305391,5,100,ATIVO,UNIDADE,44070,440.7
+"Serviço de serralheiro/soldador",1309450,7,120,ATIVO,HORA,10488,87.4
+"Fabricação e instalação (material+mão de obra) de janela bas",1311510,6,150,ATIVO,"METRO QUADRADO",38422.5,256.15
+"Fabricação e instalação (material+mão de obra) de Guarda-cor",1311511,1,300,ATIVO,"METRO QUADRADO",79992,266.64
+"Fabricação e instalação (material+mão de obra) de grade de p",1313484,4,200,ATIVO,UNIDADE,30368,151.84
+"Fabricação e instalação (material+mão de obra) de porta/ Por",1313485,3,150,ATIVO,"METRO QUADRADO",36663,244.42

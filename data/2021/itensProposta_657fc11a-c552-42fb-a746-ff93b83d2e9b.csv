@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,150,PERDEU," ",1149,7.66
+"cobre ½",0,60,PERDEU," ",1057.2,17.62
+"Cano cobre ¼",0,60,PERDEU," ",687,11.45
+"Cano cobre ¾",0,60,PERDEU," ",1585.8,26.43
+"Cano cobre 3/8",0,60,PERDEU," ",951.6,15.86
+"Cano cobre 5/8",0,60,PERDEU," ",1321.2,22.02
+"Cano esponjoso ¼",0,70,PERDEU," ",184.8,2.64
+"Cano esponjoso ½",0,70,PERDEU," ",184.8,2.64
+"Cano esponjoso ¾",0,70,PERDEU," ",184.8,2.64
+"Cano esponjoso 3/8",0,70,PERDEU," ",184.8,2.64
+"Cano esponjoso 5/8",0,70,PERDEU," ",184.8,2.64
+"Capacitor 380V 2 UF",0,10,PERDEU," ",88.1,8.81
+"Capacitor 380V 4 UF",0,10,PERDEU," ",88.1,8.81
+"Capacitor 380V 6 UF",0,10,PERDEU," ",88.1,8.81
+"Capacitor 380V 25 UF",0,10,PERDEU," ",176.2,17.62
+"Capacitor 380V 30 UF",0,10,PERDEU," ",176.2,17.62
+"Capacitor 380V 35 UF",0,10,PERDEU," ",176.2,17.62
+"Capacitor 380V 40 UF",0,10,PERDEU," ",220.2,22.02
+"Capacitor 380V 45 UF",0,10,PERDEU," ",220.2,22.02
+"Capacitor 380V 55 UF",0,10,PERDEU," ",220.2,22.02
+"Chave contactora CWM 09",0,10,PERDEU," ",616.6,61.66
+"Chave contactora CWM 10",0,10,PERDEU," ",616.6,61.66
+"Compressor para Split 9000 BTUS",0,3,PERDEU," ",713.55,237.85
+"Compressor para Split 12000 BTUS",0,3,PERDEU," ",753.18,251.06
+"Compressor para Split 18000 BTUS",0,3,PERDEU," ",967.23,322.41
+"Compressor para Split 24000 BTUS",0,3,PERDEU," ",1109.94,369.98
+"Compressor para Split 30000 BTUS",0,3,PERDEU," ",1635.84,545.28
+"Compressor para Split 60000 BTUS",0,3,PERDEU," ",2502.66,834.22
+"Controle remoto univ. ar split",0,10,PERDEU," ",352.4,35.24
+"Gás R22 (carga)",0,120,PERDEU," ",11628,96.9
+"Gas R410 A (carga)",0,100,PERDEU," ",9690,96.9
+"Hélice ar cond. 7000 a 24.000 BTUS",0,15,PERDEU," ",1321.35,88.09
+"PLACA ELETRONICA",0,10,PERDEU," ",1321.4,132.14
+"Motor do ventilador",0,10,PERDEU," ",969,96.9
+"Suporte split 7/12000btus",0,50,PERDEU," ",1585.5,31.71
+"Suporte split 18/30000btus",0,50,PERDEU," ",1938,38.76
+"Termostato do ar condicionado",0,10,PERDEU," ",88.1,8.81
+"Turbina  do ventilador",0,10,PERDEU," ",969,96.9
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",0,200,PERDEU," ",22904,114.52
+"Limpeza completa do ar split com retirada do aparelho",0,220,PERDEU," ",42636,193.8
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos",0,250,PERDEU," ",25325,101.3

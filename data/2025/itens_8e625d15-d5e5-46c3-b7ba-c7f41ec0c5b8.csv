@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Corpo coreográfico, modelo 02",7503698,2,18,ATIVO,CONJUNTO,13320,740
+"Vestido Banda e Fanfarra,  Modelo 3",7503700,3,32,ATIVO,UNIDADE,23680,740
+"Casaco e saia, Modelo Coreográfico 5",7503701,5,3,ATIVO,UNIDADE,3897,1299
+"Corpo Coreográfico, Modelo 6",7503702,6,15,ATIVO,UNIDADE,14145,943
+"Corpo coreográfico, Modelo 7",7503704,7,18,ATIVO,UNIDADE,9000,500
+"Corpo Musical, Modelo 1",7503705,8,50,ATIVO,CONJUNTO,23250,465
+"Corpo Musical, Modelo 2",7503706,9,45,ATIVO,UNIDADE,63000,1400
+"Conjunto, Modelo Etnia Alemã",7503707,12,20,ATIVO,UNIDADE,46100,2305
+"Conjunto, Modelo Etnia Italiana",7503709,13,20,ATIVO,UNIDADE,50666.6,2533.33
+"Conjunto, Modelo Etnia Portuguesa",7503710,15,20,ATIVO,UNIDADE,54333.4,2716.67
+"Conjunto, Modelo Etnia Polonesa",7503711,16,20,ATIVO,UNIDADE,55000,2750
+"Conjunto, Modelo Etnia Árabe",7503713,17,20,ATIVO,UNIDADE,50274.6,2513.73
+"Conjunto, Modelo Etnia Espanhola",7503714,18,20,ATIVO,UNIDADE,59133.4,2956.67
+"Sapato feminino estilo boneca",7503715,22,350,ATIVO,PAR,52150,149
+"Bota feminina em couro",7503717,28,4,ATIVO,PAR,1920,480
+"Bandeira 1,40 por 80  com suporte",7503718,38,12,ATIVO,UNIDADE,2364,197
+"Bastão de mor",7503719,42,4,ATIVO,UNIDADE,1124,281
+"Conjunto Masculino para Coral",7503720,45,60,ATIVO,UNIDADE,45127.8,752.13
+Casaco,7503722,46,110,ATIVO,UNIDADE,66000,600
+"Bandeira em malha 3m X1,30m",7503723,47,82,ATIVO,UNIDADE,21976,268
+"Conjunto da Banda Masculino e Feminina",7503726,48,90,ATIVO,UNIDADE,53910,599
+"Conjunto de fantasias de Renas",7503727,50,6,ATIVO,UNIDADE,10339.98,1723.33
+"Conjunto de Fantasias Feminino, Colete, Bermuda, Chapéu tipo cartola",7503728,53,6,ATIVO,UNIDADE,10980,1830
+"Macacão e capacete de Mineiro",7503729,54,10,ATIVO,UNIDADE,7000,700
+"Traje de Duende 1 masculino",7503730,56,6,ATIVO,UNIDADE,9698.04,1616.34
+"Vestido Natalino",7503731,58,6,ATIVO,UNIDADE,13300.02,2216.67
+"Traje de Mágico",7503732,59,6,ATIVO,UNIDADE,17980.02,2996.67
+Carruagem,7503733,67,1,ATIVO,UNIDADE,23258,23258
+"Flamula em veludo em formato triangulo",7503734,69,35,ATIVO,UNIDADE,7000,200
+"Estandarte em veludo 1,30 x 1,30 bordado",7503735,70,6,ATIVO,UNIDADE,7200,1200

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",1298800,2,2000,ATIVO,"METRO QUADRADO",72400,36.2
+"Bloco de concreto estrutural, dimensões 14 x 19 x 39 cm, Fck",1307011,8,3400,ATIVO,UNIDADE,8806,2.59
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",1311068,1,30000,ATIVO,"METRO QUADRADO",1051500,35.05

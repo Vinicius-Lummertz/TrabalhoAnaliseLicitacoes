@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carvedilol 25 mg cpr, em blister.",1267912,60,120000,ATIVO,COMPRIMIDO,22800,0.19
+"Carvedilol 12,5 mg cpr, em blister.",1268010,59,120000,ATIVO,COMPRIMIDO,13920,0.116
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextros",1268011,96,2000,ATIVO,AMP,5740,2.87
+"Finasterida 5 mg cpr, em blister.",1268012,120,80000,ATIVO,COMPRIMIDO,30400,0.38
+"Metilfenidato 10 mg cpr, em blister.",1268013,179,180000,ATIVO,COMPRIMIDO,72000,0.4

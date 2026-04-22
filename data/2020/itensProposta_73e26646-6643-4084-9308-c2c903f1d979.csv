@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Controlador Eletrônico microprocessado 8/8 fases",0,3,VENCEU," ",14995,4998.3333
+"Placa/Módulo Controle e Processamento",0,10,PERDEU," ",23050,2305
+"Placa/Módulo de Potência",0,15,PERDEU," ",29100,1940
+"Placa/Módulo Fonte",0,10,PERDEU," ",16200,1620
+"Placa/Módulo Comunicação GPS",0,40,PERDEU," ",88000,2200
+"Grupo Focal Veicular Repetidor 3x200mm I a LED",0,60,VENCEU," ",93984,1566.4
+"Grupo Focal pedestre 2x200mm a LED (quadrado)",0,40,VENCEU," ",66338.8,1658.47
+"Módulo a LED veicular 200mm - Cor: Vermelho",0,50,VENCEU," ",15108.5,302.17
+"Módulo a LED veicular 200mm - Cor: Amarelo",0,40,VENCEU," ",12086.8,302.17
+"Módulo a LED veicular 200mm - Cor: Verde",0,50,VENCEU," ",15258.5,305.17
+"Botoeira para pedestre - tipo convencional",0,10,VENCEU," ",2836,283.6
+"Botoeira para pedestre - tipo sonora",0,50,VENCEU," ",96717,1934.34
+"Módulo a LED pedestre 200x200mm - Cor Vermelho (C/ cronômetr",0,15,VENCEU," ",10271.1,684.74
+"Módulo a LED pedestre 200x200mm - Cor Verde",0,15,VENCEU," ",10051.2,670.08
+"Cabo PP 4x1,5mm",0,1000,VENCEU," ",8100,8.1
+"Cabo PP 3x1,5mm",0,1000,VENCEU," ",6870,6.87
+"Cabo PP 2x1,5mm",0,1000,VENCEU," ",5530,5.53

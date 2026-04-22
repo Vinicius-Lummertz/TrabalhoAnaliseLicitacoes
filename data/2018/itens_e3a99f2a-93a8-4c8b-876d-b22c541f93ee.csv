@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fornecimento de grama Sempre-verde",1297734,2,5000,ATIVO,"METRO QUADRADO",57500,11.5
+"Fornecimento de grama Esmeralda",1303928,1,5000,ATIVO,"METRO QUADRADO",60000,12

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de migração dos dados já existentes para os sistemas",0,1,VENCEU," ",40000,40000
+"Serviço de manutenção mensal, hospedagem e suporte técnico a",0,12,VENCEU," ",180000,15000
+"Hora técnica para atendimento na sede da CONTRATANTE para cu",0,100,VENCEU," ",10000,100
+"Hora técnica para atendimento na sede da CONTRATADA para cus",0,100,VENCEU," ",10000,100

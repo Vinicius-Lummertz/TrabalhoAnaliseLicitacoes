@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",6570318,26,16000,ATIVO,FRASCO,44800,2.8
+"Amoxicilina 500mg.  Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",6570319,28,600000,ATIVO,CAPSULAS,233400,0.389
+"Azitromicina 500mg. Blister com 01 comprimido, ou acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",6570320,35,150000,ATIVO,COMPRIMIDO,127500,0.85
+"Beclometasona 250mcg/dose- frasco 200 doses aerossol oral.",6570321,36,1000,ATIVO,FRASCO,17200,17.2
+"Beclometasona 50mcg/dose- frasco 200 doses aerossol oral.",6570322,37,1000,ATIVO,FRASCO,16000,16
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",6570323,53,1300000,ATIVO,COMPRIMIDO,219700,0.169
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconstituição.",6570324,64,9000,ATIVO,FRASCO,65070,7.23
+"Cinarizina 75mg cpr, em blister.",6570325,69,300000,ATIVO,COMPRIMIDO,126000,0.42
+"Ciprofloxacino 500mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",6570326,70,280000,ATIVO,COMPRIMIDO,106120,0.379
+"Simeticona 75mg/mL solução oral, frasco 10ml.",6570327,101,18000,ATIVO,FRASCO,23400,1.3
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",6570328,104,30000,ATIVO,FRASCO,33900,1.13
+"Enalapril, maleato 10mg cpr, em blister.",6570329,108,2000000,ATIVO,COMPRIMIDO,68000,0.034
+"Furosemida 40mg cpr, em blister.",6570330,133,850000,ATIVO,COMPRIMIDO,37825,0.0445
+"Ibuprofeno 600mg comprimido revestido. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",6570331,150,1200000,ATIVO,COMPRIMIDO,418800,0.349
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",6570332,194,18000,ATIVO,FRASCO,45000,2.5
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",6570333,211,30000,ATIVO,FRASCO,33000,1.1
+"Permetrina 50mg/mL loção, frasco 60ml.",6570334,214,10000,ATIVO,FRASCO,28500,2.85
+"Propranolol 40mg cpr, em blister.",6570335,222,1000000,ATIVO,COMPRIMIDO,26000,0.026
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",6570336,226,20000,ATIVO,FRASCO,266000,13.3
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",6570337,235,7000,ATIVO,FRASCO,6300,0.9
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg, B2 2mg, B1 8mg/ampola), ampola 2ml.",6570338,249,6000,ATIVO,AMP,6000,1
+"Espaçador para administração de medicamentos adulto.",6570339,250,50,ATIVO,AMP,1000,20
+"Espaçador para administração de medicamentos pediátrico.",6570340,251,50,ATIVO,UNIDADE,1000,20

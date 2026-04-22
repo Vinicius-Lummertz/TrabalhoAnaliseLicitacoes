@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulha Vacutainer preta 22G1 nº 7210",4433128,10000,DESCLASSIFICADO,UNI,18200,1.82
+"Agulha verde 21G! nº 7212 de acordo com a NR 32/Portaria GM",4433129,40000,NAO_ANALISADO,UNI,52800,1.32
+"Scalp  25 G azul",4433140,60,NAO_ANALISADO,CX,13636.2,227.27
+"Scalp 21 G verde-cx c/50 unidades",4433141,40,NAO_ANALISADO,CX,9090.8,227.27
+"Pote plástico com tampa de rosca descartável p/ coleta de 60",4433148,65000,NAO_ANALISADO,UNI,16900,0.26
+"Tubo plástico sistema a vácuo p/ glicose 4ml",4433154,18000,NAO_ANALISADO,TEST,8640,0.48
+"Tubo plástico sistema a vácuo p/ hemograma 4 ml com EDTA",4433155,100000,NAO_ANALISADO,UN,48000,0.48
+"Tubo plasticos sistemas a vacuo com gel separados 6 a 10ml",4433156,100000,DESCLASSIFICADO,UN,113000,1.13
+"Tubo plástico seco sistema a vácuo 9 ml",4433157,40000,NAO_ANALISADO,UN,28000,0.7
+"Tubo plástico sistema a vácuo p/ coagulação 4ml com Citrato",4433158,1000,DESCLASSIFICADO,UNI,590,0.59

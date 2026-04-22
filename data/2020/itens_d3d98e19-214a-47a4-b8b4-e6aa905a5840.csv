@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de Ar Condicionado tipo Split HIWALL 30.000 BTU/H",1298677,3,5,ATIVO,UNIDADE,20050,4010
+"Aparelho de Ar Condicionado tipo Split HIWALL 12.000 BTU/H",1306888,1,10,ATIVO,UNIDADE,15440,1544
+"Aparelho de Ar Condicionado tipo Split Piso Teto 60.000 BTU/",1310915,4,5,ATIVO,UNIDADE,40650,8130

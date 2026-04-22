@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa 10ml, sem agulha",1269149,35,50000,ATIVO,UNIDADE,21000,0.42
+"oleo de girassol",1269150,30,3000,ATIVO,UNIDADE,12600,4.2
+"Luva Plástica Estéril.",1269151,26,2400,ATIVO,PACOTE,28440,11.85
+"Luva Nitrilica não Estéril tamanho M cor azul.",1269152,22,750,ATIVO,CAIXA,71280,95.04
+"Lençol descartável com elástico (TNT).",1269153,10,2000,ATIVO,PACOTE,30480,15.24
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",1269154,7,3500,ATIVO,UNIDADE,7000,2
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0.",1269155,6,150,ATIVO,CAIXA,4672.5,31.15

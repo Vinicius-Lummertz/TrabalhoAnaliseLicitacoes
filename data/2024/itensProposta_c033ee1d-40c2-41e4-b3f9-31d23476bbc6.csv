@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9900,0.33
+"Alopurinol 100mg cpr, em blister.",16295817,750000,DESCLASSIFICADO,COMP,97500,0.13
+"Aminofilina 100mg, em blister.",16295818,1000,PERDEU,COMP,100,0.1
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",16295901,30000,PERDEU,FR.,47400,1.58
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,PERDEU,AM,77460,12.91
+"Estrogênios conjugados 0,625mg cpr, em blister.",16295914,70000,VENCEU,COMP,63000,0.9
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10 a 15gr.",16295996,20000,PERDEU,BIS,47200,2.36
+"Omeprazol 20mg capsula, em blister.",16296005,3500000,PERDEU,CPLA,210000,0.06
+"Ibuprofeno 100mg/mL, solução oral, frasco 20ml.",16296061,20000,PERDEU,FRA,66000,3.3

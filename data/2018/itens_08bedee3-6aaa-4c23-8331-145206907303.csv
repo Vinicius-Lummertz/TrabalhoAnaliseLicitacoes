@@ -1,0 +1,20 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tampa Universal LuerLock, estéril, epirogênica",1262600,231,200,ATIVO,UNIDADE,34,0.17
+"Pote para coleta de urina, fezes e secreção",1262631,169,60000,ATIVO,UNIDADE,15000,0.25
+"Luva Cirúrgica estéril Nº. 9,0",1262632,143,200,ATIVO,PAR,248,1.24
+"Lençol hospitalar descartável em papel.",1262633,137,700,ATIVO,ROLO,6559,9.37
+"Kit citologia - 01 escova endocervical + 01 espátula de aire",1262634,126,18000,ATIVO,UNIDADE,6300,0.35
+Histerômetro,1262635,125,15,ATIVO,UNIDADE,465,31
+"Estetoscópio  adulto",1262636,101,150,ATIVO,UNIDADE,8400,56
+"Dispositivo para infusão endovenosa, n°21",1262637,73,20000,ATIVO,UNIDADE,3280,0.164
+"Dispositivo para incontinência Urinária Masculina Nº07",1262638,71,100,ATIVO,UNIDADE,83,0.83
+"Cateter Intravenoso n°14 G",1262639,50,1000,ATIVO,UNIDADE,1560,1.56
+"Cânula de Traqueostomia de silicone com balonete número 8,5",1262640,49,3,ATIVO,UNIDADE,60.66,20.22
+"Cânula de Traqueostomia de silicone com balonete número 8,0",1262641,48,3,ATIVO,UNIDADE,61.38,20.46
+"Cânula de Traqueostomia de silicone com balonete número 7,5",1262642,47,3,ATIVO,UNIDADE,59.88,19.96
+"Cânula de Traqueostomia de silicone com balonete número 7,0",1262644,46,3,ATIVO,UNIDADE,56.52,18.84
+"Anuscópio fenestrado",1262645,17,50,ATIVO,UNIDADE,74,1.48
+"Anuscópio fechado",1262646,16,50,ATIVO,UNIDADE,69,1.38
+"Cânula de Traqueostomia de silicone com balonete número 6,5",1262658,45,5,ATIVO,UNIDADE,87.5,17.5
+"Sonda nasal para alimentação enteral nº 15",1262693,214,100,ATIVO,UNIDADE,1170,11.7
+"Compressa Cirúrgica, Campo Operatório, não descartável 45cm",1328316,62,500,ATIVO,PACOTE,26950,53.9

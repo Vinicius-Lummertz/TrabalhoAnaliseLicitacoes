@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fonte para HP ProDesk 400",5997500,23,2,ATIVO,UNIDADE,490,245
+"Fonte para Lenovo S510",5997501,24,2,ATIVO,UNIDADE,610,305
+"Microfone de Lapela",5997502,31,4,ATIVO,UNIDADE,823.2,205.8
+"Patch Panel 24 Portas para Hack",5997503,45,2,ATIVO,UNIDADE,1240,620
+"Pilha AA Alcalina Industrial",5997504,47,1000,ATIVO,CARTELA,18840,18.84
+"Pilha AAA Alcalina Industrial",5997505,48,500,ATIVO,CARTELA,9635,19.27

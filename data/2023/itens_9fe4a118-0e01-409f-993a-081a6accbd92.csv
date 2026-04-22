@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Achocolatado líquido.",4309042,1,1200,ATIVO,UNIDADE,1548,1.29
+"Suco de frutas liquido, 200 ml",4309043,2,1200,ATIVO,UNIDADE,1620,1.35
+"PROTETOR LABIAL",4309044,6,100,ATIVO,UNIDADE,499,4.99
+"absorvente pct com 8 unidades",4309045,7,250,ATIVO,PACOTE,725,2.9
+"Aparelho de barbear",4309046,10,1200,ATIVO,UNIDADE,5040,4.2
+"CORTADOR DE UNHA.",4309047,11,50,ATIVO,UNIDADE,472.5,9.45
+"Bisnaga plastica",4309048,12,120,ATIVO,UNIDADE,324,2.7

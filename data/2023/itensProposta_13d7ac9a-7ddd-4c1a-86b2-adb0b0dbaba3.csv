@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",11374630,10000,VENCEU,M2,399000,39.9
+"Bloco de concreto modelo briquete, com 28 x 18,5 x 8 cm",11374632,1500,PERDEU,M2,75300,50.2
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",11374633,2000,PERDEU,M2,100400,50.2
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",11374635,6000,PERDEU,m,177120,29.52
+"Tampas de boca de Lobo",11374637,2000,VENCEU,UND,398000,199

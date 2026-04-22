@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",15454453,1,VENCEU,UND,13235.43,68.5
+"Escavadeira XCMG XE215BR",15454454,2,PERDEU,UND,26470.58,11
+"Fresadora Wirtgen W100",15454455,1,PERDEU,UND,13235.29,15
+"Minicarregadeira Caterpillar 246C",15454456,1,VENCEU,UND,13235.29,61.5
+"Minicarregadeira New Holland L325",15454457,1,PERDEU,UND,13235.29,11
+"Motoniveladora New Holland RG170",15454458,2,VENCEU,UND,26470.58,40.5
+"Motoniveladora New Holland RG170B",15454459,1,PERDEU,UND,13235.29,11
+"Pá Carregadeira Doosan SD200-3",15454460,1,VENCEU,UN,13235.29,43.5
+"Pá Carregadeira Hyundai HL 740-9S",15454461,1,PERDEU,UN,13235.29,11
+"Pá Carregadeira Michigan 55C",15454462,1,VENCEU,UN,13235.29,62.5
+"Pá Carregadeira New Holland W130",15454463,2,PERDEU,UN,26470.58,11
+"Retroescavadeira JCB 3CX",15454464,3,PERDEU,UND,39705.87,11
+"Retroescavadeira JCB 3CXB",15454465,1,VENCEU,UND,13235.29,60.5
+"Retroescavadeira New Holland LB110",15454466,2,PERDEU,UND,26470.58,11
+"Retroescavadeira Randon RD406",15454467,1,PERDEU,UND,13235.29,11
+"Retroescavadeira Randon RD406B",15454468,1,PERDEU,UND,13235.29,11
+"Retroescavadeira XCMG XT870BR-I",15454469,1,VENCEU,UND,13235.29,65.5
+"Rolo Compactador Bomag BW212 D40",15454470,1,PERDEU,UN,13235.29,11
+"Rolo Compactador Hamm",15454471,1,VENCEU,UN,13235.29,65.5
+"Rolo Compactador Liu Gong",15454472,1,VENCEU,UN,13235.29,68.5
+"Rolo Compactador Tema Terra SP8000",15454473,1,VENCEU,UN,13235.29,65.5
+"Rolo Compactador Muller VAP55",15454474,1,PERDEU,UN,13235.29,11
+"Trator Agrícola Budny 7540",15454476,1,PERDEU,UN,13235.29,11
+"Trator Agrícola LS PLUS100",15454477,1,VENCEU,UN,13235.29,69.5
+"Trator Agrícola New Holland T6.110",15454478,1,PERDEU,UN,13235.29,11
+"Trator Agrícola New Holland TT4030",15454479,1,VENCEU,UN,13235.29,74
+"Trator de Esteira John Deere 750J",15454480,1,PERDEU,UND,13235.29,11
+"Vibroacabadora Ciber AF4000",15454481,1,PERDEU,UN,13235.29,11

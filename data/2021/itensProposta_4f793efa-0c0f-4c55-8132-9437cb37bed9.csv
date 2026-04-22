@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A4, folha branca",4504574,2000,VENCEU,UND,440,0.22
+"Impressão colorida, tamanho A4, folha branca",4504575,1000,VENCEU,UND,970,0.97
+"Impressão preto e branco, tamanho A3, folha branca",4504576,1000,VENCEU,UND,1000,1
+"Impressão colorida, tamanho A3, folha branca",4504577,500,VENCEU,UND,1045,2.09
+"Impressão colorida em papel fotográfico",4504578,4,VENCEU,M2,328,82
+"impressão de etiqueta adesiva 45x15mm",4504579,1000,VENCEU,UND,130,0.13
+"Encadernação em espiral até 100 folhas tamanho A4 com capa p",4504580,200,VENCEU,UND,1400,7
+"Encadernação em espiral acima de 100 folhas tamanho A4 com c",4504581,50,VENCEU,UND,400,8
+"Cartão de visita com laminação fosca e verniz, gramatura 200",4504582,1000,VENCEU,UND,300,0.3
+"Confecção de crachá padrão",4504583,50,VENCEU,UND,350,7
+"Serviço de arte finalista",4504584,50,PERDEU,HORA,2150,43
+"Plotagem de vidros",4504585,50,PERDEU,M2,4000,80
+"PLOTAGEM DE VEÍCULO",4504586,200,PERDEU,M2,20200,101

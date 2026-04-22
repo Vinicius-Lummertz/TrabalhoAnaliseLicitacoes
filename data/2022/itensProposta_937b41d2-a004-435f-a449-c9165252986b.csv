@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico, frasco 1lt",8483335,13500,PERDEU,UNI,103545,7.67
+"Álcool gel 70% 400g a 500g",8483336,7500,PERDEU,UN,84450,11.26
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",8483375,1500,PERDEU,PCT,221835,147.89
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",8483376,1200,PERDEU,PCT,47304,39.42
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",8483379,637500,PERDEU,PCT,599250,0.94
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",8483419,15000,PERDEU,UNI,85050,5.67
+"Luva de Látex não esteril tamanho P",8483454,3750,PERDEU,CX,112425,29.98
+"Luva de Látex não esteril tamanho M.",8483455,6000,PERDEU,CX,179880,29.98
+"Luva Nitrílica não esteril para procedimento tamanho P.",8483458,3375,PERDEU,CX,109012.5,32.3
+"Luva Nitrílica não esteril para procedimento tamanho M",8483459,3375,PERDEU,CX,109012.5,32.3
+"OLEO DE GIRASSOL 200ML",8483468,9000,PERDEU,FRA,81900,9.1
+"Preservativos Masculinos de 52 mm, com lubrificante",8483473,187500,VENCEU,UN,48750,0.26
+"Sonda uretral nº 12 descartável",8483523,101250,VENCEU,UN,53662.5,0.53
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",8483527,28500,PERDEU,UNI,174990,6.14
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",8483528,33750,PERDEU,UNI,230175,6.82
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",8483529,10500,PERDEU,UN,93030,8.86

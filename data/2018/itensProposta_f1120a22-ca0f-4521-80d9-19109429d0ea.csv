@@ -1,0 +1,475 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SELADOR ACRILICO GALAO 3,6LT",0,10,VENCEU," ",158.67,15.8673
+"TINTA PARA PISO, COR A ESCOLHER, LATA 18 L",0,5,VENCEU," ",966.37,193.2737
+"Anel de vedação sanitário",0,15,NAO_COTOU," ",0,0
+"Luva esgoto 40mm leve.",0,15,NAO_COTOU," ",0,0
+"Registro de gaveta 2; bruto",0,15,NAO_COTOU," ",0,0
+"Registro de gaveta 3/4; (base)",0,15,NAO_COTOU," ",0,0
+"Registro de pressão 3/4; (base)",0,15,NAO_COTOU," ",0,0
+"Registro pvc esfera 20mm.",0,15,NAO_COTOU," ",0,0
+"Registro PVC esfera 25mm;",0,15,NAO_COTOU," ",0,0
+"Registro PVC esfera 32mm.",0,15,NAO_COTOU," ",0,0
+"Registro PVC esfera 50mm.",0,15,NAO_COTOU," ",0,0
+"REGULADOR DE GAS aliança ref 504/01 media",0,15,NAO_COTOU," ",0,0
+"Reparo para válvula descarga. 1 1/2",0,15,NAO_COTOU," ",0,0
+"Resistência p/ Chuveiro 3 temperaturas Tensão 220V Potência",0,30,NAO_COTOU," ",0,0
+"Resistência p/ Chuveiro 3 temperaturas Tensão 220V,potência",0,30,NAO_COTOU," ",0,0
+"Sifão copo com tubo extensivo",0,15,NAO_COTOU," ",0,0
+"Sifão p/ lavatório cromado universal 1,20mt",0,15,NAO_COTOU," ",0,0
+"Sifão p/ mictório de louça cromado c/copo",0,15,NAO_COTOU," ",0,0
+"Sifão p/ pia de cozinha universal branco 1,20mt",0,15,NAO_COTOU," ",0,0
+"Tampa p/ bacio (assento plástico) branco convencional",0,15,NAO_COTOU," ",0,0
+"te esgoto  40mm",0,15,NAO_COTOU," ",0,0
+"te esgoto  50mm",0,15,NAO_COTOU," ",0,0
+"te esgoto  75mm",0,15,NAO_COTOU," ",0,0
+"te esgoto 100mm",0,15,NAO_COTOU," ",0,0
+"te esgoto redução  75 x 50mm",0,15,NAO_COTOU," ",0,0
+"te esgoto redução 100 x 50mm",0,15,NAO_COTOU," ",0,0
+"te esgoto redução 100 x 75mm",0,15,NAO_COTOU," ",0,0
+"te LR azul com bucha metal 25 x 1/2",0,15,NAO_COTOU," ",0,0
+"te LR azul com bucha metal 25 x 3/4",0,15,NAO_COTOU," ",0,0
+"Te redução soldavel 50x25mm",0,15,NAO_COTOU," ",0,0
+"Te soldável 20 mm",0,15,NAO_COTOU," ",0,0
+"TE SOLDAVEL 25MM",0,15,NAO_COTOU," ",0,0
+"Te soldavel 32mm",0,15,NAO_COTOU," ",0,0
+"te soldável 40mm",0,15,NAO_COTOU," ",0,0
+"te soldável 50mm",0,15,NAO_COTOU," ",0,0
+"Te soldavel 75mm",0,15,NAO_COTOU," ",0,0
+"Torneira elétrica 220v 5500watts.",0,5,NAO_COTOU," ",0,0
+"Torneira jardim 1/2 PVC",0,15,NAO_COTOU," ",0,0
+"Torneira jardim 3/4 PVC",0,15,NAO_COTOU," ",0,0
+"torneira jardim metal esfera 1/2",0,15,NAO_COTOU," ",0,0
+"Torneira metal p/ lavatório 1/2  simples",0,15,NAO_COTOU," ",0,0
+"Torneira metal p/ pia cozinha 1/2 simples",0,15,NAO_COTOU," ",0,0
+"Tubo descarga para valvula c/joelho azul",0,15,NAO_COTOU," ",0,0
+"tubo esgoto  75mm.",0,60,NAO_COTOU," ",0,0
+"Tubo esgoto 100mm.",0,240,NAO_COTOU," ",0,0
+"tubo esgoto 150mm.",0,90,NAO_COTOU," ",0,0
+"Tubo esgoto 40mm.",0,120,NAO_COTOU," ",0,0
+"tubo esgoto  50mm",0,120,NAO_COTOU," ",0,0
+"TUBO PARA CAIXA DE DESCARGA COM CURVA",0,15,NAO_COTOU," ",0,0
+"Tubo Soldável 20mm.",0,90,NAO_COTOU," ",0,0
+"Tubo soldavel 25mm.",0,90,NAO_COTOU," ",0,0
+"Tubo soldavel 32mm.",0,90,NAO_COTOU," ",0,0
+"Tubo soldavel 40mm.",0,90,NAO_COTOU," ",0,0
+"Tubo soldavel 50mm.",0,90,NAO_COTOU," ",0,0
+"Tubo soldavel 60mm.",0,90,NAO_COTOU," ",0,0
+"União de mangueira 1/2 PVC",0,15,NAO_COTOU," ",0,0
+"União de mangueira 3/4 PVC",0,15,NAO_COTOU," ",0,0
+"válvula de descarga (base) 1.1/2",0,15,NAO_COTOU," ",0,0
+"VASO SANITÁRIO LOUÇA BRANCA (SEM CAIXA)",0,10,NAO_COTOU," ",0,0
+"vedante torneira 1/2",0,15,NAO_COTOU," ",0,0
+"vedante torneira 3/4",0,15,NAO_COTOU," ",0,0
+"ABRAÇADEIRA, MATERIAL NYLON, TIPO COM RANHURAS, 100 x 2,5mm",0,20,VENCEU," ",78.14,3.907
+"ABRAÇADEIRA, MATERIAL NYLON, TIPO COM RANHURAS, 200 x 4,8mm",0,20,VENCEU," ",145.92,7.2962
+"ABRAÇADEIRA, MATERIAL NYLON, TIPO COM RANHURAS, 400 x 4,8mm",0,20,VENCEU," ",1024.71,51.2355
+"ADAPTADOR LAMP.SOQUETE / ROSCA / SOQUETE NOME ADAPTADO",0,20,VENCEU," ",149.04,7.4518
+"ADAPTADOR LAMP.SOQUETE / ROSCA / SOQUETE,  NOME ADAPTADO",0,20,VENCEU," ",149.04,7.4518
+"BOCAL PORCELANA E-27",0,20,VENCEU," ",72.51,3.6254
+"BOCAL PVC E-27",0,10,VENCEU," ",30.35,3.0352
+"CABO (PP) PARA EXTENSÃO DE FIO 2X1,5mm",0,500,VENCEU," ",807.45,1.6149
+"CABO (PP) PARA EXTENSÃO DE FIO 2X2,5mm",0,300,VENCEU," ",647.91,2.1597
+"CABO (PP) PARA EXTENSÃO DE FIO 3X2,5mm",0,200,VENCEU," ",1140.16,5.7008
+"CABO (PP) PARA EXTENSÃO DE FIO 3X4,0mm",0,300,VENCEU," ",1756.92,5.8564
+"Cabo de rede computador azul 8 x 24wg",0,200,VENCEU," ",25.94,0.1297
+"Caixa de luz 4x2 amarela",0,50,VENCEU," ",56.42,1.1285
+"Caixa de luz 4x4 amarela",0,50,VENCEU," ",87.56,1.7511
+"Caixa passagem concreto 46x70 padrao celesc",0,5,VENCEU," ",64.86,12.971
+"Caixa Versátil Disjntor 15A c/ Tomada 20A",0,20,VENCEU," ",478.37,23.9186
+"Calha p/ lampada fluorescente de embutir 1x40W cor branca.",0,20,VENCEU," ",259.42,12.971
+"Calha p/ lampada fluorescente de embutir 2x40W cor branca",0,20,VENCEU," ",194.57,9.7283
+"CANALETA SISTEMA X COM DIVISORIA 20X10 MM 210 M BRANCA - ade",0,100,VENCEU," ",461.12,4.6112
+"CANALETA SISTEMA X COM DIVISORIA 50X20 MM 210 M BRANCA - ade",0,100,VENCEU," ",2195.99,21.9599
+"Central disribuição PVC ext. p/ 2 disjuntores",0,5,VENCEU," ",16.21,3.2428
+"Central distribuição PVC ext. p/ 4 disjuntores",0,5,VENCEU," ",32.43,6.4855
+"CONDUITE CORRUGADO PVC FLEXÍVEL  AMARELO 1/2",0,300,VENCEU," ",233.49,0.7783
+"CONDUITE CORRUGADO PVC FLEXÍVEL  AMARELO 3/4",0,300,VENCEU," ",272.4,0.908
+"Disjuntor 10A monofásico preto",0,10,VENCEU," ",90.47,9.0473
+"Disjuntor 15A monofásico preto",0,15,VENCEU," ",135.71,9.0473
+"Disjuntor 20A monofásico preto",0,15,VENCEU," ",135.71,9.0473
+"Disjuntor 25A monofásico preto",0,15,VENCEU," ",135.71,9.0473
+"Disjuntor 30A monofásico preto",0,15,VENCEU," ",216.06,14.4043
+"Disjuntor 40A monofásico preto",0,15,VENCEU," ",97.28,6.4855
+"Disjuntor 50A monofásico preto",0,15,VENCEU," ",97.28,6.4855
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 10A",0,30,VENCEU," ",296.52,9.8839
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 16A",0,30,VENCEU," ",296.52,9.8839
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 20A",0,30,VENCEU," ",296.52,9.8839
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 25A",0,30,VENCEU," ",296.52,9.8839
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 32A",0,30,VENCEU," ",296.52,9.8839
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 40A",0,30,VENCEU," ",97.28,3.2428
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 50A",0,30,VENCEU," ",97.28,3.2428
+"DISJUNTOR BRANCO MONOFASICO(CURVA C) 63A",0,30,VENCEU," ",97.28,3.2428
+"DISJUNTOR TRIFASICO 10A PRETO",0,50,VENCEU," ",2222.91,44.4582
+"DISJUNTOR TRIFASICO 15A PRETO",0,30,VENCEU," ",1333.75,44.4582
+"DISJUNTOR TRIFASICO 20A PRETO",0,30,VENCEU," ",1333.75,44.4582
+"DISJUNTOR TRIFASICO 25A PRETO",0,30,VENCEU," ",1333.75,44.4582
+"DISJUNTOR TRIFASICO 30A PRETO",0,30,VENCEU," ",97.28,3.2428
+"DISJUNTOR TRIFASICO 40A PRETO",0,30,VENCEU," ",97.28,3.2428
+"DISJUNTOR TRIFASICO 50A PRETO",0,30,VENCEU," ",97.28,3.2428
+"FILTRO DE LINHA COM 6 TOMADAS padrão novo",0,10,VENCEU," ",235.68,23.5683
+"Fio p/ eletricidade rigido 1,5mm",0,300,VENCEU," ",190.68,0.6356
+"Fio p/ eletricidade rigido 10,0mm",0,300,VENCEU," ",1225.77,4.0859
+"Fio p/ eletricidade rigido 2,5mm",0,300,VENCEU," ",278.22,0.9274
+"Fio p/ eletricidade rigido 4,0mm",0,300,VENCEU," ",515.61,1.7187
+"Fio p/ eletricidade rigido 6,0mm",0,300,VENCEU," ",636.24,2.1208
+"Fio p/ Telefone 1 par C.C.I (interno)",0,300,VENCEU," ",107.01,0.3567
+"FIO PARA ELETRICIDADE FLEXÍVEL 1,5mm²",0,500,VENCEU," ",97.3,0.1946
+"FIO PARA ELETRICIDADE FLEXÍVEL 10,0mm²",0,500,VENCEU," ",129.7,0.2594
+"FIO PARA ELETRICIDADE FLEXÍVEL 2,5mm²",0,500,VENCEU," ",337.25,0.6745
+"FIO PARA ELETRICIDADE FLEXÍVEL 4,0mm²",0,500,VENCEU," ",674.5,1.349
+"FIO PARA ELETRICIDADE FLEXÍVEL 6,0mm²",0,500,VENCEU," ",1015,2.03
+"FITA ISOLANTE AUTO FUSÃO 5mt",0,10,VENCEU," ",6.49,0.6486
+"FITA ISOLANTE ELÉTRICA.",0,50,VENCEU," ",281.14,5.6229
+"Haste terra 1,5mt com presilha;",0,5,VENCEU," ",54.96,10.9929
+"interruptor (sistema X) 1 tecla paralelo 10A c/placa e cx br",0,10,VENCEU," ",66.02,6.6022
+"interruptor (sistema X) 1 tecla simples 10A c/placa e cx bra",0,10,VENCEU," ",51.88,5.1884
+"interruptor (sistema X) 2 tecla simples 10A c/placa e cx bra",0,10,VENCEU," ",78.41,7.841
+"interruptor (sistema X) 3 tecla simples 10A c/placa e cx bra",0,10,VENCEU," ",96.96,9.6958
+"Interruptor Bipolar com placa 1 tecla",0,30,VENCEU," ",19.46,0.6486
+"interruptor embutir 1 tecla paralelo 10A c/placa branco",0,50,VENCEU," ",270.44,5.4089
+"interruptor embutir 1 tecla simples 10A c/placa branco",0,30,VENCEU," ",92.81,3.0936
+"interruptor embutir 1 tecla simples+tomada 10A c/placa branc",0,30,VENCEU," ",197.09,6.5698
+"interruptor embutir 2 tecla simples 10A c/placa branco",0,30,VENCEU," ",171.22,5.7072
+"interruptor embutir 2 tecla simples+tomada 10A c/placa branc",0,30,VENCEU," ",321.23,10.7076
+"interruptor embutir 3 tecla simples 10A c/placa branco",0,10,VENCEU," ",87.75,8.7749
+"Interruptor monopolar",0,30,VENCEU," ",410.53,13.6844
+"Interruptor Tripolar com placa",0,30,VENCEU," ",1368.18,45.6061
+"Lâmpada compacta Eletrônica  15W X 220V 3U",0,200,VENCEU," ",1694.02,8.4701
+"Lâmpada compacta Eletrônica  20W X 220V 3U",0,200,VENCEU," ",2219.34,11.0967
+"Lâmpada compacta Eletrônica  25W X 220V 3U",0,200,VENCEU," ",3533.3,17.6665
+"Lâmpada compacta eletrônica 30W x 220v espiral",0,100,VENCEU," ",2204.42,22.0442
+"Lâmpada compacta Eletrônica  45W X 220V espiral",0,200,VENCEU," ",7449.26,37.2463
+"Lâmpada compacta Eletrônica  60W X 220V espiral",0,200,VENCEU," ",9729.56,48.6478
+"LAMPADA FLUORESCENTE  20W",0,500,VENCEU," ",2435.3,4.8706
+"LAMPADA FLUORESCENTE 40W",0,500,VENCEU," ",2876.3,5.7526
+"Lampada LED - Bulbo E27 - 12w",0,200,VENCEU," ",3028.74,15.1437
+"Lampada LED - Bulbo E27 - 15w",0,200,VENCEU," ",3563.14,17.8157
+"Lampada LED - Bulbo E27 - 36w",0,10,VENCEU," ",836.18,83.6177
+"Lampada LED - Bulbo E27 - 50w",0,10,VENCEU," ",1140.22,114.0217
+"Lampada LED - Bulbo E27 - 5w",0,200,VENCEU," ",1503.34,7.5167
+"Lampada LED - Bulbo E27 - 6w",0,200,VENCEU," ",1601.92,8.0096
+"Lampada LED - Bulbo E27 - 7w",0,200,VENCEU," ",1800.38,9.0019
+"Lampada LED - Bulbo E27 - 9w",0,200,VENCEU," ",1911.92,9.5596
+"LAMPADA TUBOLAR LED 0,60MT 10WTS",0,300,VENCEU," ",1945.65,6.4855
+"LAMPADA TUBOLAR LED 1,20MT 20WTS",0,300,VENCEU," ",2334.78,7.7826
+"LÂMPADA VAPOR METÁLICO 400W 220V E-40 TUBULAR",0,100,VENCEU," ",1945.65,19.4565
+"LUMINÁRIA - PLAFON - POTÊNCIA MÁXIMA 100W BRANCO",0,100,VENCEU," ",347.62,3.4762
+"LUMINÁRIA COMPLETA C/LAMPADA LED 1X20WTS COMPRIMENTO 1,20MT",0,20,VENCEU," ",129.71,6.4855
+"LUMINÁRIA COMPLETA C/LAMPADA LED 2X20WTS COMPRIMENTO 1,20MT",0,20,VENCEU," ",259.42,12.971
+"Luminárias de emergência com 30 leds brancos",0,20,VENCEU," ",324.28,16.2138
+"Luva PVC p/ eletroduto 1 roscável",0,10,VENCEU," ",7.52,0.7523
+"Luva PVC p/ eletroduto 1/2 roscável",0,10,VENCEU," ",3.89,0.3891
+"Luva PVC p/ eletroduto 3/4 roscável",0,10,VENCEU," ",5.32,0.5318
+"Passa Fio 20 Metros",0,5,VENCEU," ",25.94,5.1884
+"Pilha AA com quatro unidades",0,20,VENCEU," ",221.54,11.0772
+"PINO FEMEA 10A CINZA",0,50,VENCEU," ",64.86,1.2971
+"PINO FEMEA 2P+T 20AMP",0,30,VENCEU," ",38.91,1.2971
+"PINO MACHO 10A",0,50,VENCEU," ",64.86,1.2971
+"PINO MACHO 2P+T 20AMP",0,30,VENCEU," ",38.91,1.2971
+"PINO TRES SAIDAS (T) 10AMP",0,20,VENCEU," ",25.94,1.2971
+"PLACA CEGA 4x2",0,10,VENCEU," ",14.85,1.4852
+"PLACA CEGA 4x4",0,10,VENCEU," ",37.36,3.7357
+"Plug adaptador 2P+T padrão antigo p/ novo",0,25,VENCEU," ",123.06,4.9225
+"Reator eletronico 1x20watts",0,100,VENCEU," ",259.42,2.5942
+"Reator eletronico 1x40watts",0,100,VENCEU," ",259.42,2.5942
+"Reator eletronico 2x20watts",0,150,VENCEU," ",389.13,2.5942
+"Reator eletronico 2x40watts",0,150,VENCEU," ",389.13,2.5942
+"REATOR VM 400 WTS",0,100,VENCEU," ",259.42,2.5942
+"REFLETOR 1 X 400W VM ALUMINIO",0,100,VENCEU," ",259.42,2.5942
+"REFLETOR LED ALUMINIO 6400K (100w)",0,10,VENCEU," ",1945.65,194.5653
+"REFLETOR LED ALUMINIO 6400K (10w)",0,10,VENCEU," ",389.13,38.9131
+"REFLETOR LED ALUMINIO 6400K (30w)",0,10,VENCEU," ",648.55,64.8551
+"REFLETOR LED ALUMINIO 6400K (50w)",0,10,VENCEU," ",1167.39,116.7392
+"Sensor de presença.",0,50,VENCEU," ",810.69,16.2138
+"Soquete lampada fluorescente",0,200,VENCEU," ",25.94,0.1297
+"Starter p/ Lampada Fluorescente",0,200,VENCEU," ",25.94,0.1297
+"TEMPORIZADOR ANALOGICO",0,3,VENCEU," ",68.18,22.7252
+"tomada (sistema X) 2p+t 10A c/placa e cx  branco",0,50,VENCEU," ",337.24,6.7449
+"tomada (sistema X) 2p+t 20A c/placa e cx branco",0,10,VENCEU," ",78.86,7.8864
+"tomada (sistema X) p/computador tipo rj 45 c/placa e cx bran",0,10,VENCEU," ",98.71,9.8709
+"tomada (sistema X) p/telefone c/adap americano c/placa e cx",0,10,VENCEU," ",79.97,7.9966
+"tomada embutir 2p+t 10A c/placa branco",0,50,VENCEU," ",215.32,4.3064
+"tomada embutir 2p+t 20A c/placa branco",0,10,VENCEU," ",61.09,6.1093
+"tomada embutir p/telefone c/adap americano c/placa branco",0,30,VENCEU," ",187.36,6.2455
+"tomada embutir rede computador tipo rj 45 c/placa branco",0,30,VENCEU," ",538.17,17.9389
+"TOMADA TRIFÁSICA EXTERNA",0,30,VENCEU," ",162.85,5.4284
+"TUBO ELETRODUTO PVC RÍGIDO ROSCÁVEL PRETO 1 3mt",0,10,VENCEU," ",66.8,6.6801
+"TUBO ELETRODUTO PVC RÍGIDO ROSCÁVEL PRETO 1/2  3mt",0,10,VENCEU," ",29.44,2.9444
+"TUBO ELETRODUTO PVC RÍGIDO ROSCÁVEL PRETO 3/4 3mt",0,10,VENCEU," ",39.24,3.9237
+"TUBO ESPIRAL ORGANIZADOR DE FIOS 1/2",0,30,VENCEU," ",122.96,4.0988
+"Abraçadeira em Nylon 110 mm² (cor preta ou branca, comprimen",0,30,DESCLASSIFICADO," ",1232.68,41.08933
+"Abraçadeira em Nylon 51 mm² (cor preta ou branca, compriment",0,30,DESCLASSIFICADO," ",1268.96,42.2988
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 1/2",0,50,DESCLASSIFICADO," ",28.83,0.5766
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 1/4",0,50,DESCLASSIFICADO," ",28.83,0.5766
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 3/16",0,50,DESCLASSIFICADO," ",33.28,0.6657
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 3/8",0,50,DESCLASSIFICADO," ",22.88,0.4577
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 5/16",0,50,DESCLASSIFICADO," ",42.2,0.8441
+"ABRAÇADEIRA ROSCA SEM FIM REGULÁVEL 5/8",0,50,DESCLASSIFICADO," ",33.28,0.6657
+"ADESIVO POLIURETANO 500ML (ESPUMA EXPANSIVA)",0,15,DESCLASSIFICADO," ",107,7.133
+"Alicate Bico Meia Cana 6 polegadas",0,5,DESCLASSIFICADO," ",49.99,9.9981
+"Alicate de corte diagonal 6.",0,5,DESCLASSIFICADO," ",49.16,9.8317
+"Alicate isolado universal 8 com isolamento",0,5,DESCLASSIFICADO," ",65.09,13.0178
+"ALICATE PARA CRIMPAR RJ 45",0,3,DESCLASSIFICADO," ",57.83,19.277
+"Alicate pressão 10",0,3,DESCLASSIFICADO," ",69.76,23.2536
+"Alicate rebitator profissional",0,3,DESCLASSIFICADO," ",63.07,21.0246
+"ARALDITE CINZA 23GR 10minutos",0,10,DESCLASSIFICADO," ",124.12,12.4115
+"ARAME GALVANIZADO 16",0,15,DESCLASSIFICADO," ",104.5,6.9666
+"ARAME GALVANIZADO N. 18",0,15,DESCLASSIFICADO," ",125.72,8.3813
+"ARAME GALVANIZADO N. 14",0,15,DESCLASSIFICADO," ",97.01,6.4673
+"ARAME RECOZIDO",0,30,DESCLASSIFICADO," ",130.89,4.363
+"ARCO DE SERRA",0,3,DESCLASSIFICADO," ",22.04,7.347
+"ARO DE FERRO PARA CARRINHO DE MAO",0,2,DESCLASSIFICADO," ",19.34,9.6712
+"Arruela lisa 1/2.",0,10,DESCLASSIFICADO," ",75.61,7.561
+"Arruela lisa 1/4.",0,10,DESCLASSIFICADO," ",37.45,3.7448
+"Arruela lisa 3/8.",0,10,DESCLASSIFICADO," ",32.87,3.2871
+"Arruela lisa 5/16.",0,10,DESCLASSIFICADO," ",41.67,4.1669
+"Balde de ferro galvanizado 10 litros",0,5,DESCLASSIFICADO," ",24.16,4.8326
+"BARRA ROSCÁVEL 1/2",0,15,DESCLASSIFICADO," ",83.37,5.5578
+"BARRA ROSCÁVEL 1/4",0,15,DESCLASSIFICADO," ",28.09,1.8724
+"BARRA ROSCÁVEL 3/8",0,15,DESCLASSIFICADO," ",53.23,3.5487
+"BARRA ROSCÁVEL 5/16",0,15,DESCLASSIFICADO," ",36.02,2.4014
+"Bota borracha preta c/ forro cano médio adulto",0,10,DESCLASSIFICADO," ",164.18,16.4178
+"BOTINA COM ELÁSTICO SOLADO PU  (qualquer numeração)",0,20,DESCLASSIFICADO," ",461.86,23.0931
+"BROCA DE AÇO RAPIDO 10MM",0,10,DESCLASSIFICADO," ",85.83,8.5834
+"Broca de aço rapido 3mm",0,10,DESCLASSIFICADO," ",20.8,2.0805
+"Broca de aço rapido 4mm",0,10,DESCLASSIFICADO," ",23.54,2.3539
+"BROCA DE AÇO RAPIDO 5MM",0,10,DESCLASSIFICADO," ",26.69,2.6689
+"BROCA DE AÇO RAPIDO 6MM",0,10,DESCLASSIFICADO," ",30.02,3.0018
+"BROCA DE AÇO RAPIDO 7MM",0,10,DESCLASSIFICADO," ",35.66,3.5665
+"BROCA DE AÇO RAPIDO 8MM",0,10,DESCLASSIFICADO," ",47.85,4.7851
+"BROCA DE AÇO RAPIDO 9MM",0,10,DESCLASSIFICADO," ",60.51,6.0512
+"BROCA DE VIDEA 10MM",0,10,DESCLASSIFICADO," ",65.21,6.5208
+"BROCA DE VIDEA 4MM",0,10,DESCLASSIFICADO," ",20.63,2.0626
+"BROCA DE VIDEA 5MM",0,10,DESCLASSIFICADO," ",22.88,2.2885
+"BROCA DE VIDEA 6MM",0,10,DESCLASSIFICADO," ",39.59,3.9588
+"BROCA DE VIDEA 7MM",0,10,DESCLASSIFICADO," ",29.96,2.9959
+"BROCA DE VIDEA 8MM",0,10,DESCLASSIFICADO," ",34.6,3.4595
+"BROCA DE VIDEA 9MM",0,10,DESCLASSIFICADO," ",36.62,3.6616
+"BUCHA PLÁSTICA 10 MM",0,10,DESCLASSIFICADO," ",30.2,3.0196
+"BUCHA PLASTICA 12mm",0,10,DESCLASSIFICADO," ",36.26,3.626
+"BUCHA PLASTICA 5mm.",0,10,DESCLASSIFICADO," ",6.66,0.6657
+"BUCHA PLASTICA 6mm.",0,10,DESCLASSIFICADO," ",12.66,1.2661
+"BUCHA PLASTICA 7mm",0,10,DESCLASSIFICADO," ",15.69,1.5693
+"BUCHA PLASTICA 8mm",0,10,DESCLASSIFICADO," ",16.94,1.6941
+"CABO DE AÇO GALVANIZADO 1/4 (6.4mm)",0,100,DESCLASSIFICADO," ",249.06,2.4906
+"CABO DE AÇO GALVANIZADO 1/8 (3.2mm)",0,100,DESCLASSIFICADO," ",147.42,1.4742
+"CABO DE AÇO GALVANIZADO 3/16 (4,8mm)",0,100,DESCLASSIFICADO," ",169.41,1.6941
+"Cabo p/ Enxada",0,10,DESCLASSIFICADO," ",42.02,4.2025
+"Cabo p/ lima 8 a 10",0,20,DESCLASSIFICADO," ",84.53,4.2263
+"Cabo p/ pá de cavar",0,10,DESCLASSIFICADO," ",33.82,3.3822
+"Cabo p/ pá de juntar",0,10,DESCLASSIFICADO," ",40.54,4.0539
+"CABO P/ PICARETA",0,5,DESCLASSIFICADO," ",30.85,6.1701
+"CADEADO 20mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",62.95,6.2949
+"CADEADO 25mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",72.28,7.2281
+"CADEADO 30mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",83.04,8.304
+"CADEADO 35mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",104.08,10.4083
+"CADEADO 40mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",121.86,12.1856
+"CADEADO 45mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",139.03,13.9034
+"CADEADO 50mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",185.22,18.5221
+"CADEADO 60mm (MARCA PADO)",0,10,DESCLASSIFICADO," ",275.22,27.5216
+"Camara de ar p/ pneu do carrinho de mão",0,10,DESCLASSIFICADO," ",97.54,9.7544
+"Carrinho de Mão c/ pneu e camara de ar",0,5,DESCLASSIFICADO," ",257.09,51.4172
+"CHAPEU DE PALHA",0,12,DESCLASSIFICADO," ",100.08,8.3397
+"Chave ajustavel 10mm.",0,3,DESCLASSIFICADO," ",50.77,16.9231
+"Chave ajustavel 12mm.",0,3,DESCLASSIFICADO," ",65.27,21.7557
+"Chave ajustavel 6mm",0,3,DESCLASSIFICADO," ",39.87,13.2912
+"Chave ajustavel 8mm.",0,3,DESCLASSIFICADO," ",57.76,19.2532
+"Chave de fenda 1/4x4 (polegadas)",0,3,DESCLASSIFICADO," ",7.13,2.3777
+"Chave de fenda 1/4x5 (polegadas)",0,3,DESCLASSIFICADO," ",9.06,3.0196
+"Chave de fenda 1/4x6 (polegadas)",0,3,DESCLASSIFICADO," ",9.5,3.1682
+"Chave de fenda 1/4x8 (polegadas)",0,3,DESCLASSIFICADO," ",10.74,3.5784
+"Chave de fenda 1/8x3  (polegadas)",0,3,DESCLASSIFICADO," ",3.05,1.0165
+"Chave de fenda 1/8x4 (polegadas)",0,3,DESCLASSIFICADO," ",4.32,1.4385
+"Chave de fenda 1/8x6 (polegadas)",0,3,DESCLASSIFICADO," ",4.17,1.3909
+"Chave de fenda 3/16x4 (polegadas)",0,3,DESCLASSIFICADO," ",7.04,2.348
+"Chave de fenda 3/16x6 (polegadas)",0,3,DESCLASSIFICADO," ",9.97,3.3228
+"Chave de fenda 3/8x10 (polegadas)",0,3,DESCLASSIFICADO," ",16.6,5.534
+"Chave de fenda 3/8x6 (polegadas)",0,3,DESCLASSIFICADO," ",14.03,4.6781
+"Chave de fenda 3/8x8 (polegadas).",0,3,DESCLASSIFICADO," ",15.55,5.1833
+"Chave de fenda 5/16x8 (polegadas)",0,3,DESCLASSIFICADO," ",22.33,7.4421
+"Chave de fenda cotoco 1/4x1.1/2 (polegadas)",0,3,DESCLASSIFICADO," ",5.4,1.8011
+"Chave phillips 1/4x4 (polegadas)",0,1,DESCLASSIFICADO," ",2.97,2.9661
+"Chave phillips 1/4x5 (polegadas)",0,3,DESCLASSIFICADO," ",9.26,3.085
+"Chave phillips 1/4x6 (polegadas).",0,3,DESCLASSIFICADO," ",11.98,3.9945
+"Chave phillips 1/4x8 (polegadas).",0,3,DESCLASSIFICADO," ",12.86,4.2858
+"Chave phillips 1/8x3 (polegadas).",0,3,DESCLASSIFICADO," ",5.47,1.8249
+"Chave phillips 3/16x4 (polegadas).",0,3,DESCLASSIFICADO," ",7.24,2.4133
+"Chave phillips 3/16x5 (polegadas)",0,3,DESCLASSIFICADO," ",7.61,2.5382
+"Chave phillips 3/16x6 (polegadas).",0,3,DESCLASSIFICADO," ",7.92,2.6392
+"Chave phillips 3/8x8 (polegadas)",0,3,DESCLASSIFICADO," ",17.71,5.9026
+"Chave phillips 5/16x6 (polegadas).",0,3,DESCLASSIFICADO," ",13.09,4.363
+"Chave phillips 5/16x8 (polegadas).",0,3,DESCLASSIFICADO," ",16.01,5.3379
+"Chave phillips cotoco 1/4x1.1/2 (polegadas)",0,3,DESCLASSIFICADO," ",5.62,1.8724
+"Chave phillips cotoco 3/16x1.1/12 (polegadas)",0,3,DESCLASSIFICADO," ",5.53,1.8427
+"Chave teste 1/8 X 3",0,3,DESCLASSIFICADO," ",10.02,3.3406
+"CILINDRO P/ FECHADURA STAM",0,12,DESCLASSIFICADO," ",121.55,10.1289
+"CLIPS P/ CABO DE ACO 1/8",0,100,DESCLASSIFICADO," ",50.53,0.5053
+"Cola Branca  1kg",0,10,DESCLASSIFICADO," ",171.67,17.1668
+"Cola instantânea super aderente 5g (tipo super bonder)",0,10,DESCLASSIFICADO," ",65.27,6.5267
+"Cola madeira 100GR",0,10,DESCLASSIFICADO," ",42.32,4.2323
+"Colher de Pedreiro nº 08",0,3,DESCLASSIFICADO," ",24.95,8.3159
+"Corda poliester/ seda trançada 10mm",0,200,DESCLASSIFICADO," ",241.34,1.2067
+"Corda poliester/ seda trançada 12mm",0,200,DESCLASSIFICADO," ",301.96,1.5098
+"Corda poliester/ seda trançada 16mm",0,200,DESCLASSIFICADO," ",423.22,2.1161
+"Corda poliester/ seda trançada 2mm",0,200,DESCLASSIFICADO," ",121.26,0.6063
+"Corda poliester/ seda trançada 4mm",0,200,DESCLASSIFICADO," ",180.7,0.9035
+"Corda poliester/ seda trançada 8mm",0,200,DESCLASSIFICADO," ",217.56,1.0878
+"Desempenadeira aço dentada 12X24",0,3,DESCLASSIFICADO," ",13.29,4.4284
+"Desempenadeira aço lisa",0,3,DESCLASSIFICADO," ",13.61,4.5354
+"Desempenadeira plastica c/ espuma 17x30",0,3,DESCLASSIFICADO," ",23.2,7.7334
+"Desengripante 300ml.",0,15,DESCLASSIFICADO," ",93.71,6.2473
+"Disco de Corte Diamantado Segmentado 110x 20mm - 4.3/8 x 3/4",0,10,DESCLASSIFICADO," ",102.6,10.2597
+"DISCO DE CORTE FINO INOX/ALUMINIO 4.1/2X115mm",0,8,DESCLASSIFICADO," ",20.07,2.5084
+"Disco para ferro 12x1.",0,5,DESCLASSIFICADO," ",46.07,9.2135
+"Disco refratário 12.",0,5,DESCLASSIFICADO," ",57.36,11.4723
+"Dobradiça p/ Porta 3",0,20,DESCLASSIFICADO," ",34.71,1.7357
+"DUREPOXI 100g",0,10,DESCLASSIFICADO," ",49.57,4.9574
+"enxada com cabo 20 cm",0,12,DESCLASSIFICADO," ",304.58,25.3817
+"Enxada s/ cabo",0,10,DESCLASSIFICADO," ",141.95,14.1947
+"ESCOVA ACO",0,3,DESCLASSIFICADO," ",10.47,3.4892
+"Espátula de aço c/ cabo nº 10",0,3,DESCLASSIFICADO," ",8.86,2.9543
+"Esquadro 30 centímetros 12",0,3,DESCLASSIFICADO," ",24.06,8.0187
+"Estopa p/ limpeza (desfiada)",0,15,DESCLASSIFICADO," ",106.46,7.0974
+"Facão 18.",0,5,DESCLASSIFICADO," ",56.38,11.2761
+"Fechadura externa cromada maçaneta L",0,25,DESCLASSIFICADO," ",588.03,23.5211
+"Fechadura Interna Cromada",0,25,DESCLASSIFICADO," ",379.39,15.1755
+"Fechadura p/ gaveta 31mm",0,25,DESCLASSIFICADO," ",123.34,4.9337
+"Fechadura p/ WC",0,25,DESCLASSIFICADO," ",366.16,14.6465
+"Fechadura para armário redonda",0,25,DESCLASSIFICADO," ",196.46,7.8582
+"FITA ADESIVA SILVER TAPE 45mm X 5mts",0,15,DESCLASSIFICADO," ",76.14,5.0763
+"Fita dupla face fixa forte 12mm X 3mts",0,15,DESCLASSIFICADO," ",123.31,8.2208
+"JOGO DE SERRA COPO EM AÇO CARBONO 5 PEÇAS",0,3,DESCLASSIFICADO," ",46.04,15.3479
+"Lamina máquina cortar grama 1",0,5,DESCLASSIFICADO," ",90.65,18.1298
+"Lamina máquina cortar grama 2",0,5,DESCLASSIFICADO," ",90.65,18.1298
+"Lamina Serra Dente 18 Bi-Metal",0,5,DESCLASSIFICADO," ",9.06,1.813
+"Lamina Serra Dente 24 Bi-Metal",0,5,DESCLASSIFICADO," ",9.06,1.813
+"lapis carpinteiro",0,50,DESCLASSIFICADO," ",96.6,1.9319
+"LIMA CHATA BASTARDA 8",0,3,DESCLASSIFICADO," ",14.5,4.8326
+"LIMA CHATA MURÇA 8",0,3,DESCLASSIFICADO," ",18.14,6.0452
+"LIMA MEIA CANA BASTARDA 8",0,3,DESCLASSIFICADO," ",81.58,27.1946
+"LIMA MEIA CANA MURÇA 8",0,3,DESCLASSIFICADO," ",54.39,18.1298
+"LIMA QUADRADA BASTARDA 8",0,3,DESCLASSIFICADO," ",27.19,9.0649
+"LIMA QUADRADA MURÇA 8",0,3,DESCLASSIFICADO," ",30.81,10.2715
+"LIMA REDONDA BASTARDA 8",0,3,DESCLASSIFICADO," ",31.87,10.6223
+"LIMA REDONDA MURÇA 8",0,3,DESCLASSIFICADO," ",39.87,13.2912
+"LIMA TRIANGULAR BASTARDA 8",0,3,DESCLASSIFICADO," ",35.59,11.8646
+"LIMA TRIANGULAR MURÇA 8",0,3,DESCLASSIFICADO," ",30.81,10.2715
+"Linha nylon 080 100mt",0,3,DESCLASSIFICADO," ",16.07,5.3557
+"LINHA NYLON LARANJA QUADRADA 3,00mm",0,500,DESCLASSIFICADO," ",294.25,0.5885
+"Lona plástica em polietileno c/ 4mt de largura (cor preta)",0,200,DESCLASSIFICADO," ",326.94,1.6347
+"desingripante 300ml",0,36,DESCLASSIFICADO," ",239.88,6.6634
+"LUVA MALHA 4 FIOS BRANCA PIGMENTADA BOLINHA",0,24,DESCLASSIFICADO," ",48.93,2.0389
+"Luva raspa de couro cano curto",0,10,DESCLASSIFICADO," ",77.99,7.7988
+"machadinha com cabo",0,3,DESCLASSIFICADO," ",28.5,9.4988
+"Manta asfaltica aluminizada adesiva 10cm larg X 10mts",0,20,DESCLASSIFICADO," ",237.77,11.8884
+"Manta asfaltica aluminizada adesiva 20cm larg X 10mts",0,20,DESCLASSIFICADO," ",475.53,23.7767
+"Marreta 1kg com cabo",0,3,DESCLASSIFICADO," ",41.75,13.9153
+"Martelo Carpinteiro 25 mm",0,2,DESCLASSIFICADO," ",24.4,12.1975
+"mascara descartavel facial s/valvula PFF1",0,50,DESCLASSIFICADO," ",66.87,1.3374
+"Mola aérea para porta",0,5,DESCLASSIFICADO," ",407.89,81.578
+"MOSQUETÃO C/ ROSCA 1/4",0,20,DESCLASSIFICADO," ",59.8,2.9899
+"MOTOCOMPRESSOR DE AR 2HP 24 LITROS 8 Bar",0,1,DESCLASSIFICADO," ",361.36,361.3646
+"Nylon p/ Máquina de Cortar Grama 10 mt",0,20,DESCLASSIFICADO," ",38.04,1.9021
+"Oculos proteção incolor com haste",0,20,DESCLASSIFICADO," ",76.8,3.8399
+"Óleo mineral multiuso p/ manutenção de máquinas 100g",0,10,DESCLASSIFICADO," ",27.1,2.7105
+"Pá de Corte s/ cabo",0,5,DESCLASSIFICADO," ",58.28,11.6565
+"Pá de juntar s/ cabo",0,5,DESCLASSIFICADO," ",58.28,11.6565
+"Parafuso 3,5mm x 30 philips bicromatizado",0,10,DESCLASSIFICADO," ",17.54,1.7535
+"Parafuso 4,0mm x 40 philips bicromatizado",0,10,DESCLASSIFICADO," ",43.33,4.3333
+"Parafuso 4,5mm x 40 philips bicromatizado",0,10,DESCLASSIFICADO," ",48.92,4.8921
+"Parafuso 5,0mm x 40 philips bicromatizado",0,10,DESCLASSIFICADO," ",52.37,5.2368
+"Parafuso 5,00mm x 50 phillips bicromatizado",0,10,DESCLASSIFICADO," ",120.84,12.0845
+"Parafuso 6,0mm x 40 philips bicromatizado",0,10,DESCLASSIFICADO," ",95.7,9.5701
+"Pé de cabra 3/4x80cm",0,3,DESCLASSIFICADO," ",66.11,22.0351
+"PENEIRA PARA AREIA",0,3,DESCLASSIFICADO," ",35.52,11.8408
+"Picareta s/ cabo",0,3,DESCLASSIFICADO," ",58.03,19.3424
+"Pistola Aplicar Silicone",0,5,DESCLASSIFICADO," ",46.1,9.2194
+"Pneu p/ carrinho de mão",0,5,DESCLASSIFICADO," ",83.55,16.7091
+"PNEU PARA CARRINHO DE MÃO 3,25 X 8",0,10,DESCLASSIFICADO," ",161.03,16.1028
+"PNEU PARA CARRINHO DE MÃO 3,50 X 8",0,10,DESCLASSIFICADO," ",312.37,31.2367
+"PORCA AÇO INOX 1/2",0,100,DESCLASSIFICADO," ",78.46,0.7846
+"PORCA AÇO INOX 1/4",0,100,DESCLASSIFICADO," ",25.56,0.2556
+"PORCA AÇO INOX 3/8",0,100,DESCLASSIFICADO," ",32.1,0.321
+"PORCA AÇO INOX 5/16",0,100,DESCLASSIFICADO," ",21.99,0.2199
+"Prego 10 X 10",0,10,DESCLASSIFICADO," ",84.76,8.4764
+"Prego 12 x 12",0,10,DESCLASSIFICADO," ",62.12,6.2117
+"Prego 17 x 27",0,10,DESCLASSIFICADO," ",43.04,4.3036
+"Prego 18 x 24",0,10,DESCLASSIFICADO," ",45.89,4.5889
+"Prego 19 x 36",0,10,DESCLASSIFICADO," ",50.11,5.0109
+"Prego telheiro 18x30",0,10,DESCLASSIFICADO," ",78.58,7.8582
+"PRENDEDOR DE PORTA P/PISO FZ CROMADO",0,15,DESCLASSIFICADO," ",83.01,5.534
+"PRUMO 400GR",0,3,DESCLASSIFICADO," ",27.66,9.2194
+"Rebite N° 319",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 406",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 408",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 410",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 416",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 506",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 516",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 535",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 612",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 616",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"Rebite N° 622",0,10,DESCLASSIFICADO," ",5.94,0.5944
+"RODA COMPLETA FERRO P/ CARRINHO DE MÃO PNEU/CAMARA S/ EIXO",0,8,DESCLASSIFICADO," ",301.68,37.7099
+"Serra Copo 1 (7pçs)",0,10,DESCLASSIFICADO," ",169.23,16.9231
+"Serra Copo 2 (7pçs)",0,10,DESCLASSIFICADO," ",193.36,19.3364
+"SERRA WIDEA PARA MAQUITA 110MM 24D",0,20,DESCLASSIFICADO," ",181.3,9.0649
+"Serrote temperado 22",0,3,DESCLASSIFICADO," ",53.78,17.9277
+"Tela galvanizada arame 12 malha 8",0,50,DESCLASSIFICADO," ",377.76,7.5551
+"Tela p/ Viveiro de nylon 1MT",0,50,DESCLASSIFICADO," ",166.14,3.3228
+"Trapo p/ limpeza",0,20,DESCLASSIFICADO," ",79.41,3.9707
+"TRENA 30 METROS",0,20,DESCLASSIFICADO," ",59.44,2.9721
+"Trena 5Mtx19mm c/ trava",0,20,DESCLASSIFICADO," ",241.69,12.0845
+"Trena com 3 metros",0,10,DESCLASSIFICADO," ",48.92,4.8921
+"VASELINA LIQUIDA SPRAY 300ml",0,15,DESCLASSIFICADO," ",181.27,12.0845
+"vassoura grama de aço c/ cabo regulável",0,5,DESCLASSIFICADO," ",14.86,2.9721
+"ADITIVO CAL 1Lt (LIQUICAL)",0,15,VENCEU," ",75.63,5.042
+"AREIA BARRENTA",0,15,VENCEU," ",443.64,29.5758
+"Areia Lavada;",0,15,VENCEU," ",851.86,56.7908
+"AREIA MASSA FINA",0,15,VENCEU," ",1116.81,74.4542
+"Argamassa colante tipo AC I 20kg",0,50,VENCEU," ",267.04,5.3408
+"Argamassa colante tipo AC II 20kg",0,50,VENCEU," ",675.88,13.5175
+"Azulejo 30X60 branco",0,100,VENCEU," ",1190.52,11.9052
+"AZULEJO ESMALTADO LISO BRANCO 45X45",0,200,VENCEU," ",2401.2,12.006
+"Bloco concreto 14x19x39cm",0,200,VENCEU," ",961.62,4.8081
+"CAL HIDRAULICA 20KG",0,25,VENCEU," ",245.98,9.8394
+"Cal para pintura 8kg.",0,100,VENCEU," ",791.76,7.9176
+"Cimento saco 50 kg",0,200,VENCEU," ",5604.22,28.0211
+"Cumeeira de Cimento Amianto.",0,25,VENCEU," ",760.63,30.4252
+"Cumeeira espigão 0,90mm X 6mm.",0,25,VENCEU," ",380.22,15.209
+"Cumeeira espigão 1,83mm X 6mm.",0,25,VENCEU," ",734,29.3599
+"Espaçador 3mm p/ piso",0,10,VENCEU," ",26.42,2.6416
+"Espaçador 5mm p/ piso",0,10,VENCEU," ",26.42,2.6416
+"Ferro p/ Construção 1/2 - 12 metros",0,20,VENCEU," ",731.59,36.5793
+"Ferro p/ Construção 1/4 - 12 metros",0,20,VENCEU," ",205.43,10.2713
+"Ferro p/ construção 3/8 - 12 metros",0,20,VENCEU," ",530.19,26.5095
+"Ferro p/ construção 4,2 - 12 metros",0,50,VENCEU," ",241.12,4.8225
+"Ferro p/ construção 5/16 - 12 metros",0,50,VENCEU," ",880.66,17.6131
+"Maderite 2,20 x 1,10 x 10 mm",0,20,VENCEU," ",607.78,30.3892
+"MASSA MULTIUSO 20KG (PRONTA)",0,50,VENCEU," ",348.02,6.9603
+"Meio Fio 0,8 x 0,25 x 0,80cm",0,15,VENCEU," ",252.21,16.8141
+"Parafuso para telha de amianto 110mm",0,100,VENCEU," ",33.83,0.3383
+"Pedra brita 0",0,15,VENCEU," ",972.78,64.8523
+"Pedra brita 1",0,15,VENCEU," ",972.78,64.8523
+"Pedra brita 2",0,15,VENCEU," ",972.78,64.8523
+"Pedra brita 3/4",0,15,VENCEU," ",976.13,65.0754
+"PEDRA BRITA 3/8",0,15,VENCEU," ",972.78,64.8523
+"PISO CERÂMICO 45X45",0,20,VENCEU," ",246.89,12.3443
+"Piso de borracha em placa 500 X 500mm (preto, esp 3,5mm)",0,50,VENCEU," ",539.84,10.7967
+"PLACA CIMENTICIA 6mm SEM AMIANTO",0,10,VENCEU," ",520.4,52.0402
+"Porta interna de madeira semioca 80x2,10m.",0,25,VENCEU," ",1346.35,53.854
+"REJUNTE PARA CERAMICA",0,20,VENCEU," ",45.35,2.2673
+"Rodapé de madeira (espessura 20mm X altura 40mm)",0,200,VENCEU," ",961.62,4.8081
+"TABUA PINUS P/ CAIXARIA 15 cm",0,5,VENCEU," ",2001.5,400.2992
+"TABUA PINUS P/ CAIXARIA 20 cm",0,5,VENCEU," ",2001.5,400.2992
+"TABUA PINUS P/ CAIXARIA 25cm",0,5,VENCEU," ",40.45,8.0903
+"TABUA PINUS PK/ CAIXARIA 30cm",0,5,VENCEU," ",2001.5,400.2992
+"TELHA BRASILIT 2,44 X 0,50 X 0,04mm SEM AMIANTO",0,200,VENCEU," ",2008.2,10.041
+"TELHA BRASILIT 2,44 X 1,10 X 0,05mm SEM AMIANTO",0,200,VENCEU," ",5899.32,29.4966
+"TELHA BRASILIT 2,44 X 1,10 X 0,06mm SEM AMIANTO",0,200,VENCEU," ",7910.4,39.552
+"TELHA FIBRA INCOLOR 2,44x0,51x0,4mm",0,100,VENCEU," ",359.89,3.5989
+"TELHA FIBRA INCOLOR 2,44x1,10x0,6mm",0,100,VENCEU," ",359.89,3.5989
+"TIJOLO GRANDE 9 FUROS (11.5x14x24)",0,5,VENCEU," ",2516.79,503.3575
+"TIJOLO MEDIO 6 FUROS (9x14x19,5)",0,5,VENCEU," ",1391.45,278.2891
+"Vedacit 18 Lt",0,5,VENCEU," ",426.51,85.3013
+"Vedacit 3,6 Lt",0,5,VENCEU," ",170.19,34.0385

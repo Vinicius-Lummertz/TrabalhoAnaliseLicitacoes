@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Diagnóstico,13640273,1,VENCEU,SV,70000,70000
+Regulamento,13640274,1,VENCEU,SV,120000,120000
+"Minutas padronizadas",13640275,2,VENCEU,SV,20000,10000
+Treinamento,13640276,1,VENCEU,SV,15000,15000
+Assessoria,13640277,20,VENCEU,SV,22400,1120

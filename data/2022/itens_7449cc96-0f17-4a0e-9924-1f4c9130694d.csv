@@ -1,0 +1,91 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",3312419,2,1000,ATIVO,GALÃO,12000,12
+"Agulhas hipodérmicas 20mmX5,5mm.",3312420,6,200,ATIVO,CAIXA,1554,7.77
+"Álcool etílico 70° antisséptico, frasco 1lt",3312421,13,4500,ATIVO,UNIDADE,25425,5.65
+"Anuscópio fechado",3312422,19,50,ATIVO,UNIDADE,150.5,3.01
+"Aparelho para Tricotomia Descartável",3312423,21,1500,ATIVO,UNIDADE,870,0.58
+"Ataduras de Crepom 08 cm de largura  1.80 m de comprimento",3312424,22,30000,ATIVO,UNIDADE,19800,0.66
+"Ataduras de Crepom 12 cm de largura 1.80 m de comprimento",3312425,24,40000,ATIVO,UNIDADE,37200,0.93
+"Ataduras de Crepom 15 cm de largura 1.80 m de comprimento",3312426,25,40000,ATIVO,UNIDADE,46400,1.16
+"Ataduras de Crepom 20 cm de largura 1.80 m de comprimento",3312427,26,20000,ATIVO,UNIDADE,31200,1.56
+"Bolsa coletora de urina de perna, 500 a 750ml.",3312428,28,750,ATIVO,UNIDADE,2722.5,3.63
+"Cânula de Traqueostomia de silicone com balonete número 4,0",3312429,32,10,ATIVO,UNIDADE,178.1,17.81
+"Cânula de Traqueostomia de silicone com balonete nº 4,5",3312430,33,10,ATIVO,UNIDADE,200,20
+"Cânula de Traqueostomia de silicone com balonete nº 5",3312431,34,10,ATIVO,UNIDADE,200,20
+"Cânula de Traqueostomia de silicone com balonete número 5,5",3312432,35,10,ATIVO,UNIDADE,200,20
+"Cânula de traqueostomia de silicone com balonete nº 6",3312433,36,10,ATIVO,UNIDADE,190,19
+"Cânula de Traqueostomia de silicone com balonete nº 6,5",3312434,37,10,ATIVO,UNIDADE,180,18
+"Cânula de Traqueostomia de silicone com balonete nº 7",3312435,38,10,ATIVO,UNIDADE,190,19
+"Cânula de Traqueostomia de silicone com balonete nº 7,5",3312436,39,10,ATIVO,UNIDADE,190,19
+"Cânula de traqueostomia de silicone com banolete nº 8",3312437,40,10,ATIVO,UNIDADE,170,17
+"Coletor Infantil com furo recortado, unissex, com furo oval.",3312438,51,3000,ATIVO,UNIDADE,1860,0.62
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem). Caixa com 500 adesivos.",3312439,62,2000,ATIVO,CAIXA,21560,10.78
+"Dispositivo para incontinência Urinária Masculina Nº 05 sem",3312440,66,4000,ATIVO,UNIDADE,4000,1
+"Dispositivo para incontinência Urinária Masculina Nº06 sem e",3312441,67,4000,ATIVO,UNIDADE,4000,1
+"Dreno Penrose Esterilizado Nº 1",3312442,73,200,ATIVO,UNIDADE,282,1.41
+"Dreno Penrose Esterilizado Nº 2.",3312443,74,300,ATIVO,UNIDADE,531,1.77
+"Eletrodo Para Monitorização Cardíaca c/ Gel-   Adulto",3312444,75,30000,ATIVO,UNIDADE,7500,0.25
+"Envelopes auto selantes 250mmx350mm.",3312445,78,200,ATIVO,CAIXA,188,0.94
+"Equipo tipo microgotas para solução parental - 60 mgts/ml",3312446,81,1000,ATIVO,UNIDADE,1590,1.59
+"Especulo vaginal, descartável, estéril, sem lubrificação P",3312447,82,22000,ATIVO,UNIDADE,25520,1.16
+"Fio absorvível de Catgut Simples amarelo no. 2,0.",3312448,86,10,ATIVO,CAIXA,900,90
+"Fio absorvível de Catgut Simples amarelo no 3,0.",3312449,87,10,ATIVO,CAIXA,900,90
+"Fio absorvível de Catgut Simples amarelo no. 4,0.",3312450,88,10,ATIVO,CAIXA,900,90
+"Fio absorvível de Catgut Simples CIRC. 3,0 cmNº. 2-0",3312451,89,10,ATIVO,CAIXA,900,90
+"Fio absorvível de Catgut 4,0  cm fio 75 cm de comp. Nº. 2-0",3312452,90,10,ATIVO,CAIXA,900,90
+"Fio cirúrgico preto monofilamentar de poliamida no. 5,0. Características: Agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento",3312453,97,80,ATIVO,CAIXA,2700,33.75
+"Fio cirúrgico preto monofilamentar de poliamida no. 6,0. Características: Agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº. 6-0 (Mononylon)",3312454,98,60,ATIVO,CAIXA,2025,33.75
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",3312455,108,1200,ATIVO,UNIDADE,1800,1.5
+"Haste flexível de algodão",3312456,111,800,ATIVO,CXA,848,1.06
+"Kit de nebulização adulto",3312457,117,500,ATIVO,UNIDADE,2855,5.71
+"Kit de nebulização infantil",3312458,118,200,ATIVO,UNIDADE,1142,5.71
+"Kit Parto, Contendo no mínimo os seguintes materiais..",3312459,119,20,ATIVO,kit,1025,51.25
+"Lâmina de Bisturi descartável Nº.12",3312460,121,120,ATIVO,CAIXA,3456,28.8
+"Lâmina de Bisturi descartável Nº.15",3312461,122,150,ATIVO,CAIXA,4320,28.8
+"Lâmina de Bisturi descartável Nº.20",3312462,123,40,ATIVO,CAIXA,1152,28.8
+"Lâmina de Bisturi descartável Nº.22",3312463,124,30,ATIVO,CAIXA,864,28.8
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",3312464,150,150,ATIVO,UNIDADE,1134,7.56
+"Máscara facial de oxigênio venturi/infantil, não estéril (Ki",3312465,151,151,ATIVO,UNIDADE,1121.93,7.43
+"Máscara de oxigênio com bolsa reservatório e de não reinalaç",3312466,152,1000,ATIVO,UNIDADE,6070,6.07
+"Máscara de oxigênio com reservatório e de não reinalação Inf",3312467,153,300,ATIVO,UNIDADE,1890,6.3
+"Óculos para proteção profissional",3312468,154,500,ATIVO,UNIDADE,1875,3.75
+"Seringa 3ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",3312469,168,15000,ATIVO,UNIDADE,2400,0.16
+"Seringa 20ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",3312470,171,40000,ATIVO,UNIDADE,20800,0.52
+"Sonda aspiração traqueal nº 06 em PVC, descartável.",3312471,175,8000,ATIVO,UNIDADE,4400,0.55
+"Sonda aspiração traqueal nº 08 em PVC, descartável.",3312472,176,20000,ATIVO,UNIDADE,11200,0.56
+"Sonda aspiração traqueal nº 10 em PVC, descartável",3312473,177,20000,ATIVO,UNIDADE,11200,0.56
+"Sonda aspiração traqueal nº 12 em PVC, descartável",3312474,178,20000,ATIVO,UNIDADE,12000,0.6
+"Sonda aspiração traqueal nº 14 em PVC, descartável",3312475,179,20000,ATIVO,UNIDADE,12400,0.62
+"Sonda aspiração traqueal nº 16 em PVC, descartável",3312476,180,2000,ATIVO,UNIDADE,1360,0.68
+"Sonda de borracha tipo foley, 2 vias, calibre nº 12",3312477,182,200,ATIVO,CAIXA,580,2.9
+"Sonda de borracha tipo foley, 2 vias, calibre nº 14",3312478,183,200,ATIVO,CAIXA,618,3.09
+"Sonda de borracha tipo foley, 2 vias, calibre nº 16",3312479,184,500,ATIVO,CAIXA,1545,3.09
+"Sonda de borracha tipo foley, 2 vias, calibre nº 18",3312480,185,500,ATIVO,CAIXA,1500,3
+"Sonda de borracha tipo foley, 2 vias, calibre nº20",3312481,186,300,ATIVO,CAIXA,927,3.09
+"Sonda de borracha tipo foley, 2 vias, calibre nº22",3312482,187,300,ATIVO,CAIXA,828,2.76
+"Sonda endotraqueal em PVC com balão nº 3,0",3312483,190,60,ATIVO,UNIDADE,210.6,3.51
+"Sonda endotraqueal em PVC com balão nº3,5",3312484,191,60,ATIVO,UNIDADE,285.6,4.76
+"Sonda endotraqueal em PVC com balão nº 4,0",3312485,192,60,ATIVO,UNIDADE,285.6,4.76
+"Sonda endotraqueal em PVC com balão nº4,5",3312486,193,60,ATIVO,UNIDADE,285.6,4.76
+"Sonda endotraqueal em PVC com balão nº5,0",3312487,194,80,ATIVO,UNIDADE,264,3.3
+"Sonda Endotraqueal  em PVC, com Balão Nº. 5,5",3312488,195,80,ATIVO,UNIDADE,380.8,4.76
+"Sonda endotraqueal em PVC com balão nº6,0",3312489,196,80,ATIVO,UNIDADE,380.8,4.76
+"Sonda endotraqueal em PVC com balão nº 6,5",3312490,197,100,ATIVO,UNIDADE,476,4.76
+"Sonda endotraqueal em PVC com balão nº 7,5",3312491,199,150,ATIVO,UNIDADE,714,4.76
+"Sonda Endotraqueal  em PVC, com Balão Nº. 8,0",3312492,200,150,ATIVO,UNIDADE,714,4.76
+"Sonda Gástrica Longa nº 18, descartável",3312493,205,120,ATIVO,UNIDADE,66,0.55
+"Sonda nasal para alimentação enteral nº 08",3312494,206,50,ATIVO,UNIDADE,432,8.64
+"Sonda nasal para alimentação enteral nº 10",3312495,207,200,ATIVO,UNIDADE,1728,8.64
+"Sonda nasal para alimentação enteral nº 12",3312496,208,500,ATIVO,UNIDADE,4320,8.64
+"Sonda uretral nº 10 descartável",3312497,211,45000,ATIVO,UNIDADE,26100,0.58
+"Sonda uretral nº 12 descartável",3312498,213,33750,ATIVO,UNIDADE,20250,0.6
+"Sonda uretral nº 14 descartável",3312499,214,40000,ATIVO,UNIDADE,24800,0.62
+"Sonda uretral nº 16 descartável",3312500,215,3000,ATIVO,UNIDADE,2040,0.68
+"Termômetro clínico digital.",3312501,233,150,ATIVO,UNIDADE,1653,11.02
+"Reanimador manual pediátrico",3312502,246,30,ATIVO,UNIDADE,3505.2,116.84
+"Reanimador manual neonatal",3312503,247,15,ATIVO,UNIDADE,1686.6,112.44
+"Otoscopio com iluminação halógena por Fibra Ótica",3312504,248,20,ATIVO,UNIDADE,10132.4,506.62
+"Detector de batimento cardíaco fetal  digital portátil",3312505,249,20,ATIVO,UNIDADE,14700,735
+"Lanterna clínica tipo caneta",3312506,250,70,ATIVO,UNIDADE,1167.6,16.68
+"Frasco aspiração para cilindro de Oxigênio, em polipropileno ou vidro.",3312507,257,30,ATIVO,UNIDADE,3530.7,117.69
+"Frasco borrifador para álcool",3312508,259,4000,ATIVO,UNIDADE,15760,3.94

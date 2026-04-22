@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",1438771,1,70,ATIVO,UNIDADE,14840,212
+"Camisa operacional (gandola) feminina padrão CBMSC",1438772,2,5,ATIVO,UNIDADE,1060,212
+"Calça operacional masculina padrão CBMSC",1438773,3,70,ATIVO,UNIDADE,9520,136
+"Calça operacional feminina padrão CBMSC",1438774,4,5,ATIVO,UNIDADE,680,136
+"Cobertura bico de pato operacional padrão CBMSC",1438775,5,30,ATIVO,UNIDADE,1860,62
+"Luva de posto masculina",1438776,6,6,ATIVO,UNIDADE,180,30
+"Japona operacional dupla face padrão CBMSC",1438777,7,10,ATIVO,UNIDADE,3500,350
+"Blusa de lã azul",1438778,8,15,ATIVO,UNIDADE,2775,185
+"Blusa Fleece Vermelho",1438779,9,30,ATIVO,UNIDADE,3900,130
+"Cachecol de fleece",1438780,10,20,ATIVO,UNIDADE,800,40
+"Touca de fleece",1438781,11,30,ATIVO,UNIDADE,1230,41
+"Camiseta vermelha gola redonda padrão CBMSC",1438782,12,150,ATIVO,UNIDADE,6600,44
+"Camisa vermelha gola polo padrão CBMSC",1438783,13,70,ATIVO,UNIDADE,3920,56
+"Fivela para cinto Bombeiro Militar",1438784,14,20,ATIVO,UNIDADE,560,28
+"Lona de nylon cor vermelha",1438785,15,2,ATIVO,ROLO,960,480
+"Biriba de identificação",1438786,16,30,ATIVO,UNIDADE,360,12
+"Calção guarda-vidas Militar",1438787,17,50,ATIVO,UNIDADE,1700,34
+"Camiseta regata guarda-vidas Militar",1438788,18,50,ATIVO,UNIDADE,1950,39
+"Camiseta manga longa guarda-vidas Militar",1438789,19,50,ATIVO,UNIDADE,3100,62
+"Agasalho completo guarda-vidas Militar",1438790,20,25,ATIVO,CONJUNTO,7375,295
+"Camiseta regata branca",1438791,21,70,ATIVO,UNIDADE,1890,27
+"Camisa operacional (gandola) masculina padrão CBMSC Sob Medi",1438792,22,2,ATIVO,UNIDADE,452,226
+"Calça operacional masculina padrão CBMSC Sob Medida Sob Medi",1438793,23,2,ATIVO,UNIDADE,290,145
+"Japona operacional dupla face padrão CBMSC Sob Medida",1438794,24,1,ATIVO,UNIDADE,360,360
+"Blusa de lã azul Sob Medida",1438795,25,1,ATIVO,UNIDADE,203,203
+"Camiseta vermelha gola redonda padrão CBMSC Sob Medida",1438796,26,5,ATIVO,UNIDADE,240,48
+"Camisa vermelha gola polo padrão CBMSC Sob Medida",1438797,27,5,ATIVO,UNIDADE,300,60
+"Calção guarda-vidas Militar Sob Medida",1438798,28,3,ATIVO,UNIDADE,165,55
+"Camiseta regata branca Sob Medida",1438799,29,3,ATIVO,UNIDADE,78,26
+"Agasalho completo guarda-vidas Militar Sob Medida",1438800,30,1,ATIVO,UNIDADE,315,315

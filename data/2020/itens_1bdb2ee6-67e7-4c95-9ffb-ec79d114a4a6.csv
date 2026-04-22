@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atropina 0,25mg/mL, injetável, ampola 1ml.",1267974,31,1000,ATIVO,AMP,509.6,0.5096
+"Bromidrato de fenoterol 5mg/mL solução para inalação, frrasc",1267975,47,2000,ATIVO,FRASCO,7398,3.699
+"Doxiciclina 100mg cpr, em blister.",1267976,103,3000,ATIVO,COMPRIMIDO,455.4,0.1518
+"Fosfato de sódio monobásico+ Fosfato de Sódio dibásico 16 g",1267977,126,1500,ATIVO,FRASCO,6825,4.55
+"Petidina, cloridrato 50mg/mL injetável, ampola 2ml.",1267978,213,100,ATIVO,AMP,200,2
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",1267979,241,1000,ATIVO,AMP,1199,1.199
+"Verapamil 80mg cpr, em blister.",1267980,250,700000,ATIVO,COMPRIMIDO,91000,0.13
+"Alopurinol 100mg cpr, em blister.",1328363,18,600000,ATIVO,COMPRIMIDO,61140,0.1019

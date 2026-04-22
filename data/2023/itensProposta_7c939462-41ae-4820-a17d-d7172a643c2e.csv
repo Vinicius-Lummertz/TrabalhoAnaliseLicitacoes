@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,VENCEU,UN,6465.15,47.89
+"Bola de Basquete OFICIAL",13710967,60,VENCEU,UN,3899.4,64.99
+"Rede de Aro para Basquete",13710968,30,VENCEU,PAR,719.4,23.98
+"Bola de Handebol H1L",13710969,25,VENCEU,UN,3681.25,147.25
+"Rede Oficial de Voleibol de Praia/Areia",13710975,10,VENCEU,UN,999.9,99.99
+"Tabuleiro de Xadrez Oficial",13710980,55,VENCEU,UN,1044.45,18.99
+"Touca de Natação",13710984,100,VENCEU,UN,2384,23.84
+"Sacos para Bola",13710995,30,VENCEU,UN,449.7,14.99
+"CONE CHAPÉU CHINÊS",13710996,200,VENCEU,UND,358,1.79
+"Corda de Pular",13710997,50,VENCEU,UN,624.5,12.49
+"Calibrador de Bola tipo Caneta",13710999,26,VENCEU,UN,487.76,18.76
+"Placar de Mesa",13711000,26,VENCEU,UN,3483.74,133.99
+"Apito de Mesa",13711001,15,VENCEU,UN,254.85,16.99
+"Apito profissional",13711002,60,VENCEU,UND,538.8,8.98
+"Skate para Iniciantes",13711003,80,VENCEU,UN,6799.2,84.99
+"Capacete de Skate",13711004,80,VENCEU,UN,2559.2,31.99
+"Kit de Proteção Esportivo",13711005,80,VENCEU,KIT,6389.6,79.87
+"Faixa Elástica Nível Forte",13711006,10,VENCEU,UN,199.9,19.99
+"Faixa Elástica Nível Médio",13711007,10,VENCEU,UN,209.9,20.99
+"Faixa Elástica Nível Fraco",13711008,10,VENCEU,UN,196.9,19.69
+"Mini Band Nível Forte",13711009,30,VENCEU,UN,263.7,8.79
+"Mini Band Nível Médio",13711010,30,VENCEU,UN,273.3,9.11
+"Mini Band Nível Fraco",13711011,30,VENCEU,UN,197.7,6.59
+"Prato para Tiro Esportivo",13711012,40000,VENCEU,UN,29600,0.74
+"Colete Esportivo",13711013,1000,PERDEU,UN,22950,22.95
+"Camiseta Esportiva",13711014,5000,PERDEU,UN,272398,54.4796
+"Uniforme Esportivo",13711015,332,PERDEU,UN,31374,94.5
+"AGASALHO - JAQUETA E CALÇA POLIESTER",13711016,100,PERDEU,UND,24497.99,244.9799

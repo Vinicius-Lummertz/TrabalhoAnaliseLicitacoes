@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOLA DE FUTSAL",13633537,150,PERDEU,UND,39540,263.6
+"Rede de Futsal",13633538,10,PERDEU,UND,3290.7,329.07
+"Kit Colete em Dry Fit",13633539,20,PERDEU,KIT,3133.4,156.67
+"Luva para Goleiro",13633540,10,PERDEU,PAR,509,50.9
+"Cone para treinamento 50 cm",13633541,100,PERDEU,UND,7000,70
+"Tênis para futsal oficial",13633543,100,PERDEU,PAR,7160,71.6
+CRONÔMETRO,13633544,10,PERDEU,UNI,1045,104.5
+"BOLA DE VOLEI",13633545,150,PERDEU,UND,17250,115
+"Rede Oficial de Voleibol Indoor",13633546,5,PERDEU,UND,750,150
+"Tabuleiro de Xadrez Oficial",13633547,21,PERDEU,UN,1281,61
+"Tabuleiro de Damas Oficial",13633548,21,PERDEU,UNI,627.9,29.9
+"Jogo de Quebra-Cabeças  (até 500 peças)",13633549,21,PERDEU,UND,535.5,25.5
+"Roupas para apresentações - Gaúchas",13633550,20,VENCEU,UND,8380,419
+"Roupas para apresentações - Street Style",13633551,20,VENCEU,CJT,1500,75
+"Kit Lanche",13633552,9600,VENCEU,KIT,55584,5.79

@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo galvanizado  2 ½ de 6 mt",0,30,PERDEU," ",45000,1500
+"Luva galvanizado de 2 1/2",0,47,PERDEU," ",7050,150
+"Joelho galvanizado de 2 1/2",0,50,PERDEU," ",9500,190
+"T galvanizado de 2 1/2",0,50,PERDEU," ",12500,250
+"Registro global de 45°",0,60,PERDEU," ",14400,240
+"Abrigo de hidrante (sobrepor e embutir)",0,50,PERDEU," ",20000,400
+"Mangueira de hidrante 15 mts",0,73,PERDEU," ",29200,400
+"Mangueira de hidrante 20 mts",0,67,PERDEU," ",32160,480
+"Adaptador de 2 1/2",0,95,PERDEU," ",14250,150
+"Chave stors",0,34,PERDEU," ",1700,50
+"Adesivo de sinalização para hidrante com descrição incêndio",0,62,PERDEU," ",2480,40
+"Esguicho de 1 1/2",0,62,PERDEU," ",6200,100
+"Serviço de mão de obra - lote 3",0,230,PERDEU," ",12650,55
+"Luminária de emergência 30 leds. Acompanha parafusos e buchas",0,652,DESCLASSIFICADO," ",29340,45
+"Bloco autônomo a bateria com 2 refletores acompanha parafusos e buchas",0,710,DESCLASSIFICADO," ",284000,400
+"Central de alarme de incêndio endereçável com alimentação full range (100 a 240VAV), capacidade para no mínimo 60 dispositivos",0,71,DESCLASSIFICADO," ",152650,2150
+"Acionador de alarme de incêndio endereçável tipo botoeira em plástico ABS na cor vermelho, acionamento por pressão e rearmável. Tensão de operação entre 20 a 30VCC.",0,345,DESCLASSIFICADO," ",48300,140
+"Sinalizador audiovisual endereçável, com pressão sonora >90dB/m, fabricado em plástico ABS na cor vermelho e tensão de operação entre 20 a 30VCC.",0,345,DESCLASSIFICADO," ",100050,290
+"Detector de fumaça endereçável, fabricado em plástico ABS na cor branco e tensão de operação entre 20 a 30VCC.",0,100,DESCLASSIFICADO," ",16000,160
+"Cabo blindado para alarme de incêndio (cor vermelho) em 4 vias (2x1,5mm² + 2x0,75mm²). Condutores em cobre com isolação em PVC anti-chama.",0,27050,DESCLASSIFICADO," ",1352500,50
+"Serviço de mão de obra - lote 2",0,360,DESCLASSIFICADO," ",19800,55

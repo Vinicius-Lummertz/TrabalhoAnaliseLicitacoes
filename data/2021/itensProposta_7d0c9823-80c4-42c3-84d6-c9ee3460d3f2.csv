@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Câmara Fria, capac. mínima de 340 litros",4448007,4,PERDEU,UN,45600,11400
+"Câmara Fria, capac. Mínima de 120 litros",4448008,7,PERDEU,UN,63700,9100
+"Ultra freezer desenvolvido especificamente para o armazename",4448009,1,VENCEU,UN,36600,36600

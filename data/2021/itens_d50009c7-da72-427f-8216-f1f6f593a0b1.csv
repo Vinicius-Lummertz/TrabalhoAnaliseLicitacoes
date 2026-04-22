@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cateter Intravenoso n°14 G",1353793,40,2000,ATIVO,UNIDADE,3000,1.5
+"Cateter Intravenoso n°16 G",1353794,41,3000,ATIVO,UNIDADE,4470,1.49
+"Cateter Intravenoso n°18 G",1353795,42,6000,ATIVO,UNIDADE,10980,1.83
+"Cateter Intravenoso n°20 G",1353796,43,6000,ATIVO,UNIDADE,10980,1.83
+"Cateter Intravenoso n°22 G",1353798,44,5000,ATIVO,UNIDADE,9150,1.83
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",1353799,78,7200,ATIVO,UNIDADE,57240,7.95
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1353800,79,7200,ATIVO,UNIDADE,26136,3.63
+"Cateter Intravenoso n°24 G",1353809,45,3000,ATIVO,UNIDADE,5670,1.89
+"Preservativos Masculinos de 52 mm, sem lubrificante",1353814,139,5000,ATIVO,UNIDADE,1480,0.296
+"Integrador químico classe V",1353845,108,100000,ATIVO,UNIDADE,25500,0.255
+"Indicador Biológico",1353960,107,1000,ATIVO,CAIXA,33470,33.47

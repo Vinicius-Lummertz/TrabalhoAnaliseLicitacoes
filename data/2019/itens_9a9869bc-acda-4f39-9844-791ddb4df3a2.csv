@@ -1,0 +1,112 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental RX para Paciente Infantil",1264855,440,3,ATIVO,UNIDADE,925.29,308.43
+"Kit Completo para Polimento de Resina",1264857,388,100,ATIVO,kit,3720,37.2
+"Moldeira Total Perfurada Adulto",1264858,400,5,ATIVO,kit,297.45,59.49
+"Moldeira Total Perfurada Plástico",1264859,401,5,ATIVO,kit,212.15,42.43
+"Afastador Labial Expandex - adulto",1264860,402,10,ATIVO,UNIDADE,79.7,7.97
+"Afastador Labial Expandex - infantil",1264861,403,10,ATIVO,UNIDADE,79.7,7.97
+"Caixa Para Aparelho Ortodôntico",1264863,407,20,ATIVO,EMBALAGEM,239.2,11.96
+"Avental RX para Paciente Adulto",1264864,441,3,ATIVO,UNIDADE,1149.9,383.3
+"Barreira gengival tipo TOP DAM",1264901,382,40,ATIVO,kit,584.8,14.62
+"TIRA DE LIXA DE POLIESTER",1264934,374,220,ATIVO,PACOTE,1727,7.85
+"Cuba Inox Redonda. Autoclavável",1264935,85,6,ATIVO,UNIDADE,144,24
+"Sugador cirúrgico descartável caixa c/ 40 unidades",1264936,368,150,ATIVO,CAIXA,2970,19.8
+"Arco Ostby Adulto",1264937,79,15,ATIVO,UNIDADE,123.45,8.23
+"Arco Ostby infantil",1264938,80,10,ATIVO,UNIDADE,82.3,8.23
+"Espelho clinico número 5",1264939,83,1250,ATIVO,UNIDADE,3637.5,2.91
+"Estojo de Inox para endodontia",1264940,86,5,ATIVO,UNIDADE,635.3,127.06
+"Sonda Milimetrada Carolina do Norte Nº 15",1264941,90,5,ATIVO,UNIDADE,189.55,37.91
+"Calcador Paiva Kit com 4 unidade (nº1; 2; 3; 4)",1264942,100,5,ATIVO,kit,173.8,34.76
+"Água destilada.",1264943,106,1200,ATIVO,GALÃO,7200,6
+"Agulha gengival curta descartável;",1264944,108,550,ATIVO,CAIXA,13640,24.8
+"Gesso Pedra Tipo III",1264945,111,300,ATIVO,PACOTE,1194,3.98
+"Gesso Comum",1264946,112,80,ATIVO,PACOTE,232,2.9
+"Alginato, para moldagem",1264947,113,200,ATIVO,PACOTE,2484,12.42
+"AMALGAMA EM CÁPSULA - 1 Porção",1264948,115,1,ATIVO,kit,571.9,571.9
+"Broca JET Carbide FG 957.",1264949,127,30,ATIVO,UNIDADE,657,21.9
+"Broca diamantada ponta de chama pequena nº 1111 FF",1264950,131,30,ATIVO,UNIDADE,48,1.6
+"Broca de alta rotação diamantada esferica 1012 haste longa",1264951,137,50,ATIVO,UNIDADE,80,1.6
+"Broca de alta rotação diamantada esferica 1014 haste longa",1264952,138,50,ATIVO,UNIDADE,80,1.6
+"Broca de alta rotação diamantada esferica 1012",1264953,139,400,ATIVO,UNIDADE,640,1.6
+"Broca de alta rotação diamantada esférica 1014",1264954,140,400,ATIVO,UNIDADE,640,1.6
+"Broca de alta rotação diamantada esférica 1019",1264955,141,350,ATIVO,UNIDADE,560,1.6
+"Broca de alta rotação diamantada 1033",1264956,142,50,ATIVO,UNIDADE,80,1.6
+"Broca de alta rotação diamantada 1047",1264957,143,50,ATIVO,UNIDADE,80,1.6
+"Coletor de material perfuro cortante",1264958,77,60,ATIVO,CAIXA,997.2,16.62
+"Sonda Exploradora endodontica nº6",1264959,69,20,ATIVO,UNIDADE,161,8.05
+"Seringa Carpule com refluxo-12,5cm",1264960,65,180,ATIVO,UNIDADE,3960,22
+"Régua milimetrada",1264961,64,5,ATIVO,UNIDADE,51,10.2
+"Afastador de Minessota em aço inox",1264963,1,60,ATIVO,UNIDADE,534,8.9
+"Alicate Ortodôntico Bico Chato",1264964,3,5,ATIVO,UNIDADE,344.35,68.87
+"Espatula 7",1264965,9,10,ATIVO,UNIDADE,93.6,9.36
+"Alicate ortodôntico weingart reto 120",1264966,12,5,ATIVO,UNIDADE,422.7,84.54
+"Alicate ortodôntico weingart curvo 120",1264967,13,5,ATIVO,UNIDADE,422.7,84.54
+"Alicate ortodôntico conformador de bandas",1264968,14,5,ATIVO,UNIDADE,422.7,84.54
+"Alicate ortodôntico saca banda 347",1264969,15,5,ATIVO,UNIDADE,420.7,84.14
+"Alicate Ortodôntico Corte Amarrilho 151",1264970,17,5,ATIVO,UNIDADE,1865.85,373.17
+"Alicate Ortodôntico Tridente 200",1264971,19,5,ATIVO,UNIDADE,344.35,68.87
+"TACA DE BORRACHA",1264972,371,250,ATIVO,UNIDADE,262.5,1.05
+"Alicate Ortodôntico Bico De Papagaio",1264973,21,5,ATIVO,UNIDADE,344.35,68.87
+"Espátula Lecron",1264974,42,20,ATIVO,UNIDADE,237.4,11.87
+"Grampo para isolamento nº26",1264975,44,25,ATIVO,UNIDADE,323,12.92
+"Grampo para isolamento nº00",1264976,45,20,ATIVO,UNIDADE,258.4,12.92
+"Grampo para isolamento nº200",1264977,46,20,ATIVO,UNIDADE,258.4,12.92
+"Grampo para isolamento nº202",1264978,47,20,ATIVO,UNIDADE,258.4,12.92
+"Grampo para isolamento nº206",1264979,48,20,ATIVO,UNIDADE,258.4,12.92
+"Grampo para isolamento nº207",1264980,49,20,ATIVO,UNIDADE,258.4,12.92
+"PINÇA CLINICA ODONTOLOGICA",1264981,56,250,ATIVO,UNIDADE,3025,12.1
+"PORTA-AMALGAMA DE PLASTICO",1264982,58,5,ATIVO,UNIDADE,47.5,9.5
+"POTE DAPPEN",1264983,63,100,ATIVO,UNIDADE,285,2.85
+"Cinzel micro Ochsenbein nº 1",1264984,31,5,ATIVO,UNIDADE,251.2,50.24
+"Broca de alta rotação diamantada nº3082",1264985,147,70,ATIVO,UNIDADE,112,1.6
+"Broca de alta rotação diamantada nº 2082",1264986,144,70,ATIVO,UNIDADE,112,1.6
+"Broca de Gates Glidden nº2 de 32 mm",1264987,160,20,ATIVO,UNIDADE,139.6,6.98
+"Haste flexível em algodão (cotonete)",1264988,252,150,ATIVO,CAIXA,298.5,1.99
+"Indicador Biológico sensível",1264989,257,500,ATIVO,CAIXA,11750,23.5
+"Ionômero de vidro R autopolimerizável",1264990,259,350,ATIVO,kit,14941.5,42.69
+"Kit posicionador para RX infantil",1264991,265,10,ATIVO,kit,527,52.7
+"Kit posicionador para RX adulto",1264992,266,15,ATIVO,kit,790.5,52.7
+"LUVAS LÁTEX, TAMANHO M",1264993,306,100,ATIVO,CAIXA,1970,19.7
+"Luva Nitrílica não esteril para procedimento tamanho M",1264994,311,100,ATIVO,CAIXA,1625,16.25
+"Mandril odontológico",1264995,312,200,ATIVO,UNIDADE,616,3.08
+"MÁSCARA FACIAL DESCARTÁVEL",1264996,313,1000,ATIVO,CAIXA,4790,4.79
+"OLEO LUBRIFICANTE",1264997,316,200,ATIVO,UNIDADE,3432,17.16
+"Broca de Gates Glidden nº1 de 32 mm Autoclavável",1264998,159,20,ATIVO,UNIDADE,139.6,6.98
+"Pasta profilática com granulação média com flúor",1264999,332,250,ATIVO,TBO,1650,6.6
+"RESINA FOTOPOLIMERIZAVEL COR A3",1265000,355,150,ATIVO,SERINGA,5514,36.76
+"Resina Fotopolimerizavel cor A3.5",1265001,356,80,ATIVO,SERINGA,2940.8,36.76
+"Resina Fotopolimerizavel cor A3. DENTINA",1265002,357,300,ATIVO,SERINGA,11028,36.76
+"Resina Fotopolimerizavel INCISAL",1265003,358,120,ATIVO,SERINGA,4380,36.5
+"Restaurador provisório tipo Cimpat",1265004,360,100,ATIVO,FRASCO,780,7.8
+"Fixador para radiografia - Frasco com 475 ml",1265005,361,100,ATIVO,FRASCO,898,8.98
+"REVELADOR PARA RADIOGRAFIA - FRASCO COM 475 ML",1265006,362,100,ATIVO,FRASCO,898,8.98
+"Saco plástico SACOLÉ",1265007,363,150,ATIVO,PACOTE,1806,12.04
+"Selante Fotopolimerizável",1265008,364,150,ATIVO,kit,2055,13.7
+"Stop de Silicone Cursor",1265009,367,10,ATIVO,CAIXA,162.3,16.23
+"REFIL ENDOMETRIC",1265010,351,30,ATIVO,EMBALAGEM,361.8,12.06
+"Gorros descartáveis tipo touca com elástico",1265011,250,400,ATIVO,PACOTE,2100,5.25
+"Guardanapo 30 x 30cm, cor branca",1265012,251,2400,ATIVO,PACOTE,6120,2.55
+"Frasco spray borrifador",1265013,244,50,ATIVO,UNIDADE,180,3.6
+"Broca de Gates Glidden nº3 de 32 mm",1265014,162,20,ATIVO,UNIDADE,139.6,6.98
+"Broca de Gates Glidden nº4 de 32 mm",1265015,163,20,ATIVO,UNIDADE,139.6,6.98
+"Broca em carboneto de tungstênio para peça de mão - nº701",1265016,179,20,ATIVO,UNIDADE,204,10.2
+"Broca em carboneto de tungstênio para peça de mão - nº702",1265017,180,20,ATIVO,UNIDADE,204,10.2
+"Broca em carboneto de tungstênio para peça de mão - nº703",1265018,181,20,ATIVO,UNIDADE,204.6,10.23
+"Broca Zekrya Longa.Tamanho 28mm",1265019,183,80,ATIVO,UNIDADE,1232.8,15.41
+"Cartela para rx odontológico",1265020,187,30,ATIVO,PACOTE,241.2,8.04
+"Clorhexidina 2% - frasco com 100ml",1265021,189,150,ATIVO,FRASCO,1476,9.84
+"Cone de guta percha microtipped tamanho FM",1265022,201,40,ATIVO,CAIXA,1460,36.5
+"Condicionador dental",1265023,248,400,ATIVO,PACOTE,1132,2.83
+"Cone de guta percha, principal 25",1265024,203,30,ATIVO,CAIXA,588,19.6
+"Cone de guta percha, principal 20",1265025,202,30,ATIVO,CAIXA,588,19.6
+"Cone de guta percha, principal 35",1265026,205,30,ATIVO,CAIXA,588,19.6
+"Cone de guta percha, principal 40",1265027,206,30,ATIVO,CAIXA,588,19.6
+"Cone de papel absorvente segunda série-",1265028,211,30,ATIVO,CAIXA,662.4,22.08
+"Cones de guta percha acessórios B 7",1265029,212,15,ATIVO,CAIXA,294,19.6
+"Cones de guta percha acessórios B",1265030,213,35,ATIVO,CAIXA,686,19.6
+"Escova de Robson reta.",1265031,224,1000,ATIVO,UNIDADE,1180,1.18
+"Espaçador Digital nº30 de 25 mm",1265032,228,5,ATIVO,CAIXA,275,55
+"Filme Periapical infantil E-speed",1265033,234,30,ATIVO,CAIXA,5166.9,172.23
+"Fio agulhado nylon, preto 3.0/EP2",1265034,235,380,ATIVO,CAIXA,9120,24
+"Flúor gel acidulado com concentração mínima de 1,23%.",1265035,242,270,ATIVO,FRASCO,1458,5.4
+"Cone de guta percha, principal 30",1265036,204,30,ATIVO,CAIXA,588,19.6

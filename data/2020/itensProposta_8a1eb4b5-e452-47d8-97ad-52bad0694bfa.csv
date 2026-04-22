@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de Ar Condicionado tipo Split HI-WALL 12.000 BTU/H,",4444179,23,INABILITADO,UN,44390,1930
+"Aparelho de Ar Condicionado tipo Split HI-WALL 18.000 BTU/H,",4444180,10,PERDEU,UN,23000,2300
+"Aparelho de Ar Condicionado tipo Split HI-WALL 30.000 BTU/H,",4444181,1,PERDEU,UN,4500,4500

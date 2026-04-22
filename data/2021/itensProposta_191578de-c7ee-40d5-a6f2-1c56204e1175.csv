@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grampeador para papeis",4448331,220,VENCEU,UN,2501.4,11.37
+"Pasta plástica de arquivo, com no minimo 25 mm",4448332,400,VENCEU,UN,1160,2.9
+"Pasta plástica de arquivo, com no minimo 30 mm",4448333,600,DESCLASSIFICADO,UN,2610,4.35
+"Pasta plástica de arquivo, com no minimo 50 mm",4448334,200,DESCLASSIFICADO,UN,1076,5.38
+"Tesoura Doméstica",4448336,250,DESCLASSIFICADO,UND,1875,7.5
+"Balão tamanho no. 7",4448337,300,PERDEU,PCT,2025,6.75
+"Lápis colorido",4448341,30,DESCLASSIFICADO,CX,162.6,5.42
+"Papel cartão colorido fosco (46cm x 66cm)",4448342,300,VENCEU,UNI,264,0.88
+"Pasta suspensa craft 331x200",4448343,25,PERDEU,CX,1725,69
+"TNT (TECIDO NÃO TEXTURIZADO)",4448344,30,DESCLASSIFICADO,ROLO,3506.1,116.87

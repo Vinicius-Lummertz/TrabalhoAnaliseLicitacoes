@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",1267771,51,300,ATIVO,PACOTE,25890,86.3
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",1267772,50,900,ATIVO,PACOTE,77670,86.3
+"Ataduras de Crepom 12cm",1267773,20,40000,ATIVO,UNIDADE,38080,0.952
+"Ataduras de Crepom 10cm",1267774,19,40000,ATIVO,UNIDADE,31720,0.793

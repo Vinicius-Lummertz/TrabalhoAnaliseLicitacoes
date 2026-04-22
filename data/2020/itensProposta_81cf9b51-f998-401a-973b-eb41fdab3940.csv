@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",4444001,1500,VENCEU,CX,17175,11.45
+"Fita Cirúrgica Microporosa largura 10cm x 4,5m, na cor bege",4444004,1500,VENCEU,UN,7875,5.25
+"Fixador Citológico, 100ml",4444006,250,PERDEU,FR.,1400,5.6
+"Lençol hospitalar descartável em papel",4444011,1000,PERDEU,ROLO,10120,10.12
+"Protetor solar, FPS 60, frasco com 120mL ou 125mL.",4444013,1200,VENCEU,UN,12120,10.1
+"Repelente de insetos loção citronela, frasco 200ml",4444014,300,VENCEU,UN,2235,7.45
+"Seringa 3ml, sem agulha",4444015,50000,VENCEU,UN,6000,0.12
+"Seringa 5ml, sem agulha",4444016,50000,PERDEU,UN,9000,0.18

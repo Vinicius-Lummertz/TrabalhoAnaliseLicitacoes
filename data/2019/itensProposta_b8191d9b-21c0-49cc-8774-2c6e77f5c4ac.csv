@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"base de brita graduada",4389519,60000,PERDEU,TON,2100000,35
+"PO DE PEDRA",4389520,30000,PERDEU,M3,960000,32
+"Macadame (ou brita nº 04)",4389521,10000,PERDEU,TON,360000,36
+"Pedrisco (ou brita nº 00)",4389522,20000,PERDEU,TON,860000,43
+"BRITA 3/4 (BRITA Nº 01)",4389523,15000,VENCEU,TON,540000,36
+"Rachão (ou brita nº 05)",4389524,5000,PERDEU,TON,169500,33.9

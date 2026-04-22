@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Freezer horizontal",4444221,3,VENCEU,UND,6435,2145
+VENTILADOR,4444224,3,PERDEU,UND,519,173
+Refrigerador,4444225,2,VENCEU,UNI,4890,2445

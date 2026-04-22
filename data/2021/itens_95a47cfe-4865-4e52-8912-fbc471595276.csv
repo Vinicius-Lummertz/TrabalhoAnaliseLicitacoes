@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",2218803,3,10000,ATIVO,BISNAGA,17500,1.75
+"Albendazol 400mg comprimido mastigável, em blister.",2218804,17,18000,ATIVO,COMPRIMIDO,4320,0.24
+"Ampicilina 500mg, capsula, em blister.",2218805,30,6000,ATIVO,CAPSULA,2040,0.34
+"Atenolol 50mg cpr, em blister.",2218806,32,1800000,ATIVO,COMPRIMIDO,90000,0.05
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",2218807,34,10000,ATIVO,FRASCO,42000,4.2
+"Azitromicina 500mg. Blister com 01 comprimido, ou acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2218808,35,60000,ATIVO,COMPRIMIDO,52200,0.87
+"Levofloxacino 500mg cpr, em blister.",2218809,167,10000,ATIVO,COMPRIMIDO,5000,0.5
+"Metronidazol 250mg cpr, em blister.",2218810,194,280000,ATIVO,COMPRIMIDO,28000,0.1
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",2218811,196,12000,ATIVO,BISNAGA,69600,5.8
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",2218812,207,5000,ATIVO,FRASCO,19000,3.8
+"Risperidona 1mg cpr, em blister.",2218813,231,200000,ATIVO,COMPRIMIDO,14000,0.07
+"Risperidona 2mg cpr, em blister.",2218814,232,280000,ATIVO,COMPRIMIDO,22400,0.08
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",2218815,233,1000,ATIVO,FRASCO,5200,5.2
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",2218816,245,220000,ATIVO,COMPRIMIDO,35200,0.16
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",2471568,195,4500,ATIVO,BISNAGA,21105,4.69
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",3779021,26,13000,ATIVO,FRASCO,25740,1.98

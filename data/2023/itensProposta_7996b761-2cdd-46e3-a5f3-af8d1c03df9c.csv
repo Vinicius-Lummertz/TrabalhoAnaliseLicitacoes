@@ -1,0 +1,74 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,PERDEU,COMP,41400,0.23
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",11967160,4000,PERDEU,AMP,9604,2.401
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",11967167,6500,PERDEU,FR.,34970,5.38
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3600,1.2
+"Água destilada 10mL ampola.",11967170,20000,PERDEU,AMP,7980,0.399
+"Água destilada 5mL ampola.",11967171,20000,PERDEU,AMP,5400,0.27
+"Amiodarona 200mg cpr, em blister.",11967178,250000,PERDEU,COMP,150025,0.6001
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",11967179,2000,PERDEU,AMP,4898,2.449
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,120000,0.08
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,86400,9.6
+"Betametasona, diproprionato +  betametasona fosfato 1ml",11967195,22000,PERDEU,AMP,87758,3.989
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,PERDEU,FR.,2496,1.248
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,6095,1.219
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,7200,2.4
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,450000,0.25
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,31500,0.126
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,57120,0.204
+"Carvedilol 3,125 mg cpr, em blister.",11967216,60000,PERDEU,COMP,6480,0.108
+"Carvedilol 6,25 mg cpr, em blister.",11967217,180000,PERDEU,COMP,21600,0.12
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,247455,0.5499
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",11967220,2000,PERDEU,FR/AM,28000,14
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,9840,9.84
+"Cimetidina 150mg/ml, ampola 2ml.",11967223,1500,VENCEU,AM,2355,1.57
+"Clindamicina 300mg capsula, em blister.",11967227,10000,PERDEU,CPLA,14040,1.404
+"Clonidina 0,1mg cpr, em blister.",11967230,6000,VENCEU,COMP,1584,0.264
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3,5g.",11967234,200,PERDEU,bis,2640,13.2
+"Clorpromazina, cloridrato 5mg/mL, injetável, ampola 5ml.",11967244,300,PERDEU,AMP,758.7,2.529
+"Diazepam 5mg/ml solução injetavel 2ml",11967251,4000,PERDEU,AMP,3716,0.929
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,PERDEU,AMP,5250,1.05
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,49500,0.09
+"Simeticona 75mg/mL solução oral, frasco 10ml.",11967257,15000,PERDEU,FR.,25350,1.69
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,6244,1.561
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,48000,1.6
+"Dopamina 5mg/ml, injetável, ampola 10ml.",11967261,400,PERDEU,AMP,2630.4,6.576
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,45360,0.126
+"Doxiciclina 100mg cpr, em blister.",11967263,1000,PERDEU,COMP,620,0.62
+"Espiramicina 1.500 UI, comp",11967270,1000,PERDEU,COMP,4560,4.56
+"Espironolactona 25mg cpr, em blister.",11967271,1000000,PERDEU,COMP,264000,0.264
+"Estrogênios conjugados 0,625mg cpr, em blister.",11967272,70000,PERDEU,COMP,65520,0.936
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,43200,0.108
+"Fenobarbital 100mg cpr, em blister.",11967276,420000,PERDEU,COMP,101220,0.241
+"Furosemida 10mg/mL injetável, ampola 2ml.",11967288,3000,PERDEU,AMP,4947,1.649
+"GLICONATO DE CÁLCIO 10% 10 ML",11967294,600,PERDEU,AMP,1296,2.16
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",11967297,3000,PERDEU,AMP,8577,2.859
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",11967306,24000,PERDEU,FR.,86400,3.6
+"Imipramina 25mg cpr .",11967308,650000,PERDEU,COMP,319800,0.492
+"Insulina NPH 100UI/mL, frasco 10ml.",11967309,400,PERDEU,FR.,8196,20.49
+"Insulina regular 100 UI/ml 10ml",11967310,150,PERDEU,FR/AM,3073.5,20.49
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",11967311,180000,PERDEU,COMP,60480,0.336
+"Isossorbida, mononitrato 20mg cpr, em blister.",11967312,800000,PERDEU,COMP,182400,0.228
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado",11967316,500000,PERDEU,COMP,1515000,3.03
+"Levodopa 100mg + benserazida 25mg HBS comprimido liberação p",11967318,70000,PERDEU,COMP,157920,2.256
+"Levodopa 200mg + benserazida 50mg comprimido.",11967319,70000,PERDEU,COMP,245000,3.5
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",11967324,7000,PERDEU,COMP,21420,3.06
+"Levotiroxina sódica 100mcg cpr, em blister.",11967326,550000,PERDEU,COMP,105600,0.192
+"Levotiroxina sódica 25mcg cpr, em blister.",11967327,700000,PERDEU,COMP,142800,0.204
+"Levotiroxina sódica 50 mcg cpr, em blister.",11967328,700000,PERDEU,COMP,159600,0.228
+"Lidocaína 2% gel, bisnaga 30g.",11967331,10000,PERDEU,BIS,38400,3.84
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",11967332,4000,PERDEU,FR/AM,31200,7.8
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,348000,0.0696
+"Metildopa 250mg cpr, em blister.",11967340,400000,PERDEU,COMP,297600,0.744
+"Metilfenidato 10 mg cpr, em blister.",11967341,600000,PERDEU,COMP,216060,0.3601
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",11967342,2000,PERDEU,AMP,1440,0.72
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,PERDEU,AMP,23360,2.92
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,240000,0.06
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,12760,3.19
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,4320,2.16
+"SULFAMETOXAZOL 200MG - TRIMETROPINA 40MG SOL ORAL 100ML",11967395,3800,PERDEU,FR.,20337.6,5.352
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",11967404,2000,PERDEU,FR.,6580,3.29
+"Tramadol, cloridrato 50mg capsula, em blister.",11967405,1200000,PERDEU,COMP,259200,0.216
+"Varfarina sódica 5 mg cpr, em blister.",11967409,120000,PERDEU,COMP,25920,0.216
+"Verapamil 80mg cpr, em blister.",11967410,500000,PERDEU,COMP,150000,0.3
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",11967412,4000,PERDEU,AMP,12004,3.001

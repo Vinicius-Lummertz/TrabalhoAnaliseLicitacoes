@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Monitor Grande",14940411,5,PERDEU,UND,7070,1414
+"Monitor Médio",14940412,5,PERDEU,UND,7210,1442
+NOTEBOOK;,14940417,5,PERDEU,UND,43725,8745
+Smartphone,14940429,40,PERDEU,UND,91920,2298

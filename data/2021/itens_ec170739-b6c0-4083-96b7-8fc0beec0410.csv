@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido tranexâmico 50mg/ml amp 5ml.",2218228,9,3000,ATIVO,AMPOLA,12750,4.25
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",2218229,12,8000,ATIVO,FRASCO,28000,3.5
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",2218230,24,1500,ATIVO,AMP,2650.5,1.767
+"Furosemida 10mg/mL injetável, ampola 2ml.",2218231,134,8000,ATIVO,AMP,7920,0.99
+"Isossorbida, mononitrato 20mg cpr, em blister.",2218232,158,720000,ATIVO,COMPRIMIDO,136800,0.19
+"Metformina 500mg cpr, em blister.",2218233,184,1500000,ATIVO,COMPRIMIDO,104850,0.0699
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",2218234,225,12000,ATIVO,FRASCO,40800,3.4
+"Sulfadiazina de prata 1% pomada, pote com 400g.",2218235,242,600,ATIVO,POTE,23399.94,38.9999
+"Tiamina 300 mg cpr, em blister.",2218236,252,12000,ATIVO,COMPRIMIDO,2278.8,0.1899

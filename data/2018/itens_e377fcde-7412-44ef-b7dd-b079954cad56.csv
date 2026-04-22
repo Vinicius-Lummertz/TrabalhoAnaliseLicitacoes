@@ -1,0 +1,49 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa de Comando padrão  modelos com reservatório da linha T",1262021,17,4,ATIVO,UNIDADE,6734.08,1683.52
+"Placa Principal para Neurodyn III, Ibramed",1262022,49,1,ATIVO,UNIDADE,266,266
+"Eletrodo auto adesivo 4x4 para uso em eletroestimulador",1262023,50,100,ATIVO,UNIDADE,250,2.5
+"Bateria 12 V - 2,3Ah - referência UP1223",1262024,51,3,ATIVO,UNIDADE,846,282
+"Controlador N1030 48x48 J-K-Pt100 100-240 Vca/Vcc",1262025,52,1,ATIVO,UNIDADE,245,245
+"Bomba de Vacuo 0,75 CV - 380 V",1262026,53,1,ATIVO,UNIDADE,5430,5430
+"Placa de comando microcontrolada para estufa Q317M-22",1262031,48,1,ATIVO,UNIDADE,575,575
+"Valvula de Segurança Termostatica para autoclave AHMC5 e AHM",1262033,2,15,ATIVO,UNIDADE,465,31
+"Rele de Estado Solido 40A de 200-240 V",1262034,3,10,ATIVO,UNIDADE,6290,629
+"Lãmpada de LED par 20 220V 7 W - E27 para foco Ginecologico",1262035,4,20,ATIVO,UNIDADE,369,18.45
+"Lâmpada dicróica 15V - 150W GZ6,35 para Colposcópio DF Vasco",1262036,5,5,ATIVO,UNIDADE,602.35,120.47
+"Sensor tipo Soft adulto compativel com Oximetro de Pulso Dix",1262037,6,2,ATIVO,UNIDADE,1144.6,572.3
+"Valvula de Segurança 1/4 BSP Calibrada em 43 PSI para autocl",1262038,7,10,ATIVO,UNIDADE,1700,170
+"Lâmpada 3V com rosca fina para Otoscópio TK / MIKATOS",1262039,8,10,ATIVO,UNIDADE,890,89
+"Braçadeira de nylon com velcro adulto com manguito em pvc 2",1262040,9,170,ATIVO,UNIDADE,4250,25
+"Cabo flexivel 2 x 0,20mm RCA emborrachado",1262041,10,20,ATIVO,MT,198,9.9
+"Pêra de Látex para Esfigmomanômetro",1262042,11,40,ATIVO,UNIDADE,332.4,8.31
+"Vávula de deflação com regulador para Esfigmomanômetro",1262043,12,40,ATIVO,UNIDADE,400.4,10.01
+"Guarnição Silicone 9,0x11mm",1262044,1,6,ATIVO,MT,391.68,65.28
+"Pedal com acionamento único com conector P10 para bisturi el",1262045,13,2,ATIVO,UNIDADE,596,298
+"Lâmpada MACRO 1019 Para Lâmpada de Fenda",1262046,47,1,ATIVO,UNIDADE,312,312
+"Válvula 811A para Ondas Curtas",1262047,45,2,ATIVO,UNIDADE,780,390
+"Sensor de temperatura tipo PT-100 bulbo liso para Autoclave",1262048,18,4,ATIVO,UNIDADE,1032,258
+"Cabo de ECG 10 Vias compativel com eletrocardiógrafo EP 12",1262049,19,2,ATIVO,UNIDADE,2175.32,1087.66
+"Caneta autoclavavel com comando manual p/ bisturi elétrico",1262050,20,2,ATIVO,UNIDADE,881.52,440.76
+"Jogo c/ 06 Eletrodos para cirurgia geral para uso em bisturi",1262051,21,4,ATIVO,UNIDADE,992,248
+"Jogo c/ 06 Eletrodos para ginecologia para uso em bisturi el",1262052,22,4,ATIVO,UNIDADE,988,247
+"kit com 06 Eletrodos tipo Pera de silicone adulto para ECG",1262053,23,2,ATIVO,kit,660.86,330.43
+"kit de Eletrodos tipo Clip adulto com 4 un. para ECG",1262054,24,2,ATIVO,kit,632.44,316.22
+"Membrana Osmose Reversa TW30-1812-100 DOW FILMTEC",1262055,25,1,ATIVO,UNIDADE,475,475
+"Elemento Filtrante Polipropileno Liso 10x2.1/2x5",1262056,26,12,ATIVO,UNIDADE,672,56
+"Elemento Filtrante Carvão ativado 10x2.1/2x5",1262057,27,12,ATIVO,UNIDADE,852,71
+"Transdutor para detector fetal MS101, Sigmed",1262058,28,3,ATIVO,UNIDADE,768,256
+"Transdutor para detector fetal DF-4000, Medpej",1262059,29,5,ATIVO,UNIDADE,1375,275
+"Placa  Eletronica para Detector Fetal DF 4000 Medpej / Marte",1262060,30,3,ATIVO,UNIDADE,906,302
+"Bateria recarregável de NICAD 3,5V para otoscópio modelo 710",1262061,31,2,ATIVO,UNIDADE,796,398
+"Potenciômetro de fio para Otoscópio TK",1262062,32,5,ATIVO,UNIDADE,265,53
+"Cabo de ECG 5 vias compatível com monitor Dixtal",1262063,33,1,ATIVO,UNIDADE,421.95,421.95
+"Célula de Carga para balança digital até 250Kg",1262064,34,4,ATIVO,UNIDADE,2700.48,675.12
+"Celula de Carga SLP-30 Kg",1262065,35,4,ATIVO,UNIDADE,1360,340
+"Lâmpada infravermelho 220 V - 150 W para fisioterapia",1262066,36,4,ATIVO,UNIDADE,592,148
+"Pino anti vacuo, Cristófoli",1262067,40,2,ATIVO,UNIDADE,48,24
+"Transdutor 1 MHz para Sonemed V, Carci",1262068,41,2,ATIVO,UNIDADE,710,355
+"Bateria Nicad 1,2 V 4500 mAh - D com terminal",1262069,42,10,ATIVO,UNIDADE,760,76
+"Transistor 2SK2545 (MOS-N-FET 600V/6A/40W)",1262070,43,1,ATIVO,UNIDADE,20.5,20.5
+"Triac BTA-41/600B 41A 600V",1262071,44,1,ATIVO,UNIDADE,57,57
+"Válvula 812A para Ondas Curtas",1262072,46,4,ATIVO,UNIDADE,1540,385
+"Resistência tipo W - 220 V - 2200 W para autoclave AHMC10",1262073,15,5,ATIVO,UNIDADE,1585,317

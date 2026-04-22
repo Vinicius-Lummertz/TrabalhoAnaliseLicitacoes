@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa gaveteiro plástico tipo Bin Nº 5",1267477,8,2000,ATIVO,UNIDADE,7700,3.85
+"Pallet de plástico vazado 50 cm x 50cm x 5 cm, com encaixes",1267478,13,500,ATIVO,UNIDADE,11750,23.5
+"Termômetro Digital de máxima e mínima com cabo extensor",1267479,14,200,ATIVO,UNIDADE,11800,59

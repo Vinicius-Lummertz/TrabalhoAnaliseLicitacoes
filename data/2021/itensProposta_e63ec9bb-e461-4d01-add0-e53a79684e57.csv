@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"jogo de focinheira",5883396,2,PERDEU,JG,36.4,18.2
+"Medicação para eutanásia",5883397,5,VENCEU,FR.,3959.95,791.99
+"Coleiras repelentes P",5883398,100,PERDEU,UN,6250,62.5
+"Coleiras repelentes G",5883399,100,VENCEU,UN,5865,58.65
+"Vacina polivalente (múltipla) para cães",5883401,600,PERDEU,FRA,9000,15

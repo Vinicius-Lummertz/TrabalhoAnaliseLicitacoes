@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9900,0.33
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",16295823,16000,PERDEU,FRA,79680,4.98
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL, acompanha copo-medida, 75ml após reconstituição",16295824,20000,PERDEU,FRA,440000,22
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em blister.",16295826,550000,PERDEU,COMP,1578500,2.87
+"Beclometasona 250mcg/dose- frasco 200 doses aerossol oral.",16295833,1000,PERDEU,FRA,31080,31.08
+"Benzilpenicilina Benzatina 600.000 UI.",16295836,5000,DESCLASSIFICADO,FR/AM,39200,7.84
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",16295850,1300000,PERDEU,COMP,273000,0.21
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconstituição.",16295861,9000,PERDEU,FR,80460,8.94
+"Ceftriaxona 1G intramuscular (IM) injetável.",16295863,1500,PERDEU,FR/AM,19455,12.97
+"Dipirona 500mg cpr, em blister.",16295899,3000000,PERDEU,COMP,480000,0.16
+"Enantoato de noretisterona + valerato de estradiol, injetável, ampola 1ml.",16295909,6000,PERDEU,AM,77460,12.91
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado (BD).",16295956,500000,PERDEU,COMP,1200000,2.4
+"Levodopa 200mg + benserazida 50mg comprimido.",16295959,70000,PERDEU,COMP,238000,3.4
+"Loratadina 1mg/mL xarope, frasco de 100ml.",16295974,10000,PERDEU,FR,41600,4.16
+"Losartana 50mg cpr revestido, em blister.",16295975,5500000,PERDEU,COMP,275000,0.05
+"Metildopa 250mg cpr, em blister.",16295979,400000,PERDEU,COMP,252000,0.63
+"Metilfenidato 10 mg cpr, em blister.",16295980,800000,PERDEU,COMP,648000,0.81
+"Ondansetrona 4mg cpr orodispersível, em blister.",16296052,300000,PERDEU,COMP,105000,0.35

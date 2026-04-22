@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4440891,130000,DESCLASSIFICADO,COMP,54418,0.4186
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4440892,12000,DESCLASSIFICADO,BIS,37978.8,3.1649
+"Ácido fólico 5mg cpr, em blister.",4440895,500000,DESCLASSIFICADO,COMP,62250,0.1245
+"Alendronato de sódio 70mg, blister com 4cpr.",4440908,10000,DESCLASSIFICADO,COMP,6561,0.6561
+"Anlodipino, besilato 5mg cpr, em blister.",4440920,1800000,DESCLASSIFICADO,COMP,210240,0.1168
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",4440935,2000,DESCLASSIFICADO,FR.,6100.4,3.0502
+"Carvedilol 12,5 mg cpr, em blister.",4440950,75000,PERDEU,COMP,8407.5,0.1121
+"Carvedilol 25 mg cpr, em blister.",4440951,75000,DESCLASSIFICADO,COMP,13222.5,0.1763
+"Carvedilol 3,125 mg cpr, em blister.",4440952,10000,DESCLASSIFICADO,COMP,954,0.0954
+"Carvedilol 6,25 mg cpr, em blister.",4440953,45000,DESCLASSIFICADO,COMP,4144.5,0.0921
+"Clopidogrel 75mg comprimido revestido, em blister.",4440968,180000,DESCLASSIFICADO,COMP,112212,0.6234
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola",4440980,24000,DESCLASSIFICADO,AMP,102019.2,4.2508
+"Diclofenaco sódico 50mg cpr, em blister.",4440985,600000,DESCLASSIFICADO,COMP,135840,0.2264
+"Doxazosina 2 mg cpr, em blister.",4440994,150000,PERDEU,COMP,16485,0.1099
+"Finasterida 5 mg cpr, em blister.",4441014,50000,DESCLASSIFICADO,COMP,33400,0.668
+"Fluoxetina, cloridrato 20mg capsula, em blister.",4441019,2000000,DESCLASSIFICADO,CPLA,616200,0.3081
+"Furosemida 40mg cpr, em blister.",4441022,680000,DESCLASSIFICADO,COMP,79968,0.1176
+"Glibenclamida 5mg cpr, em blister.",4441023,1500000,DESCLASSIFICADO,COMP,218100,0.1454
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",4441039,18000,DESCLASSIFICADO,FR.,115997.4,6.4443
+"Isossorbida, mononitrato 20mg cpr, em blister.",4441045,500000,DESCLASSIFICADO,COMP,60000,0.12
+"Isossorbida, mononitrato 40mg cpr, em blister.",4441046,360000,PERDEU,COMP,70884,0.1969
+"Levodopa 200mg + benserazida 50mg comprimido.",4441052,20000,PERDEU,COMP,20000,1
+"Levofloxacino 500mg cpr, em blister.",4441054,6000,DESCLASSIFICADO,COMP,7920,1.32
+"Levotiroxina sódica 100mcg cpr, em blister.",4441059,200000,PERDEU,COMP,13180,0.0659
+"Levotiroxina sódica 25mcg cpr, em blister.",4441060,300000,PERDEU,COMP,18450,0.0615
+"Levotiroxina sódica 50 mcg cpr, em blister.",4441061,300000,PERDEU,COMP,18300,0.061
+"Loratadina 10mg cpr, em blister.",4441066,500000,DESCLASSIFICADO,COMP,110550,0.2211
+"Losartana 50mg cpr revestido, em blister.",4441068,3200000,DESCLASSIFICADO,COMP,279680,0.0874
+"Risperidona 1mg cpr, em blister.",4441118,30000,DESCLASSIFICADO,COMP,4122,0.1374
+"Risperidona 2mg cpr, em blister.",4441119,35000,DESCLASSIFICADO,COMP,5365.5,0.1533
+"Stryphnodendron adstringens coville pomada (fitoscar), bisna",4441126,500,VENCEU,BIS,25710,51.42
+"Timolol, maleato 0,5%, colírio, frasco 5ml.",4441138,400,DESCLASSIFICADO,FR.,1372.4,3.431
+"Verapamil 80mg cpr, em blister.",4441144,500000,DESCLASSIFICADO,COMP,129100,0.2582

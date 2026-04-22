@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa 3ml, sem agulha",1267448,17,50000,ATIVO,UNIDADE,6000,0.12
+"Repelente de insetos loção citronela, frasco 200ml",1267449,16,300,ATIVO,UNIDADE,2235,7.45
+"Protetor solar, FPS 60, frasco com 120mL ou 125mL.",1267450,15,1200,ATIVO,UNIDADE,12120,10.1
+"Fita Cirúrgica Microporosa largura 10cm x 4,5m, na cor bege",1267451,6,1500,ATIVO,UNIDADE,7875,5.25
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",1267452,3,1500,ATIVO,CAIXA,17175,11.45

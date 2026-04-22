@@ -1,0 +1,33 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levomepromazina, maleato 25mg cpr.",1265621,162,180000,ATIVO,COMPRIMIDO,61200,0.34
+"Lidocaina, cloridrato 100mg/mL spray aerossol c/ 100 ml.",1265622,171,80,ATIVO,FRASCO,3604.8,45.06
+"Metoprolol, tartarato 1mg/ml, injetável, ampola 5ml.",1265623,184,200,ATIVO,AMP,2090,10.45
+"Morfina 10mg/mL injetável, ampola 1ml.",1265624,192,4000,ATIVO,AMP,8000,2
+"Nitroglicerina 5mg/mL, injetável, ampola 10ml.",1265625,200,60,ATIVO,AMP,1768.2,29.47
+"Prednisona 20mg cpr.",1265626,217,400000,ATIVO,COMPRIMIDO,100000,0.25
+"Prometazina, cloridrato 25mg cpr, em blister.",1265627,220,450000,ATIVO,COMPRIMIDO,53550,0.119
+"Tropicamida 1% solução oftalmica, frasco 5ml.",1265628,247,50,ATIVO,FRASCO,484.5,9.69
+"Levomepromazina, maleato 100mg cpr.",1265642,161,250000,ATIVO,COMPRIMIDO,172500,0.69
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",1265643,159,36000,ATIVO,COMPRIMIDO,23040,0.64
+"Morfina 30 mg cpr, em blister.",1265644,193,6000,ATIVO,COMPRIMIDO,6120,1.02
+"Heparina 5000 UI/0,25mL injetável, ampola.",1265645,139,8000,ATIVO,AMP,34240,4.28
+"Amitriptilina , cloridrato 25mg cpr.",1265647,23,1700000,ATIVO,COMPRIMIDO,134300,0.079
+"Biperideno, cloridrato 2mg cpr.",1265648,42,400000,ATIVO,COMPRIMIDO,68000,0.17
+"Biperideno, cloridrato 5mg/mL injetável, ampola 1ml.",1265649,43,400,ATIVO,AMP,732,1.83
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml (embal",1265650,48,10,ATIVO,FRASCO,214.9,21.49
+"Bupivacaína 0,25% sem vasoconstritor frasco com 20 ml (embal",1265651,49,10,ATIVO,FRASCO,210.5,21.05
+"Imipramina 25mg cpr .",1265652,147,800000,ATIVO,COMPRIMIDO,200000,0.25
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica, frasco",1265653,66,50,ATIVO,FRASCO,380.5,7.61
+"Clonazepam 2mg cpr.",1265654,72,3200000,ATIVO,COMPRIMIDO,268800,0.084
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3",1265655,77,360,ATIVO,BISNAGA,3099.6,8.61
+"Clorpromazina, cloridrato 25mg cpr.",1265656,83,250000,ATIVO,COMPRIMIDO,50000,0.2
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml (embala",1265657,51,10,ATIVO,FRASCO,195,19.5
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",1265658,86,3000,ATIVO,BISNAGA,30450,10.15
+"Diazepam 5mg cpr.",1265659,90,50000,ATIVO,COMPRIMIDO,3950,0.079
+"Etomidato 2mg/ml, injetável, ampola 10ml.",1265660,113,200,ATIVO,AMP,1868,9.34
+"Haloperidol, decanoato 70,52mg/mL, injetável, ampola 1ml.",1265661,137,7000,ATIVO,AMP,39200,5.6
+"Fenobarbital 100mg/mL, injetável, ampola 2ml.",1265662,117,200,ATIVO,AMP,336,1.68
+"Fenobarbital 40mg/mL - solução oral- 20ml, frasco de vidro â",1265663,118,2500,ATIVO,FRASCO,7725,3.09
+"Haloperidol 1mg cpr.",1265664,134,70000,ATIVO,COMPRIMIDO,8400,0.12
+"Clorpromazina, cloridrato 40mg/mL solução oral, frasco de vi",1265665,84,1200,ATIVO,FRASCO,6672,5.56
+"Haloperidol 5mg cpr.",1265666,135,250000,ATIVO,COMPRIMIDO,42500,0.17

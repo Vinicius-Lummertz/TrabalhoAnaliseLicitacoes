@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Veículo novo utilitário, tipo furgão fechado",4389103,2,PERDEU,UND,289800,144900
+"Veículo de passeio para 07 (sete) passageiros",4389104,2,VENCEU,UND,192000,96000
+"Caminhoneta, cabine simples no chassi, mais carroceria metál",4389105,1,DESCLASSIFICADO,UND,133390,133390

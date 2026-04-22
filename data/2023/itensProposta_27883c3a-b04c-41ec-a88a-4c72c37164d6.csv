@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atestado Médico",13268747,1000,DESCLASSIFICADO_LANCE,BLC,4300,4.3
+"Atestado Médico para Gestantes",13268748,100,DESCLASSIFICADO_LANCE,BLC,760,7.6
+"Auto para coleta de água para consumo humano- 2 vias autocop",13268749,50,DESCLASSIFICADO_LANCE,BLC,950,19
+"Auto de intimação vigilancia sanitaria",13268750,70,VENCEU,BLCO,1050,15
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",13268751,120,DESCLASSIFICADO_LANCE,BLC,960,8
+"Boletim de Campo FAD RG 01",13268753,800,PERDEU,BLCO,3440,4.3
+"Boletim de Campo FAD RG 02",13268754,400,DESCLASSIFICADO_LANCE,BLCO,3200,8
+"BPA individualiazado 2 vias autocopiativo",13268755,30,DESCLASSIFICADO_LANCE,BLC,720,24
+"Consentimento informado - 2 vias autocopiativo",13268756,35,DESCLASSIFICADO_LANCE,BLC,805,23
+"Controle de TOD",13268757,100,DESCLASSIFICADO_LANCE,BLCO,770,7.7
+"Declaração de Comparecimento",13268759,500,DESCLASSIFICADO_LANCE,BLC,2200,4.4
+"Ficha clínica odontológica.",13268762,100,DESCLASSIFICADO_LANCE,BLC,700,7
+"Ficha Controle de Atendimento frente e verso",13268764,30000,DESCLASSIFICADO_LANCE,UNI,1800,0.06
+"Ficha de atendimento SAMU - 2 vias autocopiativo",13268765,400,PERDEU,BLC,4000,10
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",13268767,100,PERDEU,BLC,1000,10
+"Fluxo e contra-fluxo",13268769,300,PERDEU,BLC,1500,5
+"Memorando interno.",13268770,250,PERDEU,BLC,1750,7
+"Programa Nacional de Controle da Dengue - PNCD",13268776,800,PERDEU,BLC,4000,5
+"Receituário B1- cor azul",13268777,8000,PERDEU,BLC,7920,0.99
+"Receituário B2- cor azul",13268778,500,DESCLASSIFICADO_LANCE,BLC,750,1.5
+"Receituário retinóide - 21,5x8cm cor branca",13268779,200,DESCLASSIFICADO_LANCE,BLC,880,4.4
+"Receituário simples",13268780,6000,PERDEU,BLC,13800,2.3
+"Registro Diário de Atividades",13268781,800,PERDEU,BLCO,3200,4
+"Solicitação de Eletrocardiograma",13268795,70,DESCLASSIFICADO_LANCE,BLC,590.1,8.43
+"Termo de solicitação e informação 2 vias autocopiativo",13268796,70,PERDEU,BLC,910,13
+"Receituário de Controle especial",13268798,6000,PERDEU,BLC,27600,4.6
+"Bloco de formulário 2 vias com papel carbono",13268821,100,PERDEU,BLC,1300,13
+"Bloco de formulário 2 vias com papel carbono: conforme modelo a ser encaminhado (“Comunicado de Visita – Escorpiões”; tamanho: 21,0 x 14,5 cm);",13268822,100,DESCLASSIFICADO_LANCE,BLC,1000,10

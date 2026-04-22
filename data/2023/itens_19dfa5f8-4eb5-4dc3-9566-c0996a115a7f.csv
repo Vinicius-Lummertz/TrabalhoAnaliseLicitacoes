@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pá Carregadeira Michigan 55C",4111804,10,1,ATIVO,UNIDADE,17567.57,32
+"Pá Carregadeira New Holland W130",4111805,11,2,ATIVO,UNIDADE,35135.14,33.09
+"Retroescavadeira Randon RD406",4111806,15,1,ATIVO,UNIDADE,17567.57,33.17
+"Retroescavadeira Randon RD406B",4111807,16,1,ATIVO,UNIDADE,17567.57,31.09
+"Rolo Compactador Hamm",4111808,20,1,ATIVO,UNIDADE,17567.57,32.05
+"Trator Agrícola New Holland T6.110",4111809,27,1,ATIVO,UNIDADE,17567.57,31
+"Trator Agrícola New Holland TL85E",4111810,28,1,ATIVO,UNIDADE,17567.57,32.14
+"Trator Agrícola New Holland TT4030",4111811,29,1,ATIVO,UNIDADE,17567.57,32.08

@@ -1,0 +1,40 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,28700,0.041
+"Adenosina 3mg/mL, injetável, ampola 2ml.",11967168,500,PERDEU,AMP,5400,10.8
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3780,1.26
+"Alopurinol 100mg cpr, em blister.",11967175,680000,PERDEU,COMP,142800,0.21
+"Azitromicina 500mg",11967190,150000,PERDEU,CP,157500,1.05
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,PERDEU,FR.,2280,1.14
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,6605,1.321
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,75000,0.05
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",11967209,4000,PERDEU,FR.,49200,12.3
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,168000,0.28
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,PERDEU,AMP,14350,2.87
+"Diazepam 5mg cpr.",11967250,120000,PERDEU,COMP,10800,0.09
+"Diazepam 5mg/ml solução injetavel 2ml",11967251,4000,PERDEU,AMP,3760,0.94
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,PERDEU,AMP,5400,1.08
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,6240,1.56
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,36000,1.2
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,120000,0.06
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",11967282,300,PERDEU,AMP,612,2.04
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,51850,0.061
+"Heparina 5000 UI/0,25mL injetável, ampola.",11967300,12000,PERDEU,AMP,114480,9.54
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,500000,0.1
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",11967351,2000,PERDEU,AMP,9300,4.65
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",11967352,1000,PERDEU,AM,5230,5.23
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,PERDEU,AMP,25920,3.24
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",11967356,500,PERDEU,AMP,3760,7.52
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",11967362,500,PERDEU,AM,2470,4.94
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,480000,0.12
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,13560,3.39
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,145600,0.091
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",11967376,18000,PERDEU,FR.,88740,4.93
+"Prednisona 20mg cpr.",11967377,600000,PERDEU,COMP,180000,0.3
+"Prednisona 5mg cpr.",11967378,350000,PERDEU,COMP,59500,0.17
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,6700,3.35
+"Propranolol 40mg cpr, em blister.",11967381,1000000,PERDEU,COMP,70000,0.07
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",11967384,1000,PERDEU,FR.,13600,13.6
+"rocurônio, brometo 10mg/ml, ampola 5ml.",11967385,200,PERDEU,"FR+A",2614,13.07
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,26010,43.35
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",11967401,1000,PERDEU,AMP,1840,1.84
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",11967406,2000,PERDEU,AMP,8700,4.35

@@ -1,0 +1,40 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cantoneira - 1/4 x 1",0,30,VENCEU," ",5458.5,181.95
+"Cantoneira - 1/8 x 3/4 - (SER 3/4)",0,15,VENCEU," ",979.2,65.28
+"Cantoneira - 1/8 x 5/8 - (SER 5/8)",0,15,VENCEU," ",731.1,48.74
+"Cantoneira - 3/16 x 2",0,30,VENCEU," ",6063.6,202.12
+"Cantoneira - 1/4x 2",0,40,VENCEU," ",15230.4,380.76
+"Cantoneira - 3/4 x 6",0,5,VENCEU," ",16528.35,3305.67
+"Cantoneira - 5/16 x 2",0,28,VENCEU," ",14059.08,502.11
+"Chapa FQ",0,2800,VENCEU," ",24724,8.83
+"Chapa Piso",0,350,VENCEU," ",5281.5,15.09
+"Ferro Chato - 1/2 x 1",0,80,VENCEU," ",18508,231.35
+"Ferro Chato - 1/8 x 1",0,60,VENCEU," ",3237,53.95
+"Ferro Chato - 1/8 x 1/2 - (SER. 1/2)",0,60,VENCEU," ",1485.6,24.76
+"Ferro Chato - 1/8 x 2",0,50,VENCEU," ",5335,106.7
+"Ferro Chato - 1/8 x 3/4",0,50,VENCEU," ",2392,47.84
+"Ferro Chato - 3/16 x 1/2",0,50,VENCEU," ",2403,48.06
+"Ferro Chato - 3/16 x 1",0,35,VENCEU," ",3231.2,92.32
+"Ferro Chato - 3/16 x 2",0,55,VENCEU," ",8576.7,155.94
+"Ferro Redondo 1020 (12.70) - 1/2",0,70,VENCEU," ",6202,88.6
+"Ferro Redondo 1020 (19.05) - 3/4",0,70,VENCEU," ",12744.2,182.06
+"Ferro Redondo  1020 (25.40) - 1",0,180,VENCEU," ",46870.2,260.39
+"Tubo Quad. 30x30x2.00x6000",0,110,VENCEU," ",23623.6,214.76
+"Tubo Quad. 50x50x2.00x6000",0,35,VENCEU," ",12663.7,361.82
+"Tubo Ret. 30x70x2.00x6000",0,35,VENCEU," ",13039.95,372.57
+"Tubo Ret. 40x80x3.00x6000",0,40,VENCEU," ",24906,622.65
+"Tubo Ret. 40x60x2.65x6000",0,40,VENCEU," ",17352,433.8
+"Arame Mig 1,00mm CC - ER 70S6 ROLO COM 18 KG",0,35,VENCEU," ",11126.15,317.89
+"Spay Anti Respingo",0,25,VENCEU," ",675.25,27.01
+"Disco de Corte 230x3.0x22.22 A30Q-BF",0,100,VENCEU," ",2493,24.93
+"Disco de Corte Bsic - Xpert 115x1.0",0,140,VENCEU," ",876.4,6.26
+"Disco Premium 230x1.9",0,42,VENCEU," ",1242.78,29.59
+"Disco de Corte Standard 178x3.2",0,42,VENCEU," ",424.2,10.1
+"Disco de Desbaste 115x6x22.22 A30R",0,72,VENCEU," ",817.92,11.36
+"Disco de Desbaste Secur 178x7.0",0,72,VENCEU," ",2378.88,33.04
+"Eletrodo 2.0 - Eletron Inox",0,30,VENCEU," ",2200.8,73.36
+"Eletrodo 3.25 70x18",0,30,VENCEU," ",936.6,31.22
+"Eletrodo 3.25 60x13",0,50,VENCEU," ",1438.5,28.77
+"Eletrodo 2.5mm 60x13",0,50,VENCEU," ",1262.5,25.25
+"Eletrodo de Corte - Chanfro",0,25,VENCEU," ",862.75,34.51
+"Lixa Ferro Tipo Grão 180gr 275x225",0,140,VENCEU," ",638.4,4.56

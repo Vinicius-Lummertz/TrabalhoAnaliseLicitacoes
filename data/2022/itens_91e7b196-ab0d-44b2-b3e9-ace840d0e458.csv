@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Antibacteriano enrofloxacina 50 mg; uso veterinário.",3710137,5,200,ATIVO,COMPRIMIDO,194,0.97
+"Anti-inflamatório não esteroidal meloxicam 2 mg; uso veterinário.",3710138,8,100,ATIVO,COMPRIMIDO,221,2.21
+"Anti-inflamatório não esteroidal meloxicam 0,5 mg; uso veterinário",3710139,9,100,ATIVO,COMPRIMIDO,190,1.9
+"Vermifugo (ectoparasiticida) para cães; composição: cada comprimido deverá conter 50 mg praziquantel + 144 mg pamoato de pirantel + 150 mg febantel;  uso veterinário",3710140,17,1200,ATIVO,COMPRIMIDO,2268,1.89
+"Suplemento Vitamina k hidrossolúvel 30mg/20 ml; injetável (via endovenosa e intramuscular); uso veterinário",3710141,19,5,ATIVO,FRASCO,59.2,11.84

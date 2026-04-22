@@ -1,0 +1,70 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acetilcisteina 600mg/Env 5gr",11967156,50000,PERDEU,ENV,34000,0.68
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",11967158,5000,PERDEU,BIS,9750,1.95
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",11967162,5000,PERDEU,FR.,21800,4.36
+"Ácido Valproico 250mg capsula.",11967165,400000,PERDEU,CPLA,147200,0.368
+"Ácido Valproico 500mg cpr.",11967166,650000,PERDEU,COMP,448500,0.69
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",11967167,6500,PERDEU,FR.,30251,4.654
+"Adenosina 3mg/mL, injetável, ampola 2ml.",11967168,500,PERDEU,AMP,5237.5,10.475
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3491.1,1.1637
+"Albendazol 400mg/mL suspensão oral 10ml",11967173,30000,VENCEU,FR.,38700,1.29
+"Alendronato de sódio 70mg, blister com 4cpr.",11967174,30000,PERDEU,COMP,6705,0.2235
+"Amiodarona 200mg cpr, em blister.",11967178,250000,PERDEU,COMP,99000,0.396
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",11967179,2000,PERDEU,AMP,6286,3.143
+"Anlodipino, besilato 5mg cpr, em blister.",11967186,2500000,PERDEU,COMP,76250,0.0305
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,PERDEU,FR.,4633,2.3165
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,7121.5,1.4243
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,9542.7,3.1809
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,36000,0.024
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",11967209,4000,PERDEU,FR.,57004,14.251
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,PERDEU,FR,15714,0.0873
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",11967211,1000000,PERDEU,COMP,46500,0.0465
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,113760,0.1896
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,22675,0.0907
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,40880,0.146
+"Clonazepam 2,5mg/mL 20ml",11967228,6000,PERDEU,FR.,13961.4,2.3269
+"Clopidogrel 75mg comprimido revestido, em blister.",11967233,280000,PERDEU,COMP,67396,0.2407
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",11967236,7000,PERDEU,FR.,6608.7,0.9441
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,PERDEU,AMP,11115,2.223
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,35750,0.065
+"Digoxina 0,25mg cpr, em blister.",11967254,200000,PERDEU,COMP,42000,0.21
+"Simeticona 75mg/mL solução oral, frasco 10ml.",11967257,15000,PERDEU,FR.,25200,1.68
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,37410,1.247
+"Doxiciclina 100mg cpr, em blister.",11967263,1000,PERDEU,COMP,513,0.513
+"Espironolactona 25mg cpr, em blister.",11967271,1000000,PERDEU,COMP,210000,0.21
+"Fenitoina 100mg cpr, em blister.",11967274,400000,VENCEU,COMP,36000,0.09
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",11967280,2000,PERDEU,AM,4887,2.4435
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",11967282,300,PERDEU,AMP,558.9,1.863
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,159000,0.0795
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",11967287,4000,VENCEU,FR,22680,5.67
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,64600,0.076
+"Heparina 5000 UI/0,25mL injetável, ampola.",11967300,12000,PERDEU,AMP,81000,6.75
+"Hidrocortisona 100mg pó para suspensão injetável.",11967302,2000,PERDEU,FR/AM,8240,4.12
+"Hidrocortisona 500mg pó para suspensão injetável.",11967303,3000,PERDEU,FR/AM,17460,5.82
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",11967324,7000,PERDEU,COMP,18550,2.65
+"Lidocaína 2% gel, bisnaga 30g.",11967331,10000,PERDEU,BIS,46550,4.655
+"Lidocaina, cloridrato 100mg/mL spray aerossol c/ 100 ml.",11967333,300,PERDEU,FR.,13089,43.63
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,360000,0.072
+"Metoclopramida, cloridrato 10mg cpr, em blister.",11967343,850000,PERDEU,COMP,50235,0.0591
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,PERDEU,COMP,11928,0.3976
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",11967349,10000,PERDEU,BIS,81500,8.15
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",11967351,2000,PERDEU,AMP,3955.6,1.9778
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",11967352,1000,PERDEU,AM,3260,3.26
+"Morfina 10mg/mL injetável, ampola 1ml.",11967354,8000,PERDEU,AMP,17520,2.19
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",11967362,500,PERDEU,AM,1222.5,2.445
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,47304,3.942
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,1298,6.49
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,8760,2.19
+"Oxido de zinco 25% (Pasta d´agua). Embalagem com 80g a 100g,",11967369,3000,PERDEU,BIS,16500,5.5
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",11967370,30000,PERDEU,FR.,51000,1.7
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,218400,0.1365
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",11967376,18000,VENCEU,FR.,75420,4.19
+"Prometazina 25mg/mL injetável, ampola 2ml.",11967379,2000,PERDEU,AMP,3956,1.978
+"Propranolol 40mg cpr, em blister.",11967381,1000000,PERDEU,COMP,25700,0.0257
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,45995,0.9199
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,PERDEU,FR.,7279.3,1.0399
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,VENCEU,COMP,35880,0.0299
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",11967401,1000,PERDEU,AMP,1249.9,1.2499
+"Tiamina 300 mg cpr, em blister.",11967403,6000,PERDEU,COMP,1289.4,0.2149
+"Tramadol, cloridrato 50mg capsula, em blister.",11967405,1200000,PERDEU,COMP,256680,0.2139
+"vancomicina 500mg, injetável, frasco ampola.",11967408,200,PERDEU,FR/AM,908.36,4.5418

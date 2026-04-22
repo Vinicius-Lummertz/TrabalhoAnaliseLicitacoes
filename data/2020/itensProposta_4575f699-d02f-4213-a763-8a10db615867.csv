@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adubo químico - composição NPK 10-10-10 - Saco de 50kg",4399113,60,VENCEU,SC,8593.8,143.23
+"Adubo de composto orgânico, de origem vegetal e animal comp",4399114,30,NAO_COTOU,MC,0,0
+"Calcário fertilizante - saco de 50kg",4399115,50,NAO_COTOU,SC,0,0
+"estabilizador/neutralizador de pH",4399116,5,VENCEU,LT,465,93
+"Ureia - saco de 50kg",4399117,20,NAO_COTOU,SC,0,0
+"Ração de peixe - ideal para tilápia - saco de 25kg",4399118,50,NAO_COTOU,SC,0,0
+"Herbicida não-seletivo e não-agrícola - GLIFOSATO",4399119,700,VENCEU,LT,16240,23.2

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 5mL ampola.",1267960,14,10000,ATIVO,AMP,1900,0.19
+"Ampicilina 500mg, capsula, em blister.",1267961,28,5000,ATIVO,CAPSULA,1755,0.351
+"Bicarbonato de sódio 8,4%, injetável, ampola 10ml.",1267962,41,500,ATIVO,AMP,310,0.62
+"Brometo de N-butilescopolamina 20mg/mL injetável, ampola 1ml",1267963,45,5000,ATIVO,AMP,5300,1.06
+"Cloreto de sódio 20%, ampola 10ml.",1267964,81,600,ATIVO,AMP,186,0.31
+"Diazepam 5mg/mL solução injetável, ampola 2ml.",1267965,91,3000,ATIVO,AMP,1770,0.59
+"Glicose 50%, ampola 10ml.",1267966,132,1000,ATIVO,AMP,340,0.34

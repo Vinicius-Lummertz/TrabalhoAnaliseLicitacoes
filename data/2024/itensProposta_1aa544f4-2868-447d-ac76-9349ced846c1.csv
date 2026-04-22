@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,300,VENCEU," ",945,3.15
+"Cano cobre ½;",0,60,VENCEU," ",828,13.8
+"Cano cobre ¼",0,60,VENCEU," ",546.6,9.11
+"Cano cobre ¾;",0,60,VENCEU," ",1226.4,20.44
+"Cano cobre 3/8",0,60,VENCEU," ",648,10.8
+"Cano cobre 5/8",0,60,VENCEU," ",961.2,16.02
+"Cano esponjoso ¼",0,70,VENCEU," ",177.1,2.53
+"Cano esponjoso ½",0,70,VENCEU," ",177.1,2.53
+"Cano esponjoso ¾",0,70,VENCEU," ",221.2,3.16
+"Cano esponjoso 3/8",0,70,VENCEU," ",177.1,2.53
+"Cano esponjoso 5/8",0,70,VENCEU," ",199.5,2.85
+"Capacitor 380V 2 UF",0,10,VENCEU," ",79.2,7.92
+"Capacitor 380V 4 UF",0,10,VENCEU," ",85.5,8.55
+"Capacitor 380V 6 UF",0,10,VENCEU," ",88.5,8.85
+"Capacitor 380V 25 UF",0,10,VENCEU," ",124.9,12.49
+"Capacitor 380V 30 UF",0,10,VENCEU," ",139.2,13.92
+"Capacitor 380V 35 UF",0,10,VENCEU," ",153.5,15.35
+"Capacitor 380V 40 UF",0,10,VENCEU," ",167.7,16.77
+"Capacitor 380V 45 UF",0,10,VENCEU," ",169.2,16.92
+"Capacitor 380V 55 UF",0,10,VENCEU," ",181.9,18.19
+"Chave contactora CWM 09",0,10,VENCEU," ",834.7,83.47
+"Chave contactora CWM 10",0,10,VENCEU," ",872.6,87.26
+"Compressor para Split 9000 BTUS",0,3,VENCEU," ",945.39,315.13
+"Compressor para Split 12000 BTUS",0,3,VENCEU," ",1155.6,385.2
+"Compressor para Split 24000 BTUS",0,3,VENCEU," ",1701,567
+"Compressor para Split 48000 BTUS",0,3,VENCEU," ",2103,701
+"Compressor para Split 60000 BTUS",0,3,VENCEU," ",3234.96,1078.32
+"Controle remoto univ. ar split",0,10,VENCEU," ",151.9,15.19
+"Gás R22 (carga)",0,100,VENCEU," ",14537,145.37
+"Gas R410 A (carga)",0,90,VENCEU," ",13079.7,145.33
+"Hélice ar cond. 7000 a 24.000 BTUS",0,15,VENCEU," ",1019.55,67.97
+"90328929 PLACA ELETRONICA",0,10,VENCEU," ",1305.9,130.59
+"87426773	MOTOR DO VENTILADOR",0,10,VENCEU," ",714.7,71.47
+"Suporte split 7/12000btus",0,50,VENCEU," ",664,13.28
+"Suporte split 18/30000btus",0,50,VENCEU," ",1438.5,28.77
+"Termostato do ar condicionado",0,10,VENCEU," ",167.7,16.77
+"Turbina  do ventilador",0,10,VENCEU," ",1033.9,103.39
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",0,200,VENCEU," ",16064,80.32
+"Limpeza completa do ar split com retirada do aparelho",0,220,VENCEU," ",27618.8,125.54
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos (hora)",0,300,VENCEU," ",14598,48.66
+"ANÁLISE DE AR (16); CO E CO2 (16); UMIDADE, PRESSÃO, TEMPERATURA, VELOCIDADE (16); AERODISPERSÓI DES (",0,2,VENCEU," ",2895.18,1447.59
+"ANÁLISE DA QUALIDADE DA ÁGUA INTERNA DO SISTEMA DE CLIMATIZAÇÃO.",0,12,VENCEU," ",1467.12,122.26

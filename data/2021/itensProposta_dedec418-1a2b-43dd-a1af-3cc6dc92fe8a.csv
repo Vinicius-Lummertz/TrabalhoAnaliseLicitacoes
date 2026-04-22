@@ -1,0 +1,65 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",4403113,120,DESCLASSIFICADO,GAL,1008,8.4
+Alvejante,4403114,30,DESCLASSIFICADO,GAL,393,13.1
+"Amaciante para tecidos",4403115,50,PERDEU,GAL,555,11.1
+"Desinfetante de uso geral",4403116,180,PERDEU,GAL,2160,12
+"Detergente Neutro Líquido de Uso Geral",4403117,180,PERDEU,GAL,2376,13.2
+"Sabão liquido de coco",4403118,50,PERDEU,GAL,703,14.06
+"Detergente com Cera Para Veículos",4403119,120,DESCLASSIFICADO,GAL,1929.6,16.08
+"Limpa pneus com silicone",4403120,60,DESCLASSIFICADO,GAL,2932.8,48.88
+"Desinfetante limpador de uso geral",4403121,12,INABILITADO,GAL,1632,136
+"Sabonete Líquido com Bico Dosador Pump",4403122,150,DESCLASSIFICADO,EMB,2014.5,13.43
+"Sabonete líquido Galão",4403123,50,PERDEU,GAL,1035.5,20.71
+"Saboneteira de Mesa com Pump",4403124,10,PERDEU,UND,142,14.2
+"Álcool etílico em gel 70% (70 INPM)",4403125,400,PERDEU,GR,3672,9.18
+"Álcool etílico hidratado 96% (92,8º INPM)",4403126,20,DESCLASSIFICADO,LT,217.4,10.87
+"Lustra móveis.",4403127,15,DESCLASSIFICADO,FRA,103.2,6.88
+"Desodorizador de ambientes",4403128,30,PERDEU,ML,336,11.2
+"Escova Sanitária",4403129,30,PERDEU,UND,288,9.6
+"Sabão em barra",4403130,30,PERDEU,PCT,282,9.4
+"SABAO EM PO",4403131,80,PERDEU,KG,896,11.2
+"SAPONACEO EM PO",4403132,5,PERDEU,GR,14.85,2.97
+"Saponáceo cremoso",4403133,60,DESCLASSIFICADO,ML,407.4,6.79
+"Escova para lavar roupas",4403134,20,PERDEU,UND,59.4,2.97
+"Escova para higienização de mãos e unhas",4403135,10,PERDEU,UND,59.7,5.97
+"Esfregão de Aço",4403136,250,PERDEU,UND,492.5,1.97
+"Esponja de lã de Aço.",4403137,100,PERDEU,PCT,240,2.4
+"Esponja Multiuso",4403138,60,PERDEU,PCT,2020.2,33.67
+"FLANELA PARA LIMPEZA.",4403139,30,PERDEU,UND,73.5,2.45
+"LUVA PARA LIMPEZA",4403140,20,VENCEU,UND,50.8,2.54
+"Balde Espremedor",4403141,2,PERDEU,UND,788,394
+"REFIL MOP UMIDO",4403142,60,VENCEU,UND,618,10.3
+"Cabo de aluminio para suporte de Mop Úmido",4403143,10,PERDEU,UND,290,29
+"Balde com espremedor giratório",4403144,6,CANCELADO,UND,822,137
+"Refil para balde giratório",4403145,40,PERDEU,UND,600,15
+"Pá coletora plástica.",4403146,10,PERDEU,UND,249.9,24.99
+"Pá de lixo plástica.",4403147,10,DESCLASSIFICADO,UND,123.3,12.33
+"Pano de copa e cozinha",4403148,100,VENCEU,UND,275,2.75
+"Pano Multiúso",4403149,50,PERDEU,RL,5850,117
+"Bobina de Papel Toalha",4403150,80,PERDEU,CX,6480,81
+"DISPENSER PARA PAPEL TOALHA",4403151,2,PERDEU,UND,499.94,249.97
+"Papel higiênico",4403152,6,PERDEU,FRD,428.82,71.47
+"Papel Higiênico Rolão",4403153,60,PERDEU,FRD,2460,41
+"Porta Papel Higiênico Rolão",4403154,4,VENCEU,UND,112,28
+"RODO PLASTICO",4403155,10,PERDEU,UND,149.7,14.97
+"Saca de tecido crua",4403156,10,CANCELADO,PCT,399.7,39.97
+"Saco plástico de lixo doméstico de polietileno 300 L",4403157,30,PERDEU,UND,5436,181.2
+"Saco plástico de lixo doméstico de polietileno 240 L",4403158,30,PERDEU,UND,4433.1,147.77
+"Saco plástico de lixo doméstico de polietileno 150 L",4403159,30,PERDEU,UND,3570,119
+"Saco plástico de lixo doméstico de polietileno 100 L",4403160,15,PERDEU,UND,1325.55,88.37
+"Saco plástico de lixo doméstico de polietileno 50 L",4403161,15,PERDEU,UND,269.55,17.97
+"Saco plástico de lixo doméstico de polietileno 30 L",4403162,15,PERDEU,UND,213,14.2
+"Saco plástico de lixo doméstico de polietileno 20 L",4403163,15,PERDEU,UND,118.05,7.87
+"Vassoura Nylon",4403164,30,PERDEU,UND,929.1,30.97
+"VASSOURA PALHA",4403165,20,DESCLASSIFICADO,UND,595.8,29.79
+"Copo descartavel 180 ml",4403166,7,PERDEU,CX,1169,167
+"Copo descartável 300 ml Transparente",4403167,7,PERDEU,CX,1294.93,184.99
+"Guardanapo de papel folha simples.",4403168,200,PERDEU,EMB,574,2.87
+"Balde com separador de partículas 19L",4403169,4,PERDEU,UND,238.68,59.67
+"Desentupidor Sanitário de Borracha",4403170,4,PERDEU,UND,51.88,12.97
+"Lixeira Escritório 15L sem tampa",4403171,30,PERDEU,UND,1019.1,33.97
+"Lixeira com pedal 15L",4403172,10,PERDEU,UND,832,83.2
+"Lixeira com tampa basculante 30L",4403173,8,VENCEU,UND,360,45
+"Lixeiras com pedal e roda 100L",4403174,8,PERDEU,UND,3944,493
+"Balde Multiuso 20L Reforçado",4403175,10,PERDEU,UND,379.9,37.99
+"Mop Auto Torção",4403176,5,VENCEU,UND,240,48

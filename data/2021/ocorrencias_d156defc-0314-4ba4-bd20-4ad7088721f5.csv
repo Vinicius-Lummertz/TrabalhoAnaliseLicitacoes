@@ -1,0 +1,7 @@
+data,justificativa,responsavel,tipo
+2022-06-24,"PASSAGEM DE ITEM 042","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-06-24,"ALTERAÇÃO DE PREÇO APOS RECEBIMENTO","CLESIO SALVARO",ALTERACAO_PRECOS
+2022-07-04,"passagem de item 142 para fornecedor remanescente","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-07-04,"Alteração de preço apos recebimento do item 142","CLESIO SALVARO",ALTERACAO_PRECOS
+2022-08-24,"Chamamento de remanescente","CLESIO SALVARO",RECEBIMENTO_POR_TRANSF
+2022-08-24,"Alteração de valor apos recebimento de item 229","CLESIO SALVARO",ALTERACAO_PRECOS

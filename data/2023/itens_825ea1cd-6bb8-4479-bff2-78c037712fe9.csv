@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – VERDE",5287092,11,1000,ATIVO,METRO,5570,5.57
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – VERMELHO",5287093,12,1000,ATIVO,METRO,5570,5.57
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – BRANCO",5287094,13,1000,ATIVO,METRO,5570,5.57
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – AZUL",5287095,14,1000,ATIVO,METRO,5570,5.57
+"Cabo Flexível, bitola 10,0 mm² Isolamento EPR 1kV – PRETO",5287096,15,1000,ATIVO,METRO,5570,5.57
+"Lâmpada Bulbo LED 70W - E40",5287097,69,100,ATIVO,PEÇAS,5924,59.24
+"Lâmpada multivapor metálico 1000w, bulbo tubolar, E-40, vida útil mínima de 9.000h, Im 85000 lumens",5287098,70,30,ATIVO,PACOTE,2358,78.6
+"MiniDisjuntor Unipolar Termomagnético 32A, curva C, padrão IEC/DIN",5287099,75,84,ATIVO,PEÇAS,445.2,5.3
+"MiniDisjuntor Unipolar Termomagnético 20A, curva C, padrão IEC/DIN",5287100,76,6,ATIVO,PEÇAS,31.8,5.3
+"MiniDisjuntor Unipolar Termomagnético 63A, curva C, padrão IEC/DIN",5287101,77,2,ATIVO,PEÇAS,12.98,6.49
+"MiniDisjuntor Bipolar Termomagnético 50A, curva C, padrão IEC/DIN",5287102,78,2,ATIVO,PEÇAS,36.16,18.08
+"MiniDisjuntor Bipolar Termomagnético 63A, curva C, padrão IEC/DIN",5287103,79,2,ATIVO,PEÇAS,36.16,18.08

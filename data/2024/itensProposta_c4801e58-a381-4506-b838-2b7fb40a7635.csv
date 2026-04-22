@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Memória DDR3 8Gb para Notebook",14940405,16,VENCEU,UND,881.6,55.1
+"Memória DDR4 8Gb para Notebook",14940407,10,PERDEU,UND,2200,220
+"SSD 240 GB",14940431,10,VENCEU,UND,1214,121.4
+"SSD 480 GB",14940432,5,PERDEU,UND,1003.5,200.7

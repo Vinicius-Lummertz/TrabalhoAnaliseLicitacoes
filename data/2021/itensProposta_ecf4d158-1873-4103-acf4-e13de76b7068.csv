@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",5093027,2800000,PERDEU,COMP,165200,0.059
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",5093028,6000,PERDEU,AMP,7614,1.269
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",5093037,2000,PERDEU,AM,3240,1.62
+"Anlodipino, besilato 5mg cpr, em blister.",5093054,2000000,PERDEU,COMP,120000,0.06
+"Atropina 0,25mg/mL, injetável, ampola 1ml.",5093056,1000,PERDEU,AMP,989,0.989
+"Captopril 25mg cpr, em blister.",5093077,1500000,PERDEU,COMP,88500,0.059
+"Cimetidina 150mg/ml, ampola 2ml.",5093093,5000,PERDEU,AM,16950,3.39
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",5093106,7000,PERDEU,FR.,7700,1.1
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola 2,5mL.",5093116,24000,PERDEU,AM,75360,3.14
+"Heparina 5000 UI/0,25mL injetável, ampola.",5093169,15000,PERDEU,AMP,154500,10.3
+"Lidocaina 2% + epinefrina 1:200.000 20ml, frasco de vidro.",5093208,5000,PERDEU,FR/AM,32850,6.57
+"Lidocaina 2%, sem vaso constritor 20ml, frasco de vidro.",5093210,6000,PERDEU,FR/AM,37860,6.31
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",5093242,2000,PERDEU,AM,19440,9.72
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",5093293,8000,PERDEU,AMP,16400,2.05

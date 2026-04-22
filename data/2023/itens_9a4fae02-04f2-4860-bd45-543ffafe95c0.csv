@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pneu 215/75 R17.5 127/124 M",4787563,14,12,ATIVO,UNIDADE,6359.88,529.99
+"Pneu 120/80 R18 Traseiro",4787564,18,30,ATIVO,UNIDADE,7440,248
+"Pneu 90/90 R21 Dianteiro",4787565,21,90,ATIVO,UNIDADE,16288.2,180.98

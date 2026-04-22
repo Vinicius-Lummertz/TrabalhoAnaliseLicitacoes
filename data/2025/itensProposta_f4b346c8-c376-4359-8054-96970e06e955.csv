@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pesquisa de Contagem Classificada de veículos 24 horas com filmagem."," ",150,VENCEU," ",690000,4600
+"Pesquisa  de Contagem de pedestres 24 horas com filmagem."," ",24,VENCEU," ",60000,2500
+"Elaboração de Programações Semafóricas em Semáforos Existentes e à Implantar."," ",20,VENCEU," ",30000,1500
+"Estudo de engenharia para viabilidade de implantação de controle semafórico."," ",20,VENCEU," ",160000,8000
+"Projeto de Sinalização Semafórica (projeto de implantação de semáforo)."," ",20,VENCEU," ",82000,4100
+"Dimensionamento de Defasagens para onda verde (sincronização)."," ",5,VENCEU," ",23500,4700
+"Projeto funcional de circulação viária - por km."," ",70,VENCEU," ",105000,1500
+"Projeto funcional de circulação viária - por interseção."," ",330,VENCEU," ",198000,600
+"Simulação de tráfego em software consagrado."," ",39,VENCEU," ",390000,10000
+"Estudo de capacidade e nível de serviço em software de simulação consagrado."," ",25,VENCEU," ",100000,4000
+"Levantamento topográfico expedito."," ",15,VENCEU," ",21000,1400
+"Projeto básico de redefinição de geometria."," ",15,VENCEU," ",69000,4600
+"Projetos e cadastro de sinalização horizontal e vertical (reg. e adv.) - por km."," ",70,VENCEU," ",147000,2100
+"Projetos e cadastro de sinalização horizontal e vertical (reg. e adv.) - por interseção."," ",330,VENCEU," ",264000,800
+"Estudo de Tráfego para empreendimentos de pequeno porte (excluído pesquisas e simulações, que formam item próprio da planilha)."," ",1,VENCEU," ",21500,21500
+"Estudo de Tráfego para empreendimentos de médio porte (excluído pesquisas e simulações, que formam item próprio da planilha)."," ",1,VENCEU," ",30000,30000
+"Estudo de Tráfego para empreendimentos de grande porte (excluído pesquisas e simulações, que formam item próprio da planilha)."," ",2,VENCEU," ",93000,46500

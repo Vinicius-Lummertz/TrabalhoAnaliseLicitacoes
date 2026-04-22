@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aruela lisa 3/8 zincado branco",0,1,VENCEU," ",11.27,11.27
+"Aruela lisa M10 zincado branco",0,1,VENCEU," ",10.73,10.73
+"Bico Atomizador",0,4,VENCEU," ",458.56,114.64
+"BOMBA DO ÓLEO",0,5,VENCEU," ",4541,908.2
+"Braço misturador 1/2 x PUG direito",0,44,VENCEU," ",1518.44,34.51
+"Braço misturador 1/2 x PUG esquerdo",0,44,VENCEU," ",1518.44,34.51
+"Contato auxiliar frontal HKF-11",0,2,VENCEU," ",121.92,60.96
+"Contato força AF09",0,2,VENCEU," ",290.7,145.35
+"Controlador de chama duplo estágio",0,2,VENCEU," ",1709.38,854.69
+"Controlador de pesagem RTU",0,2,VENCEU," ",4424.78,2212.39
+"Disjutor motor MS132",0,2,VENCEU," ",570,285
+"Eletrodo de ignição haste 1/8",0,4,VENCEU," ",670.32,167.58
+"Gaiola manga usina de asfalto",0,120,VENCEU," ",12768,106.4
+"Kit transformador de ignição",0,2,VENCEU," ",1583.32,791.66
+"Mancal F209",0,20,VENCEU," ",532,26.6
+"Mancal F210",0,20,VENCEU," ",753.8,37.69
+"Mancal F211",0,20,VENCEU," ",753.8,37.69
+"Manga poliéster 1800 x 160 mm",0,130,VENCEU," ",18608.2,143.14
+"Manga poliéster 1800 x 160 mm",0,88,VENCEU," ",1920.16,21.82
+"Parafusos da rosca parcial 10 x 80mm",0,1,VENCEU," ",118.44,118.44
+"Parafusos do cabo 3/8 x 63mm",0,1,VENCEU," ",179.24,179.24
+"Porca sextavada C8 M10 x 1,5",0,2,VENCEU," ",40.1,20.05
+"Porca sextavada G8 UNC 3/8",0,2,VENCEU," ",53.24,26.62
+"Queimador de óleo 250.000 kcal",0,3,VENCEU," ",14743.98,4914.66
+"Rele base RE3",0,5,VENCEU," ",4319.3,863.86
+"Rele de segurança RT9",0,4,VENCEU," ",3279.4,819.85
+"Rele interface 220v 2NAF 8A + Base + dio",0,4,VENCEU," ",176.88,44.22
+"Rolamento 2092",0,40,VENCEU," ",2723.6,68.09
+"Rolete esteira",0,15,VENCEU," ",4550.4,303.36
+"Rolo de apoio do secador d=300x125mm",0,2,VENCEU," ",4756.32,2378.16
+"Temporizador eletrônico CT-TGD 12",0,2,VENCEU," ",663.72,331.86
+"Termo resistência PT100 duplo d=10x100mm",0,2,VENCEU," ",604.82,302.41
+"Válvula de pulso 1 1/2",0,4,VENCEU," ",1935.44,483.86
+"MAO DE OBRA MECANICA",0,70,VENCEU," ",8091.3,115.59
+"SERVICO DE TORNO E SOLDA",0,40,VENCEU," ",5763.6,144.09

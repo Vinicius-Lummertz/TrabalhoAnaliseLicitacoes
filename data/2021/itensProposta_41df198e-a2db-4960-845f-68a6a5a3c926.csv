@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto para drenagem 200mm PS1 simples",4400576,4200,VENCEU,M,83580,19.9
+"Tubo de concreto para drenagem 300mm PS1 simples",4400577,7000,VENCEU,M,157500,22.5
+"Tubo de concreto para drenagem 400mm PS1 simples",4400578,6000,PERDEU,M,177000,29.5
+"Tubo de concreto para drenagem 400mm perfurado PS1",4400579,3000,PERDEU,M,103500,34.5
+"Tubo de concreto para drenagem 500mm PS1 simples",4400580,2000,PERDEU,M,86000,43
+"Tubo de concreto para drenagem 600mm PS1 simples",4400581,1000,PERDEU,M,56000,56
+"Tubo de concreto para drenagem 800mm PA1 - NBR",4400582,1000,PERDEU,M,183000,183
+"Tubo de concreto para drenagem 1000mm PA1 -NBR",4400583,800,PERDEU,M,200000,250
+"Tubo de concreto para drenagem 1200mm PA2 - NBR",4400584,100,PERDEU,M,42000,420

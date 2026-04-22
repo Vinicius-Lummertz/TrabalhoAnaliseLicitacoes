@@ -1,0 +1,57 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",0,70,NAO_COTOU," ",0,0
+"Camisa operacional (gandola) feminina padrão CBMSC",0,5,NAO_COTOU," ",0,0
+"Calça operacional masculina padrão CBMSC",0,70,NAO_COTOU," ",0,0
+"Calça operacional feminina padrão CBMSC",0,5,NAO_COTOU," ",0,0
+"Cobertura bico de pato operacional padrão CBMSC",0,30,NAO_COTOU," ",0,0
+"Luva de posto masculina",0,6,NAO_COTOU," ",0,0
+"Japona operacional dupla face padrão CBMSC",0,10,NAO_COTOU," ",0,0
+"Blusa de lã azul",0,10,NAO_COTOU," ",0,0
+"Blusa Fleece Vermelho",0,30,NAO_COTOU," ",0,0
+"Cachecol de fleece",0,20,NAO_COTOU," ",0,0
+"Touca de fleece",0,30,NAO_COTOU," ",0,0
+"Camiseta vermelha gola redonda padrão CBMSC",0,150,NAO_COTOU," ",0,0
+"Camisa vermelha gola polo padrão CBMSC",0,70,NAO_COTOU," ",0,0
+"Fivela para cinto Bombeiro Militar",0,20,NAO_COTOU," ",0,0
+"Lona de nylon cor vermelha (rolo 50m)",0,2,NAO_COTOU," ",0,0
+"Biriba de identificação",0,30,NAO_COTOU," ",0,0
+"Calção guarda-vidas Militar",0,50,NAO_COTOU," ",0,0
+"Camiseta regata guarda-vidas Militar",0,50,NAO_COTOU," ",0,0
+"Camiseta manga longa guarda-vidas Militar",0,50,NAO_COTOU," ",0,0
+"Agasalho completo guarda-vidas Militar",0,25,NAO_COTOU," ",0,0
+"Camiseta regata branca",0,70,NAO_COTOU," ",0,0
+"Camisa operacional (gandola) masculina padrão CBMSC Sob Medi",0,2,NAO_COTOU," ",0,0
+"Calça operacional masculina padrão CBMSC Sob Medida Sob Medi",0,2,NAO_COTOU," ",0,0
+"Japona operacional dupla face padrão CBMSC Sob Medida",0,1,NAO_COTOU," ",0,0
+"Blusa de lã azul Sob Medida",0,1,NAO_COTOU," ",0,0
+"Camiseta vermelha gola redonda padrão CBMSC Sob Medida",0,5,NAO_COTOU," ",0,0
+"Camisa vermelha gola polo padrão CBMSC Sob Medida",0,5,NAO_COTOU," ",0,0
+"Calção guarda-vidas Militar Sob Medida",0,3,NAO_COTOU," ",0,0
+"Camiseta regata branca Sob Medida",0,3,NAO_COTOU," ",0,0
+"Agasalho completo guarda-vidas Militar Sob Medida",0,1,NAO_COTOU," ",0,0
+"Cobertura bico de pato operacional bombeiro comunitário padr",0,100,VENCEU," ",3172,31.72
+"Fivela para cinto Bombeiro Comunitário",0,100,VENCEU," ",1883,18.83
+"Camiseta vermelha gola redonda padrão bombeiro comunitário",0,120,VENCEU," ",4995.6,41.63
+"Calça Operacional Bombeiro Comunitário (BC) Feminina",0,50,VENCEU," ",5452,109.04
+"Calça Operacional Bombeiro Comunitário (BC) Masculina",0,50,VENCEU," ",5452,109.04
+"Gandola feminina bombeiro comunitário",0,50,VENCEU," ",8178,163.56
+"Gandola masculina bombeiro comunitário",0,50,VENCEU," ",8178,163.56
+"Tarjeta de identificação (nome) em tecido operacional",0,100,VENCEU," ",1189,11.89
+"Bota modelo padrão CBMSC",0,100,VENCEU," ",10000,100
+"Medalha Mérito Tempo de Serviço 30 Anos (Ouro)",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito Tempo de Serviço 20 Anos (Prata)",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito Tempo de Serviço 10 Anos (Bronze)",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito Bombeiro Militar Categoria Ouro",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito Bombeiro Militar Categoria Prata",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito Bombeiro Militar Categoria Bronze",0,5,NAO_COTOU," ",0,0
+"Medalha de Atendimento Pré-Hospitalar",0,5,NAO_COTOU," ",0,0
+"Medalha de Salvamento Aquático",0,5,NAO_COTOU," ",0,0
+"Medalha de Mérito da Segurança Contra Incêndios",0,5,NAO_COTOU," ",0,0
+"Medalha Mérito da Aviação CBMSC",0,1,NAO_COTOU," ",0,0
+"Medalha Mérito Comunitário CBMSC",0,10,NAO_COTOU," ",0,0
+"Medalha de Mérito Cinotécnico",0,1,NAO_COTOU," ",0,0
+"Bóton Amigo do Bombeiro",0,5,NAO_COTOU," ",0,0
+"Distintivo Força Veterana",0,5,NAO_COTOU," ",0,0
+"Pasta Para Diplomas",0,5,NAO_COTOU," ",0,0
+"Gola Polo Agente Temporário / Estagiário",0,80,VENCEU," ",3840,48
+"Jaqueta Agente Temporário/ Estagiário",0,20,VENCEU," ",4300,215

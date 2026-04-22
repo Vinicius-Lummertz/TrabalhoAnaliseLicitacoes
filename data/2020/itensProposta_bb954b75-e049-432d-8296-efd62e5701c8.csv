@@ -1,0 +1,53 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4445415,130000,DESCLASSIFICADO,COMP,31200,0.24
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4445416,12000,DESCLASSIFICADO,BIS,29952,2.496
+"Ácido Acetilsalicilico 100mg cpr, em blister.",4445417,2000000,DESCLASSIFICADO,COMP,86000,0.043
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",4445418,8000,DESCLASSIFICADO,AMP,6184,0.773
+"Ácido fólico 5mg cpr, em blister.",4445419,600000,DESCLASSIFICADO,COMP,29400,0.049
+"Água destilada 10mL ampola.",4445427,18000,PERDEU,AMP,4662,0.259
+"Água destilada 5mL ampola.",4445428,10000,VENCEU,AMP,1900,0.19
+"Albendazol 400mg comprimido mastigável, em blister.",4445429,15000,DESCLASSIFICADO,COMP,6600,0.44
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",4445436,1000,DESCLASSIFICADO,AMP,2120,2.12
+"Ampicilina 500mg, capsula, em blister.",4445442,5000,VENCEU,CPLA,1755,0.351
+"Bicarbonato de sódio 8,4%, injetável, ampola 10ml.",4445455,500,VENCEU,AMP,310,0.62
+"Brometo de N-butilescopolamina 20mg/mL injetável, ampola 1ml",4445459,5000,VENCEU,AMP,5300,1.06
+"Captopril 25mg cpr, em blister.",4445466,1500000,DESCLASSIFICADO,COMP,79500,0.053
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",4445479,2000,DESCLASSIFICADO,FR/AM,20060,10.03
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",4445492,600,PERDEU,AMP,193.8,0.323
+"Cloreto de sódio 0,9%, ampola 10ml.",4445494,4000,DESCLASSIFICADO,AMP,1292,0.323
+"Cloreto de sódio 20%, ampola 10ml.",4445495,600,VENCEU,AMP,186,0.31
+"Diazepam 5mg/mL solução injetável, ampola 2ml.",4445505,3000,VENCEU,AMP,1770,0.59
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",4445506,25000,PERDEU,AMP,18250,0.73
+"Diclofenaco sódico 50mg cpr, em blister.",4445507,600000,PERDEU,COMP,40800,0.068
+"Digoxina 0,25mg cpr, em blister.",4445508,250000,DESCLASSIFICADO,COMP,21750,0.087
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4445511,16000,PERDEU,FR.,14400,0.9
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",4445514,18000,PERDEU,FR.,15660,0.87
+"Enalapril, maleato 10mg cpr, em blister.",4445518,2000000,DESCLASSIFICADO,COMP,76000,0.038
+"Enalapril, maleato 20mg cpr, em blister.",4445519,1200000,DESCLASSIFICADO,COMP,72000,0.06
+"Eritromicina 50mg/mL suspensão oral,  frasco 60ml.",4445522,500,PERDEU,FR.,2495,4.99
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",4445535,200,PERDEU,AMP,262,1.31
+"Fosfato de sódio monobásico+ Fosfato de Sódio dibásico 16 g",4445540,1500,DESCLASSIFICADO,FR.,7890,5.26
+"Furosemida 10mg/mL injetável, ampola 2ml.",4445541,14000,DESCLASSIFICADO,AMP,8680,0.62
+"Glicose 25% , ampola 10ml.",4445545,2000,PERDEU,AMP,646,0.323
+"Glicose 50%, ampola 10ml.",4445546,1000,VENCEU,AMP,340,0.34
+"Hidroclorotiazida 25mg cpr, em blister.",4445554,2300000,PERDEU,COMP,50600,0.022
+"Hidrocortisona 100mg pó para suspensão injetável.",4445555,3000,PERDEU,FR/AM,8640,2.88
+"Hidrocortisona 500mg pó para suspensão injetável.",4445556,4000,DESCLASSIFICADO,FR/AM,24400,6.1
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",4445559,18000,PERDEU,FR.,24480,1.36
+"Levofloxacino 500mg cpr, em blister.",4445575,6000,DESCLASSIFICADO,COMP,4500,0.75
+"Loratadina 10mg cpr, em blister.",4445587,600000,DESCLASSIFICADO,COMP,60000,0.1
+"Losartana 50mg cpr revestido, em blister.",4445589,3600000,DESCLASSIFICADO,COMP,378000,0.105
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",4445596,24000,PERDEU,AMP,11976,0.499
+"Metoclopramida, cloridrato 10mg cpr, em blister.",4445597,200000,DESCLASSIFICADO,COMP,21200,0.106
+"Miconazol 20mg/g (2%) creme dermatológico, bisnaga 30g.",4445604,7000,PERDEU,BIS,19320,2.76
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",4445613,6000,PERDEU,FR.,24000,4
+"Óleo Mineral, frasco 100ml.",4445619,12000,DESCLASSIFICADO,FR.,32880,2.74
+"Permetrina 10mg/mL loção, frasco 60ml.",4445626,8000,PERDEU,FR.,11920,1.49
+"Permetrina 50mg/mL loção, frasco 60ml.",4445627,3000,PERDEU,FR.,7440,2.48
+"Propranolol 40mg cpr, em blister.",4445636,1000000,DESCLASSIFICADO,COMP,38000,0.038
+"Risperidona 1mg cpr, em blister.",4445639,150000,DESCLASSIFICADO,COMP,24000,0.16
+"Risperidona 2mg cpr, em blister.",4445640,200000,DESCLASSIFICADO,COMP,33600,0.168
+"Sais de reidratação oral",4445642,24000,PERDEU,SACH,13440,0.56
+"Sulfadiazina de prata 1% pomada, pote com 400g.",4445649,500,DESCLASSIFICADO,POT,18030,36.06
+"Sulfato ferroso 40mg cpr, em blister.",4445654,900000,DESCLASSIFICADO,COMP,43200,0.048
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",4445667,8000,PERDEU,AMP,6960,0.87

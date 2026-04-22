@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Oleo Mineral LHM, especifico para sistema hidraulico de frei",1300129,15,100,ATIVO,LITRO,6500,65
+"Shampoo para Lavação de veículos",1302190,20,20,ATIVO,UNIDADE,1980,99
+"Óleo lubrificante multiviscoco SAE 15W40.",1306290,7,100,ATIVO,BALDE,17500,175
+"Oleo lubrificante multifuncional unitactor 10W30 para transm",1310320,5,50,ATIVO,BALDE,11250,225
+"Graxa a base de sabão de lítio .",1312329,3,10,ATIVO,BALDE,2700,270
+"Desengraxantes para Chassi.",1318584,1,21,ATIVO,UNIDADE,2520,120
+"Óleo lubrificante para caixa de marchas SAE 80W90 API GL3.",1318585,9,10,ATIVO,BALDE,2150,215

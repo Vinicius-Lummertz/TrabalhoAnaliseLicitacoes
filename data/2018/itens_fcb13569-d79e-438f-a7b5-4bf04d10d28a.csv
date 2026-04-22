@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balão colorido",1262236,5,200,ATIVO,PACOTE,780,3.9
+"Cola Bastão",1262237,21,120,ATIVO,UNIDADE,164.4,1.37
+"SACO PLASTICO",1262238,63,7500,ATIVO,ROLO,3000,0.4
+"TINTA PARA CARIMBO",1262239,66,120,ATIVO,UNIDADE,195.6,1.63
+"Caneta hidrocor",1262247,19,20,ATIVO,CAIXA,46.8,2.34

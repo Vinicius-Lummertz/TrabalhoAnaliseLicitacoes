@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tiras reagentes para glicemia capilar",4434572,3250000,PERDEU,TIRA,1365000,0.42
+"Seringa descartável para insulina",4434573,500000,VENCEU,UNI,110000,0.22
+"Lanceta para coleta de sangue por punção digital",4434574,1000000,PERDEU,UN,210000,0.21

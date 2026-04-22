@@ -1,0 +1,99 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Broca n° 1112 F",1264832,173,150,ATIVO,UNIDADE,328.5,2.19
+"Broca de alta rotação diamantada nº3080",1264833,145,70,ATIVO,UNIDADE,153.3,2.19
+"Broca Carbide Esférica nº 06. Para peça de mão",1264834,130,20,ATIVO,UNIDADE,156,7.8
+"Fresa de tungstênio nº 9354",1264835,245,5,ATIVO,UNIDADE,205.75,41.15
+"Broca Carbide Esférica nº 04. Para peça de mão.",1264836,129,20,ATIVO,UNIDADE,156,7.8
+"Broca nº 1190 F",1264837,174,150,ATIVO,UNIDADE,328.5,2.19
+"Broca Carbide Esférica nº 02. Para peça de mão",1264838,128,20,ATIVO,UNIDADE,156,7.8
+"Broca nº 2135 F",1264839,175,150,ATIVO,UNIDADE,328.5,2.19
+"Broca nº 3118 F",1264840,176,150,ATIVO,UNIDADE,328.5,2.19
+"Broca nº 3168 F",1264841,177,150,ATIVO,UNIDADE,328.5,2.19
+"Edta Liquido Trissódico 17%",1264842,222,90,ATIVO,FRASCO,405,4.5
+"Campo cirúrgico fenestrado 50 x 50 cm",1264843,184,45,ATIVO,UNIDADE,1170,26
+"Campo cirúrgico 60X60 cm",1264844,185,45,ATIVO,UNIDADE,1575,35
+"Cariostático a base de diaminufluoreto",1264845,186,50,ATIVO,FRASCO,781,15.62
+"Cone de guta percha, #25/06",1264846,193,20,ATIVO,CAIXA,543.2,27.16
+"Cone de guta percha, #35/04",1264847,194,20,ATIVO,CAIXA,543,27.15
+"BICARBONATO DE SODIO",1264848,124,90,ATIVO,kg,885.6,9.84
+"Fio dental bucal",1264849,237,100,ATIVO,UNIDADE,1000,10
+"Cone de guta percha, #40/04",1264850,195,20,ATIVO,CAIXA,543,27.15
+"Evidenciador de placa  solucão",1264851,231,100,ATIVO,FRASCO,560,5.6
+EUCALIPTOL,1264852,230,10,ATIVO,UNIDADE,70.2,7.02
+"Broca nº 3195 F, acabamento fino",1264853,178,150,ATIVO,UNIDADE,328.5,2.19
+"Pinça Dietrich 16cm autoclavável",1264854,99,5,ATIVO,UNIDADE,492.5,98.5
+"Pinça Backhaus 10cm",1264856,97,5,ATIVO,UNIDADE,190,38
+"Fresa de tungstênio nº 9361",1264862,246,5,ATIVO,UNIDADE,205.75,41.15
+"Alicate Ortodôntico Removedor",1264865,4,5,ATIVO,UNIDADE,441.5,88.3
+"Porta Agulha Orto Mathieu",1264866,7,5,ATIVO,UNIDADE,446.5,89.3
+"APLICADOR DE DYCAL",1264867,27,30,ATIVO,UNIDADE,192,6.4
+"Cabo para bisturi nº3",1264868,29,40,ATIVO,UNIDADE,256,6.4
+"Cureta dentina (escavador), nº 05",1264869,33,30,ATIVO,UNIDADE,303,10.1
+"Espátula para manipulação nº 72",1264870,43,50,ATIVO,UNIDADE,592.5,11.85
+"Porta-matriz, tipo Toflemire adulto, em aço inox",1264871,59,20,ATIVO,UNIDADE,556,27.8
+"Porta-matriz, tipo Toflemire infantil, em aço inox",1264872,60,10,ATIVO,UNIDADE,278,27.8
+"Porta algodão e/ou resíduos",1264873,62,30,ATIVO,UNIDADE,1380,46
+SINDESMOTOMO,1264874,66,50,ATIVO,UNIDADE,677.5,13.55
+"Arco Young Adulto",1264875,74,10,ATIVO,UNIDADE,220,22
+"Porta Agulha Castroviejo simples",1264876,87,5,ATIVO,UNIDADE,711,142.2
+"Cureta de Lucas nº 85",1264877,91,10,ATIVO,UNIDADE,89.1,8.91
+"Descolador Freer Duplo",1264878,92,5,ATIVO,UNIDADE,287.5,57.5
+"Micro Tesoura Castroviejo Curva",1264879,93,5,ATIVO,UNIDADE,508,101.6
+"Cinzel Micro Ochsenbein nº 1 autoclavável.",1264880,98,5,ATIVO,UNIDADE,250,50
+"Fresa de tungstênio nº 9372",1264881,247,5,ATIVO,UNIDADE,205.95,41.19
+"Ponta de ultrasson nº 37 compatível em aparelho da marca Gna",1264882,413,15,ATIVO,UNIDADE,787.5,52.5
+"Hipoclorito de sódio a 2,5% - soda clorada.",1264883,256,100,ATIVO,LITRO,679,6.79
+"Fibras para Terapia Fotodinâmica (PDT).",1264884,385,20,ATIVO,CAIXA,3548,177.4
+"Mini Maçarico Microtorch",1264885,398,5,ATIVO,UNIDADE,1580,316
+"Mocho Odontológico.",1264886,408,5,ATIVO,UNIDADE,2075,415
+"Ponta de ultrasson nº 1",1264887,409,30,ATIVO,UNIDADE,1313.1,43.77
+"Ponta de ultrasson nº 1  compatível em aparelho da marca G",1264888,410,15,ATIVO,UNIDADE,656.25,43.75
+"Ponta de ultrasson nº 1 compatível em aparelho da marca   Sa",1264889,411,15,ATIVO,UNIDADE,656.55,43.77
+"Ponta de ultrasson nº 37 compatível em aparelho da marca Sae",1264890,412,15,ATIVO,UNIDADE,787.5,52.5
+"Ponta de ultrasson nº 2 compatível em aparelho da marca Kond",1264891,415,30,ATIVO,UNIDADE,1313.1,43.77
+"Ponta de ultrasson nº 2 compatível em aparelho da marca Gnat",1264892,416,15,ATIVO,UNIDADE,656.55,43.77
+"Ponta de ultrasson nº 2 compatível em aparelho da marca Saev",1264893,417,15,ATIVO,UNIDADE,656.25,43.75
+"Azul de Metileno Chimiolux 0,01%",1264894,384,5,ATIVO,CAIXA,532.5,106.5
+"Ponta de ultrasson nº 32 Perio E comp em ap. da marca Gnatus",1264895,419,15,ATIVO,UNIDADE,656.25,43.75
+"Ponta de ultrason nº 10P Perio Subgengival comp Kondenteck",1264896,421,30,ATIVO,UNIDADE,1313.1,43.77
+"Ponta de ultrason nº 10P Perio Subgengival comp Gnatus",1264897,422,15,ATIVO,UNIDADE,656.55,43.77
+"Ponta de ultrason nº 10P Perio Subgengival comp Saevo",1264898,423,15,ATIVO,UNIDADE,656.55,43.77
+"Ponta de ultrasson nº 39 Perio Supra comp Gnatus",1264899,425,15,ATIVO,UNIDADE,787.5,52.5
+"Ponta de ultrasson nº 39 Perio Supra comp Saevo",1264900,426,15,ATIVO,UNIDADE,787.5,52.5
+"Ponta de ultrasson E2D",1264902,427,10,ATIVO,UNIDADE,1722,172.2
+"Ponta de ultrasson E3D",1264903,428,10,ATIVO,UNIDADE,1722,172.2
+"Ponta de ultrasson E10",1264904,429,10,ATIVO,UNIDADE,1323,132.3
+"Ponta de ultrasson E7D",1264905,430,10,ATIVO,UNIDADE,1722,172.2
+"Ponta de ultrasson nº 32 Perio E comp em ap. da marca Saevo",1264906,420,15,ATIVO,UNIDADE,656.55,43.77
+"Azul de Metileno Chimiolux 0,005%",1264907,383,20,ATIVO,CAIXA,2130,106.5
+"Abridor De Boca Abritec 30x 25x18",1264908,381,40,ATIVO,UNIDADE,214,5.35
+"Abridor De Boca Abritec 40 x 30 x 20",1264909,380,40,ATIVO,UNIDADE,214,5.35
+"Limas Rotatórias para tratamento de canal  ponta,  15",1264910,281,50,ATIVO,CAIXA,6250,125
+"Limas Rotatórias para tratamento de canal ponta,  40",1264911,282,50,ATIVO,CAIXA,6250,125
+"Limas Rotatórias para tratamento de canal ponta, 50",1264912,283,50,ATIVO,CAIXA,6250,125
+"Limas Rotatórias para tratamento 17 e conicidades 08, compri",1264913,284,80,ATIVO,CAIXA,6800,85
+"Limas Rotatórias para tratamento16 e conicidades 02, comprim",1264914,285,80,ATIVO,CAIXA,6800,85
+"Limas Rotatórias para retratamento ponta  20, 25. 30 e conic",1264915,286,80,ATIVO,CAIXA,6800,85
+"Oxido de zinco-eugenol",1264916,323,100,ATIVO,kit,1970,19.7
+"Pedra de afiar Arkansas fina",1264917,334,15,ATIVO,UNIDADE,393.75,26.25
+"Pincel aplicador Micro brush, com ponta extra-fina",1264918,336,150,ATIVO,CAIXA,1107,7.38
+"Pincel aplicador Micro brush. Espessura da ponta regular",1264919,337,150,ATIVO,CAIXA,1110,7.4
+"Escova de Polimento MSH78W-H-H",1264920,339,15,ATIVO,UNIDADE,178.5,11.9
+"Escova de Polimento MSHS78LY",1264921,340,15,ATIVO,UNIDADE,93,6.2
+"Escova de polimento MSHS78W-1",1264922,341,15,ATIVO,UNIDADE,178.5,11.9
+"Polidor de Silicone SK 202-3",1264923,342,10,ATIVO,UNIDADE,118.5,11.85
+"Polidor de Silicone SK 2143",1264924,343,10,ATIVO,UNIDADE,118.5,11.85
+"Polidor de Silicone SK 2145",1264925,344,10,ATIVO,UNIDADE,118.5,11.85
+"Polidor de Silicone SK 2132",1264926,345,10,ATIVO,UNIDADE,118.9,11.89
+"Escova de Polimento MSHS78Y",1264927,346,15,ATIVO,UNIDADE,93,6.2
+"Sugador Endodôntico Descartável",1264928,370,120,ATIVO,PACOTE,1194,9.95
+"Tira de lixa de aço",1264929,373,420,ATIVO,PACOTE,2037,4.85
+"TRICRESOL FORMALINA",1264930,375,100,ATIVO,FRASCO,439,4.39
+"Verniz cavitário",1264931,377,30,ATIVO,FRASCO,270,9
+"Verniz fluoretado",1264932,378,30,ATIVO,kit,435,14.5
+"Hipoclorito de sódio a 1%",1264933,255,180,ATIVO,LITRO,1062,5.9
+"Ponta de ultrasson E6D",1264962,431,10,ATIVO,UNIDADE,1722,172.2
+"Ponta de ultrasson E5",1265037,435,10,ATIVO,UNIDADE,1323,132.3
+"Ponta de ultrasson E4D",1265079,436,10,ATIVO,UNIDADE,1722,172.2
+"Ponta de ultrasson E1",1265112,437,15,ATIVO,UNIDADE,1984.5,132.3
+"Câmara Escura Para Revelação",1265113,442,3,ATIVO,UNIDADE,450.45,150.15

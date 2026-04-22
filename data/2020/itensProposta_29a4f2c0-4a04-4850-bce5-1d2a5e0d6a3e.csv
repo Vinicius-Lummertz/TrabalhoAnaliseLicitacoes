@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balança veterinária digital, de plataforma, para cães e gato",4446043,1,PERDEU,UN,1660,1660
+"Focinheira nº 0",4446044,5,VENCEU,UN,39.5,7.9
+"Focinheira nº 1",4446045,5,VENCEU,UN,39.5,7.9
+"Focinheira nº 2",4446046,5,VENCEU,UN,39.5,7.9
+"Focinheira nº 3",4446047,5,VENCEU,UN,39.5,7.9
+"Focinheira nº 4",4446048,5,VENCEU,UN,49.5,9.9
+"Focinheira nº 5",4446049,5,VENCEU,UN,49.5,9.9
+"Medicação para eutanásia",4446050,5,PERDEU,FR.,3770,754
+"Coleiras repelentes P",4446051,100,PERDEU,UN,6990,69.9
+"Coleiras repelentes G",4446052,100,PERDEU,UN,7400,74
+"Vacina antirrábica para cães e gatos",4446053,300,VENCEU,UN,3660,12.2
+"Sedativo injetável - Acepromazina 0,2%",4446054,6,VENCEU,FR.,252,42
+"Anestésico injetável - Cetamina 10%",4446055,12,PERDEU,FR.,480,40
+"Anestésico injetável - Xilazina 2%",4446056,12,VENCEU,FR.,330,27.5

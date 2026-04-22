@@ -1,0 +1,56 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulha para costura a mão",1,5,Perdeu,PCT,25,5
+"BORDADO INGLÊS COM PASSA FITA",2,10,Perdeu,RL,170,17
+"CANETA ESFEROGRÁFICA PRETA",3,5,Perdeu,CX,206.5,41.3
+"COLA DE SILICONE LIQUIDO",4,125,Perdeu,UNI,650,5.2
+"REFIL DE COLA QUENTE",5,10,Perdeu,KG,276.9,27.69
+"FITA CREPE",6,20,Perdeu,RL,120,6
+"Fita de cetim com 1mm de largura",7,10,Perdeu,RL,171,17.1
+"Fita de cetim com 2mm de largura",8,10,Perdeu,RL,335.5,33.55
+"Fita de cetim com 5mm de largura",9,10,Perdeu,RL,431,43.1
+"FITA DE RENDA",10,10,Perdeu,RL,86.9,8.69
+"FITA DUPLA FACE",11,5,Perdeu,UNI,44.25,8.85
+"JUTA TECIDO",12,50,Perdeu,M,500,10
+"LAPIS PRETO DE ESCREVER",13,5,Perdeu,CX,241.5,48.3
+"LINHA PARA CROCHÊ",14,25,Perdeu,RL,132,5.28
+"Linha de Costura",15,10,Perdeu,CX,3000,300
+"MANTA SILICONE DESFIADA",16,100,Perdeu,PCT,860,8.6
+"MEIA PEROLA COM FUROS PARA COSTURA",17,20,Perdeu,PCT,1102,55.1
+"PASSA FITA",18,10,Perdeu,RL,164,16.4
+"PEROLAS COM FUROS PARA COSTURA",19,20,Perdeu,PCT,1236,61.8
+"PISTOLA DE COLA QUENTE",20,15,Perdeu,UNI,382.5,25.5
+"ROLO BORDADO COM PASSA FITA",21,15,Perdeu,RL,502.5,33.5
+"ROLOS DE VIEIS",22,20,Perdeu,UNI,282,14.1
+"TECIDO COM ESTAMPA NATALINA",23,35,Perdeu,M,976.5,27.9
+"TECIDO DE CHITA",24,50,Perdeu,M,540,10.8
+"TECIDO FELTRO AMARELO QUEIMADO",25,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO AZUL PISCINA",26,15,Perdeu,M,250.5,16.7
+"Tecido Feltro Branco Liso",27,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO CREME",28,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO ESTAMPADO",29,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO PESSEGO",30,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO ROSA BEBE",31,15,Perdeu,M,250.5,16.7
+"Tecido feltro Rosa Pink",32,15,Perdeu,M,250.5,16.7
+"TECIDO FELTRO VERDE LIMAO",33,15,Perdeu,M,250.5,16.7
+"Tecido feltro vermelho",34,15,Perdeu,M,250.5,16.7
+"Tecido Oxford 100% poliéster cor amarelo queimado;",35,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor azul bebe;",36,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor branco;",37,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor laranjado;",38,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor rosa bebe;",39,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor rosa pink;",40,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor verde;",41,20,Perdeu,M,175,8.75
+"Tecido Oxford 100% poliéster cor vermelho;",42,20,Perdeu,M,175,8.75
+"TECIDO PARA PATCHWORK",43,150,Perdeu,M,3585,23.9
+"TECIDO PELE DE PESSEGO AZUL",44,50,Perdeu,M,852.5,17.05
+"TECIDO PELE DE PESSEGO BRACA",45,50,Perdeu,M,852.5,17.05
+"TECIDO PELE DE PESSEGO CREME",46,50,Perdeu,M,852.5,17.05
+"TECIDO PELE DE PESSEGO MARROM",47,50,Perdeu,M,852.5,17.05
+"TECIDO PELE DE PESSEGO ROSA",48,50,Perdeu,M,852.5,17.05
+"TECIDO PELE DE PESSEGO VERMELHO",49,50,Perdeu,M,852.5,17.05
+"TECIDO SACA BRANCA",50,150,Perdeu,UN,847.5,5.65
+"TERMO COLANTE",51,150,Perdeu,M,1350,9
+TESOURA,52,15,Perdeu,UNI,284.25,18.95
+"TOALHA DE LAVABO",53,250,Perdeu,UNI,1675,6.7
+"TOALHAS DE ROSTO COLORIDAS",54,250,Perdeu,UN,3475,13.9
+TNT,55,5,Perdeu,RL,424,84.8

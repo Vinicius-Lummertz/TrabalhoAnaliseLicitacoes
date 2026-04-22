@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",15527902,135,PERDEU,UN,9247.5,68.5
+"Bola de Futsal Adulto",15527904,80,PERDEU,UN,18240,228
+"Bola de Basquete OFICIAL",15527908,60,PERDEU,UN,3419.4,56.99
+"Bola de Handebol H1L",15527910,25,PERDEU,UN,5997.5,239.9
+"Bola de Handebol H2",15527911,35,PERDEU,UN,8396.5,239.9
+"Bola de Handebol H3L",15527912,30,PERDEU,UN,7197,239.9
+"Bola de Voleibol de Quadra para Treinamento",15527913,80,PERDEU,UN,22800,285
+"Bola de Voleibol de Praia/Areia",15527914,20,PERDEU,UN,4220,211
+"Raquete de Tênis de Mesa para Iniciação",15527918,120,PERDEU,UN,7081.2,59.01
+"Jogo de Peças de Xadrez Oficial",15527920,55,PERDEU,JGO,4675,85
+"Tabuleiro de Xadrez Oficial",15527921,55,PERDEU,UN,4783.9,86.98
+"Luva de Boxe",15527931,30,PERDEU,PAR,2997,99.9
+"Saco de Pancada",15527932,6,PERDEU,UN,1650,275
+"Manopla de Boxe",15527933,30,PERDEU,PAR,6900,230
+"Aparador de Chute",15527934,24,PERDEU,UN,5040,210
+"Aparador de Soco",15527935,24,PERDEU,UN,2520,105
+"CONE CHAPÉU CHINÊS",15527937,200,PERDEU,UND,390,1.95
+"Bomba de Ar para Bolas",15527939,26,PERDEU,UN,520,20
+"Calibrador de Bola tipo Caneta",15527940,26,PERDEU,UN,780,30
+"Placar de Mesa",15527941,26,PERDEU,UN,4394,169
+"Apito de Mesa",15527942,15,PERDEU,UN,465,31
+"Apito profissional",15527943,60,PERDEU,UND,600,10

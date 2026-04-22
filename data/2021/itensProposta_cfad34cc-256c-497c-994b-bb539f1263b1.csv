@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bandeja p/ esterelizacao",5488053,100,PERDEU,UN,2400,24
+"CANETA DE ALTA ROTACAO",5488510,15,PERDEU,UN,8085,539
+"Conjunto de contra ângulo e micro motor.",5519061,12,PERDEU,UNID,10788,899
+"Aparelho de ultrassom odontológico",5488507,2,DESCLASSIFICADO,UN,3150,1575
+"Autoclave 21 litros",5488508,10,DESCLASSIFICADO,UN,46498.6,4649.86
+"AUTOCLAVE 54 LITROS",5511223,3,PERDEU,UNID,51120,17040
+"Fotopolimerizador sem fio com bateria removível",5488515,20,DESCLASSIFICADO_LANCE,UNI,13200,660
+"Kit acadêmico",5512199,10,DESCLASSIFICADO_LANCE,UN,16500,1650
+"Mini incubadora biológica",5488520,15,VENCEU,UN,2820,188
+"RAIO-X PORTÁTIL",5488523,2,VENCEU,UN,37694,18847
+"Seladora térmica digital",5488524,8,DESCLASSIFICADO,UNI,5976,747

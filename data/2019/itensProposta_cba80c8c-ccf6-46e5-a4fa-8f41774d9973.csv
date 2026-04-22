@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Banco sueco",4389083,2,PERDEU,UND,3998,1999
+"BOLA DE FUTSAL",4389086,50,PERDEU,UND,10300,206
+"Bola de handebol (menor):  Material: PU x PVC",4389087,30,PERDEU,UND,3930,131
+"Bola de voleibol.",4389088,100,PERDEU,UND,11400,114
+"Bola Futebol de Campo",4389089,10,PERDEU,UND,1490,149
+"Bola pilates",4389090,2,PERDEU,UND,354,177
+"Bola tenis  de campo",4389091,500,PERDEU,UND,19950,39.9
+"Bola basquetebol",4389092,100,PERDEU,UND,8030,80.3
+"Bomba de encher bola em  Plástico",4389093,80,PERDEU,UND,4792,59.9
+"Cavaletes corrida (barreiras)",4389094,10,PERDEU,UND,1330,133
+COLCHONETE,4389095,750,DESCLASSIFICADO,UND,66000,88
+COLCHONETE,4389096,250,PERDEU,UND,22000,88
+"Disco de lançamento",4389097,20,PERDEU,UND,2200,110
+"Jogo de taco",4389098,250,PERDEU,UND,10475,41.9
+"Mini bola basquete",4389100,100,PERDEU,UND,8870,88.7
+"Relogio digital xadrez",4389101,100,VENCEU,UND,15300,153

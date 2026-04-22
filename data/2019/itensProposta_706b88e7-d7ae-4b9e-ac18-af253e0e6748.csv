@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aruela lisa 3/8 zincado branco",0,1,PERDEU," ",11.62,11.62
+"Aruela lisa M10 zincado branco",0,1,PERDEU," ",11.06,11.06
+"Bico Atomizador",0,4,PERDEU," ",473.04,118.26
+"BOMBA DO ÓLEO",0,5,PERDEU," ",4684.4,936.88
+"Braço misturador 1/2 x PUG direito",0,44,PERDEU," ",1566.4,35.6
+"Braço misturador 1/2 x PUG esquerdo",0,44,PERDEU," ",1566.4,35.6
+"Contato auxiliar frontal HKF-11",0,2,PERDEU," ",125.78,62.89
+"Contato força AF09",0,2,PERDEU," ",299.88,149.94
+"Controlador de chama duplo estágio",0,2,PERDEU," ",1763.36,881.68
+"Controlador de pesagem RTU",0,2,PERDEU," ",4564.5,2282.25
+"Disjutor motor MS132",0,2,PERDEU," ",588,294
+"Eletrodo de ignição haste 1/8",0,4,PERDEU," ",691.48,172.87
+"Gaiola manga usina de asfalto",0,120,PERDEU," ",13171.2,109.76
+"Kit transformador de ignição",0,2,PERDEU," ",1633.32,816.66
+"Mancal F209",0,20,PERDEU," ",548.8,27.44
+"Mancal F210",0,20,PERDEU," ",777.6,38.88
+"Mancal F211",0,20,PERDEU," ",777.6,38.88
+"Manga poliéster 1800 x 160 mm",0,130,PERDEU," ",19195.8,147.66
+"Manga poliéster 1800 x 160 mm",0,88,PERDEU," ",1980.88,22.51
+"Parafusos da rosca parcial 10 x 80mm",0,1,PERDEU," ",122.18,122.18
+"Parafusos do cabo 3/8 x 63mm",0,1,PERDEU," ",184.9,184.9
+"Porca sextavada C8 M10 x 1,5",0,2,PERDEU," ",41.36,20.68
+"Porca sextavada G8 UNC 3/8",0,2,PERDEU," ",54.92,27.46
+"Queimador de óleo 250.000 kcal",0,3,PERDEU," ",15209.58,5069.86
+"Rele base RE3",0,5,PERDEU," ",4455.7,891.14
+"Rele de segurança RT9",0,4,PERDEU," ",3382.96,845.74
+"Rele interface 220v 2NAF 8A + Base + dio",0,4,PERDEU," ",182.48,45.62
+"Rolamento 2092",0,40,PERDEU," ",2809.6,70.24
+"Rolete esteira",0,15,PERDEU," ",4694.1,312.94
+"Rolo de apoio do secador d=300x125mm",0,2,PERDEU," ",4906.52,2453.26
+"Temporizador eletrônico CT-TGD 12",0,2,PERDEU," ",684.68,342.34
+"Termo resistência PT100 duplo d=10x100mm",0,2,PERDEU," ",623.92,311.96
+"Válvula de pulso 1 1/2",0,4,PERDEU," ",1996.56,499.14
+"MAO DE OBRA MECANICA",0,70,PERDEU," ",8346.8,119.24
+"SERVICO DE TORNO E SOLDA",0,40,PERDEU," ",5945.6,148.64

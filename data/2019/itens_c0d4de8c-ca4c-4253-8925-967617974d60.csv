@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",1265127,109,1500,ATIVO,LITRO,5385,3.59
+"Álcool 96 gl 01 L cx c/ 12 un",1265128,110,120,ATIVO,CAIXA,612,5.1
+"Detergente Multienzimático",1265129,219,330,ATIVO,GALÃO,22407,67.9
+"Kit odontológico de higiene dental adulto",1265130,264,6250,ATIVO,kit,25937.5,4.15
+"Máscara cirúrgica facial N95",1265131,314,40,ATIVO,CAIXA,1787.6,44.69
+"Organizador multi uso 50 litros.",1265132,317,40,ATIVO,UNIDADE,2640,66
+"Organizador multi uso 20 litros.",1265133,318,20,ATIVO,UNIDADE,690,34.5
+"Papel filme PVC. Rolo 30m",1265134,326,100,ATIVO,ROLO,615,6.15
+"Papel toalha interfolhado;",1265135,329,1500,ATIVO,PACOTE,14880,9.92
+"Água oxigenada a 10%",1265140,107,230,ATIVO,LITRO,885.5,3.85

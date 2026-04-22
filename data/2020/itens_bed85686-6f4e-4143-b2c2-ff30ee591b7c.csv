@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",1267971,86,3000,ATIVO,BISNAGA,28500,9.5
+"Claritromicina 500mg comprimido, em blister.",1267982,69,5000,ATIVO,COMPRIMIDO,13850,2.77
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",1267996,27,450000,ATIVO,COMPRIMIDO,254250,0.565
+"Ácido Valproico 500mg cpr.",1267997,9,500000,ATIVO,COMPRIMIDO,200000,0.4
+"Ácido Valproico 250mg capsula.",1267998,8,360000,ATIVO,CAPSULA,62640,0.174

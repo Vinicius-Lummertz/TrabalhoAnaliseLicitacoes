@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Computadores,4301066,11,PERDEU,UNI,30558,2778
+Notebooks,4301067,3,PERDEU,UNI,7897.5,2632.5
+"Aparelho de Televisão",4301071,4,PERDEU,UNI,4800,1200
+"Projetor de Vídeo",4301072,2,PERDEU,UNI,5069,2534.5
+"Navegador GPS Automotivo",4301080,3,VENCEU,UNI,1098,366

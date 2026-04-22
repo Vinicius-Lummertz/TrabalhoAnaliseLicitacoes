@@ -1,0 +1,52 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,50,PERDEU," ",300,6
+"Cano cobre ½",0,25,PERDEU," ",450,18
+"Cano cobre ¼",0,25,PERDEU," ",200,8
+"Cano cobre ¾",0,25,PERDEU," ",375,15
+"Cano cobre 3/8",0,25,PERDEU," ",325,13
+"Cano cobre 5/8",0,25,PERDEU," ",500,20
+"Cano esponjoso ¼",0,25,PERDEU," ",37.5,1.5
+"Cano esponjoso ½",0,25,PERDEU," ",37.5,1.5
+"Cano esponjoso ¾",0,25,PERDEU," ",50,2
+"Cano esponjoso 3/8",0,25,PERDEU," ",37.5,1.5
+"Cano esponjoso 5/8",0,25,PERDEU," ",50,2
+"Capacitor 380V 2 MF",0,25,PERDEU," ",200,8
+"Capacitor 380V 3 MF",0,25,PERDEU," ",200,8
+"Capacitor 380V 4 MF",0,25,PERDEU," ",150,6
+"Capacitor 380V 5 MF",0,25,PERDEU," ",250,10
+"Capacitor 380V 8 MF",0,25,PERDEU," ",200,8
+"Capacitor 380V 10 MF",0,25,PERDEU," ",250,10
+"Capacitor 380V 15 MF",0,25,PERDEU," ",450,18
+"Capacitor 380V 20 MF",0,25,PERDEU," ",450,18
+"Capacitor 380V 25 MF",0,25,PERDEU," ",575,23
+"Capacitor 380V 30 MF",0,25,PERDEU," ",575,23
+"Capacitor 380V 35 MF",0,25,PERDEU," ",700,28
+"Capacitor 380V 40 MF",0,25,PERDEU," ",700,28
+"Capacitor 380V 45 MF",0,25,PERDEU," ",950,38
+"Capacitor 380V 55 MF",0,25,PERDEU," ",950,38
+"Chave contactora CWM 09",0,3,PERDEU," ",600,200
+"Chave contactora CWM 10",0,3,PERDEU," ",600,200
+"Compressor para Split 9000 BTUS",0,3,PERDEU," ",1245,415
+"Compressor para Split 12000 BTUS",0,3,PERDEU," ",1290,430
+"Compressor para Split 18000 BTUS",0,3,PERDEU," ",1650,550
+"Compressor para Split 24000 BTUS",0,3,PERDEU," ",1950,650
+"Compressor para Split 30000 BTUS",0,2,PERDEU," ",1660,830
+"Compressor para Split 60000 BTUS",0,1,PERDEU," ",1268,1268
+"Controle remoto univ. ar split",0,20,PERDEU," ",1300,65
+"Filtro do pó ar cond.",0,16,PERDEU," ",320,20
+"Fita PVC 100mm branca",0,50,PERDEU," ",190,3.8
+"Gás R134 (carga)",0,50,PERDEU," ",4500,90
+"Gás R22 (carga)",0,50,PERDEU," ",4500,90
+"Helice de Ar condicionado 7.000 Btus",0,5,PERDEU," ",150,30
+"Hélice ar cond.  10/18000btus",0,5,PERDEU," ",400,80
+"Placa eletrônica para split",0,15,PERDEU," ",5250,350
+"Moto de ventilador",0,5,PERDEU," ",750,150
+"Rele Monti",0,8,PERDEU," ",40,5
+"Sensor de temperatura frio",0,6,PERDEU," ",180,30
+"Sensor temp. aquecimento",0,6,PERDEU," ",180,30
+"Suporte split 7/12000btus",0,10,PERDEU," ",200,20
+"Suporte split 18/30000btus",0,10,PERDEU," ",450,45
+"Termostato ar cond. 1601",0,10,PERDEU," ",100,10
+"Turbina ventilador 10/30000",0,7,PERDEU," ",700,100
+"Instalação de  Ap. de Ar Condicionado",0,14,PERDEU," ",4900,350
+"Serviço (Hora)",0,750,PERDEU," ",56250,75

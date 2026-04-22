@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Granito Claro",0,3,PERDEU," ",3900,1300
+"Granito Escuro",0,55,PERDEU," ",63250,1150
+"Armário Aéreo M²",0,5,INABILITADO," ",9893,1978.6
+"Armário Alto m²",0,144,INABILITADO," ",336715.2,2338.3
+"Armário Alto com Porta de Correr",0,52,INABILITADO," ",130946.4,2518.2
+"Armário Baixo m2",0,33,INABILITADO," ",83100.6,2518.2
+"Armário Baixo com Gavetas e Portas",0,13,INABILITADO," ",32736.6,2518.2
+"Bancada sem tampo com Gavetas e Portas MDF ULTRA",0,7,INABILITADO," ",16368.1,2338.3
+"Bancada sem tampo MDF ULTRA",0,31,INABILITADO," ",83638,2698
+"Bancada sem tampo MDF ULTRA - Porta de Correr",0,4,INABILITADO," ",10792,2698
+"Banco m²",0,23,INABILITADO," ",134453.4,5845.8
+"Divisória Mesa Trabalho",0,11,INABILITADO," ",11871.2,1079.2
+"Gaveteiro m²",0,9,INABILITADO," ",32376.6,3597.4
+"Gaveteiro para Pasta Suspensa",0,10,INABILITADO," ",35974,3597.4
+"Mesa de Apoio",0,2,INABILITADO," ",4676.6,2338.3
+"Mesa de Centro Redonda",0,1,INABILITADO," ",5873.6,5873.6
+"Mesa de Trabalho",0,29,INABILITADO," ",91283.3,3147.7
+"Mesa de Trabalho com Gaveta",0,5,INABILITADO," ",20235.5,4047.1
+"Mesa Refeitório",0,24,INABILITADO," ",140299.2,5845.8
+"Mesa Reunião m²",0,5,INABILITADO," ",29229,5845.8
+"Mesa Auditório",0,17,INABILITADO," ",68800.7,4047.1
+"Mesa de Trabalho em L m²",0,20,INABILITADO," ",80942,4047.1
+"Nicho Cor Madeira",0,4,INABILITADO," ",16188.4,4047.1
+"Nicho Cor Preto",0,2,INABILITADO," ",6295.4,3147.7
+"Painel Liso Cor Madeira",0,12,INABILITADO," ",12950.4,1079.2
+"Painel Liso Cor Preto",0,8,INABILITADO," ",7194.4,899.3
+"Painel Ripado",0,28,INABILITADO," ",75544,2698
+"Prateleira até 900mm de Comprimento Cor Madeira",0,2,INABILITADO," ",3957.2,1978.6
+"Prateleira até 900mm de Comprimento Cor Preto",0,2,INABILITADO," ",3597.4,1798.7
+"Prateleira maior 900mm de Comprimento Cor Madeira",0,2,INABILITADO," ",3957.2,1978.6
+"Prateleira maior 900mm de Comprimento Cor Preto",0,18,INABILITADO," ",32376.6,1798.7
+"Rack m²",0,3,INABILITADO," ",8094,2698

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit odontológico de higiene dental.",1262828,336,15000,ATIVO,kit,79500,5.3
+"Guardanapo 30 x 30cm, cor branca, não reciclado, folha dupla",1262829,210,2500,ATIVO,PACOTE,9750,3.9
+"Seladora odontológica.",1262830,70,15,ATIVO,UNIDADE,8400,560

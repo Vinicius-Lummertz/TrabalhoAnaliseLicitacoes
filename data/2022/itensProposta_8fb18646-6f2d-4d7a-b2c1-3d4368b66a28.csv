@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Freezer,8634781,1,VENCEU,UNI,3649.91,3649.91
+"Lavadora da alta pressão",8634784,1,PERDEU,UN,1499.55,1499.55
+"Cadeira Diretor giratória",8634788,8,VENCEU,UND,12799.44,1599.93

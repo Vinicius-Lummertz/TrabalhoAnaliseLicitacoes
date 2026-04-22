@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carro de Limpeza MOP 01 Balde",21171223,88,PERDEU,UND,92136,1047
+"Carro de Limpeza MOP 01 Balde",21381604,29,VENCEU,UND,24070,830
+"Mesa Pia de Inox",21171252,22,PERDEU,UND,51700,2350

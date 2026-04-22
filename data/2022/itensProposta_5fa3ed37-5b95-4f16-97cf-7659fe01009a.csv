@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água mineral 20 litros",7758260,22250,NAO_COTOU,UNID,0,0
+"Água mineral 500 ml sem gás",7758261,2700,PERDEU,FD,0,0
+"Água mineral 500 ml com gás",7758262,2100,NAO_COTOU,FD,0,0
+"Aguá mineral copo 200ml cx com 48 uni",7758263,1630,NAO_COTOU,CX,0,0

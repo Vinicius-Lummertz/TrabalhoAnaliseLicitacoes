@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pinça Hemostática kelly curva com 16cm",1262836,331,10,ATIVO,UNIDADE,264.6,26.46
+"Pinça Hemostática kelly curva com 14cm",1262837,328,10,ATIVO,UNIDADE,223.3,22.33
+"SERINGA DESCARTAVEL 10 ML",1262838,296,20,ATIVO,UNIDADE,531.8,26.59
+"Papel grau cirúrgico; medindo 10 cm x 100m",1262839,267,230,ATIVO,BOBINA,8158.1,35.47
+"Máscara cirúrgica facial N95",1262840,257,80,ATIVO,CAIXA,3888,48.6
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",1262841,252,1650,ATIVO,PACOTE,1633.5,0.99
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",1262842,251,1500,ATIVO,PACOTE,1485,0.99
+"Luva de Látex tamanho P. Caixa c/ 100 unidades",1262843,246,1300,ATIVO,CAIXA,23010,17.7
+"HASTE FLEXÍVEL EM ALGODÃO",1262844,211,150,ATIVO,CAIXA,300,2
+"Gorros descartáveis tipo touca com elástico",1262845,209,350,ATIVO,PACOTE,2233,6.38
+"Compressas de Gaze Hidrófila, 100% Algodão 7,5 x 7,5, com 9(",1262846,148,1800,ATIVO,PACOTE,31266,17.37
+"Tesoura cirúrgica Mayo reta",1262847,69,20,ATIVO,UNIDADE,540.2,27.01
+"Tesoura cirúrgica Iris",1262848,68,80,ATIVO,UNIDADE,1279.2,15.99
+"Pinça Mosquito 12cm",1262865,329,10,ATIVO,UNIDADE,195.7,19.57

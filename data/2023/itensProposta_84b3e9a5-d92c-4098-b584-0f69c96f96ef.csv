@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aço 1020",0,100,VENCEU," ",1240,12.4
+"Aço 1040",0,100,VENCEU," ",1410,14.1
+"Aço 4140",0,100,VENCEU," ",1540,15.4
+"Aço 4320",0,100,VENCEU," ",2050,20.5
+"Arame Mig 0,8mm Rolo 5kg",0,20,VENCEU," ",7190,359.5
+"Cantoneira - 1/8 x 3/4",0,15,VENCEU," ",289.5,19.3
+"Cantoneira - 1/8 x 5/8",0,15,VENCEU," ",514.5,34.3
+"Ferro Chato - 1/8 x 1/2",0,15,VENCEU," ",3964.5,264.3
+"Ferro Chato - 3/16 x 1/2",0,15,VENCEU," ",2626.5,175.1
+"Gás mistura argonio",0,10,VENCEU," ",1646,164.6
+"Gás Oxigênio",0,12,VENCEU," ",2450.4,204.2
+"Tubo Quad. 30x30x2.00x6000",0,10,VENCEU," ",1848,184.8
+"Tubo Quad. 50x50x2.00x6000",0,10,VENCEU," ",4862.6,486.26
+"Tubo Ret. 40x60x2.65x6000",0,20,VENCEU," ",8168,408.4
+"Mão de obra soldador manutenção.",0,100,VENCEU," ",10850,108.5
+"Corrente Elevador 20-40t com Palhetas",0,16,VENCEU," ",35107.84,2194.24
+"Eixo Matriz Elevador tração",0,3,VENCEU," ",5750.13,1916.71
+"Eixo rolante guia secador",0,4,VENCEU," ",4190.2,1047.55
+"Engrenagem de tração corrente elevador",0,2,VENCEU," ",9513.12,4756.56
+"Engrenagem tracionamento elevador",0,2,VENCEU," ",9870.7,4935.35
+"Mancal F209",0,12,VENCEU," ",1764,147
+"Mancal F211",0,20,VENCEU," ",2922,146.1
+"Queimador p/ usina",0,2,VENCEU," ",32518.54,16259.27
+"Redutor GD40",0,1,VENCEU," ",5982.2,5982.2
+"Redutor GD50",0,1,VENCEU," ",6223.15,6223.15
+"Relógio marcador de pressão",0,4,VENCEU," ",379.36,94.84
+"Rolamento (base dos rolos)",0,16,VENCEU," ",5393.44,337.09
+"Rolamento F209",0,12,VENCEU," ",2871,239.25
+"Rolamento F211",0,20,VENCEU," ",5792.4,289.62
+"Rolete correia transp. Da base",0,10,VENCEU," ",1839.8,183.98
+"Rolete guia",0,4,VENCEU," ",1499.04,374.76
+"Rolo de carga grande (25CMX10CM)",0,16,VENCEU," ",3071.68,191.98
+"Rolo de carga pequenos (25CMX5CM)",0,20,VENCEU," ",4183.4,209.17
+"MAO DE OBRA,",0,150,VENCEU," ",17568,117.12

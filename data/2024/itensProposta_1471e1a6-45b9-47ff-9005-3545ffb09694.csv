@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bateria Estacionária 7Ah 12V",14940384,20,PERDEU,UND,3200,160
+"CABO DE REDE",14940389,5,VENCEU,CX,2987.7,597.54
+"Conector RJ45 Cat 5E",14940397,1000,PERDEU,UNI,1200,1.2
+"Conector RJ45 CAT 6",14940398,1000,PERDEU,UND,1600,1.6
+"Digitalizador de Documentos",14940399,2,PERDEU,UND,8000,4000
+"Monitor Médio",14940412,5,PERDEU,UND,5950,1190
+"Monitor Tela Curva",14940413,1,PERDEU,UND,9500,9500
+"Teclado sem fio",14940439,20,PERDEU,UND,4600,230

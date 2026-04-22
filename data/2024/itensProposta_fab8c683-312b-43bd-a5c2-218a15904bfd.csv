@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOMBA VÁCUO",14868858,5,VENCEU,UN,15500,3100
+"DESTILADORA DE ÁGUA",14868863,30,PERDEU,UND,23549.7,784.99
+"Localizador apical eletrônico",14868867,2,VENCEU,UN,2800,1400

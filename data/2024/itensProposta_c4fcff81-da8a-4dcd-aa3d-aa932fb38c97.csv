@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",15527902,135,PERDEU,UN,13095,97
+"Bola de Futsal Adulto",15527904,80,PERDEU,UN,20704.8,258.81
+"Bola de Futsal Infantil para Treinamento",15527905,110,PERDEU,UN,11715,106.5
+"Bola de Basquete OFICIAL",15527908,60,PERDEU,UN,7195.2,119.92
+"Bola de Handebol H1L",15527910,25,PERDEU,UN,6425,257
+"Bola de Handebol H2",15527911,35,PERDEU,UN,8995,257
+"Bola de Handebol H3L",15527912,30,PERDEU,UN,7769.7,258.99
+"Bola de Voleibol de Quadra para Treinamento",15527913,80,PERDEU,UN,27120,339
+"Bola de Voleibol de Praia/Areia",15527914,20,PERDEU,UN,4578.6,228.93
+"Jogo de Peças de Xadrez Oficial",15527920,55,PERDEU,JGO,1925,35
+"Tabuleiro de Xadrez Oficial",15527921,55,PERDEU,UN,825,15
+"Touca de Natação",15527925,100,PERDEU,UN,1301,13.01
+"Óculos de Natação",15527926,100,PERDEU,UN,2600,26
+"Kimono de Karatê",15527927,150,PERDEU,UN,28351.5,189.01
+"Kimono de Judô",15527929,100,PERDEU,UN,19900,199
+"Kimono de Jiu-Jitsu",15527930,100,PERDEU,UN,19900,199
+"Corda de Pular",15527938,50,PERDEU,UN,3759.5,75.19
+"Skate para Iniciantes",15527944,80,PERDEU,UN,17033.6,212.92

@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grama Amendoim",5035466,1,7500,ATIVO,MUDAS,11250,1.5
+Azulzinha,5035467,2,2850,ATIVO,UNIDADE,4275,1.5
+Vedelia,5035468,3,1275,ATIVO,UNIDADE,2677.5,2.1
+"Lambari Roxo",5035469,4,1050,ATIVO,UNIDADE,1575,1.5
+"Periquito Roxo",5035470,5,1050,ATIVO,UNIDADE,1575,1.5
+Singonio,5035471,6,5100,ATIVO,UNIDADE,7650,1.5
+"Liriope variegato",5035472,7,3096,ATIVO,UNIDADE,4644,1.5
+Impatins,5035473,8,3750,ATIVO,UNIDADE,5625,1.5
+"Insumos/Substrato composto",5035474,9,60,ATIVO,M³,29154,485.9
+"Execução do Plantio",5035475,10,1,ATIVO,UNIDADE,15774.5,15774.5
+"Insumos divisor de plástico",5035476,11,500,ATIVO,METRO,1800,3.6

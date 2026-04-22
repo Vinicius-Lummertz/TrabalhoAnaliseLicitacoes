@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seringa 3ml, sem agulha",1262647,175,15000,ATIVO,UNIDADE,1635,0.109
+"Pote para coleta de biopsia.",1262648,168,1500,ATIVO,UNIDADE,405,0.27
+"Luva Látex não Estéril p/ Procedimento - Tamanho  PP.",1262649,148,1000,ATIVO,CAIXA,16880,16.88
+"Luva Látex não Estéril p/ Procedimento - Tamanho  P.",1262650,147,4000,ATIVO,CAIXA,64760,16.19
+"Luva Látex não Estéril p/ Procedimento - Tamanho  M.",1262652,146,4000,ATIVO,CAIXA,64080,16.02
+"Luva Látex não Estéril p/ Procedimento - Tamanho  G",1262653,145,1000,ATIVO,CAIXA,16300,16.3

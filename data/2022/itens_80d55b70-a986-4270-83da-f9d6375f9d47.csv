@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",2475987,1,10000,ATIVO,UNIDADE,600,0.06
+"Atestado Médico para Gestantes",2475988,3,100,ATIVO,BLOCO,355.5,3.555
+"Auto de intimação vigilancia sanitaria",2475989,5,70,ATIVO,BLOCO,919.8,13.14

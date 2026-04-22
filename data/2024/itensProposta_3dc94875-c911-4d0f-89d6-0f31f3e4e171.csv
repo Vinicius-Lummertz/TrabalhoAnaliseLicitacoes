@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Garrote adulto",14878013,250,VENCEU,UN,1622.5,6.49
+"Garrote infantil",14878014,150,PERDEU,UN,1138.5,7.59
+"Lâmina de Preventivo (Ponta Fosca).",14878035,800,PERDEU,CXA,5056,6.32
+"Pote para coleta de urina, fezes e secreção de polietileno",14878072,80000,VENCEU,UN,24800,0.31
+"Teste rápido de gravidez (embalado individualmente)",14878171,10000,PERDEU,UND,6100,0.61

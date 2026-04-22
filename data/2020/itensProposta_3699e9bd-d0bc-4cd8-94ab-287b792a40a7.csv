@@ -1,0 +1,51 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA OXIGENADA",4392769,300,NAO_COTOU,LT,0,0
+"Álcool Líquido 92,8 INPM",4392770,200,PERDEU,LT,1802,9.01
+"Alcool Líquido 70%",4392771,300,PERDEU,LT,2337,7.79
+"Álcool Gel 70 %",4392772,200,NAO_COTOU,UND,0,0
+"Soro Fisiológico 100ml",4392773,400,NAO_COTOU,ML,0,0
+"Soro Fisiológico 250ml",4392774,300,NAO_COTOU,ML,0,0
+"Compressa cirúrgica",4392775,150,VENCEU,PCT,11700,78
+"Compressa de Gaze Hidrófila",4392776,6000,VENCEU,PCT,1920,0.32
+"Bobina de Gaze Hidrófila",4392777,15,VENCEU,RL,780,52
+"Luva Nitrílica Azul",4392778,900,NAO_COTOU,CX,0,0
+"LUVA NITRÍLICA AZUL CANO LONGO",4392779,300,NAO_COTOU,CX,0,0
+"Máscara cirúrgica descartável",4392780,120,NAO_COTOU,CX,0,0
+"Lençol descartável",4392781,120,VENCEU,PCT,1279.2,10.66
+"Manta Térmica Aluminizada",4392782,100,PERDEU,UND,416,4.16
+Esparadrapo,4392783,80,VENCEU,UND,464,5.8
+"Fita Hipoalérgica Microporosa",4392784,50,VENCEU,UND,212.5,4.25
+"Atadura de crepom 8 cm",4392785,1500,VENCEU,UND,810,0.54
+"Atadura de crepom 15cm",4392786,1500,VENCEU,UND,1305,0.87
+"Atadura de crepom 20cm",4392787,2000,VENCEU,UND,2340,1.17
+"Tala de papelão 90x20",4392788,10,PERDEU,CX,362.7,36.27
+"Tala de papelão 70x20",4392789,10,PERDEU,CX,276.9,27.69
+"Tala de papelão 50x20",4392790,10,PERDEU,CX,197.6,19.76
+"Tala de papelão 30x20",4392791,10,PERDEU,CX,141.7,14.17
+"Kit p/ parto emergencial",4392792,10,PERDEU,UND,513.5,51.35
+"Kit p/ queimadura",4392793,10,PERDEU,UND,650,65
+"Saco de lixo infectante 30 L",4392794,60,VENCEU,CX,900.6,15.01
+"Saco de lixo infectante 50 L",4392795,20,VENCEU,CX,392,19.6
+"Colar cervical neonatal",4392796,3,VENCEU,UND,35.55,11.85
+"Colar cervical infantil",4392797,6,VENCEU,UND,71.1,11.85
+"Colar cervical PP",4392798,10,VENCEU,UND,118.5,11.85
+"Colar cervical P",4392799,5,VENCEU,UND,59.25,11.85
+"Colar cervical M",4392800,5,VENCEU,UND,59.25,11.85
+"Colar cervical G",4392801,5,VENCEU,UND,59.25,11.85
+"COLAR CERVICAL REGULAVEL",4392802,10,PERDEU,UND,520,52
+"IMOBILIZADOR DE CABECA",4392803,10,PERDEU,UND,910,91
+"TIRANTE ARANHA.",4392804,10,PERDEU,UND,514.8,51.48
+"Máscara facial infantil",4392805,5,VENCEU,UND,66.15,13.23
+"Máscara facial adulto",4392806,5,VENCEU,UND,66.15,13.23
+"Esfigmomanômetro Infantil",4392807,3,VENCEU,UND,193.74,64.58
+"Esfigmomanômetro Adulto",4392808,3,VENCEU,UND,180,60
+"Estetoscópio Adulto",4392809,3,VENCEU,UND,87,29
+"Reanimador manual neonatal",4392810,3,VENCEU,UND,505.44,168.48
+"Reanimador manual infantil",4392811,3,VENCEU,UND,505.44,168.48
+"Reanimador manual adulto",4392812,3,VENCEU,UND,506.52,168.84
+"Oxímetro digital portátil para dedo",4392813,3,VENCEU,UND,308.1,102.7
+"Eletrodo infantil",4392814,3,PERDEU,PCT,7020,2340
+"Eletrodo adulto",4392815,30,PERDEU,PCT,25350,845
+"Bateria para Desfibrilador LIFEPAK 1000.",4392816,3,PERDEU,UND,19110,6370
+"Bolsa de Atendimento Pré-hospitalar",4392817,3,NAO_COTOU,UND,0,0
+"Colete Socorrista PADRÃO CBMSC",4392818,15,NAO_COTOU,UND,0,0

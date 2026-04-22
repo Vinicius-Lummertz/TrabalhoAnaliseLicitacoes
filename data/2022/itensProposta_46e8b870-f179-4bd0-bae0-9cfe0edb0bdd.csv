@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PONTE PÊNSIL",0,3,NAO_COTOU," ",0,0
+MULT-PLAY,0,3,NAO_COTOU," ",0,0
+"BALANÇO 3 LUGARES",0,3,NAO_COTOU," ",0,0
+"GANGORRA DUPLA",0,3,NAO_COTOU," ",0,0
+"Multi-exercitador seis funções galvanizado",0,6,VENCEU," ",29453.63,4908.9381
+"Simulador de cavalgada duplo galvanizado",0,3,VENCEU," ",12233.75,4077.9161
+"Alongador com três alturas galvanizado",0,6,VENCEU," ",14964.11,2494.0188
+"Surf duplo galvanizado",0,3,VENCEU," ",8199.67,2733.2235
+"Pressão de pernas duplo galvanizado",0,3,VENCEU," ",10038.02,3346.0069
+"Simulador de caminhada duplo galvanizado",0,3,VENCEU," ",11150.18,3716.7265
+"Esqui duplo galvanizado",0,3,VENCEU," ",11850.64,3950.2132

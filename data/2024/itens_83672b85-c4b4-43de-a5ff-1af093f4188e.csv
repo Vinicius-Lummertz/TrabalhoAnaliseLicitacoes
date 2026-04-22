@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",6025684,1,1,ATIVO,UNIDADE,19117.55,60.5
+"Escavadeira XCMG XE215BR",6025685,2,2,ATIVO,UNIDADE,38235.3,60.5
+"Pá Carregadeira Doosan SD200-3",6025686,8,1,ATIVO,UNIDADE,19117.65,60.5
+"Pá Carregadeira Hyundai HL 740-9S",6025687,9,1,ATIVO,UNIDADE,19117.65,61.5
+"Retroescavadeira JCB 3CX",6025688,12,3,ATIVO,UNIDADE,57352.95,60.5
+"Rolo Compactador Liu Gong",6025689,20,1,ATIVO,UNIDADE,19117.65,61.5
+"Rolo Compactador Tema Terra SP8000",6025690,21,1,ATIVO,UNIDADE,19117.65,61.5
+"Trator de Esteira John Deere 750J",6025691,27,1,ATIVO,UNIDADE,19117.65,55
+"Vibroacabadora Ciber AF4000",6025692,28,1,ATIVO,UNIDADE,19117.65,40

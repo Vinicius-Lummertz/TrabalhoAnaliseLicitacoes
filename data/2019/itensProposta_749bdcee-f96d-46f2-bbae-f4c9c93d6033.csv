@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anti-A : frasco de 10ml",0,25,PERDEU," ",750,30
+"Anti-B: frasco de 10ml",0,25,PERDEU," ",750,30
+"Anti-D: frasco de 10ml",0,25,PERDEU," ",750,30
+"Teste imunocromatográfico p/ pesquisa de sangue oculto nas f",0,4000,VENCEU," ",14990,3.7475
+"VDRL-latex c/ controle negativo e positivo",0,30000,PERDEU," ",4200,0.14

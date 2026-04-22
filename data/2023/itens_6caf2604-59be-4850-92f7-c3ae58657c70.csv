@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",4525766,10,400000,ATIVO,CAPSULA,128000,0.32
+"Ácido Valproico 500mg cpr.",4525767,11,650000,ATIVO,COMPRIMIDO,338000,0.52
+"Amiodarona 200mg cpr, em blister.",4525768,23,250000,ATIVO,COMPRIMIDO,95900,0.3836
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",4525769,46,3000,ATIVO,AMP,5670,1.89
+"Cloreto de sódio 0,9%, ampola 10ml.",4525770,84,24000,ATIVO,AMP,7653.6,0.3189
+"Dipirona 500mg/ml, injetável, ampola 2ml.",4525771,104,4000,ATIVO,AMP,4718.8,1.1797
+"Levofloxacino 500mg cpr, em blister.",4525772,166,10000,ATIVO,COMPRIMIDO,6800,0.68
+"Losartana 50mg cpr revestido, em blister.",4525773,181,5000000,ATIVO,COMPRIMIDO,219500,0.0439
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",4525774,197,1000,ATIVO,AMPOLA,2999.9,2.9999
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",4525775,207,500,ATIVO,AMPOLA,1119.95,2.2399
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",4525776,216,1600000,ATIVO,COMPRIMIDO,111840,0.0699
+"Propranolol 40mg cpr, em blister.",4525777,226,1000000,ATIVO,COMPRIMIDO,25600,0.0256

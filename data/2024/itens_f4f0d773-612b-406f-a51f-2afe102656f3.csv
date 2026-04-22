@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit citologia - 01 escova endocervical + 01 espátula de ayre.",5822704,130,30000,ATIVO,UNIDADE,20400,0.68
+"Óculos para proteção profissional",5822705,171,500,ATIVO,UNIDADE,1730,3.46
+"Sonda Gástrica Longa nº 16, descartável",5822706,238,60,ATIVO,UNIDADE,66,1.1
+"Sonda Gástrica Longa nº 18, descartável",5822707,239,30,ATIVO,UNIDADE,30,1

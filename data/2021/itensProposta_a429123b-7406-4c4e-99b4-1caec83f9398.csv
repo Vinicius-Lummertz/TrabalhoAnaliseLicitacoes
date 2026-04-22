@@ -1,0 +1,433 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Afastador de Minessota",5488026,60,PERDEU,UNI,678,11.3
+"Alavanca apical curva Esquerda",5488027,10,DESCLASSIFICADO_LANCE,UN,359.5,35.95
+"Alavanca apical curva Direita",5488028,10,DESCLASSIFICADO_LANCE,UN,359,35.9
+"Alavanca apical reta",5488029,10,DESCLASSIFICADO_LANCE,UNI,359,35.9
+"Alavanca Seldin (tipo bandeirinha) Direita Nº 1R",5488030,15,DESCLASSIFICADO_LANCE,UN,538.5,35.9
+"Alavanca Seldin (tipo bandeirinha) Esquerda Nº 1L",5488031,15,DESCLASSIFICADO_LANCE,UN,538.5,35.9
+"Alavanca Seldin Reta",5488032,15,DESCLASSIFICADO_LANCE,UN,538.5,35.9
+"Alicate Ortodôntico 139",5488033,1,DESCLASSIFICADO_LANCE,UNI,90,90
+"Alicate Ortodôntico Bico Chato 121",5488034,1,DESCLASSIFICADO_LANCE,UN,90,90
+"Alicate Ortodôntico Bico De Papagaio 137",5488035,1,PERDEU,UNI,90,90
+"Alicate ortodôntico conformador de bandas",5488036,1,PERDEU,UNI,90,90
+"Alicate Ortodôntico Corte Amarrilho 151",5488037,1,CANCELADO,UNI,438,438
+"alicate ortodôntico corte pesado com widea",5488038,1,DESCLASSIFICADO_LANCE,UNID,438,438
+"Alicate Ortodôntico De La Rosa 109",5488039,1,DESCLASSIFICADO_LANCE,UNI,163,163
+"Alicate Ortodôntico Removedor de Bráquete 346R",5488041,1,PERDEU,UN,198.04,198.04
+"Alicate ortodôntico saca banda 347",5488042,1,PERDEU,UNI,110,110
+"Alicate Ortodôntico Tridente 200",5488043,1,DESCLASSIFICADO_LANCE,UN,198,198
+"Alicate ortodôntico universal 325",5488044,1,DESCLASSIFICADO_LANCE,UN,92,92
+"Alicate perfurador Ainsworth-5 furos",5488047,1,DESCLASSIFICADO_LANCE,UN,103,103
+"Alveolótomo curvo 16cm",5488048,10,DESCLASSIFICADO_LANCE,UN,926,92.6
+"APLICADOR DE DYCAL",5488049,20,PERDEU,UN,240,12
+"Arco Ostby Adulto",5488050,10,DESCLASSIFICADO_LANCE,UN,128,12.8
+"Arco Ostby Adulto dobrável",5488051,10,DESCLASSIFICADO_LANCE,UN,128,12.8
+"Arco Ostby infantil dobrável",5488052,5,DESCLASSIFICADO_LANCE,UN,64,12.8
+"Arco Young Adulto, em aço inox",5488558,1,DESCLASSIFICADO_LANCE,UN,25.9,25.9
+"Bandeja p/ esterelizacao",5488053,100,DESCLASSIFICADO_LANCE,UN,4250,42.5
+"CABO P/ ESPELHO ODONTOLOGICO",5488054,200,DESCLASSIFICADO_LANCE,UNI,1880,9.4
+"Cabo para bisturi nº3",5488055,80,DESCLASSIFICADO_LANCE,UN,736,9.2
+"Cabo Para Bisturi redondo Para Lâmina Dupla",5488057,2,CANCELADO,UN,417,208.5
+"CANETA DE ALTA ROTACAO",5488510,15,DESCLASSIFICADO_LANCE,UN,11070,738
+"Calcador de banda",5488058,1,VENCEU,UNI,47.45,47.45
+"CALCADOR PAIVA N°1",5488059,10,DESCLASSIFICADO_LANCE,UNID,269,26.9
+"CALCADOR PAIVA N°2",5488559,10,DESCLASSIFICADO_LANCE,UN,269,26.9
+"Calcador Paiva kit nº1; 2; 3; 4",5488560,5,DESCLASSIFICADO_LANCE,KIT,243,48.6
+"Cinzel micro Ochsenbein nº 1",5488060,2,DESCLASSIFICADO_LANCE,UN,153.4,76.7
+"Coletor de material perfuro cortante",5488061,10,PERDEU,CX,480,48
+"Conjunto de contra ângulo e micro motor.",5519061,12,DESCLASSIFICADO_LANCE,UNID,19680,1640
+"Compasso Willis-Jon",5488062,1,PERDEU,UN,45,45
+"Cuba Inox Redonda 13cm",5488063,4,PERDEU,UN,142,35.5
+"Cureta de Lucas nº 85",5488064,5,DESCLASSIFICADO_LANCE,UN,125,25
+"Cureta dentina (escavador), nº 05 PEQUENA",5488065,15,DESCLASSIFICADO_LANCE,UN,210,14
+"Cureta dentina (escavador)nº20, GRANDE",5488066,15,DESCLASSIFICADO_LANCE,UNI,210,14
+"CURETA GRACEY 11-12 - EM AÇO INOX",5488067,15,DESCLASSIFICADO_LANCE,UNI,240,16
+"CURETA GRACEY 13-14 - EM AÇO INOX",5488068,15,DESCLASSIFICADO_LANCE,UNI,240,16
+"CURETA GRACEY 5-6 - EM AÇO INOX",5488069,40,DESCLASSIFICADO_LANCE,UN,640,16
+"CURETA GRACEY 7-8 - EM AÇO INOX",5488070,15,DESCLASSIFICADO_LANCE,UNI,240,16
+"Cureta Maccall 17-18",5488071,15,DESCLASSIFICADO_LANCE,UN,240,16
+"Descolador cirurgico Molt Nº 09",5488072,80,DESCLASSIFICADO_LANCE,UNI,5744,71.8
+"Descolador Freer Duplo",5488073,2,DESCLASSIFICADO_LANCE,UN,185.9,92.95
+"Dobrador de amarilho",5488074,1,PERDEU,UN,18.35,18.35
+"Espatula 24",5488075,20,DESCLASSIFICADO_LANCE,UN,296,14.8
+"Espatula 7",5488076,5,DESCLASSIFICADO_LANCE,UNI,74,14.8
+"Espátula de inserção dupla p/ resina n° 1",5488077,120,DESCLASSIFICADO_LANCE,UN,7380,61.5
+"Espátula Lecron com ponta ativa em aço",5488078,5,DESCLASSIFICADO_LANCE,UN,82.5,16.5
+"Espátula para Gesso de inox",5488079,3,PERDEU,UN,66,22
+"Espátula para manipulação nº 72",5488080,60,DESCLASSIFICADO_LANCE,UNI,888,14.8
+"Espátula Para Resina com Calcador N° 3",5488081,80,DESCLASSIFICADO_LANCE,UN,4920,61.5
+"Espátula plástica para alginato",5488082,3,DESCLASSIFICADO_LANCE,UN,8.7,2.9
+"Espelho bucal Nº3",5488083,50,DESCLASSIFICADO_LANCE,UN,595,11.9
+"Espelho bucal Nº5",5488084,50,DESCLASSIFICADO_LANCE,UN,595,11.9
+"Espelho clinico Nº 5",5488085,800,DESCLASSIFICADO_LANCE,UN,3600,4.5
+"Estojo Endodontico 24 furos 07x06x05cm",5488086,1,PERDEU,UN,76.8,76.8
+"Estojo Endodontico 48 furos 20x10x5cm",5488087,1,PERDEU,UN,190,190
+"Estojo Inox Perfurado 26x12x06",5488088,2,DESCLASSIFICADO_LANCE,UN,370,185
+"FÓRCEPS 18R",5488567,20,DESCLASSIFICADO_LANCE,UNID,1700,85
+"Fórceps nº18 L",5488565,20,DESCLASSIFICADO_LANCE,UN,1700,85
+"Grampo para isolamento nº00",5488089,15,DESCLASSIFICADO_LANCE,UNI,225,15
+"Grampo para isolamento nº200",5488090,15,DESCLASSIFICADO_LANCE,UN,225,15
+"Grampo para isolamento nº202",5488091,15,DESCLASSIFICADO_LANCE,UN,225,15
+"GRAMPO PARA ISOLAMENTO N°205",5488570,15,DESCLASSIFICADO_LANCE,UNID,225,15
+"Grampo para isolamento nº206",5488092,15,DESCLASSIFICADO_LANCE,UN,225,15
+"Grampo para isolamento nº210",5488094,1,DESCLASSIFICADO_LANCE,UN,15,15
+"Grampo para isolamento nº211",5488095,1,DESCLASSIFICADO_LANCE,UN,13,13
+"Grampo para isolamento nº212",5488096,15,DESCLASSIFICADO_LANCE,UN,225,15
+"Grampo para isolamento nº26",5488097,1,DESCLASSIFICADO_LANCE,UN,13.9,13.9
+"Grampo para isolamento nºW8A",5488098,20,DESCLASSIFICADO_LANCE,UNI,300,15
+"Kit posicionador para RX adulto",5488100,3,DESCLASSIFICADO_LANCE,KIT,214.5,71.5
+"Kit posicionador para RX infantil",5488101,3,DESCLASSIFICADO_LANCE,KIT,214.5,71.5
+"Lamparina de inox 60ml",5488102,1,PERDEU,UN,40,40
+"Lamparina Hannau",5488103,1,PERDEU,UNI,26.1,26.1
+"Lima seldin para osso numero 12",5488104,60,DESCLASSIFICADO_LANCE,UN,2994,49.9
+"Micro Tesoura Castroviejo Curva 11 cm",5488105,2,DESCLASSIFICADO_LANCE,UN,300,150
+"Pinça Backhaus 10cm",5488106,2,DESCLASSIFICADO_LANCE,UN,100,50
+"Pinça clinica odontológica p/algodão",5488107,250,DESCLASSIFICADO_LANCE,UN,5125,20.5
+"Pinça Dietrich 16cm",5488108,2,DESCLASSIFICADO_LANCE,UN,193,96.5
+"Pinça Hemostática KELLY curva 14cm",5488109,5,DESCLASSIFICADO_LANCE,UN,190,38
+"Pinça Hemostática KELLY curva 16cm",5488110,5,DESCLASSIFICADO_LANCE,UN,250,50
+"Pinça Mosquito 12cm",5488111,5,DESCLASSIFICADO_LANCE,UN,147.5,29.5
+"Pinça porta grampo palmer",5488112,1,DESCLASSIFICADO_LANCE,UNI,85.95,85.95
+"Porta Agulha Castroviejo Especial Wídea 14cm",5488113,2,PERDEU,UN,353.76,176.88
+"Porta Agulha Castroviejo simples 14cm",5488114,2,DESCLASSIFICADO_LANCE,UN,353.6,176.8
+"Porta Agulha Orto Mathieu 14cm",5488116,2,DESCLASSIFICADO_LANCE,UN,229.8,114.9
+"Porta algodão e/ou resíduos",5488117,15,DESCLASSIFICADO_LANCE,UNI,1380,92
+"Porta-amálgama de plástico, autoclavável",5488118,2,DESCLASSIFICADO_LANCE,UN,27,13.5
+"Porta-matriz, tipo Toflemire adulto, em aço inox",5488119,10,DESCLASSIFICADO_LANCE,UN,280,28
+"Porta-matriz, tipo Toflemire infantil, em aço inox",5488120,10,DESCLASSIFICADO_LANCE,UN,280,28
+"Posicionador Radiográfico digital",5488121,6,DESCLASSIFICADO_LANCE,UN,1770,295
+"Pote dappen de vidro",5488122,50,DESCLASSIFICADO_LANCE,UNI,185,3.7
+"Régua endodontica milimetrada calibradora",5488123,5,DESCLASSIFICADO_LANCE,UN,1000,200
+"Seringa Carpule com refluxo-12,5cm",5488124,120,DESCLASSIFICADO_LANCE,UN,6456,53.8
+"Sindesmótomo em aço inox",5488125,60,DESCLASSIFICADO_LANCE,UN,1038,17.3
+"Sonda Exploradora endodontica nº6",5488126,10,PERDEU,UN,94,9.4
+"Sonda Exploradora Odontológica nº5",5488127,150,DESCLASSIFICADO_LANCE,UNI,1785,11.9
+"Sonda Milimetrada Carolina do Norte Nº 15",5488128,2,PERDEU,UN,70,35
+"Sonda milimetrada goldman fox dupla",5488129,20,PERDEU,UN,1018.2,50.91
+"suporte de fixação para coletor perfuro cortante 3l",5488573,20,PERDEU,UNID,560,28
+"Tesoura cirúrgica IRIS reta 12cm",5488132,150,DESCLASSIFICADO_LANCE,UN,3165,21.1
+"Tesoura cirúrgica MAYO reta 14cm",5488133,10,DESCLASSIFICADO_LANCE,UN,460,46
+"Tesoura Metzenbaum Curva 15cm",5488134,2,DESCLASSIFICADO_LANCE,UN,112,56
+"Abridor De Boca Abritec - adulto",5488136,10,DESCLASSIFICADO_LANCE,UN,59.5,5.95
+"Abridor De Boca Abritec - infantil",5488137,10,DESCLASSIFICADO_LANCE,UN,59.5,5.95
+"Ácido fosfórico 37% em gel",5488138,300,DESCLASSIFICADO_LANCE,PCT,1185,3.95
+"Acrilico autopolimerizavel liquido",5488139,15,DESCLASSIFICADO_LANCE,FR.,1455,97
+"Acrilico autopolimerizavel pó rosa",5488140,10,DESCLASSIFICADO_LANCE,POT,659,65.9
+"Acrilico autopolimerizavel pó transparente",5488141,10,DESCLASSIFICADO_LANCE,POT,1300,130
+"Adesivo dental fotopolimerizável do tipo II",5488142,200,DESCLASSIFICADO_LANCE,FR.,33200,166
+"Adesivos com temas odontológicos",5488143,20,CANCELADO,PCT,358,17.9
+"Afastador Labial Expandex - adulto",5488144,5,DESCLASSIFICADO_LANCE,UN,56.5,11.3
+"Afastador Labial Expandex - infantil",5488145,5,DESCLASSIFICADO_LANCE,UN,56.5,11.3
+"Água destilada - Galão 5 (cinco) litros",5488146,1200,PERDEU,GAL,21600,18
+"Água oxigenada 10% - Fr 100ml",5488147,200,PERDEU,FR.,560,2.8
+"Agulha gengival CURTA descartável",5488148,300,DESCLASSIFICADO_LANCE,CX,14850,49.5
+"Agulha gengival EXTRA CURTA descartavel.",5488149,30,DESCLASSIFICADO_LANCE,CX,1440,48
+"agulha gengival longa descartável",5488575,30,DESCLASSIFICADO_LANCE,CXA,1485,49.5
+"Álcool 70% - Litro.",5488150,1500,DESCLASSIFICADO,L,3750,2.5
+"Álcool 96% - Litro.",5488151,50,PERDEU,L,495,9.9
+"ALGINATO TIPO I 454 GRAMAS",5488576,50,DESCLASSIFICADO_LANCE,PCTE,3250,65
+"Alginato tipo II",5488152,200,DESCLASSIFICADO_LANCE,PCT,5600,28
+"ALGODÃO EM ROLETES",5488153,2000,DESCLASSIFICADO_LANCE,PCT,4700,2.35
+"Amalgama em cápsula - 1 Porção - Kit 50 cápsulas",5488154,1,PERDEU,KIT,98.55,98.55
+"Amalgama em cápsula - 2 Porções - Kit 50 cápsulas",5488155,1,PERDEU,KIT,170,170
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.",5488156,30,PERDEU,CX,4650,155
+"Anestésico LIDOCAINA 2% COM vasocontritor epinefrina 1:100.0",5488157,550,PERDEU,CX,50490,91.8
+"Anestésico MEPIVACAINA 2% COM vasoconstritor epinefrina 1:10",6554471,187,PERDEU,CX,25806,138
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",5488160,70,PERDEU,CX,9660,138
+"Anestésico tópico gel.",5488161,300,PERDEU,POT,2610,8.7
+"Antisséptico Bucal Periogard 0,12% - 2l.",5488162,100,PERDEU,FR.,5880,58.8
+"Avental RX para Paciente Adulto",5488164,1,PERDEU,UN,590.3,590.3
+"Avental RX para Paciente Infantil",5488165,1,CANCELADO,UN,430,430
+"Azul de Metileno Chimiolux 0,005%.",5488166,15,PERDEU,CX,1965,131
+"Azul de Metileno Chimiolux 0,01%.",5488167,5,PERDEU,CX,655,131
+"Barreira gengival tipo TOPDAM - fotopolimerizável",5488170,40,DESCLASSIFICADO_LANCE,KIT,750,18.75
+"Bicarbonato de sódio - 200g",5488171,100,DESCLASSIFICADO_LANCE,POT,980,9.8
+"Broca  nº 703 para peça de mão",5488173,20,PERDEU,UN,356,17.8
+"Broca alta rotação n° 1112 F",5488174,150,DESCLASSIFICADO_LANCE,UN,1050,7
+"Broca alta rotação nº 1190 F",5488175,150,DESCLASSIFICADO_LANCE,UN,1050,7
+"Broca alta rotação nº 2135 F",5488176,150,DESCLASSIFICADO_LANCE,UN,1050,7
+"Broca alta rotação nº 3118 F",5488177,250,DESCLASSIFICADO_LANCE,UN,1750,7
+"Broca alta rotação nº 3168 F",5488178,150,DESCLASSIFICADO_LANCE,UNI,1050,7
+"Broca alta rotação nº 3195 F",5488179,150,DESCLASSIFICADO_LANCE,UN,1050,7
+"Broca Carbide Esférica nº 02.",5488180,20,DESCLASSIFICADO_LANCE,UN,356,17.8
+"Broca Carbide Esférica nº 04",5488181,20,DESCLASSIFICADO_LANCE,UN,356,17.8
+"Broca Carbide Esférica nº 06",5488182,20,DESCLASSIFICADO_LANCE,UN,356,17.8
+"Broca de alta rotação carbide esférica n° ½ . Autoclavavel",5488183,30,DESCLASSIFICADO_LANCE,UN,282,9.4
+"Broca de alta rotação carbide esférica n° 4. Autoclavavel",5488184,120,DESCLASSIFICADO_LANCE,UN,1128,9.4
+"Broca de alta rotação carbide esférica n° 6. Autoclavavel",5488185,120,DESCLASSIFICADO_LANCE,UN,1128,9.4
+"Broca de alta rotação carbide esférica n° 8. Autoclavavel",5488186,120,DESCLASSIFICADO_LANCE,UN,1128,9.4
+"Broca de alta rotação carbide esférica nº ¼.  Autoclavavel",5488187,30,DESCLASSIFICADO_LANCE,UN,282,9.4
+"Broca de alta rotação diamantada 1033",5488188,50,DESCLASSIFICADO_LANCE,UN,350,7
+"Broca de alta rotação diamantada 1047",5488189,50,DESCLASSIFICADO_LANCE,UN,350,7
+"broca diamantada esférica haste longa 1012",5488190,50,DESCLASSIFICADO_LANCE,UNID,350,7
+"broca diamantada esférica 1012",5488191,400,DESCLASSIFICADO_LANCE,UNID,2800,7
+"broca diamantada esférica haste longa 1014",5488192,50,DESCLASSIFICADO_LANCE,UNID,350,7
+"Broca de alta rotação diamantada esferica 1014. Autoclavável",5488193,400,DESCLASSIFICADO_LANCE,UN,2800,7
+"broca diamantada esférica haste longa 1016",5488194,10,DESCLASSIFICADO_LANCE,UNID,70,7
+"broca diamantada esférica haste longa 1018",5488195,10,DESCLASSIFICADO_LANCE,UNID,70,7
+"BROCA DIAMANTADA ESFERICA 1019",5488196,350,DESCLASSIFICADO_LANCE,UNID,2450,7
+"Broca de alta rotação diamantada nº 2082, cônica, topo INATI",5488197,70,DESCLASSIFICADO_LANCE,UN,490,7
+"Broca de alta rotação diamantada nº3080, cônica, topo inativ",5488198,70,PERDEU,UN,490,7
+"Broca de alta rotação diamantada nº3082, cônica, topo inativ",5488199,70,DESCLASSIFICADO_LANCE,UN,490,7
+"Broca de baixa rotação CARBIDE n° 1",5488201,200,DESCLASSIFICADO_LANCE,UN,1880,9.4
+"Broca de baixa rotação carbide n° 2",5488202,200,DESCLASSIFICADO_LANCE,UN,1880,9.4
+"Broca de baixa rotação carbide n° 4",5488203,600,DESCLASSIFICADO_LANCE,UN,5640,9.4
+"Broca de baixa rotação carbide n° 6",5488204,600,DESCLASSIFICADO_LANCE,UN,5640,9.4
+"Broca de baixa rotação carbide n° 8",5488205,500,DESCLASSIFICADO_LANCE,UN,4700,9.4
+"Broca de baixa rotação haste longa n° 1",5488206,30,DESCLASSIFICADO_LANCE,UN,214.5,7.15
+"Broca de baixa rotação haste longa n° 2",5488207,30,DESCLASSIFICADO_LANCE,UN,214.5,7.15
+"Broca de baixa rotação haste longa n° 4",5488208,50,DESCLASSIFICADO_LANCE,UN,357.5,7.15
+"Broca de baixa rotação haste longa n° 6",5488209,50,DESCLASSIFICADO_LANCE,UN,357.5,7.15
+"Broca de baixa rotação haste longa n° 8.",5488210,30,DESCLASSIFICADO_LANCE,UN,214.5,7.15
+"Broca de Gates Glidden nº1 de 25 mm",5488211,20,PERDEU,UN,172,8.6
+"Broca de Gates Glidden nº1 de 32 mm",5488212,20,DESCLASSIFICADO_LANCE,UN,260,13
+"Broca de Gates Glidden nº2 de 32 mm",5488213,20,DESCLASSIFICADO_LANCE,UN,260,13
+"Broca de Gates Glidden nº3 de 25 mm",5488214,20,DESCLASSIFICADO_LANCE,UN,260,13
+"Broca de Gates Glidden nº3 de 32 mm",5488215,20,DESCLASSIFICADO_LANCE,UN,260,13
+"Broca de Gates Glidden nº4 de 32 mm",5488216,20,DESCLASSIFICADO_LANCE,UN,260,13
+"Broca diamantada esférica de alta rotação nº3018 FG",5488217,30,DESCLASSIFICADO_LANCE,UN,210,7
+"Broca diamantada ponta de chama pequena nº 1111 FF",5488218,30,DESCLASSIFICADO_LANCE,UN,210,7
+"BROCA ENDO Z - 21 MM",5488219,30,DESCLASSIFICADO_LANCE,UNI,1674,55.8
+"BROCA HASTE LONGA  LL CARBIDE - Nº2",5488220,10,PERDEU,UNI,110,11
+"BROCA HASTE LONGA LL CARBIDE - Nº4",5488221,10,PERDEU,UNI,110,11
+"BROCA HASTE LONGA LL CARBIDE - Nº6",5488222,10,PERDEU,UNI,110,11
+"Broca haste longa carbide nº 701",5488223,100,DESCLASSIFICADO_LANCE,UN,1100,11
+"Broca haste longa carbide nº 702",5488224,130,DESCLASSIFICADO_LANCE,UN,1430,11
+"Broca haste longa carbide nº 703",5488225,100,DESCLASSIFICADO_LANCE,UN,1100,11
+"Broca lêntulo 25mm N°25",5488227,5,PERDEU,CX,166.5,33.3
+"Broca lêntulo 25mm N°35",5488228,5,PERDEU,CX,166.5,33.3
+"Broca lêntulo 25mm N°40",5488229,5,PERDEU,CX,166.5,33.3
+"Broca Zekrya Longa tamanho 28mm",5488233,130,DESCLASSIFICADO_LANCE,UN,3588,27.6
+"Broca Zekrya Tamanho 23mm",5488234,130,DESCLASSIFICADO_LANCE,UN,3588,27.6
+"Caixa Para Aparelho Ortodôntico sortidos",5488235,60,DESCLASSIFICADO_LANCE,EM,1560,26
+"Câmara Escura Para Revelação",5488236,1,DESCLASSIFICADO_LANCE,UN,226,226
+"Campo cirúrgico 60X60 cm",5488237,50,CANCELADO,UN,2150,43
+"Campo cirúrgico fenestrado 50 x 50 cm",5488238,50,CANCELADO,UN,2300,46
+"Cariostático 30% a base de diaminufluoreto de prata",5488240,20,PERDEU,FR.,570,28.5
+"Cartela 2 furos para rx odontológico",5488241,5,PERDEU,PCT,46.1,9.22
+"CERA ROSA 7",5488580,20,DESCLASSIFICADO_LANCE,CX,478,23.9
+"Cera Utilidade",5488581,15,DESCLASSIFICADO_LANCE,UNID,330,22
+"CIMENTO DE HIDROXIDO DE CALCIO",5488246,150,PERDEU,KIT,3900,26
+"Cimento Resinoso Endodôntico para obturação de canais radicu",5488248,60,PERDEU,UN,16680,278
+"Clorhexidina 2% - frasco com 100ml",5488249,180,VENCEU,FR.,1080,6
+"COLGADURA INDIVIDUAL",5488250,10,PERDEU,UNI,39,3.9
+"Compasso de ponta seca",5488251,1,CANCELADO,UN,160,160
+"Compressas de Gaze Hidrófila 9 fios, 100% Algodão 7,5 x 7,5",5488252,1200,DESCLASSIFICADO_LANCE,PCT,43200,36
+"condensador de gutapercha mcspadden #35",5488627,30,PERDEU,CXA,4500,150
+"Condensador de Gutapercha MacSpadden 21mm",5488253,10,CANCELADO,CX,1500,150
+"Condensador de Gutapercha MacSpadden 25mm",5488254,20,CANCELADO,CX,3000,150
+"condensador de gutapercha mcspadden #45",5519734,30,PERDEU,CXA,4500,150
+"condensador de gutapercha mcspadden #50",5488637,30,PERDEU,CXA,4500,150
+"Cone de papel absorvente esteril nº 30",5488255,35,DESCLASSIFICADO_LANCE,CX,1820,52
+"Cone de papel absorvente  esteril nº 35",5488256,35,DESCLASSIFICADO_LANCE,CX,1820,52
+"Cone de papel absorvente esteril nº 40",5488257,35,DESCLASSIFICADO_LANCE,CX,1820,52
+"Cone de papel absorvente estéril primeira série",5488258,40,PERDEU,CXS,2080,52
+"Cone de papel absorvente segunda série- conjunto de cones nú",5488259,35,PERDEU,CX,1820,52
+"Cone guta percha ACESSÓRIO B7.",5488260,15,PERDEU,CX,425.25,28.35
+"Cone guta percha ACESSÓRIO B8",5488261,35,PERDEU,CX,992.25,28.35
+"Cone guta percha PRINCIPAL 20",5488266,30,DESCLASSIFICADO_LANCE,CX,1011,33.7
+"Cone guta percha PRINCIPAL 25",5488267,30,DESCLASSIFICADO_LANCE,CX,1011,33.7
+"Cone guta percha PRINCIPAL 30",5488268,30,DESCLASSIFICADO_LANCE,CX,1011,33.7
+"Cone guta percha PRINCIPAL 35",5488269,30,DESCLASSIFICADO_LANCE,CX,1011,33.7
+"Cone guta percha PRINCIPAL 40",5488270,30,DESCLASSIFICADO_LANCE,CX,1011,33.7
+"Cuba de borracha MÉDIA",5488278,2,DESCLASSIFICADO_LANCE,UN,21,10.5
+"Cunhas de madeira interdental anatômicas, em 4 tamanhos",5488279,50,DESCLASSIFICADO_LANCE,CX,1440,28.8
+"DEDAL DE BORRACHA",5488280,2,PERDEU,UN,7.6,3.8
+"Desinfetante e solvente de resíduos odontológico.",5488281,300,DESCLASSIFICADO_LANCE,LIT,10950,36.5
+"Detergente multienzimático em galão de 4 a 5 litros",5488282,300,PERDEU,GAL,30000,100
+"Disco de lixa 16mm - 04 granulações",5488284,100,PERDEU,CX,4200,42
+"Edta gel 24%. Embalagem com 2 seringas com 3g de gel cada.",5488285,15,DESCLASSIFICADO_LANCE,CX,352.5,23.5
+"Edta Liquido Trissódico 17%",5488286,120,DESCLASSIFICADO_LANCE,FR.,672,5.6
+"Envelope auto selante 190X330mm",5488294,1200,PERDEU,CX,67800,56.5
+"Envelope auto selante 240X380mm",5488295,600,PERDEU,CX,44940,74.9
+"Envelope auto selante 50x130mm",6554558,625,DESCLASSIFICADO_LANCE,CXA,15625,25
+"Envelope auto selante 90X260mm",5488297,2000,PERDEU,CX,47000,23.5
+"Escova de aço para limpeza de brocas",5488298,50,DESCLASSIFICADO_LANCE,UN,497.5,9.95
+"Escova de mão para Limpeza de Instrumentais",5488299,120,VENCEU,UN,1068,8.9
+"Escova de polimento scoth brithe grossa",5488300,10,VENCEU,UNID,168,16.8
+"Escova de polimento scoth brithe fina",5488301,10,VENCEU,UNID,168,16.8
+"escova de polimento couro chamois - marrom",5488302,10,PERDEU,UNID,220,22
+"Escova de polimento pelo de cabra com couro chamois",5488303,10,PERDEU,UN,220,22
+"Escova de polimento feltro 22mm",5488304,10,VENCEU,UN,92,9.2
+"Escova de Robson reta, para contra angulo",5488305,1000,DESCLASSIFICADO_LANCE,UN,1550,1.55
+"Escova dental adulto - Pacote com 50 unidades",5488306,40,PERDEU,PCT,1432,35.8
+"Escova dental infantil -  Pacote com 50 unidades",5488307,40,PERDEU,PCT,1432,35.8
+"ESPONJA HEMOSTÁTICA",5488312,100,DESCLASSIFICADO_LANCE,CX,5230,52.3
+"Eucaliptol - Solvente de Guta Percha",5488314,5,DESCLASSIFICADO_LANCE,FR.,46,9.2
+"Evidenciador de placa",5488315,30,DESCLASSIFICADO_LANCE,FR.,195,6.5
+"Fibras para Terapia Fotodinâmica (PDT).",5488317,10,VENCEU,CX,2500,250
+"Filme Periapical ADULTO E-speed - ultra rapido",5488318,20,DESCLASSIFICADO_LANCE,CX,3260,163
+"Filme Periapical INFANTIL E-speed  - ultra rapido.",5488319,10,DESCLASSIFICADO_LANCE,CX,2250,225
+"Fio dental bucal",5488327,100,PERDEU,UN,1080,10.8
+"Fio retrator nº 1 (médio).",5488328,5,DESCLASSIFICADO_LANCE,UN,94.5,18.9
+"Fio retrator nº00 (extra fino).",5488329,5,DESCLASSIFICADO_LANCE,UN,94.5,18.9
+"Fita matriz metálica de 5mm",5488331,500,DESCLASSIFICADO_LANCE,ROLO,1550,3.1
+"Fita matriz metalica de 7mm",5488332,350,DESCLASSIFICADO_LANCE,ROLO,1120,3.2
+"Fita matriz poliéster transparente 10X120X0,05 mm",5488333,100,DESCLASSIFICADO_LANCE,CX,350,3.5
+"Fixador para radiografia",5488334,30,DESCLASSIFICADO_LANCE,FR.,663,22.1
+"Flúor gel acidulado mínima de 1,23% de flúor-200 ml",5488335,270,DESCLASSIFICADO_LANCE,FR.,2160,8
+"Formocresol - 10ml",5488336,50,DESCLASSIFICADO_LANCE,FR.,255,5.1
+"Gesso especial tipo IV",5488342,50,DESCLASSIFICADO_LANCE,PCT,1500,30
+"Gesso Pedra Tipo III",5492180,300,DESCLASSIFICADO_LANCE,PCT,4584,15.28
+"Godiva em bastão verde",5488343,5,DESCLASSIFICADO_LANCE,CX,280,56
+"Hemostático Líquido - 10ml",5488347,40,DESCLASSIFICADO_LANCE,UN,596,14.9
+"Hidróxido de cálcio Pró-Análise - 10g",5488348,60,DESCLASSIFICADO_LANCE,POT,285,4.75
+"HIDRÓXIDO DE CALCIO PASTA. KIT COM 4 SERINGAS",5492631,5,PERDEU,KIT,1300,260
+"Hipoclorito de sódio 1% - Solução de Milton",5488349,100,PERDEU,LIT,1800,18
+"HIPOCLORITO DE SÓDIO 2,5%",5488350,70,PERDEU,LIT,1260,18
+"Indicador Biológico sensível a geobacillus stearothermophilu",5488351,600,DESCLASSIFICADO_LANCE,CX,27600,46
+"INSERTO G1/T1",5493573,15,DESCLASSIFICADO_LANCE,UNID,1018.5,67.9
+"INSERTO T4",5493775,15,DESCLASSIFICADO_LANCE,UNID,1018.5,67.9
+"Ionômero de vidro autopolimerizável cor a3",5488352,300,DESCLASSIFICADO_LANCE,KIT,23400,78
+"Ionometro de vidro restaurador  autopolimerizável cor a3",6554560,112,PERDEU,KIT,14560,130
+"Kit Completo para Polimento de Resina",5488355,100,PERDEU,KIT,6000,60
+"Kit odontológico de higiene dental adulto",6554562,3000,DESCLASSIFICADO_LANCE,KIT,22500,7.5
+"Kit odontológico de higiene dental infantil",5488358,7000,DESCLASSIFICADO_LANCE,KIT,63000,9
+"Lençol de borracha puro látex 13,5x13,5cm",5488362,50,DESCLASSIFICADO_LANCE,CX,1945,38.9
+"Lima C Pilot Manual 08 de 21mm",5496376,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima C Pilot Manual 08 de 25mm",5496579,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima C Pilot Manual 10 de 21mm",5496799,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima C Pilot Manual 10 de 25mm",5497027,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima C Pilot Manual 15 de 21mm",5497193,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima C Pilot Manual 15 de 25mm",5497414,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima Flex-file 1ª série nº 15 a 40 de 21 mm",5488363,40,DESCLASSIFICADO_LANCE,CX,1960,49
+"Lima Flex-file 1ª série nº 15 a 40 de 25 mm",5488364,40,DESCLASSIFICADO_LANCE,CX,1960,49
+"Lima Flex-file 1ª série nº 15 a 40 de 31 mm",5488365,40,DESCLASSIFICADO_LANCE,CX,1960,49
+"Lima Flex-file nº 15 de 21 mm",5488366,50,DESCLASSIFICADO_LANCE,CX,2450,49
+"Lima Flex-file nº 15 de 25 mm",5488367,40,DESCLASSIFICADO_LANCE,CX,1960,49
+"Lima Flex-file nº 20 de 21 mm.",5488369,30,DESCLASSIFICADO_LANCE,CX,1470,49
+"Lima Flex-file nº 20 de 25 mm",5488370,30,DESCLASSIFICADO_LANCE,CX,1470,49
+"Lima Protaper Universal  Sortido SX-F3 25mm",5488372,20,PERDEU,CX,4600,230
+"Lima Protaper Universal  Sortido SX-F3 31mm",5488373,20,PERDEU,CX,4600,230
+"Lima C Pilot Manual 15 de 25mm .",5527110,20,DESCLASSIFICADO_LANCE,CAR,1360,68
+"Lima Reciprocante WaveOne Glider 15-25mm.",5488374,20,PERDEU,CAR,3560,178
+"Lima Reciprocante WaveOne Glider 15-21mm.",5488375,20,PERDEU,CAR,3560,178
+"Lima Reciprocante WAVE ONE GOLD (20.07 -21mm) AMARELA",5488376,60,PERDEU,CX,12480,208
+"Lima Reciprocante WAVE ONE GOLD (20.07 -25mm) AMARELA",5488377,60,PERDEU,CX,12480,208
+"Lima Reciprocante WAVE ONE GOLD (25.07 - 21mm) VERMELHA",5488378,60,PERDEU,CX,12480,208
+"Lima Reciprocante WAVE ONE GOLD (25.07 - 25mm) VERMELHA",5488379,60,PERDEU,CX,12480,208
+"Lima Reciprocante WAVE ONE GOLD (35.06 - 21mm) VERDE",5527083,60,PERDEU,CX,12480,208
+"Lima Reciprocante WAVE ONE GOLD (35.06 -25mm) VERDE",5527084,60,PERDEU,CX,12480,208
+"Lima tipo K  #08 de 21 mm",5488380,30,DESCLASSIFICADO_LANCE,CX,1197,39.9
+"Lima tipo K #08 de 25 mm.",5488381,50,DESCLASSIFICADO_LANCE,CX,1995,39.9
+"Lima tipo K #08 de 31 mm.",5488382,50,DESCLASSIFICADO_LANCE,CX,1995,39.9
+"Lima tipo K #10 de 21 mm.",5488383,30,DESCLASSIFICADO_LANCE,CX,1197,39.9
+"Lima tipo K #10 de 25 mm",5488384,30,DESCLASSIFICADO_LANCE,CX,1197,39.9
+"Lima tipo K #10 de 31 mm",5488385,50,DESCLASSIFICADO_LANCE,CX,1995,39.9
+"Lima tipo K 2ª série (45-80 de 21 mm).",5488386,36,DESCLASSIFICADO_LANCE,CX,1436.4,39.9
+"Lima tipo K 2ª série (45-80 de 25 mm).",5488387,24,DESCLASSIFICADO_LANCE,CX,957.6,39.9
+"Lima tipo K 2ª série (45-80 de 31 mm).",5488388,10,DESCLASSIFICADO_LANCE,CX,399,39.9
+"Limas Rotatórias #40 04.25mm para tratamento de canal",5488389,50,DESCLASSIFICADO_LANCE,CX,7750,155
+"Limas Rotatórias #50 02.25mm",5488390,50,DESCLASSIFICADO_LANCE,CX,7750,155
+"Limas Rotatórias 16.02 25mm",5488391,80,PERDEU,CX,9600,120
+"Limas Rotatórias 17.08 19mm",5488392,80,PERDEU,CX,9600,120
+"Limas Rotatórias para retratamento #30/09 19mm, #25/08 18mm,",5488393,80,DESCLASSIFICADO_LANCE,CX,9600,120
+"Limas Rotatórias SRF-SEQUENCE - 25mm",5488394,250,DESCLASSIFICADO_LANCE,CX,38750,155
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",5488395,2000,DESCLASSIFICADO_LANCE,PCT,5000,2.5
+"Luva cirurgica Látex, esterelizada, tamanho 7,5",5488396,2000,DESCLASSIFICADO_LANCE,PCT,5000,2.5
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",5502815,2000,DESCLASSIFICADO_LANCE,PCT,5000,2.5
+"Luva cirurgica Látex, esterelizada, tamanho 7,0",5488397,2000,DESCLASSIFICADO_LANCE,PCT,5000,2.5
+"LUVA CIRÚRGICA SEM LÁTEX, ESTERILIZADA, SEM PÓ, TAMANHO 7,5",5503132,1000,VENCEU,PCT,2500,2.5
+"Mandril odontológico p/ contra-ângulo MINI",5488398,150,DESCLASSIFICADO_LANCE,UN,900,6
+"Mini Maçarico Microtorch",5488401,1,CANCELADO,UN,575,575
+"Mocho Odontológico.",5488402,2,CANCELADO,UN,2350,1175
+"Moldeira Total Perfurada ADULTO em Alumínio",5488403,2,DESCLASSIFICADO_LANCE,KIT,144,72
+"Moldeira Total Perfurada Plástico",5488404,2,DESCLASSIFICADO_LANCE,KIT,137.8,68.9
+"Moldeira Total Lisa Adulto Aço Inox 6 peças. DENTADO",5503584,3,PERDEU,KIT,540,180
+"Moldeira Total Lisa Adulto Aço Inox 10peças. DENTADO",5503775,3,DESCLASSIFICADO_LANCE,KIT,870,290
+"Óculos de proteção de plástico",5488405,120,PERDEU,UNI,816,6.8
+"Óleo lubrificante p/ alta-baixa rotação spray-200ml",5488406,250,DESCLASSIFICADO_LANCE,FR.,15000,60
+"Organizador multi uso 850ml plastico",5488407,100,CANCELADO,UNID,910,9.1
+"Organizador multi uso 5 litros plástico transparente com tam",5527092,30,CANCELADO,UN,735,24.5
+"Organizador multi uso 50 litros plástico transparente com ta",5488409,5,CANCELADO,UN,492.5,98.5
+"Otosporin - 10ml",5488410,80,PERDEU,FR.,2040,25.5
+"Papel Crepado em folhas 40 x 40 cm",5488412,20,PERDEU,CX,3138,156.9
+"Papel de articulação com ESPESSURA MÁX. 0.04mm OU 4 µ",5488413,300,DESCLASSIFICADO_LANCE,BLCO,3810,12.7
+"Papel filme PVC. Rolo 30m. 28cm",5488414,100,PERDEU,ROLO,680,6.8
+"Papel grau cirúrgico; medindo 10 cm x 100m",5488415,130,PERDEU,BO,7735,59.5
+"Papel grau cirúrgico; medindo 25 cm x 100 m;",5488416,200,PERDEU,BO,30000,150
+"Pasta para polimento de resina composta",5488418,100,PERDEU,SRS,2025,20.25
+"Pasta para tratamento de alveolite - fr 10gr",5488420,50,DESCLASSIFICADO_LANCE,FR.,1475,29.5
+"Pasta Zinco-Enólica",5488422,10,DESCLASSIFICADO_LANCE,KIT,580,58
+"Pavio para lamparina",5488423,1,PERDEU,PCT,13.5,13.5
+"Pedra de afiar Arkansas fina",5488424,15,PERDEU,UN,525,35
+"Pedra pomes extra fina",5488425,40,DESCLASSIFICADO_LANCE,POT,444,11.1
+"Pincel aplicador Micro brush ponta extra-fina",5488426,100,PERDEU,CX,865,8.65
+"Pincel aplicador Micro brush ponta regular",5488427,200,PERDEU,CX,1730,8.65
+"Ponta Capillary tips (roxa)",5488435,50,CANCELADO,CX,525,10.5
+"Ponta de ultrasson E1 - (rosca externa)",5488440,30,PERDEU,UN,4455,148.5
+"Ponta de ultrasson E10 - (rosca externa)",5488441,10,PERDEU,UN,1485,148.5
+"Ponta de ultrasson E11 - (rosca externa)",5488442,10,PERDEU,UN,1485,148.5
+"Ponta de ultrasson E15 - (rosca externa)",5507899,10,PERDEU,UNID,1835,183.5
+"Ponta de ultrasson E18 - (rosca externa)",5488443,10,PERDEU,UN,1485,148.5
+"Ponta de ultrasson E18D - (rosca externa)",5488444,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson E2D - (rosca externa)",5488445,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson E3D - (rosca externa)",5488446,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson E4D - (rosca externa)",5488447,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson E5 -(rosca externa)",5488448,10,PERDEU,UN,1485,148.5
+"Ponta de ultrasson E6D - (rosca externa)",5488449,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson E7D - (rosca externa)",5488450,10,PERDEU,UN,1759,175.9
+"Ponta de ultrasson nº 1 Gnatus (rosca interna).",5488451,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 1 Saevo (rosca interna).",5488453,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson nº 10P Perio Subgengival Gnatus (rosca in",5488455,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 10P Perio Subgengival Saevo (rosca int",5488456,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson nº 2 - suprageng Gnatus (rosca interna).",5488457,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 2 - suprageng Saevo (rosca interna).",5488459,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson nº 32 Perio E Gnatus (rosca externa)-",5488460,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 32 Perio E Saevo (rosca externa)",5488462,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson nº 37 Perio Sub Gnatus (rosca externa)",5488463,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 37 Perio Sub Saevo (rosca externa).",5488465,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson nº 39 Perio Supra  Gnatus (rosca externa)",5488466,15,VENCEU,UN,720,48
+"Ponta de ultrasson nº 39 Perio Supra Saevo (rosca externa)",5488468,15,PERDEU,UN,855.75,57.05
+"Ponta de ultrasson R1 - (rosca externa)",5488469,15,CANCELADO,UN,2490,166
+"Ponta de ultrasson R2 - (rosca externa) FLATSONIC para Endod",5488470,15,PERDEU,UN,2490,166
+"Ponta Irrigadora  (Agulha Endo-Eze)- 25mm",5488471,55,CANCELADO,PCT,3030.5,55.1
+"Refil Endometric, refil de tamborel para apoio de limas endo",5488472,30,DESCLASSIFICADO_LANCE,PCT,641.1,21.37
+"Régua Plástica Flexível, com 15cm. ORTO",5488475,10,VENCEU,UN,19,1.9
+"Resina composta de baixa viscosidade (flow) cor A3",5488476,200,PERDEU,SRS,3800,19
+"Resina Fotopolimerizavel cor A1 - UNIVERSAL",5488477,180,DESCLASSIFICADO_LANCE,SRS,8820,49
+"Resina Fotopolimerizavel cor A2- UNIVERSAL",5488478,500,DESCLASSIFICADO_LANCE,SRS,24500,49
+"Resina Fotopolimerizavel cor A3- UNIVERSAL",5488479,480,DESCLASSIFICADO_LANCE,SRS,23520,49
+"Resina Fotopolimerizavel cor A3.5 - UNIVERSAL",5488480,100,DESCLASSIFICADO_LANCE,SRS,4900,49
+"Resina Fotopolimerizavel INCISAL",5488481,60,DESCLASSIFICADO_LANCE,SRS,2940,49
+"Restaurador provisório IRM",5488482,80,DESCLASSIFICADO_LANCE,KIT,6316,78.95
+"Restaurador provisório tipo Cimpat, Rosa e/ou Branco",5488483,70,DESCLASSIFICADO_LANCE,FR.,665,9.5
+"REVELADOR PARA RADIOGRAFIA - FRASCO COM 475 ML",5488484,30,DESCLASSIFICADO_LANCE,FRA,663,22.1
+"Saco plástico SACOLÉ medindo 4 x 23 cm",5488486,120,PERDEU,PCT,3060,25.5
+"Selante Fotopolimerizável, COM liberação FLÚOR",5488487,60,DESCLASSIFICADO_LANCE,KIT,1110,18.5
+"Sobre luva plástica descartável",5488490,800,PERDEU,EM,2320,2.9
+"Spray congelante -50º / 200ml para teste de vitalidade pulpa",5488492,100,DESCLASSIFICADO_LANCE,FR.,7250,72.5
+"Stop de Silicone Cursor",5488493,5,PERDEU,CX,92.5,18.5
+"Sugador cirúrgico descartável caixa c/ 40 unidades.",5488494,100,PERDEU,CX,5150,51.5
+"SUGADOR DE SALIVA DESCARTÁVEL 130MM X 0,65MM",5488495,1600,PERDEU,PCT,15200,9.5
+"Sugador Endodôntico Descartável",5488496,200,PERDEU,PCT,4800,24
+"Taça de borracha para contra-ângulo cor branca.",5488497,200,DESCLASSIFICADO_LANCE,UN,680,3.4
+"Tamborel Endometric",5488498,2,PERDEU,UN,41.9,20.95
+"TIP PERIO SUB",5527099,15,PERDEU,UNID,2092.5,139.5
+"TIP PERIO SUPRA",5527100,15,PERDEU,UNID,2092.5,139.5
+"Tira de lixa de aço 4mm para polimento de restaurações de am",5488499,400,DESCLASSIFICADO_LANCE,PCT,5400,13.5
+"Tira de lixa de poliester 4x170mm para polimento de restaura",5488500,200,DESCLASSIFICADO_LANCE,PCT,2786,13.93
+"TRICRESOL FORMALINA - 10 ML",5488501,100,DESCLASSIFICADO_LANCE,FR.,520.2,5.202
+"Vaselina sólida 90 a 100g",5488504,50,CANCELADO,FR,525,10.5
+"Verniz cavitário -10 ml",5488505,15,PERDEU,FR,157.5,10.5
+"Verniz fluoretado",5488506,30,PERDEU,KIT,525,17.5
+"Aparelho de ultrassom odontológico",5488507,2,CANCELADO,UN,7460,3730
+"Aparelho Digital De Analgesia inalatoria",5510945,1,VENCEU,UN,25323.08,25323.08
+"Autoclave 21 litros",5488508,10,PERDEU,UN,47990,4799
+"AUTOCLAVE 54 LITROS",5511223,3,PERDEU,UNID,51300,17100
+"BOMBA VÁCUO",5488509,1,CANCELADO,UN,3600,3600
+"Compressor odontológico em ferro fundido",5488511,4,CANCELADO,UN,16380,4095
+"CUBA ULTRASSONICA 2,6 A 3 LITROS",5488513,5,PERDEU,UN,5197.5,1039.5
+"CUBA ULTRASSONICA 6 A 9 LITROS",5488514,1,VENCEU,UN,2250,2250
+"Consultório Odontológico;",6554564,1,CANCELADO,CNJ,22900,22900
+"Fotopolimerizador sem fio com bateria removível",5488515,20,DESCLASSIFICADO_LANCE,UNI,12140,607
+"Kit acadêmico",5512199,10,PERDEU,UN,15200,1520
+"LASER DE ALTA E BAIXA. COM SISTEMA WIRELESS SEM FIO",5488516,1,PERDEU,UN,3650,3650
+"Localizador apical eletrônico",5488517,2,DESCLASSIFICADO_LANCE,UN,3860,1930
+"MÁQUINA DE SOLDA",5488518,1,VENCEU,UN,870,870
+"MICROMOTOR ELÉTRICO DE BANCADA LB 100",5488519,1,PERDEU,UN,635,635
+"Mini incubadora biológica",5488520,15,DESCLASSIFICADO_LANCE,UN,4275,285
+"Motor Endodôntico Elétrico",5488521,3,PERDEU,UN,25086,8362
+"Peça de mão multiplicadora angulada 1:2 para cirurgia",5488522,1,PERDEU,UNI,2280,2280
+"Seladora térmica digital",5488524,8,PERDEU,UNI,5480,685
+"Sensor digital de radiografia periapical T2",5488525,2,CANCELADO,UN,24800,12400

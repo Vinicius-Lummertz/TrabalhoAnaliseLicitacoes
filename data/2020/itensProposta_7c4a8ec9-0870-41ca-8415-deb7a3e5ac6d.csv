@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmina de Recorte Plotter (Roland 60° Vinis espessos)",4390549,15,NAO_COTOU,UND,0,0
+"Estilete Pequeno Metal",4390550,10,NAO_COTOU,UND,0,0
+"Estilete Grande Rosca Emborrachado",4390551,8,PERDEU,UND,224,28
+"Lamina Estilete Pequeno",4390552,10,NAO_COTOU,CX,0,0
+"Lamina Estilete Grande",4390553,10,NAO_COTOU,CX,0,0
+"Feltro para aplicação de Vinis",4390554,12,NAO_COTOU,UND,0,0
+"Régua de alumínio de 1 metro",4390555,4,NAO_COTOU,UND,0,0
+"Trena (3m)",4390556,12,NAO_COTOU,UND,0,0
+"Vinil Preto Semi-Fosco ou Acetinado (automotivo) - Rolo com",4390557,8,NAO_COTOU,UND,0,0
+"Vinil Branco Semi-Fosco ou Acetinado (automotivo) - Rolo com",4390558,8,PERDEU,UND,4040,505
+"Vinil Transparente - Rolo com 1,22x45M",4390559,6,PERDEU,UND,2280,380
+"Vinil Jateado Transparente - Rolo com 1,22x45M",4390560,6,PERDEU,UND,2250,375
+"Mascara Médio Tak - Rolo 1,00x45M",4390561,12,NAO_COTOU,UND,0,0
+"Vinis Vermelho Vivo, Azul Rivera, Amarelo Ouro, Verde Abacat",4390562,18,NAO_COTOU,UND,0,0
+"Refletivos Grau Engenharia Branco, Verde, Amarelo, Azul, Ver",4390563,18,PERDEU,UND,71280,3960

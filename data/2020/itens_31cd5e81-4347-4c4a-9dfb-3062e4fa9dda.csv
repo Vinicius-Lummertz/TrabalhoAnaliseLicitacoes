@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Placa/Módulo Comunicação GPS",1307359,5,40,ATIVO,UNIDADE,42212.98,1055.3246
+"Placa/Módulo de Potência",1317626,3,15,ATIVO,UNIDADE,13959.07,930.6044
+"Placa/Módulo Controle e Processamento",1319631,2,10,ATIVO,UNIDADE,11056.92,1105.6924
+"Placa/Módulo Fonte",1319634,4,10,ATIVO,UNIDADE,7771.03,777.1027

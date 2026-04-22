@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Esparadrapo,2785622,14,10,ATIVO,UNIDADE,40,4
+"Atadura de crepom 8 cm",2785623,16,500,ATIVO,UNIDADE,170,0.34
+"Atadura de crepom 15cm",2785624,17,900,ATIVO,UNIDADE,846,0.94
+"Atadura de crepom 20cm",2785625,18,900,ATIVO,UNIDADE,1215,1.35
+"Esfigmomanômetro Infantil",2785626,39,3,ATIVO,UNIDADE,193.5,64.5
+"Esfigmomanômetro Adulto",2785627,40,3,ATIVO,UNIDADE,198,66
+"Estetoscópio  adulto",2785628,41,3,ATIVO,UNIDADE,51.3,17.1

@@ -1,0 +1,39 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte de fixação para caixa de luvas",20491002,50,PERDEU,UN,5618.5,112.37
+"suporte de fixação para coletor perfuro cortante 3l",20491003,50,PERDEU,UNID,1516.5,30.33
+"Suporte de envelope para autoclave - esterilização  de 13 envelopes",20491004,50,PERDEU,UND,6629,132.58
+"Antisséptico Bucal  Clorexidina 0,12% - 2l",20491033,250,PERDEU,FR,13097.5,52.39
+"Azul de Metileno Chimiolux 0,005%",20491037,20,PERDEU,CX,4779.8,238.99
+"Azul de Metileno Chimiolux 0,01%",20491038,20,PERDEU,CX,4552,227.6
+"Campo cirúrgico 60X60 cm",20491110,70,VENCEU,UN,2919,41.7
+"Campo cirúrgico fenestrado 50x50cm",20491111,70,VENCEU,UN,3577,51.1
+"Canudo plástico descartável 5x210mm (21cm). Embalagem com 100 unidades",20491112,20,VENCEU,PCT,185.2,9.26
+"Conjunto aspiração Endodôntico",20491169,15,PERDEU,UN,799.8,53.32
+"Desinfetante e solvente de resíduos odontológico.",20491173,500,PERDEU,LIT,31295,62.59
+"Escova de mão para Limpeza de Instrumentais",20491189,200,VENCEU,UN,2596,12.98
+"Escova dental adulto macia",20491196,100,PERDEU,PCT,4765,47.65
+"Escova dental infantil macia",20491197,100,PERDEU,PCT,4077,40.77
+"scova extra flexível para limpeza de instrumentais c/ cabo longo",20491198,100,VENCEU,UND,6236,62.36
+"Espelho de mão com cabo",20491201,100,PERDEU,UN,2805,28.05
+"Estojo Acrílico Porta Alicate para 15 instrumentos",20491203,5,PERDEU,UN,509.7,101.94
+"Fibras para Terapia Fotodinâmica (PDT).",20491209,25,PERDEU,CX,7041.75,281.67
+"Gás para maçarico",20491231,10,VENCEU,UN,556.8,55.68
+"Isqueiro a gás",20491245,100,VENCEU,UN,820,8.2
+"Kit de higiene bucal adulto",20491248,20000,PERDEU,KIT,153000,7.65
+"Mini Maçarico Microtorch",20491310,2,VENCEU,UN,1185.9,592.95
+"Moldeira Total Lisa Adulto Aço Inox 10peças. DENTADO",20491312,10,PERDEU,KIT,3704.8,370.48
+"Óleo lubrificante p/ alta-baixa rotação spray-200ml",20491313,250,PERDEU,FR.,10532.5,42.13
+"Organizador multi uso 10 litros plástico",20491314,60,VENCEU,UND,4183.8,69.73
+"Organizador multi uso 5 litros plástico",20491315,60,VENCEU,UND,4690.8,78.18
+"Organizador multi uso 20 litros plástico",20491316,60,VENCEU,UND,4690.8,78.18
+"Organizador multi uso 1,600 ml plástico",20491317,60,VENCEU,UND,5060.4,84.34
+"Otosporin – 10ml",20491318,100,PERDEU,FR,2685,26.85
+"Papel filme PVC. Rolo 30m",20491323,200,VENCEU,ROLO,3102,15.51
+"Papel toalha interfolhado 20x21,5cm",20491324,1400,VENCEU,PCT,72310,51.65
+"Ponta de seringa tríplice descartável",20491345,800,PERDEU,EM,86336,107.92
+"Saco plástico SACOLÉ",20491383,250,PERDEU,PCT,6587.5,26.35
+"Seringa descartável 20ml com Agulha LuerLock 25x7 22G",20491385,2000,PERDEU,UN,2580,1.29
+"Seringa descartável 10ml com agulha Luer Lock 25x7 22G",20491386,2000,PERDEU,UND,1400,0.7
+"Solda de Prata 0,5mm em Rolo",20491388,5,PERDEU,UN,589.95,117.99
+"Sugador de saliva descartável 150mm x 0,65mm",20491392,2000,PERDEU,PCT,24580,12.29
+"Verniz fluoretado",20491404,100,PERDEU,KIT,21200,212

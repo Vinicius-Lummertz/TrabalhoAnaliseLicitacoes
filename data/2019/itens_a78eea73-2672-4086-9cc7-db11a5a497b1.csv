@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Limpa pneus com silicone",1300695,8,80,ATIVO,GALAO,1600.8,20.01
+"Sabonete Líquido com Bico Dosador Pump",1302744,10,300,ATIVO,EMBALAGEM,1734,5.78
+"Luva para Limpeza.",1306817,28,40,ATIVO,UNIDADE,74.8,1.87
+"Pano Multiúso",1308820,37,60,ATIVO,ROLO,6318,105.3
+"Flanela para limpeza",1310863,27,30,ATIVO,UNIDADE,28.2,0.94
+"Porta Papel Higiênico Rolão",1312835,42,4,ATIVO,UNIDADE,99,24.75

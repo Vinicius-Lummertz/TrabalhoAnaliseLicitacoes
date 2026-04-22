@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmpada Bulbo LED 50W - E27",10967569,100,PERDEU,PC,5587,55.87
+"Lâmpada Bulbo LED 70W - E27",10967570,100,PERDEU,UND,10165,101.65
+"Luminária para iluminação pública LED, potência máxima de 100W, fluxo mínimo de 15.000 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967584,50,PERDEU,PC,24688.5,493.77
+"Luminária para iluminação pública LED, potência máxima de 120w, fluxo mínimo de 18.000 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967585,50,VENCEU,PC,26397,527.94
+"Luminária para iluminação pública LED, potência máxima de 150W, fluxo mínimo de 22.500 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967586,50,PERDEU,PC,32078.5,641.57
+"Luminária para iluminação pública led, potência máxima de 200w, fluxo minimo de 30.000 lumens, com eficiência maior ou igual a 150lm/W, tensão de entrada de 220V 60Hz, base para relê fotoelétrico incorporada, temperatura de cor: 5.000K.",10967587,50,PERDEU,PC,36410.5,728.21
+"Luminária para iluminação pública LED, potência máxima de 55w, fluxo mínimo de 8.250 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967588,50,VENCEU,PC,19000,380
+"Luminária para iluminação pública LED, potência máxima de 70w, fluxo mínimo de 10.500 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967589,50,PERDEU,PC,39096,781.92

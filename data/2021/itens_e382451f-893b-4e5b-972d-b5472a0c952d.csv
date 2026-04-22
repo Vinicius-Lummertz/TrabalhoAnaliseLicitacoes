@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cateter Intravenoso n°20 G",1353806,43,6000,ATIVO,UNIDADE,11760,1.96
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1353807,79,7200,ATIVO,UNIDADE,33048,4.59
+"Agulhas hipodérmicas 13mmX4,5mm",1353815,5,350,ATIVO,CAIXA,3437,9.82
+"Agulhas hipodérmicas 25 X 7",1353816,8,2000,ATIVO,CAIXA,19660,9.83
+"Agulhas hipodérmicas 25 X 8",1353817,9,200,ATIVO,CAIXA,1966,9.83
+"Agulhas hipodérmicas 30 X 8",1353818,10,200,ATIVO,CAIXA,1966,9.83
+"Clorexidina aquosa",1353819,48,12000,ATIVO,UNIDADE,18840,1.57
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",1353820,50,6000,ATIVO,UNIDADE,38040,6.34
+"Especulo vaginal, descartável, ESTÉRIL, sem lubrificação P (",1353821,82,12000,ATIVO,UNIDADE,12600,1.05
+"Fio cirúrgico preto monofilamentar 2,0 Nº.  2-0 (Mononylon)",1353822,89,80,ATIVO,CAIXA,2288,28.6
+"Fio cirúrgico preto monofilamentar 3,0 Nº.  3-0 (Mononylon)",1353823,90,100,ATIVO,CAIXA,2860,28.6
+"Fio cirúrgico preto monofilamentar 4,0 Nº.  4-0 (Mononylon)",1353825,91,100,ATIVO,CAIXA,2860,28.6
+"Lâmina de Bisturi descartável Nº. 12",1353826,114,70,ATIVO,CXA,2239.3,31.99
+"Lâmina de Bisturi descartável Nº. 20.",1353827,116,20,ATIVO,CAIXA,639.8,31.99
+"Lençol descartável com elástico (TNT).",1353828,121,500,ATIVO,PACOTE,7600,15.2
+"Luva Plástica Estéril Descartável",1353829,128,1200,ATIVO,PACOTE,14760,12.3
+"Máscara de oxigênio Infantil.",1353830,132,600,ATIVO,UNIDADE,4530,7.55
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",1353831,149,500,ATIVO,LITRO,8515,17.03
+"Sonda de borracha (látex natural) calibre nº 12",1353832,157,150,ATIVO,CAIXA,493.5,3.29
+"Sonda de borracha (látex natural) calibre nº 18",1353833,160,400,ATIVO,CAIXA,1316,3.29
+"Eletrodo para TENS/FES quadradro 5x5cm",1353836,213,650,ATIVO,PACOTE,17485,26.9
+"KIT Cânula de Guedel",1353844,109,60,ATIVO,kit,842.4,14.04
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",2479210,70,12500,ATIVO,UNIDADE,3250,0.26

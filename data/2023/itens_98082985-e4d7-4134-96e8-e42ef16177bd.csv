@@ -1,0 +1,17 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira XCMG XE215BR 2020",4064015,2,2,ATIVO,UNIDADE,21621.62,23
+"Fresadora Wirtgen W100",4064016,3,1,ATIVO,UNIDADE,10810.81,23
+"Minicarregadeira Caterpillar 246C",4064017,4,1,ATIVO,UNIDADE,10810.81,23
+"Motoniveladora New Holland RG170B",4064018,7,1,ATIVO,UNIDADE,10810.81,23
+"Pá Carregadeira Doosan SD200-3",4064019,8,1,ATIVO,UNIDADE,10810.81,23
+"Pá Carregadeira Michigan 55C",4064020,10,1,ATIVO,UNIDADE,10810.81,23
+"Pá Carregadeira New Holland W130",4064021,11,2,ATIVO,UNIDADE,21621.62,23
+"Retroescavadeira JCB 3CX",4064022,12,3,ATIVO,UNIDADE,32432.43,23
+"Retroescavadeira Randon RD406",4064023,15,1,ATIVO,UNIDADE,10810.81,23
+"Rolo Compactador Hamm",4064024,20,1,ATIVO,UNIDADE,10810.81,23
+"Rolo Compactador Liu Gong",4064025,21,1,ATIVO,UNIDADE,10810.81,23
+"Rolo Compactador Muller CA 15",4064026,22,1,ATIVO,UNIDADE,10810.81,23
+"Rolo Compactador Tema Terra SP8000",4064027,23,1,ATIVO,UNIDADE,10810.81,23
+"Trator Agrícola Budny 7540",4064028,25,1,ATIVO,UNIDADE,10810.81,23
+"Trator Agrícola New Holland TL85E",4064029,28,1,ATIVO,UNIDADE,10810.81,23
+"Trator de Esteira John Deere 750J",4064030,30,1,ATIVO,UNIDADE,10810.81,23

@@ -1,0 +1,21 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abaixador de língua embalado INDIVIDUALMENTE",5822684,1,1000,ATIVO,PACOTE,8250,8.25
+"Seringa 10ml sem agulha LUER SLIP.",5822685,202,60000,ATIVO,UNIDADE,11400,0.19
+"Seringa 20ml sem agulha LUER SLIP",5822686,203,50000,ATIVO,UNIDADE,16000,0.32
+"Seringa 60ml sem agulha LUER SLIP",5822687,206,2000,ATIVO,UNIDADE,2040,1.02
+"Sonda de borracha (látex natural) tipo foley 2 vias calibre nº 10",5822688,215,100,ATIVO,UNIDADE,234,2.34
+"Sonda de borracha (látex natural) tipo foley 2 vias, calibre nº 12.",5822689,216,200,ATIVO,UNIDADE,448,2.24
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº 14.",5822690,217,200,ATIVO,UNIDADE,458,2.29
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº 18.",5822691,219,300,ATIVO,UNIDADE,687,2.29
+"Sonda de borracha (látex natural) tipo foley 2 vias, calibre nº20.",5822692,220,100,ATIVO,UNIDADE,223,2.23
+"Sonda de borracha (látex natural), tipo foley, 2 vias, calibre nº22.",5822693,221,50,ATIVO,UNIDADE,114.5,2.29
+"Sonda endotraqueal em PVC com balão nº 3,0.",5822694,223,100,ATIVO,UNIDADE,315,3.15
+"Sonda endotraqueal em PVC com balão nº 3,5.",5822695,224,100,ATIVO,UNIDADE,315,3.15
+"Sonda endotraqueal em PVC com balão nº 4,0.",5822696,225,100,ATIVO,UNIDADE,313,3.13
+"Sonda endotraqueal em PVC com balão nº4,5.",5822697,226,100,ATIVO,UNIDADE,315,3.15
+"Sonda endotraqueal em PVC com balão nº5,0",5822698,227,100,ATIVO,UNIDADE,315,3.15
+"Sonda endotraqueal em PVC com balão nº5,5",5822699,228,120,ATIVO,UNIDADE,373.2,3.11
+"Sonda endotraqueal em PVC com balão nº 6,5",5822700,230,120,ATIVO,UNIDADE,376.8,3.14
+"Sonda endotraqueal em PVC com balão nº 7,5",5822701,232,120,ATIVO,UNIDADE,379.2,3.16
+"Sonda endotraqueal em PVC com balão nº 8,0.",5822702,233,120,ATIVO,UNIDADE,372,3.1
+"Sonda endotraqueal em PVC com balão nº 9,0",5822703,235,100,ATIVO,UNIDADE,316,3.16

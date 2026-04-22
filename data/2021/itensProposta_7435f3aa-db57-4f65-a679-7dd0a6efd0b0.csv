@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",5883397,5,PERDEU,FR.,6500,1300
+"Coleiras repelentes P",5883398,100,PERDEU,UN,10000,100
+"Coleiras repelentes G",5883399,100,PERDEU,UN,7950,79.5
+"Vermífugo oral de amplo espectro para cães e gatos",5883403,100,PERDEU,CX,1085,10.85
+"Sedativo injetável - Acepromazina 0,2%",5883404,6,PERDEU,FR.,540,90
+"Anestésico injetável - Cetamina 10%",5883405,12,PERDEU,FR.,300,25
+"Anestésico injetável - Xilazina 2%",5883406,12,PERDEU,FR.,192,16

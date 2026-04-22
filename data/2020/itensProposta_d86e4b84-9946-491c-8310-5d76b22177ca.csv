@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",4442944,5,VENCEU,FR.,3732.5,746.5
+"Coleiras repelentes P (48 cm)",4442945,50,VENCEU,UN,2499.5,49.99
+"Coleiras repelentes G (65cm)",4442946,50,VENCEU,UN,3460,69.2
+"Vacina antirrábica para cães e gatos",4442947,300,PERDEU,UN,2235,7.45
+"Sedativo injetável - Acepromazina 0,2%",4442948,10,PERDEU,FR.,152.9,15.29
+"Anestésico injetável - Cetamina 10%",4442949,20,PERDEU,FR.,393,19.65
+"Anestésico injetável - Xilazina 2%",4442950,20,PERDEU,FR.,323.8,16.19

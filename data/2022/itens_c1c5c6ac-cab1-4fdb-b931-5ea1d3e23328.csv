@@ -1,0 +1,167 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+LIMÃO,2807018,38,100,ATIVO,kg,349,3.49
+"APRESUNTADO FATIADO",2807019,67,250,ATIVO,kg,7875,31.5
+"Bacon defumado em pedaços",2807020,68,50,ATIVO,kg,2160,43.2
+"Carne bovina: Acém resfriado",2807021,69,300,ATIVO,kg,10650,35.5
+"Carne bovina: Bucho bovino",2807022,70,200,ATIVO,kg,6700,33.5
+"Carne bovina: Coxão de fora resfriado (coxão duro)",2807023,71,300,ATIVO,kg,10950,36.5
+"Carne bovina de coxão mole",2807024,72,400,ATIVO,kg,17400,43.5
+"Carne bovina: Fraldinha resfriada",2807025,73,400,ATIVO,kg,15600,39
+"Carne bovina: Fígado",2807026,74,200,ATIVO,kg,6220,31.1
+"Carne bovina: Moída",2807027,75,400,ATIVO,kg,13800,34.5
+"Carne bovina: músculo",2807028,76,100,ATIVO,kg,3400,34
+"Carne bovina: Tatu",2807029,77,200,ATIVO,kg,7500,37.5
+"Carne de frango congelada: Coxa e sobrecoxa com osso e com p",2807030,78,400,ATIVO,kg,6600,16.5
+"Carne de frango congelada: Filé de peito (sassami)",2807031,79,400,ATIVO,kg,7120,17.8
+"Carne de frango congelada: Galinha caipira",2807032,80,300,ATIVO,kg,5040,16.8
+"Carne de frango congelada: Moela - Congelada",2807033,81,200,ATIVO,kg,3300,16.5
+"Carne de frango congelada: Peito com osso",2807034,82,200,ATIVO,kg,3900,19.5
+"Carne suína congelada: Costela",2807035,83,300,ATIVO,kg,7650,25.5
+"Carne suína congelada: Lombo médio sem osso",2807036,84,300,ATIVO,kg,7125,23.75
+"Carne suína congelada: Paleta suína, sem osso",2807037,85,200,ATIVO,kg,4760,23.8
+"Filé de Peixe congelado",2807038,86,400,ATIVO,kg,17400,43.5
+"Pescado: peixe em posta",2807039,90,150,ATIVO,kg,4770,31.8
+"Salsicha hot dog",2807040,91,150,ATIVO,kg,2850,19
+"AMIDO DE MILHO",2807041,92,100,ATIVO,kg,1020,10.2
+"ARROZ INTEGRAL",2807042,93,100,ATIVO,kg,598,5.98
+"Arroz Parbolizado;",2807043,94,800,ATIVO,kg,3120,3.9
+"Arroz Polido",2807044,95,50,ATIVO,kg,205,4.1
+Aveia,2807045,96,60,ATIVO,UNIDADE,618,10.3
+"Barra de cereal",2807046,97,100,ATIVO,UNIDADE,350,3.5
+"Biscoito de chocolate.",2807047,98,400,ATIVO,PACOTE,1832,4.58
+"Biscoito doce tipo caseiro",2807048,99,500,ATIVO,PACOTE,2975,5.95
+"Biscoito doce sem recheio",2807049,100,500,ATIVO,UNIDADE,3050,6.1
+"Biscoito salgado integral-",2807050,101,500,ATIVO,Pacote,3400,6.8
+"Biscoito salgado agua e sal",2807051,102,100,ATIVO,PACOTE,640,6.4
+Bolinho,2807052,103,400,ATIVO,UNIDADE,1060,2.65
+"Bolo de aniversário",2807053,104,60,ATIVO,kg,2760,46
+"Canudinho de maionese",2807054,105,80,ATIVO,UNIDADE,920,11.5
+"Docinhos diversos",2807055,106,50,ATIVO,CENTO,3525,70.5
+"Farinha de rosca.",2807056,107,30,ATIVO,EMBALAGEM,237,7.9
+"Farinha de tapioca",2807057,108,10,ATIVO,Pacote,87,8.7
+"Farinha de trigo.",2807058,109,600,ATIVO,kg,2388,3.98
+"FARINHA DE TRIGO INTEGRAL",2807059,110,100,ATIVO,kg,485,4.85
+"Fermento biológico: Seco, instantâneo, embalado em envelopes",2807060,111,150,ATIVO,UNIDADE,298.5,1.99
+"Fermento em pó químico: Ingredientes: amido de milho ou fécu",2807061,112,150,ATIVO,UNIDADE,1146,7.64
+"Macarrão Tipo Conchinha",2807062,113,50,ATIVO,kg,352.5,7.05
+"MACARRÃO TIPO PARAFUSO INTEGRAL",2807063,114,250,ATIVO,kg,1825,7.3
+"Macarrão Tipo Espaguete Integral",2807064,115,250,ATIVO,kg,1825,7.3
+"Macarrão Tipo Espaguete",2807065,116,100,ATIVO,kg,610,6.1
+"Massa alimentícia",2807066,117,100,ATIVO,UNIDADE,775,7.75
+"Mini chocottone",2807067,118,400,ATIVO,UNIDADE,2500,6.25
+"Pão de forma tradicional",2807068,119,1000,ATIVO,PACOTE,6000,6
+"Ovo de chocolate",2807069,120,400,ATIVO,UNIDADE,3400,8.5
+"Pão de forma integral",2807070,121,1000,ATIVO,PACOTE,7250,7.25
+"Pão de Hot Dog",2807071,122,1000,ATIVO,PACOTE,7800,7.8
+"Pão frances",2807072,123,50,ATIVO,kg,510,10.2
+"Polvilho azedo, a base de mandióca",2807073,124,50,ATIVO,UNIDADE,347.5,6.95
+"Polvilho doce, a base de mandióca",2807074,125,50,ATIVO,EMBALAGEM,278.5,5.57
+"Salgadinhos diversos",2807075,126,80,ATIVO,CENTO,4120,51.5
+"Creme de leite fresco",2807076,127,150,ATIVO,UNIDADE,1380,9.2
+"CREME DE LEITE UHT",2807077,128,250,ATIVO,UNIDADE,950,3.8
+"Iogurte com polpa de frutas bandejas de 540 gr",2807078,129,250,ATIVO,BANDEJA,1425,5.7
+"Iogurte natural",2807079,130,50,ATIVO,UNIDADE,182.5,3.65
+"Leite Condensado: Em embalagem treta pak de 395g.",2807080,131,200,ATIVO,UNIDADE,1456,7.28
+"Manteiga: obtida de creme de leite",2807081,132,50,ATIVO,UNIDADE,475,9.5
+"Queijo ralado",2807082,133,100,ATIVO,UNIDADE,890,8.9
+"Queijo tipo mussarela",2807083,134,350,ATIVO,kg,14525,41.5
+"Queijo ricota",2807084,135,50,ATIVO,UNIDADE,530,10.6
+Requeijão,2807085,136,150,ATIVO,UNIDADE,1792.5,11.95
+"leite desnatado  UHT",2807086,137,700,ATIVO,LITRO,3836,5.48
+"Leite em pó 400g instantâneo",2807087,138,50,ATIVO,LATA,780,15.6
+"Leite Semidesnatado UHT sem lactose",2807088,140,1000,ATIVO,LITRO,5720,5.72
+"Achocolatado em pó.",2807089,141,150,ATIVO,UNIDADE,1770,11.8
+"ACUCAR REFINADO",2807090,142,800,ATIVO,kg,3520,4.4
+"Adoçante à base de stévia",2807091,143,50,ATIVO,UNIDADE,955,19.1
+"Adoçante culinário",2807092,144,10,ATIVO,UNIDADE,245,24.5
+"Azeite de oliva extra virgem",2807093,145,100,ATIVO,UNIDADE,3590,35.9
+"Balas macias",2807094,146,100,ATIVO,PACOTE,960,9.6
+"Bombom recheado",2807095,147,150,ATIVO,Pacote,6525,43.5
+"CACAU EM PÓ",2807096,148,50,ATIVO,PACOTE,815,16.3
+"castanha do pará embalagem c/ 200 gramas",2807097,149,10,ATIVO,UNIDADE,430,43
+"Chocolate ao leite",2807098,150,10,ATIVO,UNIDADE,60,6
+"Chocolate Granulado: Em embalagem de polipropileno de 150g.",2807099,151,50,ATIVO,UNIDADE,205,4.1
+"Chocolate meio amargo: Ingredientes: açúcar, massa de cacau,",2807100,152,30,ATIVO,UNIDADE,180,6
+"Coco Ralado: Granulado doce e úmido. Ingredientes: coco em f",2807101,153,100,ATIVO,UNIDADE,450,4.5
+"Doce de Frutas: Ingredientes: polpa de fruta (morango, pêsse",2807102,154,200,ATIVO,UNIDADE,1380,6.9
+"Doce de Leite em Pasta",2807103,155,200,ATIVO,UNIDADE,1500,7.5
+"Gelatina de fruta: Ingredientes: Açúcar, gelatina comestível",2807104,156,100,ATIVO,UNIDADE,159,1.59
+"Leite de coco",2807105,157,50,ATIVO,UNIDADE,217.5,4.35
+"MARIA MOLE",2807106,158,10,ATIVO,CAIXA,401,40.1
+"Paçoquinha rolha",2807107,159,50,ATIVO,POTE,1845,36.9
+"pé de moleque de amendoim e rapadura",2807108,160,50,ATIVO,POTE,1555,31.1
+"PIPOCA DOCE",2807109,161,1000,ATIVO,UNIDADE,700,0.7
+Pirulito,2807110,162,50,ATIVO,PACOTE,490,9.8
+"Margarina (Creme Vegetal)",2807111,163,350,ATIVO,UNIDADE,2793,7.98
+"Refrigerante de cola: Em embalagem pet de 2,5 litros",2807112,164,50,ATIVO,LITRO,352.5,7.05
+"Refrigerante de guaraná: Em embalagem pet de 2 litros",2807113,165,50,ATIVO,LITRO,332.5,6.65
+"Refrigerante de laranja: Em embalagem pet de 2 litros",2807114,166,50,ATIVO,LITRO,315,6.3
+"Refrigerante de limão: Em embalagem pet de 2 litros",2807115,167,50,ATIVO,LITRO,367.5,7.35
+"Suco de néctar de frutas",2807116,168,400,ATIVO,LITRO,3960,9.9
+"Suco de néctar de frutas com volume de 200ml",2807117,169,200,ATIVO,CAIXA,1360,6.8
+"Suco: natural",2807118,170,200,ATIVO,GALAO,6180,30.9
+"Suspiro- açucar",2807119,171,30,ATIVO,CAIXA,1194,39.8
+"Uva passa desidratada,",2807120,172,10,ATIVO,UNIDADE,89.5,8.95
+Açafrão;,2807121,173,50,ATIVO,UNIDADE,1695,33.9
+Azeitona,2807122,174,20,ATIVO,UNIDADE,476,23.8
+"Batata palha: Tipo baby (mais fina). Ingredientes: Batata, ó",2807123,175,200,ATIVO,UNIDADE,880,4.4
+"Batata palito congelada.",2807124,176,100,ATIVO,UNIDADE,1305,13.05
+"Café Extra  Forte",2807125,177,1000,ATIVO,UNIDADE,16050,16.05
+"Canela moída: Embalagem tipo saleiro de polietileno resisten",2807126,178,20,ATIVO,UNIDADE,88.6,4.43
+"CANELA EM PAU",2807127,179,20,ATIVO,UNIDADE,133,6.65
+"Catchup: molho tradicional, em embalagem pet de 390g.",2807128,180,30,ATIVO,UNIDADE,152.4,5.08
+"Chá de camomila",2807129,181,50,ATIVO,CAIXA,177.5,3.55
+"Chá de hortelã",2807130,182,50,ATIVO,CAIXA,177.5,3.55
+"Chá mate",2807131,183,50,ATIVO,CAIXA,177.5,3.55
+"Colorau (colorífico): Ingredientes: Fubá, urucum, óleo de so",2807132,184,100,ATIVO,UNIDADE,930,9.3
+"Cominho moído",2807133,185,100,ATIVO,UNIDADE,730,7.3
+"Cravo da índia: Em embalagem de polietileno resistente, tran",2807134,186,20,ATIVO,UNIDADE,63,3.15
+"Ervilha em conserva: Ingredientes: ervilha, água e sal. Emba",2807135,187,100,ATIVO,UNIDADE,245,2.45
+"extrato de tomate 340 g",2807136,188,200,ATIVO,UNIDADE,900,4.5
+"louro em folhas",2807137,189,30,ATIVO,EMBALAGEM,80.4,2.68
+MAIONESE,2807138,190,100,ATIVO,UNIDADE,603,6.03
+Manjericão,2807139,191,10,ATIVO,UNIDADE,259,25.9
+"Milho verde em conserva",2807140,192,250,ATIVO,UNIDADE,740,2.96
+"mostarda frasco com 200 gramas",2807141,193,10,ATIVO,UNIDADE,50.5,5.05
+Orégano.,2807142,194,70,ATIVO,UNIDADE,1505,21.5
+Palmito,2807143,195,10,ATIVO,UNIDADE,134.5,13.45
+"PEPINO EM CONSERVA",2807144,196,10,ATIVO,UNIDADE,87,8.7
+"Pimenta preta moída",2807145,197,100,ATIVO,UNIDADE,535,5.35
+"polpa de tomate.",2807146,198,400,ATIVO,UNIDADE,1960,4.9
+"Sal grosso",2807147,199,50,ATIVO,UNIDADE,150,3
+"Sal Refinado.",2807148,200,200,ATIVO,UNIDADE,480,2.4
+"Sardinha -125gr",2807149,201,100,ATIVO,LATA,397,3.97
+"Semente de linhaca",2807150,202,10,ATIVO,UNIDADE,117,11.7
+"Vinagre de álcool.",2807151,203,200,ATIVO,UNIDADE,590,2.95
+"Mel: Com predominância floral silvestre",2807152,204,20,ATIVO,UNIDADE,607,30.35
+"OLEO DE SOJA",2807153,205,400,ATIVO,UNIDADE,4360,10.9
+"Carvão vegetal para churrasco",2807154,206,15,ATIVO,UNIDADE,571.5,38.1
+"Bacia grande: produto fabricado com material ultra resistent",2807155,207,20,ATIVO,UNIDADE,570,28.5
+"Bandeja descartável - 46cm x 39cm",2807156,208,20,ATIVO,UNIDADE,112,5.6
+"Bandeja descartável 26cm x 32cm.",2807157,209,20,ATIVO,UNIDADE,218,10.9
+"Caixa organizadora  capac. 10 lt",2807158,210,8,ATIVO,UNIDADE,223.2,27.9
+"Caixa Organizadora plastico resistente 70 litros",2807159,211,15,ATIVO,UNIDADE,1741.5,116.1
+"Caixa de fósforos: Contendo aproximadamente 240 fósforos de",2807160,212,200,ATIVO,UNIDADE,700,3.5
+"Coador de pano",2807161,213,50,ATIVO,UNIDADE,462,9.24
+"COLHER DESCARTÁVEL",2807162,214,50,ATIVO,PACOTE,262,5.24
+"Embalagem para cachorro-quente",2807163,215,20,ATIVO,PACOTE,218,10.9
+"Embalagem plástica descartável:",2807164,216,100,ATIVO,UNIDADE,1500,15
+"Espetinho de madeira",2807165,217,20,ATIVO,PACOTE,96,4.8
+"Faca Descartável.",2807166,218,10,ATIVO,UNIDADE,83.4,8.34
+"Folha de alumínio: Em bobina de 30cm x 7,5m. Embalada em sac",2807167,220,100,ATIVO,UNIDADE,690,6.9
+"Garfo descartavel c/ 50 un",2807168,221,10,ATIVO,PACOTE,83,8.3
+"Garfinho descartável para bolo",2807169,222,20,ATIVO,PACOTE,89,4.45
+"Palito de dentes",2807170,225,100,ATIVO,CAIXA,115,1.15
+"Pano de prato",2807171,226,50,ATIVO,UNIDADE,361.5,7.23
+"Papel filme PVC. Rolo 30m. 28cm",2807172,227,50,ATIVO,ROLO,297.5,5.95
+"PAPEL MANTEIGA",2807173,228,50,ATIVO,UNIDADE,280,5.6
+"PRATO PLÁSTICO DESCARTÁVEL",2807174,230,50,ATIVO,PACOTE,192,3.84
+"Prato descartável para bolo",2807175,231,100,ATIVO,PACOTE,173,1.73
+"Saco de papel para pipoca",2807176,232,30,ATIVO,PACOTE,159,5.3
+"Bobina de saco plástico transparente",2807177,233,100,ATIVO,ROLO,660,6.6
+"Saco plástico 15 x 25 cm",2807178,234,200,ATIVO,UNIDADE,2190,10.95
+"Touca protetora  lavavel",2807179,235,100,ATIVO,PACOTE,1360,13.6
+"Calça tecido leve",2807180,237,4,ATIVO,UNIDADE,265.6,66.4
+"Camiseta 100% algodão",2807181,238,4,ATIVO,UNIDADE,143.6,35.9
+"Luva para forno",2807182,239,30,ATIVO,UNIDADE,744,24.8
+"Sapato de segurança.",2807183,240,6,ATIVO,PAR,429,71.5

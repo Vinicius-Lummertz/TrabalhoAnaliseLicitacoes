@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Luva Nitrílica Azul",4398136,300,INABILITADO,CX,20970,69.9
+"LUVA DE PROCEDIMENTO",4398137,200,INABILITADO,CX,13400,67
+"Máscara cirúrgica descartável",4398138,300,PERDEU,CX,12000,40
+"MÁSCARA PFF2/N95",4398139,1000,VENCEU,UND,4100,4.1

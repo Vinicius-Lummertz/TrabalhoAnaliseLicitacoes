@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pilha AA Alcalina Industrial",14940425,1000,PERDEU,CAR,41000,41
+"Pilha AAA Alcalina Industrial",14940426,500,PERDEU,CAR,12500,25
+"Teclado sem fio",14940439,20,PERDEU,UND,4800,240

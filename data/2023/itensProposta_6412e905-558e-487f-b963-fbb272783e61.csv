@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BOLA DE FUTSAL",13633537,150,PERDEU,UND,10650,71
+"Rede de Futsal",13633538,10,PERDEU,UND,2340,234
+"Luva para Goleiro",13633540,10,PERDEU,PAR,1160,116
+"Cone para treinamento 50 cm",13633541,100,VENCEU,UND,1400,14
+"Tênis para futsal oficial",13633543,100,PERDEU,PAR,11700,117
+CRONÔMETRO,13633544,10,PERDEU,UNI,388,38.8
+"BOLA DE VOLEI",13633545,150,PERDEU,UND,39000,260
+"Rede Oficial de Voleibol Indoor",13633546,5,PERDEU,UND,1350,270
+"Tabuleiro de Xadrez Oficial",13633547,21,PERDEU,UN,2520,120
+"Tabuleiro de Damas Oficial",13633548,21,PERDEU,UNI,1260,60
+"Jogo de Quebra-Cabeças  (até 500 peças)",13633549,21,PERDEU,UND,546,26

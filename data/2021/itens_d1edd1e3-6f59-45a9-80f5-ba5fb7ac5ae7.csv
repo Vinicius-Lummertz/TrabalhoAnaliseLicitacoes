@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",1299321,1,120,ATIVO,GALAO,816,6.8
+Alvejante,1299322,2,30,ATIVO,GALAO,309,10.3
+"Detergente com Cera Para Veículos",1299323,7,120,ATIVO,GALAO,1584,13.2
+"SAPONACEO EM PO",1299324,20,5,ATIVO,GRAMAS,13,2.6
+"Sabonete líquido Galão",1301429,11,50,ATIVO,GALAO,850,17
+"Álcool etílico hidratado 96% (92,8º INPM)",1301430,14,20,ATIVO,LITRO,146,7.3
+"Amaciante para tecidos",1303493,3,50,ATIVO,GALAO,495,9.9
+"Sabão liquido de coco",1303494,6,50,ATIVO,GALAO,550,11
+"Sabonete Líquido com Bico Dosador Pump",1307565,10,150,ATIVO,EMBALAGEM,1620,10.8
+"Desinfetante de uso geral",1311616,4,180,ATIVO,GALAO,1296,7.2
+"Saponáceo cremoso",1311619,21,60,ATIVO,MILILITRO,276,4.6
+"Limpa pneus com silicone",1313608,8,60,ATIVO,GALAO,2415,40.25
+"Detergente Neutro Líquido de Uso Geral",1317816,5,180,ATIVO,GALAO,1854,10.3
+"SABAO EM PO",1317817,19,80,ATIVO,kg,408,5.1
+"Lustra móveis.",1319848,15,15,ATIVO,FRASCO,72,4.8

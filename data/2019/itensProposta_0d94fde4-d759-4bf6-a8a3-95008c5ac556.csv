@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Projeto preventivo contra incêndio unid. de 0 até 750,00 m²",0,5389.88,DESCLASSIFICADO," ",11749.94,2.18
+"Projeto preventivo cont. incêndio unid. 750,01 a 1.200,00 m²",0,18203.03,DESCLASSIFICADO," ",39682.61,2.18
+"Projeto preventivo cont incêndio unid superior a 1.200,01 m²",0,32107.68,DESCLASSIFICADO," ",69994.74,2.18

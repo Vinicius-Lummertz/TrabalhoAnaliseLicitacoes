@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carne bovina: músculo",1267577,36,220,ATIVO,kg,4371.4,19.87
+"Carne bovina: Tatu",1267578,37,220,ATIVO,kg,5471.4,24.87
+"Macarrão Tipo Conchinha",1267579,54,140,ATIVO,kg,544.6,3.89
+"CAFE EXTRA FORTE",1267580,66,350,ATIVO,kg,2621.5,7.49
+"Carne bovina: Moída - Lombo-acém sem osso",1267586,35,1200,ATIVO,kg,23244,19.37
+"Carne bovina: Fígado",1267599,34,80,ATIVO,kg,1276,15.95
+"Carne bovina: Acém resfriado",1267600,32,1100,ATIVO,kg,22660,20.6
+"Carne bovina: Coxão de fora resfriado (coxão duro)",1267610,33,1000,ATIVO,kg,23380,23.38

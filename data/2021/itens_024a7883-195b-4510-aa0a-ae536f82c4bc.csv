@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de arte finalista",1644211,11,50,ATIVO,HORA,1890,37.8
+"Plotagem de vidros",1644212,12,50,ATIVO,"METRO QUADRADO",3600,72
+"PLOTAGEM DE VEÍCULO",1644213,13,200,ATIVO,"METRO QUADRADO",18000,90

@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Balas macias",12632192,70,PERDEU,PCT,875,12.5
+"Chocolate meio amargo",12632198,30,PERDEU,UNI,139.5,4.65
+"Paçoquinha rolha",12632205,50,PERDEU,POT,1925,38.5
+"Pirulito sortido, pacote com 50 unidades",12632208,50,PERDEU,PCT,625,12.5
+"Suco de néctar de frutas",12632214,200,PERDEU,L,1588,7.94
+"Suco de néctar de frutas com volume de 200ml",12632215,200,PERDEU,CX,494,2.47
+"Bacia grande",12632253,12,PERDEU,UN,598.8,49.9
+"Caixa organizadora  capac. 10 lt",12632256,8,PERDEU,UN,319.2,39.9
+"Caixa Organizadora Plástico Incolor",12632257,12,PERDEU,UN,1654.8,137.9
+"Coador de pano",12632259,50,VENCEU,UN,419.5,8.39
+"Espetinho de madeira",12632263,20,PERDEU,PCT,95.6,4.78
+"Folha de Alumínio",12632266,100,PERDEU,UN,838,8.38
+"Garfinho descartável para bolo",12632268,80,PERDEU,PCT,430.4,5.38
+"Luvas plásticas",12632270,10,PERDEU,UN,97,9.7
+"Palito de dentes",12632271,100,VENCEU,CX,115,1.15
+"Pano de prato",12632272,50,PERDEU,UND,279,5.58
+"Papel filme PVC",12632273,50,PERDEU,RL,349,6.98
+"Prato descartável diametro 21 cm",12632276,50,PERDEU,PCT,245,4.9
+"Prato descartável para bolo",12632277,300,VENCEU,PCT,795,2.65
+"Saco de papel para pipoca",12632278,30,PERDEU,PCT,192.3,6.41
+"Bobina plástica.",12632279,100,VENCEU,ROLO,690,6.9
+"Avental de PVC",12632282,50,PERDEU,UN,850,17

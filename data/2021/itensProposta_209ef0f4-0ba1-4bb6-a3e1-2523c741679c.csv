@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Micropipeta monocanal",4500098,4,VENCEU,UN,1300,325
+"Tubo de ensaio em vidro",4500100,300,VENCEU,UN,1770,5.9
+"CENTRÍFUGA p/ Microhematócrito Digital - Digital",4500103,1,INABILITADO,UN,5000,5000
+"Banho Maria para Pasteurização de Leite Humano",4500104,1,INABILITADO,UN,26033,26033

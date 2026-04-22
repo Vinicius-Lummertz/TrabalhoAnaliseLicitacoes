@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anticolinérgico Atropina 10mg/ml (1%).",20734934,5,PERDEU,FR,88.3,17.66
+"Anestésico Dissociativo Cetamina 100mg/ml(10%).",20734935,25,PERDEU,FR,3705,148.2
+"Anti-Inflamatório Esteroidal Dexametasona 2mg/ml.",20734936,10,PERDEU,FR,224.9,22.49
+"Antagonista Ioimbina 10mg/ml (1%). Uso Injetável",20734938,5,PERDEU,UND,1117.85,223.57
+"Anti-inflamatório Não-Esteroidal Meloxicam 2mg/ml (0,2%).",20734940,10,PERDEU,FR,637.8,63.78
+"Analgésico Tramadol 20mg/ml(2%).",20734941,10,PERDEU,FR,607.1,60.71
+"Vacina antirrábica para cães e gatos.",20734947,1000,VENCEU,FR,10690,10.69
+"Vacina múltipla para cães (V10);",20734948,1000,VENCEU,FR,12400,12.4
+"Antibacteriano doxiciclina 200mg;",20734949,120,VENCEU,COMP,180,1.5
+"Antibacteriano enrofloxacina 50 mg; uso veterinário.;",20734950,100,PERDEU,COMP,127,1.27
+"Antibacteriano sulfadiazina + trimetoprim; uso veterinário;",20734951,200,VENCEU,COMP,820,4.1
+"Anti-inflamatório não esteroidal meloxicam 2 mg;",20734952,100,PERDEU,COMP,203,2.03
+"Anti-inflamatório não esteroidal meloxicam 0,5 mg; uso veterinário.",20734953,100,VENCEU,COMP,110,1.1
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",20734954,400,VENCEU,COMP,2760,6.9
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",20734955,200,VENCEU,COMP,1478,7.39
+"Pomada dermatológica anti-infecciosa e cicatrizante;",20734958,50,VENCEU,BIS,2425,48.5
+"Pomada antisséptica; composição: 0,7 g digluconato de clorexidina para cada 100 g; uso veterinário.",20734959,25,PERDEU,BIS,2367.75,94.71
+"Vermifugo (ectoparasiticida) para cães;",20734961,3000,PERDEU,COMP,6150,2.05
+"Vermifugo (ectoparasiticida) para gatos;",20734962,1000,PERDEU,COMP,7580,7.58
+"Endoparasiticida metronidazol + sulfadimetoxina; uso oral;",20734964,20,VENCEU,FR,1900,95
+"Endectoparasiticida ivermectina 6 mg; uso veterinário. Apresentar registro no Ministério da Agricultura. Conter na embalagem a data de fabricação, data de validade e lote. Apresentar data de validade mínima de 12 meses. Apresentação: comprimidos.",20734969,200,PERDEU,COMP,1542,7.71
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",20734972,200,VENCEU,KIT,3960,19.8
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",20734973,200,VENCEU,KIT,4200,21
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",20734974,200,VENCEU,KIT,7580,37.9
+"Tubos para coleta de sangue a vácuo (soro), com ativador e coágulo: para coleta de amostras destinadas ao diagnóstico de leishmaniose canina;",20734985,5,VENCEU,KIT,373.1,74.62
+"Ponteiras para micropipetas: para processamento de amostras destinadas ao diagnóstico de leishmaniose canina;",20734986,3,VENCEU,PCT,131.19,43.73
+"Tubo de centrifugação (tubo falcon), 15 ml, fundo cônico, graduado, não estéril, autoclavável, tampa rosqueável: para coleta de amostras biológicas",20734989,6,VENCEU,PCT,447.6,74.6
+"Coleiras repelentes, tamanho G;",20734994,100,PERDEU,UN,12952,129.52

@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acetilcisteina 600mg/Env 5gr",11967156,50000,VENCEU,ENV,32500,0.65
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,90000,0.036
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,28000,0.04
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",11967162,5000,PERDEU,FR.,17000,3.4
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,45000,0.03
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,PERDEU,FR,10800,0.06
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",11967211,1000000,PERDEU,COMP,60000,0.06
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,247500,0.55
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",11967246,24000,PERDEU,BIS,72000,3
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,450000,0.15
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,100000,0.05
+"Enalapril, maleato 5mg cpr, em blister.",11967266,300000,PERDEU,COMP,15000,0.05
+"Glibenclamida 5mg cpr, em blister.",11967290,1200000,PERDEU,COMP,36000,0.03
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,90000,0.03
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",11967306,24000,PERDEU,FR.,72000,3
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,300000,0.06
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",11967353,18000,VENCEU,FR.,38700,2.15
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",11967357,20000,PERDEU,BIS,45800,2.29
+"Óleo Mineral, frasco 100ml.",11967365,12000,VENCEU,FR.,36000,3
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,280000,0.07
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,112000,0.07
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,60000,1.2
+"Sinvastatina 20mg cpr, em blister.",11967389,2000000,PERDEU,COMP,200000,0.1
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,VENCEU,FR.,6580,0.94
+"Sulfato ferroso 25 mg/ml xarope, frasco 120 ml.",11967398,1000,VENCEU,FR.,2250,2.25
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,72000,0.06
+"Vitaminas do Complexo B cpr ( B3 16mg, B5 5mg, B6 1,3mg, B2",11967411,600000,VENCEU,COMP,15600,0.026

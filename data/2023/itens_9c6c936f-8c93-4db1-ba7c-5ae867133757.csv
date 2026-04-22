@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água mineral 20 litros",4973812,1,25200,ATIVO,UNIDADE,439740,17.45
+"Água Mineral sem gás, 500 Ml em garrafa fardo com 12 uni",7383167,2,960,ATIVO,FARDO,11040,11.5
+"Água Mineral com gas, 500 Ml em garrafa fardo com 12 uni",7383168,3,450,ATIVO,FARDO,6003,13.34
+"Agua Mineral, copo 200Ml, cx com 48 unidades",7383169,4,265,ATIVO,CAIXA,8183.2,30.88

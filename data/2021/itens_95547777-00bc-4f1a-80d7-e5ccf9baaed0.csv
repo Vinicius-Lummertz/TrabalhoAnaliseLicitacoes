@@ -1,0 +1,27 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",2218777,5,6000,ATIVO,AMP,6000,1
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL,  acompanha copo-medida, 75ml após reconstituição.",2218778,27,16000,ATIVO,FRASCO,158400,9.9
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",2218779,83,7000,ATIVO,FRASCO,5110,0.73
+"Dipirona 500mg cpr, em blister.",2218780,104,2200000,ATIVO,COMPRIMIDO,219780,0.0999
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",2218781,133,3000,ATIVO,FRASCO,16500,5.5
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",2218782,150,20000,ATIVO,FRASCO,53600,2.68
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",2218783,152,18000,ATIVO,FRASCO,27754.2,1.5419
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado (B",2218784,162,280000,ATIVO,COMPRIMIDO,246400,0.88
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel.",2218785,163,6000,ATIVO,COMPRIMIDO,9216,1.536
+"Levodopa 100mg + benserazida 25mg HBS comprimido liberação p",2218786,164,70000,ATIVO,COMPRIMIDO,107520,1.536
+"Levodopa 200mg + benserazida 50mg comprimido.",2218787,165,60000,ATIVO,COMPRIMIDO,84000,1.4
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg blister com 2",2218788,170,5000,ATIVO,BLISTER,7950,1.59
+"Levotiroxina sódica 100mcg cpr, em blister.",2218789,172,500000,ATIVO,COMPRIMIDO,44950,0.0899
+"Levotiroxina sódica 25mcg cpr, em blister.",2218790,173,600000,ATIVO,COMPRIMIDO,53940,0.0899
+"Levotiroxina sódica 50 mcg cpr, em blister.",2218791,174,600000,ATIVO,COMPRIMIDO,47940,0.0799
+"Metformina 850mg cpr, em blister.",2218792,185,3800000,ATIVO,COMPRIMIDO,265620,0.0699
+"Metoclopramida, cloridrato 10mg cpr, em blister.",2218793,190,380000,ATIVO,COMPRIMIDO,25916,0.0682
+"Metronidazol 200mg/5mL suspensão oral, frasco 80ml.",2218794,193,3600,ATIVO,FRASCO,20880,5.8
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",2218795,200,10000,ATIVO,FRASCO,22000,2.2
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",2218796,211,500,ATIVO,BLISTER,2345,4.69
+"Óleo Mineral, frasco 100ml.",2218797,213,15000,CANCELADO,FRASCO,34485,2.299
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",2218798,218,24000,ATIVO,FRASCO,22536,0.939
+"Pirimetamina 25mg cpr.",2218799,224,4000,ATIVO,COMPRIMIDO,314.4,0.0786
+"Sais de reidratação oral 3,5+1,5+2,9+20g/envelope. Pó sachê",2218800,235,28000,ATIVO,SACHE,14837.2,0.5299
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",2218801,246,6000,ATIVO,FRASCO,4794,0.799
+"Varfarina sódica 5 mg cpr, em blister.",2218802,258,100000,ATIVO,COMPRIMIDO,10590,0.1059

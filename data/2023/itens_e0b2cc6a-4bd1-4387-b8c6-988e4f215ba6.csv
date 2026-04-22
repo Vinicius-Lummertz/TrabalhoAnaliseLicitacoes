@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa de arquivo morto polionda",5498909,14,600,ATIVO,UNIDADE,1800,3
+"Lápis preto grafite 6B",5498910,56,300,ATIVO,CAIXA,3150,10.5
+"Papel Offset, alcalino, formato A-4",5498911,65,2225,ATIVO,CAIXA,500625,225

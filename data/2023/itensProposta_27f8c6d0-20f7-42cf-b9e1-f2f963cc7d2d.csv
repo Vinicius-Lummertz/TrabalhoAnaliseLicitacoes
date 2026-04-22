@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Destorcedor de corda",12040627,3,PERDEU,UND,867,289
+"Polia dupla em linha",12040628,3,VENCEU,UND,1494,498
+"Estribo pedal de fita regulável",12040629,2,PERDEU,UND,218,109
+"Malha rápida oval 6mm",12040630,4,PERDEU,UND,176,44
+"Malha Rápida Delta 8mm",12040631,4,PERDEU,UND,276,69
+"Malha rápida delta 10mm",12040632,4,VENCEU,UND,400,100
+"Malha rápida semicircular 10mm",12040633,4,PERDEU,UND,400,100
+"Mosquetão em formato D assimétrico com trava",12040634,12,PERDEU,UND,1860,155
+"Mosquetão oval com trava rosca",12040635,6,PERDEU,UND,414,69
+"Mosquetão oval com trava automática",12040636,6,PERDEU,UND,984,164
+"Fita tubular de resgate",12040637,10,VENCEU,M,169.8,16.98

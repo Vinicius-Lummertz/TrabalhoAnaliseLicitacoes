@@ -1,0 +1,70 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",13268746,10000,VENCEU,UNI,500,0.05
+"Atestado Médico",13268747,1000,VENCEU,BLC,2640,2.64
+"Atestado Médico para Gestantes",13268748,100,VENCEU,BLC,394,3.94
+"Auto para coleta de água para consumo humano- 2 vias autocop",13268749,50,VENCEU,BLC,695,13.9
+"Auto de intimação vigilancia sanitaria",13268750,70,DESCLASSIFICADO_LANCE,BLCO,1834,26.2
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",13268751,120,VENCEU,BLC,502.8,4.19
+"Bacteriologia da tuberculose .",13268752,30,VENCEU,BLC,180,6
+"Boletim de Campo FAD RG 01",13268753,800,VENCEU,BLCO,2368,2.96
+"Boletim de Campo FAD RG 02",13268754,400,VENCEU,BLCO,1948,4.87
+"BPA individualiazado 2 vias autocopiativo",13268755,30,VENCEU,BLC,498,16.6
+"Consentimento informado - 2 vias autocopiativo",13268756,35,VENCEU,BLC,560,16
+"Controle de TOD",13268757,100,VENCEU,BLCO,425,4.25
+"Cuidados para vasectomia- 23x16 cm 2 vias autocopiativo",13268758,40,VENCEU,BLC,352,8.8
+"Declaração de Comparecimento",13268759,500,VENCEU,BLC,1550,3.1
+"DOTS- Planilha Acompanhamento de Tratamento",13268760,7,VENCEU,BLC,118.3,16.9
+"Etique laboratório Dengue (picotado)",13268761,10,VENCEU,BLC,135,13.5
+"Ficha clínica odontológica.",13268762,100,VENCEU,BLC,437,4.37
+"Ficha clinica Tuberculose -30x21cm - 1x1 cor- Papel offset 75g",13268763,10,VENCEU,BLC,139.9,13.99
+"Ficha Controle de Atendimento frente e verso",13268764,30000,VENCEU,UNI,900,0.03
+"Ficha de atendimento SAMU - 2 vias autocopiativo",13268765,400,DESCLASSIFICADO_LANCE,BLC,5960,14.9
+"ficha de Observação do animal agressor",13268766,20,VENCEU,BLCO,200,10
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",13268767,100,DESCLASSIFICADO_LANCE,BLC,1650,16.5
+"Ficha nominal- Programa Tuberculose",13268768,300,VENCEU,UNI,120,0.4
+"Fluxo e contra-fluxo",13268769,300,VENCEU,BLC,942,3.14
+"Memorando interno.",13268770,250,VENCEU,BLC,1285,5.14
+"Monitoramento das doenças Diarreicas, Agudas planilha de cas",13268771,20,VENCEU,BLC,198,9.9
+"Monitoramento das doenças Diarreicas Agudas-",13268772,20,VENCEU,BLCO,198,9.9
+"Programa de Combate a Tuberculose.",13268773,15,VENCEU,BLC,177,11.8
+"Programa de controle da febre amarela dengue",13268774,10000,VENCEU,UNI,600,0.06
+"Programa de Planejamento Familiar",13268775,80,VENCEU,BLCO,411.2,5.14
+"Programa Nacional de Controle da Dengue - PNCD",13268776,800,VENCEU,BLC,2472,3.09
+"Receituário B1- cor azul",13268777,8000,VENCEU,BLC,4240,0.53
+"Receituário B2- cor azul",13268778,500,VENCEU,BLC,440,0.88
+"Receituário retinóide - 21,5x8cm cor branca",13268779,200,VENCEU,BLC,240,1.2
+"Receituário simples",13268780,6000,VENCEU,BLC,7740,1.29
+"Registro Diário de Atividades",13268781,800,VENCEU,BLCO,2640,3.3
+"SINAN - Acidente de Trabalho Grave",13268782,20,VENCEU,BLC,198,9.9
+"SINAN - Acidentes por Animais Peçonhentos",13268783,10,VENCEU,BLC,110,11
+"SINAN - Intoxicação exógena - 30x21cm -1x1",13268784,10,VENCEU,BLC,110,11
+"SINAN- Atendimento Anti-Rábico Humano",13268785,20,VENCEU,BLCO,198,9.9
+"SINAN- Doenças exantemáticas febris",13268786,10,VENCEU,BLC,110,11
+"SINAN- Ficha de investigação da dengue",13268787,10,VENCEU,BLC,110,11
+"SINAN -Ficha de Notificação/ Conclusão",13268788,10,VENCEU,BLCO,110,11
+"SINAN- Síndrome Respiratória Aguda grave",13268789,10,VENCEU,BLC,110,11
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",13268790,30,VENCEU,BLC,240,8
+"SINAN-Ficha de investigação Hepatites Virais",13268791,10,VENCEU,BLC,110,11
+"SINAN-Ficha de notificação/ investigação Tuberculose",13268792,10,VENCEU,BLC,110,11
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",13268793,50,VENCEU,BLC,298.5,5.97
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",13268794,30,VENCEU,BLC,210,7
+"Solicitação de Eletrocardiograma",13268795,70,VENCEU,BLC,360.5,5.15
+"Termo de solicitação e informação 2 vias autocopiativo",13268796,70,DESCLASSIFICADO_LANCE,BLC,1155,16.5
+"Tratamento cirúrgico - orientações após extração",13268797,2000,VENCEU,UNI,120,0.06
+"Receituário de Controle especial",13268798,6000,VENCEU,BLC,26280,4.38
+"Folder 297x21cm 2 dobras- papel couche",13268800,30000,PERDEU,UN,9600,0.32
+"Folder 297x21cm 3 dobras- papel couche",13268801,30000,DESCLASSIFICADO,UN,990,0.033
+"Folder 57x21cm, 4x4 cores em couche",13268802,18000,VENCEU,UNI,12240,0.68
+"Folheto 14x22cm, 4x4 cores em couche brilho 150g",13268803,1500,VENCEU,UND,450,0.3
+"Folder 40x21 cm",13268804,2000,VENCEU,UNI,800,0.4
+"Folder 297x21cm 3 dobras",13268805,2500,VENCEU,UN,625,0.25
+"Folheto 10,5x19,5cm em couche",13268806,3000,VENCEU,UN,420,0.14
+"Folder 297x21cm 2 dobras- papel couche colorido",13268807,30000,PERDEU,UNI,8700,0.29
+"Folder 297x21cm 3 dobras- papel couche colorido",13268808,30000,PERDEU,UNI,10200,0.34
+"Folder 20x21cm 1 dobra",13268809,12000,VENCEU,UN,2880,0.24
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente  150gr/m2 fonte preto (podendo ser solictiado até 15 artes diferentes)",13268810,25000,VENCEU,UND,4750,0.19
+"Panfleto 15x21cm  papel couche 150g ; cor 4x4 colorido (podendo ser solictiado até 15 artes dife-rentes)",13268811,10000,VENCEU,UND,2500,0.25
+"Pasta com Orelha com medidas aproximadas de 31x22cm",13268818,3000,VENCEU,UN,2820,0.94
+"Bloco de formulário 2 vias com papel carbono",13268821,100,DESCLASSIFICADO_LANCE,BLC,1600,16
+"Bloco de formulário 2 vias com papel carbono: conforme modelo a ser encaminhado (“Comunicado de Visita – Escorpiões”; tamanho: 21,0 x 14,5 cm);",13268822,100,VENCEU,BLC,699,6.99
+"Caderneta da gestante",13268823,12000,PERDEU,UN,73200,6.1

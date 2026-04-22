@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Limpeza manual de vegetação",11966240,24500,VENCEU,M2,96775,3.95
+"Limpeza manual com remoção de materiais de descarte do rio",11966241,2400,VENCEU,M3,134400,56
+"Carga, manobra e descarga de entulho em caminhão basculante 18m³ - carga com escavadeira hidráulica (caçamba de 0,80M³ /111HP) e descarga livre.",11966242,2400,VENCEU,M3,16560,6.9
+"Transporte com caminhão basculante de 18M³, em via urbana pavimentada, DMT até 30km",11966243,50000,VENCEU,"M3 X KM",72500,1.45
+"Minicarregadeira sobre rodas, potência líquida de 47 HP, capacidade nominal de operação de 646KG - CHP diurno",11966244,620,VENCEU,CHP,62496,100.8
+"Escavadeira hidráulica sobre esteira, com garra giratória de mandíbulas, peso operacional entre 22,00 e 25,50 TON, potencia entre 150 e 160 HP - CHP diurno",11966245,160,VENCEU,CHP,35360,221

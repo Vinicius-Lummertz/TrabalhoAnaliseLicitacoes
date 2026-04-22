@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",0,55,PERDEU," ",8690,158
+"Camisa operacional (gandola) feminina padrão CBMSC",0,8,PERDEU," ",1264,158
+"Calça operacional masculina padrão CBMSC",0,55,PERDEU," ",5280,96
+"Calça operacional feminina padrão CBMSC",0,8,PERDEU," ",768,96
+"Cobertura bico de pato operacional padrão CBMSC",0,55,PERDEU," ",2145,39
+"Luva de posto masculina",0,10,PERDEU," ",220,22
+"Japona operacional dupla face padrão CBMSC",0,10,PERDEU," ",2750,275
+"Blusa de lã azul",0,5,PERDEU," ",690,138
+"Blusa Fleece Vermelho",0,20,PERDEU," ",1640,82
+"Cachecol de fleece",0,20,PERDEU," ",620,31
+"Touca de fleece",0,30,PERDEU," ",960,32
+"Camiseta vermelha gola redonda padrão CBMSC",0,150,PERDEU," ",3450,23
+"Camisa vermelha gola polo padrão CBMSC",0,70,PERDEU," ",2660,38
+"Fivela para cinto Bombeiro Militar",0,20,PERDEU," ",240,12
+"Lona de nylon cor vermelha",0,4,PERDEU," ",36,9
+"Biriba de identificação",0,20,PERDEU," ",150,7.5
+"Calção guarda-vidas Militar",0,30,CANCELADO," ",879,29.3
+"Camiseta regata guarda-vidas Militar",0,30,CANCELADO," ",1260.9,42.03
+"Camiseta manga longa guarda-vidas Militar",0,40,CANCELADO," ",2508.4,62.71
+"Agasalho completo guarda-vidas Militar",0,10,CANCELADO," ",1812.6,181.26
+"Camiseta regata branca",0,55,CANCELADO," ",889.35,16.17
+"Cobertura bico de pato operacional bombeiro comunitário padr",0,40,DESCLASSIFICADO," ",920,23
+"Fivela para cinto Bombeiro Comunitário",0,40,DESCLASSIFICADO," ",320,8
+"Camiseta vermelha gola redonda padrão bombeiro comunitário",0,100,DESCLASSIFICADO," ",2600,26
+"Calça Operacional Bombeiro Comunitário (BC) Feminina",0,40,DESCLASSIFICADO," ",3800,95
+"Calça Operacional Bombeiro Comunitário (BC) Masculina",0,40,DESCLASSIFICADO," ",3800,95
+"Gandola feminina bombeiro comunitário",0,40,DESCLASSIFICADO," ",5200,130
+"Gandola masculina bombeiro comunitário",0,40,DESCLASSIFICADO," ",5200,130
+"Tarjeta de identificação (nome) em tecido operacional",0,40,DESCLASSIFICADO," ",360,9
+"Gola Polo Estagiário",0,40,CANCELADO," ",1433.6,35.84
+"Blusa de lã estagiário",0,25,CANCELADO," ",2666.5,106.66
+"Estampa Graduação e Nome Camiseta Gola Redonda",0,300,VENCEU," ",2997,9.99
+"Estampa Nome Camiseta Gola-Polo",0,200,VENCEU," ",1998,9.99
+"Estampa Graduação e Nome Regata Guarda-Vidas",0,200,VENCEU," ",1998,9.99
+"Estampa Graduação e Nome Regata de TFM",0,200,VENCEU," ",1998,9.99

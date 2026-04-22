@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",4444244,500,PERDEU,GL,4340,8.68
+"Álcool etílico 70° antisséptico",4444252,5000,PERDEU,FRA,19950,3.99
+"Alcool Gel 70% frasco com valvula pump, de 400 a 500",4444253,4000,DESCLASSIFICADO,FR.,38760,9.69
+"Clorexidina alcoólica",4444287,1200,VENCEU,L,9408,7.84
+"Clorexidina aquosa",4444288,3500,PERDEU,UND,5915,1.69
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4444290,5000,DESCLASSIFICADO,UNI,20000,4
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4444291,4000,DESCLASSIFICADO,UNI,11160,2.79
+"Detergente enzimático.",4444300,250,DESCLASSIFICADO,GL,20077.5,80.31
+"Filtro Solar, fator 30, frasco com 120ml ou 125ml",4444324,1500,DESCLASSIFICADO,UNI,11535,7.69
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",4444341,800,DESCLASSIFICADO,UNI,1280,1.6
+"Haste flexível de algodão.",4444344,800,PERDEU,CXA,904,1.13
+"Hipoclorito de sódio 1%.",4444345,500,VENCEU,L,1505,3.01
+"oleo de girassol",4444367,10000,DESCLASSIFICADO,UN,39900,3.99
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",4444382,500,PERDEU,L,9260,18.52
+"Agua oxigenada 10% (peróxido de hidrogênio)",4444451,150,VENCEU,L,529.5,3.53

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SERVIÇOS DE DEDETIZAÇÃO",8145031,1,198123.26,ATIVO,"Metro Quadrado",49530.82,0.25
+"SERVIÇOS DE DESRATIZAÇÃO",8145032,2,198123.26,ATIVO,SERVIÇO,49530.82,0.25
+"SERVIÇOS DE DESCUPINIZAÇÃO",8145033,3,10000,ATIVO,"Metro Quadrado",4000,0.4

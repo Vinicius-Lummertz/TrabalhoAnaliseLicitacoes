@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cateter Intravenoso n°14 G",1353788,40,2000,ATIVO,UNIDADE,3020,1.51
+"Cateter Intravenoso n°16 G",1353789,41,3000,ATIVO,UNIDADE,4500,1.5
+"Cateter Intravenoso n°18 G",1353790,42,6000,ATIVO,UNIDADE,12180,2.03
+"Cateter Intravenoso n°24 G",1353791,45,3000,ATIVO,UNIDADE,6000,2
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1353792,79,7200,ATIVO,UNIDADE,33120,4.6
+"Sonda aspiração traqueal nº 16 em PVC, descartável",1353846,155,1000,ATIVO,UNIDADE,570,0.57
+"Sonda aspiração traqueal nº 14 em PVC, descartável",1353928,154,20000,ATIVO,UNIDADE,10800,0.54

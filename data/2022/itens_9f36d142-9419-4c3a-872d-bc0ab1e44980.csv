@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA OXIGENADA",2785610,1,50,ATIVO,LITRO,375,7.4999
+"Soro Fisiológico 100ml.",2785611,5,100,ATIVO,MILILITRO,198.99,1.9899
+"Soro Fisiológico 250ml",2785612,6,120,ATIVO,MILILITRO,305.99,2.5499
+"Colar cervical neonatal",2785613,27,4,ATIVO,UNIDADE,50.88,12.7191
+"Colar cervical infantil",2785614,28,6,ATIVO,UNIDADE,75.74,12.6241
+"Colar cervical PP",2785615,29,10,ATIVO,UNIDADE,125.29,12.5291
+"Colar cervical P",2785616,30,5,ATIVO,UNIDADE,63.6,12.7191
+"Colar cervical M",2785617,31,5,ATIVO,UNIDADE,63.6,12.7191

@@ -1,0 +1,44 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Declaração de Comparecimento",1268664,18,500,ATIVO,BLOCO,1000,2
+"DOTS- Planilha Acompanhamento de Tratamento",1268665,19,7,ATIVO,BLOCO,73.5,10.5
+"Estudo sócio-econômica CAPS II ad-",1268666,20,10,ATIVO,BLOCO,92.5,9.25
+"Ficha clínica Tuberculose",1268667,23,10,ATIVO,BLOCO,89,8.9
+"Ficha de acolhimento CAPS II.",1268668,26,40,ATIVO,BLOCO,122.8,3.07
+"Ficha de acolhimento CAPS III",1268670,27,40,ATIVO,BLOCO,140,3.5
+"Dados do atendimento do paciente- RAAS CAPS III",1268677,17,40,ATIVO,BLOCO,119.2,2.98
+"Dados do atendimento do paciente- RAAS CAPS II",1268679,16,40,ATIVO,BLOCO,119.2,2.98
+"Condição Sócio Econômica- CAPS II",1268681,12,10,ATIVO,BLOCO,89,8.9
+"Boletim de Campo FAD RG 02",1268682,10,400,ATIVO,BLOCO,1756,4.39
+"Bacteriologia da tuberculose .",1268683,7,30,ATIVO,BLOCO,96,3.2
+"Atestado Médico para Gestantes",1268684,3,100,ATIVO,BLOCO,262,2.62
+"Atestado Médico",1268685,2,1000,ATIVO,BLOCO,2000,2
+"Agendamento de odontologia",1268686,1,10000,ATIVO,UNIDADE,250,0.025
+"Cuidados para vasectomia",1268697,15,40,ATIVO,BLOCO,239.6,5.99
+"SINAN - Acidentes por Animais Peçonhentos",1268699,56,10,ATIVO,BLOCO,71.2,7.12
+"Termo de compromisso - CAPS III",1268701,69,20,ATIVO,BLOCO,103.2,5.16
+"Termo de responsabilidade - CAPS III",1268702,70,20,ATIVO,BLOCO,99.6,4.98
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",1268722,66,50,ATIVO,BLOCO,149.5,2.99
+"SINAN-Ficha de notificação/ investigação Tuberculose",1268724,65,10,ATIVO,BLOCO,63.3,6.33
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",1268725,63,30,ATIVO,BLOCO,116.1,3.87
+"ficha de Observação do animal agressor",1268726,30,20,ATIVO,BLOCO,120,6
+"Ficha de Procedimento E-SUS",1268727,31,50,ATIVO,BLOCO,133,2.66
+"Ficha nominal- Programa Tuberculose",1268728,34,300,ATIVO,UNIDADE,90,0.3
+"Fluxo e contra-fluxo",1268729,35,300,ATIVO,BLOCO,702,2.34
+"Monitoramento das doenças Diarreicas Agudas- distribuição de",1268730,37,20,ATIVO,BLOCO,91.6,4.58
+"Monitoramento das doenças Diarreicas Agudas-",1268731,38,20,ATIVO,BLOCO,119.8,5.99
+"Orientações CAPS III-30x21cm - 1x1",1268732,39,40,ATIVO,BLOCO,119.6,2.99
+"Plano Terapêutico singular CAPS II ad- 30x21cm",1268733,41,20,ATIVO,BLOCO,93.2,4.66
+"Programa de Combate a Tuberculose.",1268734,43,15,ATIVO,BLOCO,93.45,6.23
+"Programa de controle da febre amarela dengue",1268735,44,10000,ATIVO,UNIDADE,490,0.049
+"Proposta de tratamento CAPS II ad",1268736,47,10,ATIVO,BLOCO,88.1,8.81
+"Receituário retinóide",1268737,50,50,ATIVO,BLOCO,94,1.88
+"Receituário simples",1268738,51,8000,ATIVO,BLOCO,7520,0.94
+"Registro de falta de paciente a atendimento odontológico",1268739,52,10,ATIVO,BLOCO,75,7.5
+"SINAN - Acidente de Trabalho Grave",1268740,55,20,ATIVO,BLOCO,91,4.55
+"Ficha Controle de Atendimento frente e verso",1268741,24,20000,ATIVO,UNIDADE,500,0.025
+"SINAN - Intoxicação exógena - frente e verso",1268742,57,10,ATIVO,BLOCO,61.5,6.15
+"SINAN- Doenças exantemáticas febris",1268743,59,10,ATIVO,BLOCO,63.2,6.32
+"SINAN- Ficha de investigação da dengue",1268744,60,10,ATIVO,BLOCO,63.3,6.33
+"SINAN -Ficha de Notificação/ Conclusão",1268745,61,10,ATIVO,BLOCO,63.3,6.33
+"SINAN- Síndrome Respiratória Aguda grave",1268746,62,10,ATIVO,BLOCO,63.3,6.33
+"SINAN-Ficha de investigação Hepatites Virais",1268747,64,10,ATIVO,BLOCO,62.2,6.22

@@ -1,0 +1,60 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 6,0mm2",0,3190,CANCELADO," ",10686.5,3.35
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 10,0mm2",0,4900,CANCELADO," ",23422,4.78
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 16,0mm2",0,17500,CANCELADO," ",113925,6.51
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 25,0mm2",0,17700,CANCELADO," ",170451,9.63
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 70,0mm2",0,3240,CANCELADO," ",99856.8,30.82
+"Cabo de cobre tipo PP 3 x #2,5mm² 0,6/1,0kV",0,3400,CANCELADO," ",8772,2.58
+"Cabo de cobre nú, tipo bimetálico aço/cobre 16mm² p/ aterram",0,450,CANCELADO," ",2731.5,6.07
+"Disj. Unipolar Termomagnético 32A IEC/DIN",0,6,CANCELADO," ",32.16,5.36
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,7,CANCELADO," ",49.49,7.07
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,5,CANCELADO," ",35.35,7.07
+"Disj. Unipolar Termomagnético 80A IEC/DIN",0,11,CANCELADO," ",469.92,42.72
+"Disj. Tripolar Termomagnético 40A IEC/DIN",0,6,CANCELADO," ",156.54,26.09
+"Disj. Tripolar Termomagnético 80A IEC/DIN",0,2,CANCELADO," ",209.64,104.82
+"Disj. Tripolar Termomagnético em caixa moldada 150A (40kA)",0,2,CANCELADO," ",392.26,196.13
+"Disj. Tripolar Termomagnético em caixa moldada 200A (40kA)",0,1,CANCELADO," ",218.44,218.44
+"Dispositivo de Proteção contra Surto (275V - 40kA)",0,4,CANCELADO," ",350.84,87.71
+"Quadro de distribuição em chapa de aço  AxLxP (100x70x20)cm",0,2,CANCELADO," ",995.18,497.59
+"Quadro de distribuição em chapa de aço (40x40x12)cm",0,4,CANCELADO," ",505.12,126.28
+"Eletroduto Corrugado 3/4",0,3600,CANCELADO," ",3564,0.99
+"Eletroduto  Corrugado 2",0,7800,CANCELADO," ",17940,2.3
+"Eletroduto Corrugado 3",0,800,CANCELADO," ",2712,3.39
+"Caixa de passagem em concreto (50x50)cm c/ tampa",0,14,CANCELADO," ",706.02,50.43
+"Caixa de passagem em concreto com tampa - 30X30cm",0,287,CANCELADO," ",5409.95,18.85
+"Grampo estanhado para aterramento 5/8 x 3/4",0,300,CANCELADO," ",477,1.59
+"Haste de aterramento tipo Copperweld 1,2m",0,300,CANCELADO," ",3516,11.72
+"Terminal a compressão para cabo de cobre nú 16mm²",0,300,CANCELADO," ",279,0.93
+"Luminária Pública (Tipo II/média) - ?90W ?150lm/W - 13500lm",0,143,CANCELADO," ",135718.44,949.08
+"Luminária Pública (Tipo II/média) - ?135W ?150lm/W - 20250lm",0,348,CANCELADO," ",412797.6,1186.2
+"Luminária Pública (Tipo II/média) - ?54W ?150lm/W - 8100lm",0,15,CANCELADO," ",9204.45,613.63
+"Projetor de LED (abertura 60°) - ?180W ?120lm/W - 21600lm",0,56,CANCELADO," ",44005.36,785.81
+"Projetor de LED (abertura 60°) - ?240W ?120lm/W - 28800lm",0,36,CANCELADO," ",37170.36,1032.51
+"Luminária para monumento  LED RGB- ?150W Feixe Médio",0,5,CANCELADO," ",4599.45,919.89
+"Poste Concreto Circular 12m - 300daN",0,20,CANCELADO," ",22200,1110
+"Cruzeta de Aço tubular - 2400mm - 400daN",0,20,CANCELADO," ",3656.8,182.84
+"Cinta para poste circular 110 mm",0,20,CANCELADO," ",334,16.7
+"Cinta para poste circular 120 mm",0,20,CANCELADO," ",342,17.1
+"Sela para fixação da cruzeta ao poste",0,20,CANCELADO," ",155.8,7.79
+"Parafuso para fixação Cabeça Abaulada 16 x 150 mm",0,20,CANCELADO," ",79.2,3.96
+"Parafuso para fixação Cabeça Abaulada 16 x 125 mm",0,20,CANCELADO," ",76.6,3.83
+"Parafuso para fixação CCabeça Quadrada 16 x 45 mm",0,20,CANCELADO," ",40.8,2.04
+"Mão Francesa Perfilada de 726 mm, reforçada.",0,20,CANCELADO," ",427.6,21.38
+"Poste ferro galvanizado á fogo com pintura poliéster, 11m",0,87,CANCELADO," ",101657.76,1168.48
+"Núcleo de ferro galvanizado á fogo para 4 luminárias braço 1",0,87,CANCELADO," ",12647.19,145.37
+"Poste ferro galvanizado á fogo pintura poliéster, 9m, 2 péta",0,54,CANCELADO," ",43489.98,805.37
+"Núcleo de ferro galvanizado á fogo para 2 luminárias braço 1",0,54,CANCELADO," ",4667.76,86.44
+"Poste ferro galvanizado á fogo com pintura poliéster, 9m",0,35,CANCELADO," ",28187.95,805.37
+"Núcleo de ferro galvanizado á fogo para 1 luminárias braço 1",0,35,CANCELADO," ",1762.6,50.36
+"Poste ferro galvanizado á fogo com pintura poliéster, 5m",0,15,CANCELADO," ",4279.05,285.27
+"Núcleo de ferro galvanizado á fogo p/ 1 luminária braço 0,5m",0,15,CANCELADO," ",755.4,50.36
+"Abertura e Fechamento de Vala para cabo subterrâneo diretame",0,4000,CANCELADO," ",98000,24.5
+"Retirada de Poste  - Com Guindauto",0,100,CANCELADO," ",5000,50
+"Instalação de Caixa de Passagem... Tipo A com Tampa",0,287,CANCELADO," ",2870,10
+"Instalação de Caixa de Passagem e Derivação de concreto arma",0,14,CANCELADO," ",210,15
+"Lançamento de Circuitos de Baixa Tensão (1, 2, 3 ou 4 Condut",0,4600,CANCELADO," ",23000,5
+"Aterramento simples, primeira haste",0,300,CANCELADO," ",15000,50
+"Montagem de 4 Projetores por Cruzeta, por conjunto",0,20,CANCELADO," ",3000,150
+"Instalação de Poste Menor que 12m - om Guindauto",0,20,CANCELADO," ",3000,150
+"Implantação e instalação elétrica completa de poste de ilumi",0,200,CANCELADO," ",48000,240
+"Sistema que permita identificar a localização, informe sobre",0,15,CANCELADO," ",12000,800

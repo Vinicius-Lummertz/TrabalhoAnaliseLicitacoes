@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bomba de vácuo: Voltagem 127/220V",4439539,2,PERDEU,UN,3980,1990
+"Cadeira odontologica completa",4439541,7,INABILITADO,UN,73776.15,10539.45
+"Avental RX para Paciente Infantil",4439542,2,PERDEU,UN,784,392
+"Avental RX para Paciente Adulto",4439543,2,PERDEU,UN,784,392
+"Amalgamador capsular digital",4439545,3,PERDEU,UN,1584,528
+"Autoclave 21 litros",4439546,10,INABILITADO,UN,29680,2968
+"Contra ângulo odontológico para peça de mão",4439548,7,VENCEU,UNI,2443,349
+"Kit acadêmico contendo caneta de alta rotação",4439551,20,INABILITADO,CX,21000,1050
+"CANETA DE ALTA ROTACAO",4439552,10,INABILITADO,UN,4060,406
+"Mini incubadora biológica",4439554,15,DESCLASSIFICADO,UN,3675,245
+"Seladora termica digital, de mesa",4439558,20,VENCEU,UNI,11580,579
+"Fotopolimerizador sem fio",4439559,20,PERDEU,UN,9700,485

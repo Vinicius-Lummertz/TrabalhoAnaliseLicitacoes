@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guarda - copo com tubo metálico, 2 (polegadas),",1302784,1,120,ATIVO,"METRO QUADRADO",42208.8,351.74
+"Serviço de serralheiro/soldador",1308876,5,80,ATIVO,HORA,9478.4,118.48
+"Portão chapeado galvanizado, tubo 40x40mm",1308877,3,100,ATIVO,"METRO QUADRADO",29990,299.9
+"Serviço de serralheiro/soldador",1312892,4,100,ATIVO,HORA,7775,77.75
+"Corrimão metálico com pintura eletrostática ( metro linear)",1312893,2,120,ATIVO,"METRO QUADRADO",23547.6,196.23

@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulha preta 22G1 nº 7210",0,15000,DESCLASSIFICADO," ",12000,0.8
+"Agulha verde 21G1 nº 7212",0,50000,DESCLASSIFICADO," ",40000,0.8
+"Scalp  25 G azul-cx c/ 50 unidades",0,100,DESCLASSIFICADO," ",14432,144.32
+"Scalp 21 G verde-cx c/50 unidades",0,60,DESCLASSIFICADO," ",8659.2,144.32
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",0,15000,DESCLASSIFICADO," ",7500,0.5
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",0,120000,DESCLASSIFICADO," ",61200,0.51
+"Tubo plástico sistema a vácuo c/ gel separador-c/ volume de",0,140000,DESCLASSIFICADO," ",120400,0.86
+"Tubo plástico seco sistema a vácuo 9 ml",0,60000,DESCLASSIFICADO," ",45000,0.75
+"Tubo plástico sistema a vácuo p/ coagulação 4ml com Citrato",0,1000,DESCLASSIFICADO," ",510,0.51
+"Adaptador universal para  coleta a vacuo",0,200,DESCLASSIFICADO," ",24,0.12
+"Anti-A : frasco de 10ml",0,25,PERDEU," ",462.75,18.51
+"Anti-B: frasco de 10ml",0,25,PERDEU," ",462.75,18.51
+"Anti-D: frasco de 10ml",0,25,PERDEU," ",751.5,30.06
+"VDRL-latex c/ controle negativo e positivo",0,30000,PERDEU," ",4200,0.14
+"Pipeta de vidro graduada com volume de 01 ml",0,50,PERDEU," ",134.5,2.69
+"Funil de plástico com 10 cm de abertura. Não descartável",0,200,VENCEU," ",896,4.48
+"Corante azul de Cresil Brilhante frasco com 100 ml",0,4,PERDEU," ",132,33
+"Corante p/ hematologia Giensa",0,18,PERDEU," ",918,51
+"Corante p/ hematologia May Grunwald",0,18,PERDEU," ",701.1,38.95
+"Corante Lugol",0,6,VENCEU," ",327.6,54.6
+"Pote plástico com tampa de rosca descartável p/ coleta de 50",0,65000,PERDEU," ",18200,0.28
+"Adesivo (bandagem) estéril indicado p/ uso após punção venen",0,60000,PERDEU," ",1800,0.03
+"Placas de Kline de vidro p/ VDRL com 12 escavações 6x8cm",0,12,VENCEU," ",386.88,32.24
+"Ponteiras amarelas tipo universal vol. 0-200 microlitros, pa",0,25,PERDEU," ",295.75,11.83
+"Cálices de plástico com base e com abertura de 7cm",0,200,VENCEU," ",598,2.99
+"Pipeta de vidro graduada - volume 2ml",0,30,VENCEU," ",81.9,2.73
+"Pipeta automática, volume variável: 100 - 1000 ul",0,3,PERDEU," ",459.45,153.15
+"Pipeta automática, volume variável: 10 - 100 ul",0,3,PERDEU," ",459.42,153.14
+"Pipeta automática, volume variável: 5 - 50 ul",0,3,PERDEU," ",459.42,153.14
+"Aspirador para pipetas de 5 a 10 ml",0,3,PERDEU," ",46.38,15.46

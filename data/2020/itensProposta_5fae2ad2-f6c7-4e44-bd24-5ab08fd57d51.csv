@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Televisor colorido 42 polegadas, LED",4444169,2,VENCEU,UN,4080,2040
+"Ventilador turbo de coluna 50cm, 6 pás",4444170,4,PERDEU,UN,996,249
+"Aquecedor elétrico portátil",4444171,4,PERDEU,UN,544,136
+"Refrigerador 2 portas, 220 V",4444172,1,VENCEU,UN,2285,2285
+"Refrigerador tipo doméstico 1 porta, 220V",4444173,1,VENCEU,UN,1790,1790
+"Aparelho Microondas capac. 32lt, na cor branca",4444174,2,INABILITADO,UN,1020,510
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4444175,4,VENCEU,UNI,2740,685
+"Chaleira em aço inox, tipo elétrica",4444177,2,VENCEU,UN,220,110
+"Quadro branco magnético dimensões120x90m moldura em lumínio",4444178,8,VENCEU,UN,1512,189
+"Caixa organizadora baixa transparente capac. 15 lt.",4444182,15,INABILITADO,UN,825,55
+"Caixa organizadora baixa transparente capac. 30 lt.",4444183,15,VENCEU,UN,1905,127
+"Suporte para Banner Tripé com garras, 1,80 a 2,00m de altura",4444185,5,VENCEU,UN,640,128
+"APARELHO TELEFONICO SEM FIO",4444186,4,VENCEU,UND,576,144
+"Aparelho telefônico convencional de mesa com fio",4444187,8,VENCEU,UN,436,54.5
+"Contentor de lixo, capac. 120 litros",4444190,4,VENCEU,UNI,1072,268
+"Estrado de plástico vazado 50 cm x 50cm x 5 cm, com encaixes",4444191,70,PERDEU,UN,2240,32
+"Pallet em polietileno de alta densidade (PEAD)",4444192,30,PERDEU,UN,6450,215
+"Garrafa térmica 3,00 lt em aço inox",4444193,2,VENCEU,UN,400,200
+"Caixa gaveteiro plástico tipo Bin Nº 6, capac 8 lt",4444194,100,VENCEU,UN,1980,19.8
+"Caixa gaveteiro plástico tipo Bin Nº 5, capac 4 lt",4444195,100,VENCEU,UNI,850,8.5
+"Lixeira em polietileno de alta densidade (PEAD)  50 litros",4444196,2,VENCEU,CNJ,1420,710

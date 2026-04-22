@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Óculos de proteção Individual Transparente",4382910,50,VENCEU,UND,242.5,4.85
+"Manta Térmica Aluminizada",4382912,100,PERDEU,UND,405,4.05
+"Tala de papelão 90x20",4382918,20,VENCEU,CX,280,14
+"Tala de papelão 70x20",4382919,20,PERDEU,CX,197.6,9.88
+"Tala de papelão 50x20",4382920,20,VENCEU,CX,141.6,7.08
+"Tala de papelão 30x20",4382921,20,PERDEU,CX,120,6
+"Kit p/ parto emergencial",4382922,10,VENCEU,UND,375,37.5
+"Kit p/ queimadura",4382923,10,PERDEU,UND,440,44
+"Colar cervical neonatal",4382926,3,VENCEU,UND,37.2,12.4
+"Colar cervical infantil",4382927,6,PERDEU,UND,74.4,12.4
+"Colar cervical PP",4382928,10,VENCEU,UND,124,12.4
+"Colar cervical P",4382929,10,PERDEU,UND,124.5,12.45
+"Colar cervical M",4382930,5,VENCEU,UND,62,12.4
+"Colar cervical G",4382931,5,PERDEU,UND,62,12.4
+"COLAR CERVICAL REGULAVEL",4382932,8,VENCEU,UND,324,40.5
+"Prancha rígida.",4382933,1,VENCEU,UND,335,335
+"Imobilizador de cabeça A",4382935,10,VENCEU,UND,900,90
+"TIRANTE ARANHA.",4382937,10,PERDEU,UND,385,38.5
+"Ked (infantil)",4382938,1,PERDEU,UND,179,179
+"Ked (adulto)",4382939,1,VENCEU,UND,183,183
+"Tesoura APH",4382940,5,PERDEU,UND,70,14
+"Máscara facial infantil",4382941,10,VENCEU,UND,128.5,12.85
+"Máscara facial adulto",4382942,10,PERDEU,UND,128.5,12.85
+"Esfigmomanômetro Infantil",4382943,3,VENCEU,UND,225,75
+"Esfigmomanômetro Adulto",4382944,3,VENCEU,UND,219,73
+"Estetoscópio Adulto",4382945,3,PERDEU,UND,195,65
+"Reanimador manual neonatal",4382946,3,PERDEU,UND,507,169
+"Reanimador manual infantil",4382947,3,PERDEU,UND,507,169
+"Reanimador manual adulto",4382948,3,VENCEU,UND,507,169
+"Aparelho de Pressão Digital Automático de Braço",4382949,3,DESCLASSIFICADO,UND,590.97,196.99
+"Oxímetro digital portátil para dedo",4382950,3,VENCEU,UND,447,149
+"LANTERNA CLINICA",4382951,10,PERDEU,UND,740,74
+"Termômetro Clínico Digital de Testa sem contato",4382952,3,DESCLASSIFICADO,UND,684.09,228.03
+"CORTA ANEL",4382953,3,PERDEU,UND,291,97
+"Eletrodo infantil",4382954,5,VENCEU,PCT,7800,1560
+"Eletrodo adulto",4382955,30,VENCEU,PC,17970,599
+"Bateria para Desfibrilador LIFEPAK 1000.",4382956,3,VENCEU,UND,14280,4760
+"Bolsa de Atendimento Pré-hospitalar",4382957,3,INABILITADO,UND,546,182
+"Colete azul Estagiário",4382958,2,INABILITADO,UND,366,183
+"Colete Socorrista PADRÃO CBMSC",4382959,15,INABILITADO,UND,2745,183
+"Bomba de Sucção",4382960,4,VENCEU,UND,1920,480
+"Tala de Tração de Fêmur",4382961,1,VENCEU,UND,745,745

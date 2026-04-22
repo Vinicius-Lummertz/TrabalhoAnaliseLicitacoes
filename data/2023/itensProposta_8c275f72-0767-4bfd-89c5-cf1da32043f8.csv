@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Gorros descartáveis tipo touca com elástico",10971436,800,VENCEU,PCT,5600,7
+"Máscara cirúrgica tripla",10971511,1500,VENCEU,CX,5970,3.98
+"Máscara de proteção respiratória (respirador particulado - N",10971514,200,PERDEU,UND,502,2.51

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Trompete em SI bemol",15315941,6,VENCEU,PAR,5706.84,951.14
+Bombardino,15315943,3,VENCEU,UND,7716.6,2572.2
+"Tuba 3/4 em SI bemol",15315944,2,VENCEU,PAR,23880.1,11940.05
+"Caixa tenor",15315946,103,PERDEU,UND,65559.5,636.5
+"PAR DE PRATOS 14",15315949,35,PERDEU,PAR,25376.4,725.04
+"Par de pratos 16",15315950,35,PERDEU,PAR,26005,743

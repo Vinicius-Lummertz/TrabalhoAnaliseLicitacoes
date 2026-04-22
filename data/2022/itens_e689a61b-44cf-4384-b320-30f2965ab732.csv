@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"DESFIBRILADOR AUTOMÁTICO",2785664,51,2,ATIVO,kit,21800,10900
+"BATERIA RECARREGÁVEL DESFIBRILADOR",2785665,52,2,ATIVO,UNIDADE,2500,1250

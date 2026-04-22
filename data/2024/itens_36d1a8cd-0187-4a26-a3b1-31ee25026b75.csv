@@ -1,0 +1,47 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água oxigenada 10% (peróxido de hidrogênio 10%). Frasco 1000ml",5822804,2,150,ATIVO,LITRO,928.5,6.19
+"Água oxigenada 10% (peróxido de hidrogênio 10%). Frasco 100ml",5822805,3,200,ATIVO,FRASCO,486,2.43
+"Água para autoclave, galão de 5 litros.",5822806,4,6000,ATIVO,GALÃO,47940,7.99
+"Água para autoclave, galão de 5 litros.",5822807,5,2000,ATIVO,GALÃO,15980,7.99
+"Cateter Intravenoso n°14 G, com dispositivo de segurança.",5822808,38,2500,ATIVO,UNIDADE,3575,1.43
+"Cateter Intravenoso n°20 G, com dispositivo de segurança",5822809,41,8000,ATIVO,UNIDADE,11360,1.42
+"Cateter Intravenoso n°24 G, com dispositivo de segurança.",5822810,43,4000,ATIVO,UNIDADE,5680,1.42
+"Coletor para materiais perfuro cortante (capacidade 13 Litros).",5822811,48,4000,ATIVO,UNIDADE,19400,4.85
+"Coletor para materiais perfuro cortante (capacidade 7 Litros).",5822812,49,3000,ATIVO,UNIDADE,10470,3.49
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não descartável.",5822813,52,500,ATIVO,PACOTE,15440,30.88
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, blister contendo 10 unidades estéreis com embalagem em plástico e papel grau cirúrgico.",5822814,56,175000,ATIVO,PACOTE,108500,0.62
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem). Caixa com 500 adesivos.",5822815,59,1000,ATIVO,CAIXA,11690,11.69
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp).",5822816,64,5000,ATIVO,UNIDADE,900,0.18
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp).",5822817,65,8000,ATIVO,UNIDADE,1440,0.18
+"Dispositivo para infusão endovenosa, n°23 (apelido scalp).",5822818,66,12000,ATIVO,UNIDADE,2160,0.18
+"Dispositivo para infusão endovenosa, n°25 (apelido scalp).",5822819,67,4000,ATIVO,UNIDADE,720,0.18
+"Dispositivo para infusão endovenosa, n°27 (apelido scalp).",5822820,68,1000,ATIVO,UNIDADE,180,0.18
+"Equipo 2 vias, (POLIFIX).",5822821,83,4500,ATIVO,UNIDADE,2700,0.6
+"Fio absorvível de Catgut Simples amarelo no. 2,0. Agulha cilíndrica ½ CIRC. 2,0 cm",5822822,98,10,ATIVO,CAIXA,1014.2,101.42
+"Fio absorvível de Catgut Simples amarelo no. 4,0. Agulha cilíndrica ½ CIRC. 2,0 cm",5822823,99,10,ATIVO,CAIXA,1046.6,104.66
+"Fio cirúrgico preto monofilamentar de poliamida no. 2.0. agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº.  2-0 (Mononylon).",5822824,100,30,ATIVO,CAIXA,971.7,32.39
+"Fio cirúrgico preto monofilamentar de poliamida no. 3,0 agulha triangular 3/8 CIRC. 2,0 cm, fio 45 cm de comprimento. Nº.  3-0 (Mononylon).",5822825,101,50,ATIVO,CAIXA,1669,33.38
+"Fio cirúrgico preto monofilamentar de poliamida no. 3,0 agulha triangular 3/8 CIRC. 2,5 cm, fio 45 cm de comprimento. Nº.  3-0 (Mononylon).",5822826,102,50,ATIVO,CAIXA,1669,33.38
+"Fio cirúrgico preto monofilamentar de poliamida no. 3.0 agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº.  3-0 (Mononylon).",5822827,103,500,ATIVO,CAIXA,16690,33.38
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0 Agulha triangular 3/8 CIRC. 2,5 cm, fio 45 cm de comprimento. Nº.  4-0 (Mononylon).",5822828,104,250,ATIVO,CAIXA,9215,36.86
+"Fio cirúrgico preto monofilamentar de poliamida no. 4,0. Agulha triangular 3/8 CIRC. 3,0 cm, fio 45 cm de comprimento. Nº.  4-0 (Mononylon).",5822829,105,250,ATIVO,CAIXA,7810,31.24
+"Garrote tubo látex no. 202. Pacote com 15m.",5822830,119,50,ATIVO,PACOTE,1814,36.28
+"Gel condutor para exames de Ultrassonografia/Eletrocardiograma.",5822831,120,1200,ATIVO,UNIDADE,1956,1.63
+"Glicerina líquida Glicerina bi-destilada 100%. Frasco 1 litro.",5822832,122,60,ATIVO,LITRO,2544.6,42.41
+"Haste flexível de algodão.",5822833,124,1000,ATIVO,CXA,1980,1.98
+"Lençol hospitalar descartável em papel.",5822834,145,2500,ATIVO,ROLO,25525,10.21
+"Oxímetro portátil de dedo",5822835,175,70,ATIVO,UNIDADE,4549.3,64.99
+"Clorexidina degermante de gluconato de clorexidina a 2% ou 4%.",5822838,208,400,ATIVO,LITRO,7872,19.68
+"Sonda aspiração traqueal nº 08 em PVC, descartável.",5822839,210,36000,ATIVO,UNIDADE,18360,0.51
+"Sonda aspiração traqueal nº 16 em PVC, descartável",5822840,214,4000,ATIVO,UNIDADE,2760,0.69
+"Sonda endotraqueal em PVC com balão nº 7,0",5822841,231,120,ATIVO,UNIDADE,358.8,2.99
+"Sonda uretral nº 06, descartável.",5822842,243,14000,ATIVO,UNIDADE,7280,0.52
+"Sonda uretral nº 16 descartável",5822843,248,3000,ATIVO,UNIDADE,1740,0.58
+"SORO GLICOFISIOLOGICO 250ml",5822844,256,600,ATIVO,UNIDADE,2994,4.99
+"Soro Glicofisiológico 500ml sistema fechado",5822845,257,800,ATIVO,UNIDADE,4680,5.85
+"Soro Glicosado 250ml (solução de glicose a 5%) sistema fechado",5822846,258,600,ATIVO,UNIDADE,3234,5.39
+"Soro Glicosado 500ml (solução de glicose a 5%) sistema fechado",5822847,259,600,ATIVO,UNIDADE,4290,7.15
+"Soro ringer lactato  500 ml sistema fechado.",5822848,260,200,ATIVO,UNIDADE,1298,6.49
+"Umidificador Frasco polipropileno oxigênio medicinal",5822849,267,50,ATIVO,UNIDADE,749.5,14.99
+"Sonda Gástrica Longa nº 18, descartável",6024330,239,30,ATIVO,UNIDADE,30,1
+"Kit citologia - 01 escova endocervical + 01 espátula de ayre.",6024331,130,30000,ATIVO,UNIDADE,20400,0.68

@@ -1,0 +1,48 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rede de Traves para Futebol de Campo",15527903,18,PERDEU,PAR,5760,320
+"Rede de Traves de Futsal",15527906,10,PERDEU,PAR,2200,220
+"Rede de Traves de Handebol",15527907,10,PERDEU,PAR,2850,285
+"Rede de Aro para Basquete",15527909,30,PERDEU,PAR,1620,54
+"Rede Oficial de Voleibol de Quadra",15527915,8,PERDEU,UN,1960,245
+"Rede Oficial de Voleibol de Praia/Areia",15527916,10,PERDEU,UN,3080,308
+"Marcação de Quadra de Vôlei de Praia/Areia",15527917,5,PERDEU,KIT,525,105
+"Raquete de Tênis de Mesa para Iniciação",15527918,120,PERDEU,UN,3286.8,27.39
+"Rede para Mesa de Tênis de Mesa",15527919,20,PERDEU,UN,2380,119
+"Jogo de Peças de Xadrez Oficial",15527920,55,PERDEU,JGO,2487.1,45.22
+"Tabuleiro de Xadrez Oficial",15527921,55,PERDEU,UN,3135,57
+"Sapatilha de Velocidade para Provas de Atletismo",15527922,35,PERDEU,PAR,11056.5,315.9
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",15527923,35,PERDEU,PAR,8855,253
+"Sapatilha de Atletismo de Lançamento e Arremesso",15527924,35,PERDEU,PAR,11375,325
+"Touca de Natação",15527925,100,PERDEU,UN,1596,15.96
+"Óculos de Natação",15527926,100,PERDEU,UN,4389,43.89
+"Kimono de Karatê",15527927,150,PERDEU,UN,29925,199.5
+"Placas de tatame 1x1 de 40mm cores diversas",15527928,360,PERDEU,UNI,34232.4,95.09
+"Kimono de Judô",15527929,100,PERDEU,UN,23800,238
+"Kimono de Jiu-Jitsu",15527930,100,PERDEU,UN,23400,234
+"Luva de Boxe",15527931,30,PERDEU,PAR,3690,123
+"Saco de Pancada",15527932,6,VENCEU,UN,959.4,159.9
+"Manopla de Boxe",15527933,30,PERDEU,PAR,3090,103
+"Aparador de Chute",15527934,24,VENCEU,UN,2952,123
+"Aparador de Soco",15527935,24,VENCEU,UN,2400,100
+"Sacos para Bola",15527936,30,PERDEU,UN,699,23.3
+"CONE CHAPÉU CHINÊS",15527937,200,PERDEU,UND,598,2.99
+"Corda de Pular",15527938,50,PERDEU,UN,1400,28
+"Bomba de Ar para Bolas",15527939,26,PERDEU,UN,517.4,19.9
+"Calibrador de Bola tipo Caneta",15527940,26,PERDEU,UN,1092,42
+"Placar de Mesa",15527941,26,PERDEU,UN,2755.74,105.99
+"Apito de Mesa",15527942,15,PERDEU,UN,468.75,31.25
+"Apito profissional",15527943,60,PERDEU,UND,1917,31.95
+"Skate para Iniciantes",15527944,80,PERDEU,UN,13960,174.5
+"Capacete de Skate",15527945,80,PERDEU,UN,7341.6,91.77
+"Kit de Proteção Esportivo",15527946,80,PERDEU,KIT,10400,130
+"Faixa Elástica Nível Forte",15527947,10,PERDEU,UN,518.7,51.87
+"Faixa Elástica Nível Médio",15527948,10,PERDEU,UN,385.7,38.57
+"Faixa Elástica Nível Fraco",15527949,10,PERDEU,UN,359.1,35.91
+"Mini Band Nível Forte",15527950,30,PERDEU,UN,997.5,33.25
+"Mini Band Nível Médio",15527951,30,PERDEU,UN,1037.4,34.58
+"Mini Band Nível Fraco",15527952,30,PERDEU,UN,917.7,30.59
+"Colete Esportivo",15527954,1000,PERDEU,UN,13900,13.9
+"Camiseta Esportiva",15527955,3750,PERDEU,UN,103125,27.5
+"Camiseta Esportiva",15527996,1250,PERDEU,UN,34375,27.5
+"Uniforme Esportivo",15527956,332,PERDEU,UN,22244,67
+"AGASALHO - JAQUETA E CALÇA POLIESTER",15527957,100,PERDEU,UND,21400,214

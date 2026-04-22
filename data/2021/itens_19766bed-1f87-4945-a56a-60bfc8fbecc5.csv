@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A4, folha branca",1644214,1,2000,ATIVO,UNIDADE,440,0.22
+"Impressão colorida, tamanho A4, folha branca",1644215,2,1000,ATIVO,UNIDADE,970,0.97
+"Impressão preto e branco, tamanho A3, folha branca",1644216,3,1000,ATIVO,UNIDADE,1000,1
+"Impressão colorida, tamanho A3, folha branca",1644217,4,500,ATIVO,UNIDADE,1045,2.09
+"Impressão colorida em papel fotográfico",1644218,5,4,ATIVO,"METRO QUADRADO",328,82
+"impressão de etiqueta adesiva 45x15mm",1644219,6,1000,ATIVO,UNIDADE,130,0.13
+"Encadernação em espiral até 100 folhas tamanho A4 com capa p",1644220,7,200,ATIVO,UNIDADE,1400,7
+"Encadernação em espiral acima de 100 folhas tamanho A4 com c",1644221,8,50,ATIVO,UNIDADE,400,8
+"Cartão de visita com laminação fosca e verniz, gramatura 200",1644222,9,1000,ATIVO,UNIDADE,300,0.3
+"Confecção de crachá padrão",1644223,10,50,ATIVO,UNIDADE,350,7

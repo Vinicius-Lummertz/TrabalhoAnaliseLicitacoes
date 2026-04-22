@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pneu Novo 12x16,5",21871675,23,VENCEU,UND,13915,605
+"Pneu Novo 19,5x24 12 lonas traseiro",21871681,17,PERDEU,UND,110466,6498
+"Pneu Novo 1400x24 bor. 16 lonas",21871682,14,VENCEU,UND,24822,1773
+"Pneu Novo 20,5x25 radial L3 20 lonas",21871684,8,VENCEU,UND,30552,3819
+"Pneu Novo 175/65 R14",21871687,195,VENCEU,UND,39000,200
+"Pneu Novo 205/60 R16",21871702,63,VENCEU,UND,17640,280
+"Pneu Novo 225/75 R16 carga",21871713,54,VENCEU,UND,20250,375
+"Pneu Novo 215/75 R17,5 radial misto liso",21871714,60,PERDEU,UND,89880,1498
+"Pneu Novo 275/80x22,5 radial misto liso",21871717,18,VENCEU,UND,22950,1275
+"Pneu Novo 275/80x22,5 radial misto borrachudo",21871718,54,PERDEU,UND,226314,4191
+"Pneu Novo 1000x20 radial misto borrachudo 16 lonas",21871724,81,PERDEU,UND,338337,4177
+"Pneu Novo 1000x20 radial misto liso 16 lonas",21871725,23,VENCEU,UND,33902,1474

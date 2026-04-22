@@ -1,0 +1,40 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Arruela quadrada M16 em aço galvanizado a fogo 38x18x3mm",5286959,4,2500,ATIVO,PEÇAS,2050,0.82
+"Base para relé fotoeletrônico, com haste de aço galvanizada a fogo.",5286960,5,300,ATIVO,PEÇAS,1272,4.24
+"Caixa de inspeção de aterramento em PVC, padrão CELESC com tampa.",5286961,23,50,ATIVO,PEÇAS,563.5,11.27
+"Conector cunha bimetalálico 5/8 para haste de aterramento",5286962,34,100,ATIVO,PEÇAS,1962,19.62
+"Conector cunha de aluminio ampactinho tipo A",5286963,35,500,ATIVO,PEÇAS,2655,5.31
+"Conector cunha de aluminio ampactinho tipo I",5286964,36,1000,ATIVO,PEÇAS,6050,6.05
+"Conector genérico longo em material termoplástico auto extinguível e componente metálico. cabo 6mm² à 25mm²",5286965,44,100,ATIVO,PEÇAS,610,6.1
+"Contator tripolar com bobina 220V para 30A Regime AC3",5286966,50,20,ATIVO,PEÇAS,1640.2,82.01
+"Contator tripolar com bobina 220V para 40A Regime AC3",5286967,51,30,ATIVO,PEÇAS,4589.1,152.97
+"Contator tripolar com bobina 220V para 50A Regime AC3",5286968,52,30,ATIVO,PACOTE,5439.9,181.33
+"Contator tripolar com bobina 220V para 80A Regime AC3",5286969,53,30,ATIVO,PEÇAS,9123.3,304.11
+"Cruzeta metálica aérea fabricada em aço carbono 1010/1020 galvanizada a fogo, 90x90x2000mm",5286970,54,15,ATIVO,PEÇAS,4499.85,299.99
+"Curva 90º para eletroduto em ferro galvanizado 1.1/2""",5286971,55,100,ATIVO,PEÇAS,1988,19.88
+"DPS - Dispositivo de proteção contra surtos 275V/45kA Classe II",5286972,58,200,ATIVO,PEÇAS,6878,34.39
+"Mão francesa perfilada em aço galvanizado a fogo 726x38mm",5286973,74,60,ATIVO,PEÇAS,2835,47.25
+"MiniDisjuntor tetrapolar Termomagnético 63A, curva C, padrão IEC/DIN",5286974,80,34,ATIVO,PEÇAS,903.72,26.58
+"MiniDisjuntor tetrapolar Termomagnético 70A, curva C, padrão IEC/DIN",5286975,81,34,ATIVO,PEÇAS,1807.1,53.15
+"Parafuso máquina em aço galvanizado a fogo M16 - 16x150mm com porca.",5286976,84,100,ATIVO,PEÇAS,607,6.07
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 9 mts , para uso engastado, topo do poste com diâmetro de 58mm±2mm.",5286977,90,5,ATIVO,PEÇAS,4907.4,981.48
+"Relé Fechado,  que substitui o relê fotoelétrico, shorting Gap - Capa ligada com ìndice de proteção IP65 ou superior, tensão 220V, frequência 50/60Hz, potência de comando 1000W/15A, conforme NBR 5123.",5286978,101,300,ATIVO,PEÇAS,2412,8.04
+"Tomada/régua múltipla 5x para extensão 10A/20A, potência máxima conjunto 4400W (220V)",5286979,115,20,ATIVO,PEÇAS,828,41.4
+"Tubo Eletroduto em PVC rígido 1.1/2 – barra 03 mts – preto",5286980,118,100,ATIVO,PEÇAS,1724,17.24
+"Luminária de emergência, fluxo luminoso minimo 1000 lúmens",5286981,139,10,ATIVO,PEÇAS,803.9,80.39
+"Mantas De Baixa Tensão",5286982,144,18,ATIVO,PEÇAS,1028.34,57.13
+"Fita Ou Corrente De Plástico Laranja sinalização (25m)",5286983,145,6,ATIVO,PEÇAS,370.86,61.81
+"Cinto de Segurança tipo paraquedista para trabalho em altura",5286984,149,20,ATIVO,PEÇAS,1714,85.7
+"Fita De Ancoragem De 1,6m",5286985,150,24,ATIVO,PEÇAS,774.96,32.29
+"Mosquetão tipo Pera",5286986,151,24,ATIVO,PEÇAS,1994.4,83.1
+"Botina de Couro Isolada NR 10 (39,40,41,42)",5286987,154,20,ATIVO,PEÇAS,1070.8,53.54
+"Vestimenta Anti-Chama(Calça + Camisa manga longa) padrão para trabalhos em locais energizados com faixa refletiva (NR 10) (M, G, GG)",5286988,159,20,ATIVO,PEÇAS,6458.4,322.92
+"Cone De Sinalização De No Mínimo 700mm E No Máximo 760mm",5286989,160,40,ATIVO,PEÇAS,916,22.9
+"Relé Foto eletrônico para iluminação pública 1000w com retardo, garantia de 5 anos",5286990,171,33000,ATIVO,PEÇAS,343860,10.42
+"Relé Foto eletrônico para iluminação pública 1000w com retardo, garantia de 5 anos",5286991,172,2000,ATIVO,PEÇAS,20840,10.42
+"Placa de identificação para luminária pública em alumínio gravada em duas cores",5286992,181,31507,ATIVO,PEÇAS,543495.75,17.25
+"Placa de identificação para luminária pública em alumínio gravada em duas cores",5286993,182,3493,ATIVO,PEÇAS,60254.25,17.25
+"Braço para luminária iluminação pública 2m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 2mm",5769661,183,18764,ATIVO,PACOTE,1585558,84.5
+"Braço para luminária iluminação pública 2m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 2mm",5769662,184,646,ATIVO,PACOTE,54587,84.5
+"Luminária LED 190W",6086037,170,0,ATIVO,PEÇAS,0,470
+"Luminária LED 70W",6378790,162,0,ATIVO,PEÇAS,0,241.94

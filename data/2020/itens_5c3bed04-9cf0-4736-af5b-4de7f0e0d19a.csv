@@ -1,0 +1,23 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Termômetro clínico digital.",1267724,200,150,ATIVO,UNIDADE,1573.5,10.49
+"SORO GLICOFISIOLOGICO 500ml",1267725,187,1000,ATIVO,UNIDADE,3610,3.61
+"SORO GLICOFISIOLOGICO 250ml",1267726,186,1200,ATIVO,UNIDADE,3396,2.83
+"Sonda endotraqueal em PVC com balão nº8,5",1267728,167,30,ATIVO,UNIDADE,146.7,4.89
+"Sonda endotraqueal em PVC com balão nº6,5",1267753,163,100,ATIVO,UNIDADE,438,4.38
+"Sonda endotraqueal em PVC com balão nº4,5",1267754,159,60,ATIVO,UNIDADE,262.8,4.38
+"Sonda endotraqueal em PVC com balão nº5,5",1267776,161,80,ATIVO,UNIDADE,350.4,4.38
+"Sonda endotraqueal em PVC com balão nº 3,5",1267779,157,60,ATIVO,UNIDADE,257.4,4.29
+"Luva Cirúrgica estéril Nº. 8,0",1267780,119,500,ATIVO,PAR,625,1.25
+"Luva Cirúrgica estéril Nº. 7,5",1267781,118,2500,ATIVO,PAR,3125,1.25
+"Luva Cirúrgica estéril no.7,0.",1267782,117,2500,ATIVO,PAR,3125,1.25
+"Luva Cirúrgica estéril Nº. 6,5",1267783,116,2000,ATIVO,PAR,2500,1.25
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",1267784,54,1500,ATIVO,PACOTE,27668.4,18.4456
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",1267785,52,500,ATIVO,PACOTE,19593.35,39.1867
+"Agulhas hipodérmicas 30 X 8",1267786,8,180,ATIVO,CAIXA,1220.4,6.78
+"Agulhas hipodérmicas 25 X 8",1267787,7,120,ATIVO,CAIXA,814.8,6.79
+"Agulhas hipodérmicas 25 X 7",1267789,6,1200,ATIVO,CAIXA,8088,6.74
+"Agulhas hipodérmicas 13mmX4,5mm",1267790,3,250,ATIVO,CAIXA,1672.5,6.69
+"Agulhas hipodérmicas 20mmX5,5mm",1267799,4,360,ATIVO,CAIXA,2440.8,6.78
+"Especulo vaginal, descartável, estéril, sem lubrificação G",1267874,79,3000,ATIVO,UNIDADE,4050,1.35
+"Ataduras de Crepom 6cm",1267875,23,24000,ATIVO,UNIDADE,8880,0.37
+"Especulo vaginal, descartável, estéril, sem lubrificação P",1328355,80,18000,ATIVO,UNIDADE,14760,0.82

@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Recauchutagem de Pneu 750x16",0,2,VENCEU," ",416.36,208.18
+"Recauchutagem de pneu 750 x 15 borrachudo",0,6,VENCEU," ",1287.84,214.64
+"Recauchutagem de Pneu 1000x20  Borrachudo Radial",0,12,VENCEU," ",5297.76,441.48
+"Recauchutagem de Pneu 1000x20  Liso Radial",0,10,VENCEU," ",4343,434.3
+"Recauchutagem de Pneu 1000x20  Borrachudo Diagonal",0,12,VENCEU," ",5297.76,441.48
+"Recauchutagem de Pneu 1000x20 Liso Diagonal",0,10,VENCEU," ",4343,434.3
+"Recauchutagem de Pneu 900x20 Borrachudo Radial",0,6,VENCEU," ",1981.26,330.21
+"Recauchutagem de Pneu 900x20 Liso Diagonal",0,4,VENCEU," ",1306.52,326.63
+"Recauchutagem de Pneu 215/75 R17,5 Borrachudo",0,6,VENCEU," ",1421.34,236.89
+"Recauchutagem de Pneu 215/75 R17,5 Liso",0,6,VENCEU," ",1399.8,233.3
+"Recauchutagem de Pneu 275/80R22,5 Borrachudo",0,14,VENCEU," ",5527.48,394.82
+"Recauchutagem de Pneu 275/80R22,5 Liso",0,8,VENCEU," ",3101.12,387.64
+"Recauchutagem de Pneu 1300x24 12 Lonas",0,8,VENCEU," ",8298.48,1037.31
+"Recauchutagem de  Pneu 1400x24 16 Lonas",0,8,VENCEU," ",8298.48,1037.31
+"Recauchutagem de Pneu 17,5x25 L3 16 Lonas",0,12,VENCEU," ",11155.56,929.63
+"Recauchutagem de Pneu 19.5x24 12 Lonas Traseiro",0,2,VENCEU," ",2218.18,1109.09
+"Recauchutagem de Pneu12.5/ 80R18 Dianteiro",0,5,VENCEU," ",2853.5,570.7
+"Recauchutagem de Pneu 20,5x25 L3 16 Lonas",0,2,VENCEU," ",4881.44,2440.72
+"Serviço de vulcanização de pneus caminhões e Ônibus",0,50,VENCEU," ",5707,114.14
+"serviço de vulcanização de pneus equipamentos rodoviários",0,40,VENCEU," ",12864,321.6

@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",1265571,78,400,ATIVO,AMP,84.8,0.212
+"Cloreto de sódio 20%, ampola 10ml.",1265572,81,200,ATIVO,AMP,40,0.2
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",1265573,121,100,ATIVO,AMP,100,1
+"Glicose 25% , ampola 10ml.",1265574,131,2000,ATIVO,AMP,380,0.19
+"Glicose 50%, ampola 10ml.",1265575,132,1000,ATIVO,AMP,210,0.21
+"Lidocaina 2% + epinefrina  1:100.000 20 ml, frasco de vidro",1265576,168,350,ATIVO,"Frasco ampola",873.95,2.497
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",1265577,190,1000,ATIVO,AMP,7820,7.82
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",1265578,194,180,ATIVO,AMP,1062,5.9
+"Omeprazol 40mg, injetável, com diluente 10ml.",1265579,206,1000,ATIVO,"Frasco ampola",5600,5.6
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",1265592,50,10,ATIVO,FRASCO,195,19.5
+"Bicarbonato de sódio 8,4%, injetável, ampola 10ml.",1265594,41,200,ATIVO,AMP,115.4,0.577
+"Adenosina 3mg/mL, injetável, ampola 2ml.",1265617,11,1000,ATIVO,AMP,8500,8.5

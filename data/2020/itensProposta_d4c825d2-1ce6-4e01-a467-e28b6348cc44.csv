@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cadeira de rodas adulto   manual",4444135,6,VENCEU,UN,9390,1565
+"Foco auxiliar e ginecológico portátil, lâmpada LED, com espe",4444138,5,VENCEU,UNI,2450,490
+"Suporte de soro em aço inox",4444141,2,INABILITADO,UN,490,245
+"Carro de curativos em aço inox",4444142,4,VENCEU,UNI,2880,720
+"Autoclave esterilização a vapor",4444145,1,VENCEU,UNI,5650,5650
+"Foco Cirúrgico Auxiliar com tecnologia LED",4444149,1,INABILITADO,UN,17900,17900
+"Balança Eletrônica digital Adulto Obeso visor LED",4444151,1,VENCEU,UN,1089,1089
+"Detector de batimento cardíaco fetal digital portátil",4444154,2,PERDEU,UN,1300,650
+"Oftalmoscópio fibra ótica, iluminação LED",4444162,2,DESCLASSIFICADO,UNI,2200,1100
+"Negatoscópio de 1 corpo, de parede, iluminação LED",4444163,4,PERDEU,UN,1120,280
+"Otoscópio fibra ótica, com 5 espéculos reutilizáveis (Esteri",4444164,4,INABILITADO,CJ,2720,680
+"Ventilador turbo de coluna 50cm, 6 pás",4444170,4,VENCEU,UN,600,150
+"Aquecedor elétrico portátil",4444171,4,VENCEU,UN,320,80
+"Refrigerador tipo doméstico 1 porta, 220V",4444173,1,PERDEU,UN,1800,1800
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4444175,4,INABILITADO,UNI,2080,520
+"Aparelho de Ar Condicionado tipo Split HI-WALL 12.000 BTU/H,",4444179,23,PERDEU,UN,43470,1890
+"Aparelho de Ar Condicionado tipo Split HI-WALL 18.000 BTU/H,",4444180,10,PERDEU,UN,22500,2250
+"Aparelho de Ar Condicionado tipo Split HI-WALL 30.000 BTU/H,",4444181,1,PERDEU,UN,4420,4420
+"APARELHO TELEFONICO SEM FIO",4444186,4,DESCLASSIFICADO,UND,720,180
+"Aparelho telefônico convencional de mesa com fio",4444187,8,PERDEU,UN,448,56
+"Estrado de plástico vazado 50 cm x 50cm x 5 cm, com encaixes",4444191,70,VENCEU,UN,1750,25
+"Pallet em polietileno de alta densidade (PEAD)",4444192,30,VENCEU,UN,4500,150
+"Caixa gaveteiro plástico tipo Bin Nº 6, capac 8 lt",4444194,100,PERDEU,UN,2000,20
+"Caixa gaveteiro plástico tipo Bin Nº 5, capac 4 lt",4444195,100,PERDEU,UNI,900,9

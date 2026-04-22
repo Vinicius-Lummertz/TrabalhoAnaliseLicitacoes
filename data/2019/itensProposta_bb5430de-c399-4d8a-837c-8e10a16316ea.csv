@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anlodipino, besilato 5mg cpr, em blister.",4440920,1800000,DESCLASSIFICADO,COMP,54000,0.03
+"Cinarizina 75mg cpr, em blister.",4440959,250000,VENCEU,COMP,22500,0.09
+"Clopidogrel 75mg comprimido revestido, em blister.",4440968,180000,VENCEU,COMP,43200,0.24
+"Enalapril, maleato 10mg cpr, em blister.",4440996,2000000,DESCLASSIFICADO,COMP,98000,0.049
+"Enalapril, maleato 20mg cpr, em blister.",4440997,1000000,DESCLASSIFICADO,COMP,68000,0.068
+"Fluoxetina, cloridrato 20mg capsula, em blister.",4441019,2000000,DESCLASSIFICADO,CPLA,144000,0.072
+"Furosemida 40mg cpr, em blister.",4441022,680000,DESCLASSIFICADO,COMP,27200,0.04
+"Glibenclamida 5mg cpr, em blister.",4441023,1500000,DESCLASSIFICADO,COMP,39000,0.026
+"Gliclazida 30mg cpr liberação prolongada, em blister.",4441024,350000,VENCEU,COMP,49000,0.14
+"Hidroclorotiazida 25mg cpr, em blister.",4441034,2300000,PERDEU,COMP,30820,0.0134
+"Metoclopramida, cloridrato 10mg cpr, em blister.",4441076,200000,DESCLASSIFICADO,COMP,22000,0.11
+"Nortriptilina 50 mg capsula, em blister.",4441097,4000,VENCEU,CPLA,1520,0.38
+"Prednisona 20mg cpr.",4441111,400000,INABILITADO,COMP,68000,0.17
+"Prednisona 5mg cpr.",4441112,280000,INABILITADO,COMP,17080,0.061
+"Sinvastatina 20mg cpr, em blister.",4441124,1800000,CANCELADO,COMP,86400,0.048
+"Sinvastatina 40 mg cpr, em blister.",4441125,1500000,PERDEU,COMP,139500,0.093
+"Verapamil 80mg cpr, em blister.",4441144,500000,PERDEU,COMP,44500,0.089

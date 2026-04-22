@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"capa de transferencia .",1299246,10,10000,ATIVO,UNIDADE,2700,0.27
+CERTIFICADO,1303401,12,6000,ATIVO,UNIDADE,2100,0.35
+Convites.,1303402,13,800,ATIVO,UNIDADE,880,1.1
+"Cartões (Dia do Professor, Diretor)",1305420,11,2500,ATIVO,UNIDADE,850,0.34
+informativo,1305421,15,3000,ATIVO,UNIDADE,810,0.27
+AGENDA,1309490,2,300,ATIVO,UNIDADE,4200,14

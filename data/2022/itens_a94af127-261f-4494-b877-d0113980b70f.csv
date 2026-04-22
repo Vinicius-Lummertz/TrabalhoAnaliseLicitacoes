@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto com d = 300 mm",2336506,2,8500,ATIVO,METRO,202300,23.8
+"Tubo de concreto com d = 400 mm",2336507,3,8500,ATIVO,METRO,280500,33
+"Tubo de concreto com d = 500 mm",2336508,4,1500,ATIVO,METRO,63000,42
+"tubo de concreto D: 800 mm CA1",2336509,6,800,ATIVO,METRO,131600,164.5
+"tubo de concreto D: 1000 mm CA1",2336510,7,800,ATIVO,METRO,170400,213
+"Tubo de concreto para drenagem 1200mm PA2 - NBR",2336511,8,100,ATIVO,METRO,40300,403

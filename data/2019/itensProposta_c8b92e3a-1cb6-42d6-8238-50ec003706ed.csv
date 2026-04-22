@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta manga longa gola careca",0,608,PERDEU," ",11856,19.5
+"Camiseta manga curta em gola polo",0,608,PERDEU," ",15564.8,25.6
+"Macacão em brim pesado",0,8,PERDEU," ",1032,129
+"Calça em tecido brim pesado",0,540,PERDEU," ",19386,35.9
+"Jaleco em brim pesado manga longa",0,540,PERDEU," ",42660,79
+"Estampa em cor única (serigrafia)",0,2000,PERDEU," ",4000,2
+"Estampa em colorido (serigrafia)",0,2000,PERDEU," ",7000,3.5

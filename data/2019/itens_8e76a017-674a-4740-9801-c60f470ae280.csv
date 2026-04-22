@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"EXAME TOXICOLOGICO",1300405,2,15,ATIVO,UNIDADE,2700,180
+"Mudança de categoria de B/C para D",1318818,1,15,ATIVO,SERVIÇO,25950,1730

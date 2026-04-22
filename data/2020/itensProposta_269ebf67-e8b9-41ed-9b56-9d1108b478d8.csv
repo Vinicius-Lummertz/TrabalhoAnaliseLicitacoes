@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ataduras de Crepom 10cm",4444261,40000,VENCEU,UN,31720,0.793
+"Ataduras de Crepom 12cm",4444262,40000,VENCEU,UN,38080,0.952
+"Ataduras de Crepom 15cm",4444263,40000,PERDEU,UN,32760,0.819
+"Ataduras de Crepom 20cm",4444264,20000,PERDEU,UN,20780,1.039
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444292,900,VENCEU,PCT,77670,86.3
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444293,300,VENCEU,PCT,25890,86.3
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4444294,500,PERDEU,PCT,16590,33.18
+"Compressa de gaze (tipo queijo) em rolo",4444295,100,PERDEU,ROLO,6200,62
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4444296,1500,PERDEU,PCT,24720,16.48
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444297,503000,DESCLASSIFICADO,PCT,266590,0.53
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444298,97000,DESCLASSIFICADO,PCT,51410,0.53
+"Preservativos Masculinos de 52 mm, com lubrificante",4444373,250000,PERDEU,UN,62500,0.25

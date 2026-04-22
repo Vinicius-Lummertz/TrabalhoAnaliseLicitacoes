@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de Instalação dos abrigos, compreendendo terraplanagem, quando necessário, e execução de contrapiso em concreto de 4,5x2,5m",0,30,PERDEU," ",300000,10000
+"Abrigo de Ônibus Tipo I",0,50,PERDEU," ",500000,10000
+"Abrigo de Ônibus tipo II",0,30,PERDEU," ",300000,10000
+"Abrigo de ônibus metálico sem cobertura",0,10,PERDEU," ",100000,10000
+"Cobertura de Abrigo metálico (telhado)",0,60,PERDEU," ",600000,10000
+"Painel de fundos para abrigos de ônibus, confeccionado em chapas inteiriças de 3750x1000mm, com plotagem",0,20,PERDEU," ",200000,10000
+"Banco para abrigo de ônibus em madeira de lei, com tubos de 2",0,40,PERDEU," ",400000,10000

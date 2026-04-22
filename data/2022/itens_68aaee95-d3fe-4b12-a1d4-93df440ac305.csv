@@ -1,0 +1,143 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guarnição Silicone 9,0x11mm",2503023,1,3,ATIVO,MT,201.75,67.25
+"Mangueira montada com 1500 mmct VPS 3/4"" para alta temperatura 300ºC",2503024,2,1,ATIVO,UNIDADE,699.5,699.5
+"Mangueira PU 6mm azul",2503025,3,3,ATIVO,MTS,54.9,18.3
+"Mangueria 1/2"" cristal trançada 250 PSI",2503026,4,10,ATIVO,MTS,147.5,14.75
+"Sensor de temperatura PT-100 3 fios para autoclave HS250L da",2503027,5,2,ATIVO,UNIDADE,1389.6,694.8
+"Valvula de segurança 12,7 x 12,7 M/F 50 PSI para autoclave Sercon",2503028,6,2,ATIVO,UNIDADE,1899.8,949.9
+"Valvula de Segurança Termostatica para autoclave AHMC5 e AHMC10, Sercon",2503029,7,30,ATIVO,UNIDADE,1432.5,47.75
+"Resistencia bujão 5000W 220/380V 400mm",2503030,8,3,ATIVO,UNIDADE,1184.85,394.95
+"Kit de reparo FV-158959 em viton",2503031,9,4,ATIVO,UNIDADE,2339.6,584.9
+"Conector sindal barra c/ 12 entradas",2503032,10,2,ATIVO,UNIDADE,29.98,14.99
+"Suporte para uma carcaça de 5 e 10x2,1/2",2503033,11,1,ATIVO,UNIDADE,47.7,47.7
+"Carcaça para filtro 10x2,1/2 com rosca de 1/2""",2503034,12,1,ATIVO,UNIDADE,129.5,129.5
+"Manometro de painel 0-7kg/cm2 para autoclave",2503035,13,1,ATIVO,UNIDADE,394.99,394.99
+"Manovacuometro de painel -1-6kg/cm2 para autoclave",2503036,14,1,ATIVO,UNIDADE,449.85,449.85
+"Guarnição de silicone 12,0 x 13,0 mm",2503037,15,3,ATIVO,MTS,343.5,114.5
+"Rele de Estado Solido 40A de 200-240 V p/ autoclave AHMC10, Sercon",2503038,16,15,ATIVO,UNIDADE,3149.85,209.99
+"Lâmpada de LED Par 20 220V 7W - E27 para foco ginecológico",2503039,17,15,ATIVO,UNIDADE,895.5,59.7
+"Lâmpada dicróica 15V - 150W GZ6,35 para Colposcópio DF Vasconcelos",2503040,18,2,ATIVO,UNIDADE,248,124
+"Sensor tipo Soft adulto compativel com monitor modelo DX2022 da Dixtal",2503041,19,2,ATIVO,UNIDADE,789.98,394.99
+"Valvula de Segurança 1/4 BSP Calibrada em 43 PSI para autoclave AHMC5 e AHMC10, Sercon",2503042,20,10,ATIVO,UNIDADE,1786,178.6
+"Porca latão 1/4""",2503043,21,30,ATIVO,UNIDADE,217.5,7.25
+"Lâmpada 3V com rosca fina para Otoscópio TK / MIKATOS",2503044,22,50,ATIVO,UNIDADE,4670,93.4
+"Braçadeira de pressão em aço galvanizado 3/4""",2503045,23,20,ATIVO,UNIDADE,38.8,1.94
+"Braçadeira de nylon com velcro adulto com manguito em pvc 2 vias para esfigmomanômetro",2503046,24,200,ATIVO,UNIDADE,5300,26.5
+"Braço do metro para balança antropométrica",2503047,25,10,ATIVO,UNIDADE,519.9,51.99
+"Metro gravado em alumínio para balança antropométrica",2503048,26,10,ATIVO,UNIDADE,1449,144.9
+"Célula de Carga para balança digital até 250Kg",2503049,27,2,ATIVO,UNIDADE,1229,614.5
+"Celula de carga para balança 30kg",2503050,28,2,ATIVO,UNIDADE,699.5,349.75
+"Cabo flexivel 2,5mm com isolamento em silicone 750V",2503051,29,30,ATIVO,MTS,222,7.4
+"Cabo flexivel 20A PP com plug injetado 2P+T macho",2503052,30,5,ATIVO,UNIDADE,270.5,54.1
+"Cabo flexivel 2,5A PP com 1,8m com plug injetado 2P+T macho e femea",2503053,31,5,ATIVO,UNIDADE,224.5,44.9
+"Cabo flexivel 10A PP com 1,5m com plug injetado 2P+T macho e femea",2503054,32,5,ATIVO,UNIDADE,324.95,64.99
+"Cabo flexivel 2 x 0,20mm RCA emborrachado",2503055,33,10,ATIVO,MT,179,17.9
+"Pêra de Látex para Esfigmomanômetro",2503056,34,100,ATIVO,UNIDADE,855,8.55
+"Vávula de deflação com regulador para Esfigmomanômetro",2503057,35,100,ATIVO,UNIDADE,1030,10.3
+"Transdutor 2MHz para detector fetal DF-7000/DF-7001 da Medpej",2503058,36,5,ATIVO,UNIDADE,1789.95,357.99
+"Cabo de ECG 10 Vias compativel com eletrocardiógrafo TC10 Philips",2503059,37,2,ATIVO,UNIDADE,2399,1199.5
+"Cabo de ECG 10 Vias compativel com eletrocardiógrafo SE1201 Edan",2503060,38,2,ATIVO,UNIDADE,2399,1199.5
+"Resistência tipo “W” – 220 V - 2200 W para autoclave AHMC10, Sercon",2503061,39,10,ATIVO,UNIDADE,3298,329.8
+"Guarnição de silicone para Autoclave AHMC5 e AHMC10, Sercon",2503062,40,30,ATIVO,UNIDADE,3599.7,119.99
+"Placa de Comando padrão  modelos com reservatório da linha Table Top, Sercon",2503063,41,7,ATIVO,UNIDADE,10499.93,1499.99
+"Sensor de temperatura tipo PT-100 bulbo liso para Autoclave AHMC5 e AHMC10, Sercon",2503064,42,10,ATIVO,UNIDADE,3047.5,304.75
+"Cabo de ECG 10 Vias compativel com eletrocardiógrafo EP-12, Dixtal",2503065,43,1,ATIVO,UNIDADE,1121.2,1121.2
+"Caneta monopolar autoclavavel para bisturi elétrico com comando no pedal",2503066,44,5,ATIVO,UNIDADE,1099.95,219.99
+"Lâmpada 2,5V- Ref. 01200 p/ oftalmoscópio da Welch Allyn",2503067,45,1,ATIVO,UNIDADE,394.99,394.99
+"Lâmpada 12V / 30W – Ref. 64260",2503068,46,1,ATIVO,UNIDADE,187.8,187.8
+"Assento para cadeira de rodas em courvin",2503069,47,5,ATIVO,UNIDADE,924.5,184.9
+"Teclado membrana para detector fetal modelo DF-7000D da Medpej",2503070,48,5,ATIVO,UNIDADE,1124.75,224.95
+"Membrana Osmose Reversa TW30-1812-100",2503071,49,2,ATIVO,UNIDADE,795.5,397.75
+"Elemento Filtrante Polipropileno Liso 10x2.1/2x5",2503072,50,12,ATIVO,UNIDADE,714,59.5
+"Anilha de latão 1/4",2503073,51,50,ATIVO,UNIDADE,170,3.4
+"Anilha de latão 3/8",2503074,52,50,ATIVO,UNIDADE,155,3.1
+"Tubo de cobre 1/4""",2503075,53,10,ATIVO,MTS,272.5,27.25
+"Detergente enzimatico para autoclaves",2503076,54,2000,ATIVO,MILILITRO,600,0.3
+"Elemento Filtrante Carvão ativado 10x2.1/2x5",2503077,55,12,ATIVO,UNIDADE,903.6,75.3
+"Transdutor para detector fetal MS101, Sigmed",2503078,56,5,ATIVO,UNIDADE,1299.95,259.99
+"Transdutor para detector fetal DF-4000, Medpej",2503079,57,5,ATIVO,UNIDADE,1429.5,285.9
+"Placa  Eletronica para Detector Fetal Microem",2503080,58,5,ATIVO,UNIDADE,1591.75,318.35
+"Bateria recarregável de NICAD 3,5V para otoscópio modelo 72300 da Welch Allyn",2503081,59,1,ATIVO,UNIDADE,394.99,394.99
+"Lâmpada MACRO 1019 Para Lâmpada de Fenda",2503082,60,1,ATIVO,UNIDADE,359.85,359.85
+"Cabo de ECG 5 vias compatível com monitor Dixtal",2503083,61,2,ATIVO,UNIDADE,869.98,434.99
+"Papel Termossencível para ECG compatível com modelo TC10 da",2503084,62,50,ATIVO,UNIDADE,1990,39.8
+"Papel Termossencível para ECG compatível com modelo SE1201 d",2503085,63,50,ATIVO,UNIDADE,4742.5,94.85
+"Lâmpada infravermelho 220 V - 150 W para fisioterapia",2503086,64,1,ATIVO,UNIDADE,178.4,178.4
+"Guarnição de silicone para Autoclave Quadra 21, Cristófoli",2503087,65,2,ATIVO,UNIDADE,339.6,169.8
+"Pino para Selo Segurança, Cristofoli",2503088,66,5,ATIVO,UNIDADE,74.95,14.99
+"Selo segurança para porta, Cristófoli",2503089,67,10,ATIVO,UNIDADE,199.9,19.99
+"Pino anti vacuo, Cristófoli",2503090,68,5,ATIVO,UNIDADE,124.95,24.99
+".Encosto para cadeira de rodas em courvin",2503091,69,5,ATIVO,UNIDADE,924,184.8
+"Soquete para lâmpada dicroica 240V",2503092,70,15,ATIVO,UNIDADE,244.5,16.3
+"Conjunto completo manopla para autoclave horizontal da Sterm",2503093,71,10,ATIVO,UNIDADE,2222,222.2
+"kit de válvula superior para autoclave modelos 30 a 75L AHA",2503094,72,2,ATIVO,UNIDADE,467,233.5
+"Filtro bacteriano / viral eletrostatico com traqueia com efi",2503095,73,50,ATIVO,UNIDADE,1899.5,37.99
+"Eletrodo tipo ponta agulha curva 0,5x55mm para bisturi elétr",2503096,74,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo alça 10x25x120mm para bisturi elétrico modelo",2503097,75,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo alça 15x10x120mm para bisturi elétrico modelo",2503098,76,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo alça 30x10x120mm para bisturi elétrico",2503099,77,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo alça 8,0x120mm para bisturi elétrico",2503100,78,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo faca reta 70mm para bisturi elétrico",2503101,79,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo bola 5,5mm para bisturi elétrico",2503102,80,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo alça 7,0x70mm para bisturi elétrico",2503103,81,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo bola 4,0x70mm para bisturi elétrico",2503104,82,5,ATIVO,UNIDADE,473.75,94.75
+"Eletrodo tipo baioneta - bola 4,5x180mm para bisturi elétric",2503105,83,5,ATIVO,UNIDADE,473.75,94.75
+"Especulo tamanho M para aspirador de vapores modelo Wavevac",2503106,84,1,ATIVO,UNIDADE,294.5,294.5
+"Chave tipo alavanca on/off 20A 250V",2503107,85,15,ATIVO,UNIDADE,974.85,64.99
+"Bocal de porcelana 220V E-27",2503108,86,10,ATIVO,UNIDADE,129.9,12.99
+"Rodízio dianteiro para cadeira de rodas",2503109,87,6,ATIVO,UNIDADE,448.8,74.8
+"Roda trazeira com pneu maciço aro 24",2503110,88,6,ATIVO,UNIDADE,1079.94,179.99
+"Chave tipo alavanca on/off 10A 250V",2503111,89,20,ATIVO,UNIDADE,1297,64.85
+"Plug 2P+T 10A 250V",2503112,90,50,ATIVO,UNIDADE,749.5,14.99
+"kit válvula para nebulizador Olidef",2503113,91,5,ATIVO,UNIDADE,374.95,74.99
+"chave micro interruptor 5A",2503114,92,10,ATIVO,UNIDADE,318,31.8
+"Alto falante 8 ohms - 5W",2503115,93,2,ATIVO,UNIDADE,39.98,19.99
+"Tampa do cabeçote para nebulizador Olidef / Inalamed",2503116,94,2,ATIVO,UNIDADE,483.2,241.6
+"Pack de bateria Ni-Mh 4,8V 2500mAh para oxímetro de pulso mo",2503117,95,2,ATIVO,UNIDADE,319,159.5
+"Fonte chaveada 110/220Vac - 12Vdc 1A",2503118,96,15,ATIVO,UNIDADE,1132.5,75.5
+"Lã de vidro 200/38mm densidade 12kg/m3",2503119,97,20,ATIVO,"METRO QUADRADO",1259.8,62.99
+"Manômetro 1/8 BSP 0 a 4 kgF/cm2 para autoclave modelo  Horizontal da Stermax",2503120,98,1,ATIVO,UNIDADE,144.95,144.95
+"Filtro para nebulizador Nevoni",2503121,99,20,ATIVO,UNIDADE,99.8,4.99
+"Solenoide 220V 9W",2503122,100,25,ATIVO,UNIDADE,3690,147.6
+"Pedal pé elevável, para cadeira de rodas",2503123,101,4,ATIVO,PAR,779.96,194.99
+"Braçadeira para PNI em Nylon 2 vias compatível com monitor m",2503124,102,3,ATIVO,UNIDADE,220.2,73.4
+"Suporte para 2 pilhas AA com fio",2503125,103,2,ATIVO,UNIDADE,11.2,5.6
+"Manopla 7/8 para cadeira de rodas",2503126,104,8,ATIVO,UNIDADE,95.92,11.99
+"Válvula redutora com manometro para cilindro de O2",2503127,105,15,ATIVO,UNIDADE,4424.85,294.99
+"Fonte chaveada 110/220Vac 9Vdc 1A",2503128,106,25,ATIVO,UNIDADE,1480,59.2
+"Compressor 1/3 HP R134 220V para câmara de vacinas",2503129,107,2,ATIVO,UNIDADE,1699.98,849.99
+"Gás refrigerante R134A - lata de 750g para câmara de vacinas",2503130,108,10,ATIVO,UNIDADE,1199,119.9
+"Filtro secador 1 x 1/4 x 3/16 100mm para câmara de vacinas",2503131,109,15,ATIVO,UNIDADE,386.25,25.75
+"Gaxeta 132 X 65CM encaixe para câmara de vacinas",2503132,110,10,ATIVO,UNIDADE,2749.9,274.99
+"Válvula de serviço Schrader 1/4 para câmara de vacinas",2503133,111,15,ATIVO,UNIDADE,231,15.4
+"Termostato de proteção para câmara de vacinas",2503134,112,10,ATIVO,UNIDADE,2749.9,274.99
+"Bateria estacionária 12V 180Ah para câmara de vacinas",2503135,113,6,ATIVO,UNIDADE,10679.94,1779.99
+"bateria estacionaria 12 V 50Ah para camera de vacinas",2503136,114,5,ATIVO,UNIDADE,2724.25,544.85
+"Lâmpada para laringoscópio rosca grossa",2503137,115,5,ATIVO,UNIDADE,434.75,86.95
+"Cabo para otoscópio em metal 2,5V compatível com modelo VISI",2503138,116,15,ATIVO,UNIDADE,3674.25,244.95
+"Cabo para otoscópio em metal 2,5V compatível com modelo MARK",2503139,117,15,ATIVO,UNIDADE,2729.85,181.99
+"Lâmpada LED GU 10 6500K 3W / 4W 220V",2503140,118,20,ATIVO,UNIDADE,795,39.75
+"bateia 3V litium referencia CR17345, pacote com 10 unidades para uso no DEA do ZOLL",2503141,119,8,ATIVO,PACOTE,3599.92,449.99
+"Pás descartáveis  ADULTO, modelo  CPR STAT PADZ, compatíveis",2503142,120,6,ATIVO,PAR,11099.94,1849.99
+"Pás descartáveis  INFANTIL, modelo  CPR STAT PADZ, compatíve",2503143,121,4,ATIVO,PAR,8219.6,2054.9
+"Válvula reguladora para rede de O2",2503144,122,5,ATIVO,UNIDADE,1251.5,250.3
+"Fluxômetro 0-15 LPM, fêmea, para O2",2503145,123,15,ATIVO,UNIDADE,1276.5,85.1
+"Bateria 12V 7,2A ref. UP1272",2503146,124,1,ATIVO,UNIDADE,189.65,189.65
+"Lâmpada halógena 26V 150W G6,35",2503147,125,2,ATIVO,UNIDADE,240.9,120.45
+"Potenciômetro 10K A (Log) com haste de ferro com chave on/of",2503148,126,10,ATIVO,UNIDADE,218,21.8
+"Bateria 12V 2,3Ah Ref. UP1223 ou EP1223",2503149,127,1,ATIVO,UNIDADE,144.99,144.99
+"pás descartável compatível com DEA, marca Nihon Khoden, modelo AED - 3100",2503150,128,5,ATIVO,PAR,4749.75,949.95
+"Capacitor 10uf/400w/5% p/partida",2503151,129,2,ATIVO,UNIDADE,45.5,22.75
+"Espéculos descartáveis 2,5mm para Otoscópio ADC / MD, caixa",2503152,130,2,ATIVO,CAIXA,209.98,104.99
+"Espéculos descartáveis 4,0mm para Otoscópio ADC / MD, caixa",2503153,131,2,ATIVO,CAIXA,209.98,104.99
+"Lâmpada 6V 4,5A referência BT366 para Lâmpada de Fenda",2503154,132,1,ATIVO,UNIDADE,298.6,298.6
+"Termostato T40 com cobertura para autoclaves da linha Table",2503155,133,20,ATIVO,UNIDADE,1965,98.25
+"Reator Eletrônico 220V - 2x20W",2503156,134,5,ATIVO,UNIDADE,199,39.8
+"Lâmpada fluorescente tubular T8 15W 220V",2503157,135,10,ATIVO,UNIDADE,199,19.9
+"Manipulo baquelite para autoclaves da linha Table Top da Ser",2503158,136,10,ATIVO,UNIDADE,4874.5,487.45
+"Diafragma da válvula expiratória para ventilador pulmonar mo",2503159,137,8,ATIVO,UNIDADE,2319.92,289.99
+"valvula expiratoria para ventilador pulmonar modelço oxymag da magnamed",2503160,138,2,ATIVO,UNIDADE,1349.8,674.9
+"Linha de amostra para ventilador pulmonar modelo Oxymag da M",2503161,139,4,ATIVO,UNIDADE,1019.96,254.99
+"Traqueia em silicone autoclavável 22 x 1200 mm para uso em v",2503162,140,4,ATIVO,UNIDADE,939.4,234.85
+"Conector Y  adulto autoclavavel para circuito respiratório p",2503163,141,2,ATIVO,UNIDADE,169.98,84.99
+"Sensor de fluxo adulto para ventilador pulmonar modelo Oxyma",2503164,142,2,ATIVO,UNIDADE,729.7,364.85

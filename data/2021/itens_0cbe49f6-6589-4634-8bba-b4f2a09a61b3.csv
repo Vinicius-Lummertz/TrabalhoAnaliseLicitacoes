@@ -1,0 +1,40 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ACETILCISTEINA 600MG/ENV5GR.",2218821,1,50000,ATIVO,SACHE,30000,0.6
+"Ácido folinico 15mg (folinato de cálcio) cpr, em blister.",2218822,8,10000,ATIVO,COMPRIMIDO,12400,1.24
+"Água destilada 5mL ampola.",2218823,16,10000,ATIVO,AMP,3400,0.34
+"Anlodipino, besilato 5mg cpr, em blister.",2218824,31,2000000,ATIVO,COMPRIMIDO,50600,0.0253
+"Benzilpenicilina Benzatina 600.000 UI.",2218825,41,1000,ATIVO,"Frasco ampola",9000,9
+"Brometo de N-butilescopolamina 20mg/mL injetável, ampola 1ml",2218826,47,5000,ATIVO,AMP,7550,1.51
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500mg, injetável, ampola 5ml.",2218827,48,15000,ATIVO,AMPOLA,40500,2.7
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",2218828,55,1800000,ATIVO,COMPRIMIDO,338400,0.188
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",2218829,56,3000,ATIVO,FRASCO,26370,8.79
+"Carvedilol 12,5 mg cpr, em blister.",2218830,61,200000,ATIVO,COMPRIMIDO,21800,0.109
+"Claritromicina 500mg comprimido, em blister.",2218831,73,15000,ATIVO,COMPRIMIDO,35700,2.38
+"Clindamicina 300mg capsula, em blister.",2218832,74,10000,ATIVO,CAPSULA,11100,1.11
+"Cloreto de sódio 0,9%, ampola 10ml.",2218833,85,4000,ATIVO,AMP,1360,0.34
+"Cloreto de sódio 20%, ampola 10ml.",2218834,86,600,ATIVO,AMP,234,0.39
+"Clorpromazina, cloridrato 100mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2218835,87,420000,ATIVO,COMPRIMIDO,100800,0.24
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola 2,5mL.",2218836,93,24000,ATIVO,AMPOLA,59760,2.49
+"Diazepam 10mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2218837,95,1200000,ATIVO,COMPRIMIDO,93600,0.078
+"Diazepam 5mg cpr. Acondicionado de forma unitarizada, delimitada por picotes,  constando em cada unidade de comprimido a seguinte informação: nome do princípio ativo, dosagem, lote e validade.",2218838,96,50000,ATIVO,COMPRIMIDO,3450,0.069
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",2218839,98,25000,ATIVO,AMP,20500,0.82
+"Dimenidrato 50mg + piridoxina 50mg/mL, injetável, ampola 1ml.",2218840,101,14000,ATIVO,AMPOLA,23240,1.66
+"Dipirona 500mg/ml, injetável, ampola 2ml.",2218841,105,30000,ATIVO,AMP,20100,0.67
+"Fenobarbital 40mg/mL - solução oral- 20ml, frasco de vidro âmbar.",2218842,124,3000,ATIVO,FRASCO,11850,3.95
+"Fluoxetina, cloridrato 20mg capsula, em blister.",2218843,132,2000000,ATIVO,CAPSULA,133800,0.0669
+"Glibenclamida 5mg cpr, em blister.",2218844,136,1800000,ATIVO,COMPRIMIDO,37800,0.021
+"Glicose 25% , ampola 10ml.",2218845,138,2000,ATIVO,AMP,1000,0.5
+"Haloperidol, decanoato 70,52mg/mL, injetável, ampola 1ml.",2218846,144,10000,ATIVO,AMP,50500,5.05
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",2218847,157,280000,ATIVO,COMPRIMIDO,73640,0.263
+"Ivermectina 6mg cpr, em blister.",2218848,160,30000,ATIVO,COMPRIMIDO,11370,0.379
+"Lidocaina 2% + epinefrina 1:200.000 20ml, frasco de vidro.",2218849,176,5000,ATIVO,"Frasco ampola",31000,6.2
+"Medroxiprogesterona 150mg/mL, injetável, ampola 1ml.",2218850,183,3000,ATIVO,AMP,27900,9.3
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",2218851,199,2000,ATIVO,AMPOLA,11999.8,5.9999
+"Nitrofurantoína 100 mg capsula, em blister.",2218852,208,2000,CANCELADO,CAPSULA,400,0.2
+"norepinefrina 2mg/ml, injetável, ampola 4ml.",2218853,210,2000,ATIVO,AMPOLA,10500,5.25
+"Salbutamol 0,5mg/mL, injetável, ampola 1ml.",2218854,236,200,ATIVO,AMP,370,1.85
+"Tenoxicam 20 mg pó para solução injetável endovenoso e intra",2218855,249,1500,ATIVO,"Frasco ampola",10650,7.1
+"Tramadol, cloridrato 50mg capsula, em blister.",2218856,254,300000,ATIVO,COMPRIMIDO,48600,0.162
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",2218857,255,12000,ATIVO,AMP,16800,1.4
+"vancomicina 500mg, injetável, frasco ampola.",2218858,257,5000,ATIVO,"Frasco ampola",22500,4.5
+"Verapamil 80mg cpr, em blister.",2218859,259,700000,ATIVO,COMPRIMIDO,77000,0.11

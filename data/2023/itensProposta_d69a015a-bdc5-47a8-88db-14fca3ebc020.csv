@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Troféu MDF ou Metal (45cm x 20cm)",11541138,30,VENCEU," ",1350,45
+"Troféu MDF ou Metal (35cm x 20cm)",11541138,30,VENCEU," ",1200,40
+"Troféu MDF ou Metal (30cm x 18cm)",11541138,30,VENCEU," ",1050,35
+"Troféu MDF ou Metal (20cm x 18cm)",11541138,60,VENCEU," ",1500,25
+"Troféu MDF ou Metal (50cm x 25cm)",11541138,12,VENCEU," ",720,60
+"Troféu MDF ou Metal (40cm x 25cm)",11541138,12,VENCEU," ",573.6,47.8
+"Troféu MDF ou Metal (30cm x 20cm)",11541138,12,VENCEU," ",456,38
+"Medalha Metal (8cm x 8cm x 3mm)",11541138,900,VENCEU," ",6300,7
+"Medalha Metal (5cm x 5cm x 3mm)",11541138,1500,VENCEU," ",6750,4.5

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Gás R22 (carga).",8347618,160,PERDEU," ",15124.11,94.5257
+"Gas R410 A (carga).",8347618,450,PERDEU," ",43925.18,97.6115
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",8347618,920,PERDEU," ",78261.09,85.0664
+"Limpeza completa do ar split com retirada do aparelho",8347618,350,PERDEU," ",34168.64,97.6247
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos",8347618,780,PERDEU," ",60520.98,77.591

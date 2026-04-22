@@ -1,0 +1,140 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Armação secundária AR 22 galvanizada a fogo",0,110,VENCEU," ",1107.7,10.07
+"Base para relé fotoeletrônico",0,3300,VENCEU," ",20064,6.08
+"Braço para luminária iluminação pública 2mt de com",0,550,VENCEU," ",21109,38.38
+"Braço para luminária iluminação pública com 4,0mt de com",0,330,VENCEU," ",39969.6,121.12
+"Braço para luminária iluminação pública comum 1m de com",0,1100,VENCEU," ",18480,16.8
+"Braço para luminária iluminação pública especial 1,5mt de co",0,550,VENCEU," ",20806.5,37.83
+"Braço para luminária iluminação pública especial com 3,0m",0,1650,VENCEU," ",120153,72.82
+"Cabo Aluminio Multiplexado 8,7/15KV 1x1x16+1+16mm Monofasico",0,2200,VENCEU," ",4334,1.97
+"Cabo Aluminio Multiplexado 8,7/15KV 1x1x25+1+25mm Monofasico",0,1730,VENCEU," ",5449.5,3.15
+"Cabo Aluminio Multiplexado 8,7/15KV 3x1x10+1+10mm Trifasico",0,2200,VENCEU," ",6908,3.14
+"Cabo Aluminio Multiplexado 8,7/15KV 3x1x16+1+16mm Trifasico",0,1650,VENCEU," ",7161,4.34
+"Cabo Aluminio Multiplexado 8,7/15KV 3x1x25+1+25mm Trifasico",0,1320,VENCEU," ",8949.6,6.78
+"Cabo Aluminio Multiplexado 8,7/15KV XLPE 1x1x10+1+10mm Monof",0,2200,VENCEU," ",3058,1.39
+"Cabo de cobre, isolamento 1kV, bitola 10 mm2",0,2200,VENCEU," ",6710,3.05
+"Cabo de cobre, isolamento 1kV, bitola 16 mm²",0,2200,VENCEU," ",10164,4.62
+"Cabo de cobre, isolamento 1kV, bitola 2,5 mm2",0,2200,VENCEU," ",2222,1.01
+"Cabo de cobre, isolamento 1kV, bitola 25 mm²",0,1650,VENCEU," ",11896.5,7.21
+"Cabo de cobre, isolamento 1kV, bitola 35 mm²",0,1650,VENCEU," ",16533,10.02
+"Cabo de cobre, isolamento 1kV, bitola 4 mm2",0,2200,VENCEU," ",3168,1.44
+"Cabo de cobre, isolamento 1kV, bitola 6 mm2",0,2200,VENCEU," ",4026,1.83
+"Cabo Flexivel, bitola 1,5 mm2 Isolamento 750 V",0,16500,VENCEU," ",7425,0.45
+"Cabo Flexivel, bitola 2,5 mm2 Isolamento 750 V",0,16500,VENCEU," ",12045,0.73
+"Cabo Flexivel, bitola 4,0 mm2 Isolamento 750 V",0,8800,VENCEU," ",10032,1.14
+"Cabo Flexivel, bitola 6 mm2 Isolamento 750 V",0,5500,VENCEU," ",9130,1.66
+"Cabo PP, de cobre, bitola 2 x 2,5mm, isolamento 1KV",0,5500,VENCEU," ",10890,1.98
+"Cabo PP, de cobre, bitola 4 x 2,5mm, isolamento 1KV",0,5500,VENCEU," ",19525,3.55
+"Caixa de concreto 30x30",0,44,VENCEU," ",1316.04,29.91
+"Caixa de concreto 40x40",0,44,VENCEU," ",1992.76,45.29
+"Caixa de medição monofásica em policarbonato, padrão CELESC",0,33,VENCEU," ",926.31,28.07
+"Caixa de medição trifásica em policarbonato, padrão CELESC.",0,33,VENCEU," ",2759.79,83.63
+"Cartucho Solda Conexão Exotérmica, nº 65",0,132,VENCEU," ",814.44,6.17
+"Chave para iluminação pública Bipolar 50 amperes",0,33,VENCEU," ",5914.92,179.24
+"Chave para iluminação pública unipolar 50 amperes",0,33,VENCEU," ",5115.66,155.02
+"Cinta circular para poste com dois parafusos e porca 160mm,",0,550,VENCEU," ",7293,13.26
+"Cinta circular para poste com dois parafusos e porca 170mm,",0,550,VENCEU," ",7700,14
+"Cinta circular para poste com dois parafusos e porca 180mm,",0,550,VENCEU," ",7881.5,14.33
+"Cinta circular para poste com dois parafusos e porca 190mm,",0,550,VENCEU," ",7969.5,14.49
+"Cinta circular para poste com dois parafusos e porca 200mm,",0,550,VENCEU," ",8398.5,15.27
+"Cinta circular para poste com dois parafusos e porca 210mm,",0,550,VENCEU," ",8497.5,15.45
+"Cinta circular para poste com dois parafusos e porca 220mm,",0,550,VENCEU," ",8679,15.78
+"Cinta circular para poste com dois parafusos e porca 230mm,",0,550,VENCEU," ",8805.5,16.01
+"Cinta circular para poste com dois parafusos e porca 240mm,",0,550,VENCEU," ",8877,16.14
+"Cinta circular para poste com dois parafusos e porca 250mm,",0,550,VENCEU," ",9498.5,17.27
+"Conector cunha de alumínio ampactinho tipo B (LARANJA)",0,880,VENCEU," ",2631.2,2.99
+"Conector cunha de alumínio ampactinho tipo II (VERDE)",0,880,VENCEU," ",1663.2,1.89
+"Conector cunha de alumínio ampactinho tipo III (VERMELHO)",0,880,VENCEU," ",1188,1.35
+"Conector cunha de alumínio ampactinho tipo IV (AZUL)",0,880,VENCEU," ",1188,1.35
+"Conector cunha de alumínio ampactinho tipo V (AMARELO)",0,880,VENCEU," ",1188,1.35
+"Conector perfurante (piercing) 10/70mm",0,1100,VENCEU," ",3498,3.18
+"Contator com bobina 220V para 100 A Regime AC3",0,17,VENCEU," ",6524.6,383.8
+"Contator com bobina 220V para 25 A Regime AC3",0,27,VENCEU," ",1211.22,44.86
+"Contator com bobina 220V para 50 A Regime AC3",0,22,VENCEU," ",3949.88,179.54
+"Cruzeta de concreto 2,40 mts",0,38,VENCEU," ",3598.6,94.7
+"Curva de aço galvanizado a fogo 1.1/2,  90°, NBR 5598",0,22,VENCEU," ",387.2,17.6
+"Curva de aço galvanizado a fogo 1.1/4,  90°, NBR 5598",0,22,VENCEU," ",282.92,12.86
+"Curva de aço galvanizado a fogo 2,  90°, NBR 5598",0,22,VENCEU," ",593.34,26.97
+"Curva de aço galvanizado a fogo 3, 90°, NBR 5598",0,22,VENCEU," ",1752.3,79.65
+"Curva de aço galvanizado a fogo 4, 90°, NBR 5598",0,22,VENCEU," ",3607.78,163.99
+"Eletroduto corrugado flexivel Kanaflex  2",0,6600,VENCEU," ",12606,1.91
+"Eletroduto corrugado flexivel Kanaflex 1.1/2",0,6600,VENCEU," ",10758,1.63
+"Eletroduto corrugado flexivel Kanaflex 1.1/4",0,6600,VENCEU," ",8382,1.27
+"Eletroduto de aço galvanizado a fogo 1.1/2x6mt, NBR 5598",0,130,VENCEU," ",21383.7,164.49
+"Eletroduto de aço galvanizado a fogo 1.1/4x6mt, NBR 5598",0,130,VENCEU," ",16199.3,124.61
+"Eletroduto de aço galvanizado a fogo 2x6mt, NBR 5598",0,165,VENCEU," ",31087.65,188.41
+"Eletroduto de aço galvanizado a fogo 3x6mt, NBR 5598",0,165,VENCEU," ",51813.3,314.02
+"Eletroduto de aço galvanizado a fogo 4x6mt, NBR 5598",0,165,VENCEU," ",76485.75,463.55
+"Fita isolante - 20m - preta",0,1100,VENCEU," ",3608,3.28
+"Fita isolante de alta fusão pvc",0,130,VENCEU," ",1489.8,11.46
+"Haste aterramento 5/8 2,4mt com conector alta camada de co",0,220,VENCEU," ",7040,32
+"Lâmpada multivaporer metálico 1000w, bulbo tubolar, E-40, vi",0,65,VENCEU," ",7588.1,116.74
+"Lâmpada multivaporer metálico 2.000W, tubolar, E-40, vida út",0,45,VENCEU," ",23304.6,517.88
+"Lâmpada multivaporer metálico 400w, bulbo tubolar, E-40, vid",0,550,VENCEU," ",18859.5,34.29
+"Lâmpada multivapores metálico 250w, bulbo tubolar, E-40, vid",0,550,VENCEU," ",16830,30.6
+"Lâmpada multivapores metálicos 150w, vida útil mínima de 12",0,550,VENCEU," ",21219,38.58
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vid",0,11200,VENCEU," ",166880,14.9
+"Lâmpada vapor sódio alta pressão 100w, bulbo tubolar, E-40 v",0,550,VENCEU," ",13486,24.52
+"Lâmpada vapor sódio alta pressão 150w, bulbo tubolar, E-40",0,2200,VENCEU," ",48356,21.98
+"Lâmpada vapor sódio alta pressão 250w, bulbo ovóide, E-40",0,8250,VENCEU," ",203115,24.62
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubolar E-40,",0,1300,VENCEU," ",45422,34.94
+"Lâmpada vapor sódio alta pressão 400w, bulbo tubolar, E-40,",0,550,VENCEU," ",18370,33.4
+"Lâmpada vapor sódio alta pressão 600w bulbo ovóide ou tubol",0,165,VENCEU," ",52635,319
+"Lâmpada vapor sódio alta pressão 1.000W, tubolar, E-40, vida",0,55,VENCEU," ",15906,289.2
+"Luminária p/ iluminação pública, braço 1 p lampada ate 400",0,1100,VENCEU," ",86086,78.26
+"Luminária p/ iluminação pública, braço 3/4 p lampada ate 4",0,1100,VENCEU," ",263175,239.25
+"Luminária p/ iluminação pública, braço 3/4 p lampada ate 1",0,1300,VENCEU," ",80353,61.81
+"Luminária p/ iluminação pública, braço 1 p lampada ate 25",0,880,VENCEU," ",39864,45.3
+"Luminária p/ iluminação pública,bocal E-27 em braço de 1",0,1100,VENCEU," ",37499,34.09
+"Luminária p/ iluminação pública,bocal E-40 proteção IP-44",0,880,VENCEU," ",289493.6,328.97
+"Luva de aço galvanizado a fogo 1.1/2, NBR 5598",0,55,VENCEU," ",367.4,6.68
+"Luva de aço galvanizado a fogo 1.1/4, NBR 5598",0,55,VENCEU," ",290.4,5.28
+"Luva de aço galvanizado a fogo 2, NBR 5598",0,65,VENCEU," ",644.8,9.92
+"Luva de aço galvanizado a fogo 3, NBR 5598",0,65,VENCEU," ",1684.8,25.92
+"Luva de aço galvanizado a fogo 4, NBR 5598",0,55,VENCEU," ",2313.85,42.07
+"MiniDisjuntor monofásico 10 A, curva C, padrão IEC",0,130,VENCEU," ",596.7,4.59
+"MiniDisjuntor monofásico 16 A, curva C, padrão IEC",0,130,VENCEU," ",596.7,4.59
+"MiniDisjuntor monofásico 25 A, curva C, padrão IEC",0,130,VENCEU," ",596.7,4.59
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",0,25,VENCEU," ",1383.25,55.33
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",0,45,VENCEU," ",892.35,19.83
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",0,45,VENCEU," ",892.35,19.83
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",0,45,VENCEU," ",1276.2,28.36
+"Núcleo central de aluminio para colocação de 01 ou 02 lumian",0,165,VENCEU," ",25659.15,155.51
+"Núcleo central de aluminio para colocação de 03 lumianarias.",0,100,VENCEU," ",18941,189.41
+"Núcleo central de aluminio para colocação de 04 lumianarias.",0,95,VENCEU," ",19888.25,209.35
+"Parafuso cabeça abaloada 16x75mm com porca, galvanizado a fo",0,4400,VENCEU," ",9372,2.13
+"Parafuso máquina cabeça quadrada com porca 16x200mm, galvani",0,1300,VENCEU," ",4537,3.49
+"Parafuso máquina cabeça quadrada com porca 16x250mm, galvani",0,1300,VENCEU," ",5772,4.44
+"Parafuso máquina cabeça quadrada com porca 16x300mm, galvani",0,1300,VENCEU," ",6487,4.99
+"Porca quadrada 16 mm, galvanizado a fogo",0,3300,VENCEU," ",2640,0.8
+"Poste de concreto DT 10/300",0,9,VENCEU," ",6190.65,687.85
+"Poste de concreto DT 9/150",0,15,VENCEU," ",6280.35,418.69
+"Poste de ferro galvanizado a fogo conforme a NBR 6323 06 mts",0,35,VENCEU," ",22330.35,638.01
+"Poste de ferro galvanizado a fogo conforme a NBR 6323 08 mts",0,35,VENCEU," ",23376.85,667.91
+"Poste de ferro galvanizado a fogo conforme a NBR 6323 09m",0,33,VENCEU," ",23028.06,697.82
+"Poste de ferro galvanizado a fogo conforme a NBR 6323 10m",0,45,VENCEU," ",39947.85,887.73
+"Poste de ferro galvanizado a fogo conforme a NBR 6323 em con",0,40,VENCEU," ",63601.2,1590.03
+"Projetor corpo de alumínio  E40 para lâmpada 1000w",0,110,VENCEU," ",14256,129.6
+"Projetor corpo de alumínio  E-40 para lâmpada 400w",0,99,VENCEU," ",4924.26,49.74
+"Projetor corpo de alumínio  RX7S para lâmpada 150w",0,110,VENCEU," ",4989.6,45.36
+"Quadro de comando metalico 400x400x200 com flange",0,10,VENCEU," ",1814.3,181.43
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w",0,4000,VENCEU," ",153320,38.33
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 100w",0,130,VENCEU," ",5313.1,40.87
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 150w",0,550,VENCEU," ",27302,49.64
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w",0,2750,VENCEU," ",145832.5,53.03
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 400w",0,220,VENCEU," ",15899.4,72.27
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 600w",0,55,VENCEU," ",9320.85,169.47
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 1000w",0,45,VENCEU," ",14355,319
+"Reator externo AFP 0,93, para lâmpada multivapor metálico",0,440,VENCEU," ",26844.4,61.01
+"Reator externo AFP 0,93, para lâmpada multivapor metálico 40",0,220,VENCEU," ",15903.8,72.29
+"Reator externo AFP 0,93, para lâmpada multivapor metálico 10",0,55,VENCEU," ",15352.15,279.13
+"Reator interno AFP 0,93 para lâmpada multivapor metálico 150",0,175,VENCEU," ",9838.5,56.22
+"Reator interno AFP 0,93, com ignitor vapor de sódio, para lâ",0,600,VENCEU," ",36396,60.66
+"Receptáculo porcelana E-27 reforçado para iluminação pública",0,550,VENCEU," ",1589.5,2.89
+"Receptáculo porcelana E-40 reforçado para iluminação pública",0,550,VENCEU," ",4169,7.58
+"Relé foto eletrônico para iluminação pública 1000w",0,9400,VENCEU," ",145230,15.45
+"Isolador roldana de porcelana 76x79mm",0,220,VENCEU," ",844.8,3.84
+"Suporte para instalação e fixação de 01 luminárias em topo d",0,165,VENCEU," ",12665.4,76.76
+"Suporte para instalação e fixação de 02 luminárias em topo d",0,165,VENCEU," ",14638.8,88.72
+"Suporte para instalação e fixação de 03 luminárias em topo d",0,121,VENCEU," ",11217.91,92.71
+"Suporte para instalação e fixação de 04 luminárias em topo d",0,120,VENCEU," ",12022.8,100.19

@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmina de bisturi nº 12",10971453,20,VENCEU,CXA,626,31.3
+"Lâmina de bisturi nº 15, em aço inox.caixa com 100 und",10971454,50,VENCEU,CX,1565,31.3
+"Lâmina de bisturi nº 15C",10971455,10,VENCEU,CX,349,34.9
+"Luva cirurgica Látex, esterelizada, tamanho 6,5",10971505,2000,PERDEU,PCT,2400,1.2
+"Luva cirurgica Látex, esterelizada, tamanho 7,5",10971506,2000,PERDEU,PCT,2400,1.2
+"Luva cirurgica Látex, esterelizada, tamanho 8,0",10971507,2000,PERDEU,PCT,2400,1.2
+"Luva cirurgica Látex, esterelizada, tamanho 7,0",10971508,2500,PERDEU,PCT,3000,1.2
+"Máscara cirúrgica tripla",10971511,1500,PERDEU,CX,7515,5.01
+"Óculos de proteção de plástico",10971519,200,PERDEU,UNI,278,1.39
+"Seringa descartável 20ml com Agulha LuerLock 25x7 22G",10971593,500,VENCEU,UN,305,0.61
+"Seringa hipodérmica 5ml com agulha Luer Lock 25x7 22G",10971594,100,VENCEU,PCTE,41,0.41

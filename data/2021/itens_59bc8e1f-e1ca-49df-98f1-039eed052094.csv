@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira New Holland E135",2062901,2,1,ATIVO,UNIDADE,25000,9
+"Retroescavadeira New Holland LB110",2062902,3,1,ATIVO,UNIDADE,25000,9
+"Fresadora Wirtgen W100",2062903,7,1,ATIVO,UNIDADE,25000,9
+"Retroescavadeira New Holland LB110B",2062904,19,3,ATIVO,UNIDADE,75000,9
+"Retroescavadeira Randon RD406B",2062905,21,1,ATIVO,UNIDADE,25000,9

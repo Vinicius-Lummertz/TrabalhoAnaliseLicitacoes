@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ficha nominal- Programa Tuberculose",1262311,40,300,ATIVO,UNIDADE,93,0.31
+"Laudo Médico para Procedimento de Alta Complexidade APAC",1262312,43,200,ATIVO,BLOCO,1340,6.7
+"Laudo Médico para Procedimento de Alta Complexidade BPAI",1262313,44,200,ATIVO,BLOCO,1338,6.69
+"Ficha de acolhimento CAPS II ad 4 páginas(vias)",1262338,31,40,ATIVO,BLOCO,196,4.9

@@ -1,0 +1,79 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+",Apagador para quadro branco",4403177,2,PERDEU,UND,13.6,6.8
+Atilho,4403178,2,PERDEU,CX,11.4,5.7
+"Bloco de recados grande",4403179,20,PERDEU,EMB,98,4.9
+"Blocos de recados pequeno",4403180,20,PERDEU,EMB,98,4.9
+"Bobina Termica",4403181,50,PERDEU,UND,290,5.8
+"Caixa arquivo morto desmontável",4403182,100,PERDEU,UND,550,5.5
+"Caneta permanente",4403183,10,PERDEU,UND,49,4.9
+"Caneta corretivo",4403184,5,PERDEU,UND,39,7.8
+"Caneta esferografica azul;",4403185,100,PERDEU,UND,100,1
+"Caneta esferográfica vermelha;",4403186,50,PERDEU,UND,50,1
+"Caneta esferográfica preta;",4403187,50,PERDEU,UND,50,1
+"CANETA MARCA TEXTO",4403188,50,PERDEU,UND,150,3
+"Clipes para papel n.º 1",4403189,5,PERDEU,CX,63,12.6
+"Clipes para papéis n.º 3/0",4403190,5,PERDEU,CX,63,12.6
+"Clipes para papéis n.º 8/0",4403191,5,PERDEU,CX,63,12.6
+"COLA EM BASTAO",4403192,10,PERDEU,UND,75,7.5
+COLA,4403193,10,PERDEU,UND,72,7.2
+"Envelope Saco na cor parda 162 x 229",4403194,5,DESCLASSIFICADO,CX,460,92
+"Envelope pardo 240 x 340",4403195,5,DESCLASSIFICADO,CX,490,98
+"Envelopes de Polietileno",4403196,10,PERDEU,CX,1105,110.5
+"Etiqueta adesiva",4403197,2,PERDEU,CX,152,76
+"Fita adesiva 45 MM",4403198,10,PERDEU,UND,55,5.5
+"Fita auto adesiva crepe",4403199,15,PERDEU,UND,192,12.8
+"Fita adesiva para Rotulador Eletrônico",4403200,12,VENCEU,UND,1128,94
+"Folha A4",4403201,300,DESCLASSIFICADO,RES,6600,22
+"Folha A4 Timbrada",4403202,300,VENCEU,RES,26400,88
+"Fita de Isolamento Personalizada",4403203,2,NAO_COTOU,CX,0,0
+"Bloco Personalizado",4403204,15,VENCEU,CX,6187.5,412.5
+"Bloco Personalizado Carbonado",4403205,10,VENCEU,CX,7800,780
+"Impressão A4 Preto e Branco",4403206,2500,VENCEU,UND,625,0.25
+"Impressão A4 Colorida",4403207,1000,VENCEU,UND,2500,2.5
+"Impressão Colorida de Certificados",4403208,200,VENCEU,UND,1100,5.5
+"Encadernação Espiral capa Flexível até 100 folhas",4403209,50,VENCEU,UND,195,3.9
+"Encadernação Espiral capa Flexivel de 100 folhas à 200 folha",4403210,100,VENCEU,UND,490,4.9
+"Encadernação Espiral capa Flexível acima de 200 folhas",4403211,100,VENCEU,UND,590,5.9
+"Encadernação Capa Dura Colorida",4403212,3,VENCEU,UND,201,67
+"Serviço de Digitalização",4403213,500,VENCEU,M/L,3950,7.9
+"Grampeador de mesa pequeno",4403214,10,PERDEU,UND,315,31.5
+"Grampos para grampeador 26/6",4403215,2,VENCEU,CX,11.8,5.9
+"Marcador para quadro branco.",4403216,15,PERDEU,UND,187.5,12.5
+"PASTA SUSPENSA",4403217,2,INABILITADO,CX,6.8,3.4
+"Perfurador para papel",4403218,2,PERDEU,UND,63,31.5
+"Pilhas AA",4403219,100,PERDEU,EMB,600,6
+"Pilhas C",4403220,30,VENCEU,EMB,540,18
+"Pilhas AAA",4403221,120,PERDEU,EMB,720,6
+"Plástico autoadesivo transparente",4403222,2,PERDEU,RL,216,108
+"Prancheta para anotações",4403223,15,NAO_COTOU,UND,0,0
+"TESOURA GRANDE",4403224,2,NAO_COTOU,UND,0,0
+"Tesoura média",4403225,2,NAO_COTOU,UND,0,0
+"Tinta Carimbo Preta",4403226,2,NAO_COTOU,UND,0,0
+"Tinta Carimbo Vermelha",4403227,2,NAO_COTOU,UND,0,0
+"Escaninho para correspondência",4403228,2,PERDEU,UND,136,68
+"Toner Preto HP color laserjet pro mfp m177fw original",4403229,10,NAO_COTOU,UND,0,0
+"Toner Ciano HP color laserjet pro mfp m177fw original",4403230,8,NAO_COTOU,UND,0,0
+"Toner Magenta HP color laserjet pro mfp m177fw original",4403231,8,NAO_COTOU,UND,0,0
+"Toner Amarelo HP color laserjet pro mfp m177fw original",4403232,8,NAO_COTOU,UND,0,0
+"Toner Preto HP color laserjet pro mfp m180fw original",4403233,10,NAO_COTOU,UND,0,0
+"Toner Ciano HP color laserjet pro mfp m180fw original",4403234,8,NAO_COTOU,UND,0,0
+"Toner Magenta HP color laserjet pro mfp m180fw original",4403235,8,NAO_COTOU,UND,0,0
+"Toner Amarelo HP color laserjet pro mfp m180fw original",4403236,8,NAO_COTOU,UND,0,0
+"Toner HP laserjet pro mfp m 521 dn original",4403237,15,NAO_COTOU,UND,0,0
+"Toner HP laserjet m1132 e m1212 MFP original",4403238,10,NAO_COTOU,UND,0,0
+"Toner RICOH Aficio MP171 e MP201 original",4403239,15,NAO_COTOU,UND,0,0
+"Toner Preto HP color laserjet pro mfp m177fw compatível",4403240,10,NAO_COTOU,UND,0,0
+"Toner Ciano HP color laserjet pro mfp m177fw compatível",4403241,8,NAO_COTOU,UND,0,0
+"Toner Magenta HP color laserjet pro mfp m177fw compatível",4403242,8,NAO_COTOU,UND,0,0
+"Toner Amarelo HP color laserjet pro mfp m177fw compatível",4403243,8,NAO_COTOU,UND,0,0
+"Toner Preto HP color laserjet pro mfp m180fw compatível",4403244,10,NAO_COTOU,UND,0,0
+"Toner Ciano HP color laserjet pro mfp m180fw compatível",4403245,8,NAO_COTOU,UND,0,0
+"Toner Magenta HP color laserjet pro mfp m180fw compatível",4403246,8,NAO_COTOU,UND,0,0
+"Toner Amarelo HP color laserjet pro mfp m180fw compatível",4403247,8,NAO_COTOU,UND,0,0
+"Toner HP laserjet pro mfp m 521 dn compatível",4403248,15,NAO_COTOU,UND,0,0
+"Toner HP laserjet m1132 e m1212 MFP compatível",4403249,10,NAO_COTOU,UND,0,0
+"Toner RICOH Aficio MP171 e MP201 compatível",4403250,15,NAO_COTOU,UND,0,0
+"Cópia de Chave Comum",4403251,25,VENCEU,UND,350,14
+"Carimbo Pequeno",4403252,20,NAO_COTOU,UND,0,0
+"Carimbo Médio",4403253,5,NAO_COTOU,UND,0,0
+"Carimbo Grande",4403254,5,NAO_COTOU,UND,0,0

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Saco de Pancada",6093580,31,6,ATIVO,UNIDADE,959.4,159.9
+"Aparador de Chute",6093581,33,24,ATIVO,UNIDADE,2952,123
+"Aparador de Soco",6093582,34,24,ATIVO,UNIDADE,2400,100

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grama do tipo sempre verde",14196268,15000,VENCEU," ",183000,12.2
+"Grama do tipo Esmeralda",14196268,7500,VENCEU," ",102000,13.6
+"Hora Máquina (incluso deslocamento)",14196268,500,VENCEU," ",51490,102.98
+"Mão de obra para preparação de terreno",14196268,25000,VENCEU," ",37500,1.5

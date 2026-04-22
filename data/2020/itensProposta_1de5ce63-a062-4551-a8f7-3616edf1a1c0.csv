@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4445415,130000,VENCEU,COMP,22828,0.1756
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4445416,12000,VENCEU,BIS,21240,1.77
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",4445424,7000,PERDEU,FR.,23730,3.39
+"Albendazol 400mg comprimido mastigável, em blister.",4445429,15000,PERDEU,COMP,4485,0.299
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",4445430,18000,DESCLASSIFICADO,FR.,17820,0.99
+"Alopurinol 100mg cpr, em blister.",4445432,600000,DESCLASSIFICADO,COMP,75240,0.1254
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral",4445438,15000,VENCEU,FR.,34500,2.3
+"Ampicilina 500mg, capsula, em blister.",4445442,5000,PERDEU,CPLA,1835,0.367
+"Atenolol 50mg cpr, em blister.",4445444,1800000,VENCEU,COMP,108000,0.06
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral",4445446,10000,DESCLASSIFICADO,FR.,92500,9.25
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",4445458,2000,DESCLASSIFICADO,FR.,2580,1.29
+"Dexametasona 0,1% creme, bsinaga 10g.",4445501,30000,DESCLASSIFICADO,BIS,36000,1.2
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4445511,16000,DESCLASSIFICADO,FR.,28000,1.75
+"Dipirona 500mg cpr, em blister.",4445512,2000000,VENCEU,COMP,240000,0.12
+"Doxazosina 2 mg cpr, em blister.",4445516,150000,VENCEU,COMP,15000,0.1
+"Eritromicina 50mg/mL suspensão oral,  frasco 60ml.",4445522,500,VENCEU,FR.,2125,4.25
+"Furosemida 40mg cpr, em blister.",4445542,680000,VENCEU,COMP,47600,0.07
+"Levofloxacino 500mg cpr, em blister.",4445575,6000,DESCLASSIFICADO,COMP,4500,0.75
+"Loratadina 1mg/mL xarope, frasco de 60ml.",4445588,8000,PERDEU,FR.,16400,2.05
+"Losartana 50mg cpr revestido, em blister.",4445589,3600000,DESCLASSIFICADO,COMP,360000,0.1
+"Metformina 500mg cpr, em blister.",4445591,1400000,VENCEU,COMP,107800,0.077
+"Metformina 850mg cpr, em blister.",4445592,3000000,PERDEU,COMP,240000,0.08
+"Metronidazol 250mg cpr, em blister.",4445601,250000,DESCLASSIFICADO,COMP,32500,0.13
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",4445602,5000,VENCEU,BIS,21500,4.3
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",4445603,10000,DESCLASSIFICADO,BIS,66500,6.65
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",4445610,25000,VENCEU,BIS,44250,1.77
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",4445613,6000,VENCEU,FR.,22980,3.83
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",4445625,2200000,VENCEU,COMP,171600,0.078
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",4445631,10000,DESCLASSIFICADO,FR.,45000,4.5
+"Risperidona 1mg cpr, em blister.",4445639,150000,DESCLASSIFICADO,COMP,30000,0.2
+"Risperidona 2mg cpr, em blister.",4445640,200000,DESCLASSIFICADO,COMP,40000,0.2
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",4445641,1000,VENCEU,FR.,9100,9.1
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",4445651,180000,DESCLASSIFICADO,COMP,27000,0.15
+"Sulfato ferroso 40mg cpr, em blister.",4445654,900000,DESCLASSIFICADO,COMP,54000,0.06
+"Tiamina 300 mg cpr, em blister.",4445658,12000,DESCLASSIFICADO,COMP,3000,0.25

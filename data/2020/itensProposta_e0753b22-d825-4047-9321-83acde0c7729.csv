@@ -1,0 +1,51 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",4445424,7000,DESCLASSIFICADO,FR.,30492,4.356
+"Adenosina 3mg/mL, injetável, ampola 2ml.",4445425,1000,DESCLASSIFICADO,AMP,11160,11.16
+"Adrenalina 1mg/mL, injetável, ampola 1ml.",4445426,2000,DESCLASSIFICADO,AMP,4180,2.09
+"Alopurinol 100mg cpr, em blister.",4445432,600000,DESCLASSIFICADO,COMP,71400,0.119
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",4445436,1000,DESCLASSIFICADO,AMP,2090,2.09
+"Amitriptilina , cloridrato 25mg cpr.",4445437,1700000,PERDEU,COMP,238000,0.14
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL,  acompanha c",4445439,10000,DESCLASSIFICADO,FR.,131000,13.1
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",4445441,450000,PERDEU,COMP,441000,0.98
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",4445452,10000,PERDEU,FR/AM,93500,9.35
+"Betametasona, diproprionato +  betametasona fosfato, injetáv",4445454,8000,PERDEU,AMP,27040,3.38
+"Bromidrato de fenoterol 5mg/mL solução para inalação, frrasc",4445461,2000,DESCLASSIFICADO,FR.,16000,8
+"Carbonato de lítio 300mg cpr, em blister.",4445471,400000,PERDEU,COMP,260000,0.65
+"Carvedilol 12,5 mg cpr, em blister.",4445473,120000,VENCEU,COMP,13920,0.116
+"Carvedilol 25 mg cpr, em blister.",4445474,120000,VENCEU,COMP,22800,0.19
+"Carvedilol 3,125 mg cpr, em blister.",4445475,50000,PERDEU,COMP,4750,0.095
+"Carvedilol 6,25 mg cpr, em blister.",4445476,90000,PERDEU,COMP,8010,0.089
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",4445479,2000,PERDEU,FR/AM,17980,8.99
+"Claritromicina 500mg comprimido, em blister.",4445483,5000,PERDEU,COMP,13950,2.79
+"Clonazepam 2,5mg/mL , 20ml, frasco de vidro âmbar 20ml.",4445485,3000,PERDEU,FR.,18000,6
+"Clonidina 0,1mg cpr, em blister.",4445487,1000,PERDEU,COMP,231,0.231
+"Clopidogrel 75mg comprimido revestido, em blister.",4445490,180000,DESCLASSIFICADO,COMP,63000,0.35
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextros",4445510,2000,VENCEU,AMP,5740,2.87
+"Doxazosina 2 mg cpr, em blister.",4445516,150000,DESCLASSIFICADO,COMP,19500,0.13
+"Enantoato de noretisterona + valerato de estradiol, injetáve",4445521,6000,DESCLASSIFICADO,AMP,114000,19
+"Espiramicina 500 mg cpr.",4445524,1000,PERDEU,COMP,3870,3.87
+"Estrogênios conjugados 0,625mg cpr, em blister.",4445526,50400,DESCLASSIFICADO,COMP,71064,1.41
+"Fenitoina 100mg cpr, em blister.",4445528,320000,DESCLASSIFICADO,COMP,49600,0.155
+"Finasterida 5 mg cpr, em blister.",4445534,80000,VENCEU,COMP,30400,0.38
+"Ibuprofeno 600mg comprimido revestido.",4445560,1200000,INABILITADO,COMP,222000,0.185
+"Insulina NPH 100UI/mL, frasco 10ml.",4445562,100,PERDEU,FR.,2100,21
+"Insulina regular 100 UI/mL , frasco 10ml.",4445563,100,PERDEU,FR.,2100,21
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",4445564,220000,DESCLASSIFICADO,COMP,63800,0.29
+"Isossorbida, mononitrato 20mg cpr, em blister.",4445565,500000,DESCLASSIFICADO,COMP,67500,0.135
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado (B",4445570,240000,PERDEU,COMP,228000,0.95
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel.",4445571,6000,PERDEU,COMP,11280,1.88
+"Levodopa 100mg + benserazida 25mg HBS comprimido liberação p",4445572,70000,PERDEU,COMP,131600,1.88
+"Levofloxacino 500mg cpr, em blister.",4445575,6000,PERDEU,COMP,3150,0.525
+"Levomepromazina, maleato 100mg cpr.",4445576,280000,DESCLASSIFICADO,COMP,252000,0.9
+"Levomepromazina, maleato 25mg cpr.",4445577,180000,DESCLASSIFICADO,COMP,72000,0.4
+"Levonorgestrel 0,75mg cpr, blister com dois comprimidos.",4445579,200,PERDEU,BLIST,330,1.65
+"Metildopa 250mg cpr, em blister.",4445593,350000,PERDEU,COMP,150500,0.43
+"Metilfenidato 10 mg cpr, em blister.",4445594,180000,VENCEU,COMP,72000,0.4
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",4445612,400000,DESCLASSIFICADO,COMP,60000,0.15
+"Nitrofurantoína 100 mg capsula, em blister.",4445614,2000,PERDEU,CPLA,570,0.285
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",4445617,500,PERDEU,BLIST,2625,5.25
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",4445625,2200000,DESCLASSIFICADO,COMP,209000,0.095
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",4445631,10000,PERDEU,FR.,39200,3.92
+"Sinvastatina 20mg cpr, em blister.",4445645,1800000,PERDEU,COMP,99000,0.055
+"Sinvastatina 40 mg cpr, em blister.",4445646,1500000,PERDEU,COMP,171000,0.114
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",4445667,8000,PERDEU,AMP,7360,0.92

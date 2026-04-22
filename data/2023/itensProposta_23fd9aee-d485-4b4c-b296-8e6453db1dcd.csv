@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,28000,0.04
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",11967162,5000,VENCEU,FR.,14999.5,2.9999
+"Alopurinol 100mg cpr, em blister.",11967175,680000,VENCEU,COMP,88332,0.1299
+"Betametasona, diproprionato +  betametasona fosfato 1ml",11967195,22000,PERDEU,AMP,92400,4.2
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,PERDEU,FR,8640,0.048
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",11967211,1000000,PERDEU,COMP,46000,0.046
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,35000,0.14
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,56000,0.2
+"Carvedilol 3,125 mg cpr, em blister.",11967216,60000,VENCEU,COMP,5160,0.086
+"Carvedilol 6,25 mg cpr, em blister.",11967217,180000,PERDEU,COMP,19800,0.11
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,12000,2.4
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,38500,0.07
+"Simeticona 75mg/mL solução oral, frasco 10ml.",11967257,15000,VENCEU,FR.,25198.5,1.6799
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,540000,0.18
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,34500,1.15
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",11967287,4000,PERDEU,FR,24000,6
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,90000,0.03
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",11967324,7000,PERDEU,COMP,13299.3,1.8999
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,450000,0.09
+"Metilfenidato 10 mg cpr, em blister.",11967341,600000,PERDEU,COMP,240000,0.4
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,PERDEU,COMP,20400,0.68
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,280000,0.07
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,52000,1.04
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,PERDEU,FR.,8750,1.25

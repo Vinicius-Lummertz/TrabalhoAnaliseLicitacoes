@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base para relé fotoeletrônico",4021864,5,500,ATIVO,PACOTE,2135,4.27
+"Lâmpada multivapor metálico 1000w, bulbo tubolar, E-40, vida útil mínima de 9.000h, Im 85000 lumens",4021865,68,35,ATIVO,PACOTE,3849.65,109.99
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",4021866,93,20,ATIVO,UNIDADE,1537.2,76.86
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",4021867,94,34,ATIVO,UNIDADE,975.8,28.7
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",4021868,95,34,ATIVO,UNIDADE,1043.46,30.69
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",4021869,96,34,ATIVO,UNIDADE,1043.46,30.69
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 150w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",4021870,121,500,ATIVO,PACOTE,32645,65.29
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",4021871,122,1951,ATIVO,PACOTE,143983.8,73.8
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",4021872,123,549,ATIVO,PACOTE,40516.2,73.8
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 400w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",4021873,124,50,ATIVO,PACOTE,5544.5,110.89
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",4021874,125,2100,ATIVO,PACOTE,98700,47
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",4021875,126,700,ATIVO,PACOTE,37695,53.85
+"Reator interno AFP  0,93, para lâmpada de vapor de sódio 150W, 220V, 60Hz, com Selo PROCEL",4021876,127,100,ATIVO,PACOTE,5268,52.68
+"Reator interno AFP 0,93, para lâmpada de vapor de sódio 250W, 220V, 60Hz, com Selo PROCEL",4021877,128,140,ATIVO,PACOTE,9233,65.95
+"Refletor em LED, potência 100W/Verde",4021878,132,100,ATIVO,PACOTE,6400,64

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kit de higiene bucal infantil",1264305,197,4000,ATIVO,kit,16200,4.05
+"Kit de higiene bucal adulto",1264306,196,7500,ATIVO,kit,24600,3.28
+"Gel dental Kids",1264307,172,600,ATIVO,UNIDADE,1542,2.57
+"Gel dental",1264308,171,400,ATIVO,UNIDADE,1132,2.83
+"Escova dental adulto.",1264310,120,30000,ATIVO,PACOTE,13800,0.46
+"ESCOVA DENTAL INFANTIL",1264341,119,50000,ATIVO,PACOTE,21500,0.43
+"Creme dental com 1500 PPM de teor de flúor",1264369,87,8000,ATIVO,UNIDADE,8000,1

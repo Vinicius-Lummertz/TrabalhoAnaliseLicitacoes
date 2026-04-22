@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Colete Esportivo",5376917,53,1000,ATIVO,UNIDADE,11750,11.75
+"Camiseta Esportiva",5376918,54,5000,ATIVO,UNIDADE,69400,13.88
+"Uniforme Esportivo",5376919,55,332,ATIVO,UNIDADE,12234.2,36.85
+"AGASALHO - JAQUETA E CALÇA POLIESTER",5376920,56,100,ATIVO,UNIDADE,8600,86

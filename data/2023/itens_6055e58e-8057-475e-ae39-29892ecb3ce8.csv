@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Roupas para apresentações - Gaúchas",5252106,13,20,ATIVO,UNIDADE,8380,419
+"Roupas para apresentações - Street Style",5252107,14,20,ATIVO,CONJUNTO,1500,75
+"Kit Lanche",5252108,15,9600,ATIVO,kit,55584,5.79

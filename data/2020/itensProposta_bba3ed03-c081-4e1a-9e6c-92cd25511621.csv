@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"DESJEJUM (CAFÉ DA MANHÃ)",1,4100,Venceu,UND,47150,11.5
+Almoço,2,4500,Venceu,UND,87750,19.5
+LANCHE,3,4000,Venceu,UND,44000,11
+JANTAR,4,4500,Venceu,UND,96750,21.5

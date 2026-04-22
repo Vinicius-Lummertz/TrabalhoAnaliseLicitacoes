@@ -1,0 +1,27 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lençol descartável",1298784,13,120,ATIVO,PACOTE,1279.2,10.66
+"Reanimador manual adulto",1298785,44,3,ATIVO,UNIDADE,506.52,168.84
+"Colar cervical P",1298786,31,5,ATIVO,UNIDADE,59.25,11.85
+"Saco de lixo infectante 50 L",1300877,27,20,ATIVO,CAIXA,392,19.6
+"Atadura de crepom 8 cm",1300878,17,1500,ATIVO,UNIDADE,810,0.54
+"Reanimador manual infantil",1300879,43,3,ATIVO,UNIDADE,505.44,168.48
+"Máscara facial adulto",1300880,38,5,ATIVO,UNIDADE,66.15,13.23
+"Compressa de Gaze Hidrófila",1304960,8,6000,ATIVO,PACOTE,1920,0.32
+"Colar cervical M",1304962,32,5,ATIVO,UNIDADE,59.25,11.85
+"Esfigmomanômetro Adulto",1304963,40,3,ATIVO,UNIDADE,180,60
+"Fita Hipoalérgica Microporosa",1306995,16,50,ATIVO,UNIDADE,212.5,4.25
+"Colar cervical neonatal",1306996,28,3,ATIVO,UNIDADE,35.55,11.85
+"Máscara facial infantil",1306997,37,5,ATIVO,UNIDADE,66.15,13.23
+"Bobina de Gaze Hidrófila",1309013,9,15,ATIVO,ROLO,780,52
+"Colar cervical PP",1309014,30,10,ATIVO,UNIDADE,118.5,11.85
+"Estetoscópio Adulto",1309016,41,3,ATIVO,UNIDADE,87,29
+"Atadura de crepom 20cm",1311050,19,2000,ATIVO,UNIDADE,2340,1.17
+"Atadura de crepom 15cm",1311051,18,1500,ATIVO,UNIDADE,1305,0.87
+"Saco de lixo infectante 30 L",1311053,26,60,ATIVO,CAIXA,900.6,15.01
+"Reanimador manual neonatal",1313026,42,3,ATIVO,UNIDADE,505.44,168.48
+"Colar cervical infantil",1313027,29,6,ATIVO,UNIDADE,71.1,11.85
+"Compressa cirúrgica",1315198,7,150,ATIVO,PACOTE,11700,78
+"Esfigmomanômetro Infantil",1315199,39,3,ATIVO,UNIDADE,193.74,64.58
+"Colar cervical G",1315200,33,5,ATIVO,UNIDADE,59.25,11.85
+Esparadrapo,1317238,15,80,ATIVO,UNIDADE,464,5.8
+"Oxímetro digital portátil para dedo",1317239,45,3,ATIVO,UNIDADE,308.1,102.7

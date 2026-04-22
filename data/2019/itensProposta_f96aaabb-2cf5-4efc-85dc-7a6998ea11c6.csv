@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tanque metálico tubular horizontal usado",4382649,2,PERDEU,UND,33600,16800
+"Tanque metálico tubular horizontal com capacidade de 500 lts",4382650,1,VENCEU,UND,4051,4051
+"Serviço de modificação e instalação em um tanque metálico CM",4382651,1,VENCEU,UND,19332,19332
+"Serviço de modificação e instalação em um tanque metálico RR",4382652,1,VENCEU,UND,10815.5,10815.5
+"Serviço de modificação e instalação em um tanque metálico ca",4382653,1,VENCEU,UND,18879,18879

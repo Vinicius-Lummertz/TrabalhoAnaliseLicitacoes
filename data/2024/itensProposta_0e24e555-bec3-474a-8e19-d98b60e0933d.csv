@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Calça Social Masculina Tradicional Oxford",15456645,75,VENCEU,UN,8100,108
+"Camisa Manga Longa",15456646,87,PERDEU,UND,9570,110
+"Camisa Polo de Gola",15456647,20,PERDEU,UND,1200,60
+"Corpo Musical, Modelo 1",15456649,90,VENCEU,CJT,55530,617
+"Vestido estilo banda/fanfarra",15456651,8,VENCEU,UND,10400,1300
+"Conjunto para banda 3 peças",15456653,16,VENCEU,CJT,11200,700
+"Conjunto para banda casaco/calça e casaco/Saia",15456654,90,VENCEU,CJT,76410,849
+"Corpo Bandeiras - Vestido",15456655,20,VENCEU,UND,14000,700
+"Sapato feminino estilo boneca",15456656,145,VENCEU,PAR,13050,90
+"Sapato masculino, fechado em couro",15456658,200,PERDEU,PAR,64800,324
+"Meia Masculina",15456659,140,VENCEU,PAR,2963.8,21.17
+"Meia Calça Fio 20 Adulto",15456660,100,PERDEU,UND,2854,28.54
+"Meia 3/4 Fio 20 Adulto",15456661,130,VENCEU,PAR,2293.2,17.64
+"Cinto masculino fabricado em couro sintético",15456662,75,VENCEU,UND,11625,155
+"Traje de Duende 1 masculino",15456663,20,VENCEU,UND,15000,750
+"Saia de tecido em filo e forro 100 por cento poliéster",15456670,12,VENCEU,UND,660,55
+"Standard em tecido Oxford branco",15456671,39,VENCEU,UND,17550,450
+"Bandeiras Tamanho 90x1.28",15456672,20,VENCEU,UND,3800,190
+"Standart em veludo metragem 1.30 por 1.30",15456673,17,VENCEU,UND,17000,1000
+"Flamula em veludo em formato triangulo",15456674,85,VENCEU,UND,32895,387
+"Kit de acessórios para cabelo  e maquiagem",15456675,13,VENCEU,KIT,4290,330
+"Acessório de cabelo  com base prateada",15456676,16,VENCEU,UND,1120,70
+"Bastão de mor",15456677,13,VENCEU,UND,2600,200
+"Rolo de malha PV 20kg",15456678,4,VENCEU,UNID,6872,1718
+"Bandeira em malha 3m X1,30m",15456679,30,VENCEU,UND,8100,270

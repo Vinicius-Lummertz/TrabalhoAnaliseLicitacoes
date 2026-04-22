@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Livreto de 24 páginas",7520499,1,5000,ATIVO,UNIDADE,17000,3.4
+"Álbum de Figurinhas com 28 páginas",7520500,2,40000,ATIVO,UNIDADE,106000,2.65
+"Jogos 140 figurinhas (14 pacotes com 10 unidades)",7520501,3,44000,ATIVO,JOGO,554400,12.6

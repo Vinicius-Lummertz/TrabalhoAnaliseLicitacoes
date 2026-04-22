@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada 10mL ampola.",2215978,15,18000,ATIVO,AMP,6750,0.375
+"Beclometasona 200 mcg cápsula inalante frasco com 200 doses",2215979,36,150,ATIVO,FRASCO,10171.5,67.81
+"Betametasona, diproprionato +  betametasona fosfato/AMP 1ml",2215980,42,12000,ATIVO,AMP,30204,2.517
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",2215981,46,2000,ATIVO,FRASCO,1518,0.759
+"Carvedilol 6,25 mg cpr, em blister.",2215982,64,100000,ATIVO,COMPRIMIDO,9000,0.09
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",2215983,106,24000,ATIVO,FRASCO,23640,0.985
+"Doxazosina 2 mg cpr, em blister.",2215984,108,180000,ATIVO,COMPRIMIDO,14400,0.08
+"Doxiciclina 100mg cpr, em blister.",2215985,109,3000,ATIVO,COMPRIMIDO,600,0.2
+"Insulina NPH 100UI/mL, frasco 10ml.",2215986,155,100,ATIVO,FRASCO,1845,18.45
+"Insulina regular 100 UI/mL , frasco 10ml.",2215987,156,150,ATIVO,FRASCO,2767.5,18.45
+"Petidina, cloridrato 50mg/mL injetável, ampola 2ml.",2215988,222,200,ATIVO,AMP,726,3.63
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",2215989,261,8000,ATIVO,AMP,11992,1.499
+"Losartana 50mg cpr revestido, em blister.",2624345,182,4205000,ATIVO,COMPRIMIDO,222444.5,0.0529
+"Carvedilol 3,125 mg cpr, em blister.",2773071,63,57000,ATIVO,COMPRIMIDO,5700,0.1
+"Cefalexina 500mg, capsula ou comprimido, em blister.",3131020,65,15000,ATIVO,"capsula ou comprimid",4950,0.33

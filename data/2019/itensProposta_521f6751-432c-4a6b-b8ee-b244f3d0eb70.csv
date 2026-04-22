@@ -1,0 +1,52 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,50,VENCEU," ",228.5,4.57
+"Cano cobre ½",0,25,VENCEU," ",450,18
+"Cano cobre ¼",0,25,VENCEU," ",250,10
+"Cano cobre ¾",0,25,VENCEU," ",950,38
+"Cano cobre 3/8",0,25,VENCEU," ",400,16
+"Cano cobre 5/8",0,25,VENCEU," ",700,28
+"Cano esponjoso ¼",0,25,VENCEU," ",47.5,1.9
+"Cano esponjoso ½",0,25,VENCEU," ",52.5,2.1
+"Cano esponjoso ¾",0,25,VENCEU," ",97.5,3.9
+"Cano esponjoso 3/8",0,25,VENCEU," ",67.5,2.7
+"Cano esponjoso 5/8",0,25,VENCEU," ",95,3.8
+"Capacitor 380V 2 MF",0,25,VENCEU," ",150,6
+"Capacitor 380V 3 MF",0,25,VENCEU," ",162.5,6.5
+"Capacitor 380V 4 MF",0,25,VENCEU," ",175,7
+"Capacitor 380V 5 MF",0,25,VENCEU," ",187.5,7.5
+"Capacitor 380V 8 MF",0,25,VENCEU," ",200,8
+"Capacitor 380V 10 MF",0,25,VENCEU," ",212.5,8.5
+"Capacitor 380V 15 MF",0,25,VENCEU," ",225,9
+"Capacitor 380V 20 MF",0,25,VENCEU," ",375,15
+"Capacitor 380V 25 MF",0,25,VENCEU," ",500,20
+"Capacitor 380V 30 MF",0,25,VENCEU," ",625,25
+"Capacitor 380V 35 MF",0,25,VENCEU," ",625,25
+"Capacitor 380V 40 MF",0,25,VENCEU," ",625,25
+"Capacitor 380V 45 MF",0,25,VENCEU," ",800,32
+"Capacitor 380V 55 MF",0,25,VENCEU," ",875,35
+"Chave contactora CWM 09",0,3,VENCEU," ",360,120
+"Chave contactora CWM 10",0,3,VENCEU," ",390,130
+"Compressor para Split 9000 BTUS",0,3,VENCEU," ",960,320
+"Compressor para Split 12000 BTUS",0,3,VENCEU," ",1170,390
+"Compressor para Split 18000 BTUS",0,3,VENCEU," ",1470,490
+"Compressor para Split 24000 BTUS",0,3,VENCEU," ",1725,575
+"Compressor para Split 30000 BTUS",0,2,VENCEU," ",1400,700
+"Compressor para Split 60000 BTUS",0,1,VENCEU," ",1100,1100
+"Controle remoto univ. ar split",0,20,VENCEU," ",800,40
+"Filtro do pó ar cond.",0,16,VENCEU," ",800,50
+"Fita PVC 100mm branca",0,50,VENCEU," ",150,3
+"Gás R134 (carga)",0,50,VENCEU," ",6000,120
+"Gás R22 (carga)",0,50,VENCEU," ",4750,95
+"Helice de Ar condicionado 7.000 Btus",0,5,VENCEU," ",475,95
+"Hélice ar cond.  10/18000btus",0,5,VENCEU," ",600,120
+"Placa eletrônica para split",0,15,VENCEU," ",3150,210
+"Moto de ventilador",0,5,VENCEU," ",850,170
+"Rele Monti",0,8,VENCEU," ",144,18
+"Sensor de temperatura frio",0,6,VENCEU," ",90,15
+"Sensor temp. aquecimento",0,6,VENCEU," ",90,15
+"Suporte split 7/12000btus",0,10,VENCEU," ",380,38
+"Suporte split 18/30000btus",0,10,VENCEU," ",420,42
+"Termostato ar cond. 1601",0,10,VENCEU," ",450,45
+"Turbina ventilador 10/30000",0,7,VENCEU," ",980,140
+"Instalação de  Ap. de Ar Condicionado",0,14,VENCEU," ",3360,240
+"Serviço (Hora)",0,750,VENCEU," ",48750,65

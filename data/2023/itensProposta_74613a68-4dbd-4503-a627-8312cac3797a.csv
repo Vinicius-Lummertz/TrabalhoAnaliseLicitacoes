@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,102250,0.0409
+"Ácido Valproico 250mg capsula.",11967165,400000,PERDEU,CPLA,152000,0.38
+"Ácido Valproico 500mg cpr.",11967166,650000,PERDEU,COMP,390000,0.6
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",11967167,6500,PERDEU,FR.,32126.25,4.9425
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3978.3,1.3261
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,156480,9.78
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,PERDEU,FR.,2084.4,1.0422
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,38100,0.0254
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,125100,0.2085
+"Cloreto de sódio 0,9%, ampola 10ml.",11967239,24000,PERDEU,AMP,8755.2,0.3648
+"Digoxina 0,25mg cpr, em blister.",11967254,200000,PERDEU,COMP,45320,0.2266
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,5200,1.3
+"Fluconazol 150mg capsula.",11967283,70000,PERDEU,CPLA,29554,0.4222
+"Glibenclamida 5mg cpr, em blister.",11967290,1200000,PERDEU,COMP,29040,0.0242
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,73500,0.0245
+"Isossorbida, mononitrato 20mg cpr, em blister.",11967312,800000,PERDEU,COMP,175200,0.219
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,248000,0.0496
+"Metformina 850mg cpr, em blister.",11967339,3800000,PERDEU,COMP,456000,0.12
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",11967342,2000,PERDEU,AMP,1398,0.699
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,45600,0.038

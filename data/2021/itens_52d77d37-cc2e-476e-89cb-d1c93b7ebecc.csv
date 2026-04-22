@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Eletrodo infantil",1299304,48,3,ATIVO,PACOTE,6150,2050
+"Bateria para Desfibrilador LIFEPAK 1000.",1301397,50,3,ATIVO,UNIDADE,18000,6000
+"Eletrodo adulto",1315731,49,30,ATIVO,PACOTE,18450,615

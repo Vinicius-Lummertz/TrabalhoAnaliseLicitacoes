@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Achocolatado líquido.",11605863,1200,VENCEU,UN,1548,1.29
+"Suco de frutas liquido, 200 ml",11605864,1200,VENCEU,UND,1620,1.35
+"Biscoito salgado integral: Isento de gorduras trans. Embalag",11605865,800,PERDEU,UN,4656,5.82
+"PROTETOR LABIAL",11605868,100,VENCEU,UND,499,4.99
+"absorvente pct com 8 unidades",11605869,250,VENCEU,PCT,725,2.9
+"Sachê  2 em1, shampoo + condicionador",11605870,2400,PERDEU,UN,1800,0.75
+"Aparelho de barbear",11605872,1200,VENCEU,UN,5040,4.2
+"CORTADOR DE UNHA.",11605873,50,VENCEU,UNI,472.5,9.45
+"Bisnaga plastica",11605874,120,VENCEU,UN,324,2.7

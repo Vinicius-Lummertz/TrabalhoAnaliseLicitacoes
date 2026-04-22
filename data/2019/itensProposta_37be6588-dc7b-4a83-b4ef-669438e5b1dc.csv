@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte para Braçadeira para injeção",4441264,3,INABILITADO,UNI,420,140
+"Biombo hospitalar triplo",4441266,4,VENCEU,UN,1120,280
+"Poltrona hospitalar reclinável estofada, com capac. para 130",4441268,10,VENCEU,UN,6450,645
+"Escadinha hospitalar com 02 degraus em aço inox",4441270,12,VENCEU,UNI,1860,155
+"Foco auxiliar e ginecológico portátil, lâmpada LED, com espe",4441271,2,INABILITADO,UNI,800,400
+"Foco auxiliar portátil, lâmpada LED, sem espelho",4441272,3,INABILITADO,UN,1050,350
+"Mesa ginecológica elétrica",4441276,2,INABILITADO,UN,30000,15000
+"Mesa ginecológica estofada, revestimento impermeável",4441277,1,INABILITADO,UNI,1800,1800
+"Mesa para exame clínico para obeso, com suporte para rolo pa",4441278,10,VENCEU,UN,4350,435
+"Mesa auxiliar retangular em aço inox, com prateleira e rodiz",4441279,8,DESCLASSIFICADO,UN,4000,500
+"Carro de curativos em aço inox",4441280,3,INABILITADO,UNI,1800,600
+"Mesa auxiliar de mayo em aço inox",4441281,6,VENCEU,UN,1848,308
+"Cadeira Coleta de Sangue estofada com apoio para braço",4441282,5,VENCEU,UN,1500,300
+"Mocho giratório com encosto e rodízios",4441285,4,PERDEU,UN,1600,400
+"Negatoscópio de 1 corpo, de parede, iluminação LED",4441295,6,DESCLASSIFICADO,UN,1800,300

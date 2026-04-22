@@ -1,0 +1,44 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",15527902,135,PERDEU,UN,9112.5,67.5
+"Bola de Futsal Adulto",15527904,80,PERDEU,UN,18237.6,227.97
+"Bola de Futsal Infantil para Treinamento",15527905,110,PERDEU,UN,7414,67.4
+"Bola de Basquete OFICIAL",15527908,60,PERDEU,UN,3390,56.5
+"Bola de Handebol H1L",15527910,25,PERDEU,UN,6925,277
+"Bola de Handebol H2",15527911,35,PERDEU,UN,9695,277
+"Bola de Handebol H3L",15527912,30,PERDEU,UN,8250,275
+"Bola de Voleibol de Quadra para Treinamento",15527913,80,PERDEU,UN,22796.8,284.96
+"Bola de Voleibol de Praia/Areia",15527914,20,PERDEU,UN,4217.4,210.87
+"Rede Oficial de Voleibol de Quadra",15527915,8,PERDEU,UN,2480.72,310.09
+"Rede Oficial de Voleibol de Praia/Areia",15527916,10,PERDEU,UN,3049.9,304.99
+"Marcação de Quadra de Vôlei de Praia/Areia",15527917,5,PERDEU,KIT,279.5,55.9
+"Raquete de Tênis de Mesa para Iniciação",15527918,120,PERDEU,UN,2940,24.5
+"Jogo de Peças de Xadrez Oficial",15527920,55,PERDEU,JGO,4125,75
+"Tabuleiro de Xadrez Oficial",15527921,55,PERDEU,UN,880,16
+"Sapatilha de Velocidade para Provas de Atletismo",15527922,35,PERDEU,PAR,7245,207
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",15527923,35,PERDEU,PAR,5950,170
+"Sapatilha de Atletismo de Lançamento e Arremesso",15527924,35,PERDEU,PAR,8575,245
+"Touca de Natação",15527925,100,PERDEU,UN,2840,28.4
+"Óculos de Natação",15527926,100,PERDEU,UN,5741,57.41
+"Kimono de Karatê",15527927,150,PERDEU,UN,31482,209.88
+"Placas de tatame 1x1 de 40mm cores diversas",15527928,360,PERDEU,UNI,36036,100.1
+"Kimono de Judô",15527929,100,PERDEU,UN,23757,237.57
+"Luva de Boxe",15527931,30,PERDEU,PAR,3150,105
+"Saco de Pancada",15527932,6,PERDEU,UN,1373.76,228.96
+"Manopla de Boxe",15527933,30,PERDEU,PAR,4679.1,155.97
+"Aparador de Chute",15527934,24,PERDEU,UN,4012.8,167.2
+"Aparador de Soco",15527935,24,PERDEU,UN,6000,250
+"Sacos para Bola",15527936,30,PERDEU,UN,630,21
+"CONE CHAPÉU CHINÊS",15527937,200,PERDEU,UND,346,1.73
+"Corda de Pular",15527938,50,PERDEU,UN,725,14.5
+"Bomba de Ar para Bolas",15527939,26,PERDEU,UN,382.2,14.7
+"Calibrador de Bola tipo Caneta",15527940,26,PERDEU,UN,1019.46,39.21
+"Placar de Mesa",15527941,26,PERDEU,UN,2652,102
+"Apito de Mesa",15527942,15,PERDEU,UN,162,10.8
+"Faixa Elástica Nível Forte",15527947,10,PERDEU,UN,140,14
+"Faixa Elástica Nível Médio",15527948,10,PERDEU,UN,126,12.6
+"Faixa Elástica Nível Fraco",15527949,10,PERDEU,UN,128,12.8
+"Mini Band Nível Forte",15527950,30,PERDEU,UN,288,9.6
+"Mini Band Nível Médio",15527951,30,PERDEU,UN,278.4,9.28
+"Mini Band Nível Fraco",15527952,30,PERDEU,UN,268.8,8.96
+"Colete Esportivo",15527954,1000,PERDEU,UN,13800,13.8
+"Sapatilha de Salto em Distância para Provas de Atletismo",15527958,35,PERDEU,PAR,8568,244.8

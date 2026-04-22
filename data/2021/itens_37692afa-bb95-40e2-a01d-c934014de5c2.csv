@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adenosina 3mg/mL, injetável, ampola 2ml.",2216235,13,1500,ATIVO,AMP,14025,9.35
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",2216236,14,2000,ATIVO,AMPOLA,3138,1.569
+"Atropina 0,25mg/mL, injetável, ampola 1ml.",2216237,33,1000,ATIVO,AMP,863,0.863
+"Bicarbonato de sódio 8,4%, injetável, ampola 10ml.",2216238,43,600,ATIVO,AMP,419.4,0.699
+"Clonidina 0,1mg cpr, em blister.",2216239,77,1000,ATIVO,COMPRIMIDO,202,0.202
+"Clonidina 0,2mg cpr, em blister.",2216240,78,2000,ATIVO,COMPRIMIDO,626,0.313
+"Clonidina 0,15mg cpr, em blister.",2216241,79,2000,ATIVO,COMPRIMIDO,504,0.252
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3,5g.",2216242,81,360,ATIVO,bisnaga,3743.64,10.399
+"Clorpromazina, cloridrato 5mg/mL, injetável, ampola 5ml.",2216243,90,1000,ATIVO,AMP,2449,2.449
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextrose 1000 mg + d-frutose 1000 mg injetável Endovenoso (EV), ampola 10ml.",2216244,102,4000,ATIVO,AMPOLA,10356,2.589
+"Fentanila 0,05mg/ml, injetável, ampola 2mL.",2216245,125,1500,ATIVO,AMP,3433.5,2.289
+"Glicose 50%, ampola 10ml.",2216246,139,2000,ATIVO,AMP,1172,0.586
+"GLICONATO DE CÁLCIO 10% 10 ML",2216247,140,400,ATIVO,AMP,759.6,1.899
+"Haloperidol 5mg cpr.",2216248,142,250000,ATIVO,COMPRIMIDO,52250,0.209
+"Haloperidol 5mg/mL, injetável, ampola 1ml.",2216249,143,3000,ATIVO,AMP,5850,1.95

@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Açúcar branco refinado 1Kg",0,400,VENCEU," ",908,2.27
+"Açucar Mascavo 1Kg",0,100,VENCEU," ",939,9.39
+"ADOÇANTE LIQUIDO 100ml",0,50,VENCEU," ",224,4.48
+"Água de Coco 1 Litro",0,400,VENCEU," ",3220,8.05
+"OLEO DE SOJA",0,40,VENCEU," ",175.6,4.39
+"Azeite de Oliva",0,20,VENCEU," ",378,18.9
+"Balas Sortidas 600 g",0,100,VENCEU," ",997,9.97
+"Biscoito Amanteigado Sortido 400 g",0,400,VENCEU," ",2088,5.22
+"BISCOITO AGUA E SAL",0,350,VENCEU," ",1046.5,2.99
+"Café moido a vácuo embalagem  500gr",0,400,VENCEU," ",3560,8.9
+"Chá Diversos Caixa com 10 Sachets",0,250,VENCEU," ",730,2.92
+"Filtro de Papel 103 caixa com 30 unidades",0,100,VENCEU," ",285,2.85
+"Garrafa térmica de 1 litro",0,10,VENCEU," ",422,42.2
+"Guardanapo 20x23cm com 50 unidades",0,500,VENCEU," ",945,1.89
+"Leite Integral 1 Litro",0,1000,VENCEU," ",2540,2.54
+"Manteiga Com Sal Tablet 200 g",0,50,VENCEU," ",434.5,8.69
+"Refrigerante Sabores Diversos 350 ml",0,1000,VENCEU," ",2190,2.19
+"Refrigerante 2 Litros",0,200,VENCEU," ",946,4.73
+"Sal .",0,20,VENCEU," ",35,1.75
+"SALGADOS SORTIDOS",0,280,VENCEU," ",14000,50
+"Suco Integral 1 Litro",0,325,VENCEU," ",3851.25,11.85
+Vinagre,0,20,VENCEU," ",44,2.2

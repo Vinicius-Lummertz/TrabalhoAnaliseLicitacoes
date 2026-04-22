@@ -1,0 +1,29 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rede de Traves para Futebol de Campo",5376951,2,18,ATIVO,PAR,9000,500
+"Bola de Futsal Adulto",5376952,3,80,ATIVO,UNIDADE,10400,130
+"Bola de Futsal Infantil para Treinamento",5376953,4,110,ATIVO,UNIDADE,11990,109
+"Rede de Traves de Futsal",5376954,5,10,ATIVO,PAR,1900,190
+"Rede de Traves de Handebol",5376955,6,10,ATIVO,PAR,3000,300
+"Bola de Handebol H2",5376956,10,35,ATIVO,UNIDADE,4200,120
+"Bola de Handebol H3L",5376957,11,30,ATIVO,UNIDADE,3568.5,118.95
+"Bola de Voleibol de Quadra para Treinamento",5376958,12,80,ATIVO,UNIDADE,17280,216
+"Bola de Voleibol de Praia/Areia",5376959,13,20,ATIVO,UNIDADE,2680,134
+"Rede Oficial de Voleibol de Quadra",5376960,14,8,ATIVO,UNIDADE,1560,195
+"Marcação de Quadra de Vôlei de Praia/Areia",5376961,16,5,ATIVO,kit,400,80
+"Raquete de Tênis de Mesa para Iniciação",5376962,17,120,ATIVO,UNIDADE,2400,20
+"Rede para Mesa de Tênis de Mesa",5376963,18,20,ATIVO,UNIDADE,1698,84.9
+"Jogo de Peças de Xadrez Oficial",5376964,19,55,ATIVO,JOGO,2970,54
+"Sapatilha de Velocidade para Provas de Atletismo",5376965,21,35,ATIVO,PAR,8925,255
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",5376966,22,35,ATIVO,PAR,7350,210
+"Sapatilha de Atletismo de Lançamento e Arremesso",5376967,23,35,ATIVO,PAR,9275,265
+"Óculos de Natação",5376968,25,100,ATIVO,UNIDADE,2290,22.9
+"Kimono de Karatê",5376969,26,150,ATIVO,UNIDADE,24000,160
+"Placas de tatame 1x1 de 40mm cores diversas",5376970,27,360,ATIVO,UNIDADE,25704,71.4
+"Kimono de Judô",5376971,28,100,ATIVO,UNIDADE,19000,190
+"Kimono de Jiu-Jitsu",5376972,29,100,ATIVO,UNIDADE,18400,184
+"Luva de Boxe",5376973,30,30,ATIVO,PAR,3810,127
+"Saco de Pancada",5376974,31,6,ATIVO,UNIDADE,894,149
+"Manopla de Boxe",5376975,32,30,ATIVO,PAR,2235,74.5
+"Aparador de Chute",5376976,33,24,ATIVO,UNIDADE,1848,77
+"Aparador de Soco",5376977,34,24,ATIVO,UNIDADE,2518.8,104.95
+"Bomba de Ar para Bolas",5376978,38,26,ATIVO,UNIDADE,507,19.5

@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biombo hospitalar triplo",4439446,8,VENCEU,UN,3200,400
+"Cadeira de rodas adulto  manual",4439447,4,PERDEU,UN,5000,1250
+"Escadinha hospitalar com 02 degraus em aço inox",4439449,20,VENCEU,UNI,4300,215
+"Foco auxiliar e ginecológico portátil, lâmpada LED, com espe",4439450,8,VENCEU,UNI,3080,385
+"Mesa ginecológica estofada, revestimento impermeável",4439452,4,INABILITADO,UNI,3900,975
+"Mesa para exame clínico com suporte para rolo papel",4439453,48,PERDEU,UNI,23040,480
+"Mesa auxiliar retangular em aço inox, com prateleira",4439454,4,PERDEU,UNI,2250,562.5
+"Suporte de soro em aço inox, com rodízios, 4 ganchos em X (b",4439455,8,INABILITADO,UNI,2064,258
+"Mesa auxiliar de mayo em aço inox",4439457,4,PERDEU,UN,1712,428
+"Autoclave esterilização a vapor",4439459,4,INABILITADO,UNI,12120,3030
+"Mocho giratório com encosto e rodízios",4439460,4,VENCEU,UN,1116,279
+"Compressor odontológico em ferro fundido",4439462,4,PERDEU,UN,14240,3560
+"Seladora termica digital, de mesa",4439463,5,PERDEU,UNI,2625,525
+"Aparelho ultra-som (profilaxia)",4439465,4,INABILITADO,UN,6860,1715
+"Kit Odontológico Acadêmico",4439466,4,PERDEU,UN,6172,1543
+"Balança antropométrica digital Adulto",4439467,4,PERDEU,UN,3320,830
+"Balanca digital infantil",4439469,4,VENCEU,UNI,2060,515
+"Conjunto de Oxigenio Medicinal Portatil com cilindro de aço",4439470,4,VENCEU,UNI,4638,1159.5
+"Detector de batimento cardíaco fetal  digital portátil",4439471,4,PERDEU,UN,3090,772.5
+"Negatoscópio de 1 corpo, de parede, iluminação LED",4439478,4,VENCEU,UN,836,209
+"Otoscópio fibra ótica, com 5 espéculos reutilizáveis (Esteri",4439479,4,INABILITADO,CJ,1580,395
+"Aspirador Cirúrgico Elétrico Portátil",4439483,1,PERDEU,UNI,457.5,457.5
+"Carro funcional  para limpeza.",4439506,4,PERDEU,CNJ,3260,815

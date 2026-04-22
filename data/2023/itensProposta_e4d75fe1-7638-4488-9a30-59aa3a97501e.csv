@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmpada Bulbo LED 50W - E27",10967569,100,PERDEU,PC,2500,25
+"Lâmpada Bulbo LED 70W - E27",10967570,100,PERDEU,UND,6400,64
+"Lâmpada multivaporer metálico 400w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 35000 lumens",10967573,100,PERDEU,PC,3070,30.7
+"Lâmpada multivapores metálico 250w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 20000 lumens, 5500K",10967574,350,PERDEU,PC,17790.5,50.83
+"Lâmpada vapor sódio alta pressão 150w, bulbo tubular, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 17.000 lumens, com Selo Procel",10967577,1500,PERDEU,UND,33150,22.1
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",10968145,1300,PERDEU,PC,20150,15.5
+"Lâmpada Vapor sódio alta pressão 70w bulbo tubular E-27, vida útil mínima de 35.000h, Fluxo Luminoso minimo 6.800 lumens, com Selo Procel",10968147,2500,PERDEU,UND,33750,13.5
+"Receptáculo porcelana E-27 reforçado para iluminação pública",10967628,400,VENCEU,PC,640,1.6
+"Receptáculo porcelana E-40 reforçado para iluminação pública",10967629,400,VENCEU,PC,2800,7
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 100W / Branco. Vida útil: 25.000 horas",10967630,100,VENCEU,UND,5000,50
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 200W / Branco. Vida útil: 25.000 horas",10967632,100,VENCEU,UND,6889,68.89
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 30W / Verde. Vida útil: 25.000 horas",10967633,100,VENCEU,UND,2500,25
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 50W / Branco. Vida útil: 25.000 horas",10967634,100,VENCEU,UND,3000,30
+"Relé fotoeletrônico para iluminação pública 1000w com retardo, garantia mínima 05 anos, os contatos devem ser capazes de suportar 35.000 operações com as cargas indutivas supracitadas, contando-se uma operação para cada ciclo completo (uma abertura e um fechamento), sem sofrer desgastes ou deteriorações que os inutilizem.",10967635,7500,VENCEU,PC,105000,14
+"Relé fotoeletrônico para iluminação pública 1000w com retardo, garantia mínima 05 anos, os contatos devem ser capazes de suportar 35.000 operações com as cargas indutivas supracitadas, contando-se uma operação para cada ciclo completo (uma abertura e um fechamento), sem sofrer desgastes ou deteriorações que os inutilizem.",10969386,2500,PERDEU,PC,37500,15

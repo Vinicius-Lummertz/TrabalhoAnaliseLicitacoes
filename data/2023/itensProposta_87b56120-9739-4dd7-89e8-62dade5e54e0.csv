@@ -1,0 +1,90 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agendamento de odontologia",13268746,10000,PERDEU,UNI,600,0.06
+"Atestado Médico",13268747,1000,PERDEU,BLC,4150,4.15
+"Atestado Médico para Gestantes",13268748,100,PERDEU,BLC,590,5.9
+"Auto para coleta de água para consumo humano- 2 vias autocop",13268749,50,PERDEU,BLC,822,16.44
+"Auto de intimação vigilancia sanitaria",13268750,70,PERDEU,BLCO,1749.3,24.99
+"AUTORIZAÇÃO PARA TRATAMENTO DENTÁRIO",13268751,120,PERDEU,BLC,550.8,4.59
+"Bacteriologia da tuberculose .",13268752,30,PERDEU,BLC,312,10.4
+"Boletim de Campo FAD RG 01",13268753,800,DESCLASSIFICADO_LANCE,BLCO,3984,4.98
+"Boletim de Campo FAD RG 02",13268754,400,PERDEU,BLCO,1952,4.88
+"BPA individualiazado 2 vias autocopiativo",13268755,30,PERDEU,BLC,660,22
+"Consentimento informado - 2 vias autocopiativo",13268756,35,PERDEU,BLC,612.15,17.49
+"Controle de TOD",13268757,100,PERDEU,BLCO,474,4.74
+"Cuidados para vasectomia- 23x16 cm 2 vias autocopiativo",13268758,40,PERDEU,BLC,546,13.65
+"Declaração de Comparecimento",13268759,500,PERDEU,BLC,1570,3.14
+"DOTS- Planilha Acompanhamento de Tratamento",13268760,7,PERDEU,BLC,154,22
+"Etique laboratório Dengue (picotado)",13268761,10,PERDEU,BLC,190,19
+"Ficha clínica odontológica.",13268762,100,PERDEU,BLC,439,4.39
+"Ficha clinica Tuberculose -30x21cm - 1x1 cor- Papel offset 75g",13268763,10,PERDEU,BLC,175.6,17.56
+"Ficha Controle de Atendimento frente e verso",13268764,30000,PERDEU,UNI,1500,0.05
+"Ficha de atendimento SAMU - 2 vias autocopiativo",13268765,400,PERDEU,BLC,5440,13.6
+"ficha de Observação do animal agressor",13268766,20,PERDEU,BLCO,250,12.5
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",13268767,100,VENCEU,BLC,990,9.9
+"Ficha nominal- Programa Tuberculose",13268768,300,PERDEU,UNI,135,0.45
+"Fluxo e contra-fluxo",13268769,300,DESCLASSIFICADO_LANCE,BLC,1545,5.15
+"Memorando interno.",13268770,250,DESCLASSIFICADO_LANCE,BLC,1840,7.36
+"Monitoramento das doenças Diarreicas, Agudas planilha de cas",13268771,20,PERDEU,BLC,250,12.5
+"Monitoramento das doenças Diarreicas Agudas-",13268772,20,PERDEU,BLCO,239,11.95
+"Programa de Combate a Tuberculose.",13268773,15,PERDEU,BLC,193.95,12.93
+"Programa de controle da febre amarela dengue",13268774,10000,PERDEU,UNI,1000,0.1
+"Programa de Planejamento Familiar",13268775,80,PERDEU,BLCO,564,7.05
+"Programa Nacional de Controle da Dengue - PNCD",13268776,800,PERDEU,BLC,4000,5
+"Receituário B1- cor azul",13268777,8000,PERDEU,BLC,7360,0.92
+"Receituário B2- cor azul",13268778,500,PERDEU,BLC,675,1.35
+"Receituário retinóide - 21,5x8cm cor branca",13268779,200,PERDEU,BLC,598,2.99
+"Receituário simples",13268780,6000,PERDEU,BLC,12900,2.15
+"Registro Diário de Atividades",13268781,800,PERDEU,BLCO,4160,5.2
+"SINAN - Acidente de Trabalho Grave",13268782,20,PERDEU,BLC,282,14.1
+"SINAN - Acidentes por Animais Peçonhentos",13268783,10,PERDEU,BLC,171.5,17.15
+"SINAN - Intoxicação exógena - 30x21cm -1x1",13268784,10,PERDEU,BLC,175,17.5
+"SINAN- Atendimento Anti-Rábico Humano",13268785,20,PERDEU,BLCO,282,14.1
+"SINAN- Doenças exantemáticas febris",13268786,10,PERDEU,BLC,171.3,17.13
+"SINAN- Ficha de investigação da dengue",13268787,10,PERDEU,BLC,175,17.5
+"SINAN -Ficha de Notificação/ Conclusão",13268788,10,PERDEU,BLCO,175,17.5
+"SINAN- Síndrome Respiratória Aguda grave",13268789,10,PERDEU,BLC,179,17.9
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",13268790,30,PERDEU,BLC,388.5,12.95
+"SINAN-Ficha de investigação Hepatites Virais",13268791,10,PERDEU,BLC,169,16.9
+"SINAN-Ficha de notificação/ investigação Tuberculose",13268792,10,PERDEU,BLC,176,17.6
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",13268793,50,PERDEU,BLC,482.5,9.65
+"Sistema de Vigilância Alimentar e Nutricional maiores de 5 a",13268794,30,PERDEU,BLC,360,12
+"Solicitação de Eletrocardiograma",13268795,70,PERDEU,BLC,500.5,7.15
+"Termo de solicitação e informação 2 vias autocopiativo",13268796,70,PERDEU,BLC,1128.4,16.12
+"Tratamento cirúrgico - orientações após extração",13268797,2000,PERDEU,UNI,120,0.06
+"Receituário de Controle especial",13268798,6000,DESCLASSIFICADO_LANCE,BLC,49020,8.17
+"Banner 90x120cm",13268799,150,VENCEU,UND,6750,45
+"Folder 297x21cm 2 dobras- papel couche",13268800,30000,VENCEU,UN,9300,0.31
+"Folder 297x21cm 3 dobras- papel couche",13268801,30000,VENCEU,UN,9300,0.31
+"Folder 57x21cm, 4x4 cores em couche",13268802,18000,PERDEU,UNI,12420,0.69
+"Folheto 14x22cm, 4x4 cores em couche brilho 150g",13268803,1500,PERDEU,UND,555,0.37
+"Folder 40x21 cm",13268804,2000,PERDEU,UNI,1180,0.59
+"Folder 297x21cm 3 dobras",13268805,2500,PERDEU,UN,1050,0.42
+"Folheto 10,5x19,5cm em couche",13268806,3000,PERDEU,UN,600,0.2
+"Folder 297x21cm 2 dobras- papel couche colorido",13268807,30000,VENCEU,UNI,8400,0.28
+"Folder 297x21cm 3 dobras- papel couche colorido",13268808,30000,VENCEU,UNI,8400,0.28
+"Folder 20x21cm 1 dobra",13268809,12000,PERDEU,UN,3960,0.33
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente  150gr/m2 fonte preto (podendo ser solictiado até 15 artes diferentes)",13268810,25000,PERDEU,UND,8250,0.33
+"Panfleto 15x21cm  papel couche 150g ; cor 4x4 colorido (podendo ser solictiado até 15 artes dife-rentes)",13268811,10000,PERDEU,UND,6600,0.66
+"Placa - adesivo 35,5x21cm papel couche",13268812,500,VENCEU,UNI,6500,13
+"Faixa em lona 440g, colorida",13268813,70,VENCEU,UN,5950,85
+"Placa Adesiva 20x10 cm, 4 cores em adesivo vinil",13268814,500,VENCEU,UN,3000,6
+"Placa adesivada em os 2mm, 30x11,5cm",13268815,500,VENCEU,UN,9500,19
+"Placa adesivada em os 2mm, 40x30cm",13268816,300,VENCEU,UN,6900,23
+"Placa adesivada 2mm, 30x11cm impressão colorida",13268817,500,VENCEU,UN,11500,23
+"Pasta com Orelha com medidas aproximadas de 31x22cm",13268818,3000,PERDEU,UN,3300,1.1
+"Placa de identificação interna para os ambientes da UBS",13268819,800,VENCEU,UN,22400,28
+"Totem confeccionado em PVC, 3mm",13268820,100,VENCEU,UNI,27000,270
+"Bloco de formulário 2 vias com papel carbono",13268821,100,PERDEU,BLC,1500,15
+"Bloco de formulário 2 vias com papel carbono: conforme modelo a ser encaminhado (“Comunicado de Visita – Escorpiões”; tamanho: 21,0 x 14,5 cm);",13268822,100,PERDEU,BLC,910,9.1
+"Caderneta da gestante",13268823,12000,VENCEU,UN,47400,3.95
+"Confecção de crachá",13268824,1500,VENCEU,UN,585,0.39
+"Placa de fachada confeccionado em ACM, 3mm,  para as diversas UBS, dimensão:    3,00   m   comp    x    1,50     larg. Fixação na fachada através de  parafusos.",13268825,38,VENCEU,UND,47500,1250
+"Placa de fachada confeccionado em ACM, 3mm,  para as diversas UBS, dimensão:    3,00   m   comp    x    1,50     larg. Fixação na fachada através de  parafusos.",13269466,12,VENCEU,UND,15000,1250
+"Confecção e Instalção de Totem externo com ilumi-nação frontal para identificação de UBS",13268826,12,VENCEU,UND,51600,4300
+"Confecção e Instalção de Totem externo com ilumi-nação frontal para identificação de UBS",13269471,3,VENCEU,UND,12900,4300
+"Mapa do município atualizado com territorialização e divisão das microáreas de cada UBS, na dimensão: 1,20m comp x 0,90m altura.",13268827,100,VENCEU,UND,7200,72
+"Banner em lona com alta qualidade de impressão e acabamento gráfico. Mídia espessa de alta gramatura com 440gm2 e 4 cores de impressão na frente. Acabamento com canaletas e cordão suspenso.  Tamanho 90 x 120 cm.",13268828,200,VENCEU,UND,11000,55
+"Confecção e Instalação de Totem 3 faces + ilumina-ção externa, 65x350cm, 4xo cores para identifica-ção de Unidade de Pronto Atendimento 24horas",13268829,4,VENCEU,UND,16600,4150
+"Confecção e Instalação de Placa frente em lona front light, refile, corte reto",13268830,4,VENCEU,UND,3840,960
+"Confecção e Instalação de Placa em chapa + suporte 150 x 75cm",13268831,10,VENCEU,UND,4600,460
+"Confecção e Instalação de Placa frente em lona front light, refile, corte reto, alicação local, 500 x 175cm",13268832,10,VENCEU,UND,9600,960

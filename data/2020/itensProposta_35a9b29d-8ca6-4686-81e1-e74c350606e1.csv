@@ -1,0 +1,3 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Oleo diesel S10",4397563,600000,VENCEU,LS,3600000,6
+"GASOLINA COMUM",4397564,200000,NAO_COTOU,LS,0,0

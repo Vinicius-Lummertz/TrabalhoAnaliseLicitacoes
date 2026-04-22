@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Trompete em SI bemol",5887284,8,PERDEU,PAR,10710.4,1338.8
+"Trombone de marcha em SI bemol.",5887285,8,NAO_COTOU,PAR,0,0
+"Trompa de Marcha em SI bemol.",5887286,2,NAO_COTOU,PAR,0,0
+"Euphonium em SI bemol",5887287,2,VENCEU,PAR,7199.96,3599.98
+"Tuba 3/4 em SI bemol",5887288,2,PERDEU,PAR,20999.8,10499.9
+"Caixa tenor de Marcha com Colete",5887289,2,NAO_COTOU,PAR,0,0
+"Bumbo de Marcha com colete",5887290,2,NAO_COTOU,PAR,0,0
+"Par de pratos 14 Diâmetro de 14",5887291,2,NAO_COTOU,UND,0,0
+"Estante de partitura dobrável",5887292,28,PERDEU,UND,2013.2,71.9

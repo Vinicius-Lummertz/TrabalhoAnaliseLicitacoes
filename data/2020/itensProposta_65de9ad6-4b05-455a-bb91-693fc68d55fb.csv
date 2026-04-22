@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Macacão de segurança",4443866,7200,VENCEU,UN,287640,39.95
+"Óculos de segurança",4443867,200,VENCEU,UND,642,3.21
+"Propé para proteção de calçados",4443868,7200,VENCEU,UN,1800,0.25
+"Protetor facial de segurança",4443869,250,VENCEU,UND,7500,30

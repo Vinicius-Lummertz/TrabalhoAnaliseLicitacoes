@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO",0,30,PERDEU," ",1633.2,54.44
+"APARELHO TELEFONICO S/ FIO",0,8,PERDEU," ",1351.84,168.98
+"APARELHO C/ HEADSET COMPACTO",0,6,PERDEU," ",1968.84,328.14
+"Switch de 8 portas 10/100",0,8,PERDEU," ",1234.08,154.26
+"Switch de16 portas 10/100",0,8,PERDEU," ",2531.84,316.48
+"Switch 24 portas 10/100/1000",0,7,PERDEU," ",9788.8,1398.4
+"Patch panel Cat 05E 24 portas",0,25,PERDEU," ",13700.5,548.02
+"ROTEADOR MODEM WIRELLES",0,7,PERDEU," ",2309.86,329.98
+"RACK DE 19 7U X 450 MM PAREDE",0,10,PERDEU," ",8062.2,806.22
+"Estabilizador 500 VA",0,7,PERDEU," ",1951.32,278.76
+"Bucha 6",0,500,PERDEU," ",200,0.4
+"Cabo utp Lan Cat. 5E",0,7625,PERDEU," ",19138.75,2.51
+"Canaleta sistema 20 x 10 x 2000 mm",0,490,PERDEU," ",5713.4,11.66
+"Canaleta sistema 50 x 20 x 2000 mm",0,490,PERDEU," ",7198.1,14.69
+"Conector RJ 45 Cat. 5E",0,500,PERDEU," ",1095,2.19
+"ETIQUETA IDENTIFICAÇÃO PONTO REDE",0,800,PERDEU," ",408,0.51
+"Fio Elétrico Flexivel 2,5mm",0,7000,PERDEU," ",17220,2.46
+"Abraçadeira pct com 100 unidades",0,15,PERDEU," ",938.4,62.56
+"Fita isolante rolo com 20m.",0,30,PERDEU," ",441.6,14.72
+"Parafuso para bucha 6",0,1500,PERDEU," ",705,0.47
+"Patch Cord 2,5m Cat 5E",0,300,PERDEU," ",5604,18.68
+"Patch Cord 1,5m Cat 5E",0,300,PERDEU," ",4950,16.5
+"Tomada 2P + terra NBR",0,250,PERDEU," ",2767.5,11.07
+"Caixa sist. X 3 X 3",0,300,PERDEU," ",2394,7.98
+"Espelho Sistema X 2 furos para RJ 45",0,250,PERDEU," ",1840,7.36
+"FRENTE FALSA 01 U PARA RACK 19",0,100,PERDEU," ",3404,34.04
+"REGUA P/ RACK 19 C/ 06 TOMADAS",0,30,PERDEU," ",5905.5,196.85
+"Fio telefônico FE 100(Drope)",0,600,PERDEU," ",930,1.55
+"Conjunto de porca gaiola",0,200,PERDEU," ",838,4.19
+"Jack RJ 45 Keystone",0,350,PERDEU," ",10829,30.94

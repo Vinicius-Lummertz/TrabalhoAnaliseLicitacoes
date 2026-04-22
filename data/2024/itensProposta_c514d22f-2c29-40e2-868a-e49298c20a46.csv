@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",16295807,400000,PERDEU,CPLA,148000,0.37
+"Isossorbida, mononitrato 20mg cpr, em blister.",16295953,800000,PERDEU,COMP,160000,0.2
+"Ondansetrona 4mg cpr orodispersível, em blister.",16296052,300000,VENCEU,COMP,63000,0.21

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Clonazepam 2,5mg/mL , 20ml, frasco de vidro âmbar 20ml.",1265513,71,1000,ATIVO,FRASCO,6300,6.3
+"Clonidina 0,2mg cpr, em blister.",1265515,74,2000,ATIVO,COMPRIMIDO,640,0.32
+"Losartana 50mg cpr revestido, em blister.",1265516,174,3200000,ATIVO,COMPRIMIDO,160000,0.05
+"Metildopa 250mg cpr, em blister.",1265517,178,350000,ATIVO,COMPRIMIDO,121450,0.347
+"Metilfenidato 10 mg cpr, em blister.",1265518,179,120000,ATIVO,COMPRIMIDO,64560,0.538
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% c",1265519,242,200,ATIVO,FRASCO,1552,7.76
+"Levodopa 100mg + benserazida 25mg comprimido birranhurado (B",1265531,155,240000,ATIVO,COMPRIMIDO,259200,1.08

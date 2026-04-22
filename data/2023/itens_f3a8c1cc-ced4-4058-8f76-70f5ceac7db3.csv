@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4528268,2,180000,ATIVO,COMPRIMIDO,32400,0.18
+"Enalapril, maleato 10mg cpr, em blister.",4528269,109,2000000,ATIVO,COMPRIMIDO,57200,0.0286
+"Enalapril, maleato 20mg cpr, em blister.",4528270,110,1500000,ATIVO,COMPRIMIDO,73500,0.049
+"Finasterida 5 mg cpr, em blister.",4528271,126,180000,ATIVO,COMPRIMIDO,46800,0.26
+"Hidroclorotiazida 25mg cpr, em blister.",4528272,146,3000000,ATIVO,COMPRIMIDO,54000,0.018
+"Loratadina 1mg/mL xarope, frasco de 100ml.",4528273,180,12000,ATIVO,FRASCO,42000,3.5
+"Sinvastatina 40 mg cpr, em blister.",4528274,235,1800000,ATIVO,COMPRIMIDO,234000,0.13

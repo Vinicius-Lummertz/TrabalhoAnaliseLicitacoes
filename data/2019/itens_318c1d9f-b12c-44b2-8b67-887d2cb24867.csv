@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carvedilol 6,25 mg cpr, em blister.",1265522,62,45000,ATIVO,COMPRIMIDO,3285,0.073
+"Claritromicina 500mg comprimido, em blister.",1265523,69,1000,ATIVO,COMPRIMIDO,2750,2.75
+"Clonidina 0,1mg cpr, em blister.",1265524,73,1000,ATIVO,COMPRIMIDO,215,0.215
+"Clonidina 0,15mg cpr, em blister.",1265525,75,2000,ATIVO,COMPRIMIDO,514,0.257
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextros",1265526,96,2000,ATIVO,AMP,5600,2.8
+"Doxiciclina 100mg cpr, em blister.",1265527,103,3000,ATIVO,COMPRIMIDO,411,0.137
+"Terbutalina, sulfato 0,5mg/mL solução injetável, ampola 1ml.",1265528,241,1000,ATIVO,AMP,1020,1.02
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",1265529,252,8000,ATIVO,AMP,5840,0.73

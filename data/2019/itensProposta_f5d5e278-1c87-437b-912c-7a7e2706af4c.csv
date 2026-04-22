@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P",4441160,15000,DESCLASSIFICADO,UNI,15300,1.02
+"Fralda descartável adulto tamanho M, formato anatômico, de uso único. antialergica. Material: composição interna de fibra de celulose, polietileno, polipropileno, tecido não tecido, camada de não tecido total. Cobertura externa impermeável de polietileno flexível e resistente. Adesivo em termoplástico. Características: com flocos de gel super absorvente, camada interna e externa perfeitamente sobrepostas, com as bordas unidas entre si, medida da cintura de 70 cm a 120 cm e peso 40kg a 75kg (medidas aproximadas).",4441161,60000,DESCLASSIFICADO,UN,62400,1.04
+"Fralda descartável adulto tamanho G",4441162,100000,VENCEU,UNI,90000,0.9
+"Fralda descartável adulto tamanho XG",4441163,100000,PERDEU,UNI,94000,0.94
+"Fralda descartável infantil tamanho P Peso máximo de 6kg até",4441164,200,PERDEU,UNI,100,0.5
+"Fralda descartável infantil tamanho M",4441165,1000,PERDEU,UNI,580,0.58
+"Fralda descartável infantil tamanho G",4441166,1000,PERDEU,UNI,620,0.62
+"Fralda descartável infantil tamanho XG",4441167,2000,PERDEU,UNI,1360,0.68

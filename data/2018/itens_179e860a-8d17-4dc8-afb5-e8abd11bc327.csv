@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Viseira transparente",1312332,5,8,ATIVO,UNIDADE,208,26
+"Luva para motociclista",1314475,4,8,ATIVO,UNIDADE,872,109
+"Capacete para motociclista",1316560,3,8,ATIVO,UNIDADE,1072,134

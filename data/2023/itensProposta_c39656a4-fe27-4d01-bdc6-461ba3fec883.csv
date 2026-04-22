@@ -1,0 +1,18 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,304000,19
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,55080,6.12
+"Betametasona, diproprionato +  betametasona fosfato 1ml",11967195,22000,PERDEU,AMP,176000,8
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",11967220,2000,VENCEU,FR/AM,19980,9.99
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,6000,6
+"Dexametasona, fosfato de dissódico 4mg/ml injetável 2,5mL",11967247,5000,VENCEU,AMP,7500,1.5
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,68400,0.19
+"Espironolactona 25mg cpr, em blister.",11967271,1000000,PERDEU,COMP,420000,0.42
+"Finasterida 5 mg cpr, em blister.",11967281,180000,PERDEU,COMP,81000,0.45
+"Metilfenidato 10 mg cpr, em blister.",11967341,600000,PERDEU,COMP,600000,1
+"Omeprazol 40mg, injetável, com diluente 10ml.",11967367,200,PERDEU,FR/AM,3000,15
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",11967376,18000,PERDEU,FR.,270000,15
+"Risperidona 1mg cpr, em blister.",11967382,480000,PERDEU,COMP,96000,0.2
+"Risperidona 2mg cpr, em blister.",11967383,600000,PERDEU,COMP,132000,0.22
+"rocurônio, brometo 10mg/ml, ampola 5ml.",11967385,200,PERDEU,"FR+A",5600,28
+"Tenoxicam 20 mg pó, para suspensão injetável endovenoso ou i",11967400,1000,PERDEU,FR/AM,9000,9
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",11967406,2000,PERDEU,AMP,16000,8

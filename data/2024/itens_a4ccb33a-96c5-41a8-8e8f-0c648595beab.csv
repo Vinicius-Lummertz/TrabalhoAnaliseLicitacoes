@@ -1,0 +1,45 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental de segurança confeccionado em PVC",6031426,1,280,ATIVO,UNIDADE,1786.4,6.38
+"Avental de segurança confeccionado em raspa (100x60) CA referência: 13989",6031427,2,95,ATIVO,UNIDADE,2641,27.8
+"Boné árabe com touca.",6031428,7,680,ATIVO,UNIDADE,4583.2,6.74
+"Calçado ocupacional tipo BOTA CANO LONGO, com no minimo 28 cm e máximo 30 cm de altura, confeccionado em EVA na cor PRETO OU BRANCA",6031429,8,300,ATIVO,UNIDADE,27870,92.9
+"Bota de PVC Tamanho 33 a 48 (CA Referência 40400)",6031430,9,175,ATIVO,UNIDADE,5407.5,30.9
+"Botina profissional de segurança Tamanho 34 a 48 (CA Referência: 28511)",6031431,10,695,ATIVO,UNIDADE,27445.55,39.49
+"CALCA ANTICHAMA NR-10 1/2 CÓS ELASTICO: Confeccionada em tecido   100%   algodão   com   características   de   retardo   à   chama, fechamento  através  de  botões  e  caseados  com  vista  total  coberta;",6031432,13,90,ATIVO,UNIDADE,8550,95
+"Calçado ocupacional de uso profissional tipo tênis (OB), fechado na parte do calcanhar e na parte superior (NR32),",6031433,14,1365,ATIVO,UNIDADE,83947.5,61.5
+"Calçado ocupacional de uso profissional tipo tênis (OB), fechado na parte do calcanhar e na parte superior (NR32),",6031434,15,455,ATIVO,UNIDADE,27982.5,61.5
+"Calçado ocupacional de uso profissional, tipo bota PVC cano longo. Tamanho 34 a 48 (CA Referência: 38201)",6031435,16,345,ATIVO,UNIDADE,10650.15,30.87
+"Calçado ocupacional tipo botina, confeccionado em couro. Tamanho 33 a 48 (CA Referência: 38362)",6031436,18,375,ATIVO,UNIDADE,14962.5,39.9
+"Camisa antichama NR 10 Esporte Refletiva c/botões",6031437,19,70,ATIVO,UNIDADE,5537.7,79.11
+"Capa de chuva. Tamanho P ao XXG (CA Referência 28450)",6031438,20,450,ATIVO,UNIDADE,6345,14.1
+"Colete de sinalização refletivo tipo X confeccionado em PVC fluorescente na cor laranja ou verde. Possui faixas refletivas.",6031439,22,310,ATIVO,UNIDADE,2504.8,8.08
+"Chapéu de palha aba longa.",6031440,24,310,ATIVO,UNIDADE,3534,11.4
+"Fita demarcadora de area (tipo fita zabrada) 200 METROS",6031441,29,850,ATIVO,UNIDADE,6001,7.06
+"Filtro para máscara P2 HE-1 para máscaras 3M",6031442,30,65,ATIVO,PAR,1655.55,25.47
+"Jardineira de segurança para saneamento, com bota. Tamanho P ao XXG (CA Referência 36004)",6031443,31,55,ATIVO,UNIDADE,3872,70.4
+"Luva de algodão pigmentada 4 fios. Tamanho P ao XXG. (CA Referência 10464)",6031444,32,830,ATIVO,PAR,1245,1.5
+"Luva de segurança confeccionada em látex natural. Tamanho P ao XXG (CA Referência 16779).",6031445,33,95,ATIVO,PAR,198.55,2.09
+"Luva cano longo motoqueiro: Membrana de impermeabilização, protetor interno em polipropileno injetado, fecho principal em micro velcro, ajuste elástico com fecho autotravante nos pulsos, elástico nos punhos,",6031446,34,68,ATIVO,UNIDADE,10822.2,159.15
+"Luva de segurança confeccionada em raspa. Tamanho P ao XXG (CA Referência: 26381)",6031447,35,350,ATIVO,PAR,2579.5,7.37
+"Luva de segurança confeccionada em vaqueta, cano curto. Tamanho P ao XXG (CA Referência 16072)",6031448,36,350,ATIVO,PAR,2761.5,7.89
+"Luva de segurança confeccionada em vaqueta. Tamanho P ao XXG (CA Referência 29947)",6031449,37,120,ATIVO,PAR,1293.6,10.78
+"Luva de segurança isolante de borracha. Tamanho P ao XXG (CA Referência: 2178). Com selo de marcação do INMETRO",6031450,38,50,ATIVO,PAR,8250,165
+"Luva de segurança longa 46cm. Tamanho P ao XXG (CA Referência 12254)",6031451,39,50,ATIVO,PAR,995,19.9
+"Luva de segurança para agentes químicos. Tamanho P ao XXG (CA Referência 16313)",6031452,40,100,ATIVO,PAR,503,5.03
+"Luvas de Manejo de Animais, Luvas de Trabalho de Segurança Anti-riscos Anti-mordida Ampla área de Proteção Proteção Térmica Confortável (60 cm/23,62 pol.)",6031453,41,6,ATIVO,UNIDADE,656.34,109.39
+"Luva de segurança para proteção mecânica. Tamanho P ao XXG (CA Referência",6031454,42,450,ATIVO,PAR,855,1.9
+"Luva de segurança confeccionadas em suporte têxtil 100% algodão. Tamanho P ao XXG (CA Referência 34860)",6031455,43,580,ATIVO,PAR,1160,2
+"""Macacão de segurança confeccionado em nylon emborrachado, com capuz fixo, botas e luvas de PVC acopladas. Tamanho P ao XXG (CA Referência 15162)""",6031456,44,53,ATIVO,UNIDADE,10865,205
+"Macacão de segurança confeccionado em nylon emborrachado, com capuz e botas de PVC acopladas com solda eletrônica. (CA Referência macacão: 28930, CA Ref. bota: 30536)",6031457,46,18,ATIVO,UNIDADE,4048.2,224.9
+"Máscara de solda em polipropileno com catraca e visor articulável, cor preta. (CA Referência 20687)",6031458,47,31,ATIVO,UNIDADE,644.49,20.79
+"Máscara para soldagem com escurecimento automático de 3 a 11 DIN (CA Referência 37739)",6031459,48,10,ATIVO,UNIDADE,919,91.9
+"Óculos  de  segurança  de  policarbonato  na  cor  fumê  (CA  Referência 27692)",6031460,49,200,ATIVO,UNIDADE,678,3.39
+"Óculos de segurança de policarbonato na cor incolor/cinza (CA Referência 10344)",6031461,50,470,ATIVO,UNIDADE,1475.8,3.14
+"Protetor auditivo do tipo concha (CA Referência 29176)",6031462,51,80,ATIVO,UNIDADE,1111.2,13.89
+"Protetor auditivo tipo inserção moldável de espuma de poliuretano no formato cônico, com cordão (CA Referência 5674)",6031463,52,550,ATIVO,UNIDADE,759,1.38
+"Protetor facial de segurança em acrilico.",6031464,54,30,ATIVO,UNIDADE,588,19.6
+"Respirador Descartável PFF 2 com Válvula CA 39158 Intrab",6031465,55,200,ATIVO,UNIDADE,218,1.09
+"Respirador purificador de ar tipo semifacial, classe PFF1 (S). Apresentar selo de marcação do INMETRO (CA Referência 38501)",6031466,56,200,ATIVO,UNIDADE,140,0.7
+"Sombrinha com proteção ultravioleta (UV), com o brasão do municipio, com cabo longo.",6031467,58,550,ATIVO,UNIDADE,18095,32.9
+"Traje de mordida completo, proteção profissional de treinamento de mordida de cachorro, mordida de treinamento de cachorro se encaixa em mordidas de proteção total para cães pastores.",6031468,59,6,ATIVO,UNIDADE,20879.4,3479.9
+"Tapete vinil primeira linha  medindo  1,00m por 0,60cm",6031469,60,250,ATIVO,UNIDADE,25000,100

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Televisor colorido 42 a 50 polegadas",4441310,5,DESCLASSIFICADO,UN,8750,1750
+"Refrigerador tipo doméstico 2 portas, 220 V",4441311,2,DESCLASSIFICADO,UN,3760,1880
+"Refrigerador tipo doméstico 1 porta, 220V",4441312,1,VENCEU,UN,1600,1600
+"Aparelho Microondas capac. 32lt",4441313,2,DESCLASSIFICADO,UN,1080,540
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4441314,5,INABILITADO,UNI,2195,439

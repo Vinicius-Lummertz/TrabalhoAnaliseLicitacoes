@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia: solução injetável para animais domésticos.",11596231,5,VENCEU,UNI,4924.95,984.99
+"Coleiras repelentes P (48 cm)",11596232,100,PERDEU,UN,10000,100
+"Coleiras repelentes G (65cm)",11596233,100,PERDEU,UN,8690,86.9
+"Antipulgas e carrapatos para cães de até 10 kg (pipeta)",11596239,200,PERDEU,pipeta,10000,50
+"Antipulgas e carrapatos para gatos de até 10 kg (pipeta)",11596240,200,PERDEU,pipeta,10000,50

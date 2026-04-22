@@ -1,0 +1,24 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Colar elizabetano para cães nº 3",1261200,16,2,ATIVO,UNIDADE,26,13
+"Rolo de corda",1261202,24,2,ATIVO,UNIDADE,316,158
+"Colar elizabetano para cães nº 10",1261203,23,2,ATIVO,UNIDADE,42,21
+"Colar elizabetano para cães nº 9",1261204,22,2,ATIVO,UNIDADE,38,19
+"Colar elizabetano para cães nº 8",1261205,21,2,ATIVO,UNIDADE,34,17
+"Colar elizabetano para cães nº 7",1261206,20,2,ATIVO,UNIDADE,32,16
+"Colar elizabetano para cães nº 6",1261207,19,2,ATIVO,UNIDADE,32,16
+"Colar elizabetano para cães nº 5",1261208,18,4,ATIVO,UNIDADE,60,15
+"Colar elizabetano para cães nº 2",1261209,15,2,ATIVO,UNIDADE,24,12
+"Colar elizabetano para cães nº4",1261210,17,4,ATIVO,UNIDADE,56,14
+"Focinheira para cães nº 5",1261211,13,2,ATIVO,UNIDADE,28,14
+"Ração balanceada para gatos Filhotes",1261212,3,50,ATIVO,kg,200,4
+"Ração balanceada para caes filhotes",1261213,1,1000,ATIVO,kg,4280,4.28
+"Ração balanceada para gatos adultos",1261214,4,100,ATIVO,kg,400,4
+"Comida enlatada para cães",1261215,5,60,ATIVO,UNIDADE,240,4
+"Comedouros/ tigelas/ potes para ração de cães e gatos 1,5 a",1261216,6,30,ATIVO,UNIDADE,306,10.2
+"Comedouros/ tigelas/ potes para ração de cães e gatos 2,5 a",1261217,7,20,ATIVO,UNIDADE,440,22
+"Colar elizabetano para cães nº 1",1261218,14,2,ATIVO,UNIDADE,20,10
+"Focinheira para cães nº 1",1261219,9,2,ATIVO,UNIDADE,10,5
+"Focinheira para cães nº 3",1261220,11,2,ATIVO,UNIDADE,13,6.5
+"Focinheira para cães nº 4",1261221,12,2,ATIVO,UNIDADE,20,10
+"Focinheira para cães nº 0",1261222,8,2,ATIVO,UNIDADE,10,5
+"Focinheira para cães nº 2",1261223,10,2,ATIVO,UNIDADE,10,5

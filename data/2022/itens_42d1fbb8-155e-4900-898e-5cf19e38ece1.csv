@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bastão de Cola Quente Grosso",3778335,5,1000,ATIVO,UNIDADE,1170,1.17
+"Cartolina tamanho ofício.",3778336,23,1000,ATIVO,PACOTE,8130,8.13
+Dado,3778337,33,150,ATIVO,UNIDADE,375,2.5

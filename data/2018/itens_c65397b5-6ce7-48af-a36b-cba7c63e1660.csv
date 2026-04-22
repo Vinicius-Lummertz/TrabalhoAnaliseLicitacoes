@@ -1,0 +1,19 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Atadura de algodão Ortopédico 10 cm",1262496,19,50,ATIVO,PACOTE,385,7.7
+"Atadura de algodão Ortopédico 20 cm",1262497,21,50,ATIVO,PACOTE,669,13.38
+Avental.,1262498,33,50,ATIVO,PACOTE,610,12.2
+"Cateter Intravenoso n°16 G",1262499,51,2000,ATIVO,UNIDADE,3120,1.56
+"Cateter para oxigênio tipo óculos nº 12",1262500,56,800,ATIVO,UNIDADE,600,0.75
+"Coletor Infantil com furo recortado, unissex, com furo oval.",1262501,59,1000,ATIVO,UNIDADE,250,0.25
+"Compressa Cirúrgica, Campo Operatório, não descartável 45cm",1262502,62,500,ATIVO,PACOTE,33380,66.76
+"Compressa de gaze (tipo queijo) em rolo",1262503,64,400,ATIVO,ROLO,30396,75.99
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios.",1262504,65,1000,ATIVO,PACOTE,12900,12.9
+"Fio cirúrgico preto monofilamentar Nº.  3-0",1262505,110,150,ATIVO,CAIXA,4050,27
+"Fio cirúrgico preto monofilamentar Nº.  2-0",1262506,109,30,ATIVO,CAIXA,810,27
+"Fio cirúrgico preto monofilamentar Nº.  5-0",1262508,111,30,ATIVO,CAIXA,821.7,27.39
+"Fio cirúrgico preto monofilamentar Nº. 4-0",1262509,112,120,ATIVO,CAIXA,3240,27
+"Fio cirúrgico preto monofilamentar Nº. 6-0",1262510,113,30,ATIVO,CAIXA,821.7,27.39
+"Gel lubrificante",1262511,121,50,ATIVO,UNIDADE,258,5.16
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",1262512,161,30,ATIVO,UNIDADE,313.5,10.45
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",1262513,166,200,ATIVO,UNIDADE,180,0.9
+"Especulo vaginal, descartável, estéril, sem lubrificação G",1262516,97,1000,ATIVO,UNIDADE,920,0.92

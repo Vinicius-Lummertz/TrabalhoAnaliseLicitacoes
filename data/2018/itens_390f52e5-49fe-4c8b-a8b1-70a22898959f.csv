@@ -1,0 +1,35 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Levomepromazina, maleato 25mg.",1328565,156,150000,ATIVO,COMPRIMIDO,52500,0.35
+"Lidocaina, cloridrato 100mg/mL spray c/ 100 ml",1328566,165,80,ATIVO,UNIDADE,3256,40.7
+"Morfina 10mg/mL INJETÁVEL 1ML",1328567,184,3000,ATIVO,AMP,4410,1.47
+"Morfina 30 mg",1328568,185,6000,ATIVO,COMPRIMIDO,5880,0.98
+"Naloxona, Hidrocloreto 0,4mg/mL 1ml",1328569,186,180,ATIVO,AMP,1079.82,5.999
+"Nitroglicerina 5mg/ml",1328570,192,20,ATIVO,AMP,529.6,26.48
+"Prednisona 20mg.",1328571,208,400000,ATIVO,COMPRIMIDO,88000,0.22
+"Prednisona 5mg.",1328572,209,220000,ATIVO,COMPRIMIDO,25300,0.115
+"Prometazina, cloridrato 25mg",1328573,211,320000,ATIVO,COMPRIMIDO,35200,0.11
+"Levomepromazina, maleato 100mg.",1328577,155,200000,ATIVO,COMPRIMIDO,144000,0.72
+"LEVODOPA 250MG + CARBIDOPA 25MG",1328593,153,36000,ATIVO,COMPRIMIDO,25200,0.7
+"Heparina 5000 UI/0,25mL",1328594,134,8000,ATIVO,AMP,32400,4.05
+"Amitriptilina , cloridrato 25mg",1328600,21,1500000,ATIVO,COMPRIMIDO,93000,0.062
+"Biperideno, cloridrato 2mg.",1328601,40,250000,ATIVO,COMPRIMIDO,37500,0.15
+"Biperideno, cloridrato 5mg/mL 1ml",1328602,41,500,ATIVO,AMP,880,1.76
+"Bupivacaína 0,25% com vasoconstritor frasco com 20 ml (embal",1328603,46,10,ATIVO,FRASCO,215.9,21.59
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",1328604,47,10,ATIVO,FRASCO,205,20.5
+"Bupivacaína 0,5 % sem vasoconstritor frasco com 20 ml (embal",1328605,48,10,ATIVO,FRASCO,194.9,19.49
+"Bupivacaína 0,5% com vasoconstritor frasco com 20 ml (embala",1328606,49,10,ATIVO,FRASCO,196.2,19.62
+"Imipramina 25mg blíster fracionável.",1328607,142,700000,ATIVO,COMPRIMIDO,182000,0.26
+"Clonazepam 2mg.",1328608,70,2200000,ATIVO,COMPRIMIDO,143000,0.065
+"Clorpromazina, cloridrato 40mg/mL gotas",1328609,80,400,ATIVO,FRASCO,1832,4.58
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada 30g",1328610,82,3000,ATIVO,BISNAGA,24000,8
+"Etomidato 2mg/ml ampola 10ml.",1328611,108,200,ATIVO,AMP,1628,8.14
+"Fenitoina 50mg/mL solução injetável 5ml",1328612,110,200,ATIVO,AMP,430,2.15
+"FENOBARBITAL 100mg",1328613,111,320000,ATIVO,COMPRIMIDO,29120,0.091
+"Fenobarbital 40mg/mL - solução oral- 20ml frasco ambar",1328614,113,2000,ATIVO,FRASCO,5540,2.77
+"Fitomenadiona 10mg/ml solução injetavel 5ml",1328615,116,50,ATIVO,AMP,53,1.06
+"Flumazenil 0,1mg/mL injetável 5ml",1328616,118,120,ATIVO,AMP,1068,8.9
+"HALOPERIDOL 1MG",1328617,129,70000,ATIVO,COMPRIMIDO,7700,0.11
+"Haloperidol 5mg.",1328618,130,180000,ATIVO,COMPRIMIDO,16200,0.09
+"Haloperidol, decanoato 70,52mg/mL 1ml",1328619,132,5000,ATIVO,AMP,23700,4.74
+"Haloperidol, 2mg/ml solução oral, frasco de vidro âmbar.",1328620,133,50,ATIVO,FRASCO,114.5,2.29
+"Clorpromazina, cloridrato 25mg.",1328621,79,220000,ATIVO,COMPRIMIDO,39600,0.18

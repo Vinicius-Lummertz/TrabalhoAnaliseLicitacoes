@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,300,PERDEU," ",1470,4.9
+"Cano cobre ½;",0,60,PERDEU," ",1296,21.6
+"Cano cobre ¼",0,60,PERDEU," ",840,14
+"Cano cobre ¾;",0,60,PERDEU," ",1920,32
+"Cano cobre 3/8",0,60,PERDEU," ",1014,16.9
+"Cano cobre 5/8",0,60,PERDEU," ",1506,25.1
+"Cano esponjoso ¼",0,70,PERDEU," ",273,3.9
+"Cano esponjoso ½",0,70,PERDEU," ",273,3.9
+"Cano esponjoso ¾",0,70,PERDEU," ",346.5,4.95
+"Cano esponjoso 3/8",0,70,PERDEU," ",273,3.9
+"Cano esponjoso 5/8",0,70,PERDEU," ",311.5,4.45
+"Capacitor 380V 2 UF",0,10,PERDEU," ",124,12.4
+"Capacitor 380V 4 UF",0,10,PERDEU," ",134,13.4
+"Capacitor 380V 6 UF",0,10,PERDEU," ",138,13.8
+"Capacitor 380V 25 UF",0,10,PERDEU," ",195,19.5
+"Capacitor 380V 30 UF",0,10,PERDEU," ",218,21.8
+"Capacitor 380V 35 UF",0,10,PERDEU," ",240,24
+"Capacitor 380V 40 UF",0,10,PERDEU," ",260,26
+"Capacitor 380V 45 UF",0,10,PERDEU," ",265,26.5
+"Capacitor 380V 55 UF",0,10,PERDEU," ",285,28.5
+"Chave contactora CWM 09",0,10,PERDEU," ",1309,130.9
+"Chave contactora CWM 10",0,10,PERDEU," ",1369,136.9
+"Compressor para Split 9000 BTUS",0,3,PERDEU," ",1482,494
+"Compressor para Split 12000 BTUS",0,3,PERDEU," ",1809,603
+"Compressor para Split 24000 BTUS",0,3,PERDEU," ",2664,888
+"Compressor para Split 48000 BTUS",0,3,PERDEU," ",3285,1095
+"Compressor para Split 60000 BTUS",0,3,PERDEU," ",5070,1690
+"Controle remoto univ. ar split",0,10,PERDEU," ",238,23.8
+"Gás R22 (carga)",0,100,PERDEU," ",22800,228
+"Gas R410 A (carga)",0,90,PERDEU," ",20520,228
+"Hélice ar cond. 7000 a 24.000 BTUS",0,15,PERDEU," ",1590,106
+"90328929 PLACA ELETRONICA",0,10,PERDEU," ",2040,204
+"87426773	MOTOR DO VENTILADOR",0,10,PERDEU," ",1120,112
+"Suporte split 7/12000btus",0,50,PERDEU," ",1000,20
+"Suporte split 18/30000btus",0,50,PERDEU," ",2250,45
+"Termostato do ar condicionado",0,10,PERDEU," ",260,26
+"Turbina  do ventilador",0,10,PERDEU," ",1610,161
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",0,200,PERDEU," ",25000,125
+"Limpeza completa do ar split com retirada do aparelho",0,220,PERDEU," ",42900,195
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos (hora)",0,300,PERDEU," ",22800,76
+"ANÁLISE DE AR (16); CO E CO2 (16); UMIDADE, PRESSÃO, TEMPERATURA, VELOCIDADE (16); AERODISPERSÓI DES (",0,2,PERDEU," ",4540,2270
+"ANÁLISE DA QUALIDADE DA ÁGUA INTERNA DO SISTEMA DE CLIMATIZAÇÃO.",0,12,PERDEU," ",2280,190

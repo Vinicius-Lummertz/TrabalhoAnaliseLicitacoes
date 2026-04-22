@@ -1,0 +1,52 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acalcador de Banda c/ Ponta Quadrada",2322615,1,1,ATIVO,UNIDADE,10.7,10.7
+"Posicionador Radiográfico digital",2322616,106,6,ATIVO,UNIDADE,1548,258
+"Água oxigenada 10% - Fr 100ml",2322617,133,200,ATIVO,FRASCO,378,1.89
+"Agulha gengival EXTRA CURTA descartavel.",2322618,135,30,ATIVO,CAIXA,1033.5,34.45
+"ALGINATO TIPO I 454 GRAMAS",2322619,139,50,ATIVO,Pacote,1800,36
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.",2322620,144,30,ATIVO,CAIXA,4170,139
+"Anestésico LIDOCAINA 2% COM vasocontritor epinefrina 1:100.0",2322621,145,550,ATIVO,CAIXA,41745,75.9
+"Anestésico MEPIVACAINA 2% COM vasoconstritor epinefrina 1:10",2322622,146,187,ATIVO,CAIXA,20383,109
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",2322623,148,70,ATIVO,CAIXA,8043,114.9
+"Barreira gengival tipo TOPDAM - fotopolimerizável",2322624,158,40,ATIVO,kit,320,8
+"Broca de baixa rotação CARBIDE LN CA",2322625,188,30,ATIVO,UNIDADE,630,21
+"Broca de baixa rotação CARBIDE n° 1",2322626,189,200,ATIVO,UNIDADE,760,3.8
+"Broca de baixa rotação carbide n° 2",2322627,190,200,ATIVO,UNIDADE,760,3.8
+"Broca de baixa rotação carbide n° 4",2322628,191,600,ATIVO,UNIDADE,2280,3.8
+"Broca de baixa rotação carbide n° 6",2322629,192,600,ATIVO,UNIDADE,2280,3.8
+"Broca de baixa rotação carbide n° 8",2322630,193,500,ATIVO,UNIDADE,1900,3.8
+"Broca de baixa rotação haste longa n° 1",2322631,194,30,ATIVO,UNIDADE,98.7,3.29
+"Broca de baixa rotação haste longa n° 4",2322632,196,50,ATIVO,UNIDADE,166.5,3.33
+"Broca de baixa rotação haste longa n° 8.",2322633,198,30,ATIVO,UNIDADE,99.9,3.33
+"Cimento Resinoso Endodôntico para obturação de canais radicu",2322634,238,60,ATIVO,UNIDADE,15990,266.5
+"Compressas de Gaze Hidrófila 9 fios, 100% Algodão 7,5 x 7,5",2322635,242,1200,ATIVO,PACOTE,23640,19.7
+"condensador de gutapercha mcspadden #35",2322636,243,30,ATIVO,CXA,3899.4,129.98
+"Cone de papel absorvente esteril nº 30",2322637,248,35,ATIVO,CAIXA,1023.75,29.25
+"Cone de papel absorvente esteril nº 40",2322638,250,35,ATIVO,CAIXA,1023.75,29.25
+"Cone guta percha, #35/04 - 28mm",2322639,266,30,ATIVO,CAIXA,990.6,33.02
+"Cone guta percha, #40/04 - 28mm",2322640,268,50,ATIVO,CAIXA,1651,33.02
+"Elástico Intraoral Látex 1/4 - médio",2322641,281,8,ATIVO,EMBALAGEM,72.72,9.09
+"Elástico Intraoral Látex 3/16 - médio",2322642,283,8,ATIVO,EMBALAGEM,68.08,8.51
+"Elástico Intraoral Látex 5/16 - médio",2322643,284,8,ATIVO,EMBALAGEM,94.4,11.8
+"Elástico Separador Anel AZUL",2322644,285,6,ATIVO,EMBALAGEM,57.48,9.58
+"Elástico Separador Anel VERDE",2322645,286,6,ATIVO,EMBALAGEM,57.48,9.58
+"Escova de polimento pelo de cabra com couro chamois",2322646,297,10,ATIVO,UNIDADE,111.8,11.18
+"Filme Periapical INFANTIL E-speed  - ultra rapido.",2322647,314,10,ATIVO,CAIXA,1780,178
+"Hidróxido de cálcio Pró-Análise - 10g",2322648,344,60,ATIVO,POTE,204,3.4
+"Lima Reciprocante WaveOne Glider 15-25mm.",2322649,387,20,ATIVO,CARTELA,3224,161.2
+"Lima Reciprocante WaveOne Glider 15-21mm.",2322650,388,20,ATIVO,CARTELA,3224,161.2
+"Lima Reciprocante WAVE ONE GOLD (20.07 -21mm) AMARELA",2322651,389,60,ATIVO,CAIXA,11856,197.6
+"Lima Reciprocante WAVE ONE GOLD (20.07 -25mm) AMARELA",2322652,390,60,ATIVO,CAIXA,11856,197.6
+"Lima Reciprocante WAVE ONE GOLD (25.07 - 21mm) VERMELHA",2322653,391,60,ATIVO,CAIXA,11856,197.6
+"Lima Reciprocante WAVE ONE GOLD (25.07 - 25mm) VERMELHA",2322654,392,60,ATIVO,CAIXA,11856,197.6
+"Lima Reciprocante WAVE ONE GOLD (35.06 - 21mm) VERDE",2322655,393,60,ATIVO,CAIXA,11856,197.6
+"Lima Reciprocante WAVE ONE GOLD (35.06 -25mm) VERDE",2322656,394,60,ATIVO,CAIXA,11856,197.6
+"Limas Rotatórias SRF-SEQUENCE - 25mm",2322657,409,250,ATIVO,CAIXA,28000,112
+"Otosporin - 10ml",2322658,430,80,ATIVO,FRASCO,1019.2,12.74
+"Pasta profilática com granulação média com flúor",2322659,441,180,ATIVO,TBO,702,3.9
+"Pavio para lamparina",2322660,443,1,ATIVO,PACOTE,2.6,2.6
+"Verniz cavitário -10 ml",2322661,521,15,ATIVO,FRASCO,146.25,9.75
+"Verniz fluoretado",2322662,522,30,ATIVO,kit,505.2,16.84
+"Autoclave 21 litros",2322663,525,10,ATIVO,UNIDADE,46500,4650
+"Motor Endodôntico Elétrico",2322664,540,3,ATIVO,UNIDADE,22200,7400
+"Seladora térmica digital",2322665,543,8,ATIVO,UNIDADE,5200,650

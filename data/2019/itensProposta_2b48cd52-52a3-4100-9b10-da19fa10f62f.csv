@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Projeto Elétrico",0,5040,VENCEU," ",12600,2.5
+"Projeto Comunicação (telefone + rede lógica)",0,5040,VENCEU," ",5090.4,1.01
+"Projeto Preventivo de Incêndio Completo",0,5040,VENCEU," ",5896.8,1.17
+"Projeto Ar Condicionado",0,5040,VENCEU," ",3830.4,0.76
+"Planilha Orçamentaria de Obras",0,5040,VENCEU," ",2469.6,0.49

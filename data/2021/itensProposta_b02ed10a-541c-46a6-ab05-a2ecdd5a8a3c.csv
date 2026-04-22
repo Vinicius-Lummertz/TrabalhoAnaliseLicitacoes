@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Conjunto abrigo de ônibus metálico modelo 01",0,40,DESCLASSIFICADO," ",242000,6050
+"Conjunto abrigo de ônibus metálico modelo 02",0,40,DESCLASSIFICADO," ",232000,5800
+"Abrigo de ônibus metálico",0,10,DESCLASSIFICADO," ",34000,3400
+"Cobertura de Abrigo metálico (telhado)",0,60,DESCLASSIFICADO," ",53400,890

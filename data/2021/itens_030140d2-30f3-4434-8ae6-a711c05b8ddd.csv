@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camiseta SAMU azul marinho",1359651,1,50,ATIVO,UNIDADE,1550,31
+"JAQUETA SAMU EM MICROFIBRA, TAMANHO P, M,G,G,XG,XXG",1359652,4,20,ATIVO,UNIDADE,3700,185
+"Macacão de Emergência  SAMU 192, TAMANHO PP, P, M,G, GG,XG,",1359653,5,40,ATIVO,UNIDADE,12000,300

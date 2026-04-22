@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base de brita graduada - incluso frete",22096181,83161,VENCEU,TON,2827474,34
+"Pó de pedra - incluso frete",22096182,28261,PERDEU,TON,1300006,46
+"Macadame (ou brita nº 04) - incluso frete",22096183,12995,PERDEU,TON,518500.5,39.9
+"Pedrisco (ou brita nº 00) - incluso frete",22096184,18073,PERDEU,TON,750029.5,41.5
+"Brita 3/4 (brita nº 01) - incluso frete",22096185,11127,VENCEU,TON,445080,40
+"Rachão (ou brita nº 05) - incluso frete",22096186,4500,PERDEU,TON,181980,40.44
+"Base de Seixo parcialmente britado com granulometria de até 2''",22096190,5609,DESCLASSIFICADO,TON,322517.5,57.5

@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta Carimbo Preta",1301231,103,8,ATIVO,UNIDADE,16,2
+"VASSOURA PALHA",1303293,50,20,ATIVO,UNIDADE,236,11.8
+"Tinta Carimbo Vermelha",1303304,104,10,ATIVO,UNIDADE,20,2
+"Porta Papel Higiênico Rolão",1305323,42,4,ATIVO,UNIDADE,104.4,26.1
+"Pano de copa e cozinha",1309377,36,80,ATIVO,UNIDADE,172,2.15
+"Flanela para limpeza",1309380,27,30,ATIVO,UNIDADE,32.7,1.09
+"Toner HP laserjet pro mfp m 521 dn compatível",1309390,125,30,ATIVO,UNIDADE,2160,72
+"Saponáceo cremoso 300gr.",1311449,21,60,ATIVO,FRASCO,210,3.5
+"Balde Espremedor",1313415,29,1,ATIVO,UNIDADE,298,298
+"Toner RICOH Aficio MP171 e MP201 compatível",1313421,127,30,ATIVO,UNIDADE,1080,36
+"Toner RICOH Aficio MP171 e MP201 original",1315587,116,20,ATIVO,UNIDADE,2980,149
+"Saca de tecido crua",1317633,44,10,ATIVO,PACOTE,53,5.3
+"Toner HP laserjet m1132 e m1212 MFP original",1319647,115,15,ATIVO,UNIDADE,2002.5,133.5

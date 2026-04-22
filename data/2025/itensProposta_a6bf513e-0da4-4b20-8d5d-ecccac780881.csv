@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Câmara de ar 1000x20 com valvula de metal",21871654,100,PERDEU,UND,25713,257.13
+"Câmara de ar 1100x22 com valvula de metal",21871655,4,PERDEU,UND,1453.6,363.4
+"Pneu Novo 1100x20 compactador 18 lonas",21871678,6,VENCEU,UND,24000,4000
+"Pneu Novo 20,5x25 radial L3 20 lonas",21871684,8,PERDEU,UND,110379.2,13797.4
+"Pneu Novo 20,5x25 radial L3 20 lonas",21879535,2,PERDEU,UND,27594.8,13797.4
+"Pneu Novo 215/75 R17,5 radial misto liso",21871714,60,PERDEU,UND,89880,1498
+"Pneu Novo 215/75 R17,5 radial misto liso",21879751,20,PERDEU,UND,29960,1498
+"Pneu Novo 235/75 R17,5 radial misto liso",21871715,6,PERDEU,UND,13170,2195
+"Pneu Novo 205/50-10",21871726,24,VENCEU,UND,11520,480
+"Pneu Novo 7.00-12 (5.00)",21871727,2,VENCEU,UND,1680,840
+"Pneu Novo 6.00-9 (4.00)",21871728,2,VENCEU,UND,3300,1650

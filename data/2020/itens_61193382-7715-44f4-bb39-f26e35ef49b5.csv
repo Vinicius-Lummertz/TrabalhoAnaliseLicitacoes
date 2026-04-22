@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Captopril 25mg cpr, em blister.",1267907,52,1500000,ATIVO,COMPRIMIDO,75000,0.05
+"Enalapril, maleato 5mg cpr, em blister.",1267952,106,300000,ATIVO,COMPRIMIDO,14100,0.047
+"Isossorbida, mononitrato 20mg cpr, em blister.",1267953,151,500000,ATIVO,COMPRIMIDO,50000,0.1
+"Isossorbida, mononitrato 40mg cpr, em blister.",1267954,152,360000,ATIVO,COMPRIMIDO,67680,0.188
+"Loratadina 10mg cpr, em blister.",1267955,172,600000,ATIVO,COMPRIMIDO,44220,0.0737
+"Loratadina 1mg/mL xarope, frasco de 60ml.",1267956,173,8000,ATIVO,FRASCO,16320,2.04
+"Oxido de zinco 25% (Pasta d´agua). Embalagem com 80g a 100g,",1267957,208,5000,ATIVO,BISNAGA,26650,5.33
+"Piridoxina 40mg cpr, em blister.",1267958,214,3000,ATIVO,COMPRIMIDO,2760,0.92
+"Tiamina 300 mg cpr, em blister.",1267959,243,12000,ATIVO,COMPRIMIDO,2334,0.1945
+"Aciclovir 200 mg cpr, em blister.",1328365,1,130000,ATIVO,COMPRIMIDO,22815,0.1755

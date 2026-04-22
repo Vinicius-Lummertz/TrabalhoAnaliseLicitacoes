@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"TUBO DE COBRE 5/8",0,85,PERDEU," ",4675,55
+"TUBO DE COBRE 3/8",0,85,PERDEU," ",3825,45
+"TUBO DE COBRE 1/2",0,85,PERDEU," ",4335,51
+"TUBO DE COBRE 3/4",0,85,PERDEU," ",3825,45
+"CABO PP 5 X 2,5mm",0,250,PERDEU," ",4000,16
+"Serviço de pré-instalação de aparelhos de ar condicionado",0,13,PERDEU," ",9360,720
+"Serviço de instalação de aparelhos de Ar condicionado de 9.000 - 12.000 BTUS",0,7,PERDEU," ",4480,640
+"Serviço de instalação de aparelhos de Ar condicionado de 18.000 BTUS",0,1,PERDEU," ",750,750
+"Serviço de instalação de aparelhos de Ar condicionado de 24.000 - 30.000 BTUS",0,3,PERDEU," ",3150,1050
+"Serviço de instalação de aparelhos de Ar condicionado de 60.000 BTUS",0,2,PERDEU," ",3000,1500
+"Aparelho de Ar Condicionado Split 9.000 Btus",0,6,PERDEU," ",15900,2650
+"Aparelho de Ar Condicionado tipo Split HI- WALL 12.000",0,1,PERDEU," ",3400.52,3400.52
+"APARELHO DE AR CONDICIONADO 18.000 BTUS",0,1,PERDEU," ",4480,4480
+"Aparelho de Ar Condicionado tipo Split HI- WALL 24.000",0,1,PERDEU," ",5650,5650
+"Aparelho de Ar Condicionado tipo Split HI- WALL 30.000",0,2,PERDEU," ",14800,7400
+"Aparelho de Ar Condicionado tipo Split Piso Teto 60.000 BTU/",0,2,PERDEU," ",25320,12660

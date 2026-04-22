@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Palco,0,1,PERDEU," ",9300,9300
+Fechamento,0,3,PERDEU," ",600,200
+Carpe,0,60,PERDEU," ",1200,20
+"Iluminação de médio porte",0,1,PERDEU," ",15200,15200
+"Sonorização de médio porte",0,1,PERDEU," ",23700,23700
+"Tenda com divisória",0,1,PERDEU," ",3500,3500
+"Tenda com iluminação",0,1,PERDEU," ",2500,2500
+"Backdrop Q15 (fundo do palco)",0,1,PERDEU," ",1500,1500
+"Backdrop Q15 (área externa)",0,1,PERDEU," ",1500,1500
+"Tenda  chapéu bruxa",0,2,PERDEU," ",5600,2800
+"Cadeira PVC",0,150,PERDEU," ",1050,7

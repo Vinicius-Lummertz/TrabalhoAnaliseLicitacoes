@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Livros da educação infantil",1308872,1,500,ATIVO,UNIDADE,10950,21.9
+"Livro didático da História de Criciúma",1312889,2,3000,ATIVO,UNIDADE,32700,10.9
+"Livro da História de Criciúma",1317102,3,4000,ATIVO,UNIDADE,95600,23.9

@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Albendazol 400mg comprimido mastigável",1328528,13,15000,ATIVO,COMPRIMIDO,4335,0.289
+"Carvedilol 25 mg",1328529,58,36000,ATIVO,COMPRIMIDO,4572,0.127
+"Ceftriaxona 500 mg IM",1328530,63,1000,ATIVO,"Frasco ampola",8700,8.7
+"FENITOINA 100MG",1328547,109,280000,ATIVO,COMPRIMIDO,52892,0.1889
+"Fenobarbital 200mg/mL 1ml",1328562,112,100,ATIVO,AMP,190,1.9
+"Hidroxido de aluminio200mg+ hidroxido de magnésio 200mg comp",1328563,139,5000,ATIVO,COMPRIMIDO,1250,0.25
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",1328564,157,80000,ATIVO,COMPRIMIDO,2240,0.028
+"Ondansetrona 4mg injetável 2mL",1328595,198,10000,ATIVO,AMP,9980,0.998
+"Oxido de zinco 25% (Pasta d´agua). Embalagem com 80g a 100g",1328596,199,7500,ATIVO,BISNAGA,37425,4.99
+"PERMETRINA 10MG/ML LOÇÃO 60ML",1328597,202,5000,ATIVO,FRASCO,6900,1.38
+"Pirimetamina 25mg",1328598,206,7000,ATIVO,COMPRIMIDO,546,0.078
+"Salbutamol 100 mcg aerossol oral com 200 doses 10ml",1328599,219,200,ATIVO,FRASCO,1240,6.2

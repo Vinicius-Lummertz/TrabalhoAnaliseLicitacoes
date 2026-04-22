@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CABO PP",0,150,VENCEU," ",510.04,3.40027
+"Cano cobre ½",0,100,VENCEU," ",1456.97,14.5697
+"Cano cobre ¼",0,120,VENCEU," ",999.06,8.3255
+"Cano cobre ¾",0,100,VENCEU," ",2775.18,27.7518
+"Cano cobre 3/8",0,120,VENCEU," ",1581.85,13.1821
+"Cano cobre 5/8",0,75,VENCEU," ",1561.04,20.8138
+"Cano esponjoso ¼",0,60,VENCEU," ",83.26,1.3876
+"Cano esponjoso ½",0,60,VENCEU," ",95.74,1.5957
+"Cano esponjoso ¾",0,60,VENCEU," ",166.51,2.7752
+"Cano esponjoso 3/8",0,60,VENCEU," ",104.07,1.7345
+"Cano esponjoso 5/8",0,60,VENCEU," ",145.7,2.4283
+"Capacitor 380V 2 MF",0,50,VENCEU," ",277.52,5.5504
+"Capacitor 380V 4 MF",0,50,VENCEU," ",312.21,6.2442
+"CAPACITOR 380 V  6 UF",0,50,VENCEU," ",346.9,6.9379
+"Capacitor 380V 25 MF",0,50,VENCEU," ",901.94,18.0387
+"Capacitor 380V 30 MF",0,100,VENCEU," ",2012,20.12
+"Capacitor 380V 35 MF",0,150,VENCEU," ",3018,20.12
+"Capacitor 380V 40 MF",0,100,VENCEU," ",2012,20.12
+"Capacitor 380V 45 MF",0,75,VENCEU," ",1821.21,24.2828
+"Capacitor 380V 55 MF",0,50,VENCEU," ",1352.9,27.058
+"Chave contactora CWM 09",0,15,VENCEU," ",1561.04,104.0692
+"Chave contactora CWM 10",0,15,VENCEU," ",1665.11,111.0072
+"Compressor para Split 9000 BTUS",0,10,VENCEU," ",2983.32,298.3317
+"Compressor para Split 12000 BTUS",0,10,VENCEU," ",3122.08,312.2076
+"Compressor para Split 18000 BTUS",0,10,VENCEU," ",3607.73,360.7733
+"Compressor para Split 24000 BTUS",0,10,VENCEU," ",3815.87,381.5871
+"Compressor para Split 30000 BTUS",0,10,VENCEU," ",5550.36,555.0358
+"Compressor para Split 60000 BTUS",0,3,VENCEU," ",3119.99,1039.9983
+"CONTROLE REMOTO",0,50,VENCEU," ",1734.48,34.6897
+"GÁS R410",0,150,VENCEU," ",14569.7,97.1313
+"Gás R22",0,150,VENCEU," ",12488.31,83.2554
+"HELICE DE AR CONDICIONADO 7000Á 24000 BTUS",0,10,VENCEU," ",846.43,84.643
+"Placa eletrônica para split",0,60,VENCEU," ",6660.43,111.0072
+"Moto de ventilador",0,20,VENCEU," ",2497.66,124.8831
+"Suporte split 7/12000btus",0,15,VENCEU," ",197.73,13.1821
+"Suporte split 18/30000btus",0,15,VENCEU," ",301.8,20.12
+"Termostato ar cond. 1601",0,10,VENCEU," ",201.2,20.12
+"TURBINA VENTILADOR",0,10,VENCEU," ",763.17,76.3174
+"INSTALAÇÃO D AR CONDICIONADO",0,50,VENCEU," ",10406.92,208.1384
+"SERVIÇO DE HORA CORRETIVA",0,750,VENCEU," ",26017.28,34.6897
+"SERVIÇO HORA PREVENTIVA",0,2400,VENCEU," ",83255.28,34.6897

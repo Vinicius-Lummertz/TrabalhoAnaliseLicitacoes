@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carga de gás de cozinha P 08",1496074,1,30,ATIVO,UNIDADE,3000,100
+"CASCO GÁS - para gás P13.",1496075,2,60,ATIVO,UNIDADE,11400,190
+"Casco para gás P45",1496076,3,117,ATIVO,UNIDADE,104130,890
+"Casco para gás P8",1496077,4,10,ATIVO,UNIDADE,2000,200

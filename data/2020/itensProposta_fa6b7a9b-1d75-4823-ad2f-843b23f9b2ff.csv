@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Projeto Arquitetônico - Layout existente (levantamento e des",0,2000,PERDEU," ",3000,1.5
+"Projeto Estrutural de Concreto Armado + Fundações",0,2500,PERDEU," ",15000,6
+"Projeto estrutura metálica",0,2000,PERDEU," ",6000,3
+"Projeto Preventivo de Incêndio Completo",0,3500,PERDEU," ",12250,3.5
+"Projeto Hidrossanitário com reaproveitamento águas pluviais",0,2500,PERDEU," ",5000,2

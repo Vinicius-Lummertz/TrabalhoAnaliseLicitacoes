@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Massa de modelar",1300743,54,5000,ATIVO,CAIXA,6600,1.32
+"Caixa organizadora de plástico baixa 8,6 litros",1304824,22,200,ATIVO,UNIDADE,4546,22.73
+"Caneta para tecido",1306867,26,300,ATIVO,CAIXA,5232,17.44
+"Caixa de arquivo morto.",1306868,21,2000,ATIVO,UNIDADE,4800,2.4
+"Lápis colorido.",1312882,50,1000,ATIVO,CAIXA,5720,5.72
+"Cola Branca 1 kg a base de PVA",1319118,32,1200,ATIVO,UNIDADE,16788,13.99
+"Cola Branca 100g",1341730,33,2000,ATIVO,UNIDADE,3000,1.5
+"Tesoura de picotar",1341731,71,100,ATIVO,UNIDADE,2410,24.1

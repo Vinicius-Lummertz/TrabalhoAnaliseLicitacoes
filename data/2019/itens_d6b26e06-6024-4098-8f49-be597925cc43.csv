@@ -1,0 +1,16 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Seladora térmica digital, de mesa, com suporte para rolo e c",1265782,24,1,ATIVO,UNIDADE,520,520
+"SUPORTE PARA COLETOR DE MATERIAL PERFUROCORTANTE",1265790,60,100,ATIVO,UNIDADE,1985,19.85
+"Estufa elétrica digital para cultura bacteriológica",1265791,43,1,ATIVO,UNIDADE,3106,3106
+"Hemocitômetro (contador digital de células sanguíneas - 12 t",1265792,41,2,ATIVO,UNIDADE,2440,1220
+"Oftalmoscópio iluminação halógena",1265793,34,2,ATIVO,UNIDADE,2720,1360
+"Otoscópio fibra ótica, com 5 espéculos reutilizáveis (Esteri",1265794,33,4,ATIVO,CONJUNTO,2667.2,666.8
+"Detector de batimento cardíaco fetal digital portátil",1265795,27,4,ATIVO,UNIDADE,2480,620
+"Consultório Odontológico;",1265796,25,1,ATIVO,conjunto,14500,14500
+"Compressor odontológico em ferro fundido",1265797,23,1,ATIVO,UNIDADE,3000,3000
+"Autoclave esterilização a vapor",1265798,21,1,ATIVO,UNIDADE,16550,16550
+"Aparelho para Inalação (nebulizador) com 3 saídas e carro su",1265799,20,2,ATIVO,UNIDADE,2980,1490
+"Mesa auxiliar retangular em aço inox, com prateleira e rodiz",1265800,16,8,ATIVO,UNIDADE,2600,325
+"Mesa ginecológica estofada, revestimento impermeável",1265801,14,1,ATIVO,UNIDADE,1760,1760
+"Carro para transporte de resíduos hospitalares",1265802,12,2,ATIVO,UNIDADE,640,320
+"Suporte para Braçadeira para injeção",1265803,1,3,ATIVO,UNIDADE,375,125

@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Jaleco branco manga longa Atenção Básica",4500071,800,DESCLASSIFICADO,UN,68000,85
+"Jaleco branco manga longa NASF",4500072,120,DESCLASSIFICADO,UN,10200,85
+"Jaleco branco manga longa Atenção Especializada",4500073,240,DESCLASSIFICADO,UN,19080,79.5
+"Jaleco branco manga longa Odontologia CEO",4500074,100,DESCLASSIFICADO,UN,7950,79.5
+"Jaleco branco manga longa Odontologia Atenção Básica",4500075,300,DESCLASSIFICADO,UN,26100,87
+"Jaleco branco manga longa Urgência e Emergência",4500076,120,DESCLASSIFICADO,UN,10440,87
+"Jaleco branco manga longa Laboratório Municipal",4500077,60,DESCLASSIFICADO,UN,5220,87
+"Jaleco branco manga longa  Farmaceuticos",4500078,100,DESCLASSIFICADO,UN,7950,79.5
+"Jaleco azul manga longa  Almoxarifado",4500079,45,DESCLASSIFICADO,UN,3712.5,82.5
+"Jaleco consultório na rua",4500080,15,DESCLASSIFICADO,UN,1240.5,82.7
+"Calça Brim Higienizadora",4500081,270,DESCLASSIFICADO,UN,13500,50
+"Camiseta manga curta higienizadora",4500082,270,VENCEU,UN,6318,23.4
+"Camisa Polo PROFISSIONAL(a ser definido pela secretaria de",4500083,120,DESCLASSIFICADO,UN,6240,52
+"Camiseta manga curta Agente Comunitário de Saúde",4500084,1200,PERDEU,UN,32400,27
+"Colete Consultório na rua",4500085,15,DESCLASSIFICADO,UN,1485,99
+"Camiseta Consultório na rua branca",4500086,15,DESCLASSIFICADO,UN,450,30
+Vestido,4500087,110,PERDEU,UN,9900,90
+"Camiseta CAPS Branca",4500088,190,DESCLASSIFICADO,UN,6270,33
+"Camisa Polo CAPS",4500089,190,DESCLASSIFICADO,UN,8170,43
+"Camiseta Secretaria de Saúde Branca estagiários",4500090,40,DESCLASSIFICADO,UN,1200,30
+"Camisa Polo  Atenção Básica, Especializada, Urgência e Emerg",4500091,170,DESCLASSIFICADO,UN,7480,44
+Cardigã,4500092,110,DESCLASSIFICADO,UN,11176,101.6
+"Camisa / Camisete manga longa",4500093,170,DESCLASSIFICADO,UN,16150,95
+"Jaqueta Social",4500094,50,PERDEU,UN,6740,134.8
+"Camiseta  Vigilância em Saúde",4500095,130,DESCLASSIFICADO,UN,3900,30
+"Camisa Polo Vigilância em Saúde",4500096,130,PERDEU,UN,5031,38.7
+"Colete Vigilância Sanitária",4500097,50,DESCLASSIFICADO,UN,5000,100

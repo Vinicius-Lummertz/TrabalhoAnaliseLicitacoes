@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Televisor colorido 42 polegadas,Led, com suporte de parede e",4439488,8,PERDEU,UNI,12800,1600
+"Ventilador turbo de coluna",4439489,12,DESCLASSIFICADO,UN,2880,240
+"Refrigerador tipo doméstico 2 portas",4439491,4,PERDEU,UN,6600,1650
+"Refrigerador tipo doméstico 1 porta.",4439492,4,VENCEU,UN,5800,1450
+"Aparelho Microondas capac. 25lt, na cor branca",4439493,4,DESCLASSIFICADO,UNI,1720,430
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",4439494,8,DESCLASSIFICADO,UNI,3600,450
+"Aparelho de Ar Condicionado tipo Split HI-WALL, capacidade 9",4439498,10,INABILITADO,UND,14500,1450
+"Aparelho de Ar Condicionado tipo Split HI-WALL cap12.000 BTU",4439499,40,INABILITADO,UNI,64000,1600
+"Aparelho de Ar Condicionado tipo Split HI-WALL CAP.24.000 BT",4439500,7,INABILITADO,UN,18550,2650

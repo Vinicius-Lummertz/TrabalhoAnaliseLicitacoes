@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",11967165,400000,PERDEU,CPLA,316000,0.79
+"Ácido Valproico 500mg cpr.",11967166,650000,PERDEU,COMP,381550,0.587
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,115200,0.192
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,44000,0.176
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,54600,0.195
+"Carvedilol 3,125 mg cpr, em blister.",11967216,60000,PERDEU,COMP,5280,0.088
+"Carvedilol 6,25 mg cpr, em blister.",11967217,180000,PERDEU,COMP,19080,0.106
+"Isossorbida, mononitrato 20mg cpr, em blister.",11967312,800000,PERDEU,COMP,132000,0.165
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,270000,0.054
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,PERDEU,COMP,11520,0.384
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",11967363,500,VENCEU,BLIST,2835,5.67

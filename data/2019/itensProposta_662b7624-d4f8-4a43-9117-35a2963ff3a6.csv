@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulhas hipodérmicas 13mmX4,5mm",4439510,250,PERDEU,CX,1350,5.4
+"Algodão Hidrófilo, 100%.",4439512,300,DESCLASSIFICADO,ROLO,3240,10.8
+"Almotolia de uso médico-hospitalar",4439513,600,PERDEU,UNI,1278,2.13
+"Cateter  para Oxigênio Tipo Óculos nº12 ( Adulto )",4439514,1500,DESCLASSIFICADO,UN,1305,0.87
+"Dispositivo para incontinência Urinária Masculina Nº 05 sem",4439517,2000,VENCEU,UN,1540,0.77
+"Dispositivo para incontinência Urinária Masculina Nº06 sem e",4439518,3000,VENCEU,UN,2310,0.77
+"Equipo para nutrição enteral.",4439519,15000,PERDEU,UNI,13350,0.89
+"Especulo vaginal, descartável, estéril, sem lubrificação M",4439520,18000,PERDEU,UN,14760,0.82
+"Especulo vaginal, descartável, estéril, sem lubrificação G",4439521,2000,CANCELADO,UN,1900,0.95
+"Especulo vaginal, descartável, estéril, sem lubrificação P",4439522,18000,DESCLASSIFICADO,UN,15660,0.87
+"Frasco para nutrição enteral capacidade 300mL",4439524,18000,DESCLASSIFICADO,UNI,13680,0.76
+"Kit de nebulização adulto",4439527,200,DESCLASSIFICADO,UN,1066,5.33
+"Kit de nebulização infantil.",4439528,200,DESCLASSIFICADO,UN,1066,5.33
+"Lâmina de Preventivo (Ponta Fosca).",4439529,400,VENCEU,CXA,1448,3.62
+"Máscaras Cirúrgicas Facial Descartável",4439530,150,VENCEU,CX,670.5,4.47
+"oleo de girassol",4439531,2000,DESCLASSIFICADO,UN,7920,3.96
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",4439532,1500,DESCLASSIFICADO,UNI,1800,1.2
+"Seringa 20ml, sem agulha",4439533,20000,DESCLASSIFICADO,UNI,9200,0.46
+"Seringa 3ml, sem agulha",4439534,30000,DESCLASSIFICADO,UN,4800,0.16
+"Seringa 1ml, sem agulha",4439535,5000,PERDEU,UN,750,0.15

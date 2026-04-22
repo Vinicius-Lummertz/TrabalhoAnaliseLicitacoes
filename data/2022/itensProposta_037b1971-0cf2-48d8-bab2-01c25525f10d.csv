@@ -1,0 +1,51 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sedativo e analgésico cloridrato de xilazina 2%; injetável (via endovenosa e intramuscular); uso veterinário.",9642879,20,NAO_COTOU,FR,0,0
+"Anestésico dissociativo cloridrato de cetamina 10%; injetável (via endovenosa e intramuscular)",9642880,20,NAO_COTOU,FR.,0,0
+"Antibacteriano amoxicilina + clavulonato de potássio; composição:250 mg cada 100g deverá conter 22,85g de amoxicilina trihidratada + 6g clavulanato de potássio; uso veterinário.",9642881,200,PERDEU,COMP,1760,8.8
+"Antibacteriano doxiciclina 200mg; uso veterinário",9642882,120,NAO_COTOU,COMP,0,0
+"Antibacteriano enrofloxacina 50 mg; uso veterinário.",9642883,200,NAO_COTOU,COMP,0,0
+"Antibacteriano cefalexina 300 mg; uso veterinário.",9642884,210,NAO_COTOU,COMP,0,0
+"Antibacteriano sulfadiazina + trimetoprim; uso veterinário; composição: cada comprimido deverá conter 500 mg sulfametoxazol + 100 mg trimetoprima; uso veterinário",9642885,200,NAO_COTOU,COMP,0,0
+"Anti-inflamatório não esteroidal meloxicam 2 mg; uso veterinário.",9642886,100,NAO_COTOU,COMP,0,0
+"Anti-inflamatório não esteroidal meloxicam 0,5 mg; uso veterinário",9642887,100,NAO_COTOU,COMP,0,0
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos; uso veterinário.",9642888,200,PERDEU,COMP,1800,9
+"Ectoparasiticida sarolaner 40 mg para cães de 10 a 20 kg; uso veterinário.",9642889,100,PERDEU,COMP,9302,93.02
+"Ectoparasiticida sarolaner 80 mg para cães de 20 a 40 kg; uso veterinário.",9642890,100,PERDEU,COMP,10800,108
+"Anti-inflamatório esteroidal dexametasona 200 mg/ 100 ml; injetável (via endovenosa e intramuscular); uso veterinário",9642891,5,NAO_COTOU,FRA,0,0
+"Pomada dermatológica anti-infecciosa e cicatrizante; composição: 0,5 g gentamicina  + 5g sulfanilamida + 5g sulfadiazina + 5g uréia + 120.000 UI Vitamina A; uso veterinário",9642892,70,PERDEU,BIS,2730,39
+"Pomada antisséptica; composição: 0,7 g digluconato de clorexidina para cada 100 g; uso veterinário",9642893,20,NAO_COTOU,BIS,0,0
+"Spray antisséptico, cicatrizante, repelente e ectoparasiticida; composição: 0,1g sulfadiazina Prata 0,1g + 0,4g cipermetrina + 5g alumínio + 1,6 g DDVP 1,6g;  uso veterinário",9642894,20,NAO_COTOU,FR,0,0
+"Vermifugo (ectoparasiticida) para cães; composição: cada comprimido deverá conter 50 mg praziquantel + 144 mg pamoato de pirantel + 150 mg febantel;  uso veterinário",9642895,1200,PERDEU,COMP,3168,2.64
+"Vermifugo (ectoparasiticida) para gatos; composição:  230 mg pamoato de pirantel + 20 mg praziquantel; uso veterinário",9642896,660,VENCEU,COMP,1386,2.1
+"Suplemento Vitamina k hidrossolúvel 30mg/20 ml; injetável (via endovenosa e intramuscular); uso veterinário",9642897,5,NAO_COTOU,FR,0,0
+"Inibidor de secreção ácido-gástrica omeprazol 10 mg; uso veterinário.",9642898,30,NAO_COTOU,COMP,0,0
+"Inibidor de secreção ácido-gástrica omeprazol 20 mg; uso veterinário.",9642899,30,NAO_COTOU,COMP,0,0
+"Anestésico local cloridrato de lidocaína 2%; injetável (via subcutâna); uso veterinário",9642900,20,NAO_COTOU,FRA,0,0
+"Suplemento para grandes e pequenos animais; composição: 1000 mg cloridrato de tiamina (vitamina B1) + 500 m cloridrato de piridoxina (vitamina B6) + 2000 mg nicotinamida + 400 mg pantotenato de cálcio (vitamina B5) + 20 g frutose + 2 g cloridrato de L-arginina + 2 g acetil metionina + 1000 mg aspartato de potássio + 1000 mg aspartato de magnésio + 45 mg salenito de sódio + 1500 mcg/ml vitamina B12 (ampola); uso veterinário",9642901,10,VENCEU,"FR+A",930,93
+"Soro hiperimune para cães; composição: imunoglobulinas contra o vírus da cinomose, parainfluenza, adenovirose, hepatite, coronavirose e parvovirose caninas + 1 ml água destilada; injetável (via intramuscular e subcutânea); uso veterinário",9642902,10,NAO_COTOU,FRA,0,0
+"Sedativo acepromazina 10 mg/ml; via oral (gotas); uso veterinário",9642903,10,NAO_COTOU,FRA,0,0
+"Suplemento alimentar para cães e gatos (probiótico); composição: aroma de carne + bifidobacterium bidifum + enterococcus faecium + lactobacillus acidophilus + lactobacillus plantarum + saccharomyces cerevisiae + vitamina C + água; uso veterinário.",9642904,100,NAO_COTOU,SRG,0,0
+"Vacina antirrábica para cães e gatos; composição: vírus rábico inativado 1,0 UI + veículo 1 ml; injetável (intramuscular e subcutânea); uso veterinário",9642905,660,VENCEU,SRG,6072,9.2
+"Vacina múltipla para cães  (V10); injetável (via intramuscular e subcutânea); composição: fração liofilizada correspondente a 1 dose de 1 ml com vírus vivos atenuados para cinomose, adenovírus tipo 2, vírus da parainfluenza canina, parvovírus e leptospiras (L. canicola, L. grippotyphosa, L. icterohaemorrhagiae e L. pomona) + diluente corresponde a uma preparação líquida de 1 dose de 1 ml da vacina coronavírus canino inativado com um adjuvante; uso veterinário",9642906,660,VENCEU,SR,8184,12.4
+"Vacina múltipla para gatos (quádrupla); injetável (via intramuscular e subcutânea); composição: amostras atenuadas do vírus da rinotraqueíte felina, calicivírus felino e vírus da panleucopenia felina e Chlamydia psitacci + gentamicina na forma liofilizada acompanhada de diluente estéril; uso veterinário",9642907,660,VENCEU,SRG,23067,34.95
+"Endoparasiticida metronidazol + sulfadimetoxina; uso oral; composição: 8 g metronidazol + 5 g sulfadimetoxina; uso veterinário",9642908,20,VENCEU,FR,1400,70
+"Analgésico cloridrato de tramadol 12 mg; uso veterinário",9642909,25,NAO_COTOU,COMP,0,0
+"Analgésico cloridrato de tramadol 40 mg; uso veterinário",9642910,25,NAO_COTOU,COMP,0,0
+"Larvicida, cicatrizante  e repelente a base de permetrina e óxido de zinco; composição: 3,5 g butóxido de piperonila + 0,5 g permetrina + 20 g óxido de zinco; uso veterinário",9642911,10,NAO_COTOU,POT,0,0
+"Solução dermatológica para limpeza de feridas; composição: 1,25 mg lauril dietileno glicol  e éter sulfato de sódio (28%); uso veterinário.",9642912,5,NAO_COTOU,FR,0,0
+"Anti-inflamatório esteroidal prednisolona 5 mg; uso veterinário.",9642913,25,NAO_COTOU,COMP,0,0
+"Anti-inflamatório esteroidal prednisolona 20 mg; uso veterinário",9642914,25,NAO_COTOU,COMP,0,0
+"Anti-inflamatório não esteroidal, analgésico e antipirético dipirona 500 mg/ml;  via oral; uso veterinário",9642915,15,NAO_COTOU,FR,0,0
+"Antigalactogênico metergolina 2 mg; uso veterinário. Apresentar registro no Ministério da Agricultura",9642916,10,NAO_COTOU,COMP,0,0
+"Antiemético metoclopramida 4 mg/ml; solução oral; uso veterinário",9642917,20,PERDEU,FR,329.4,16.47
+"Antiespasmódico butilbrometo de escopolamina 10 mg/ml; solução oral; uso humano; Apresentar",9642918,10,NAO_COTOU,FR,0,0
+"Solução otológica para cães e gatos; composição: 0,33 g cloridrato de ciprofloxacina + 1 g cetoconazol + 0,02 g acetonido de fluocinolona +  2 g  cloridrato de lidocaína; uso veterinário",9642919,5,NAO_COTOU,FRA,0,0
+"Anticolinérgico sulfato de atropina 1%;  injetável (via intramuscular, endovenosa e subcutânea); uso veterinário.",9642920,5,NAO_COTOU,FR,0,0
+"Xarope expectorante e fluidificante; solução oral; composição:   0,3 g di-ter butil naftaleno sulfonato de sódio + 20 ml xarope de grindélia + 20 ml xarope de bálsamo de tolú + 30 ml xarope de alcatrão; uso veterinário.",9642921,10,NAO_COTOU,FR,0,0
+"Suplemento para cães e gatos; solução oral; composição: pantotenato de cálcio + cisteína + vitamina B1 + cloreto/cloruro de colina + triptofano + vitamina B12 + di-metionina + l-carnitina + l-lisina + betaína + vitamina B6 + colágeno hidrolisado + açúcar + aroma de maçã + metilparabeno + aspartame + benzoato de sódio + água; uso veterinário.",9642922,25,VENCEU,FR,825,33
+"Endectoparasiticida ivermectina 6 mg;",9642923,90,NAO_COTOU,COMP,0,0
+"Rifamicina sódica 10 mg/ml; uso humano;",9642924,30,NAO_COTOU,FR,0,0
+"Antitóxico, hepatoprotetor e tônico; composição: 7 g acetilmetionina + 4 g colina (cloreto) + 0,05 g riboflavina (fosfato) + 0,5 g lisina (cloridrato) + 0,25 g piridoxina + 1 g nicotinamida; uso veterinário",9642925,20,NAO_COTOU,FR,0,0
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose;  uso veterinário",9642926,25,PERDEU,KIT,1050,42
+"Ração para Caes adultos",9642927,3000,VENCEU,KG,18450,6.15
+"Ração balanceada para caes filhotes",9642928,300,NAO_COTOU,KG,0,0

@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lençol descartavel com elástico TNT",8483446,3600,PERDEU,PCT,288000,80
+"Seringa 3ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483479,15000,PERDEU,UND,45000,3
+"Seringa 5ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483480,100000,PERDEU,UND,300000,3
+"Seringa 10 ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483481,70000,PERDEU,UND,210000,3
+"Seringa 20ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483482,40000,PERDEU,UND,120000,3
+"Seringa 60ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483483,2000,PERDEU,UND,6000,3
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",8483527,28500,PERDEU,UNI,855000,30
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",8535184,9500,PERDEU,UNI,285000,30
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",8483528,33750,PERDEU,UNI,1012500,30
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",8483529,10500,PERDEU,UN,315000,30

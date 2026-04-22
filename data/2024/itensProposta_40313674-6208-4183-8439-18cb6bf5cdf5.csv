@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fone de ouvido com fio, in-ear",14640343,20,PERDEU,UND,318,15.9
+"Fone de ouvido sem fio, in-ear",14640344,20,VENCEU,UND,590,29.5
+"Caixa de som para computador",14640345,20,PERDEU,UND,740,37

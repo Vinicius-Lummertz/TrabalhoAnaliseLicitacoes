@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Contentor de lixo, capac. 120 litros",1265773,59,3,ATIVO,UNIDADE,657,219
+"Carro Funcional para limpeza",1265774,61,2,ATIVO,kit,1438,719
+"Pallet em polietileno de alta densidade (PEAD),20m x 1,00m",1265775,67,30,ATIVO,UNIDADE,5820,194

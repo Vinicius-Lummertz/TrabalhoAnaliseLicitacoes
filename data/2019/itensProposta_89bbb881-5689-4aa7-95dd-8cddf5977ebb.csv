@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+MEDALHAS,0,600,VENCEU," ",5520,9.2
+"Coletes esportivos",0,300,VENCEU," ",3840,12.8
+"CAMISA PARA ESPORTES",0,600,VENCEU," ",37500,62.5
+"Kit Uniforme",0,50,VENCEU," ",2850,57
+"Mochila tipo academia",0,600,VENCEU," ",17940,29.9
+"BOLA DE FUTEBOL DE CAMPO",0,40,VENCEU," ",7600,190
+"Bola futsal adulto",0,40,VENCEU," ",10680,267

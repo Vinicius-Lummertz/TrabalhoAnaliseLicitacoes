@@ -1,0 +1,87 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",4444244,500,PERDEU,GL,4340,8.68
+"Agulhas hipodérmicas 13mmX4,5mm",4444245,250,VENCEU,CX,1672.5,6.69
+"Agulhas hipodérmicas 20mmX5,5mm",4444246,360,VENCEU,CX,2440.8,6.78
+"Agulhas hipodérmicas 25 X 6",4444247,360,PERDEU,CX,2440.8,6.78
+"Agulhas hipodérmicas 25 X 7",4444248,1200,VENCEU,CX,8088,6.74
+"Agulhas hipodérmicas 25 X 8",4444249,120,VENCEU,CX,814.8,6.79
+"Agulhas hipodérmicas 30 X 8",4444250,180,VENCEU,CX,1220.4,6.78
+"Agulhas hipodérmicas 40 X 12",4444251,1200,PERDEU,CX,10536,8.78
+"Álcool etílico 70° antisséptico",4444252,5000,DESCLASSIFICADO,FRA,30850,6.17
+"Algodão Hidrófilo, 100%.",4444254,1000,PERDEU,ROLO,9990,9.99
+"Almotolia de uso médico-hospitalar Ambar",4444255,200,DESCLASSIFICADO,UN,556,2.78
+"Almotolia de uso médico-hospitalar Transparente",4444256,500,PERDEU,UN,1390,2.78
+"Ataduras de Crepom 8cm",4444260,24000,PERDEU,UN,12000,0.5
+"Ataduras de Crepom 10cm",4444261,40000,PERDEU,UN,24000,0.6
+"Ataduras de Crepom 12cm",4444262,40000,DESCLASSIFICADO,UN,29600,0.74
+"Ataduras de Crepom 15cm",4444263,40000,DESCLASSIFICADO,UN,37200,0.93
+"Ataduras de Crepom 20cm",4444264,20000,DESCLASSIFICADO,UN,24600,1.23
+"Ataduras de Crepom 6cm",4444265,24000,VENCEU,UN,8880,0.37
+"Cateter para oxigênio tipo óculos nº 12",4444286,1500,DESCLASSIFICADO,UNI,1395,0.93
+"Clorexidina alcoólica",4444287,1200,PERDEU,L,9420,7.85
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4444290,5000,PERDEU,UNI,15300,3.06
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4444291,4000,PERDEU,UNI,9160,2.29
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444292,900,DESCLASSIFICADO,PCT,65664,72.96
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4444293,300,DESCLASSIFICADO,PCT,21888,72.96
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4444294,500,VENCEU,PCT,19593.35,39.1867
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4444296,1500,VENCEU,PCT,27668.4,18.4456
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444297,503000,DESCLASSIFICADO,PCT,241440,0.48
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4444298,97000,PERDEU,PCT,46560,0.48
+"Disp. p/ incontinência Urinária Masculina sem extensor Nº05",4444301,4000,PERDEU,UN,4200,1.05
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",4444310,12000,PERDEU,UN,3600,0.3
+"Eletrodo para Monitorização Cardíaca c/ Gel - Pediátrico",4444311,1000,PERDEU,UNI,300,0.3
+"Envelopes auto selantes 150mmx250mm",4444312,200,PERDEU,CX,5198,25.99
+"Equipo 2 vias , (POLIFIX).",4444314,3000,PERDEU,UNI,1740,0.58
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",4444318,4000,DESCLASSIFICADO,UN,27440,6.86
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",4444319,6000,DESCLASSIFICADO,UN,23700,3.95
+"Especulo vaginal, descartável, estéril, sem lubrificação M",4444320,18000,PERDEU,UN,16380,0.91
+"Especulo vaginal, descartável, estéril, sem lubrificação G",4444321,3000,VENCEU,UN,4050,1.35
+"Especulo vaginal, descartável, estéril, sem lubrificação P",4444322,18000,CANCELADO,UN,14760,0.82
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  2-0",4444330,100,DESCLASSIFICADO,CX,3600,36
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  3-0",4444331,150,DESCLASSIFICADO,CX,5400,36
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  4-0",4444332,150,DESCLASSIFICADO,CX,5400,36
+"Fixador Citológico, 100ml",4444338,150,PERDEU,FR.,921,6.14
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",4444341,800,DESCLASSIFICADO,UNI,1944,2.43
+"GLICERINA LIQUIDA",4444343,30,PERDEU,LT,517.8,17.26
+"Kit citologia - 01 escova endocervical + 01 espátula de aire",4444346,15000,PERDEU,UN,6000,0.4
+"Kit de nebulização adulto",4444347,200,PERDEU,UN,1168,5.84
+"Lençol descartável com elástico (TNT)",4444356,800,PERDEU,PCT,12000,15
+"Luva Cirúrgica estéril Nº. 6,5",4444358,2000,VENCEU,PAR,2500,1.25
+"Luva Cirúrgica estéril no.7,0.",4444359,2500,VENCEU,PAR,3125,1.25
+"Luva Cirúrgica estéril Nº. 7,5",4444360,2500,VENCEU,PAR,3125,1.25
+"Luva Cirúrgica estéril Nº. 8,0",4444361,500,VENCEU,PAR,625,1.25
+"Luva Plástica Estéril Descartável",4444363,1500,DESCLASSIFICADO,PCT,13500,9
+"oleo de girassol",4444367,10000,PERDEU,UN,36500,3.65
+"Pinça Cheron descartável, em polietileno cristal ou cor bran",4444369,1500,PERDEU,UNI,1590,1.06
+"Seringa 10ml, sem agulha",4444375,30000,PERDEU,UNI,8100,0.27
+"Seringa 20ml, sem agulha",4444376,20000,PERDEU,UNI,8800,0.44
+"Seringa 3ml, sem agulha",4444377,45000,PERDEU,UN,5850,0.13
+"Seringa 5ml, sem agulha",4444378,45000,PERDEU,UN,6750,0.15
+"Seringa 60ml, sem agulha",4444380,2500,PERDEU,UN,4075,1.63
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4444383,8000,DESCLASSIFICADO,UNI,4080,0.51
+"Sonda de borracha tipo foley, 2 vias, calibre nº22",4444395,10,PERDEU,CX,390,39
+"Sonda de borracha tipo foley, 2 vias, calibre nº24.",4444396,10,PERDEU,CX,390,39
+"Sonda endotraqueal em PVC com balão nº 3,5",4444399,60,VENCEU,UN,257.4,4.29
+"Sonda endotraqueal em PVC com balão nº4,5",4444401,60,VENCEU,UN,262.8,4.38
+"Sonda endotraqueal em PVC com balão nº5,0",4444402,80,PERDEU,UN,350.4,4.38
+"Sonda endotraqueal em PVC com balão nº5,5",4444403,80,VENCEU,UN,350.4,4.38
+"Sonda endotraqueal em PVC com balão nº6,0",4444404,80,PERDEU,UN,350.4,4.38
+"Sonda endotraqueal em PVC com balão nº6,5",4444405,100,VENCEU,UN,438,4.38
+"Sonda endotraqueal em PVC com balão nº7,5",4444407,100,PERDEU,UN,429,4.29
+"Sonda endotraqueal em PVC com balão nº8,0",4444408,100,PERDEU,UN,429,4.29
+"Sonda endotraqueal em PVC com balão nº8,5",4444409,30,VENCEU,UN,146.7,4.89
+"Sonda nasal para alimentação enteral nº 08",4444414,20,PERDEU,UNI,202.4,10.12
+"Sonda nasal para alimentação enteral nº 10",4444415,50,PERDEU,UNI,506,10.12
+"Sonda nasal para alimentação enteral nº 12",4444416,300,DESCLASSIFICADO,UNI,3150,10.5
+"SORO GLICOFISIOLOGICO 250ml",4444428,1200,VENCEU,UN,3396,2.83
+"SORO GLICOFISIOLOGICO 500ml",4444429,1000,VENCEU,UNI,3610,3.61
+"Soro Glicosado 250ml (solução de glicose a 5%).",4444430,1000,PERDEU,UNI,2850,2.85
+"Soro Glicosado 500ml (solução de glicose a 5%).",4444431,700,PERDEU,UN,2555,3.65
+"Termômetro clínico digital.",4444442,150,VENCEU,UN,1573.5,10.49
+"Termômetro clinico digital de testa sem contato.",4444443,50,DESCLASSIFICADO,UN,14775,295.5
+"Punch Dermatológico estéril descartável 2mm",4444444,15,PERDEU,CX,1150.5,76.7
+"Punch Dermatológico estéril descartável 3mm",4444445,15,PERDEU,CX,1150.5,76.7
+"Punch Dermatológico estéril descartável 4mm",4444446,15,PERDEU,CX,1150.5,76.7
+"Punch Dermatológico estéril descartável 5mm",4444447,15,PERDEU,CX,1150.5,76.7
+"Punch Dermatológico estéril descartável 6mm",4444448,15,PERDEU,CX,1150.5,76.7
+"Agua oxigenada 10% (peróxido de hidrogênio)",4444451,150,PERDEU,L,532.5,3.55

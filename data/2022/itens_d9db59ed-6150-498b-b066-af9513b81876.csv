@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto com d = 200 mm",2336512,1,6000,ATIVO,METRO,116340,19.39
+"Tubo de concreto com d = 600 mm",2336513,5,600,ATIVO,METRO,28500,47.5

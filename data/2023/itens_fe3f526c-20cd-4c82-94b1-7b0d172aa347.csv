@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo multiplexado alumínio isolado XLPE 1x1x10+1x10mm neutro isolado",5287122,16,2000,ATIVO,METRO,3860,1.93
+"Cabo multiplexado alumínio isolado XLPE 1x1x16+1x16mm neutro isolado",5287123,17,2000,ATIVO,METRO,5520,2.76
+"Cabo multiplexado alumínio isolado XLPE 2x1x16+1x16mm neutro isolado",5287124,18,2000,ATIVO,METRO,9080,4.54
+"Cabo multiplexado alumínio isolado XLPE 3x1x16+1x16mm neutro isolado",5287125,19,2000,ATIVO,METRO,12440,6.22
+"Cabo PP, de cobre, bitola 4 x 4mm², isolamento 1KV",5287126,22,500,ATIVO,METRO,4300,8.6

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Banco jardim com pés de concreto 1,60 x 0,52 x 0,73 m (c x l",4399076,50,VENCEU,UND,35000,700
+"Banco jardim com pés de concreto 160 x 0,52 (c x l)",4399077,10,VENCEU,UND,5500,550
+"Mesas em concreto, com tabuleiro de xadrez, 0,80x0,80m com 4",4399078,5,VENCEU,UND,2975,595
+"Balizador de concreto 16x16x72 cm",4399079,21,VENCEU,UND,6615,315
+"Mesa para prática de Futmesa",4399080,9,PERDEU,UND,36450,4050
+"Bebedouro de concreto armado com três saídas",4399081,3,NAO_COTOU,UND,0,0

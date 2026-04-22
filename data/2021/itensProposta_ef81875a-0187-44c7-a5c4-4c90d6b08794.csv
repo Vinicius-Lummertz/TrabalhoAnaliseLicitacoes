@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Achocolatado líquido",4500108,650,VENCEU,UNI,962,1.48
+"Suco de fruta líquido",4500109,650,VENCEU,UN,949,1.46
+"Biscoito doce à base de cereais integrais",4500111,650,VENCEU,UN,2697.5,4.15
+"BISCOITO SALGADO",4500112,650,VENCEU,UND,2730,4.2
+"PROTETOR LABIAL",4500113,650,VENCEU,UND,8547.5,13.15
+ABSORVENTE,4500114,200,VENCEU,UNI,580,2.9
+"Sachê  2 em1, shampoo + condicionador",4500116,1000,VENCEU,UN,710,0.71
+"CORTADOR DE UNHA",4500117,250,VENCEU,UNI,2512.5,10.05
+"Bisnaga plastica",4500118,2500,VENCEU,UN,6250,2.5
+"Aparelho de barbear",4500119,240,VENCEU,UN,885.6,3.69

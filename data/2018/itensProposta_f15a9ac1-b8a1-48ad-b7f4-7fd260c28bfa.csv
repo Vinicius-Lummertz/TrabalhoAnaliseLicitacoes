@@ -1,0 +1,11 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amitraz 12,5-20ml",4434590,5,VENCEU,FRA,63.5,12.7
+"Antibiótico Enrofloxacina 50 mg",4434591,60,VENCEU,CX,540,9
+"Doxiciclina 100 mg",4434594,240,VENCEU,COMP,314.4,1.31
+"Ivermectina  1%",4434595,10,VENCEU,FR.,170,17
+"Meloxicam 0,2%",4434596,15,PERDEU,FR.,1123.5,74.9
+Nitenpiram,4434597,48,DESCLASSIFICADO,CP,624.96,13.02
+"Probiótico para cães e gatos 14 gramas",4434598,12,VENCEU,UN,330,27.5
+"Sulfadiazina Prata",4434601,10,DESCLASSIFICADO,FRA,206.4,20.64
+"Sulfato de atropina",4434602,4,VENCEU,FR,34,8.5
+"VERMIFUGO PARA GATOS",4434605,40,DESCLASSIFICADO,UND,181.2,4.53

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",8483376,1200,PERDEU,PCT,35747.88,29.7899
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",8483379,637500,PERDEU,PCT,426806.25,0.6695
+"Luva Nitrílica não esteril para procedimento tamanho P.",8483458,3375,VENCEU,CX,43875,13
+"Luva Nitrílica não esteril para procedimento tamanho M",8483459,3375,VENCEU,CX,43200,12.8

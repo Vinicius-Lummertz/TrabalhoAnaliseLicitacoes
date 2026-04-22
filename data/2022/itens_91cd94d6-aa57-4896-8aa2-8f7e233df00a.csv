@@ -1,0 +1,31 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua oxigenada 10% (peróxido de hidrogênio)",3312344,3,250,ATIVO,LITRO,1382.5,5.53
+"Agulhas hipodérmicas 13mmX4,5mm.",3312345,5,350,ATIVO,CAIXA,2856,8.16
+"Agulhas hipodérmicas 40 X 12.",3312346,11,2500,ATIVO,CAIXA,20400,8.16
+"Ataduras de Crepom 10 cm de largura 1.80 m de comprimento",3312347,23,40000,ATIVO,UNIDADE,30800,0.77
+"Ataduras de Crepom 06 cm de largura  1.80 m de comprimento",3312348,27,24000,ATIVO,UNIDADE,12720,0.53
+"Bolsa Coletora de urina sistema fechado  2000mL",3312349,29,3000,ATIVO,UNIDADE,12150,4.05
+"Cateter Intravenoso Nº 14G com dispositivo de segurança",3312350,42,2000,ATIVO,UNIDADE,3300,1.65
+"Cateter intravenoso Nº 16 G com dispositivo de Segurança",3312351,43,3000,ATIVO,UNIDADE,4950,1.65
+"cateter Intravenoso n.º18 G com dispositivo de segurança",3312352,44,6000,ATIVO,UNIDADE,9900,1.65
+"Cateter intravenoso N.20 G, com dispositivo de segurança",3312353,45,6000,ATIVO,UNIDADE,9900,1.65
+"Cateter Intravenoso 22G, com dispositivo de segurança",3312354,46,5000,ATIVO,UNIDADE,8250,1.65
+"Cateter Intravenoso n°24 G, com dispositivo de segurança",3312355,47,3000,ATIVO,UNIDADE,4950,1.65
+"Clorexidina alcoólica.",3312356,49,1200,ATIVO,LITRO,16680,13.9
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",3312357,68,6000,ATIVO,UNIDADE,1440,0.24
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp).",3312358,69,8000,ATIVO,UNIDADE,1920,0.24
+"Dispositivo para infusão endovenosa, n°23 (apelido scalp).",3312359,70,8000,ATIVO,UNIDADE,1920,0.24
+"Dispositivo para infusão endovenosa, n°25 (apelido scalp).",3312360,71,4000,ATIVO,UNIDADE,960,0.24
+"Dispositivo para infusão endovenosa, n°27 (apelido scalp).",3312361,72,2000,ATIVO,UNIDADE,480,0.24
+"Envelopes auto selantes 150mmx250mm",3312362,77,300,ATIVO,CAIXA,10362,34.54
+"Especulo vaginal, descartável, ESTÉRIL, sem lubrificação G (",3312363,84,3000,ATIVO,UNIDADE,4572,1.524
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",3312364,102,5000,ATIVO,UNIDADE,16000,3.2
+"Frasco para nutrição enteral capacidade 300mL",3312365,104,40000,ATIVO,UNIDADE,38000,0.95
+"Lanceta do profissional de saúde (com dispositivo de seguran",3312366,127,30000,ATIVO,UNIDADE,5610,0.187
+"Luva Cirúrgica estéril nº. 6.5",3312367,131,3000,ATIVO,PAR,5940,1.98
+"Luva Cirúrgica estéril no.7,0.",3312368,132,3500,ATIVO,PAR,4585,1.31
+"Luva Cirúrgica estéril Nº. 7.5",3312369,133,3500,ATIVO,PAR,4585,1.31
+"Luva Cirúrgica estéril Nº. 8,0",3312370,134,1000,ATIVO,PAR,1310,1.31
+"Luva Cirúrgica estéril Nº. 8,5",3312371,135,500,ATIVO,PAR,655,1.31
+"Luva de Látex não esteril tamanho PP",3312372,136,2000,ATIVO,CAIXA,31200,15.6
+"OLEO DE GIRASSOL 200ML",3312373,155,9000,ATIVO,FRASCO,54900,6.1

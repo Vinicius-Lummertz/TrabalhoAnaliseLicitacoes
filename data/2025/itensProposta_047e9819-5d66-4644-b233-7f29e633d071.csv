@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anticolinérgico Atropina 10mg/ml (1%).",20734934,5,PERDEU,FR,80,16
+"Anti-Inflamatório Esteroidal Dexametasona 2mg/ml.",20734936,10,PERDEU,FR,200,20
+"Anti-inflamatório Não-Esteroidal Meloxicam 2mg/ml (0,2%).",20734940,10,PERDEU,FR,620,62
+"Anti-inflamatório não esteroidal meloxicam 2 mg;",20734952,100,VENCEU,COMP,110,1.1
+"Anti-inflamatório não esteroidal meloxicam 0,5 mg; uso veterinário.",20734953,100,PERDEU,COMP,200,2
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",20734954,400,PERDEU,COMP,4800,12
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",20734955,200,PERDEU,COMP,2800,14
+"Ectoparasiticida sarolaner 40 mg para cães de 10 a 20 kg;",20734956,250,PERDEU,COMP,22500,90
+"Ectoparasiticida sarolaner 80 mg para cães de 20 a 40 kg;",20734957,250,PERDEU,COMP,30000,120
+"Spray antisséptico, cicatrizante, repelente e ectoparasiticida;",20734960,5,VENCEU,FR,67.5,13.5
+"Vermifugo (ectoparasiticida) para cães;",20734961,3000,VENCEU,COMP,3600,1.2
+"Vermifugo (ectoparasiticida) para gatos;",20734962,1000,VENCEU,COMP,1800,1.8
+"Anti-inflamatório esteroidal prednisolona 5 mg; uso veterinário;",20734966,50,PERDEU,COMP,75,1.5
+"Anti-inflamatório esteroidal prednisolona 20 mg; uso veterinário.",20734967,100,VENCEU,COMP,150,1.5
+"Endectoparasiticida ivermectina 6 mg; uso veterinário. Apresentar registro no Ministério da Agricultura. Conter na embalagem a data de fabricação, data de validade e lote. Apresentar data de validade mínima de 12 meses. Apresentação: comprimidos.",20734969,200,PERDEU,COMP,1000,5
+"Antitóxico, hepatoprotetor e tônico;",20734970,20,VENCEU,FR,300,15
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",20734972,200,PERDEU,KIT,8000,40
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",20734973,200,PERDEU,KIT,7400,37
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",20734974,200,PERDEU,KIT,14000,70
+"Ração seca especial para cães adultos;",20734975,10000,PERDEU,KG,63000,6.3
+"Ração seca especial para cães filhotes;",20734976,600,PERDEU,KG,11400,19
+"Kit instrumental cirúrgico em aço inox;",20734978,20,PERDEU,KIT,17000,850
+"Kit de colares elizabetanos para cães, contendo tamanhos 1 ao 7 (para diâmetros inferiores de 7,5 a 15,5cm aproximadamente). Apresentação: Kit",20734979,10,PERDEU,KIT,1700,170
+"Cambão veterinário retrátil para captura e contenção de cães, comprimento mínimo 110 cm (1.10 m). Material: Aço inox e/ou Alumínio. Extremidade emborrachada com no mínimo 40cm, com manopla para manuseio. Apresentação: Unidade",20734981,5,PERDEU,UN,1250,250
+"Coleiras repelentes, tamanho G;",20734994,100,PERDEU,UN,12000,120
+"Ração seca especial para Gatos adultos,",20734996,7500,PERDEU,KG,93750,12.5
+"Ração seca especial para Gatos adultos,",20773596,2500,PERDEU,KG,31250,12.5
+"Ração seca especial para Gatos Filhotes,",20734997,600,PERDEU,KG,9600,16

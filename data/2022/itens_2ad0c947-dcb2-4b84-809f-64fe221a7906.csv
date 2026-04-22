@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+FLANELA,2807184,219,20,ATIVO,UNIDADE,4670,233.5
+"Guardanapo de  papel",2807185,223,400,ATIVO,UNIDADE,748,1.87
+"Luvas plásticas",2807186,224,10,ATIVO,UNIDADE,59,5.9
+"Papel Toalha de copa e cozinha",2807187,229,600,ATIVO,PACOTE,2394,3.99
+"Avental de PVC",2807188,236,50,ATIVO,UNIDADE,850,17

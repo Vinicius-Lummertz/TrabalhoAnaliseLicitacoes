@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CAFÉ DA MANHÃ",0,5510,VENCEU," ",42757.6,7.76
+Almoço,0,5510,VENCEU," ",84909.1,15.41
+Lanche.,0,2490,VENCEU," ",23157,9.3
+JANTAR,0,6110,VENCEU," ",94155.1,15.41

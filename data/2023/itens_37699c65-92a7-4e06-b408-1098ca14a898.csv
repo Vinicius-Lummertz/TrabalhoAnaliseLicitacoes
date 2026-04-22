@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carne de frango congelada: Moela",4786655,81,200,ATIVO,kg,1556,7.78
+"ARROZ INTEGRAL",4786656,93,300,ATIVO,kg,1476,4.92
+"Massa alimentícia - tipo seca, integral",4786657,117,100,ATIVO,UNIDADE,820,8.2
+"Leite de coco",4786658,157,50,ATIVO,UNIDADE,223.5,4.47

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cuba redonda para assepsia, profundidade 5cm, diâmetro 10cm, bordas arredondadas.",3312399,64,150,ATIVO,UNIDADE,3060,20.4
+"Garrote adulto",3312400,106,250,ATIVO,UNIDADE,1675,6.7
+"Indicador Biológico",3312401,113,1500,ATIVO,CAIXA,37350,24.9
+"Eletrodo para TENS/FES quadradro 5x5cm",3312402,240,650,ATIVO,PACOTE,20995,32.3
+"Eletrodo para TENS/FES retangular 5x9cm",3312403,241,500,ATIVO,PACOTE,20925,41.85

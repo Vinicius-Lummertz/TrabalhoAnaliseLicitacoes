@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Guarda-corpo com tubo metálico, 2",0,85,VENCEU," ",38743.83,455.80976
+"Corrimão metálico com pintura eletrostática",0,85,VENCEU," ",22257.09,261.8481
+"Portão chapeado galvanizado",0,85,VENCEU," ",32973.46,387.9231
+"Serviço de serralheiro/soldador sem deslocamento",0,60,VENCEU," ",5818.85,96.9808
+"Serviço de serralheiro/soldador com deslocamento",0,40,VENCEU," ",6206.77,155.1693

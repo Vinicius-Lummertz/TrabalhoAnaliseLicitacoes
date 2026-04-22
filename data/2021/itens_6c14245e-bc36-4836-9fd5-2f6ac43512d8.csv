@@ -1,0 +1,3 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grama com plantio do tipo esmeralda",1299260,2,12000,ATIVO,"METRO QUADRADO",103320,8.61
+"Grama com plantio do tipo sempre verde",1301354,1,2000,ATIVO,"METRO QUADRADO",16660,8.33

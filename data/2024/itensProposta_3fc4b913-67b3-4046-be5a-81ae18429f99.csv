@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BANDEIRA OFICIAL DO BRASIL MED. 0,90M X 1,28M - 2 PANOS",15871137,110,PERDEU,UNI,6600,60
+"Bandeira oficial de Santa Catarina (0,90m x 1,28m)",15871138,110,PERDEU,UND,6600,60
+"Bandeira oficial de Criciúma (0,90m x 1,28m)",15871139,110,PERDEU,UND,9900,90
+"BANDEIRA OFICIAL DO BRASIL MED.1,80M  X 2,57M - 4 PANOS",15871140,26,PERDEU,UNI,4368,168
+"Bandeira oficial de Santa Catarina (1,80m x 2,57m)",15871141,26,PERDEU,UND,4368,168
+"Bandeira oficial de Criciúma (1,80m x 2,57m)",15871142,26,VENCEU,UND,4420,170
+"Bandeira Oficial do Brasil (5,85m X8,36m), de 13 pano",15871143,7,VENCEU,UND,6860,980
+"conjunto de Bandeira oficial das etnias (1,80m x 2,57m)",15871144,7,VENCEU,CJ,8260,1180

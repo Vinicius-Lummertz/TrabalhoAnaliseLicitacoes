@@ -1,0 +1,26 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sonda de borracha tipo foley, 2 vias, calibre nº 14",1267755,149,10,ATIVO,CAIXA,267,26.7
+"Sonda de borracha tipo foley, 2 vias, calibre nº 12",1267756,148,10,ATIVO,CAIXA,217.8,21.78
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",1267757,140,500,ATIVO,LITRO,8400,16.8
+"Lâmina de Bisturi descartável Nº. 22.",1267758,110,15,ATIVO,CXA,493.2,32.88
+"Lâmina de Bisturi descartável Nº. 20.",1267759,109,20,ATIVO,CAIXA,657.6,32.88
+"Lâmina de Bisturi descartável Nº. 12",1267760,107,70,ATIVO,CXA,2301.6,32.88
+"Lâmina de Bisturi descartável Nº. 11.",1267761,106,100,ATIVO,CXA,3288,32.88
+"GLICERINA LIQUIDA",1267762,101,30,ATIVO,LITRO,442.2,14.74
+"Frasco para nutrição enteral capacidade 300mL",1267763,97,30000,ATIVO,UNIDADE,28800,0.96
+"Sonda de borracha tipo foley, 2 vias, calibre nº22",1267764,153,10,ATIVO,CAIXA,306.7,30.67
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",1267765,94,6000,ATIVO,UNIDADE,9780,1.63
+"Fio cirúrgico preto monofilamentar de poliamida Nº. 5-0",1267766,91,100,ATIVO,CAIXA,2890,28.9
+"Eletrodo para Monitorização Cardíaca c/ Gel - Pediátrico",1267767,69,1000,ATIVO,UNIDADE,270,0.27
+"Eletrodo para Monitorização Cardíaca c/ Gel - Adulto",1267768,68,12000,ATIVO,UNIDADE,3240,0.27
+"Disp. p/ infusão endovenosa, n° 25 (apelido scalp)",1267769,64,5000,ATIVO,UNIDADE,845,0.169
+"Disp. p/ infusão endovenosa, n° 19 (apelido scalp)",1267770,61,5000,ATIVO,UNIDADE,900,0.18
+"Fio cirúrgico preto monofilamentar de poliamida Nº. 6-0",1267775,92,60,ATIVO,CAIXA,1734,28.9
+"Sonda endotraqueal em PVC com balão nº 4,0",1267777,158,60,ATIVO,UNIDADE,273.6,4.56
+"Sonda endotraqueal em PVC com balão nº6,0",1267778,162,80,ATIVO,UNIDADE,349.6,4.37
+"Sonda endotraqueal em PVC com balão nº5,0",1267788,160,80,ATIVO,UNIDADE,349.6,4.37
+"SORO FISIOLOGICO 1000ml (Solução de cloreto de sódio 0,9%)",1267794,181,1000,ATIVO,UNIDADE,4900,4.9
+"Sonda uretral nº 14 descartável",1267795,179,10000,ATIVO,UNIDADE,5180,0.518
+"Sonda Gástrica Longa nº 18, descartável",1267796,171,70,ATIVO,UNIDADE,70,1
+"Sonda Gástrica Longa nº 16, descartável",1267797,170,70,ATIVO,UNIDADE,63.7,0.91
+"Sonda Gástrica Longa nº 14, descartável",1267798,169,50,ATIVO,UNIDADE,40,0.8

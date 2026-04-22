@@ -1,0 +1,32 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"oleo de girassol",1267707,125,10000,ATIVO,UNIDADE,37400,3.74
+"Luva Cirúrgica estéril Nº. 8,5",1267708,120,200,ATIVO,PAR,344,1.72
+"Lâmina de Preventivo (Ponta Fosca).",1267709,111,300,ATIVO,CXA,1341,4.47
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",1267710,95,12000,ATIVO,UNIDADE,38400,3.2
+"Fio cirúrgico preto monofilamentar de poliamida Nº.  3-0",1267711,89,150,ATIVO,CAIXA,4110,27.4
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",1267712,77,6000,ATIVO,UNIDADE,20640,3.44
+"Disp. p/ infusão endovenosa, n° 21 (apelido scalp)",1267713,62,8000,ATIVO,UNIDADE,1920,0.24
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",1267714,57,2000,ATIVO,CAIXA,18960,9.48
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",1267715,49,4000,ATIVO,UNIDADE,8880,2.22
+"Protetor ocular adulto",1267716,132,150,ATIVO,UNIDADE,1602,10.68
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",1267717,48,5000,ATIVO,UNIDADE,15250,3.05
+"Agulhas hipodérmicas 25 X 6",1267718,5,360,ATIVO,CAIXA,2412,6.7
+"Ataduras de Crepom 15cm",1267727,21,40000,ATIVO,UNIDADE,38240,0.956
+"Solução de Manitol a 20%",1267729,139,100,ATIVO,FRASCO,416,4.16
+"Sonda aspiração traqueal nº 12 em PVC, descartável",1267730,144,10000,ATIVO,UNIDADE,4600,0.46
+Vaselina,1267739,194,30,ATIVO,LITROS,510,17
+"Sonda aspiração traqueal nº 10 em PVC, descartável",1267740,143,6000,ATIVO,UNIDADE,2700,0.45
+"Soro ringer lactato 500 ml",1267741,190,120,ATIVO,UNIDADE,430.8,3.59
+"Soro Glicosado 250ml (solução de glicose a 5%).",1267742,188,1000,ATIVO,UNIDADE,2750,2.75
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",1267743,185,6000,ATIVO,UNIDADE,17520,2.92
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",1267744,184,9000,ATIVO,UNIDADE,20340,2.26
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",1267745,182,25000,ATIVO,UNIDADE,51500,2.06
+"Sonda uretral nº 12 descartável",1267746,178,60000,ATIVO,UNIDADE,30960,0.516
+"Sonda uretral nº 10 descartável",1267747,177,18000,ATIVO,UNIDADE,7380,0.41
+"Sonda uretral nº 08, descartável",1267748,176,12000,ATIVO,UNIDADE,5520,0.46
+"Sonda aspiração traqueal nº 16 em PVC, descartável",1267749,146,1000,ATIVO,UNIDADE,500,0.5
+"Sonda aspiração traqueal nº 14 em PVC, descartável",1267750,145,8000,ATIVO,UNIDADE,3760,0.47
+"Soro Glicosado 500ml (solução de glicose a 5%).",1267751,189,700,ATIVO,UNIDADE,2499,3.57
+"Especulo vaginal, descartável, estéril, sem lubrificação P",1267876,80,18000,ATIVO,UNIDADE,19440,1.08
+"Ataduras de Crepom 8cm",1267877,18,24000,ATIVO,UNIDADE,15120,0.63
+"Ataduras de Crepom 6cm",1328353,23,24000,ATIVO,UNIDADE,8160,0.34

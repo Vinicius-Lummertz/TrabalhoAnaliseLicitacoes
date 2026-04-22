@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda em tecido 100%",1,200,Perdeu,PCT,3770,18.85
+"Conjunto de bebê pagãozinho",2,400,Perdeu,UNI,8120,20.3
+"Cueiro para bebê",3,200,Perdeu,UNI,2760,13.8
+"Toalha de Banho com Capuz",4,200,Perdeu,UNI,6350,31.75
+"Lencinho de boca para bebe",5,200,Perdeu,PCT,4100,20.5
+"Kit sapatinho e touca",6,400,Perdeu,UNI,7800,19.5
+"Meia lisa com calcanhar verdadeiro para bebê recém- nascido",7,200,Perdeu,UNI,2600,13
+"Lençol de berço sem elástico",8,200,Perdeu,UNI,4500,22.5
+"Tip top manga longa com pézinhos",9,200,Perdeu,UNI,7700,38.5
+"Cobertor para bebê",10,200,Perdeu,UNI,10420,52.1
+"Body manga longa para bebê",11,200,Perdeu,UNI,3500,17.5
+"Body manga curta para bebê",12,200,Perdeu,UNI,3440,17.2
+"Casaquinho de lã para recém-nascido",13,200,Perdeu,UNI,6800,34
+"Estojo com 03 mamadeiras",14,200,Perdeu,UNI,6200,31
+"Chupeta com bico ortodôntico",15,200,Perdeu,UNI,1390,6.95
+"Sabonete infantil",16,400,Perdeu,UNI,960,2.4
+"Pomada para assadura",17,400,Perdeu,UNI,4120,10.3
+"Shampoo infantil/bebê",18,200,Perdeu,UNI,2100,10.5

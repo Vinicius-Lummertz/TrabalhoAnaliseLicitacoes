@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Biombo hospitalar triplo",4500185,12,VENCEU,UN,9360,780
+"Cama Fowler Infantil manual + colchão revestimento impermeáv",4500188,2,DESCLASSIFICADO,UN,8300,4150
+"Carro maca hospitalar para transporte, obeso",4500195,10,DESCLASSIFICADO,UN,31000,3100
+"Carro de curativos aço inox",4500196,10,PERDEU,UN,20500,2050
+"Poltrona hospitalar reclinável estofada, com capac. peso par",4500200,26,VENCEU,UN,63180,2430
+"Mesa para lavagem de cadáver em aço inox AISI304",4500201,1,VENCEU,UN,2000,2000
+"Escadinha hospitalar com 02 degraus em aço inox",4500214,40,VENCEU,UNI,9200,230
+"Foco clinico auxiliar portátil, lâmpada LED, sem espelho",4500221,10,DESCLASSIFICADO_LANCE,UN,7000,700
+"Mesa auxiliar de mayo em aço inox",4500225,12,VENCEU,UN,4716,393
+"Mesa auxiliar em aço inox, para instrumental retangular",4500226,10,VENCEU,UN,4140,414
+"Mocho giratório com encosto e rodízios com trava em diagonal",4500227,10,DESCLASSIFICADO,UN,5000,500
+"Negatoscópio de 1 corpo de parede",4500228,10,PERDEU,UN,2700,270
+"Negatoscópio de 2 corpos de parede",4500229,2,VENCEU,UN,978,489
+"Suporte de Hamper",4500240,12,PERDEU,UNI,4800,400
+"Suporte de soro em aço inox, 4 ganchos em X na parte superio",4500241,50,DESCLASSIFICADO,UN,15000,300
+"Suporte para Braçadeira para coleta de sangue, administração",4500243,16,DESCLASSIFICADO,UN,3200,200
+"Mesa ginecológica estofada, revestimento impermeável",4500267,7,DESCLASSIFICADO,UNI,14000,2000
+"Mesa para exame clínico com suporte para rolo papel lençol",4500268,40,VENCEU,UN,36000,900

@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de implantação, customização e ativação do sistema",0,1,VENCEU," ",60000,60000
+"Serviço de cessão de uso e/ou manutenção mensal, hospedagem",0,12,VENCEU," ",116016,9668
+"Serviço suplementares de customização e/ou  alterações espec",0,100,VENCEU," ",11671,116.71

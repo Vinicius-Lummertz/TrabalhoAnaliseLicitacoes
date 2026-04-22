@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,PERDEU,COMP,36000,0.2
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",11967158,5000,PERDEU,BIS,10000,2
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",11967167,6500,PERDEU,FR.,32500,5
+"Albendazol 400mg comprimido mastigável, em blister.",11967172,18000,VENCEU,COMP,6660,0.37
+"Albendazol 400mg/mL suspensão oral 10ml",11967173,30000,PERDEU,FR.,40500,1.35
+"Alopurinol 100mg cpr, em blister.",11967175,680000,PERDEU,COMP,88400,0.13
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",11967181,18000,VENCEU,FRA,124200,6.9
+"Ampicilina 500mg, capsula, em blister.",11967185,3000,PERDEU,CPLA,1380,0.46
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,60000,0.04
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,103680,6.48
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,VENCEU,FR.,2000,1
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",11967246,24000,PERDEU,BIS,36000,1.5
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,360000,0.12
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,43200,0.12
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,38250,0.045
+"Loratadina 1mg/mL xarope, frasco de 100ml.",11967335,12000,PERDEU,FR,53640,4.47
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,250000,0.05
+"Metformina 500mg cpr, em blister.",11967338,2000000,PERDEU,COMP,240000,0.12
+"Metformina 850mg cpr, em blister.",11967339,3800000,VENCEU,COMP,414200,0.109
+"Metronidazol 250mg cpr, em blister.",11967347,320000,VENCEU,COMP,59200,0.185
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",11967348,5000,PERDEU,BIS,35000,7
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",11967349,10000,PERDEU,BIS,72000,7.2
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",11967357,20000,PERDEU,BIS,42000,2.1
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",11967360,6000,VENCEU,FR.,28200,4.7
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,160000,0.1
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",11967376,18000,PERDEU,FR.,81180,4.51
+"Risperidona 1mg cpr, em blister.",11967382,480000,PERDEU,COMP,38400,0.08
+"Risperidona 2mg cpr, em blister.",11967383,600000,PERDEU,COMP,60000,0.1
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",11967384,1000,PERDEU,FR.,5950,5.95
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",11967396,250000,PERDEU,COMP,45000,0.18
+"Tiamina 300 mg cpr, em blister.",11967403,6000,VENCEU,COMP,1200,0.2
+"Tramadol, cloridrato 50mg capsula, em blister.",11967405,1200000,PERDEU,COMP,180000,0.15

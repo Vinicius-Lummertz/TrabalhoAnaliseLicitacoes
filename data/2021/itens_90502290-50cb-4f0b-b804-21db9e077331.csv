@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Luva Cirúrgica estéril Nº. 8,0",1353786,126,1000,ATIVO,PAR,1290,1.29
+"Luva Cirúrgica estéril Nº. 8,5",1353787,127,500,ATIVO,PAR,645,1.29
+"Luva Cirúrgica estéril Nº. 7,5",1353797,125,3000,ATIVO,PAR,3837,1.279
+"Luva Cirúrgica estéril no.7,0",1353811,124,3000,ATIVO,PAR,3657,1.219
+"Dispositivo para infusão endovenosa, n°25 (apelido scalp).",1353812,66,4000,ATIVO,UNIDADE,960,0.24
+"Luva Cirúrgica estéril Nº. 6,5",1353824,123,2500,ATIVO,PAR,3047.5,1.219
+"Dispositivo para infusão endovenosa, n° 19 (apelido scalp)",1353841,63,6000,ATIVO,UNIDADE,1440,0.24
+"Dispositivo para infusão endovenosa, n°21 (apelido scalp)",1353843,64,8000,ATIVO,UNIDADE,1920,0.24

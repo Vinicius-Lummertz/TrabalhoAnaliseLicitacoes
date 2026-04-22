@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Computador administrativo",17190258,12,DESCLASSIFICADO,UN,87600,7300
+"Computador pedagógico",17218019,15,DESCLASSIFICADO,UN,104850,6990
+"Computador Avançado",17190260,2,PERDEU,UN,53000,26500
+"Licença Sistema Operacional",17218025,51,PERDEU,UN,127500,2500
+"SUITE DE APLICAÇÕES DE PRODUTIVIDADE PARA ESCRITÓRIO",17218026,15,PERDEU,UND,26100,1740

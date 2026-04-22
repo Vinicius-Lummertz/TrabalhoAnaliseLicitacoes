@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amitriptilina , cloridrato 25mg cpr.",4528355,25,2500000,ATIVO,COMPRIMIDO,200000,0.08
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",4528356,125,2000,ATIVO,AMPOLA,4560,2.28
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",4528357,127,300,ATIVO,AMP,540,1.8
+"Prednisona 20mg cpr.",4528358,222,600000,ATIVO,COMPRIMIDO,126000,0.21
+"Prednisona 5mg cpr.",4528359,223,350000,ATIVO,COMPRIMIDO,56000,0.16

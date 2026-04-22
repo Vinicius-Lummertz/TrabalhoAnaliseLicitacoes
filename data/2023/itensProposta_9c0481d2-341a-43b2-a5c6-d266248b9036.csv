@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,PERDEU,UN,53325,395
+"Rede de Traves para Futebol de Campo",13710962,18,PERDEU,PAR,22410,1245
+"Bola de Futsal Adulto",13710963,80,PERDEU,UN,31600,395
+"Bola de Futsal Infantil para Treinamento",13710964,110,PERDEU,UN,26950,245
+"Rede de Traves de Futsal",13710965,10,PERDEU,PAR,7950,795
+"Rede de Traves de Handebol",13710966,10,PERDEU,PAR,6900,690
+"Bola de Basquete OFICIAL",13710967,60,PERDEU,UN,26700,445
+"Rede de Aro para Basquete",13710968,30,PERDEU,PAR,2250,75
+"Bola de Handebol H1L",13710969,25,PERDEU,UN,8375,335
+"Bola de Handebol H2",13710970,35,PERDEU,UN,12075,345
+"Bola de Handebol H3L",13710971,30,PERDEU,UN,10650,355
+"Bola de Voleibol de Quadra para Treinamento",13710972,80,PERDEU,UN,29999.2,374.99
+"Bola de Voleibol de Praia/Areia",13710973,20,PERDEU,UN,7300,365
+"Rede Oficial de Voleibol de Quadra",13710974,8,PERDEU,UN,5560,695
+"Rede Oficial de Voleibol de Praia/Areia",13710975,10,PERDEU,UN,4950,495
+"Marcação de Quadra de Vôlei de Praia/Areia",13710976,5,PERDEU,KIT,1450,290
+"Rede para Mesa de Tênis de Mesa",13710978,20,PERDEU,UN,2400,120
+"Sapatilha de Velocidade para Provas de Atletismo",13710981,35,PERDEU,PAR,13300,380
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",13710982,35,PERDEU,PAR,13650,390
+"Sapatilha de Atletismo de Lançamento e Arremesso",13710983,35,PERDEU,PAR,13650,390
+"Touca de Natação",13710984,100,PERDEU,UN,3900,39
+"Óculos de Natação",13710985,100,PERDEU,UN,4900,49
+"Kimono de Karatê",13710986,150,PERDEU,UN,67500,450
+"Placas de tatame 1x1 de 40mm cores diversas",13710987,360,PERDEU,UNI,57600,160
+"Kimono de Judô",13710988,100,PERDEU,UN,48000,480
+"Kimono de Jiu-Jitsu",13710989,100,PERDEU,UN,48000,480
+"Sacos para Bola",13710995,30,PERDEU,UN,2250,75
+"CONE CHAPÉU CHINÊS",13710996,200,PERDEU,UND,2000,10
+"Bomba de Ar para Bolas",13710998,26,PERDEU,UN,1118,43
+"Apito profissional",13711002,60,PERDEU,UND,4140,69
+"Colete Esportivo",13711013,1000,PERDEU,UN,14840,14.84
+"Camiseta Esportiva",13711014,5000,PERDEU,UN,275000,55
+"Uniforme Esportivo",13711015,332,PERDEU,UN,31473.6,94.8
+"AGASALHO - JAQUETA E CALÇA POLIESTER",13711016,100,PERDEU,UND,24499,244.99

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Estudo Preliminar",0,1,VENCEU," ",6000,6000
+"Projeto Paisagístico",0,1,VENCEU," ",20000,20000
+"Projeto de Integração com a arquitetura",0,1,VENCEU," ",9000,9000
+"Projeto de iluminação",0,1,VENCEU," ",5200,5200

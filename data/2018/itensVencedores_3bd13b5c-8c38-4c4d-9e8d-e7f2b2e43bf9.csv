@@ -1,0 +1,13 @@
+cnpjCpfVencedor,codigo,descricao,numero,participanteVencedor,quantidade,unidadeMedida,valorTotalReferencia,valorTotalVencedor,valorUnitarioReferencia,valorUnitarioVencedor
+04.206.050/0001-80,10300222,"Assinatura mensal",1,"TIM CELULAR S.A.",1500,UND,10995,10995,7.33,7.33
+04.206.050/0001-80,10375564,"Chamadas VC1 (Ligações entre a mesma operadora, outras opera",2,"TIM CELULAR S.A.",180000,MIN,43200,14400,0.24,0.08
+04.206.050/0001-80,10375209,"Chamadas VC2/VC3 da mesma operadora",3,"TIM CELULAR S.A.",4200,MIN,1512,1512,0.36,0.36
+04.206.050/0001-80,10375210,"Chamadas VC2/VC3 de outras operadoras",4,"TIM CELULAR S.A.",4200,MIN,3360,3360,0.8,0.8
+04.206.050/0001-80,10375211,"Chamadas VC2/VC3 de fixo",5,"TIM CELULAR S.A.",4200,MIN,2772,2772,0.66,0.66
+04.206.050/0001-80,10375212,"Serviço intragrupo  zero local para linhas do mesmo CNPJ",6,"TIM CELULAR S.A.",1500,UND,10500,8865,7,5.91
+04.206.050/0001-80,10375213,"Sistema de Gestão Online",7,"TIM CELULAR S.A.",1500,UND,6945,6945,4.63,4.63
+04.206.050/0001-80,10375214,"Pacote de dados móveis 5GB",8,"TIM CELULAR S.A.",36,UND,2157.48,2157.48,59.93,59.93
+04.206.050/0001-80,10375215,"Pacote de dados móveis 3GB",9,"TIM CELULAR S.A.",36,UND,1797.48,1797.48,49.93,49.93
+04.206.050/0001-80,10375216,"Pacote de dados móveis 1GB",10,"TIM CELULAR S.A.",540,UND,19764,19764,36.6,36.6
+04.206.050/0001-80,10375217,"Pacote de dados móveis 100MB",11,"TIM CELULAR S.A.",240,UND,2988,2988,12.45,12.45
+04.206.050/0001-80,10375218,"Pacote de no mínimo 250 SMS compartilhados",12,"TIM CELULAR S.A.",12,UND,533.64,533.64,44.47,44.47

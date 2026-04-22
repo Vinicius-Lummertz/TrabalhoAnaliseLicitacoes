@@ -1,0 +1,67 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ABB CONTACTOR 150 A 220V",0,1,VENCEU," ",1453.5,1453.5
+"ABB contactor AC25-30 220V",0,10,VENCEU," ",1635,163.5
+"ABB disjuntor motor MS116 10-14AA",0,2,VENCEU," ",899.6,449.8
+"ABB disjuntor motor MS116 4,0-6A",0,4,VENCEU," ",1436,359
+"ABB disjuntor motor MS116 6,3-10A",0,4,VENCEU," ",1418.8,354.7
+"Bloco De Contato S2-h 11 Abb",0,30,VENCEU," ",1764,58.8
+"Cabo PT100 3X24 AWG silicone",0,100,VENCEU," ",1550,15.5
+"Cabo Flex. 2,5mm dvs cores",0,150,VENCEU," ",255,1.7
+"Cabo Flex. 4,0mm dvs cores",0,150,VENCEU," ",510,3.4
+"Cabo Flex. 10,00mm dvs cores",0,150,VENCEU," ",1155,7.7
+"Chave SOFT STARTER SSW07 85A",0,2,VENCEU," ",6971.6,3485.8
+"Controlador de temperatura N1030",0,2,VENCEU," ",763,381.5
+"DISJUNTOR CAIXA MOLDADA 3P 320A 360 KA FORMULA A3N ABB",0,1,VENCEU," ",1235.4,1235.4
+"DISJUNTOR MOTOR MS132-4.0 / 2.5-4.0A ABB",0,9,VENCEU," ",5855.4,650.6
+"FOTOCÉLULA BRAHMA UV1",0,2,VENCEU," ",5059.6,2529.8
+"INVERSOR CFW09 30CV 45A 380V",0,1,VENCEU," ",15611.8,15611.8
+"INVERSOR 3CV ATV312 380V",0,3,VENCEU," ",4285.2,1428.4
+"Mini contator 220v 4A",0,8,VENCEU," ",1232,154
+"Mini disjuntor tripolar ABB SH203",0,3,VENCEU," ",269.7,89.9
+"MÓDULO MODBUS DE ENTRADA PT100",0,2,VENCEU," ",325.2,162.6
+"Motor WEG 15 CV 4P",0,2,VENCEU," ",22301,11150.5
+"Motor WEG 30CV 2P",0,1,VENCEU," ",4513.6,4513.6
+"Motor WEG 5CV 4P",0,1,VENCEU," ",5969.3,5969.3
+"PROGRAMADOR DE CHAMA BRAHMA MF2",0,2,VENCEU," ",7189.6,3594.8
+"PROGRAMADOR DE CHAMA SIEMENS LMO-14",0,2,VENCEU," ",4907.2,2453.6
+"Rele Segurança",0,2,VENCEU," ",776.8,388.4
+"SENSOR CHAMA QRA4.U SIEMENS UV",0,2,VENCEU," ",4820.8,2410.4
+"Sensor PT100 3TI16X250R1",0,3,VENCEU," ",975.9,325.3
+"Sensor PT100 5TI110X100",0,3,VENCEU," ",1009.5,336.5
+"Serv. rebobinagem motor weg 30CV",0,1,VENCEU," ",2541,2541
+"Serv. rebobinagem motor weg 3CV",0,5,VENCEU," ",3144.5,628.9
+"Serv. rebobinagem motor weg 5CV",0,5,VENCEU," ",4105,821
+"Mão de obra eletricista",0,280,VENCEU," ",21560,77
+"Bomba Oleo Diesel",0,2,VENCEU," ",31051.6,15525.8
+"Braço lado direito",0,24,VENCEU," ",5076,211.5
+"Braço lado esquerdo",0,24,VENCEU," ",5076,211.5
+"Coroa para manutenção do redutor",0,1,VENCEU," ",6629.9,6629.9
+"Correia (20MX50CM)",0,1,VENCEU," ",4675.5,4675.5
+"Eixo do misturador",0,2,VENCEU," ",9096.8,4548.4
+"Eixo Guia do Elevador",0,10,VENCEU," ",3102,310.2
+"Eixo para manutenção do redutor",0,2,VENCEU," ",6819.8,3409.9
+"ESTOPA DE PANO",0,50,VENCEU," ",2225,44.5
+"Filtro de manga",0,112,VENCEU," ",18480,165
+"Gaiola do filtro de manga",0,80,VENCEU," ",17224,215.3
+"Geradora de dentes fellows",0,50,VENCEU," ",5170,103.4
+"Graxa alta temperatura",0,100,VENCEU," ",2940,29.4
+"Mancal p/ usina",0,8,VENCEU," ",1206.4,150.8
+"Mangueira do óleo térmico alta temperatura",0,20,VENCEU," ",3964,198.2
+"Óleo térmico",0,200,VENCEU," ",5500,27.5
+"Parafuso 1/2 X 3.1/2",0,150,VENCEU," ",420,2.8
+"Parafuso 1/2 X 5 c/ porca",0,100,VENCEU," ",370,3.7
+"Parafuso 3/8 x 2.1/2 c/ porca",0,100,VENCEU," ",180,1.8
+"Parafuso 3/8 X 3",0,320,VENCEU," ",576,1.8
+"Pás p/ usina",0,96,VENCEU," ",14208,148
+"Pinhão para manutenção do redutor",0,2,VENCEU," ",2840.6,1420.3
+"Raspadores do eixo",0,16,VENCEU," ",880,55
+"Retentor para manutenção do redutor",0,6,VENCEU," ",836.4,139.4
+"Rolamento p/ usina",0,8,VENCEU," ",1176,147
+"Rolamento para manutenção do redutor",0,4,VENCEU," ",1104,276
+"Rolete de atrito",0,6,VENCEU," ",2550,425
+"Selos para manutenção do redutor",0,18,VENCEU," ",1332,74
+"Centro de usinagem",0,100,VENCEU," ",12610,126.1
+"Mão de obra Ajustador Industrial",0,100,VENCEU," ",14130,141.3
+"Tempera p/ usina",0,100,VENCEU," ",660,6.6
+"Torno CNC",0,100,VENCEU," ",11290,112.9
+"Torno convencional",0,50,VENCEU," ",4600,92

@@ -1,0 +1,63 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo galvanizado  2 ½ de 6 mt",0,30,PERDEU," ",45000,1500
+"Luva galvanizado de 2 1/2",0,47,PERDEU," ",7050,150
+"Joelho galvanizado de 2 1/2",0,50,PERDEU," ",9500,190
+"T galvanizado de 2 1/2",0,50,PERDEU," ",12500,250
+"Registro global de 45°",0,60,PERDEU," ",14400,240
+"Abrigo de hidrante (sobrepor e embutir)",0,50,PERDEU," ",20000,400
+"Mangueira de hidrante 15 mts",0,73,PERDEU," ",29200,400
+"Mangueira de hidrante 20 mts",0,67,PERDEU," ",32160,480
+"Adaptador de 2 1/2",0,95,PERDEU," ",14250,150
+"Chave stors",0,34,PERDEU," ",1700,50
+"Adesivo de sinalização para hidrante com descrição incêndio",0,62,PERDEU," ",2480,40
+"Esguicho de 1 1/2",0,62,PERDEU," ",6200,100
+"Serviço de mão de obra - lote 3",0,230,PERDEU," ",12650,55
+"Luminária de emergência 30 leds. Acompanha parafusos e buchas",0,652,VENCEU," ",28688,44
+"Bloco autônomo a bateria com 2 refletores acompanha parafusos e buchas",0,710,VENCEU," ",284000,400
+"Central de alarme de incêndio endereçável com alimentação full range (100 a 240VAV), capacidade para no mínimo 60 dispositivos",0,71,VENCEU," ",152579,2149
+"Acionador de alarme de incêndio endereçável tipo botoeira em plástico ABS na cor vermelho, acionamento por pressão e rearmável. Tensão de operação entre 20 a 30VCC.",0,345,VENCEU," ",48300,140
+"Sinalizador audiovisual endereçável, com pressão sonora >90dB/m, fabricado em plástico ABS na cor vermelho e tensão de operação entre 20 a 30VCC.",0,345,VENCEU," ",100050,290
+"Detector de fumaça endereçável, fabricado em plástico ABS na cor branco e tensão de operação entre 20 a 30VCC.",0,100,VENCEU," ",16000,160
+"Cabo blindado para alarme de incêndio (cor vermelho) em 4 vias (2x1,5mm² + 2x0,75mm²). Condutores em cobre com isolação em PVC anti-chama.",0,27050,VENCEU," ",1352500,50
+"Serviço de mão de obra - lote 2",0,360,VENCEU," ",19782,54.95
+"Abrigo para extintores diversos",0,57,VENCEU," ",5757,101
+"40161010 ANEL DE BORRACHA P/VEDACAO",0,960,VENCEU," ",96,0.1
+"Anel Expansão",0,145,VENCEU," ",2901.45,20.01
+CHUPETA,0,830,VENCEU," ",498,0.6
+"Conjunto Apag",0,132,VENCEU," ",13.2,0.1
+"Difusor de extintor CO2",0,140,VENCEU," ",980,7
+"RECARGA EXTINTOR AP 10 LT",0,315,VENCEU," ",12600,40
+"Recarga extintor CO2 4kg",0,255,VENCEU," ",14025,55
+"RECARGA EXTINTOR CO2 06KG",0,275,VENCEU," ",20350,74
+"Recarga extintor pó ABC 4kg",0,905,VENCEU," ",54300,60
+"Recarga extintor pó BC 4kg",0,765,VENCEU," ",26775,35
+"Recarga extintor pó ABC 6kg",0,210,VENCEU," ",12600,60
+"Recarga extintor pó BC 6kg",0,195,VENCEU," ",9750,50
+"Teste Mangueira Hidrante",0,466,VENCEU," ",4660,10
+"Mangueira para Extintor CO2",0,220,VENCEU," ",5720,26
+"Mangueira para Extintor PQS",0,325,VENCEU," ",2275,7
+"Manômetro para extintores diversos",0,750,VENCEU," ",3750,5
+"Pinturas Diversas em Extintores.",0,385,VENCEU," ",5775,15
+"Placa de Sinalização (PVC) ´PMC´",0,860,VENCEU," ",2150,2.5
+"Placa de Sinalização (PVC) ´Seta´",0,960,VENCEU," ",2400,2.5
+"Reteste do cilindro CO2 4kg",0,220,VENCEU," ",8360,38
+"Reteste do cilindro CO2 6kg",0,187,VENCEU," ",8041,43
+"Reteste do cilindro AP  10kg",0,157,VENCEU," ",6751,43
+"Reteste do cilindro PQS 4kg",0,380,VENCEU," ",9500,25
+"Suporte de extintor de chão",0,112,VENCEU," ",2238.88,19.99
+"Suporte de extintor de parede",0,1320,VENCEU," ",1320,1
+"Tubo sifão para extintor PQS",0,765,VENCEU," ",3825,5
+"Válvula para Extintor CO2",0,205,VENCEU," ",12300,60
+"Válvula para Extintor PQS",0,390,VENCEU," ",11700,30
+"Lacre mangueira hidrante",0,76,VENCEU," ",184.68,2.43
+"ESGUICHO AUTOMÁTICO DE 1 ½ POLEGADAS",0,67,VENCEU," ",1340,20
+"adaptador curto soldavel 50 x 1.1/2",0,72,VENCEU," ",1440,20
+"Extintor AP 10L",0,79,VENCEU," ",9954.79,126.01
+"Extintor CO2 4Kg",0,79,VENCEU," ",38710,490
+"Extintor CO2 6Kg",0,82,VENCEU," ",50020,610
+"Extintor PQS ABC 4Kg",0,118,VENCEU," ",14160,120
+"Extintor PQS ABC 6Kg",0,77,VENCEU," ",11550,150
+"Placa fotoluminescente saída 300x150mm",0,292,VENCEU," ",2044,7
+"Placa fotoluminescente saída 600x300mm",0,282,VENCEU," ",5640,20
+"Placa fotoluminescente seta 300x150mm",0,285,VENCEU," ",1995,7
+"Serviço de mão de obra - lote 1",0,270,VENCEU," ",4050,15

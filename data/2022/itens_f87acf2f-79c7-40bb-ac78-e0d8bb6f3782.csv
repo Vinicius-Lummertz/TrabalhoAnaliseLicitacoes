@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Algodão Hidrófilo, 100% rolo com 500 gramas",3312374,16,1000,ATIVO,UNIDADE,12040,12.04
+"Detergente enzimático. Embalado em galão de 4 a 5 litros",3312375,65,350,ATIVO,GALÃO,33250,95
+"Eletrodo para Monitorização Cardíaca c/ Gel - Pediátrico",3312376,76,2000,ATIVO,UNIDADE,542,0.271
+"Lençol descartavel com elástico TNT",3312377,129,3600,ATIVO,PACOTE,24300,6.75
+"Sonda uretral nº 06, descartável",3312378,209,8000,ATIVO,UNIDADE,4480,0.56
+"Sonda uretral nº 08, descartável",3312379,210,30000,ATIVO,UNIDADE,17250,0.575
+"Teste rápido de gravidez (embalado individualmente)",3312380,229,24000,ATIVO,UNIDADE,12720,0.53
+"Aparelho de pressão adulto (Esfigmomanômetro adulto+braçadeira), braçadeira de nylon",3312381,232,150,ATIVO,UNIDADE,12000,80
+"Mini incubadora para teste biológico de autoclave a vapor",3312382,251,80,ATIVO,UNIDADE,17200,215

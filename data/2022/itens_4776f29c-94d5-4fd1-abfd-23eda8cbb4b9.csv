@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rede de Traves de Futsal",2629016,5,10,ATIVO,PAR,2210,221
+"Rede de Aro para Basquete",2629017,8,30,ATIVO,PAR,1410,47
+"Bola de Handebol H1L",2629018,9,25,ATIVO,UNIDADE,4600,184
+"Bola de Handebol H2",2629019,10,35,ATIVO,UNIDADE,6440,184
+"Bola de Voleibol de Praia/Areia",2629020,13,20,ATIVO,UNIDADE,2840,142
+"Rede Oficial de Voleibol de Praia/Areia",2629021,15,10,ATIVO,UNIDADE,2710,271
+"Rede para Mesa de Tênis de Mesa",2629022,18,20,ATIVO,UNIDADE,2280,114
+"Skate para Iniciantes",2629023,43,80,ATIVO,UNIDADE,4664,58.3
+"Kit de Proteção Esportivo",2629024,45,80,ATIVO,kit,6000,75
+"Agasalho Esportivo",2629025,56,100,ATIVO,UNIDADE,6200,62

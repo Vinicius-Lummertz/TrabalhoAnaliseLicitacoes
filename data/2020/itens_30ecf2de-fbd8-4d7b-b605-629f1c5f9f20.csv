@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água oxigenada 10% - Fr 100ml",1268221,125,200,ATIVO,FRASCO,300,1.5
+"Álcool 70% - Litro.",1268222,128,1500,ATIVO,LITRO,5985,3.99
+"Álcool 96% - Litro.",1268223,129,80,ATIVO,LITRO,399.2,4.99
+"Gorros descartáveis tipo touca com elástico 45x45cm",1268224,322,800,ATIVO,PACOTE,13200,16.5

@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Curativo redondo pós-coleta de sangue (Stopper ou bandagem).",4444001,1500,PERDEU,CX,29610,19.74
+"Filme para Ultrassonografia",4444005,30,CANCELADO,ROLO,3461.7,115.39
+"Fixador Citológico, 100ml",4444006,250,PERDEU,FR.,1565,6.26
+"Histerômetro de Collin Ginecológico 28cm",4444007,30,PERDEU,UN,1857,61.9
+"Lençol hospitalar descartável em papel",4444011,1000,DESCLASSIFICADO,ROLO,10380,10.38
+"Seringa 3ml, sem agulha",4444015,50000,PERDEU,UN,6500,0.13
+"Seringa 5ml, sem agulha",4444016,50000,VENCEU,UN,7500,0.15
+"Pinça Kelly reta 14cm",4444018,150,VENCEU,UN,3384,22.56
+"PINCA KELLY CURVA 14CM",4444019,150,VENCEU,UN,3384,22.56
+"Pinça Kelly curva 16cm",4444020,20,VENCEU,UN,534.8,26.74
+"Pinça anatômica Adson com dente 12cm",4444021,150,VENCEU,UN,1713,11.42
+"Pinça anatômica Adson com serrilha 12cm",4444022,150,VENCEU,UN,1629,10.86
+"Pinça anatômica dissecção com serrilha 14 cm",4444023,150,VENCEU,UN,1462.5,9.75
+"Pinça anatômica dente de rato 12 cm",4444024,150,VENCEU,UN,1545,10.3
+"Pinça Halstead mosquito reta 12,5cm c/ serrilha",4444025,150,VENCEU,UN,2965.5,19.77
+"Pinça Halstead mosquito curva 12 cm c/ serrilha",4444026,150,VENCEU,UN,2965.5,19.77
+"Tesoura Iris stark curva 12 cm",4444027,150,VENCEU,UN,2422.5,16.15
+"Tesoura Iris reta 12 cm",4444028,150,VENCEU,UN,2422.5,16.15
+"Tesoura Mayo Stille reta 15 cm",4444029,80,VENCEU,UN,1384,17.3
+"Porta agulha mayo 14 cm",4444030,150,VENCEU,UN,3133.5,20.89
+"Porta agulha mayo 16cm",4444031,80,CANCELADO,UN,2074.4,25.93
+"Cuba rim, comprimento 26cm",4444032,150,PERDEU,UN,8674.5,57.83
+"Cuba redonda para assepsia",4444033,150,CANCELADO,UN,3270,21.8
+"Cabo para bisturi nº3",4444034,150,PERDEU,UN,1740,11.6
+"Cabo para bisturi nº4",4444035,150,PERDEU,UN,1740,11.6
+"Tesoura cirurgica reta fina/fina  15cm",4444036,150,VENCEU,UN,2883,19.22
+"Tesoura cirurgica curva fina/fina  15cm",4444037,150,VENCEU,UN,2883,19.22
+"Tesoura cirurgica reta fina/romba  15cm",4444038,150,VENCEU,UN,2883,19.22
+"Tesoura cirurgica reta romba/romba  15cm",4444039,100,VENCEU,UN,1922,19.22
+"Tentacânula 15cm",4444040,100,PERDEU,UN,907,9.07
+"Pinça Kocher curva 14 CM",4444041,150,VENCEU,UNI,4512,30.08
+"PINCA KOCHER RETA 14 CM",4444042,150,VENCEU,UNI,4512,30.08
+"Pinça crile reta 14 cm",4444043,150,VENCEU,UN,3480,23.2
+"Pinça crile curva 14 cm",4444044,150,VENCEU,UN,3600,24
+"Pinça Pean 16 cm",4444045,80,PERDEU,UN,3324.8,41.56

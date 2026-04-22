@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletes esportivos.",4385184,300,PERDEU,UND,4200,14
+"Mochila tipo academia.",4385187,600,VENCEU,UND,8994,14.99
+"Bola de futebol de campo.",4385188,40,PERDEU,UND,11200,280
+"Bola futsal adulto.",4385189,40,PERDEU,UND,9158.8,228.97

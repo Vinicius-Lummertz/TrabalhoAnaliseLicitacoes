@@ -1,0 +1,35 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária  com 5 Litros.",4385494,180,DESCLASSIFICADO,GAL,1953,10.85
+Alvejante,4385495,120,DESCLASSIFICADO,GAL,1800,15
+"Amaciante para tecidos",4385496,70,PERDEU,GAL,875,12.5
+"Desinfetante de uso geral",4385497,180,PERDEU,GAL,2448,13.6
+"Detergente Neutro Líquido de Uso Geral",4385498,180,PERDEU,GAL,2554.2,14.19
+"Sabão liquido de coco",4385499,60,PERDEU,GAL,924,15.4
+"Detergente com Cera Para Veículos",4385500,120,PERDEU,GAL,6768,56.4
+"Limpa pneus com silicone",4385501,80,DESCLASSIFICADO,GAL,4688,58.6
+"Desinfetante limpador de uso geral",4385502,30,INABILITADO,GAL,2067,68.9
+"Álcool etílico hidratado 96% (92,8º INPM)",4385507,60,PERDEU,LT,301.2,5.02
+"Lustra móveis .",4385508,60,VENCEU,FRA,223.8,3.73
+"Desodorizador de ambientes 360 ml.",4385509,60,VENCEU,FRA,402,6.7
+"Pedra Sanitária",4385510,300,PERDEU,UND,477,1.59
+"Sabão em barra",4385511,30,PERDEU,PCT,169.2,5.64
+"Sabão em pó .",4385512,60,INABILITADO,KG,267,4.45
+"Saponáceo cremoso 300gr.",4385514,60,VENCEU,FRA,190.8,3.18
+"Escova para lavar roupas",4385515,20,PERDEU,UND,79.8,3.99
+"Esfregão de Aço",4385517,250,PERDEU,UND,400,1.6
+"Esponja de lã de Aço.",4385518,120,PERDEU,PCT,146.4,1.22
+ESPONJA,4385519,180,PERDEU,PCT,1368,7.6
+"Flanela para limpeza",4385520,30,PERDEU,UND,87,2.9
+"Luva para Limpeza.",4385521,40,PERDEU,UND,156,3.9
+"Pano de copa e cozinha",4385529,30,PERDEU,UND,87,2.9
+"Papel higiênico",4385533,6,INABILITADO,FRD,265.68,44.28
+"Papel Higiênico Rolão",4385534,60,VENCEU,FRD,1974,32.9
+"Saca de tecido crua",4385537,10,PERDEU,PCT,155.7,15.57
+"Saco plástico de lixo domestico de polietileno,100 litros",4385539,10,PERDEU,PCT,599,59.9
+"Saco plástico de lixo domestico,com capacidade de 50 litros",4385540,15,PERDEU,PCT,373.5,24.9
+"Saco plástico de lixo domestico de polietileno 30 litros",4385541,15,PERDEU,PCT,328.5,21.9
+"Vassoura Nylon",4385542,20,VENCEU,UND,209.4,10.47
+"VASSOURA PALHA",4385543,20,DESCLASSIFICADO,UND,536,26.8
+"Copo descartavel 180 ml",4385544,15,PERDEU,CX,841.5,56.1
+"copo descartavel 300ml CX transparente",4385545,15,INABILITADO,CX,849.6,56.64
+"Guardanapo de papel folha simples",4385546,150,PERDEU,UND,238.5,1.59

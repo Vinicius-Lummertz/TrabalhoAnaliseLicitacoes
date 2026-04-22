@@ -1,0 +1,127 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Armação secundária AR 22, galvanizada.",10967504,70,PERDEU,UND,1092.7,15.61
+"Barramento pente bifásico 50A",10967505,30,PERDEU,PC,688.8,22.96
+"Barramento pente trifásico 50A",10967507,30,PERDEU,PC,885.3,29.51
+"Base para relé fotoeletrônico",10967508,500,PERDEU,PC,2400,4.8
+"Braço para luminária iluminação pública 1,5m de comprimento com diâmetro de 25,4mm galvanizado a fogo, com sapata, espessura 1,9mm",10967509,150,PERDEU,UND,5464.5,36.43
+"Braço para luminária iluminação pública 2m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 2mm",10967510,150,PERDEU,PC,14212.5,94.75
+"Braço para luminária iluminação pública 3m de comprimento com diâmetro de 48,3mm galvanizado a fogo, com sapata, espessura 3mm",10967511,150,PERDEU,PC,30582,203.88
+"Cabo Flexivel, bitola 1,5 mm2 Isolamento PVC 750 V",10967512,10000,PERDEU,M,10300,1.03
+"Cabo Flexível, bitola 10,0 mm2 Isolamento EPR 1kV - VERDE",10967513,2000,PERDEU,MTS,13640,6.82
+"Cabo Flexível, bitola 16,0 mm2 Isolamento EPR 1kV - VERDE",10967514,2000,PERDEU,MTS,20980,10.49
+"Cabo Flexivel, bitola 2,5 mm2 Isolamento PVC 750 V",10967515,10000,PERDEU,M,15300,1.53
+"Cabo Flexível, bitola 25,0 mm², Isolamento EPR 1kV - VERDE",10967516,1500,PERDEU,MTS,24750,16.5
+"Cabo Flexivel, bitola 4,0 mm2 Isolamento PVC 750 V",10967517,2000,PERDEU,M,5400,2.7
+"Cabo Flexivel, bitola 6,0 mm2 Isolamento EPR 1kV",10967518,2000,PERDEU,M,7980,3.99
+"Cabo PP, de cobre, bitola 2 x 2,5mm2, isolamento 1KV",10967519,5000,PERDEU,M,20400,4.08
+"Cabo PP, de cobre, bitola 3 x 2,5mm2, isolamento 1KV",10967520,5000,PERDEU,M,29150,5.83
+"Cabo PP, de cobre, bitola 4 x 2,5mm2, isolamento 1KV",10967521,5000,PERDEU,M,37950,7.59
+"Caixa de medição trifásca em policarbonato com lente, fixação em poste, padrão CELESC.",10967525,70,VENCEU,UND,16573.9,236.77
+"Chave de comando para iluminação pública unipolar 50 amperes",10967528,17,PERDEU,PC,3956.07,232.71
+"Cinta circular para poste com dois parafusos e porca 160mm, galvanizado a fogo",10967529,70,PERDEU,PC,2408,34.4
+"Cinta circular para poste com dois parafusos e porca 170mm, galvanizado a fogo",10967530,70,PERDEU,PC,2734.9,39.07
+"Cinta circular para poste com dois parafusos e porca 180mm, galvanizado a fogo",10967531,70,PERDEU,PC,2811.9,40.17
+"Cinta circular para poste com dois parafusos e porca 190mm, galvanizado a fogo",10967532,70,PERDEU,PC,2909.9,41.57
+"Cinta circular para poste com dois parafusos e porca 200mm, galvanizado a fogo",10967533,70,PERDEU,PC,3019.1,43.13
+"Cinta circular para poste com dois parafusos e porca 210mm, galvanizado a fogo",10967534,70,PERDEU,PC,3094.7,44.21
+"Cinta circular para poste com dois parafusos e porca 220mm, galvanizado a fogo",10967535,70,PERDEU,PC,3205.3,45.79
+"Cinta circular para poste com dois parafusos e porca 230mm, galvanizado a fogo",10967536,70,PERDEU,PC,3250.1,46.43
+"Cinta circular para poste com dois parafusos e porca 240mm, galvanizado a fogo",10967537,70,PERDEU,PC,3357.9,47.97
+"Cinta circular para poste com dois parafusos e porca 250mm, galvanizado a fogo",10967538,70,PERDEU,PC,3670.1,52.43
+"Conector cunha de alumínio ampactinho tipo B (LARANJA)",10967540,1600,PERDEU,PC,10368,6.48
+"Conector cunha de alumínio ampactinho tipo II (VERDE)",10967541,1600,PERDEU,PC,7248,4.53
+"Conector cunha de alumínio ampactinho tipo III (VERMELHO)",10967542,1600,VENCEU,PC,4864,3.04
+"Conector cunha de alumínio ampactinho tipo IV (AZUL)",10967543,1600,PERDEU,PC,5024,3.14
+"Conector cunha de alumínio ampactinho tipo V (AMARELO)",10967544,1600,PERDEU,PC,5056,3.16
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 2 entradas.",10967545,300,PERDEU,PC,1137,3.79
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 3 entradas.",10967546,300,PERDEU,PC,1350,4.5
+"Conector de emenda; para condutores de 0,5 mm² até 6mm² com 5 entradas.",10967548,200,PERDEU,PC,1516,7.58
+"Conector perfurante (piercing) 10/70mm",10967549,1600,PERDEU,PC,12736,7.96
+"Contator tripolar 100A",10967550,20,VENCEU,PC,12862.2,643.11
+"Contator tripolar com bobina 220V para 25A Regime AC3",10967551,20,PERDEU,PC,1332.8,66.64
+"Contator tripolar com bobina 220V para 50A Regime AC3",10967552,20,PERDEU,PC,3738.8,186.94
+"Dispositivo protetor de surto (DPS) de 10Kv/10kA, para uso em luminairas pública de LED",10967555,350,PERDEU,PC,9859.5,28.17
+"Eletroduto corrugado flexivel 1” tipo pesado",10967561,5000,PERDEU,M,11350,2.27
+"Fita isolante - 20m - preta",10967562,1000,PERDEU,RL,5850,5.85
+"Fita isolante de alta fusão PVC, comprimento de 20 m, cor preta",10967563,150,PERDEU,RL,2395.5,15.97
+"Haste aterramento 5/8” 2,4mt com conector, alta camada de cobre.",10967564,50,PERDEU,UND,5142,102.84
+"Lâmpada Bulbo LED 50W - E27",10967569,100,PERDEU,PC,2874,28.74
+"Lâmpada Bulbo LED 70W - E27",10967570,100,PERDEU,UND,8275,82.75
+"Lâmpada multivapor metálico 1000w, bulbo tubolar, E-40, vida útil mínima de 9.000h, Im 85000 lumens",10967571,35,PERDEU,PC,4826.15,137.89
+"Lâmpada multivaporer metálico 400w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 35000 lumens",10967573,100,PERDEU,PC,3104,31.04
+"Lâmpada multivapores metálico 250w, bulbo tubolar, E-40, vida útil mínima de 12.000h, Im 20000 lumens, 5500K",10967574,350,PERDEU,PC,9292.5,26.55
+"Lâmpada multivapores metálicos 150w, vida útil mínima de 12.000h, Im 11500 lumens, base E-27, 4200K",10967575,350,PERDEU,PC,8848,25.28
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",10967578,3900,PERDEU,PC,139425,35.75
+"Lâmpada vapor sódio alta pressão 250w, bulbo tubular, E-40, vida útil mínima de 32.000h, Fluxo Luminoso minimo Im 34.000 lumens, com Selo Procel",10968145,1300,PERDEU,PC,46475,35.75
+"Lâmpada vapor sódio alta pressão 400w, bulbo tubolar, E-40, vida útil mínima de 35.000h, Fluxo Luminoso minimo Im 58.000 lumens, com Selo Procel",10967579,100,PERDEU,PC,4377,43.77
+"Luminária para iluminação pública de alumínio difusor policarbonato injetado, conjunto óptico IP65, bocal E-40 reforçado para instalar em braço de 48,3mm, refletor em aluminio estampado e escalonado, pescoço de alumínio injetado na cor cinza, para lâmpada de sódio até 400w",10967581,140,PERDEU,UND,17837.4,127.41
+"Luminária para iluminação pública de alumínio, bocal E-40, instalação em braço de 48,3mm, para lâmpada vapor de sódio até 250W",10967582,140,PERDEU,PC,12595.8,89.97
+"Luminária para iluminação pública de alumínio estampado, com grade, bocal E-27 reforçado para instalar em braço de 25,4mm, comprimento 415mm, largura 240mm, para lâmpada vapor de sódio até 70w",10967583,200,PERDEU,UND,11228,56.14
+"Luminária para iluminação pública LED, potência máxima de 100W, fluxo mínimo de 15.000 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967584,50,PERDEU,PC,25849,516.98
+"Luminária para iluminação pública LED, potência máxima de 120w, fluxo mínimo de 18.000 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967585,50,PERDEU,PC,26399,527.98
+"Luminária para iluminação pública LED, potência máxima de 150W, fluxo mínimo de 22.500 lumens, eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967586,50,PERDEU,PC,27443,548.86
+"Luminária para iluminação pública led, potência máxima de 200w, fluxo minimo de 30.000 lumens, com eficiência maior ou igual a 150lm/W, tensão de entrada de 220V 60Hz, base para relê fotoelétrico incorporada, temperatura de cor: 5.000K.",10967587,50,PERDEU,PC,49719,994.38
+"Luminária para iluminação pública LED, potência máxima de 55w, fluxo mínimo de 8.250 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967588,50,PERDEU,PC,19739.5,394.79
+"Luminária para iluminação pública LED, potência máxima de 70w, fluxo mínimo de 10.500 lumens, com eficiência maior ou igual a 150lm/W, temperatura de cor 5.000K",10967589,50,VENCEU,PC,23644.5,472.89
+"MiniDisjuntor monofásico 50 A, curva C, padrão IEC",10967593,84,PERDEU,UND,611.52,7.28
+"MiniDisjuntor trifasico 100 A, curva C, padrão IEC",10967594,20,PERDEU,UND,1742.6,87.13
+"MiniDisjuntor trifasico 20 A, curva C, padrão IEC",10967595,34,PERDEU,UND,1043.8,30.7
+"MiniDisjuntor trifasico 32 A, curva C, padrão IEC",10967596,34,PERDEU,UND,1043.8,30.7
+"MiniDisjuntor trifasico 50 A, curva C, padrão IEC",10967597,34,PERDEU,UND,1043.8,30.7
+"Parafuso máquina cabeça quadrada com porca 16x200mm, galvanizado a fogo",10967599,150,PERDEU,PC,1356,9.04
+"Parafuso máquina cabeça quadrada com porca 16x250mm, galvanizado a fogo",10967600,150,PERDEU,PC,1579.5,10.53
+"Plug 2P+T 10A fêmea",10967602,100,VENCEU,UND,304,3.04
+"Plug 2P+T 10A macho",10967603,100,VENCEU,UND,328,3.28
+"Plug 2P+T 20A fêmea",10967604,50,VENCEU,UND,152,3.04
+"Plug 2P+T 20A macho",10967605,50,VENCEU,UND,196,3.92
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 07 mts",10967609,15,PERDEU,UND,11813.7,787.58
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 08 mts",10967610,15,PERDEU,PC,14700,980
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 09 mts",10967611,15,PERDEU,PC,17182.35,1145.49
+"Poste de ferro galvanizado a fogo conforme a NBR 6323, em conformidade com a NBR 14744 e NBR 6123, com janela de inspeção para colocação de fusíveis tipo diased, no tamanho de 10 mts",10967612,15,PERDEU,PC,18730.5,1248.7
+"Poste reto em poliéster reforçado, altura livre de 07 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm , base engasatada. Resistência 60 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",10967613,25,PERDEU,UND,43077.75,1723.11
+"Poste reto em poliéster reforçado, altura livre de 08 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 100 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",10967614,15,PERDEU,UND,36914.7,2460.98
+"Poste reto em poliéster reforçado, altura livre de 09 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 100 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",10967615,17,PERDEU,UND,47699.79,2805.87
+"Poste reto em poliéster reforçado, altura livre de 12 metros, tipo cônico contínuo de seção circular, inteiro, com encaixe de luminária soldado de 48,3mm, base engasatada. Resistência 200 dan. Resistentes a vento de até 100km/h, lixado sem ranhuras. Acabamento em gel coat isoftálico de alta resistência à corrosão.",10967616,8,PERDEU,UND,54619.2,6827.4
+"Projetor / refletor corpo de alumínio  E40 para lâmpada 1000w, laterais de aluminio fundido, projetos de chapa de alumínio dobrado com lente plana de cristal temperado fixada ao corpo por meio de junta vedatora.",10967617,42,VENCEU,UND,4827.48,114.94
+"Projetor / refletor corpo de alumínio  E40 para lâmpada 150w, laterais de aluminio fundido, projetos de chapa de alumínio dobrado com lente plana de cristal temperado fixada ao corpo por meio de junta vedatora.",10967618,42,VENCEU,UND,1368.78,32.59
+"Projetor / refletor corpo de alumínio  E40 para lâmpada 400w, laterais de aluminio fundido, projetos de chapa de alumínio dobrado com lente plana de cristal temperado fixada ao corpo por meio de junta vedatora.",10967619,42,VENCEU,UND,2737.98,65.19
+"Quadro de comando metalico 400x400x200 com flange",10967620,35,PERDEU,UND,7252.35,207.21
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 1000w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967621,30,PERDEU,UND,8217,273.9
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 150w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967622,500,PERDEU,PC,32650,65.3
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967623,1951,PERDEU,PC,160294.16,82.16
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 250w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10968228,549,PERDEU,PC,45105.84,82.16
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 400w, 220V, 60Hz, galvanizado a fogo com Selo PROCEL",10967624,50,PERDEU,PC,5545,110.9
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",10967625,2100,PERDEU,PC,113106,53.86
+"Reator externo AFP 0,93 para lâmpada vapor de sódio 70w, 220V, 60Hz, galvanizado a fogo, com Selo PROCEL",10968233,700,PERDEU,PC,37702,53.86
+"Reator interno AFP  0,93, para lâmpada de vapor de sódio 150W, 220V, 60Hz, com Selo PROCEL",10967626,100,PERDEU,PC,5269,52.69
+"Reator interno AFP 0,93, para lâmpada de vapor de sódio 250W, 220V, 60Hz, com Selo PROCEL",10967627,140,PERDEU,PC,9234.4,65.96
+"Receptáculo porcelana E-27 reforçado para iluminação pública",10967628,400,PERDEU,PC,1132,2.83
+"Receptáculo porcelana E-40 reforçado para iluminação pública",10967629,400,PERDEU,PC,2808,7.02
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 100W / Branco. Vida útil: 25.000 horas",10967630,100,PERDEU,UND,5990,59.9
+"Refletor em LED, potência 100W/Verde",10967631,100,PERDEU,PC,12535,125.35
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 200W / Branco. Vida útil: 25.000 horas",10967632,100,PERDEU,UND,13789,137.89
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 50W / Branco. Vida útil: 25.000 horas",10967634,100,PERDEU,UND,3140,31.4
+"Relé fotoeletrônico para iluminação pública 1000w com retardo, garantia mínima 05 anos, os contatos devem ser capazes de suportar 35.000 operações com as cargas indutivas supracitadas, contando-se uma operação para cada ciclo completo (uma abertura e um fechamento), sem sofrer desgastes ou deteriorações que os inutilizem.",10967635,7500,PERDEU,PC,107700,14.36
+"Relé fotoeletrônico para iluminação pública 1000w com retardo, garantia mínima 05 anos, os contatos devem ser capazes de suportar 35.000 operações com as cargas indutivas supracitadas, contando-se uma operação para cada ciclo completo (uma abertura e um fechamento), sem sofrer desgastes ou deteriorações que os inutilizem.",10969386,2500,PERDEU,PC,45875,18.35
+"Suporte para instalação e fixação de 01 luminárias em topo de poste, com diametro de 60,3m, para uso em sistemas de iluminação de vias públicas. Produzido com tubos de aço 1010/1020, a fixação ao topo é feita por parafusos de aperto que asseguram a permanência do conjunto na posição original de instalção. Acabamento superficial galvanizado por imersão.",10967637,10,VENCEU,PC,719.5,71.95
+"Suporte para instalação e fixação de 02 luminárias em topo de poste, com diametro de 60,3m, para uso em sistemas de iluminação de vias públicas. Produzido com tubos de aço 1010/1020, a fixação ao topo é feita por parafusos de aperto que asseguram a permanência do conjunto na posição original de instalção. Acabamento superficial galvanizado por imersão.",10967638,10,VENCEU,PC,922.8,92.28
+"Suporte para instalação e fixação de 03 luminárias em topo de poste, com diâmetro de 60,3m, para uso em sistemas de iluminação de vias públicas.",10967639,10,PERDEU,PC,1078.8,107.88
+"Suporte para instalação e fixação de 04 luminárias em topo de poste, com diâmetro de 60,3m, para uso em sistemas de iluminação de vias públicas.",10967640,10,PERDEU,PC,1366.3,136.63
+"Trilho DIN Perfurado 35x7,5x1000mm - Ferro Zincado",10967642,10,PERDEU,PC,112.3,11.23
+"Alicate Amperímetro CAT4 com detector de tensão",10967643,10,PERDEU,PC,1614.6,161.46
+"Alicate Bomba D'água - 10 polegadas",10967644,10,PERDEU,PC,384,38.4
+"Alicate universal 8"" eletricista",10967645,35,PERDEU,PC,1764,50.4
+"Escada de alumínio dobrável 6 degraus",10967659,2,PERDEU,PC,1193.4,596.7
+"Escada de alumínio multifuncional 4x4, 16 degraus (uso profissional)",10967660,2,PERDEU,UND,2166.86,1083.43
+"Facão 16"" com cabo PP",10967663,5,PERDEU,PC,172.5,34.5
+"Parafusadeira / furadeira 18V c/ 2 baterias",10967669,5,PERDEU,PC,2772,554.4
+"Cabo PP, de cobre, bitola 3 x 2,5mm, isolamento 1KV",10967674,220,PERDEU,M,1282.6,5.83
+"Eletroduto PVC rígido 3/4""",10967690,506,PERDEU,M,4533.76,8.96
+"Luminária tipo pública para uso externo em LED 120W - 5000K",10967693,20,PERDEU,UND,6808,340.4
+"Refletor LED para uso externo 100W",10967694,20,PERDEU,UND,1216.8,60.84
+"Cabo de cobre nú 35mm² para aterramento",10967695,21,PERDEU,M,430.29,20.49
+"Cabo de Cobre Isol. EPR 1kV 2,5mm2.",10967705,400,PERDEU,M,716,1.79
+"Cabo Flexível, bitola 16,0 mm², Isolamento EPR 1kV - BRANCO",10967706,225,PERDEU,MTS,2360.25,10.49
+"Eletroduto PVC rígido 2""",10967713,30,PERDEU,M,861.6,28.72
+"Luminária tipo pública em LED 150W (5000K)",10967714,9,PERDEU,UND,2483.01,275.89
+"Luminária tipo pública em LED 60W (5000K)",10967715,7,PERDEU,UND,1199.45,171.35

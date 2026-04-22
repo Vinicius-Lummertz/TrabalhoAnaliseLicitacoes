@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Dipirona 500mg cpr, em blister.",6570263,102,3000000,ATIVO,COMPRIMIDO,327000,0.109
+"Levodopa 100mg + benserazida 25mg comprimido dispersivel.",6570264,159,8000,ATIVO,COMPRIMIDO,15040,1.88
+"Levodopa 200mg + benserazida 50mg comprimido.",6570265,161,70000,ATIVO,COMPRIMIDO,94500,1.35
+"Sinvastatina 40 mg cpr, em blister.",6570266,228,1800000,ATIVO,COMPRIMIDO,216000,0.12

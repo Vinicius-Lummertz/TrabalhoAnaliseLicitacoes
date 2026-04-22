@@ -1,0 +1,22 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico, frasco 1lt.",14877915,11250,PERDEU,UNI,56250,5
+"Álcool etílico 70° antisséptico, frasco 1lt.",14882855,3750,PERDEU,UNI,19500,5.2
+"Ataduras de Crepom 10cm.",14877926,40000,PERDEU,UNI,46400,1.16
+"Ataduras de Crepom 12cm.",14877927,40000,PERDEU,UNI,60000,1.5
+"Ataduras de Crepom 15cm",14877928,40000,PERDEU,UN,52400,1.31
+"Ataduras de Crepom 20cm",14877929,18000,PERDEU,UN,43200,2.4
+"Ataduras de Crepom 6cm",14877930,20000,PERDEU,UN,20000,1
+"Ataduras de Crepom 8cm",14877931,25000,PERDEU,UN,29000,1.16
+"Luva Cirúrgica estéril no. 6,5.",14878042,5000,PERDEU,PAR,5900,1.18
+"Luva Cirúrgica estéril no. 8,0",14878043,3000,PERDEU,PAR,3540,1.18
+"Luva Cirúrgica estéril no.7,0.",14878044,8000,PERDEU,PAR,9440,1.18
+"Luva Cirúrgica estéril no.7,5",14878045,8000,PERDEU,PAR,9440,1.18
+"Óleo de girassol (AGE) Embalagem 200ml",14878064,10000,PERDEU,UNI,100000,10
+"Seringa 3ml sem agulha LUER LOCK",14878094,140000,PERDEU,UNI,29400,0.21
+"Seringa 5ml sem agulha LUER LOCK",14878095,52000,PERDEU,UNI,12480,0.24
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14878154,28500,PERDEU,UND,199500,7
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14883318,9500,PERDEU,UND,66500,7
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14878156,30000,PERDEU,UND,240000,8
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14883323,10000,PERDEU,UND,80000,8
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14878157,11250,PERDEU,UND,112500,10
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14883334,3750,PERDEU,UND,37500,10

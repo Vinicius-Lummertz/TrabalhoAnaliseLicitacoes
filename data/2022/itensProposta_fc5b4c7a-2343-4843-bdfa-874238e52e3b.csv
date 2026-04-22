@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PC Pe direito itauba  18x18 [C 3.000]                              BALANÇO",9531694,3,NAO_COTOU,UN,0,0
+"Pe direito pinus tratado 18x18x400                              GUARDA-CORPO PRIMEIRO – (94 pecas com 200cm)",9531695,47,VENCEU,UND,17954,382
+"ML Caibro itauba bruto 10x20                                           PONTE – BANCAS PARA BARROTES",9531696,90,NAO_COTOU,M/L,0,0
+"UN Caibro pinus tratado 7x14x500                                           PONTE – BARROTES PARA DECK (90PECAS COM250 CM)",9531697,45,VENCEU,UN,7965,177
+"M2 Deck pinus tratado 2x9                                                           PONTE – DECK (PECAS COM 300 CM)",9531698,92,VENCEU,M2,5152,56
+"UN Caibro pinus tratado 5x10x400                                            PONTE – GUARDA CORPO (36 PECAS COM 200 CM )",9531699,18,VENCEU,UN,1062,59
+"M2 Deck pinus tratado 2x9                                                          PONTE – CORRIMAO (180 PECAS COM 300",9531700,48.6,VENCEU,M2,2721.6,56
+"UN Caibro pinus tratado 9x18x500                                            MARGEM LAGO – BARROTES",9531701,92,VENCEU,UN,21896,238
+"M2 Deck pinus tratado 2x9                                                           MARGEM LAGO – DECK",9531702,412,VENCEU,M2,23072,56
+"UN caibro pinus tratado 5x10x400                                              MARGEM LAGO – GUARDA CORPO (92 PECAS COM 200CM)",9531703,46,VENCEU,UN,2714,59
+"M2Deck pinus tratado 2x9                                                            MARGEM LAGO – GUARDA CORPO (880 PECAS COM 300 CM)",9531704,237.6,VENCEU,M2,13305.6,56
+"PC Vara eucalipto armação tratada [C-7000]                         ABELHAS – COM DIAMETRO DE 20CM",9531705,8,VENCEU,PC,2240,280
+"PC Vara eucalipto armação tratada [C-5000]                                    ABELHAS – COM DIAMETRO DE 20 CM",9531706,8,VENCEU,PC,1680,210
+"PC caibro itauba bruto 10x20 [C-4000]                                             ABELHAS – BANCAS PARA BARROTES",9531707,16,NAO_COTOU,PC,0,0
+"UN Caibro pinus tratado 7x14x300                                                    ABELHAS – BARROTES PARA DECK (72PECAS COM 150CM)",9531708,36,VENCEU,UN,3816,106
+"PC Caibro viga itauba 9x24 [C-7000]                                                 ABELHAS – BANCAS CENTRAIS",9531709,2,NAO_COTOU,PC,0,0
+"PC Caibro itauba bruto 10x20 [C-7000]                                            ABELHAS – BARROTES CENTRAIS",9531710,7,NAO_COTOU,PC,0,0
+"PC Caibro itauba bruto 10x20 [C-5000]                                            ABELHAS – BARROTES CENTRAIS",9531711,4,NAO_COTOU,PC,0,0
+"UN Caibro pinus tratado 5x10x400                                              ABELHAS – GUARDA CORPO (16 PECAS COM 200 CM)",9531712,8,VENCEU,UN,472,59
+"M2 Deck pinus tratado 2x9                                                           ABELHAS – DECK (PECAS COM 300CM)",9531713,80,VENCEU,M2,4480,56
+"M2 Caibro pinus tratado 5x10x500                                                   ABELHAS – RIPAS PERGOLADO (300PECAS COM 4X4 CM)",9531714,150,VENCEU,M2,10950,73
+"UN Caibro pinus tratado 5x10x500                                                    ABELHAS – PERGOLADO",9531715,17,VENCEU,UN,1241,73
+"M2 Deck pinus tratado 2x9                                                           ABELHAS CORRIMAO",9531716,8.5,VENCEU,M2,476,56
+"UN Tabua pinus tratado 2x24                                                              ABELHAS – TABUAS 2X20CM",9531717,17,PERDEU,UN,1020,60
+"PC Prancha pinus tratada [E-0.035 x L-0.100 x C-3]                        ABELHAS – RIPAS 3X8CM",9531718,9,PERDEU,PC,1800,200
+"PC Pe direito itauba bruto 8x8 [C-1]                                                  BANCOS",9531719,16,NAO_COTOU,PC,0,0
+"PC Caibro itauba bruto  6x12 [C-2000]                                             BANCOS",9531720,16,NAO_COTOU,PC,0,0
+"PC Tabua itauba  2x28 [C-2000]                                                         BANCOS",9531721,16,NAO_COTOU,PC,0,0
+"ML Brise itauba 2x4                                                                               BANCOS",9531722,350,NAO_COTOU,M/L,0,0
+"UN Parafuso phs 4,5x50 CHATA",9531723,20000,NAO_COTOU,UN,0,0
+"UN Parafuso frances C/ porca 5/16 x6”",9531724,200,NAO_COTOU,UN,0,0
+"UN Chumbador parabolt 3/8”",9531725,400,NAO_COTOU,UN,0,0

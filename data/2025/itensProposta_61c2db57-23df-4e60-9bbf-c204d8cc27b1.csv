@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Torre de Hanói",19057725,125,INABILITADO,UND,2750,22
+"Torre de Hanói",19057669,375,INABILITADO,UND,8580,22.88
+"Jogo TANGRAM",19057670,500,PERDEU,UND,40000,80

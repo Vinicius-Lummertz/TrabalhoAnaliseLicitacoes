@@ -1,0 +1,12 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Eritromicina 50mg/mL suspensão oral  60ml",1328449,103,200,ATIVO,FRASCO,792,3.96
+"Losartana 50mg comprimido revestido",1328450,168,3200000,ATIVO,COMPRIMIDO,128000,0.04
+"Metformina 850mg",1328451,171,3000000,ATIVO,COMPRIMIDO,150000,0.05
+"Metronidazol 500mg/5g com 7 aplicadores creme vaginal",1328452,181,5000,ATIVO,BISNAGA,17950,3.59
+"Miconazol 20mg/g com 7 aplicadores creme vaginal 80g",1328453,182,8000,ATIVO,BISNAGA,40880,5.11
+"Nistatina 100.000 UI/mL suspensão oral  50ml",1328454,190,3500,ATIVO,FRASCO,11025,3.15
+"Sulfametoxazol 400mg + trimetoprima 80mg.",1328455,226,120000,ATIVO,COMPRIMIDO,10800,0.09
+"AZITROMICINA 200MG/5ML",1328461,30,12000,ATIVO,FRASCO,62640,5.22
+"Dexametasona 0,1% creme 10g",1328472,83,30000,ATIVO,BISNAGA,26700,0.89
+"ATENOLOL 50MG",1328476,28,1500000,ATIVO,COMPRIMIDO,51000,0.034
+"Amoxicilina 250mg/5mL",1328490,22,30000,ATIVO,FRASCO,105000,3.5

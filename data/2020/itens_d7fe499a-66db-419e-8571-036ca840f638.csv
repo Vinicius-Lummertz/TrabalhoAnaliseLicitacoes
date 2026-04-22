@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável adulto tamanho P.",1268606,1,10000,ATIVO,UNIDADE,8400,0.84
+"Fralda descartável adulto tamanho XG.",1268607,4,60000,ATIVO,UNIDADE,61800,1.03
+"Fralda descartável adulto tamanho G.",1268608,3,60000,ATIVO,UNIDADE,58800,0.98
+"Fralda descartável adulto tamanho M.",1268609,2,30000,ATIVO,UNIDADE,27600,0.92

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto do tipo lajota sextavada 0,30 x 0,30 x 0,8",15251603,10000,PERDEU,M2,431000,43.1
+"Bloco de concreto estrutural, dimensões 14 x 19 x 39 cm, Fck",15251604,10000,PERDEU,UND,45000,4.5
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",15251606,3000,VENCEU,M2,130800,43.6
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",15251608,6000,VENCEU,m,173400,28.9

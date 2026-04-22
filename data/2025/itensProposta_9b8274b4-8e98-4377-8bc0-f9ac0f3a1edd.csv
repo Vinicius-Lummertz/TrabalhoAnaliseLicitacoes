@@ -1,0 +1,17 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Anestésico Dissociativo Cetamina 100mg/ml(10%).",20734935,25,PERDEU,FR,3750,150
+"Estimulante Cardiorespiratório Doxapram 20mg/ml (2%). Uso Injetável",20734937,5,PERDEU,FR,3750,750
+"Antagonista Ioimbina 10mg/ml (1%). Uso Injetável",20734938,5,PERDEU,UND,1250,250
+"Sedativo Xilazina 20mg/ml (2%).",20734944,25,PERDEU,FR,2500,100
+"Vacina antirrábica para cães e gatos.",20734947,1000,PERDEU,FR,20000,20
+"Vacina múltipla para cães (V10);",20734948,1000,PERDEU,FR,47170,47.17
+"Ectoparasiticida nitenpiram 11,4 mg para cães e gatos;",20734954,400,PERDEU,COMP,6000,15
+"Ectoparasiticida nitenpiram 57 mg para cães e gatos; uso veterinário.",20734955,200,PERDEU,COMP,4000,20
+"Ectoparasiticida sarolaner 40 mg para cães de 10 a 20 kg;",20734956,250,VENCEU,COMP,14137.5,56.55
+"Ectoparasiticida sarolaner 80 mg para cães de 20 a 40 kg;",20734957,250,VENCEU,COMP,16372.5,65.49
+"Pomada antisséptica; composição: 0,7 g digluconato de clorexidina para cada 100 g; uso veterinário.",20734959,25,PERDEU,BIS,2500,100
+"Analgésico cloridrato de tramadol 40 mg; uso veterinário.",20734965,200,PERDEU,CX,20000,100
+"Rifamicina sódica 10 mg/ml; uso humano; Apresentar registro no Ministério da Saúde e/ou ANVISA. Conter na embalagem a data de fabricação, data de validade e lote. Apresentar data de validade mínima de 12 meses. Apresentação: frasco de 20ml",20734971,15,DESCLASSIFICADO,FR,525,35
+"Teste rápido para diagnóstico de cinomose em cães; detecção de antígeno do vírus da cinomose; uso veterinário.",20734972,200,PERDEU,KIT,10000,50
+"Teste rápido para diagnóstico de parvovirose em cães; detecção de antígeno do vírus da parvovirose; uso veterinário.",20734973,200,PERDEU,KIT,10000,50
+"Teste rápido para diagnóstico de FIV e FELV em gatos;",20734974,200,PERDEU,KIT,20000,100

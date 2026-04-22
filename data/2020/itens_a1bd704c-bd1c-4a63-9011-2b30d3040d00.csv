@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microcomputador,1300886,2,8,ATIVO,UNIDADE,25228.8,3153.6
+TABLET,1309019,1,6,ATIVO,UNIDADE,23850,3975
+ESTABILIZADOR,1309021,13,6,ATIVO,UNIDADE,2066.4,344.4

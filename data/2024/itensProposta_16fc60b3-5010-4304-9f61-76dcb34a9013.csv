@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Memória 8gb DDR4",14640334,4,PERDEU,UND,720,180
+"Monitor 19,5”",14640335,2,PERDEU,UND,980,490
+"Mouse com fio USB",14640336,30,PERDEU,UND,450,15
+"Nobreak 1500VA SMS 115v",14640337,2,PERDEU,UND,2080,1040
+"Processador Intel Core i5-10400 2.9 GHz",14640339,2,PERDEU,UND,2400,1200
+"ssd 240gb a400.",14640340,4,PERDEU,UNID,600,150
+"Teclado com fio USB",14640341,30,PERDEU,UND,840,28
+"Fone de ouvido com fio, in-ear",14640343,20,PERDEU,UND,800,40
+"Fone de ouvido sem fio, in-ear",14640344,20,PERDEU,UND,2000,100
+"Caixa de som para computador",14640345,20,PERDEU,UND,740,37
+"Pen drive 32Gb",14640346,10,PERDEU,UND,450,45
+"Pen drive 64GB, USB 3.0",14640347,10,PERDEU,UND,480,48
+"Fone de ouvido com fio, over-ear",14640348,20,PERDEU,UND,2100,105

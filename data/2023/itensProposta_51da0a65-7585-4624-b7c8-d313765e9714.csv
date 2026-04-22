@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,3870,1.29
+"Aminofilina 24mg/mL, injetável, ampola 10ml.",11967177,200,PERDEU,AMP,2680,13.4
+"Amiodarona 200mg cpr, em blister.",11967178,250000,PERDEU,COMP,145000,0.58
+"Amoxicilina 500mg",11967183,600000,PERDEU,CPLA,354000,0.59
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,79920,8.88
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,VENCEU,AMP,4799.5,0.9599
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,720000,0.4
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,310500,0.69
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",11967220,2000,PERDEU,FR/AM,30000,15
+"Cimetidina 150mg/ml, ampola 2ml.",11967223,1500,PERDEU,AM,2985,1.99
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",11967252,5000,PERDEU,AMP,7350,1.47
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextrose 1000 mg + d-frutose 1000 mg injetável Endovenoso (EV), ampola 10ml.",11967256,1000,PERDEU,AM,30000,30
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,8000,2
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,48000,1.6
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,50400,0.14
+"Espironolactona 25mg cpr, em blister.",11967271,1000000,PERDEU,COMP,240000,0.24
+"Estrogênios conjugados 0,625mg cpr, em blister.",11967272,70000,PERDEU,COMP,69300,0.99
+"Furosemida 10mg/mL injetável, ampola 2ml.",11967288,3000,PERDEU,AMP,6000,2
+"Insulina regular 100 UI/ml 10ml",11967310,150,PERDEU,FR/AM,3900,26
+"Anestésico Lidocaína 2% com epinefrina 1:100.000",11967329,100,PERDEU,CX,10430,104.3
+"Prednisona 5mg cpr.",11967378,350000,PERDEU,COMP,105000,0.3
+"Vitaminas do complexo B injetável (B5 6mg, B3 40mg, B6 4mg,",11967412,4000,PERDEU,AMP,11960,2.99

@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microfone,4462207,2,PERDEU,UND,490,245
+"CAIXA DE SOM",4462208,2,PERDEU,PAR,1538,769
+"Púlpito em acrílico",4462210,1,VENCEU,UND,1199,1199
+"Pedestal para banner",4462211,4,PERDEU,UND,435.2,108.8
+"Projetor de Vídeo",4462212,1,DESCLASSIFICADO,UNI,2394.72,2394.72
+"Tela de Projeção",4462213,1,PERDEU,UND,569,569
+ESCADA,4462215,1,PERDEU,UNI,125,125
+"Cadeira de plástico",4462216,80,PERDEU,UND,2432,30.4
+"Mesa de plástico",4462217,30,DESCLASSIFICADO,UND,2640,88

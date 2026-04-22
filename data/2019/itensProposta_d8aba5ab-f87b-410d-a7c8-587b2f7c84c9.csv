@@ -1,0 +1,37 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",0,55,VENCEU," ",8255.5,150.1
+"Camisa operacional (gandola) feminina padrão CBMSC",0,8,VENCEU," ",1200.8,150.1
+"Calça operacional masculina padrão CBMSC",0,55,VENCEU," ",5016,91.2
+"Calça operacional feminina padrão CBMSC",0,8,VENCEU," ",729.6,91.2
+"Cobertura bico de pato operacional padrão CBMSC",0,55,VENCEU," ",2064.15,37.53
+"Luva de posto masculina",0,10,VENCEU," ",209,20.9
+"Japona operacional dupla face padrão CBMSC",0,10,VENCEU," ",2612.5,261.25
+"Blusa de lã azul",0,5,VENCEU," ",655.5,131.1
+"Blusa Fleece Vermelho",0,20,VENCEU," ",1558,77.9
+"Cachecol de fleece",0,20,VENCEU," ",589,29.45
+"Touca de fleece",0,30,VENCEU," ",912,30.4
+"Camiseta vermelha gola redonda padrão CBMSC",0,150,VENCEU," ",3277.5,21.85
+"Camisa vermelha gola polo padrão CBMSC",0,70,VENCEU," ",2527,36.1
+"Fivela para cinto Bombeiro Militar",0,20,VENCEU," ",228,11.4
+"Lona de nylon cor vermelha",0,4,VENCEU," ",34.2,8.55
+"Biriba de identificação",0,20,VENCEU," ",142.6,7.13
+"Calção guarda-vidas Militar",0,30,VENCEU," ",897,29.9
+"Camiseta regata guarda-vidas Militar",0,30,VENCEU," ",1287,42.9
+"Camiseta manga longa guarda-vidas Militar",0,40,VENCEU," ",2560,64
+"Agasalho completo guarda-vidas Militar",0,10,VENCEU," ",1850,185
+"Camiseta regata branca",0,55,VENCEU," ",907.5,16.5
+"Cobertura bico de pato operacional bombeiro comunitário padr",0,40,PERDEU," ",920,23
+"Fivela para cinto Bombeiro Comunitário",0,40,PERDEU," ",320,8
+"Camiseta vermelha gola redonda padrão bombeiro comunitário",0,100,PERDEU," ",2600,26
+"Calça Operacional Bombeiro Comunitário (BC) Feminina",0,40,PERDEU," ",3800,95
+"Calça Operacional Bombeiro Comunitário (BC) Masculina",0,40,PERDEU," ",3800,95
+"Gandola feminina bombeiro comunitário",0,40,PERDEU," ",5200,130
+"Gandola masculina bombeiro comunitário",0,40,PERDEU," ",5200,130
+"Tarjeta de identificação (nome) em tecido operacional",0,40,PERDEU," ",320,8
+"Bota modelo padrão CBMSC",0,55,PERDEU," ",5995,109
+"Gola Polo Estagiário",0,40,VENCEU," ",1680,42
+"Blusa de lã estagiário",0,25,VENCEU," ",3125,125
+"Estampa Graduação e Nome Camiseta Gola Redonda",0,300,PERDEU," ",3000,10
+"Estampa Nome Camiseta Gola-Polo",0,200,PERDEU," ",2000,10
+"Estampa Graduação e Nome Regata Guarda-Vidas",0,200,PERDEU," ",2000,10
+"Estampa Graduação e Nome Regata de TFM",0,200,PERDEU," ",2000,10

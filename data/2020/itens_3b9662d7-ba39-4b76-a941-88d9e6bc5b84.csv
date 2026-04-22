@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sulfato ferroso 40mg cpr, em blister.",1267911,239,900000,ATIVO,COMPRIMIDO,30510,0.0339
+"Albendazol 400mg comprimido mastigável, em blister.",1268029,15,15000,ATIVO,COMPRIMIDO,4440,0.296
+"Betametasona, diproprionato +  betametasona fosfato, injetáv",1268030,40,8000,ATIVO,AMP,22800,2.85
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elemen",1268031,55,180000,ATIVO,COMPRIMIDO,12600,0.07
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no",1268032,56,800000,ATIVO,COMPRIMIDO,82400,0.103
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",1268033,65,2000,ATIVO,"Frasco ampola",16200,8.1
+"Digoxina 0,25mg cpr, em blister.",1268034,94,250000,ATIVO,COMPRIMIDO,19125,0.0765
+"Hidroclorotiazida 25mg cpr, em blister.",1268035,140,2300000,ATIVO,COMPRIMIDO,46000,0.02
+"Hidroxido de aluminio200mg + hidroxido de magnésio 200mg com",1268036,144,20000,ATIVO,COMPRIMIDO,5200,0.26
+"Levofloxacino 500mg cpr, em blister.",1268037,160,6000,ATIVO,COMPRIMIDO,3144,0.524
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",1268038,202,500,ATIVO,BLISTER,2325,4.65
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",1268039,209,20000,ATIVO,FRASCO,17600,0.88

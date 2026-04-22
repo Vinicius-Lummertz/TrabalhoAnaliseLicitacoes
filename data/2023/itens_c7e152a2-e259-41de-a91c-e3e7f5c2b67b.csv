@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tênis para futsal oficial",5252111,6,100,ATIVO,PAR,5957,59.57
+CRONÔMETRO,5252112,7,10,ATIVO,UNIDADE,238.4,23.84
+"Tabuleiro de Damas Oficial",5252113,11,21,ATIVO,UNIDADE,586.53,27.93
+"Jogo de Quebra-Cabeças  (até 500 peças)",5252114,12,21,ATIVO,UNIDADE,502.74,23.94

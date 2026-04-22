@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Base de Brita Graduada, teor de umidade máximo 3%",1308308,7,1000,ATIVO,TONELADA,27000,27
+"Brita ¾",1308309,11,1000,ATIVO,"METRO CUBICO",30000,30
+PEDRISCO,1318303,8,1000,ATIVO,TONELADA,30000,30

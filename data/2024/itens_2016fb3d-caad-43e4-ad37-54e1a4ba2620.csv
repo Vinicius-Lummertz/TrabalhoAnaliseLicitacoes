@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira XCMG XE215BR 2020",5936312,2,1,ATIVO,UNIDADE,133000,13
+"Escavadeira XCMG XE215BR 2021",5936313,3,1,ATIVO,UNIDADE,133000,13
+"Pá Carregadeira New Holland W130",5936314,12,2,ATIVO,UNIDADE,140000,13.5

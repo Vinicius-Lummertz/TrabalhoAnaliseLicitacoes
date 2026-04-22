@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vistoria/inspeção veicular do Inmetro para taxi",0,200,PERDEU," ",26280,131.4
+"Vistoria/inspeção veicular do Inmetro para moto frete",0,300,PERDEU," ",28500,95
+"Vistoria/inspeção veicular do Inmetro para Transporte Coleti",0,200,PERDEU," ",26280,131.4
+"Vistoria/inspeção veicular do Inmetro para Fretamento",0,100,PERDEU," ",13140,131.4
+"Vistoria/inspeção veicular do Inmetro para Escolares",0,200,PERDEU," ",26280,131.4

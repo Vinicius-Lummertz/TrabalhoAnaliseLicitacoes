@@ -1,0 +1,60 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Prescrição de Óculos",1264710,42,20,ATIVO,BLOCO,94,4.7
+"Atestado Médico para Gestantes",1264714,3,100,ATIVO,BLOCO,255,2.55
+"Auto para coleta de água para consumo humano",1264715,4,50,ATIVO,BLOCO,372.5,7.45
+"Auto de intimação vigilancia sanitaria",1264716,5,70,ATIVO,BLOCO,700,10
+"Bacteriologia da tuberculose .",1264717,7,30,ATIVO,BLOCO,111,3.7
+"BPA consolidado 2 vias autocopiativo (braco/azul)",1264718,10,30,ATIVO,BLOCO,264,8.8
+"BPA individualiazado 2 vias autocopiativo (braco/azul)",1264719,11,30,ATIVO,BLOCO,267,8.9
+"Condição Sócio Econômica- CAPS II",1264720,12,10,ATIVO,BLOCO,80,8
+"Consentimento informado - 2 vias autocopiativo (braco/azul)",1264721,13,35,ATIVO,BLOCO,311.5,8.9
+"Controle de TODO;",1264722,14,100,ATIVO,BLOCO,230,2.3
+"Cuidados para vasectomia",1264723,15,40,ATIVO,BLOCO,222,5.55
+"Dados do atendimento do paciente- RAAS CAPS II",1264724,16,40,ATIVO,BLOCO,132,3.3
+"Dados do atendimento do paciente- RAAS CAPS III",1264725,17,40,ATIVO,BLOCO,139.2,3.48
+"DOTS- Planilha Acompanhamento de Tratamento",1264726,19,7,ATIVO,BLOCO,70,10
+"Estudo sócio-econômica CAPS II ad-",1264727,20,10,ATIVO,BLOCO,80,8
+"Etique laboratório Dengue (picotado);",1264728,21,10,ATIVO,BLOCO,80,8
+"Ficha clínica odontológica.",1264729,22,250,ATIVO,BLOCO,500,2
+"Ficha clínica Tuberculose",1264730,23,10,ATIVO,BLOCO,80,8
+"Ficha de acolhimento CAPS II.",1264731,26,40,ATIVO,BLOCO,139.2,3.48
+"Ficha de acolhimento CAPS III",1264732,27,40,ATIVO,BLOCO,139.2,3.48
+"Ficha de cadastro individual",1264733,29,200,ATIVO,BLOCO,450,2.25
+"ficha de Observação do animal agressor",1264734,30,20,ATIVO,BLOCO,90,4.5
+"Ficha de Procedimento E-SUS",1264735,31,50,ATIVO,BLOCO,175,3.5
+"Ficha visita domiciliar e-sus",1264736,32,100,ATIVO,BLOCO,280,2.8
+"Ficha Individual de Notificação de Laqueadura Tubária e Vase",1264737,33,70,ATIVO,BLOCO,553,7.9
+"Ficha nominal- Programa Tuberculose",1264738,34,300,ATIVO,UNIDADE,75,0.25
+"Memorando interno - 2 vias autocopiativo",1264756,36,250,ATIVO,BLOCO,845,3.38
+"Planilha de visitas domiciliares- CAPS II",1264772,40,10,ATIVO,BLOCO,70,7
+"SINAN- Síndrome Respiratória Aguda grave",1264773,62,10,ATIVO,BLOCO,70,7
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente e v",1264774,86,20000,ATIVO,UNIDADE,2700,0.135
+"SINAN-Ficha de notificação/ investigação Tuberculose",1264775,65,10,ATIVO,BLOCO,70,7
+"SINAN-Ficha de investigação Hepatites Virais",1264776,64,10,ATIVO,BLOCO,70,7
+"SINAN- Violência Doméstica sexual e/ou outras drogas violênc",1264777,63,30,ATIVO,BLOCO,138.6,4.62
+"SINAN -Ficha de Notificação/ Conclusão",1264778,61,10,ATIVO,BLOCO,70,7
+"SINAN- Ficha de investigação da dengue",1264779,60,10,ATIVO,BLOCO,70,7
+"SINAN- Doenças exantemáticas febris",1264780,59,10,ATIVO,BLOCO,70,7
+"Programa de Combate a Tuberculose.",1264781,43,15,ATIVO,BLOCO,81,5.4
+"Termo de responsabilidade - CAPS III",1264782,70,20,ATIVO,BLOCO,100,5
+"Termo de solicitação e informação 2 vias autocopiativo",1264783,71,70,ATIVO,BLOCO,525,7.5
+"Tratamento cirúrgico",1264784,72,5000,ATIVO,UNIDADE,150,0.03
+"Folder 297x21cm 2 dobras",1264785,75,10000,ATIVO,UNIDADE,1900,0.19
+"folheto 14x22 cm",1264786,78,15000,ATIVO,UNIDADE,1020,0.068
+"Folder 40x21 cm",1264787,79,25000,ATIVO,UNIDADE,3250,0.13
+"Folder 297x21 3 dobras - papel couche;  cor 4x0 colorido, br",1264788,80,80000,ATIVO,UNIDADE,8800,0.11
+"Folheto 10,5x19,5cm em couche",1264789,81,15000,ATIVO,UNIDADE,870,0.058
+"Folder 57x21cm, 4x4 cores em couche",1264790,82,10000,ATIVO,UNIDADE,2900,0.29
+"Panfleto 15x21cm papel couche colorido 4x4 brilho frente",1264791,85,15000,ATIVO,UNIDADE,2400,0.16
+"Sistema de Vigilância Alimentar e Nutricional menores de 5 a",1264792,66,50,ATIVO,BLOCO,170,3.4
+"Termo de compromisso - CAPS III",1264793,69,20,ATIVO,BLOCO,100,5
+"CONFECÇÃO DE CRACHA ( DE PESCOÇO E  CORDAO)",1264794,92,5000,ATIVO,UNIDADE,2100,0.42
+"Programa de controle da febre amarela dengue",1264795,44,10000,ATIVO,UNIDADE,450,0.045
+"Proposta de tratamento CAPS II ad",1264796,47,10,ATIVO,BLOCO,70,7
+"Receituário B2",1264797,49,500,ATIVO,BLOCO,370,0.74
+"Receituário retinóide",1264798,50,50,ATIVO,BLOCO,150,3
+"Registro de falta de paciente a atendimento odontológico",1264799,52,10,ATIVO,BLOCO,80,8
+"Relatório Sócio Econômico",1264800,54,50,ATIVO,BLOCO,420,8.4
+"SINAN - Acidentes por Animais Peçonhentos",1264801,56,10,ATIVO,BLOCO,70,7
+"Panfleto 15x21cm papel couche colorido 4x4",1264802,87,10000,ATIVO,UNIDADE,1900,0.19
+"SINAN - Intoxicação exógena - frente e verso",1264803,57,10,ATIVO,BLOCO,70,7

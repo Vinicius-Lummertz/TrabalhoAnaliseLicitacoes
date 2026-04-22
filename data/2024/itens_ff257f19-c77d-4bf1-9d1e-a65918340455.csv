@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel grau cirúrgico 25cmx100m.",5822669,178,750,ATIVO,BOBINA,70777.5,94.37
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",5822670,250,28500,ATIVO,UNIDADE,94620,3.32
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",5822671,252,30000,ATIVO,UNIDADE,119700,3.99
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",5822672,254,11250,ATIVO,UNIDADE,56137.5,4.99

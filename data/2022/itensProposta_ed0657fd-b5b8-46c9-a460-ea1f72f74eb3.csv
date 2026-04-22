@@ -1,0 +1,58 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",7638042,135,PERDEU,UN,11738.25,86.95
+"Rede de Traves para Futebol de Campo",7638043,18,NAO_COTOU,PAR,0,0
+"Bola de Futsal Adulto",7638044,80,PERDEU,UN,17220,215.25
+"Bola de Futsal Infantil para Treinamento",7638045,110,PERDEU,UN,7035.6,63.96
+"Rede de Traves de Futsal",7638046,10,PERDEU,PAR,3031.7,303.17
+"Rede de Traves de Handebol",7638048,10,PERDEU,PAR,3640,364
+"Bola de Basquetebol para Competição",7638049,60,PERDEU,UN,17712,295.2
+"Rede de Aro para Basquete",7638050,30,NAO_COTOU,PAR,0,0
+"Bola de Handebol H1L",7638051,25,PERDEU,UN,5525,221
+"Bola de Handebol H2",7638052,35,PERDEU,UN,7735,221
+"Bola de Handebol H3L",7638053,30,PERDEU,UN,6630,221
+"Bola de Voleibol de Quadra para Treinamento",7638054,80,PERDEU,UN,21156,264.45
+"Bola de Voleibol de Praia/Areia",7638055,20,PERDEU,UN,4157.4,207.87
+"Rede Oficial de Voleibol de Quadra",7638056,8,PERDEU,UN,2080,260
+"Rede Oficial de Voleibol de Praia/Areia",7638057,10,PERDEU,UN,2780,278
+"Marcação de Quadra de Vôlei de Praia/Areia",7638058,5,PERDEU,KIT,780,156
+"Raquete de Tênis de Mesa para Iniciação",7638059,120,PERDEU,UN,9360,78
+"Rede para Mesa de Tênis de Mesa",7638061,20,NAO_COTOU,UN,0,0
+"Jogo de Peças de Xadrez Oficial",7638062,55,PERDEU,JGO,5249.75,95.45
+"Tabuleiro de Xadrez Oficial",7638063,55,PERDEU,UN,3217.5,58.5
+"Sapatilha de Velocidade para Provas de Atletismo",7638064,35,NAO_COTOU,PAR,0,0
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",7638065,35,NAO_COTOU,PAR,0,0
+"Sapatilha de Atletismo de Lançamento e Arremesso",7638066,35,NAO_COTOU,PAR,0,0
+"Sapatilha de Salto em Distância para Provas de Atletismo",7638067,35,NAO_COTOU,PAR,0,0
+"Touca de Natação",7638068,100,NAO_COTOU,UN,0,0
+"Óculos de Natação",7638069,100,NAO_COTOU,UN,0,0
+"Kimono de Karatê",7638070,150,NAO_COTOU,UN,0,0
+"Tatame Bicolor",7638071,360,PERDEU,UN,50922,141.45
+"Kimono de Judô",7638072,100,NAO_COTOU,UN,0,0
+"Kimono de Jiu-Jitsu",7638073,100,NAO_COTOU,UN,0,0
+"Luva de Boxe",7638074,30,NAO_COTOU,PAR,0,0
+"Saco de Pancada",7638075,6,NAO_COTOU,UN,0,0
+"Manopla de Boxe",7638076,30,NAO_COTOU,PAR,0,0
+"Aparador de Chute",7638077,24,NAO_COTOU,UN,0,0
+"Aparador de Soco",7638078,24,NAO_COTOU,UN,0,0
+"Sacos para Bola",7638079,30,NAO_COTOU,UN,0,0
+"Cone Chapéu Chinês / Prato Demarcatório",7638080,200,PERDEU,UN,572,2.86
+"Corda de Pular",7638081,50,PERDEU,UN,2080,41.6
+"Bomba de Ar para Bolas",7638082,26,PERDEU,UN,723.58,27.83
+"Calibrador de Bola tipo Caneta",7638083,26,NAO_COTOU,UN,0,0
+"Apito de Mesa",7638084,15,PERDEU,UN,3300,220
+"Apito profissional",7638085,60,PERDEU,UND,1260,21
+"Skate para Iniciantes",7638086,80,NAO_COTOU,UN,0,0
+"Capacete de Skate",7638087,80,PERDEU,UN,16800,210
+"Kit de Proteção Esportivo",7638089,80,PERDEU,KIT,6240,78
+"Faixa Elástica Nível Forte",7638090,10,PERDEU,UN,1324.8,132.48
+"Faixa Elástica Nível Médio",7638091,10,PERDEU,UN,338,33.8
+"Faixa Elástica Nível Fraco",7638092,10,PERDEU,UN,299,29.9
+"Mini Band Nível Forte",7638093,30,PERDEU,UN,779.7,25.99
+"Mini Band Nível Médio",7638094,30,PERDEU,UN,468,15.6
+"Mini Band Nível Fraco",7638095,30,PERDEU,UN,1173.9,39.13
+"Prato para Tiro Esportivo",7638096,40000,PERDEU,UN,1338000,33.45
+"Colete Esportivo",7638097,1000,NAO_COTOU,UN,0,0
+"Camiseta Esportiva",7638098,5000,NAO_COTOU,UN,0,0
+"Uniforme Esportivo",7638099,332,NAO_COTOU,UN,0,0
+"Agasalho Esportivo",7638100,100,NAO_COTOU,UN,0,0
+"Placar de Mesa",7638101,26,NAO_COTOU,UN,0,0

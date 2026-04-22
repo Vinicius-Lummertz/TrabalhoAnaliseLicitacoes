@@ -1,0 +1,32 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",5093026,10000,PERDEU,BIS,23000,2.3
+"Ácido tranexâmico 50mg/ml amp 5ml.",5093032,3000,PERDEU,AM,12840,4.28
+"Amiodarona 200mg cpr, em blister.",5093046,220000,VENCEU,COMP,66000,0.3
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",5093052,450000,PERDEU,COMP,441000,0.98
+"Captopril 25mg cpr, em blister.",5093077,1500000,PERDEU,COMP,90000,0.06
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",5093090,3500,VENCEU,FR/AM,25550,7.3
+"Ceftriaxona 1G intramuscular (IM) injetável.",5093091,5000,VENCEU,FR/AM,36000,7.2
+"Ciclopentolato, cloridrato 10mg/mL solução oftalmica, frasco 5ml.",5093092,50,PERDEU,FR.,417,8.34
+"Cloranfenicol + aminoácidos + metionina + retinol, bisnaga 3,5g.",5093104,360,PERDEU,bis,3744,10.4
+"Dexametasona 4mg cpr, em blister.",5093117,40000,PERDEU,COMP,12400,0.31
+"Espiramicina 1.500 UI, comp",5093139,1000,VENCEU,COMP,3740,3.74
+"Etomidato 2mg/ml, injetável, ampola 10ml.",5093142,1000,PERDEU,AMP,14050,14.05
+"Finasterida 5 mg cpr, em blister.",5093150,100000,PERDEU,COMP,49000,0.49
+"Hidroclorotiazida 25mg cpr, em blister.",5093170,2400000,PERDEU,COMP,120000,0.05
+"Hidrocortisona 100mg pó para suspensão injetável.",5093171,3000,PERDEU,FR/AM,7290,2.43
+"Hidrocortisona 500mg pó para suspensão injetável.",5093172,4000,PERDEU,FR/AM,21160,5.29
+"Metformina 500mg cpr, em blister.",5093216,1500000,PERDEU,COMP,180000,0.12
+"Metilfenidato 10 mg cpr, em blister.",5093219,240000,VENCEU,COMP,72000,0.3
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",5093223,36000,PERDEU,COMP,29520,0.82
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",5093231,2000,PERDEU,AM,13900,6.95
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",5093238,400000,PERDEU,COMP,52000,0.13
+"Nitrofurantoína 100 mg capsula, em blister.",5093240,2000,PERDEU,CPLA,780,0.39
+"Omeprazol 40mg, injetável, com diluente 10ml.",5093247,600,PERDEU,FR/AM,10800,18
+"rocurônio, brometo 10mg/ml, ampola 5ml.",5093266,1000,PERDEU,"FR+A",14730,14.73
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",5093269,15000,PERDEU,FR.,119100,7.94
+"Stryphnodendron adstringens coville pomada (fitoscar), bisna",5093272,500,VENCEU,BIS,28770,57.54
+"Tenoxicam 20 mg pó para solução injetável endovenoso e intra",5093281,1500,PERDEU,FR/AM,12300,8.2
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% c",5093283,200,VENCEU,FR.,1626,8.13
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",5093287,12000,PERDEU,AMP,17880,1.49
+"Tropicamida 1% solução oftalmica, frasco 5ml.",5093288,50,PERDEU,FR.,665,13.3
+"vancomicina 500mg, injetável, frasco ampola.",5093289,5000,PERDEU,FR/AM,22650,4.53

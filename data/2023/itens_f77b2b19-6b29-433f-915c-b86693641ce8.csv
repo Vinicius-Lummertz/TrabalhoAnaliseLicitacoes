@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Grama do tipo sempre verde",5327122,1,15000,ATIVO,"METRO QUADRADO",183000,12.2
+"Grama do tipo Esmeralda",5327123,2,7500,ATIVO,"METRO QUADRADO",102000,13.6
+"Hora Máquina (incluso deslocamento)",5327124,3,500,ATIVO,HORAS,51490,102.98
+"Mão de obra para preparação de terreno",5327125,4,25000,ATIVO,"METRO QUADRADO",37500,1.5

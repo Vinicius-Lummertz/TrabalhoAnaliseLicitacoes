@@ -1,0 +1,33 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",14773680,1,PERDEU,UND,150000,10
+"Escavadeira XCMG XE215BR 2020",14773681,1,PERDEU,UND,133000,10
+"Escavadeira XCMG XE215BR 2021",14773682,1,PERDEU,UND,133000,10
+"Fresadora Wirtgen W100",14773683,1,PERDEU,UND,180000,10
+"Minicarregadeira Caterpillar 246C",14773684,1,VENCEU,UND,36000,16.5
+"Minicarregadeira New Holland L325",14773685,1,PERDEU,UND,62000,10
+"Motoniveladora New Holland RG170",14773686,2,PERDEU,UND,220000,10
+"Motoniveladora New Holland RG170B",14773687,1,PERDEU,UND,140000,10
+"Pá Carregadeira Doosan SD200-3",14773688,1,VENCEU,UN,90000,16
+"Pá Carregadeira Hyundai HL 740-9S",14773689,1,PERDEU,UN,96000,10
+"Pá Carregadeira Michigan 55C",14773690,1,VENCEU,UN,50000,13.5
+"Pá Carregadeira New Holland W130",14773691,2,PERDEU,UN,140000,10
+"Retroescavadeira JCB 3CX",14773692,3,PERDEU,UND,222000,10
+"Retroescavadeira JCB 3CXB",14773693,1,PERDEU,UND,66000,10
+"Retroescavadeira New Holland LB110",14773694,2,VENCEU,UND,64000,13.5
+"Retroescavadeira Randon RD406",14773695,1,PERDEU,UND,76000,10
+"Retroescavadeira Randon RD406B",14773696,1,PERDEU,UND,44000,10
+"Retroescavadeira XCMG XT870BR-I",14773697,1,PERDEU,UND,70000,10
+"Rolo Compactador Bomag BW212 D40",14773698,1,PERDEU,UN,56000,10
+"Rolo Compactador Hamm",14773699,1,PERDEU,UN,110000,10
+"Rolo Compactador Liu Gong",14773700,1,PERDEU,UN,94000,10
+"Rolo Compactador Tema Terra SP8000",14773701,1,PERDEU,UN,36000,10
+"Rolo Compactador Muller VAP55",14773702,1,VENCEU,UN,40000,50
+"Trator Agrícola Budny 7540",14773703,1,VENCEU,UN,24000,50
+"Trator Agrícola LS PLUS100",14773704,1,PERDEU,UN,28000,10
+"Trator Agrícola New Holland T6.110",14773705,1,PERDEU,UN,70000,10
+"Trator Agrícola New Holland TT4030",14773706,1,PERDEU,UN,64000,10
+"Trator de Esteira John Deere 750J",14773707,1,PERDEU,UND,220000,10
+"Vibroacabadora Ciber AF4000",14773708,1,PERDEU,UN,250000,10
+Mangueiras,14773709,1,PERDEU,UN,227089.57,11.5
+"Material de desgaste - lâminas",14773710,1,PERDEU,UND,307679.26,10
+"Material de desgaste - asfalto",14773711,1,PERDEU,UND,207300,10

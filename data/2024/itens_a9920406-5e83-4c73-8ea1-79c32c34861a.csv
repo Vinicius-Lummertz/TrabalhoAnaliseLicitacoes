@@ -1,0 +1,27 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Rede de Traves para Futebol de Campo",6093583,2,18,ATIVO,PAR,4500,250
+"Bola de Futsal Adulto",6093584,3,80,ATIVO,UNIDADE,11920,149
+"Rede de Traves de Futsal",6093585,5,10,ATIVO,PAR,1850,185
+"Rede de Traves de Handebol",6093586,6,10,ATIVO,PAR,1990,199
+"Rede de Aro para Basquete",6093587,8,30,ATIVO,PAR,1200,40
+"Bola de Handebol H1L",6093588,9,25,ATIVO,UNIDADE,4125,165
+"Bola de Handebol H2",6093589,10,35,ATIVO,UNIDADE,5915,169
+"Bola de Handebol H3L",6093590,11,30,ATIVO,UNIDADE,3745.5,124.85
+"Bola de Voleibol de Praia/Areia",6093591,13,20,ATIVO,UNIDADE,2201,110.05
+"Rede Oficial de Voleibol de Quadra",6093592,14,8,ATIVO,UNIDADE,1600,200
+"Rede Oficial de Voleibol de Praia/Areia",6093593,15,10,ATIVO,UNIDADE,1185,118.5
+"Raquete de Tênis de Mesa para Iniciação",6093594,17,120,ATIVO,UNIDADE,2583.6,21.53
+"Rede para Mesa de Tênis de Mesa",6093595,18,20,ATIVO,UNIDADE,2180,109
+"Sapatilha de Velocidade para Provas de Atletismo",6093596,21,35,ATIVO,PAR,7227.5,206.5
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",6093597,22,35,ATIVO,PAR,5932.5,169.5
+"Sapatilha de Atletismo de Lançamento e Arremesso",6093598,23,35,ATIVO,PAR,8573.25,244.95
+"Óculos de Natação",6093599,25,100,ATIVO,UNIDADE,2555,25.55
+"Kimono de Karatê",6093600,26,150,ATIVO,UNIDADE,28342.5,188.95
+"Placas de tatame 1x1 de 40mm cores diversas",6093601,27,360,ATIVO,UNIDADE,32220,89.5
+"Kimono de Judô",6093602,28,100,ATIVO,UNIDADE,19895,198.95
+"Kimono de Jiu-Jitsu",6093603,29,100,ATIVO,UNIDADE,19895,198.95
+"Luva de Boxe",6093604,30,30,ATIVO,PAR,2995.5,99.85
+"Manopla de Boxe",6093605,32,30,ATIVO,PAR,2998.5,99.95
+"Sacos para Bola",6093606,35,30,ATIVO,UNIDADE,599.4,19.98
+"Calibrador de Bola tipo Caneta",6093607,39,26,ATIVO,UNIDADE,441.48,16.98
+"Sapatilha de Salto em Distância para Provas de Atletismo",6093608,58,35,ATIVO,PAR,8566.25,244.75

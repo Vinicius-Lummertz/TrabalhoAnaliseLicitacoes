@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Microfone,4462207,2,DESCLASSIFICADO,UND,760,380
+"Suporte para caixa de som tipo tripé",4462209,2,PERDEU,UND,180,90
+"Púlpito em acrílico",4462210,1,PERDEU,UND,1390,1390
+"Pedestal para banner",4462211,4,PERDEU,UND,396,99
+"Projetor de Vídeo",4462212,1,PERDEU,UNI,2300,2300
+"VENTILADOR DE PAREDE",4462214,8,VENCEU,UNI,1592,199
+ESCADA,4462215,1,DESCLASSIFICADO,UNI,135,135
+"Cadeira de plástico",4462216,80,PERDEU,UND,2472,30.9
+"Mesa de plástico",4462217,30,VENCEU,UND,1527,50.9

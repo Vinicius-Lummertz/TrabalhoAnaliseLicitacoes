@@ -1,0 +1,29 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",4445422,360000,VENCEU,CPLA,62640,0.174
+"Ácido Valproico 500mg cpr.",4445423,500000,VENCEU,COMP,200000,0.4
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",4445424,7000,DESCLASSIFICADO,FR.,56700,8.1
+"Alendronato de sódio 70mg, blister com 4cpr.",4445431,20000,DESCLASSIFICADO,COMP,4140,0.207
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL,  acompanha c",4445439,10000,DESCLASSIFICADO,FR.,199000,19.9
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",4445441,450000,VENCEU,COMP,254250,0.565
+"Carbamazepina 200mg cpr.",4445467,1600000,DESCLASSIFICADO,COMP,1206400,0.754
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",4445468,3000,DESCLASSIFICADO,FR.,49080,16.36
+"Cefalexina 500mg, capsula ou comprimido, em blister.",4445477,350000,PERDEU,CAP/C,157500,0.45
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconsti",4445478,8000,DESCLASSIFICADO,FR.,95840,11.98
+"Claritromicina 500mg comprimido, em blister.",4445483,5000,VENCEU,COMP,13850,2.77
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",4445500,3000,VENCEU,BIS,28500,9.5
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4445511,16000,DESCLASSIFICADO,FR.,30480,1.905
+"Finasterida 5 mg cpr, em blister.",4445534,80000,PERDEU,COMP,35200,0.44
+"Levotiroxina sódica 100mcg cpr, em blister.",4445580,200000,DESCLASSIFICADO,COMP,28000,0.14
+"Levotiroxina sódica 25mcg cpr, em blister.",4445581,300000,DESCLASSIFICADO,COMP,31500,0.105
+"Levotiroxina sódica 50 mcg cpr, em blister.",4445582,300000,DESCLASSIFICADO,COMP,34800,0.116
+"Metilfenidato 10 mg cpr, em blister.",4445594,180000,DESCLASSIFICADO,COMP,182340,1.013
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",4445617,500,DESCLASSIFICADO,BLIST,4077.5,8.155
+"Nortriptilina 50 mg capsula, em blister.",4445618,4000,DESCLASSIFICADO,CPLA,1880,0.47
+"Óleo Mineral, frasco 100ml.",4445619,12000,DESCLASSIFICADO,FR.,44640,3.72
+"Permetrina 10mg/mL loção, frasco 60ml.",4445626,8000,DESCLASSIFICADO,FR.,15752,1.969
+"Permetrina 50mg/mL loção, frasco 60ml.",4445627,3000,DESCLASSIFICADO,FR.,9906,3.302
+"Risperidona 1mg cpr, em blister.",4445639,150000,DESCLASSIFICADO,COMP,34200,0.228
+"Risperidona 2mg cpr, em blister.",4445640,200000,DESCLASSIFICADO,COMP,38000,0.19
+"Sais de reidratação oral",4445642,24000,DESCLASSIFICADO,SACH,14880,0.62
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",4445644,10000,PERDEU,FR.,73500,7.35
+"Verapamil 80mg cpr, em blister.",4445665,700000,DESCLASSIFICADO,COMP,426300,0.609

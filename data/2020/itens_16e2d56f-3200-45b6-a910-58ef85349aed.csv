@@ -1,0 +1,19 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Envelopes auto selantes 250mmx350mm",1267840,71,200,ATIVO,CAIXA,12600,63
+"EQUIPO PARA NUTRIÇÃO ENTERAL",1267841,73,36000,ATIVO,UNIDADE,51120,1.42
+"Equipo tipo Macrogotas para solução parental 20gotas/ml",1267842,74,30000,ATIVO,UNIDADE,68100,2.27
+"Lanceta do paciente - refil",1267843,112,200000,ATIVO,UNIDADE,23800,0.119
+"Lanceta do profissional de saúde",1267844,113,20000,ATIVO,UNIDADE,4200,0.21
+"Máscara facial de oxigênio venturi/adulto, não estéril (Kit",1267845,122,50,ATIVO,UNIDADE,759.5,15.19
+"Seringa 10ml, sem agulha",1267846,133,30000,ATIVO,UNIDADE,7200,0.24
+"Seringa 3ml, sem agulha",1267847,135,45000,ATIVO,UNIDADE,5130,0.114
+"Seringa 60ml, sem agulha",1267848,138,2500,ATIVO,UNIDADE,4050,1.62
+"Tampa Universal Luer Lock, estéril, epirogênica",1267849,191,200,ATIVO,UNIDADE,62,0.31
+"Teste rapido de gravidez",1267850,192,12000,ATIVO,UNIDADE,7920,0.66
+"Cuba redonda para assepsia, profundidade 5cm, diâmetro 10cm,",1267851,199,100,ATIVO,UNIDADE,1890,18.9
+"Envelopes auto selantes 150mmx250mm",1267865,70,200,ATIVO,CAIXA,4900,24.5
+"Cateter Intravenoso n°24 G",1267866,43,2000,ATIVO,UNIDADE,3900,1.95
+"Cateter Intravenoso n°20 G",1267867,41,4000,ATIVO,UNIDADE,6800,1.7
+"Cateter Intravenoso n°16 G",1267868,39,3000,ATIVO,UNIDADE,5670,1.89
+"Anuscópio fechado",1267871,15,50,ATIVO,UNIDADE,111.5,2.23
+"Anuscópio fenestrado",1267872,16,50,ATIVO,UNIDADE,106.5,2.13

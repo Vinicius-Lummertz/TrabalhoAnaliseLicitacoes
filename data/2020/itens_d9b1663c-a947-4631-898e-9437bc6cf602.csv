@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cobertura de ação antimicrobiana 10 cm x 12,5 cm",1268642,30,20,ATIVO,UNIDADE,4560,228
+"Cobertura de ação antimicrobiana nível de prata disponibilizado para utilização por 3 dias tamanho 10 cm x 10 cm",1268643,29,60,ATIVO,UNIDADE,7032,117.2
+"Curativo em forma de pomada",1268644,28,150,ATIVO,TUB,7050,47
+"Compressa não aderente Tamanho 20x10cm",1268645,21,1000,ATIVO,UNIDADE,4950,4.95
+"Dispositivo coletor de exsudato 750ml",1268646,19,10,ATIVO,UNIDADE,11340,1134
+"Dispositivo coletor de exsudato 300ml",1268647,18,12,ATIVO,UNIDADE,5184,432
+"Compressa não aderente 10x10cm",1268648,20,1000,ATIVO,UNIDADE,2750,2.75
+"Curativo constituído de espuma em 100% poliuretano 10 cm x 8",1268649,16,30,ATIVO,UNIDADE,15000,500
+"Sistema de pressão negativa portátil",1268650,15,10,ATIVO,UNIDADE,17000,1700
+"Solução para irrigação/limpeza de betaina e 99,8% de água pu",1268651,11,50,ATIVO,FRASCO,7750,155
+"CURATIVO DE ESPUMA COM HIDROCELULAR 12,5 x 12,5CM",1268652,9,50,ATIVO,UNIDADE,5500,110
+"CURATIVO DE ESPUMA COM HIDROCELULAR 10 x 10CM",1268653,8,50,ATIVO,UNIDADE,3200,64
+"Curativo de Hidrogel",1268654,4,200,ATIVO,TUB,6274,31.37
+"Curativo constituído de espuma em 100% poliuretano - Kit 20",1268662,17,15,ATIVO,UNIDADE,10698.75,713.25

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cuba rim, comprimento 26cm, largura 12cm, altura 6cm, capacidade cerca de 750ml.",8483381,120,PERDEU,UND,4920,41
+"Cuba redonda para assepsia, profundidade 5cm, diâmetro 10cm, bordas arredondadas.",8483382,150,VENCEU,UND,3060,20.4
+"Garrote adulto",8483423,250,VENCEU,UN,1675,6.7
+"Indicador Biológico",8483430,1500,VENCEU,CX,37350,24.9
+"Manta Térmica Aluminizada 2,10 x 1,40",8483462,1000,PERDEU,UND,5840,5.84
+"Eletrodo para TENS/FES quadradro 5x5cm",8483547,650,VENCEU,PCT,20995,32.3
+"Eletrodo para TENS/FES retangular 5x9cm",8483548,500,VENCEU,PCT,20925,41.85

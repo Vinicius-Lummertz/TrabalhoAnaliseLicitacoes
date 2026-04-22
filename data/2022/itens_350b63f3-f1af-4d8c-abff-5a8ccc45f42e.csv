@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Kimono de Karatê",2629006,27,150,ATIVO,UNIDADE,38850,259
+"Kimono de Judô",2629007,29,100,ATIVO,UNIDADE,27800,278
+"Kimono de Jiu-Jitsu",2629008,30,100,ATIVO,UNIDADE,22000,220
+"Camiseta Esportiva",2629009,54,5000,ATIVO,UNIDADE,72500,14.5
+"Uniforme Esportivo",2629010,55,332,ATIVO,UNIDADE,7968,24

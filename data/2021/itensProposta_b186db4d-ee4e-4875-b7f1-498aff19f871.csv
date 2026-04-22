@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Piso intertravado de concreto pré moldado 30x30x08",4400402,5000,VENCEU,M2,169000,33.8
+"Piso intertravado de concreto pré moldado 30x30x10",4400403,5000,NAO_COTOU,M2,0,0
+"Meio fio de concreto pré moldado",4400404,8000,PERDEU,M,116800,14.6

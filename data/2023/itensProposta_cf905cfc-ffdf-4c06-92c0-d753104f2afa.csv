@@ -1,0 +1,38 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bebida Láctea com iogurte e polpa de frutas",12632112,400,PERDEU,L,1948,4.87
+"APRESUNTADO FATIADO",12632113,350,PERDEU,KG,9590,27.4
+"Bacon defumado em pedaços",12632114,50,PERDEU,KG,1775,35.5
+"Carne bovina: Acém resfriado",12632115,300,PERDEU,KG,10404,34.68
+"Carne bovina: Coxão de fora resfriado",12632117,300,PERDEU,KG,11010,36.7
+"Carne bovina: Coxão mole",12632118,400,PERDEU,KG,18100,45.25
+"Carne bovina: Fraldinha resfriada",12632119,250,PERDEU,KG,10560,42.24
+"Carne bovina: Moída",12632121,400,PERDEU,KG,15160,37.9
+"Carne bovina: músculo",12632122,100,PERDEU,KG,3070,30.7
+"Carne bovina: Tatu",12632123,200,PERDEU,KG,7648,38.24
+"Carne de frango congelada: Coxa e sobrecoxa",12632124,450,PERDEU,KG,3847.5,8.55
+"Carne de frango congelada: Filé de peito",12632125,400,PERDEU,KG,5240,13.1
+"Carne de frango congelada: Galinha caipira, serrada com osso",12632126,300,PERDEU,KG,4194,13.98
+"Carne de frango congelada: Moela",12632127,200,PERDEU,KG,2328,11.64
+"Carne de frango congelada: Peito com osso",12632128,200,PERDEU,KG,3296,16.48
+"Carne suína congelada: Costela",12632129,350,PERDEU,KG,7644,21.84
+"Carne suína congelada: Lombo médio sem osso",12632130,350,PERDEU,KG,7525,21.5
+"Carne suína congelada: Paleta suína, sem osso",12632131,200,PERDEU,KG,4000,20
+"Lingüiça de carne de pernil",12632133,250,PERDEU,KG,5725,22.9
+"Lingüiça de frango",12632134,250,PERDEU,KG,4975,19.9
+"Lingüiça tipo calabresa para fatiar",12632135,70,VENCEU,KG,1558.2,22.26
+"Pescado: peixe em posta",12632136,150,VENCEU,KG,4272,28.48
+"Salsicha hot dog",12632137,150,PERDEU,KG,2385,15.9
+"Creme de leite fresco",12632173,150,VENCEU,UN,1560,10.4
+"CREME DE LEITE UHT",12632174,250,PERDEU,UND,787.5,3.15
+"Leite Condensado: Em embalagem treta pak de 395g.",12632177,200,VENCEU,UNI,1180,5.9
+"Manteiga: obtida de creme de leite",12632178,50,VENCEU,UND,500,10
+"Queijo tipo mussarela",12632180,250,VENCEU,KG,9500,38
+"leite desnatado  UHT",12632183,500,PERDEU,L,2645,5.29
+"Leite Integral  UHT",12632185,1200,PERDEU,LIT,6168,5.14
+"Leite Semidesnatado UHT sem lactose",12632186,800,VENCEU,L,3992,4.99
+"ACUCAR REFINADO",12632188,800,PERDEU,KG,3512,4.39
+"Doce de frutas pote de 400g",12632200,200,PERDEU,POT,1240,6.2
+"Doce de Leite em Pasta",12632201,200,PERDEU,UNI,1380,6.9
+"Margarina (Creme Vegetal)",12632209,350,VENCEU,UNI,2345,6.7
+"Café Extra  Forte",12632222,1000,PERDEU,UN,16900,16.9
+"ÓLEO DE SOJA - pet de 900 ml",12632251,350,PERDEU,UNI,2275,6.5

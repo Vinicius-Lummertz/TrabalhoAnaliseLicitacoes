@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Suporte de fixação para caixa de luvas",10971208,50,VENCEU,UN,2845,56.9
+"Suporte de envelope para autoclave - esterilização  de 13 envelopes",10971210,100,PERDEU,UND,10900,109
+"kit cirúrgico estéril descartável",10971452,1800,PERDEU,KIT,55800,31
+"Compressor odontológico em ferro fundido",10971614,2,PERDEU,UN,20467.5,10233.75
+"Mini incubadora biológica",10971619,50,PERDEU,UN,15350,307
+"Motor Endodôntico Elétrico",10971620,2,PERDEU,UN,14998,7499
+"Seladora térmica digital",10971621,15,PERDEU,UNI,12600,840

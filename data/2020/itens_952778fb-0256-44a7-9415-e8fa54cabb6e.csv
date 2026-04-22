@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁLCOOL LÍQUIDO 70% 01 litro",3,3,1000," ",UNI,4250,4.25
+"AVENTAL DESCARTÁVEL",1,1,1000," ",UNI,3800,3.8
+"MÁSCARA FACIAL DESCARTÁVEL",7,7,1000," ",CX,18490,18.49
+"ÁLCOOL EM GEL 70% com extrato de aloe vera",2,2,1000," ",UNI,8190,8.19

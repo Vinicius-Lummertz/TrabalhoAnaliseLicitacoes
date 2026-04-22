@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adaptador de Rede USB",5997463,1,5,ATIVO,UNIDADE,360,72
+"Cabo HDMI 10 metro",5997464,13,2,ATIVO,UNIDADE,130,65
+"Fonte para Lenovo V530S",5997465,25,2,ATIVO,UNIDADE,858,429
+"Fonte USB padrão Carga Rápida",5997466,26,5,ATIVO,UNIDADE,494.5,98.9
+Microcomputador,5997467,30,5,ATIVO,UNIDADE,13395,2679
+"Pasta Térmica",5997468,40,10,ATIVO,UNIDADE,849,84.9
+"Patch Cord Cat 6 - 0,20 metros",5997469,41,150,ATIVO,UNIDADE,2370,15.8
+"Patch Cord Cat 6 - 0,60 metros",5997470,42,20,ATIVO,UNIDADE,440,22
+"Patch Cord Cat 6 - 1,00 metros",5997471,43,20,ATIVO,UNIDADE,458,22.9
+"Patch Cord Cat 6 - 2,00 metros",5997472,44,50,ATIVO,UNIDADE,1110,22.2

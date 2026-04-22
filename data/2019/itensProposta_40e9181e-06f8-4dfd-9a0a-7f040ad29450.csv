@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"RAIO-X PORTÁTIL.",4439537,3,VENCEU,UN,49500,16500
+"Aparelho de ultrassom odontológico",4439538,2,DESCLASSIFICADO,UN,6900,3450
+"Bomba de vácuo: Voltagem 127/220V",4439539,2,PERDEU,UN,3960,1980
+"Microscópio odontológico com estativa fixa no chão",4439540,1,VENCEU,UN,15500,15500
+"Câmara Escura Para Revelação.",4439544,1,DESCLASSIFICADO,UN,240,240
+"Amalgamador capsular digital",4439545,3,DESCLASSIFICADO,UN,2010,670
+"Autoclave 21 litros",4439546,10,INABILITADO,UN,40400,4040
+"Compressor odontológico em ferro fundido",4439547,10,INABILITADO,UN,25000,2500
+"Contra ângulo odontológico para peça de mão",4439548,7,PERDEU,UNI,2940,420
+"Contra Ângulo Oscilatório Endo-Eze Arios PB 4:1",4439549,2,VENCEU,UN,2800,1400
+"Contra ângulo odontológico para endodontia",4439550,2,PERDEU,UN,1740,870
+"Kit acadêmico contendo caneta de alta rotação",4439551,20,PERDEU,CX,28000,1400
+"CANETA DE ALTA ROTACAO",4439552,10,PERDEU,UN,5950,595
+"Localizador apical eletrônico",4439553,2,DESCLASSIFICADO,UN,3516,1758
+"Mini incubadora biológica",4439554,15,DESCLASSIFICADO,UN,3225,215
+"Micromotor elétrico de bancada LB100",4439555,1,PERDEU,ESTO,820,820
+"Motor Endodôntico Elétrico",4439556,1,VENCEU,UN,4250,4250
+"Peça de mão multiplicadora angulada 1:2",4439557,1,DESCLASSIFICADO,UN,2500,2500
+"Seladora termica digital, de mesa",4439558,20,DESCLASSIFICADO,UNI,15000,750
+"Fotopolimerizador sem fio",4439559,20,DESCLASSIFICADO,UN,13400,670
+"Sensor digital de radiografia periapical T2",4439560,2,INABILITADO,UN,21000,10500
+"LASER DE ALTA E BAIXA",4439561,1,PERDEU,UN,4100,4100

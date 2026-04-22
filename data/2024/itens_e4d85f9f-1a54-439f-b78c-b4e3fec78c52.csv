@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",6570275,38,10000,ATIVO,"Frasco ampola",69200,6.92
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",6570276,65,3000,ATIVO,"Frasco ampola",27270,9.09
+"Tenoxicam 20 mg pó, para suspensão injetável endovenoso ou intramuscular.",6570277,237,1000,ATIVO,"Frasco ampola",6000,6

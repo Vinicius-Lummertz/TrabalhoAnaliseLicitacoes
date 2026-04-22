@@ -1,0 +1,23 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",5093030,6000,PERDEU,FR.,34800,5.8
+"Ácido tranexâmico 50mg/ml amp 5ml.",5093032,3000,PERDEU,AM,15300,5.1
+"Ácido Valproico 250mg capsula.",5093033,420000,VENCEU,CPLA,96600,0.23
+"Ácido Valproico 500mg cpr.",5093034,650000,VENCEU,COMP,312000,0.48
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",5093035,8000,PERDEU,FR.,80000,10
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",5093052,450000,PERDEU,COMP,585000,1.3
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",5093078,1800000,PERDEU,COMP,1710000,0.95
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",5093079,3000,PERDEU,FR.,60000,20
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",5093080,180000,PERDEU,FR,88200,0.49
+"Claritromicina 500mg comprimido, em blister.",5093096,15000,PERDEU,COMP,60000,4
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",5093114,4000,PERDEU,BIS,45920,11.48
+"Finasterida 5 mg cpr, em blister.",5093150,100000,PERDEU,COMP,38200,0.382
+"Insulina NPH 100UI/mL, frasco 10ml.",5093178,100,PERDEU,FR.,2120,21.2
+"Insulina regular 100 UI/mL , frasco 10ml.",5093179,150,PERDEU,FR.,3180,21.2
+"Ivermectina 6mg cpr, em blister.",5093183,30000,PERDEU,COMP,60000,2
+"Levotiroxina sódica 100mcg cpr, em blister.",5093204,500000,PERDEU,COMP,200000,0.4
+"Levotiroxina sódica 25mcg cpr, em blister.",5093205,600000,PERDEU,COMP,111600,0.186
+"Levotiroxina sódica 50 mcg cpr, em blister.",5093206,600000,PERDEU,COMP,88200,0.147
+"Metilfenidato 10 mg cpr, em blister.",5093219,240000,PERDEU,COMP,259200,1.08
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",5093269,15000,PERDEU,FR.,121500,8.1
+"SULFATO FERROSO- EQUIVALENTE A 40MG DE FERRO ELEMENTAR- em b",5093280,900000,PERDEU,COMP,45000,0.05
+"Verapamil 80mg cpr, em blister.",5093291,700000,PERDEU,COMP,630000,0.9

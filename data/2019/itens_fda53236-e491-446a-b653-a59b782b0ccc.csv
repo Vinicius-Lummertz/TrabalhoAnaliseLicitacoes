@@ -1,0 +1,9 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressa, de gaze 7,5 x 15,00 cm",1266587,5,2400,ATIVO,UNIDADE,10440,4.35
+"Solução para irrigação/limpeza e descontaminação de feridas",1266588,12,100,ATIVO,FRASCO,8100,81
+"Bandagem de Alta Compressão, elástica de algodão",1266589,13,200,ATIVO,ROLO,14600,73
+"Adesivo transparente e impermeável",1266590,18,10,ATIVO,ROLO,1580,158
+"Bandagem de algodão e poliéster com pasta composta de no mín",1266592,2,300,ATIVO,UNIDADE,11400,38
+"Compressa de gaze 7,5 x 7,5 cm",1266598,4,2400,ATIVO,PACOTE,9120,3.8
+"Cobertura estéril, tamanho 10x10cm, não aderente",1266601,1,500,ATIVO,UNIDADE,25500,51
+"Curativo de hidrocolóide e alginato de cálcio e sódio",1266603,3,300,ATIVO,UNIDADE,14400,48

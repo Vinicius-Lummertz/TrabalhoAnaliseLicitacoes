@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressora TANQUE",3682133,30,5,ATIVO,UNIDADE,5994.85,1198.97
+"Impressora MULTIFUNCIONAL LASER MONOCROMÁTICA SCANNER",3682134,32,10,ATIVO,UNIDADE,48999.9,4899.99
+"Televisor 43",3682135,44,5,ATIVO,UNIDADE,12571.55,2514.31

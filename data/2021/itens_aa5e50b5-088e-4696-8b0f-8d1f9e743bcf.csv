@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Valproico 250mg capsula.",2216050,10,420000,ATIVO,CAPSULA,96600,0.23
+"Ácido Valproico 500mg cpr.",2216051,11,650000,ATIVO,COMPRIMIDO,312000,0.48
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em b",2762322,29,370000,ATIVO,COMPRIMIDO,247900,0.67

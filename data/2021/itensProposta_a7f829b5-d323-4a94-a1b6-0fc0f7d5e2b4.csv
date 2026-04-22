@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acesso à Internet, do tipo banda larga ( 11 PONTOS)",4400745,12,VENCEU,MES,10800,900
+"Acesso à Internet, do tipo banda larga ( 17 PONTOS)",4400746,12,VENCEU,MES,18000,1500
+"Acesso à Internet, do tipo banda larga ( 16 PONTOS)",4400747,12,VENCEU,MES,17040,1420
+"Acesso à Internet, do tipo banda larga ( 14 PONTOS).",4400748,12,VENCEU,MES,21000,1750
+"Acesso à Internet, do tipo banda larga ( 11 PONTOS);",4400749,12,VENCEU,MES,18000,1500

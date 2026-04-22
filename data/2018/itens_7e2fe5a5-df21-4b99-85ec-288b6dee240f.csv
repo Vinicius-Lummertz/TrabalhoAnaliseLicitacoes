@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tinta amarela bld (18 l)",1300174,1,400,ATIVO,BALDE,73872,184.68
+"Tinta preta bld (18 l)",1302221,4,30,ATIVO,BALDE,5540.4,184.68
+"Tinta azul bld (18 l)",1306322,3,30,ATIVO,BALDE,5540.4,184.68
+"Tinta vermelha bld (18 l)",1306323,5,10,ATIVO,BALDE,1846.8,184.68
+"Tinta branca bld (18 l)",1308347,2,400,ATIVO,BALDE,73872,184.68
+"Solvente bld (18 l)",1310348,6,320,ATIVO,BALDE,37257.6,116.43
+"Micro esfera de vidro",1310349,7,5000,ATIVO,kg,20050,4.01

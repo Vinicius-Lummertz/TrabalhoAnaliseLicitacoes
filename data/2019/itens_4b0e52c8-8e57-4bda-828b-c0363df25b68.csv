@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Gliclazida 30mg cpr liberação prolongada, em blister.",1265455,130,350000,ATIVO,COMPRIMIDO,49000,0.14
+"Cinarizina 75mg cpr, em blister.",1265493,67,250000,ATIVO,COMPRIMIDO,22500,0.09
+"Clopidogrel 75mg comprimido revestido, em blister.",1265494,76,180000,ATIVO,COMPRIMIDO,43200,0.24
+"Nortriptilina 50 mg capsula, em blister.",1265495,203,4000,ATIVO,CAPSULA,1520,0.38
+"Sinvastatina 20mg cpr, em blister.",1328339,230,1800000,ATIVO,COMPRIMIDO,86400,0.048

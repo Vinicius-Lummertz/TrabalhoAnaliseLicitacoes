@@ -1,0 +1,60 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 6,0mm2",0,3190,DESCLASSIFICADO," ",14355,4.5
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 10,0mm2",0,4900,DESCLASSIFICADO," ",31360,6.4
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 16,0mm2",0,17500,DESCLASSIFICADO," ",154000,8.8
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 25,0mm2",0,17700,DESCLASSIFICADO," ",177000,10
+"Cabo de Cobre Isol. PVC 0,6/1,0KV 70,0mm2",0,3240,DESCLASSIFICADO," ",123120,38
+"Cabo de cobre tipo PP 3 x #2,5mm² 0,6/1,0kV",0,3400,DESCLASSIFICADO," ",10880,3.2
+"Cabo de cobre nú, tipo bimetálico aço/cobre 16mm² p/ aterram",0,450,DESCLASSIFICADO," ",3510,7.8
+"Disj. Unipolar Termomagnético 32A IEC/DIN",0,6,DESCLASSIFICADO," ",41.4,6.9
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,7,DESCLASSIFICADO," ",61.6,8.8
+"Disj. Unipolar Termomagnético 50A IEC/DIN",0,5,DESCLASSIFICADO," ",44,8.8
+"Disj. Unipolar Termomagnético 80A IEC/DIN",0,11,DESCLASSIFICADO," ",539,49
+"Disj. Tripolar Termomagnético 40A IEC/DIN",0,6,DESCLASSIFICADO," ",210,35
+"Disj. Tripolar Termomagnético 80A IEC/DIN",0,2,DESCLASSIFICADO," ",276,138
+"Disj. Tripolar Termomagnético em caixa moldada 150A (40kA)",0,2,DESCLASSIFICADO," ",480,240
+"Disj. Tripolar Termomagnético em caixa moldada 200A (40kA)",0,1,DESCLASSIFICADO," ",280,280
+"Dispositivo de Proteção contra Surto (275V - 40kA)",0,4,DESCLASSIFICADO," ",460,115
+"Quadro de distribuição em chapa de aço  AxLxP (100x70x20)cm",0,2,DESCLASSIFICADO," ",1280,640
+"Quadro de distribuição em chapa de aço (40x40x12)cm",0,4,DESCLASSIFICADO," ",640,160
+"Eletroduto Corrugado 3/4",0,3600,DESCLASSIFICADO," ",4824,1.34
+"Eletroduto  Corrugado 2",0,7800,DESCLASSIFICADO," ",22620,2.9
+"Eletroduto Corrugado 3",0,800,DESCLASSIFICADO," ",3520,4.4
+"Caixa de passagem em concreto (50x50)cm c/ tampa",0,14,DESCLASSIFICADO," ",910,65
+"Caixa de passagem em concreto com tampa - 30X30cm",0,287,DESCLASSIFICADO," ",6888,24
+"Grampo estanhado para aterramento 5/8 x 3/4",0,300,DESCLASSIFICADO," ",594,1.98
+"Haste de aterramento tipo Copperweld 1,2m",0,300,DESCLASSIFICADO," ",4500,15
+"Terminal a compressão para cabo de cobre nú 16mm²",0,300,DESCLASSIFICADO," ",360,1.2
+"Luminária Pública (Tipo II/média) - ?90W ?150lm/W - 13500lm",0,143,DESCLASSIFICADO," ",157300,1100
+"Luminária Pública (Tipo II/média) - ?135W ?150lm/W - 20250lm",0,348,DESCLASSIFICADO," ",522000,1500
+"Luminária Pública (Tipo II/média) - ?54W ?150lm/W - 8100lm",0,15,DESCLASSIFICADO," ",11985,799
+"Projetor de LED (abertura 60°) - ?180W ?120lm/W - 21600lm",0,56,DESCLASSIFICADO," ",59360,1060
+"Projetor de LED (abertura 60°) - ?240W ?120lm/W - 28800lm",0,36,DESCLASSIFICADO," ",50220,1395
+"Luminária para monumento  LED RGB- ?150W Feixe Médio",0,5,DESCLASSIFICADO," ",6000,1200
+"Poste Concreto Circular 12m - 300daN",0,20,DESCLASSIFICADO," ",30000,1500
+"Cruzeta de Aço tubular - 2400mm - 400daN",0,20,DESCLASSIFICADO," ",4800,240
+"Cinta para poste circular 110 mm",0,20,DESCLASSIFICADO," ",440,22
+"Cinta para poste circular 120 mm",0,20,DESCLASSIFICADO," ",460,23
+"Sela para fixação da cruzeta ao poste",0,20,DESCLASSIFICADO," ",200,10
+"Parafuso para fixação Cabeça Abaulada 16 x 150 mm",0,20,DESCLASSIFICADO," ",106,5.3
+"Parafuso para fixação Cabeça Abaulada 16 x 125 mm",0,20,DESCLASSIFICADO," ",100,5
+"Parafuso para fixação CCabeça Quadrada 16 x 45 mm",0,20,DESCLASSIFICADO," ",55,2.75
+"Mão Francesa Perfilada de 726 mm, reforçada.",0,20,DESCLASSIFICADO," ",560,28
+"Poste ferro galvanizado á fogo com pintura poliéster, 11m",0,87,DESCLASSIFICADO," ",130500,1500
+"Núcleo de ferro galvanizado á fogo para 4 luminárias braço 1",0,87,DESCLASSIFICADO," ",16965,195
+"Poste ferro galvanizado á fogo pintura poliéster, 9m, 2 péta",0,54,DESCLASSIFICADO," ",58320,1080
+"Núcleo de ferro galvanizado á fogo para 2 luminárias braço 1",0,54,DESCLASSIFICADO," ",5940,110
+"Poste ferro galvanizado á fogo com pintura poliéster, 9m",0,35,DESCLASSIFICADO," ",37800,1080
+"Núcleo de ferro galvanizado á fogo para 1 luminárias braço 1",0,35,DESCLASSIFICADO," ",2100,60
+"Poste ferro galvanizado á fogo com pintura poliéster, 5m",0,15,DESCLASSIFICADO," ",5700,380
+"Núcleo de ferro galvanizado á fogo p/ 1 luminária braço 0,5m",0,15,DESCLASSIFICADO," ",975,65
+"Abertura e Fechamento de Vala para cabo subterrâneo diretame",0,4000,DESCLASSIFICADO," ",232000,58
+"Retirada de Poste  - Com Guindauto",0,100,DESCLASSIFICADO," ",8000,80
+"Instalação de Caixa de Passagem... Tipo A com Tampa",0,287,DESCLASSIFICADO," ",3444,12
+"Instalação de Caixa de Passagem e Derivação de concreto arma",0,14,DESCLASSIFICADO," ",350,25
+"Lançamento de Circuitos de Baixa Tensão (1, 2, 3 ou 4 Condut",0,4600,DESCLASSIFICADO," ",55200,12
+"Aterramento simples, primeira haste",0,300,DESCLASSIFICADO," ",24000,80
+"Montagem de 4 Projetores por Cruzeta, por conjunto",0,20,DESCLASSIFICADO," ",7000,350
+"Instalação de Poste Menor que 12m - om Guindauto",0,20,DESCLASSIFICADO," ",4000,200
+"Implantação e instalação elétrica completa de poste de ilumi",0,200,DESCLASSIFICADO," ",34000,170
+"Sistema que permita identificar a localização, informe sobre",0,15,DESCLASSIFICADO," ",12000,800

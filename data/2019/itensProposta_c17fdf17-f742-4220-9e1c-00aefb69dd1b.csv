@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",4440891,130000,PERDEU,COMP,23400,0.18
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4440892,12000,PERDEU,BIS,26400,2.2
+"Amiodarona 200mg cpr, em blister.",4440912,220000,PERDEU,COMP,114400,0.52
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",4440929,10000,PERDEU,FR/AM,82000,8.2
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",4440945,3000,DESCLASSIFICADO,FR.,34500,11.5
+"Carvedilol 12,5 mg cpr, em blister.",4440950,75000,VENCEU,COMP,7125,0.095
+"Carvedilol 25 mg cpr, em blister.",4440951,75000,VENCEU,COMP,9750,0.13
+"Carvedilol 3,125 mg cpr, em blister.",4440952,10000,PERDEU,COMP,700,0.07
+"Carvedilol 6,25 mg cpr, em blister.",4440953,45000,PERDEU,COMP,3600,0.08
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",4440957,1000,VENCEU,FR/AM,8500,8.5
+"Fenitoina 100mg cpr, em blister.",4441007,300000,PERDEU,COMP,39000,0.13
+"Lidocaína 2% gel, bisnaga 30g.",4441063,9000,PERDEU,BIS,21600,2.4
+"Losartana 50mg cpr revestido, em blister.",4441068,3200000,PERDEU,COMP,166400,0.052
+"Metildopa 250mg cpr, em blister.",4441072,350000,PERDEU,COMP,157500,0.45
+"Metilfenidato 10 mg cpr, em blister.",4441073,120000,PERDEU,COMP,64800,0.54
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",4441103,27000,PERDEU,FR.,16740,0.62
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",4441123,5000,PERDEU,FR.,31000,6.2
+"Vitaminas do Complexo B cpr ( B3 16mg, B5 5mg, B6 1,3mg, B2",4441145,420000,PERDEU,COMP,15120,0.036

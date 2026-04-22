@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento nutricionalmente completo para nutrição enteral ou",4442205,1120,VENCEU,LAT,26320,23.5
+"Complemento Alimentar para adolescentes e adultos",4442207,200,VENCEU,LAT,7100,35.5
+"Dieta nutricionalmente completa para crianças de 1 a 10 anos",4442208,492,VENCEU,LAT,10528.8,21.4
+"Dieta semi-elementar e hipoalergênica, a base de 100% prote",4442209,2220,PERDEU,LAT,178488,80.4
+"Espessante a base de amido de milho modificado ou maltodextr",4442211,960,INABILITADO,LAT,43200,45
+"Fórmula infantil de aminoácidos livres para lactentes e de s",4442216,2050,VENCEU,LAT,225500,110

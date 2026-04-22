@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"SISTEMA DE GERADORES TIPO 01 STAND BY",7693275,22,46,ATIVO,UNIDADE/DIA,80699.18,1754.33
+"SISTEMA DE GERADORES TIPO 02 USO CONTÍNUO",7693276,23,46,ATIVO,UNIDADE/DIA,118358.92,2573.02
+"Locação de passa cabos Locação de passa cabos de 5 vias, protetor de cabos",7693277,24,46,ATIVO,"Metro linear dia",941.16,20.46

@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,PERDEU,UN,15795,117
+"Rede de Traves para Futebol de Campo",13710962,18,PERDEU,PAR,14004,778
+"Bola de Futsal Adulto",13710963,80,PERDEU,UN,19760,247
+"Bola de Futsal Infantil para Treinamento",13710964,110,PERDEU,UN,17490,159
+"Bola de Basquete OFICIAL",13710967,60,PERDEU,UN,19135.8,318.93
+"Rede de Aro para Basquete",13710968,30,PERDEU,PAR,1770,59
+"Bola de Handebol H1L",13710969,25,PERDEU,UN,7175,287
+"Bola de Handebol H2",13710970,35,PERDEU,UN,10080,288
+"Bola de Handebol H3L",13710971,30,PERDEU,UN,8160,272
+"Bola de Voleibol de Quadra para Treinamento",13710972,80,PERDEU,UN,24640,308
+"Bola de Voleibol de Praia/Areia",13710973,20,PERDEU,UN,4720,236
+"Rede Oficial de Voleibol de Quadra",13710974,8,PERDEU,UN,3992,499
+"Rede Oficial de Voleibol de Praia/Areia",13710975,10,PERDEU,UN,2880,288
+"Marcação de Quadra de Vôlei de Praia/Areia",13710976,5,PERDEU,KIT,1225,245
+"Raquete de Tênis de Mesa para Iniciação",13710977,120,PERDEU,UN,4410,36.75
+"Rede para Mesa de Tênis de Mesa",13710978,20,PERDEU,UN,2400,120
+"Jogo de Peças de Xadrez Oficial",13710979,55,PERDEU,JGO,5115,93
+"Tabuleiro de Xadrez Oficial",13710980,55,PERDEU,UN,1540,28
+"Sapatilha de Velocidade para Provas de Atletismo",13710981,35,PERDEU,PAR,12071.5,344.9
+"Sapatilhas de Meio Fundo e Fundo para Provas de Atletismo",13710982,35,PERDEU,PAR,12071.5,344.9
+"Sapatilha de Atletismo de Lançamento e Arremesso",13710983,35,PERDEU,PAR,12768,364.8
+"Sacos para Bola",13710995,30,PERDEU,UN,2250,75
+"CONE CHAPÉU CHINÊS",13710996,200,PERDEU,UND,366,1.83
+"Corda de Pular",13710997,50,PERDEU,UN,860,17.2
+"Bomba de Ar para Bolas",13710998,26,PERDEU,UN,1118,43
+"Calibrador de Bola tipo Caneta",13710999,26,PERDEU,UN,488.8,18.8
+"Placar de Mesa",13711000,26,PERDEU,UN,3491.8,134.3
+"Apito de Mesa",13711001,15,PERDEU,UN,270,18
+"Apito profissional",13711002,60,PERDEU,UND,1170,19.5
+"Skate para Iniciantes",13711003,80,PERDEU,UN,28000,350
+"Capacete de Skate",13711004,80,PERDEU,UN,7920,99
+"Kit de Proteção Esportivo",13711005,80,PERDEU,KIT,7912,98.9
+"Mini Band Nível Forte",13711009,30,PERDEU,UN,585,19.5
+"Mini Band Nível Médio",13711010,30,PERDEU,UN,585,19.5
+"Mini Band Nível Fraco",13711011,30,PERDEU,UN,585,19.5

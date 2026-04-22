@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Curativo de Hidrogel",4448281,300,VENCEU,TUB,10500,35
+"Solução para irrigação/limpeza e descontaminação de feridas",4448285,50,VENCEU,FR,7750,155
+"Curativo constituído de espuma em 100% poliuretano 10 cm x 8",4448288,15,VENCEU,UN,8400,560
+"Curativo constituído de espuma em 100% poliuretano 20 cm x 1",4448289,8,VENCEU,UN,6160,770
+"Dispositivo coletor de exsudato 300ml",4448290,8,VENCEU,UN,3728,466
+"Dispositivo coletor de exsudato 750ml",4448291,5,VENCEU,UN,6615,1323
+"Compressa não aderente 10x10cm",4448292,2000,VENCEU,UN,5500,2.75
+"Compressa não aderente 20x10cm",4448293,1000,VENCEU,UN,4850,4.85
+"Curativo em forma de pomadaq",4448297,30,VENCEU,TUB,6780,226
+"Cobertura de ação antimicrobiana nível de prata disponibilizado para utilização por 3 dias tamanho 10 cm x 10 cm",4448298,100,CANCELADO,UN,11900,119
+"Cobertura de ação antimicrobiana 10 cm x 12,5 cm",4448299,30,VENCEU,UN,6990,233

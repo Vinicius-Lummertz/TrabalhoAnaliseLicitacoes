@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fresadora Wirtgen W100",6650493,3,1,ATIVO,UNIDADE,19117.65,12
+"Motoniveladora New Holland RG170",6650494,6,2,ATIVO,UNIDADE,38235.3,14.5
+"Pá Carregadeira New Holland W130",6650495,11,2,ATIVO,UNIDADE,38235.3,13.5
+"Retroescavadeira JCB 3CXB",6650496,13,1,ATIVO,UNIDADE,19117.65,12
+"Retroescavadeira New Holland LB110",6650497,14,2,ATIVO,UNIDADE,38235.3,12
+"Retroescavadeira Randon RD406",6650498,15,1,ATIVO,UNIDADE,19117.65,12
+"Retroescavadeira Randon RD406B",6650499,16,1,ATIVO,UNIDADE,19117.65,12
+"Retroescavadeira XCMG XT870BR-I",6650500,17,1,ATIVO,UNIDADE,19117.65,12
+"Rolo Compactador Hamm",6650501,19,1,ATIVO,UNIDADE,19117.65,12
+"Vibroacabadora Ciber AF4000",6650502,28,1,ATIVO,UNIDADE,19117.65,12

@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",8483373,6000,PERDEU,UNI,30299.4,5.0499
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",8483374,5000,PERDEU,UNI,18949.5,3.7899
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",8483375,1500,VENCEU,PCT,123750,82.5
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",8534668,500,VENCEU,PCT,43999.95,87.9999
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",8483376,1200,PERDEU,PCT,40404,33.67
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",8534677,400,PERDEU,PCT,13471.96,33.6799
+"Compressa de gaze (tipo queijo) em rolo",8483377,250,VENCEU,ROLO,23675,94.7
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 13 fios, pacote com 500und.",8483378,1500,VENCEU,PCT,33779.85,22.5199
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",8483379,637500,VENCEU,PCT,395186.25,0.6199
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",8534679,212500,VENCEU,PCT,138103.75,0.6499
+"Lençol descartavel com elástico TNT",8483446,3600,PERDEU,PCT,53567.64,14.8799
+"Luva de Látex não esteril tamanho PP",8483453,2000,PERDEU,CX,35279.8,17.6399
+"Luva Plástica Estéril Descartável",8483461,1200,VENCEU,PCT,13271.88,11.0599
+"Seringa 3ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483479,15000,PERDEU,UND,2878.5,0.1919
+"Seringa 5ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483480,100000,VENCEU,UND,15990,0.1599
+"Seringa 10 ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483481,70000,VENCEU,UND,20993,0.2999
+"Seringa 20ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483482,40000,PERDEU,UND,23036,0.5759
+"Seringa 60ml, sem agulha. Características: Seringa em polipropileno, estéril, siliconizada, descartável, com bico LUER LOCK (ROSCA)",8483483,2000,VENCEU,UND,3320,1.66

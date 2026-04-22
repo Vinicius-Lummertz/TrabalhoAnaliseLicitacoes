@@ -1,0 +1,39 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental de segurança confeccionado em PVC.",3067852,1,50,ATIVO,UNIDADE,447.5,8.95
+"Avental de segurança confeccionado em raspa (100x60) CA referência: 13989",3067853,2,50,ATIVO,UNIDADE,1092.5,21.85
+"Boné árabe com touca.",3067854,3,50,ATIVO,UNIDADE,429,8.58
+"Bota de PVC Tamanho 34 a 48 (CA Referência 40400)",3067855,4,70,ATIVO,UNIDADE,2849,40.7
+"Botina profissional de segurança Tamanho 34 a 48 (CA Referência: 28511)",3067856,5,400,ATIVO,UNIDADE,21040,52.6
+"CALCA ANTICHAMA NR-10 1/2 CÓS ELASTICO",3067857,6,50,ATIVO,UNIDADE,6200,124
+"Calçado ocupacional de uso profissional tipo tênis. Tamanho 32 a 48 (CA Referência: 37212)",3067858,7,800,ATIVO,UNIDADE,53200,66.5
+"Calçado ocupacional de uso profissional, tipo bota PVC cano longo. Tamanho 34 a 48 (CA Referência: 38201)",3067859,8,100,ATIVO,UNIDADE,4150,41.5
+"Calçado ocupacional do tipo Botina de Segurança. Tamanho 34 a 48 (CA Referência: 32623)",3067860,9,200,ATIVO,UNIDADE,18500,92.5
+"Calçado ocupacional tipo botina, confeccionado em couro. Tamanho 34 a 48 (CA Referência: 38362)",3067861,10,200,ATIVO,UNIDADE,9300,46.5
+"Camisa antichama NR 10 Esporte Refletiva c/botões",3067862,11,50,ATIVO,UNIDADE,6950,139
+"Capa de chuva. Tamanho P ao XXG (CA Referência 28450)",3067863,12,300,ATIVO,UNIDADE,4995,16.65
+"Capacete de segurança modelo V-GARD. Com selo de marcação do INMETRO (CA Referência: 365)",3067864,13,20,ATIVO,UNIDADE,680.4,34.02
+"Chapéu de palha aba longa.",3067865,14,200,ATIVO,UNIDADE,2800,14
+"Cinturão de segurança tipo paraquedista/abdominal. Com selo de marcação do INMETRO (CA Referência: 35520)",3067866,15,20,ATIVO,UNIDADE,2595,129.75
+"Cone 75cm, preto/amarelo, PVC rígido.",3067867,16,500,ATIVO,UNIDADE,12025,24.05
+"Filtro para máscara P2 HE-1 para máscaras 3M",3067868,18,45,ATIVO,PAR,2205,49
+"Jardineira de segurança para saneamento, com bota. Tamanho P ao XXG (CA Referência 36004)",3067869,19,45,ATIVO,UNIDADE,6318,140.4
+"Luva de algodão pigmentada 4 fios. Tamanho P ao XXG. (CA Referência 10464)",3067870,20,800,ATIVO,PAR,2200,2.75
+"Luva de segurança confeccionada em látex natural. Tamanho P ao XXG (CA Referência 16779).",3067871,21,45,ATIVO,PAR,373.5,8.3
+"Luva de segurança confeccionada em raspa. Tamanho P ao XXG (CA Referência: 26381)",3067872,22,250,ATIVO,PAR,1850,7.4
+"Luva de segurança confeccionada em vaqueta, cano curto. Tamanho P ao XXG (CA Referência 16072)",3067873,23,250,ATIVO,PAR,3900,15.6
+"Luva de segurança confeccionada em vaqueta. Tamanho P ao XXG (CA Referência 29947)",3067874,24,50,ATIVO,PAR,875,17.5
+"Luva de segurança isolante de borracha. Tamanho P ao XXG (CA Referência: 2178). Com selo de marcação do INMETRO",3067875,25,30,ATIVO,PAR,7695,256.5
+"Luva de segurança longa 46cm. Tamanho P ao XXG (CA Referência 12254)",3067876,26,50,ATIVO,PAR,350,7
+"Luva de segurança para agentes químicos. Tamanho P ao XXG (CA Referência 16313)",3067877,27,50,ATIVO,PAR,412.5,8.25
+"Luva de segurança para proteção mecânica. Tamanho P ao XXG (CA Referência",3067878,28,400,ATIVO,PAR,872,2.18
+"Luva de segurança confeccionadas em suporte têxtil 100% algodão. Tamanho P ao XXG (CA Referência 34860)",3067879,29,500,ATIVO,PAR,3700,7.4
+"Macacão de segurança confeccionado em nylon emborrachado, com capuz fixo, botas e luvas de PVC acopladas. Tamanho P ao XXG (CA Referência 15162)",3067880,30,50,ATIVO,PAR,5850,117
+"Macacão de segurança confeccionado em nylon emborrachado, com capuz e botas de PVC acopladas com solda eletrônica. (CA Referência macacão: 28930, CA Ref. bota: 30536)",3067881,31,15,ATIVO,UNIDADE,2511,167.4
+"Máscara de solda em polipropileno com catraca e visor articulável, cor preta. (CA Referência 20687)",3067882,32,25,ATIVO,UNIDADE,397.5,15.9
+"Máscara para soldagem com escurecimento automático de 3 a 11 DIN (CA Referência 37739)",3067883,33,10,ATIVO,UNIDADE,1535,153.5
+"Óculos de segurança de policarbonato na cor fumê (CA Referência 10344)",3067884,34,167,ATIVO,UNIDADE,559.45,3.35
+"Óculos de segurança de policarbonato na cor incolor/cinza (CA Referência 10344)",3067885,35,300,ATIVO,UNIDADE,1275,4.25
+"Protetor auditivo do tipo concha (CA Referência 29176)",3067886,36,10,ATIVO,UNIDADE,250,25
+"Protetor auditivo tipo inserção moldável de espuma de poliuretano no formato cônico, com cordão (CA Referência 5674)",3067887,37,500,ATIVO,UNIDADE,700,1.4
+"Protetor facial de segurança.",3067888,38,15,ATIVO,UNIDADE,360,24
+"Respirador purificador de ar tipo semifacial, classe PFF1 (S). Apresentar selo de marcação do INMETRO (CA Referência 38501)",3067889,39,200,ATIVO,UNIDADE,234,1.17

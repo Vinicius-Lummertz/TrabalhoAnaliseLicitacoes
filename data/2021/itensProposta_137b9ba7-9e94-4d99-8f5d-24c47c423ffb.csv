@@ -1,0 +1,41 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental de segurança confeccionado em PVC",4401029,50,NAO_COTOU,UND,0,0
+"Avental de segurança confeccionado em raspa",4401030,50,NAO_COTOU,UND,0,0
+"Boné árabe com touca",4401031,400,NAO_COTOU,UND,0,0
+"Bota de PVC",4401032,70,NAO_COTOU,UND,0,0
+"Botina profissional de segurança",4401033,300,NAO_COTOU,UND,0,0
+"CALCA ANTICHAMA NR-10 1/2 CÓS ELASTICO.",4401034,50,NAO_COTOU,UND,0,0
+"Calçado ocupacional de uso profissional tipo tênis",4401035,700,NAO_COTOU,UND,0,0
+"Calçado ocupacional de uso profissional, tipo bota PVC cano",4401036,100,NAO_COTOU,UND,0,0
+"Calçado ocupacional do tipo Botina de Segurança",4401037,200,NAO_COTOU,UND,0,0
+"Calçado ocupacional tipo botina",4401038,200,NAO_COTOU,UND,0,0
+"CAMISA ANTICHAMA NR 10 ESPORTE REFL.      C/BOTOES",4401039,50,NAO_COTOU,UND,0,0
+"CAPA DE CHUVA",4401040,150,NAO_COTOU,UND,0,0
+"Capacete de segurança para uso na indústria",4401041,50,NAO_COTOU,UND,0,0
+"Chapeu de palha aba longa",4401042,250,NAO_COTOU,UND,0,0
+"Cinturão de segurança tipo paraquedista/abdominal",4401043,20,NAO_COTOU,UND,0,0
+"Cone 50 cm preto/amarelo",4401044,75,NAO_COTOU,UND,0,0
+"Cone 75 cm preto/amarelo",4401045,75,NAO_COTOU,UND,0,0
+"Creme protetor solar com repelente",4401046,900,NAO_COTOU,UND,0,0
+"Filtro para máscara P2 HE-1 para máscaras 3M",4401047,45,NAO_COTOU,PAR,0,0
+"Jardineira de segurança para saneamento,com bota",4401048,45,VENCEU,UND,4815,107
+"Luva algodão pigmentada 4 fios (CA Referência CA 10464)",4401049,500,NAO_COTOU,PAR,0,0
+"Luva de segurança confeccionada em látex natural e revestime",4401050,45,NAO_COTOU,PAR,0,0
+"Luva de segurança confeccionada em raspa",4401051,250,NAO_COTOU,PAR,0,0
+"Luva de segurança confeccionada em vaqueta cano curto",4401052,250,NAO_COTOU,PAR,0,0
+"Luva de segurança confeccionada em vaqueta cobertura",4401053,50,NAO_COTOU,PAR,0,0
+"Luva de segurança isolante de borracha",4401054,30,NAO_COTOU,PAR,0,0
+"Luva de segurança longa 46 cm",4401055,50,NAO_COTOU,PAR,0,0
+"Luva de segurança para agentes químicos",4401056,50,NAO_COTOU,PAR,0,0
+"Luva de segurança para proteção mecânica",4401057,250,NAO_COTOU,PAR,0,0
+"Luvas de segurança confeccionadas em suporte têxtil 100% alg",4401058,100,NAO_COTOU,PAR,0,0
+"Macacão de segurança confeccionado em nylon",4401059,50,VENCEU,UND,8750,175
+"Macacão de Segurança confeccionado em nylon com capuz",4401060,15,INABILITADO,UND,2625,175
+"Máscara de solda em polipropileno com catraca e visor articu",4401061,25,NAO_COTOU,UND,0,0
+"Máscara para soldagem com Escurecimento Automático",4401062,10,NAO_COTOU,UND,0,0
+"Óculos de segurança constituídos de armação cor fume (tonali",4401063,167,NAO_COTOU,UND,0,0
+"Óculos de segurança constituídos de armação",4401064,300,NAO_COTOU,UND,0,0
+"Protetor auditivo do tipo concha",4401065,70,NAO_COTOU,UND,0,0
+"Protetor auditivo tipo inserção moldável de espuma",4401066,500,NAO_COTOU,UND,0,0
+"Protetor facial de segurança",4401067,15,NAO_COTOU,UND,0,0
+"Respirador purificador de ar tipo peça semifacial",4401068,200,NAO_COTOU,UND,0,0

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"KIT Cânula de Guedel",8483432,60,PERDEU,KIT,1200,20
+"Manta Térmica Aluminizada 2,10 x 1,40",8483462,1000,VENCEU,UND,4200,4.2
+"Máscara de oxigênio com bolsa reservatório e de não reinalaç",8483465,1000,PERDEU,UND,7100,7.1
+"Máscara de oxigênio com reservatório e de não reinalação Inf",8483466,300,PERDEU,UNI,2130,7.1
+"Fluxômetro para oxigênio medicinal.",8483562,50,PERDEU,UND,3877.5,77.55

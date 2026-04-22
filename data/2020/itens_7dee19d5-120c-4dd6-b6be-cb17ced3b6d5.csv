@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Sabão em barra",1299148,18,30,ATIVO,PACOTE,205.2,6.84
+"Detergente com Cera Para Veículos",1301222,7,180,ATIVO,GALAO,1980,11
+"Lustra móveis .",1305326,15,60,ATIVO,FRASCO,240,4
+"Limpa pneus com silicone",1307368,8,80,ATIVO,GALAO,2480,31
+"Sabonete Líquido com Bico Dosador Pump",1311448,10,300,ATIVO,EMBALAGEM,2130,7.1
+"Esfregão de Aço",1313418,24,250,ATIVO,UNIDADE,412.5,1.65
+Alvejante,1315580,2,120,ATIVO,GALAO,1134,9.45
+"sabonete liquido;",1315582,11,60,ATIVO,GALAO,630,10.5
+"Saponáceo em pó;",1317636,20,40,ATIVO,CXA,84,2.1

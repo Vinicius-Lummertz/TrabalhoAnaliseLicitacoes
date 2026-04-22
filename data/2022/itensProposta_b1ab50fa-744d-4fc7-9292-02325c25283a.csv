@@ -1,0 +1,13 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+CRONÔMETRO,8634777,1,PERDEU,UNI,41.5,41.5
+"Tapete Emborrachado",8634778,1,PERDEU,UN,394,394
+"Tenda  chapéu bruxa",8634779,1,PERDEU,UND,5998,5998
+"Aspirador de pó",8634780,1,PERDEU,UN,990,990
+Freezer,8634781,1,PERDEU,UNI,4795,4795
+"Furadeira de Impacto",8634782,1,PERDEU,UND,559,559
+GELADEIRA,8634783,1,PERDEU,UND,3109.5,3109.5
+"Lavadora da alta pressão",8634784,1,PERDEU,UN,1507,1507
+Biombo,8634785,1,PERDEU,UN,829,829
+"Flipshart com Papel",8634789,1,VENCEU,UN,199.5,199.5
+Persiana,8634791,3,PERDEU,UNID,4047,1349
+"HD externo 4TB",8634793,1,VENCEU,UNID,569.5,569.5

@@ -1,0 +1,68 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Geladeira e freezer/ Bebedouro mão de obra para manutenção d",0,350,VENCEU," ",42000,120
+"Geladeira e freezer/ Bebedouro carga de gás R-12/R-134 para",0,30,VENCEU," ",6600,220
+"Geladeira e freezer/ Bebedouro capacitor para geladeira e fr",0,10,VENCEU," ",450,45
+"Geladeira e freezer/ Bebedouro damper controle",0,15,VENCEU," ",750,50
+"Geladeira e freezer/ Bebedouro kit sensor",0,15,VENCEU," ",825,55
+"Geladeira e freezer/ Bebedouro lampada para geladeira/freeze",0,20,VENCEU," ",300,15
+"Geladeira e freezer/ Bebedouro motores (compressor)",0,10,VENCEU," ",6100,610
+"Geladeira e freezer/ Bebedouro módulos para geladeira e free",0,6,VENCEU," ",870,145
+"Geladeira e freezer/ Bebedouro resistencia 220v",0,15,VENCEU," ",1800,120
+"Geladeira e freezer/ Bebedouro borracha porta geladeira e fr",0,15,VENCEU," ",1950,130
+"Geladeira e freezer/ Bebedouro micro motor para geladeira e",0,5,VENCEU," ",350,70
+"Geladeira e freezer/ Bebedouro rede de sensor",0,15,VENCEU," ",750,50
+"Geladeira e freezer/ Bebedouro termostato",0,10,VENCEU," ",800,80
+"Geladeira e freezer/ Bebedouro bimetal",0,4,VENCEU," ",240,60
+"Geladeira e freezer/ Bebedouro filtro secador",0,4,VENCEU," ",120,30
+"Geladeira e freezer/ Bebedouro protetor termico",0,4,VENCEU," ",180,45
+"Geladeira e freezer/ Bebedouro controlador de temperatura",0,30,VENCEU," ",4950,165
+"MANUTENÇÃO FOGÃO Mão de obra para manutenção de equipamentos",0,50,VENCEU," ",4950,99
+"MANUTENÇÃO FOGÃO Termostato para forno elétrico",0,5,VENCEU," ",594,118.8
+"MANUTENÇÃO FOGÃO Bicos injetores",0,10,VENCEU," ",118.8,11.88
+"MANUTENÇÃO FOGÃO Abraçadeira BD 2 1/2",0,5,VENCEU," ",27.7,5.54
+"MANUTENÇÃO FOGÃO Cotovelo latão MF 1/2 para Fogão",0,10,VENCEU," ",118.8,11.88
+"MANUTENÇÃO FOGÃO Cachimbo longo para fogão",0,5,VENCEU," ",99,19.8
+"MANUTENÇÃO FOGÃO Cachimbo curto para fogão",0,5,VENCEU," ",103.95,20.79
+"MANUTENÇÃO FOGÃO Espalhador pequeno para fogão",0,2,VENCEU," ",43.56,21.78
+"MANUTENÇÃO FOGÃO Espalhador Grande para fogão",0,2,VENCEU," ",71.28,35.64
+"MANUTENÇÃO FOGÃO Mangueira malha de aço 1,50mts para fogão i",0,2,VENCEU," ",128.7,64.35
+"MANUTENÇÃO FOGÃO Mangueira ponta borracha P13 para fogão ind",0,2,VENCEU," ",128.7,64.35
+"MANUTENÇÃO FOGÃO Mangueira ponta rosca P45",0,2,VENCEU," ",102.96,51.48
+"MANUTENÇÃO FOGÃO Usina Para Fogão",0,2,VENCEU," ",102.96,51.48
+"MANUTENÇÃO FOGÃO Registro torneira para fogão industrial",0,5,VENCEU," ",193.05,38.61
+"MANUTENÇÃO LAVADORAS Mão de Obra Para Manutenção de Equipame",0,20,VENCEU," ",2376,118.8
+"MANUTENÇÃO LAVADORAS Placa Eletrônica Inter Face",0,3,VENCEU," ",549.45,183.15
+"MANUTENÇÃO LAVADORAS Placa de Potencia",0,3,VENCEU," ",876.15,292.05
+"MANUTENÇÃO LAVADORAS Motores Elétricos",0,3,VENCEU," ",816.75,272.25
+"MANUTENÇÃO LAVADORAS Pressostato",0,3,VENCEU," ",148.5,49.5
+"MANUTENÇÃO LAVADORAS Eletrobomba",0,3,VENCEU," ",237.6,79.2
+"MANUTENÇÃO LAVADORAS Eletroválvula",0,3,VENCEU," ",252.45,84.15
+"MANUTENÇÃO LAVADORAS Correia",0,3,VENCEU," ",57.03,19.01
+"MANUTENÇÃO LAVADORAS Atuador de Freio",0,3,VENCEU," ",222.75,74.25
+"MANUTENÇÃO LAVADORAS Chave Rotativa Consul",0,3,VENCEU," ",112.86,37.62
+"MANUTENÇÃO LAVADORAS Válvula Solenoide Atuadora",0,3,VENCEU," ",178.2,59.4
+"MANUTENÇÃO LAVADORAS Mangueira de saída",0,3,VENCEU," ",59.4,19.8
+"MANUTENÇÃO LAVADORAS Mangueira de Entrada",0,3,VENCEU," ",59.4,19.8
+"MANUTENÇÃO LAVADORAS Termo Atuador",0,3,VENCEU," ",178.2,59.4
+"MANUTENÇÃO LAVADORAS Mecanismo Completo",0,3,VENCEU," ",1262.25,420.75
+"MANUTENÇÃO LAVADORAS Chave Seletora",0,3,VENCEU," ",115.83,38.61
+"MANUTENÇÃO LAVADORAS Chicote Superior",0,3,VENCEU," ",201.96,67.32
+"MANUTENÇÃO LAVADORAS Retentor Tubo",0,3,VENCEU," ",56.43,18.81
+"MANUTENÇÃO LAVADORAS Selo Mecânico",0,3,VENCEU," ",133.65,44.55
+"MANUTENÇÃO LAVADORAS Kit Retentor",0,3,VENCEU," ",136.62,45.54
+"MANUTENÇÃO LAVADORAS Vara Suspensão",0,3,VENCEU," ",118.8,39.6
+"MANUTENÇÃO LAVADORAS Agitador",0,3,VENCEU," ",291.06,97.02
+"MANUTENÇÃO LAVADORAS Placa De Controle",0,3,VENCEU," ",540.54,180.18
+"MANUTENÇÃO MICROONDAS Mão de Obra Para Manutenção de Equipam",0,80,VENCEU," ",8000,100
+"MANUTENÇÃO MICROONDAS Apoio Prato",0,5,VENCEU," ",82.5,16.5
+"MANUTENÇÃO MICROONDAS Cabo de Força",0,6,VENCEU," ",137.4,22.9
+"MANUTENÇÃO MICROONDAS Capacitor",0,6,VENCEU," ",282,47
+"MANUTENÇÃO MICROONDAS Diodo Terminal Largo",0,5,VENCEU," ",140,28
+"MANUTENÇÃO MICROONDAS Magnetron",0,2,VENCEU," ",280,140
+"MANUTENÇÃO MICROONDAS Guia de Ondas",0,10,VENCEU," ",250,25
+"MANUTENÇÃO MICROONDAS Lâmpada",0,10,VENCEU," ",210,21
+"MANUTENÇÃO MICROONDAS Transformadora Tensão 220 v",0,6,VENCEU," ",810,135
+"MANUTENÇÃO MICROONDAS Rodizio",0,4,VENCEU," ",64,16
+"MANUTENÇÃO MICROONDAS Prato Para Microondas",0,4,VENCEU," ",240,60
+"MANUTENÇÃO MICROONDAS Membrana Microondas",0,10,VENCEU," ",490,49
+"MANUTENÇÃO MICROONDAS Motor Prato",0,10,VENCEU," ",250,25

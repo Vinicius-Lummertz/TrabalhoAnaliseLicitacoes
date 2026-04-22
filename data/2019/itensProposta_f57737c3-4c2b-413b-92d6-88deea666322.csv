@@ -1,0 +1,34 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apontador sem depósito",4383873,780,VENCEU,UND,109.2,0.14
+"Caderno brochura (pequeno) 1/4 capa dura.",4383881,525,VENCEU,UND,997.5,1.9
+"Caderno espiral (pequeno) 1/4 capa dura.",4383882,460,VENCEU,UND,1237.4,2.69
+"Caderno Universitario capa dura.",4383883,560,VENCEU,UND,2167.2,3.87
+"Caneta destaca texto.",4383888,380,INABILITADO,CX,323,0.85
+"Caneta esferografica azul ponta fina",4383889,496,PERDEU,CX,12400,25
+"Caneta esferografica preta ponta fina",4383890,155,PERDEU,CX,3875,25
+"Caneta esferografica vermelha ponta fina",4383892,42,PERDEU,CX,1050,25
+"Cola bastão minimo 40 gr",4383901,430,VENCEU,UND,503.1,1.17
+"Cola bastão minimo 8 gr",4383902,350,VENCEU,UND,178.5,0.51
+"Cola Branca não toxica",4383903,216,VENCEU,UND,241.92,1.12
+"Corretivo em fita de 5mm x 5.5 mts",4383905,738,PERDEU,UND,2140.2,2.9
+"CORRETIVO LIQUIDO",4383906,95,INABILITADO,CX,80.75,0.85
+"Fita adesiva branca.",4383913,172,PERDEU,UND,387,2.25
+"Fita adesiva marron.",4383914,590,VENCEU,UND,1947,3.3
+"Fita adesiva plastica transparente 12mm x 30 mts",4383915,870,VENCEU,UND,348,0.4
+"Fita adesiva plastica transparente 48 mm x 50 mts",4383916,940,VENCEU,UND,2209,2.35
+"Grampeador para papeis 18 - 20cm",4383921,78,VENCEU,UND,2652,34
+"Grampeador para papeis 14 - 17cm",4383922,370,VENCEU,UND,3159.8,8.54
+"Grampo para grampeador galvanizado 26/6",4383924,415,PERDEU,CX,1203.5,2.9
+"Lápis preto de grafite nº 2 .",4383927,85,VENCEU,CX,1700,20
+"Lápis preto grafite para desenho número 4B.",4383928,168,PERDEU,UND,78.96,0.47
+"Marcador para quadro branco.",4383935,650,VENCEU,UND,812.5,1.25
+"Marcador permanente .",4383936,117,VENCEU,UND,146.25,1.25
+"Pasta arquivo de A-Z  tamanho oficio",4383941,376,PERDEU,UND,3105.76,8.26
+"Pincel atomico com pontas facetadas.",4383959,700,VENCEU,UND,770,1.1
+"Régua escritório.",4383967,400,VENCEU,UND,272,0.68
+"Tesoura Doméstica",4383970,330,VENCEU,UND,1089,3.3
+"Papel Sulfite Colorido (tonalidade Azul,) Tamanho A4",4383973,45,PERDEU,PCT,191.25,4.25
+"Papel Sulfite Colorido (tonalidade Rosa,) Tamanho A4",4383974,45,PERDEU,PCT,191.25,4.25
+"Papel Sulfite Colorido (tonalidade Amarelo,) Tamanho A4",4383975,45,PERDEU,PCT,191.25,4.25
+"Papel Sulfite Colorido (tonalidade Verde,) Tamanho A4",4383977,45,PERDEU,PCT,191.25,4.25
+"Papel Sulfite  Tamanho A4, Recoclado",4383978,20,PERDEU,PCT,400,20

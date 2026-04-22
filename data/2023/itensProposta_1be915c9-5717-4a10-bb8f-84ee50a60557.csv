@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP, de cobre, bitola 3 x 2,5mm2, isolamento 1KV",10967520,5000,PERDEU,M,33500,6.7
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 100W / Branco. Vida útil: 25.000 horas",10967630,100,PERDEU,UND,5090,50.9
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 200W / Branco. Vida útil: 25.000 horas",10967632,100,PERDEU,UND,7698,76.98
+"Refletor em LED com grau de proteção IP 65, Tensão 220V- Potência 50W / Branco. Vida útil: 25.000 horas",10967634,100,PERDEU,UND,3220,32.2
+"Cabo PP, de cobre, bitola 3 x 2,5mm, isolamento 1KV",10967674,220,PERDEU,M,1474,6.7
+"Luminária tipo pública para uso externo em LED 120W - 5000K",10967693,20,VENCEU,UND,5938,296.9
+"Refletor LED para uso externo 100W",10967694,20,VENCEU,UND,960,48
+"Luminária tipo pública em LED 150W (5000K)",10967714,9,VENCEU,UND,2227.05,247.45
+"Luminária tipo pública em LED 60W (5000K)",10967715,7,VENCEU,UND,1076.95,153.85

@@ -1,0 +1,103 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"PMC Planejamento Público",0,12,VENCEU," ",37422,3118.5
+"PMC Contabilidade Pública",0,12,VENCEU," ",134719.2,11226.6
+"PMC Compras, Licitações e Contratos",0,12,VENCEU," ",64864.8,5405.4
+"PMC Tesouraria",0,12,VENCEU," ",18711,1559.25
+"PMC Folha de Pagamento",0,12,VENCEU," ",220789.8,18399.15
+"PMC Patrimônio Público",0,12,VENCEU," ",19958.4,1663.2
+"PMC Frotas e Veículos",0,12,VENCEU," ",19958.4,1663.2
+"PMC Almoxarifado",0,12,VENCEU," ",19958.4,1663.2
+"PMC Tributação Pública Municipal",0,12,VENCEU," ",271309.56,22609.13
+"PMC Nota Fiscal Eletrônica",0,12,VENCEU," ",358627.56,29885.63
+"PMC Escrituração Eletrônica do ISS",0,12,VENCEU," ",123492.6,10291.05
+"PMC Atendimento ao Cidadão",0,12,VENCEU," ",93555,7796.25
+"PMC Procuradoria e Processos",0,12,VENCEU," ",62370,5197.5
+"PMC Protocolo",0,12,VENCEU," ",82328.4,6860.7
+"PMC Gestão de Custos",0,12,VENCEU," ",26195.4,2182.95
+"PMC Obras Públicas",0,12,VENCEU," ",21205.8,1767.15
+"PMC Portal da Transparência",0,12,VENCEU," ",49272.36,4106.03
+"PMC E-Social",0,12,VENCEU," ",47401.2,3950.1
+"PMC Painel de Indicadores",0,12,VENCEU," ",37422,3118.5
+"PMC Controle Interno",0,12,VENCEU," ",46153.8,3846.15
+"PMC Gestão Fiscal",0,12,VENCEU," ",144698.4,12058.2
+"FCC Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FCC Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FCC Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FCC Patrimônio",0,12,VENCEU," ",5862.84,488.57
+"FCC Folha de Pagamento",0,12,VENCEU," ",18711,1559.25
+"FCC Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FCC E-Social",0,12,VENCEU," ",5239.08,436.59
+"FCC Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FAMCRI Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FAMCRI Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FAMCRI Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FAMCRI Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FAMCRI Folha de Pagamento",0,12,VENCEU," ",18711,1559.25
+"FAMCRI Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FAMCRI E-Social",0,12,VENCEU," ",5239.08,436.59
+"FAMCRI Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FME Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FME Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FME Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FME Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FME Folha de pagamento",0,12,VENCEU," ",18711,1559.25
+"FME Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FME E-Social",0,12,VENCEU," ",5239.08,436.59
+"FME Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMS Contabilidade Pública",0,12,VENCEU," ",16091.52,1340.96
+"FMS Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMS Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMS Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMS Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMS Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"HMI Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"HMI Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"HMI Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"HMI Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"HMI Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"HMI Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMAS Contabilidade Pública",0,12,VENCEU," ",16091.52,1340.96
+"FMAS Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMAS Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMAS Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMAS Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMAS Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMC Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMC Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMC Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMC Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMC Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMC Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMCC Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMCC Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMCC Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMCC Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMCC Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMCC Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMICC Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMICC Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMICC Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMICC Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMICC Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMICC Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMMAC Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMMAC Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMMAC Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMMAC Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMMAC Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMMAC Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMHIS Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMHIS Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMHIS Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMHIS Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMHIS Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMHIS Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"FMSB Contabilidade Pública",0,12,VENCEU," ",12349.32,1029.11
+"FMSB Compras, Licitações e Contratos",0,12,VENCEU," ",7484.4,623.7
+"FMSB Tesouraria",0,12,VENCEU," ",7234.92,602.91
+"FMSB Patrimônio Público",0,12,VENCEU," ",5862.84,488.57
+"FMSB Portal da Transparência",0,12,VENCEU," ",5239.08,436.59
+"FMSB Obras Públicas",0,12,VENCEU," ",3617.52,301.46
+"Serviços de migração de dados, implantação de sistemas e tre",0,1,VENCEU," ",207900,207900
+"Serviços Suplementares de suporte técnico, quando necessário",0,350,VENCEU," ",53847.5,153.85
+"Serviços de customizações específicas da contratante",0,350,VENCEU," ",34562.5,98.75

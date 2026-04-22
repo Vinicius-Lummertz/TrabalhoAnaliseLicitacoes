@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Saco para coleta de resíduos sólidos infectantes100 Litros.",1302812,101,1500,ATIVO,PACOTE,51000,34
+"Saco para coleta de resíduos sólidos infectantes30 Litros.",1302813,102,1500,ATIVO,PACOTE,24750,16.5
+"Saco para coleta de resíduos sólidos infectantes50 Litros.",1306927,103,2000,ATIVO,PACOTE,49180,24.59

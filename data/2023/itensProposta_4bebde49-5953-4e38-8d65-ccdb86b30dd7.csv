@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,42000,0.06
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",11967169,3000,PERDEU,AM,5850,1.95
+"Água destilada 5mL ampola.",11967171,20000,PERDEU,AMP,9000,0.45
+"Brometo de ipratrópio 0,250mg/mL",11967199,2000,PERDEU,FR.,8940,4.47
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,8650,1.73
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,14880,4.96
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,75000,0.05
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,14100,2.82
+"Clonazepam 2,5mg/mL 20ml",11967228,6000,PERDEU,FR.,21780,3.63
+"Diazepam 5mg/ml solução injetavel 2ml",11967251,4000,PERDEU,AMP,5120,1.28
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,7560,1.89
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,120000,0.06
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,56000,0.14
+"Fentanila 0,05mg/ml, inejtável, ampola 10ml.",11967280,2000,PERDEU,AM,8980,4.49
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",11967284,500,PERDEU,AMP,6000,12
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,85000,0.1
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,500000,0.1
+"Midazolam, maleato 5mg/mL injetável, ampola 3ml.",11967351,2000,PERDEU,AMP,6300,3.15
+"midazolam, maleato 5mg/ml injetável, ampola 10ml.",11967352,1000,PERDEU,AM,5220,5.22
+"Naloxona, Hidrocloreto 0,4mg/mL injetável, ampola 1ml.",11967356,500,PERDEU,AMP,3755,7.51
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",11967368,4000,PERDEU,AMP,12320,3.08
+"Propranolol 40mg cpr, em blister.",11967381,1000000,PERDEU,COMP,70000,0.07
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",11967406,2000,PERDEU,AMP,8700,4.35

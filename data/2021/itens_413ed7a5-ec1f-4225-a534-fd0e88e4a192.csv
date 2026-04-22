@@ -1,0 +1,35 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+",Apagador para quadro branco",1359428,1,2,ATIVO,UNIDADE,12,6
+Atilho,1359429,2,2,ATIVO,CAIXA,10.2,5.1
+"Bloco de recados grande",1359430,3,20,ATIVO,EMBALAGEM,84,4.2
+"Blocos de recados pequeno",1359431,4,20,ATIVO,EMBALAGEM,84,4.2
+"Bobina Termica",1359432,5,50,ATIVO,UNIDADE,255,5.1
+"Caixa arquivo morto desmontável",1359433,6,100,ATIVO,UNIDADE,480,4.8
+"Caneta permanente",1359434,7,10,ATIVO,UNIDADE,42.5,4.25
+"Caneta corretivo",1359435,8,5,ATIVO,UNIDADE,34.25,6.85
+"Caneta esferografica azul;",1359436,9,100,ATIVO,UNIDADE,90,0.9
+"Caneta esferográfica vermelha;",1359437,10,50,ATIVO,UNIDADE,45,0.9
+"Caneta esferográfica preta;",1359438,11,50,ATIVO,UNIDADE,45,0.9
+"CANETA MARCA TEXTO",1359439,12,50,ATIVO,UNIDADE,135,2.7
+"Clipes para papel n.º 1",1359440,13,5,ATIVO,CAIXA,54.25,10.85
+"Clipes para papéis n.º 3/0",1359441,14,5,ATIVO,CAIXA,54.25,10.85
+"Clipes para papéis n.º 8/0",1359442,15,5,ATIVO,CAIXA,54.25,10.85
+"COLA EM BASTAO",1359443,16,10,ATIVO,UNIDADE,64.5,6.45
+COLA,1359444,17,10,ATIVO,UNIDADE,64.5,6.45
+"Envelope Saco na cor parda 162 x 229",1359445,18,5,ATIVO,CAIXA,235.5,47.1
+"Envelope pardo 240 x 340",1359446,19,5,ATIVO,CAIXA,280,56
+"Etiqueta adesiva",1359447,21,2,ATIVO,CAIXA,134,67
+"Fita adesiva 45 MM",1359448,22,10,ATIVO,UNIDADE,49,4.9
+"Fita auto adesiva crepe",1359449,23,15,ATIVO,UNIDADE,165,11
+"Grampeador de mesa pequeno",1359450,38,10,ATIVO,UNIDADE,270,27
+"Marcador para quadro branco.",1359451,40,15,ATIVO,UNIDADE,164.25,10.95
+"Perfurador para papel",1359452,42,2,ATIVO,UNIDADE,54,27
+"Pilhas AA",1359453,43,100,ATIVO,EMBALAGEM,540,5.4
+"Pilhas AAA",1359454,45,120,ATIVO,EMBALAGEM,648,5.4
+"Plástico autoadesivo transparente",1359455,46,2,ATIVO,ROLO,185.6,92.8
+"Prancheta para anotações",1359456,47,15,ATIVO,UNIDADE,225,15
+"TESOURA GRANDE",1359457,48,2,ATIVO,UNIDADE,30,15
+"Tesoura média",1359458,49,2,ATIVO,UNIDADE,16,8
+"Tinta Carimbo Preta",1359459,50,2,ATIVO,UNIDADE,13.6,6.8
+"Tinta Carimbo Vermelha",1359460,51,2,ATIVO,UNIDADE,13.6,6.8
+"Escaninho para correspondência",1359461,52,2,ATIVO,UNIDADE,118.8,59.4

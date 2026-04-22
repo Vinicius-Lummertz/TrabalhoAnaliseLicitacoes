@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+ACETILENO,0,50,VENCEU," ",1995,39.9
+MISTURA,0,135,VENCEU," ",2362.5,17.5
+OXIGÊNIO,0,220,VENCEU," ",2200,10

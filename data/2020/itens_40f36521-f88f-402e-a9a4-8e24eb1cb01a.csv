@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",1267910,1,130000,ATIVO,COMPRIMIDO,22828,0.1756
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",1268066,2,12000,ATIVO,BISNAGA,21240,1.77
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral",1268067,24,15000,ATIVO,FRASCO,34500,2.3
+"Atenolol 50mg cpr, em blister.",1268068,30,1800000,ATIVO,COMPRIMIDO,108000,0.06
+"Dipirona 500mg cpr, em blister.",1268069,98,2000000,ATIVO,COMPRIMIDO,240000,0.12
+"Doxazosina 2 mg cpr, em blister.",1268070,102,150000,ATIVO,COMPRIMIDO,15000,0.1
+"Eritromicina 50mg/mL suspensão oral,  frasco 60ml.",1268071,108,500,ATIVO,FRASCO,2125,4.25
+"Furosemida 40mg cpr, em blister.",1268072,128,680000,ATIVO,COMPRIMIDO,47600,0.07
+"Metformina 500mg cpr, em blister.",1268073,176,1400000,ATIVO,COMPRIMIDO,107800,0.077
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",1268074,187,5000,ATIVO,BISNAGA,21500,4.3
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",1268075,195,25000,ATIVO,BISNAGA,44250,1.77
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",1268076,198,6000,ATIVO,FRASCO,22980,3.83
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",1268077,210,2200000,ATIVO,COMPRIMIDO,171600,0.078
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",1268078,226,1000,ATIVO,FRASCO,9100,9.1

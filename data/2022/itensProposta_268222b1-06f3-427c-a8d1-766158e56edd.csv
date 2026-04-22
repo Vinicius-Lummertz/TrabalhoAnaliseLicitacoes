@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Freezer,8634781,1,PERDEU,UNI,3650,3650
+"Furadeira de Impacto",8634782,1,PERDEU,UND,579,579
+GELADEIRA,8634783,1,VENCEU,UND,2990,2990
+"Lavadora da alta pressão",8634784,1,PERDEU,UN,1320,1320
+"HD externo 4TB",8634793,1,PERDEU,UNID,830,830

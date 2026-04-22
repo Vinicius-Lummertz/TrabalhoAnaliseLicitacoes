@@ -1,0 +1,14 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Serviço de Digitalização",1299149,90,500,ATIVO,"METRO LINEAR",2950,5.9
+"Encadernação Espiral capa Flexivel de 100 folhas à 200 folha",1299150,87,100,ATIVO,UNIDADE,400,4
+"Bloco Personalizado Carbonado",1299151,82,10,ATIVO,CAIXA,6990,699
+"Folha A4 Timbrada",1301225,79,300,ATIVO,RESMA,21000,70
+"Fita auto adesiva crepe",1301226,76,25,ATIVO,UNIDADE,255,10.2
+"Impressão A4 Colorida",1303297,84,1000,ATIVO,UNIDADE,2300,2.3
+"Bloco Personalizado",1303298,81,15,ATIVO,CAIXA,5535,369
+"Impressão A4 Preto e Branco",1305327,83,2500,ATIVO,UNIDADE,475,0.19
+"Encadernação Capa Dura Colorida",1307370,89,3,ATIVO,UNIDADE,180,60
+"Encadernação Espiral capa Flexível até 100 folhas",1309381,86,100,ATIVO,UNIDADE,300,3
+"Fita de Isolamento Personalizada",1309387,80,4,ATIVO,CAIXA,3596,899
+"Encadernação Espiral capa Flexível acima de 200 folhas",1313420,88,100,ATIVO,UNIDADE,500,5
+"Impressão Colorida de Certificados",1317637,85,200,ATIVO,UNIDADE,800,4

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Popular Motor flex",4401486,17,VENCEU,UND,926500,54500
+"Furgão Motor flex",4401487,4,PERDEU,UND,314400,78600
+"Pick up Motor Flex",4401488,3,NAO_COTOU,UND,0,0
+"Van Motorização",4401489,2,NAO_COTOU,UND,0,0

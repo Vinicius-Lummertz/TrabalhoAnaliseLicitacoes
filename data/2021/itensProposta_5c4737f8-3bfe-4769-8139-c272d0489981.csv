@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carro de Emergência hospitalar com suporte de cilindro de oxigênio, com velcro, tábua  de massagem cardíaca em acrílico ou polietileno",5395743,3,VENCEU,UND,19200,6400
+"Conjunto Micro Nebulizador para Oxigênio,   máscara  adulto",5395747,24,VENCEU,CJ,276,11.5
+"Conjunto para nebulização Ar Comprimido,  máscara  adulto",5395748,24,VENCEU,CJ,283.2,11.8
+"Conjunto Micro Nebulizador para Oxigênio, máscara  infantil.",5395749,16,VENCEU,CJ,184,11.5
+"Conjunto para nebulização Ar Comprimido, máscara  infantil",5395750,16,VENCEU,CJ,188.8,11.8
+"Estetoscópio adulto duo sonic",5395754,20,PERDEU,UNI,2200,110
+"Estetoscópio pediátrico duo sonic",5395755,10,PERDEU,UNI,1100,110
+"Ressuscitador manual adulto, silicone, capac.1.500ml, completo com reservatório de oxigênio",5395757,12,PERDEU,UND,3156,263
+"Ressuscitador manual infantil, silicone, capac. 500 ml, completo com reservatório de oxigênio",5395758,6,PERDEU,UND,1578,263
+"Compressor odontológico em ferro fundido",5395762,5,PERDEU,UN,41000,8200
+"Oximetro de Pulso Portátil de mesa, com Curva Pletismografic",5395772,12,PERDEU,UN,34800,2900
+"Detector de batimento cardíaco fetal digital portátil",5395774,7,DESCLASSIFICADO,UN,6720,960
+"Bomba de vácuo: Voltagem 127/220V",5395783,5,VENCEU,UN,16750,3350
+"Autoclave esterilização a vapor",5395785,3,VENCEU,UNI,51000,17000

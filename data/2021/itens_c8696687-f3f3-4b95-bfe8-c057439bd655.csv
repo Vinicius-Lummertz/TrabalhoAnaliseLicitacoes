@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Calçado ocupacional do tipo Botina de Segurança",1299245,9,200,ATIVO,UNIDADE,15590,77.95
+"Protetor auditivo do tipo concha",1301336,37,70,ATIVO,UNIDADE,1498,21.4
+"Cone 50 cm preto/amarelo",1307481,16,75,ATIVO,UNIDADE,960,12.8
+"Luva algodão pigmentada 4 fios (CA Referência CA 10464)",1313521,21,500,ATIVO,PAR,1025,2.05
+"Protetor facial de segurança",1315668,39,15,ATIVO,UNIDADE,472.5,31.5

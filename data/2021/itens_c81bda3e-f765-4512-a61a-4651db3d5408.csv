@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",2218860,7,6000,ATIVO,FRASCO,25500,4.25
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",2218861,57,180000,ATIVO,FRASCO,9000,0.05
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",2218862,58,800000,ATIVO,COMPRIMIDO,39120,0.0489
+"Carvedilol 3,125 mg cpr, em blister.",2218863,63,60000,ATIVO,COMPRIMIDO,6000,0.1

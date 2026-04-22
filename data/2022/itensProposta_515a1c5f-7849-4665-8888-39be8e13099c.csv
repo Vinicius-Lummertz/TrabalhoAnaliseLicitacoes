@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool etílico 70° antisséptico, frasco 1lt",8483335,13500,PERDEU,UNI,76140,5.64
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",8483375,1500,PERDEU,PCT,133500,89
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",8483376,1200,PERDEU,PCT,90000,75
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, pacote c/ 10 unidades.",8483379,637500,PERDEU,PCT,487050,0.764
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",8483419,15000,VENCEU,UNI,46500,3.1
+"Luva de Látex não esteril tamanho P",8483454,3750,PERDEU,CX,59943.75,15.985
+"Luva de Látex não esteril tamanho M.",8483455,6000,PERDEU,CX,95910,15.985
+"Luva Nitrílica não esteril para procedimento tamanho P.",8483458,3375,PERDEU,CX,51873.75,15.37
+"Luva Nitrílica não esteril para procedimento tamanho M",8483459,3375,PERDEU,CX,51873.75,15.37
+"Preservativos Masculinos de 52 mm, com lubrificante",8483473,187500,PERDEU,UN,55687.5,0.297
+"Sonda uretral nº 12 descartável",8483523,101250,PERDEU,UN,54978.75,0.543

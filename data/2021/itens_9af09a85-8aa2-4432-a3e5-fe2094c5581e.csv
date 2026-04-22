@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Papel toalha interfolhado",1303429,1,8000,ATIVO,FARDO,59360,7.42
+"Papel toalha interfolhado",1315694,2,29000,ATIVO,FARDO,215180,7.42
+"Guardanapo de papel branco",1319768,4,115,ATIVO,CAIXA,4481.55,38.97

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Medicação para eutanásia",4446050,5,CANCELADO,FR.,3545,709
+"Coleiras repelentes P",4446051,100,CANCELADO,UN,5289,52.89
+"Coleiras repelentes G",4446052,100,CANCELADO,UN,5589,55.89
+"Sedativo injetável - Acepromazina 0,2%",4446054,6,PERDEU,FR.,256.92,42.82
+"Anestésico injetável - Cetamina 10%",4446055,12,VENCEU,FR.,478.8,39.9
+"Anestésico injetável - Xilazina 2%",4446056,12,PERDEU,FR.,334.8,27.9

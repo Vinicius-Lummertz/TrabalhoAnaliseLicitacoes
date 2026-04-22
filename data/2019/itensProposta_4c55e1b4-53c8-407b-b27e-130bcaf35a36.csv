@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Porta agulha Mayo-Hager 15 cm",4440233,100,VENCEU,UN,2089,20.89
+"Tesoura cirúrgica IRIS, ponta fina, 11,5",4440243,100,PERDEU,UN,1529,15.29
+"Tesoura cirúrgica Mayo reta, 14 cm",4440244,30,PERDEU,UN,764.7,25.49
+"Pinça Hemostática kelly",4440247,10,VENCEU,UN,225.6,22.56
+"Pinça Mosquito 12cm",4440248,10,VENCEU,UN,197.7,19.77
+"Coletor de material perfuro cortante",4440249,60,PERDEU,CX,1128,18.8
+"Pinça Hemostática kelly curva com 16cm",4440250,10,VENCEU,UN,267.4,26.74
+"Tesoura Metzenbaum Curva 15cm",4440268,5,VENCEU,UN,149,29.8
+"Abaixador de lingua descartável",4440277,120,DESCLASSIFICADO,PCT,1048.8,8.74
+"Álcool 70 % Alcool etílico hidratado.Embalagem de 1 litro.",4440281,1500,PERDEU,LT,5400,3.6
+"Álcool 96 gl 01 L cx c/ 12 un",4440282,120,PERDEU,CX,622.8,5.19
+"Compressas de Gaze Hidrófila",4440363,1800,VENCEU,PCT,32400,18
+"Detergente Multienzimático",4440392,330,PERDEU,GL,22440,68
+"Escova dental adulto;",4440398,50,VENCEU,PCT,1575,31.5
+"Escova dental infantil macia",4440399,50,VENCEU,PCT,1425,28.5
+"Fio agulhado nylon, preto 3.0/EP2",4440408,380,PERDEU,CX,10735,28.25
+"Fio agulhado seda, 3.0/EP2",4440409,350,PERDEU,CX,13758.5,39.31
+"FITA AUTOCLAVE",4440411,100,PERDEU,RL,480,4.8
+"Gorros descartáveis tipo touca com elástico",4440423,400,DESCLASSIFICADO,PCT,2700,6.75
+"Haste flexível em algodão (cotonete)",4440425,150,DESCLASSIFICADO,CX,457.5,3.05
+"Indicador Biológico sensível",4440430,500,PERDEU,CX,14285,28.57
+"Luva de Látex não esteril tamanho PP",4440478,1000,VENCEU,CX,15150,15.15
+"Luva de Látex não esteril tamanho P",4440479,1300,VENCEU,CX,19695,15.15
+"Luva de Látex não esteril tamanho M.",4440480,600,VENCEU,CX,9090,15.15
+"Luva de Látex não esteril tamanho G",4440481,50,VENCEU,CX,757.5,15.15
+"Luva cirurgica Látex tamanho 6,5",4440484,1500,DESCLASSIFICADO,PCT,1800,1.2
+"Luva cirurgica Látex tamanho 8,0",4440485,1650,DESCLASSIFICADO,PCT,1980,1.2
+"Papel Crepado em folhas 40 x 40 cm",4440500,30,DESCLASSIFICADO,CX,2472,82.4
+"Papel grau cirúrgico 10 cm x 100m",4440503,130,CANCELADO,BO,4706,36.2
+"Papel grau cirúrgico 25 cm x 100 m",4440504,200,CANCELADO,BO,18496,92.48

@@ -1,0 +1,51 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abaixador de língua embalado INDIVIDUALMENTE",4448052,1200,DESCLASSIFICADO,PCT,16560,13.8
+"Água destilada galão de 5 litros para uso em autoclave",4448053,1000,PERDEU,GL,6950,6.95
+"Algodão Hidrófilo, 100%.",4448065,1000,DESCLASSIFICADO,ROLO,14500,14.5
+"Ataduras de Crepom 8cm",4448071,30000,PERDEU,UN,20400,0.68
+"Ataduras de Crepom 10cm",4448072,40000,DESCLASSIFICADO,UN,34000,0.85
+"Ataduras de Crepom 12cm",4448073,40000,DESCLASSIFICADO,UN,41200,1.03
+"Ataduras de Crepom 15cm",4448074,40000,DESCLASSIFICADO,UN,51200,1.28
+"Ataduras de Crepom 20cm",4448075,20000,DESCLASSIFICADO,UN,34200,1.71
+"Ataduras de Crepom 6cm",4448076,24000,PERDEU,UN,12480,0.52
+"Cateter Intravenoso n°14 G",4448091,2000,PERDEU,UN,3020,1.51
+"Cateter Intravenoso n°16 G",4448092,3000,PERDEU,UN,4500,1.5
+"Cateter Intravenoso n°18 G",4448093,6000,PERDEU,UN,12180,2.03
+"Cateter Intravenoso n°20 G",4448094,6000,DESCLASSIFICADO,UN,12720,2.12
+"Cateter Intravenoso n°22 G",4448095,5000,DESCLASSIFICADO,UN,10600,2.12
+"Cateter Intravenoso n°24 G",4448096,3000,PERDEU,UN,6000,2
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4448101,6000,DESCLASSIFICADO,UNI,42960,7.16
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4448102,5000,DESCLASSIFICADO,UNI,24650,4.93
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4448103,2000,DESCLASSIFICADO,PCT,218000,109
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4448104,1600,DESCLASSIFICADO,PCT,61920,38.7
+"Compressa de gaze (tipo queijo) em Rolo.",4448105,250,DESCLASSIFICADO,ROLO,30500,122
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4448106,1500,DESCLASSIFICADO,PCT,49500,33
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4448107,800000,DESCLASSIFICADO,PCT,480000,0.6
+"Dispositivo para incontinência Urinária Masculina Nº05",4448112,4000,PERDEU,UN,3560,0.89
+"Dispositivo para incontinência Urinária Masculina Nº06",4448113,4000,PERDEU,UN,3560,0.89
+"Equipo 2 vias, (POLIFIX)",4448125,6000,DESCLASSIFICADO,UN,6420,1.07
+"Equipo para nutrição enteral ESCALONADO",4448126,42000,DESCLASSIFICADO,UN,100800,2.4
+"Equipo tipo Macrogotas para solução parental 20 gotas/ml",4448127,30000,DESCLASSIFICADO,UN,76500,2.55
+"Equipo tipo Macrogotas para solução parental 60 gotas/ml",4448128,1000,DESCLASSIFICADO,UN,2800,2.8
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 10cmx4,5m",4448129,7200,DESCLASSIFICADO,UN,68400,9.5
+"Esparadrapo Impermeável e Hipoalérgico, com capa, 5cmx4,5m",4448130,7200,PERDEU,UN,33120,4.6
+"Fita adesiva para teste de esterilização em Autoclave",4448145,700,DESCLASSIFICADO,UNI,2870,4.1
+"Fita Cirúrgica Microporosa Hipoalergênica largura 2,5cm x 4,",4448146,8000,DESCLASSIFICADO,UNI,19200,2.4
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,",4448147,14000,DESCLASSIFICADO,UNI,53200,3.8
+"Luva Plástica Estéril Descartável",4448179,1200,PERDEU,PCT,14880,12.4
+"Manta Térmica Aluminizada",4448180,1000,PERDEU,UND,4700,4.7
+"Óculos para proteção profissional",4448184,500,PERDEU,UND,2250,4.5
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4448201,8000,PERDEU,UNI,4160,0.52
+"Sonda aspiração traqueal nº 08 em PVC, descartável",4448202,20000,PERDEU,UNI,10400,0.52
+"Sonda aspiração traqueal nº 10 em PVC, descartável",4448203,15000,PERDEU,UNI,7500,0.5
+"Sonda aspiração traqueal nº 12 em PVC, descartável",4448204,15000,PERDEU,UNI,7650,0.51
+"Sonda aspiração traqueal nº 14 em PVC, descartável",4448205,20000,VENCEU,UNI,10800,0.54
+"Sonda aspiração traqueal nº 16 em PVC, descartável",4448206,1000,VENCEU,UNI,570,0.57
+"Sonda uretral nº 06, descartável",4448235,6000,DESCLASSIFICADO,UNI,3480,0.58
+"Sonda uretral nº 08, descartável",4448236,24000,DESCLASSIFICADO,UNI,14640,0.61
+"Sonda uretral nº 10 descartável",4448237,36000,DESCLASSIFICADO,UN,22320,0.62
+"Sonda uretral nº 12 descartável",4448238,135000,DESCLASSIFICADO,UN,83700,0.62
+"Sonda uretral nº 14 descartável",4448239,36000,DESCLASSIFICADO,UN,22320,0.62
+"Sonda uretral nº 16 descartável",4448240,2000,DESCLASSIFICADO,UN,1560,0.78
+"TERMOMETRO CLINICO DIGITAL",4448255,150,PERDEU,UNI,2130,14.2
+"Termômetro Clínico Digital de Testa sem contato",4448256,200,DESCLASSIFICADO,UND,50000,250

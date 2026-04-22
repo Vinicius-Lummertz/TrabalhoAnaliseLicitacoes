@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"jogo de focinheira",5883396,2,VENCEU,JG,34.56,17.28
+"Coleiras repelentes G",5883399,100,PERDEU,UN,8800,88
+"Vermífugo oral de amplo espectro para cães e gatos",5883403,100,VENCEU,CX,1028,10.28
+"Sedativo injetável - Acepromazina 0,2%",5883404,6,VENCEU,FR.,185.04,30.84
+"Anestésico injetável - Cetamina 10%",5883405,12,VENCEU,FR.,284.4,23.7
+"Anestésico injetável - Xilazina 2%",5883406,12,VENCEU,FR.,182.16,15.18

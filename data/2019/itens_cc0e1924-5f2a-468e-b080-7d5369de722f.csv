@@ -1,0 +1,27 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ked (infantil)",1298220,41,1,ATIVO,UNIDADE,178.9,178.9
+"Tesoura APH",1298221,43,5,ATIVO,UNIDADE,69.5,13.9
+"Colete azul Estagiário",1298224,61,2,ATIVO,UNIDADE,288,144
+Esparadrapo,1298225,16,80,ATIVO,UNIDADE,720,9
+"TIRANTE ARANHA.",1300297,40,10,ATIVO,UNIDADE,380,38
+"Bolsa de Atendimento Pré-hospitalar",1300300,60,3,ATIVO,UNIDADE,417,139
+"Soro Fisiológico 250ml",1300301,6,200,ATIVO,MILILITRO,760,3.8
+"Fita Hipoalérgica Microporosa",1302355,17,50,ATIVO,UNIDADE,375,7.5
+"Tala de papelão 30x20",1302356,24,20,ATIVO,CAIXA,108,5.4
+"Reanimador manual neonatal",1304436,49,3,ATIVO,UNIDADE,506.97,168.99
+"Luvas de Procedimento",1304437,10,200,ATIVO,CAIXA,3600,18
+"Tala de papelão 70x20",1304438,22,20,ATIVO,CAIXA,197,9.85
+"Reanimador manual infantil",1306456,50,3,ATIVO,UNIDADE,506.7,168.9
+"Termômetro Clínico Digital de Testa sem contato",1306458,55,3,ATIVO,UNIDADE,486,162
+"Estetoscópio Adulto",1310472,48,3,ATIVO,UNIDADE,138,46
+"Soro Fisiológico 100ml",1312493,5,300,ATIVO,MILILITRO,825,2.75
+"CORTA ANEL",1312494,56,3,ATIVO,UNIDADE,249,83
+"Colar cervical P",1312495,32,10,ATIVO,UNIDADE,124.4,12.44
+"Manta Térmica Aluminizada",1312497,15,100,ATIVO,UNIDADE,400,4
+"Máscara facial adulto",1314634,45,10,ATIVO,UNIDADE,128,12.8
+"Colete Socorrista PADRÃO CBMSC",1314635,62,15,ATIVO,UNIDADE,2145,143
+"Aparelho de Pressão Digital Automático de Braço",1314637,52,3,ATIVO,UNIDADE,448.5,149.5
+"Kit p/ queimadura",1314640,26,10,ATIVO,UNIDADE,439,43.9
+"Colar cervical G",1316701,34,5,ATIVO,UNIDADE,61.95,12.39
+"Colar cervical infantil",1316704,30,6,ATIVO,UNIDADE,74.28,12.38
+"LANTERNA CLINICA",1318724,54,10,ATIVO,UNIDADE,460,46

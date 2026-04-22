@@ -1,0 +1,7 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",1265595,229,5000,ATIVO,FRASCO,34700,6.94
+"Amoxicilina 500mg.",1265613,26,420000,ATIVO,CAPSULA,121800,0.29
+"Ciprofloxacino 500mg cpr.",1265614,68,250000,ATIVO,COMPRIMIDO,87500,0.35
+"Fenitoina 100mg cpr, em blister.",1265615,114,300000,ATIVO,COMPRIMIDO,37500,0.125
+"Ibuprofeno 600mg comprimido revestido.",1265616,146,1300000,ATIVO,COMPRIMIDO,377000,0.29
+"Azitromicina 500mg  blister com 01 comprimido",1328341,33,100000,ATIVO,COMPRIMIDO,68800,0.688

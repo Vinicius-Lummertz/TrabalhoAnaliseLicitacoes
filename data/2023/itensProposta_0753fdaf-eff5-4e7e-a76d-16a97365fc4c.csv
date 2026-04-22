@@ -1,0 +1,21 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acces point wirelless 802.11 ac dual band 3x3 mimo ( minimo de 450 mbps em 2,4 ghz e minimo de 1300 mbps em 56hz) com suporte a poe,2 portas gigabat ethernet, com segurançaa avançada vlan e radius, alcance minimo de 100 m2 minimo de 100 dispositivos conectados simultaneamente, com gerenciamento remoto em formato circlar de fixaçao em teto e/ou parede",0,8,VENCEU," ",4944,618
+"Cabo de rede tipo UTP Cat 6 4P",0,4000,VENCEU," ",15600,3.9
+"FRENTE FALSA 01 U PARA RACK 19""",0,40,VENCEU," ",380,9.5
+"GUIA U PARA RACK 19'",0,20,VENCEU," ",600,30
+"Jack RJ 45 Keystone",0,80,VENCEU," ",960,12
+"KEYSTONE RJ 45 FEMEA CAT 5",0,200,VENCEU," ",2000,10
+"KEYSTONE RJ 45 FEMEA CAT6",0,200,VENCEU," ",3000,15
+"mini rack desmontável 8U (570MM) MRD 857",0,6,VENCEU," ",4320,720
+"NOBREAK BIVOLT 1400VA BIVOLT, AUTONOMIA DE 30MIM COM 5 TOMADAS",0,4,VENCEU," ",3440,860
+"PATCH CORD 1,5M CAT 6 CERTIFICADO",0,200,VENCEU," ",3600,18
+"PATCH CORD 2,5M CAT 6 CERTIFICADO",0,200,VENCEU," ",5000,25
+"Patch Cord CAT 6 de 2,5m",0,80,VENCEU," ",800,10
+"PATCH PANEL CAT 6E 24 PORTAS",0,30,VENCEU," ",22500,750
+"patch panel com 24 portas cat 6, integrado 19"" para rack",0,30,VENCEU," ",4140,138
+"rack 19'(470MM) de parede 12U,Com porta frontal acrílica",0,6,VENCEU," ",4980,830
+"rack 19 ,470MM, de parede 16U,Com porta frontal acrílica",0,6,VENCEU," ",3600,600
+"REGUA DE TOMADA DE 1U COM 10 TOMADAS PARA RACK 19",0,10,VENCEU," ",1380,138
+"switch 16p fast1600 q+ ethernet",0,6,VENCEU," ",2100,350
+"switch 24 portas gigabit (10/100/100) gerenciável, com multifunções, tais como: spnnig tree.vlan.",0,4,VENCEU," ",9600,2400
+"switch 48+4 portas gigabit (10/100/100) gerenciável, com multifunções, tais como: spnnig tree.vlan.",0,4,VENCEU," ",15200,3800

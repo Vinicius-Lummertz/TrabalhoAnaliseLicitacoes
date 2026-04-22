@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Capa de Transferência.",1300722,6,5000,ATIVO,UNIDADE,2050,0.41
+"Caderno para baixa visão",1312867,5,100,ATIVO,UNIDADE,940,9.4
+informativo,1319105,11,3000,ATIVO,UNIDADE,780,0.26

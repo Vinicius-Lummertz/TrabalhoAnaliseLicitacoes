@@ -1,0 +1,92 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Afastador de Minessota",10971090,80,PERDEU,UNI,1000,12.5
+"Alavanca apical curva Esquerda",10971091,100,PERDEU,UN,3987,39.87
+"Alavanca apical reta",10971093,100,PERDEU,UNI,3987,39.87
+"Alavanca Seldin tipo bandeirinha Direita N 1R",10971094,100,PERDEU,UN,3987,39.87
+"Alavanca Seldin tipo bandeirinha Esquerda N 1L",10971095,100,PERDEU,UN,3973,39.73
+"Alavanca Seldin Reta",10971096,200,PERDEU,UN,7974,39.87
+"Alicate perfurador Ainsworth-5 furos",10971111,10,PERDEU,UN,740.1,74.01
+"Alveolótomo curvo 16cm",10971112,25,PERDEU,UN,2573.25,102.93
+"Arco Ostby Adulto",10971114,20,PERDEU,UN,185.8,9.29
+"Arco Ostby Adulto dobrável",10971115,10,PERDEU,UN,88.1,8.81
+"Arco Ostby infantil dobrável",10971116,10,PERDEU,UN,88.2,8.82
+"Cabo para bisturi em aço inox, nº3",10971120,150,PERDEU,UN,1531.5,10.21
+"Calcador Paiva n1",10971125,10,PERDEU,UN,132.1,13.21
+"Calcador Paiva Kit com 4 unidade (nº1; 2; 3; 4)",10971127,10,PERDEU,KIT,528.3,52.83
+"Cureta de Lucas nº 85",10971133,100,PERDEU,UN,1007,10.07
+"Cureta dentina (escavador), nº 05 PEQUENA",10971134,120,PERDEU,UN,967.2,8.06
+"Cureta dentina (escavador)nº20, GRANDE",10971135,100,PERDEU,UNI,806,8.06
+"CURETA GRACEY 11-12 - EM AÇO INOX",10971136,50,PERDEU,UNI,2739,54.78
+"CURETA GRACEY 13-14 - EM AÇO INOX",10971137,50,PERDEU,UNI,2787,55.74
+"Cureta Maccall 17-18 em aço inox",10971140,50,PERDEU,UN,2796.5,55.93
+"Espatula 24",10971145,50,PERDEU,UN,503.5,10.07
+"Espatula 7",10971146,20,PERDEU,UNI,201.6,10.08
+"Espátula plástica para alginato",10971152,10,PERDEU,UN,23.6,2.36
+"Espelho clinico Nº 5",10971155,1400,PERDEU,UN,7350,5.25
+"Pinça clinica odontológica p/algodão",10971185,500,PERDEU,UN,6295,12.59
+"Seringa Carpule com refluxo-12,5cm",10971202,350,PERDEU,UN,19355,55.3
+"Sindesmótomo em aço inox",10971203,100,PERDEU,UN,1007,10.07
+"Sonda Exploradora Odontológica nº5",10971205,500,PERDEU,UNI,3840,7.68
+"Ácido fosfórico 37% em gel",10971218,550,PERDEU,PCT,2365,4.3
+"Adesivo dental fotopolimerizável do tipo II",10971222,350,PERDEU,FR.,36326.5,103.79
+"Afastador Labial Expandex - adulto",10971223,20,PERDEU,UN,188,9.4
+"Afastador Labial Expandex - infantil",10971224,20,PERDEU,UN,188,9.4
+"Agulha gengival CURTA descartável",10971227,400,PERDEU,CX,17784,44.46
+"agulha gengival longa descartável",10971229,350,PERDEU,CXA,15561,44.46
+"ALGINATO TIPO I 454 GRAMAS",10971232,150,PERDEU,PCTE,6829.5,45.53
+"Alginato tipo II",10971233,300,PERDEU,PCT,6891,22.97
+"Algodão em roletes.",10971234,2500,PERDEU,PCT,7100,2.84
+"Amalgama em cápsula - 1 Porção - Kit 50 cápsulas",10971235,2,PERDEU,KIT,265.14,132.57
+"Amalgama em cápsula - 2 Porções - Kit 50 cápsulas",10971236,2,PERDEU,KIT,363.14,181.57
+"Anestésico ARTICAINE 4% COM vasoconstritor epinefrina 1:100.",10971237,200,PERDEU,CX,35420,177.1
+"Anestésico LIDOCAINA 2% COM vasocontritor epinefrina 1:100.0",10971238,600,PERDEU,CX,63366,105.61
+"Anestésico MEPIVACAINA 2% COM vasoconstritor epinefrina 1:10",10971239,800,PERDEU,CX,124280,155.35
+"Anestésico MEPIVACAINA 3% SEM vasoconstritor",10971240,150,PERDEU,CX,23301,155.34
+"Babador impermeável-superabsorvente",10971248,1900,PERDEU,PCT,29583,15.57
+"Barreira gengival tipo TOPDAM - fotopolimerizável",10971251,50,PERDEU,KIT,1000,20
+"Bicarbonato de sódio - 200g",10971252,150,PERDEU,POT,1906.5,12.71
+"Cariostático a base de diaminufluoreto de prata 30%",10971321,90,PERDEU,FRA,2963.7,32.93
+"CIMENTO DE HIDROXIDO DE CALCIO",10971329,250,PERDEU,KIT,7835,31.34
+"Cimento Resinoso Endodôntico para obturação de canais radicu",10971331,150,PERDEU,UN,49399.5,329.33
+"Edta gel 24%. Embalagem com 2 seringas com 3g de gel cada.",10971373,50,PERDEU,CX,1248.5,24.97
+"Edta Liquido Trissódico 17%",10971374,150,PERDEU,FR.,814.5,5.43
+"Escova dental adulto macia",10971395,100,PERDEU,PCT,2929,29.29
+"Escova dental infantil macia",10971396,100,PERDEU,PCT,2857,28.57
+"ESPONJA HEMOSTÁTICA",10971401,250,PERDEU,CX,13325,53.3
+"Eucaliptol - Frasco 10 ml",10971403,20,PERDEU,FR,196.2,9.81
+Eugenol.,10971404,150,PERDEU,FR.,1975.5,13.17
+"Evidenciador de placa",10971405,50,PERDEU,FR.,363.5,7.27
+"Filme Periapical ADULTO E-speed - ultra rapido",10971409,20,PERDEU,CX,3911.8,195.59
+"Fio dental bucal",10971418,100,PERDEU,UN,1049,10.49
+"Fio retrator nº 1 (médio).",10971419,30,PERDEU,UN,1155,38.5
+"Fio retrator nº00 (extra fino).",10971420,30,PERDEU,UN,1155,38.5
+"Fita autoclave. Rolo de 19mm x 30m",10971421,200,PERDEU,ROLO,1262,6.31
+"Fixador para radiografia - Frasco com 475 ml",10971425,20,PERDEU,FR.,278,13.9
+"Flúor gel acidulado mínima de 1,23% de flúor-200 ml",10971426,500,PERDEU,FR.,4500,9
+"Formocresol - Frasco com 10ml.",10971427,80,PERDEU,FR.,656,8.2
+"Gorros descartáveis tipo touca com elástico",10971436,800,PERDEU,PCT,16000,20
+"Hidróxido de cálcio Pró-Análise - 10g",10971440,150,PERDEU,POT,655.5,4.37
+"Ionômero de vidro R autopolimerizável",10971447,250,PERDEU,KIT,20215,80.86
+"Ionômero de vidro Restaurador FOTOpolimerizavel – IONOFAST",10971448,500,PERDEU,KIT,34200,68.4
+"Macro modelo odontologico com arcada superior e inferior",10971509,70,PERDEU,UN,20926.5,298.95
+"Pasta para polimento de resina composta",10971533,150,PERDEU,SRS,5049,33.66
+"Pasta profilática com granulação média com flúor",10971536,250,PERDEU,TBO,3250,13
+"Pedra pomes extra fina",10971540,150,PERDEU,POT,1266,8.44
+"Pincel aplicador Micro brush ponta extra-fina",10971541,250,PERDEU,CX,3540,14.16
+"Pincel aplicador Micro brush ponta regular",10971542,400,PERDEU,CX,7944,19.86
+"Resina composta de baixa viscosidade (flow) cor A3",10971580,500,PERDEU,SRS,18010,36.02
+"Resina Fotopolimerizavel cor A1 - UNIVERSAL",10971581,350,PERDEU,SRS,13695.5,39.13
+"Resina Fotopolimerizavel cor A2- UNIVERSAL",10971582,600,PERDEU,SRS,23478,39.13
+"Resina Fotopolimerizavel cor A3- UNIVERSAL",10971583,550,PERDEU,SRS,21521.5,39.13
+"Resina Fotopolimerizavel cor A3.5 - UNIVERSAL",10971584,400,PERDEU,SRS,15652,39.13
+"Restaurador provisório IRM",10971586,150,PERDEU,KIT,13864.5,92.43
+"Restaurador provisório tipo Cimpat",10971587,100,PERDEU,FR.,986,9.86
+"REVELADOR PARA RADIOGRAFIA - FRASCO COM 475 ML",10971588,30,PERDEU,FRA,297.9,9.93
+"Selante Fotopolimerizável, COM liberação FLÚOR",10971592,100,PERDEU,KIT,1806,18.06
+"Spray congelante -50º / 200ml para teste de vitalidade pulpa",10971597,170,PERDEU,FR.,5763,33.9
+"Sugador cirúrgico descartável caixa c/ 40 unidades",10971599,300,PERDEU,CX,12900,43
+"Sugador de saliva descartável 130mm x 0,65mm - pacote c/ 40",10971600,2500,PERDEU,PCT,24650,9.86
+"Sugador Endodôntico Descartável. Pacote com 20 unidades",10971601,500,PERDEU,PCT,9645,19.29
+"Tricresol Formalina - Frasco com 10 ml.",10971608,150,PERDEU,FR.,894,5.96
+"Verniz cavitário -10 ml",10971612,50,PERDEU,FR,636.5,12.73
+"Verniz fluoretado",10971613,100,PERDEU,KIT,3000,30

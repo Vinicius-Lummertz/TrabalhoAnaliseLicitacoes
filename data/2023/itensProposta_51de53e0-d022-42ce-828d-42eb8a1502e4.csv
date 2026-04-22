@@ -1,0 +1,48 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Acetilcisteina 600mg/Env 5gr",11967156,50000,PERDEU,ENV,38050,0.761
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,PERDEU,COMP,41400,0.23
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,125000,0.05
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,35000,0.05
+"Ácido Valproico 250mg capsula.",11967165,400000,PERDEU,CPLA,220000,0.55
+"Alopurinol 100mg cpr, em blister.",11967175,680000,PERDEU,COMP,136000,0.2
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,135000,0.09
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,152000,9.5
+"BENZILPENICILINA BENZATINA 1.200.000 UI.",11967193,9000,PERDEU,FR/AM,105300,11.7
+"Betametasona, diproprionato +  betametasona fosfato 1ml",11967195,22000,PERDEU,AMP,121000,5.5
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,PERDEU,FR,12600,0.07
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",11967211,1000000,PERDEU,COMP,72000,0.072
+"Carvedilol 12,5 mg cpr, em blister.",11967214,250000,PERDEU,COMP,32500,0.13
+"Carvedilol 25 mg cpr, em blister.",11967215,280000,PERDEU,COMP,64400,0.23
+"Carvedilol 3,125 mg cpr, em blister.",11967216,60000,PERDEU,COMP,7800,0.13
+"Carvedilol 6,25 mg cpr, em blister.",11967217,180000,PERDEU,COMP,19800,0.11
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,270000,0.6
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",11967220,2000,PERDEU,FR/AM,21400,10.7
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,15000,15
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,14100,2.82
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,39000,1.3
+"Enantoato de noretisterona + valerato de estradiol / AMP 1ml",11967267,6000,PERDEU,AMP,77220,12.87
+"Espiramicina 1.500 UI, comp",11967270,1000,PERDEU,COMP,4560,4.56
+"Espironolactona 25mg cpr, em blister.",11967271,1000000,PERDEU,COMP,280000,0.28
+"Estrogênios conjugados 0,625mg cpr, em blister.",11967272,70000,PERDEU,COMP,69300,0.99
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,39600,0.099
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,197800,0.0989
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",11967304,12000,PERDEU,FR.,94800,7.9
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",11967306,24000,PERDEU,FR.,78000,3.25
+"Levomepromazina, maleato 100mg cpr.",11967322,250000,PERDEU,COMP,175000,0.7
+"Levonorgestrel 0,15mg + Etinilestradiol 0,03mg",11967324,7000,PERDEU,COMP,14700,2.1
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,350000,0.07
+"Metildopa 250mg cpr, em blister.",11967340,400000,PERDEU,COMP,400000,1
+"Metoclopramida, cloridrato 10mg cpr, em blister.",11967343,850000,PERDEU,COMP,85000,0.1
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,PERDEU,COMP,20400,0.68
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",11967353,18000,PERDEU,FR.,54900,3.05
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",11967357,20000,PERDEU,BIS,45400,2.27
+"Noretisterona 0,35mg cpr, em blister com 35 cpr.",11967363,500,PERDEU,BLIST,3120,6.24
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,300400,0.0751
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,159840,0.0999
+"Permetrina 10mg/mL loção, frasco 60ml.",11967372,12000,PERDEU,FR.,26400,2.2
+"Permetrina 50mg/mL loção, frasco 60ml.",11967373,10000,PERDEU,FR.,35900,3.59
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,72500,1.45
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",11967388,24000,PERDEU,FR.,262800,10.95
+"Sinvastatina 40 mg cpr, em blister.",11967390,1800000,PERDEU,COMP,324000,0.18
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,49200,0.041
+"Vitaminas do Complexo B cpr ( B3 16mg, B5 5mg, B6 1,3mg, B2",11967411,600000,PERDEU,COMP,24600,0.041

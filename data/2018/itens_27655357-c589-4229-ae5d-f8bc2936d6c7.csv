@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Vacina viva atenuada para cães e gatos (polivalente).",1262281,15,400,ATIVO,FRASCO,5600,14
+"Sulfadiazina Prata",1262282,12,10,ATIVO,FRASCO,174,17.4
+Nitenpiram,1262283,8,48,ATIVO,COMPRIMIDO,576,12
+"Meloxicam 0,2%",1262284,7,15,ATIVO,FRASCO,1120.5,74.7
+"dexametasona injetável",1262285,4,5,ATIVO,FRASCO,77.5,15.5
+"CETOCONAZOL 200 MG",1262286,3,80,ATIVO,COMPRIMIDO,712,8.9
+"VERMIFUGO PARA GATOS",1262293,16,40,ATIVO,UNIDADE,104,2.6

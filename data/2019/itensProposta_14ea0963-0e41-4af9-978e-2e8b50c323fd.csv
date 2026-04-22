@@ -1,0 +1,26 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"RAIO-X PORTÁTIL.",4439537,3,DESCLASSIFICADO,UN,56700,18900
+"Aparelho de ultrassom odontológico",4439538,2,PERDEU,UN,3240,1620
+"Bomba de vácuo: Voltagem 127/220V",4439539,2,DESCLASSIFICADO,UN,4900,2450
+"Microscópio odontológico com estativa fixa no chão",4439540,1,DESCLASSIFICADO,UN,34500,34500
+"Cadeira odontologica completa",4439541,7,VENCEU,UN,99400,14200
+"Avental RX para Paciente Infantil",4439542,2,PERDEU,UN,620,310
+"Avental RX para Paciente Adulto",4439543,2,PERDEU,UN,778,389
+"Câmara Escura Para Revelação.",4439544,1,PERDEU,UN,185,185
+"Amalgamador capsular digital",4439545,3,DESCLASSIFICADO,UN,2040,680
+"Autoclave 21 litros",4439546,10,PERDEU,UN,41000,4100
+"Compressor odontológico em ferro fundido",4439547,10,VENCEU,UN,48500,4850
+"Contra ângulo odontológico para peça de mão",4439548,7,DESCLASSIFICADO,UNI,3066,438
+"Contra Ângulo Oscilatório Endo-Eze Arios PB 4:1",4439549,2,INABILITADO,UN,1976,988
+"Contra ângulo odontológico para endodontia",4439550,2,VENCEU,UN,1718,859
+"Kit acadêmico contendo caneta de alta rotação",4439551,20,VENCEU,CX,23100,1155
+"CANETA DE ALTA ROTACAO",4439552,10,VENCEU,UN,4100,410
+"Localizador apical eletrônico",4439553,2,PERDEU,UN,3068,1534
+"Mini incubadora biológica",4439554,15,VENCEU,UN,2025,135
+"Micromotor elétrico de bancada LB100",4439555,1,VENCEU,ESTO,610,610
+"Motor Endodôntico Elétrico",4439556,1,PERDEU,UN,4280,4280
+"Peça de mão multiplicadora angulada 1:2",4439557,1,VENCEU,UN,1450,1450
+"Seladora termica digital, de mesa",4439558,20,PERDEU,UNI,12200,610
+"Fotopolimerizador sem fio",4439559,20,DESCLASSIFICADO,UN,14980,749
+"Sensor digital de radiografia periapical T2",4439560,2,INABILITADO,UN,19600,9800
+"LASER DE ALTA E BAIXA",4439561,1,VENCEU,UN,3080,3080

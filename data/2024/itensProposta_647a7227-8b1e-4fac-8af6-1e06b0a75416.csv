@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água para autoclave, galão de 5 litros.",14877906,6000,PERDEU,GL,65340,10.89
+"Álcool etílico 70° antisséptico, frasco 1lt.",14877915,11250,PERDEU,UNI,69750,6.2
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 13 fios, blister contendo 10 unidades estéreis com embalagem em plástico e papel grau cirúrgico.",14877954,525000,PERDEU,PCT,441000,0.84
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",14877985,5250,PERDEU,UN,98385,18.74
+"Fita Cirúrgica Microporosa Hipoalergênica largura 5,0cm x 4,5m comprimento.",14878007,12375,PERDEU,UNI,93678.75,7.57
+"Papel grau cirúrgico 25cmx100m.",14878069,750,PERDEU,BOBI,157372.5,209.83
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14878154,28500,PERDEU,UND,119700,4.2
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14878156,30000,PERDEU,UND,146400,4.88
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14878157,11250,PERDEU,UND,94387.5,8.39

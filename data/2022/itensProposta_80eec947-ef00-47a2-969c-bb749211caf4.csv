@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cimento Asfáltico de petróleo - CAP 50-70",7103180,3000000,VENCEU,KG,18060000,6.02
+"Emulsão Asfáltica RR-1C",7103181,200000,PERDEU,KG,860000,4.3
+"ASFALTO DILUÍDO CM-30",7103182,100000,NAO_COTOU,KG,0,0

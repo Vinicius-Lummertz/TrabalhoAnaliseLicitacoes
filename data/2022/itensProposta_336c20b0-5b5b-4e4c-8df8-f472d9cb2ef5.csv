@@ -1,0 +1,9 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Abaixador de língua embalado INDIVIDUALMENTE",6894111,1500,PERDEU,PCT,26985,17.99
+"Equipo para nutrição enteral ESCALONADO",6894114,45000,PERDEU,UN,81900,1.82
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",6894117,6000,PERDEU,UN,64800,10.8
+"Esparadrapo Impermeável, com capa, 10cmx4,5m.",7132734,2000,PERDEU,UN,21600,10.8
+"Esparadrapo Impermeável, com capa 5cmx4,5cm",6894118,10000,PERDEU,UN,59000,5.9
+"Seringa 1ml, sem agulha",6894121,200000,PERDEU,UN,72000,0.36
+"Seringa 1ml, SEM agulha e SEM ESPAÇO RESIDUAL (espaço morto)",6894122,200000,VENCEU,UN,72000,0.36
+"Seringa 3ml, sem agulha",6894123,300000,VENCEU,UN,45000,0.15

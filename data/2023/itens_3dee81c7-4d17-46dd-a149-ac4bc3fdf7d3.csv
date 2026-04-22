@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido folinico 15mg (folinato de cálcio) cpr, em blister.",4525736,8,4000,ATIVO,COMPRIMIDO,7168,1.792
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml",4525737,14,3000,ATIVO,AMPOLA,2856,0.952
+"Bicarbonato de sódio 8,4% ampola 10ml.",4525738,41,600,ATIVO,AMP,396,0.66
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",4525739,80,600,ATIVO,AMP,255,0.425
+"Cloreto de sódio 20%, ampola 10ml.",4525740,85,600,ATIVO,AMP,255,0.425
+"Enantoato de noretisterona + valerato de estradiol / AMP 1ml",4525741,112,6000,ATIVO,AMP,53340,8.89
+"Glicose 25% , ampola 10ml.",4525742,137,3000,ATIVO,AMP,1509,0.503
+"Glicose 50%, ampola 10ml.",4525743,138,3000,ATIVO,AMP,1611,0.537
+"vancomicina 500mg, injetável, frasco ampola.",4525744,253,200,ATIVO,"Frasco ampola",806.8,4.034

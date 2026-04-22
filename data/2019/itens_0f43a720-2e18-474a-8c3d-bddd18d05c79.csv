@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adaptador universal para  coleta a vacuo",1264648,10,200,ATIVO,UNIDADE,22,0.11
+"Agulha preta 22G1 nº 7210",1264659,1,15000,ATIVO,UNIDADE,12750,0.85
+"Agulha verde 21G1 nº 7212",1264660,2,50000,ATIVO,UNIDADE,42500,0.85
+"Scalp  25 G azul-cx c/ 50 unidades",1264661,3,100,ATIVO,CAIXA,13300,133
+"Scalp 21 G verde-cx c/50 unidades",1264662,4,60,ATIVO,CAIXA,7980,133
+"Tubo plástico sistema a vácuo p/ glicose 4 ml - c/ Fluoreto",1264663,5,15000,ATIVO,UNIDADE,9300,0.62
+"Tubo plástico sistema a vácuo p/ hemograma 4ml com EDTA (tam",1264664,6,120000,ATIVO,UNIDADE,40800,0.34
+"Tubo plástico sistema a vácuo c/ gel separador-c/ volume de",1264665,7,140000,ATIVO,UNIDADE,91000,0.65
+"Tubo plástico sistema a vácuo p/ coagulação 4ml com Citrato",1264666,9,1000,ATIVO,UNIDADE,470,0.47
+"Tubo plástico seco sistema a vácuo 9 ml",1264667,8,60000,ATIVO,UNIDADE,28800,0.48

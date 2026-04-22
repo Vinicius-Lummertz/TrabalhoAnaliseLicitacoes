@@ -1,0 +1,48 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Algodão Hidrófilo, 100%.",4448065,1000,VENCEU,ROLO,10200,10.2
+"Ataduras de Crepom 8cm",4448071,30000,VENCEU,UN,18000,0.6
+"Ataduras de Crepom 10cm",4448072,40000,PERDEU,UN,30000,0.75
+"Ataduras de Crepom 12cm",4448073,40000,PERDEU,UN,39600,0.99
+"Ataduras de Crepom 15cm",4448074,40000,PERDEU,UN,44000,1.1
+"Ataduras de Crepom 20cm",4448075,20000,PERDEU,UN,29600,1.48
+"Ataduras de Crepom 6cm",4448076,24000,VENCEU,UN,11520,0.48
+"Bolsa Coletora de urina sistema fechado  2000mL",4448078,3000,PERDEU,UNI,11430,3.81
+"Clorexidina alcoólica",4448098,1200,DESCLASSIFICADO,L,15240,12.7
+"Clorexidina aquosa",4448099,12000,PERDEU,UND,21480,1.79
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4448101,6000,PERDEU,UNI,38160,6.36
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4448102,5000,PERDEU,UNI,23700,4.74
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4448103,2000,VENCEU,PCT,178000,89
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4448104,1600,PERDEU,PCT,44800,28
+"Compressa de gaze (tipo queijo) em Rolo.",4448105,250,DESCLASSIFICADO,ROLO,23225,92.9
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4448106,1500,VENCEU,PCT,23685,15.79
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4448107,800000,PERDEU,PCT,384000,0.48
+"Equipo para nutrição enteral ESCALONADO",4448126,42000,VENCEU,UN,41580,0.99
+"Equipo tipo Macrogotas para solução parental 20 gotas/ml",4448127,30000,VENCEU,UN,32700,1.09
+"Frasco para nutrição enteral capacidade 300mL",4448149,32000,VENCEU,UNI,28480,0.89
+"Integrador químico classe V",4448159,100000,DESCLASSIFICADO,UN,74000,0.74
+"Seringa 3ml, sem agulha",4448195,25000,DESCLASSIFICADO,UN,4750,0.19
+"Seringa 1ml, SEM agulha e SEM ESPAÇO RESIDUAL (espaço morto)",4448197,150000,VENCEU,UN,36000,0.24
+"Sonda aspiração traqueal nº 06 em PVC, descartável",4448201,8000,VENCEU,UNI,3840,0.48
+"Sonda aspiração traqueal nº 08 em PVC, descartável",4448202,20000,PERDEU,UNI,9800,0.49
+"Sonda aspiração traqueal nº 10 em PVC, descartável",4448203,15000,PERDEU,UNI,7650,0.51
+"Sonda aspiração traqueal nº 12 em PVC, descartável",4448204,15000,PERDEU,UNI,7770,0.518
+"Sonda aspiração traqueal nº 14 em PVC, descartável",4448205,20000,DESCLASSIFICADO,UNI,12400,0.62
+"Sonda aspiração traqueal nº 16 em PVC, descartável",4448206,1000,DESCLASSIFICADO,UNI,750,0.75
+"Sonda nasal para alimentação enteral nº 10",4448233,200,VENCEU,UNI,1596,7.98
+"Sonda nasal para alimentação enteral nº 12",4448234,500,VENCEU,UNI,3990,7.98
+"Sonda uretral nº 06, descartável",4448235,6000,VENCEU,UNI,2700,0.45
+"Sonda uretral nº 08, descartável",4448236,24000,PERDEU,UNI,12240,0.51
+"Sonda uretral nº 10 descartável",4448237,36000,PERDEU,UN,17244,0.479
+"Sonda uretral nº 12 descartável",4448238,135000,PERDEU,UN,64530,0.478
+"Sonda uretral nº 14 descartável",4448239,36000,DESCLASSIFICADO,UN,21960,0.61
+"Sonda uretral nº 16 descartável",4448240,2000,DESCLASSIFICADO,UN,1460,0.73
+"Soro Fisiológico 1000ml (solução de cloreto de sódio 0,9%).",4448241,1200,DESCLASSIFICADO,UN,6984,5.82
+"Soro Fisiológico 100ml (solução de cloreto de sódio 0,9%).",4448242,36000,PERDEU,UNI,88200,2.45
+"Soro Fisiológico 250ml (solução de cloreto de sódio 0,9%).",4448243,45000,PERDEU,UNI,128250,2.85
+"Soro Fisiológico 500ml (solução de cloreto de sódio 0,9%).",4448244,9000,PERDEU,UN,31050,3.45
+"SORO GLICOFISIOLOGICO 250ml",4448245,1200,DESCLASSIFICADO,UN,3960,3.3
+"SORO GLICOFISIOLOGICO 500ml",4448246,1000,DESCLASSIFICADO,UNI,4290,4.29
+"Soro Glicosado 250ml (solução de glicose a 5%).",4448247,1000,DESCLASSIFICADO,UNI,3340,3.34
+"Soro Glicosado 500ml (solução de glicose a 5%).",4448248,700,DESCLASSIFICADO,UN,3017,4.31
+"Soro ringer lactato  500 ml",4448249,120,PERDEU,UNI,472.8,3.94
+"Tubo de silicone tamanho 204",4448252,50,VENCEU,PCT,6000,120

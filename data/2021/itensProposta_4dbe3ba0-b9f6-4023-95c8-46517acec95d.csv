@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Impressão preto e branco, tamanho A4, folha branca",4504574,2000,NAO_COTOU,UND,0,0
+"Impressão colorida, tamanho A4, folha branca",4504575,1000,NAO_COTOU,UND,0,0
+"Impressão preto e branco, tamanho A3, folha branca",4504576,1000,NAO_COTOU,UND,0,0
+"Impressão colorida, tamanho A3, folha branca",4504577,500,NAO_COTOU,UND,0,0
+"Impressão colorida em papel fotográfico",4504578,4,NAO_COTOU,M2,0,0
+"impressão de etiqueta adesiva 45x15mm",4504579,1000,NAO_COTOU,UND,0,0
+"Encadernação em espiral até 100 folhas tamanho A4 com capa p",4504580,200,NAO_COTOU,UND,0,0
+"Encadernação em espiral acima de 100 folhas tamanho A4 com c",4504581,50,NAO_COTOU,UND,0,0
+"Cartão de visita com laminação fosca e verniz, gramatura 200",4504582,1000,NAO_COTOU,UND,0,0
+"Confecção de crachá padrão",4504583,50,NAO_COTOU,UND,0,0
+"Serviço de arte finalista",4504584,50,VENCEU,HORA,1890,37.8
+"Plotagem de vidros",4504585,50,VENCEU,M2,3600,72
+"PLOTAGEM DE VEÍCULO",4504586,200,VENCEU,M2,18000,90

@@ -1,0 +1,95 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,PERDEU,COMP,39600,0.22
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",11967158,5000,VENCEU,BIS,9450,1.89
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,VENCEU,COMP,89500,0.0358
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,26460,0.0378
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",11967162,5000,PERDEU,FR.,18450,3.69
+"Ácido Valproico 50mg/mL xarope com copo- medida 100ml",11967167,6500,PERDEU,FR.,33800,5.2
+"Albendazol 400mg comprimido mastigável, em blister.",11967172,18000,PERDEU,COMP,6840,0.38
+"Aminofilina 100mg, em blister.",11967176,1000,VENCEU,COMP,70,0.07
+"Amiodarona 200mg cpr, em blister.",11967178,250000,PERDEU,COMP,107500,0.43
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral, acompanha copo-medida, 60ml após reconstituição.",11967181,18000,PERDEU,FRA,180900,10.05
+"Amoxicilina 500mg",11967183,600000,PERDEU,CPLA,234000,0.39
+"Anlodipino, besilato 5mg cpr, em blister.",11967186,2500000,PERDEU,COMP,100000,0.04
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,89700,0.0598
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,160000,10
+"Azitromicina 500mg",11967190,150000,PERDEU,CP,157500,1.05
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,39000,0.026
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",11967208,1800000,PERDEU,COMP,486000,0.27
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",11967209,4000,PERDEU,FR.,47000,11.75
+"Carbonato de cálcio 1250 mg - equivalente a 500mg Ca++elementar, em blister.",11967210,180000,VENCEU,FR,7200,0.04
+"Carbonato de cálcio 500+ vitamina D 400 UI, em blister de no minimo 15cpr.",11967211,1000000,VENCEU,COMP,40000,0.04
+"Carbonato de lítio 300mg cpr, em blister.",11967212,600000,PERDEU,COMP,186000,0.31
+"Cefalexina 500mg, capsula ou comprimido, em blister.",11967218,450000,PERDEU,CAP/C,292500,0.65
+"Cefalexina 50mg/mL suspensão oral, frasco 60ml após reconstituição.",11967219,10000,PERDEU,FR,195000,19.5
+"Ceftriaxona 1G intramuscular (IM) injetável.",11967221,1000,PERDEU,FR/AM,6000,6
+"Cinarizina 75mg cpr, em blister.",11967224,250000,PERDEU,COMP,102500,0.41
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,9200,1.84
+"Clonazepam 2,5mg/mL 20ml",11967228,6000,PERDEU,FR.,15000,2.5
+"Clopidogrel 75mg comprimido revestido, em blister.",11967233,280000,PERDEU,COMP,120400,0.43
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",11967236,7000,VENCEU,FR.,6580,0.94
+"Colagenase 0,6UI/ a 1,2 U/Ig pomada, bisnaga 30g.",11967245,3000,PERDEU,BIS,52500,17.5
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",11967246,24000,VENCEU,BIS,35760,1.49
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,VENCEU,COMP,25795,0.0469
+"Digoxina 0,25mg cpr, em blister.",11967254,200000,VENCEU,COMP,36000,0.18
+"Dimenidrinato 30 mg + piridoxina, cloridrato 50 mg + dextrose 1000 mg + d-frutose 1000 mg injetável Endovenoso (EV), ampola 10ml.",11967256,1000,VENCEU,AM,8091,8.091
+"Simeticona 75mg/mL solução oral, frasco 10ml.",11967257,15000,PERDEU,FR.,26700,1.78
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,447000,0.149
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,5380,1.345
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,VENCEU,FR.,34200,1.14
+"Doxazosina 2 mg cpr, em blister.",11967262,360000,PERDEU,COMP,36000,0.1
+"Doxiciclina 100mg cpr, em blister.",11967263,1000,PERDEU,COMP,470,0.47
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,160000,0.08
+"Enalapril, maleato 20mg cpr, em blister.",11967265,1500000,PERDEU,COMP,180000,0.12
+"Enalapril, maleato 5mg cpr, em blister.",11967266,300000,PERDEU,COMP,16800,0.056
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,56000,0.14
+"Fenobarbital 100mg cpr, em blister.",11967276,420000,PERDEU,COMP,113400,0.27
+"Fluconazol 150mg capsula.",11967283,70000,PERDEU,CPLA,32900,0.47
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,220000,0.11
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,51000,0.06
+"Glibenclamida 5mg cpr, em blister.",11967290,1200000,PERDEU,COMP,32400,0.027
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,81000,0.027
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",11967304,12000,VENCEU,FR.,32160,2.68
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",11967306,24000,PERDEU,FR.,52560,2.19
+"Isossorbida, mononitrato 20mg cpr, em blister.",11967312,800000,PERDEU,COMP,176000,0.22
+"Isossorbida, mononitrato 40mg cpr, em blister.",11967313,300000,PERDEU,COMP,93000,0.31
+"Ivermectina 6mg cpr, em blister.",11967314,60000,PERDEU,COMP,27000,0.45
+"Levodopa 250mg + carbidopa 25mg cpr, em blister.",11967320,8000,PERDEU,COMP,4400,0.55
+"Levofloxacino 500mg cpr, em blister.",11967321,10000,PERDEU,COMP,10500,1.05
+"Lidocaína 2% gel, bisnaga 30g.",11967331,10000,PERDEU,BIS,50000,5
+"Loratadina 10mg cpr, em blister.",11967334,800000,PERDEU,COMP,144000,0.18
+"Loratadina 1mg/mL xarope, frasco de 100ml.",11967335,12000,PERDEU,FR,73800,6.15
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,245500,0.0491
+"Metformina 500mg cpr, em blister.",11967338,2000000,PERDEU,COMP,308000,0.154
+"Metformina 850mg cpr, em blister.",11967339,3800000,PERDEU,COMP,532000,0.14
+"Metilfenidato 10 mg cpr, em blister.",11967341,600000,PERDEU,COMP,174000,0.29
+"Metoclopramida, cloridrato 10mg cpr, em blister.",11967343,850000,PERDEU,COMP,76500,0.09
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",11967344,30000,VENCEU,COMP,11400,0.38
+"Metronidazol 200mg/5mL suspensão oral, frasco 80ml.",11967346,3000,PERDEU,FR.,23700,7.9
+"Metronidazol 250mg cpr, em blister.",11967347,320000,PERDEU,COMP,76800,0.24
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",11967348,5000,VENCEU,BIS,27500,5.5
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",11967349,10000,VENCEU,BIS,71000,7.1
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",11967357,20000,PERDEU,BIS,47000,2.35
+"Nifedipino 10mg cpr, em blister.",11967358,250000,PERDEU,COMP,38750,0.155
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",11967359,400000,PERDEU,COMP,56000,0.14
+"Nortriptilina 50 mg capsula, em blister.",11967364,2000,VENCEU,CPLA,700,0.35
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,36600,3.05
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,240000,0.06
+"Paracetamol 200mg/mL solução oral, frasco 15ml.",11967370,30000,PERDEU,FR.,50700,1.69
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,126400,0.079
+"Permetrina 10mg/mL loção, frasco 60ml.",11967372,12000,PERDEU,FR.,23400,1.95
+"Permetrina 50mg/mL loção, frasco 60ml.",11967373,10000,PERDEU,FR.,29500,2.95
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",11967376,18000,PERDEU,FR.,87300,4.85
+"Propranolol 40mg cpr, em blister.",11967381,1000000,PERDEU,COMP,27000,0.027
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,46000,0.92
+"Salbutamol 100 mcg aerossol oral com 200 doses, frasco 10ml.",11967388,24000,PERDEU,FR.,230400,9.6
+"Sinvastatina 20mg cpr, em blister.",11967389,2000000,PERDEU,COMP,158000,0.079
+"Sinvastatina 40 mg cpr, em blister.",11967390,1800000,PERDEU,COMP,279000,0.155
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,20700,34.5
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",11967396,250000,PERDEU,COMP,62500,0.25
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,PERDEU,FR.,7280,1.04
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,46800,0.039
+"Tiamina 300 mg cpr, em blister.",11967403,6000,PERDEU,COMP,1800,0.3
+"Tramadol, cloridrato 50mg capsula, em blister.",11967405,1200000,PERDEU,COMP,288000,0.24
+"Vitaminas do Complexo B cpr ( B3 16mg, B5 5mg, B6 1,3mg, B2",11967411,600000,PERDEU,COMP,16140,0.0269
+"Metoclopramida 4mg/mL solução oral, frasco de 10ml.",11967415,6000,PERDEU,FR.,12000,2

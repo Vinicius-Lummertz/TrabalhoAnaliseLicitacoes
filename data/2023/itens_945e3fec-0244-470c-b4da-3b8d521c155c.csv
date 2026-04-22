@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Caixa organizadora 42,0cm x 31,0cm x 20,0cm",5498955,15,100,ATIVO,UNIDADE,2419,24.19
+"Caneta esferografica azul ponta fina",5498956,19,500,ATIVO,CAIXA,12660,25.32
+"caneta esferográfica na cor vermelha",5498957,20,150,ATIVO,CAIXA,3798,25.32
+"Caneta hidrográfica 24 cores",5498958,21,100,ATIVO,PACOTE,550,5.5
+"Folha de Isopor 2,5 mm",5498959,35,30,ATIVO,FOLHA,195.9,6.53
+"Giz colorido plastificado",5498960,41,2000,ATIVO,CAIXA,9120,4.56
+"Giz de cera, caixa com 12 cores",5498961,42,5000,ATIVO,UNIDADE,12500,2.5
+"Kit para encadernação tamanho A4",5498962,52,60,ATIVO,Pacote,3600,60
+"Lápis colorido - Caixa contendo 12",5498963,54,1250,ATIVO,CAIXA,4600,3.68
+"Papel Almaço quadriculado 20x27,5 A4 (1x1cm).",5498964,61,30,ATIVO,PACOTE,315,10.5

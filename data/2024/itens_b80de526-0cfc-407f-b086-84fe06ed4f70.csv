@@ -1,0 +1,15 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amendoim com casca",6313110,10,40,ATIVO,UNIDADE,324.8,8.12
+"CANJICA MILHO BRANCA",6313111,18,50,ATIVO,UNIDADE,416.5,8.33
+"Farinha de Mandioca crua",6313112,26,200,ATIVO,kg,890,4.45
+"Farinha de milho média ou fina enriquecida com ferro e ácido fólico",6313113,27,200,ATIVO,kg,718,3.59
+"FEIJAO PRETO",6313114,29,900,ATIVO,kg,7335,8.15
+"Grão de bico",6313115,30,220,ATIVO,UNIDADE,2413.4,10.97
+Lentilha,6313116,32,200,ATIVO,UNIDADE,2056,10.28
+"MILHO DE PIPOCA.",6313117,40,300,ATIVO,EMBALAGEM,1794,5.98
+"Polpa de frutas natural congelada",6313118,50,500,ATIVO,UNIDADE,5950,11.9
+"Biscoito de chocolate.",6313119,85,300,ATIVO,PACOTE,1950,6.5
+"Fermento em pó químico Em latas de 250g",6313120,100,250,ATIVO,UNIDADE,2150,8.6
+"Polvilho azedo embalagem contendo 500 gramas",6313121,112,50,ATIVO,UNIDADE,325,6.5
+"Leite Integral UHT caixa tetra pak de 1 litro tipo longa vida.",6313122,127,2400,ATIVO,LITRO,11880,4.95
+"Ervilha em conserva lata",6313123,172,100,ATIVO,UNIDADE,325,3.25

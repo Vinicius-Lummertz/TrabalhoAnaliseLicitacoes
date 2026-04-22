@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CABO DE REDE",12371273,10,VENCEU,CX,6659.9,665.99
+"Memória DDR3 8Gb para Desktop",12371297,20,VENCEU,UND,2359.8,117.99
+"Memória DDR3 8Gb para Notebook",12371298,20,VENCEU,UND,2451,122.55
+"Memória DDR4 8Gb para Desktop",12371299,32,PERDEU,UND,5231.36,163.48
+"SSD 480 GB",12371324,5,PERDEU,UND,1399.95,279.99

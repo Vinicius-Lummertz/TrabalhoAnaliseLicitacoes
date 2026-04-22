@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Espiramicina 500 mg cpr.",4441002,1000,VENCEU,COMP,3270,3.27
+"Metoprolol, succinato 50mg, comprimido de liberação prolonga",4441077,50000,VENCEU,COMP,21950,0.439
+"Metoprolol, tartarato 1mg/ml, injetável, ampola 5ml.",4441078,200,PERDEU,AMP,2091.2,10.456

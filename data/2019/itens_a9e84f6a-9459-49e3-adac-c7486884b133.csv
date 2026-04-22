@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Pen drive de 16 Gb, USB 2.0",1300403,80,51,ATIVO,UNIDADE,1122,22
+"Pen drive de 4GB, USB 2.0",1302460,81,38,ATIVO,UNIDADE,874,23
+"Pen drive 64GB, USB 3.0",1310594,79,17,ATIVO,UNIDADE,1071,63
+"Bateria Recarregável 3,5 V Modelo 72300",1314736,7,19,ATIVO,UNIDADE,7486,394
+"Pen drive 128GB USB 3.0",1318815,78,20,ATIVO,UNIDADE,2760,138

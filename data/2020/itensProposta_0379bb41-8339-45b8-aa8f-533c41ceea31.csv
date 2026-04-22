@@ -1,0 +1,20 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho telefônico com fio",4446058,100,PERDEU,UND,4585,45.85
+"APARELHO TELEFONICO SEM FIO",4446059,100,PERDEU,UND,11390,113.9
+"Apontador sem depósito",4446060,247,PERDEU,UND,37.05,0.15
+"CAIXA PARA CORRESPONDENCIA",4446061,150,PERDEU,UND,4162.5,27.75
+"Calculadora de mesa 12 digitos",4446062,150,PERDEU,UND,2242.5,14.95
+"CANETA DESTACA TEXTO",4446063,400,PERDEU,CX,4136,10.34
+"Grampeador para papeis",4446065,220,PERDEU,UN,2514.6,11.43
+"Papel Off-Set, alcalino, formato A-4",4446066,162,INABILITADO,CX,27216,168
+"Papel Off-Set, alcalino, formato A-4",4446067,488,INABILITADO,CX,81984,168
+"Pasta plastica de arquivo, com no minimo 25",4446068,474,PERDEU,UN,1071.24,2.26
+"Pasta plastica de arquivo, com no minimo 30",4446069,600,PERDEU,UN,1464,2.44
+"Pasta plastica de arquivo, com no minimo 50",4446070,200,PERDEU,UN,718,3.59
+"Tesoura Doméstica",4446072,250,DESCLASSIFICADO,UND,1560,6.24
+"Balão tamanho no. 7",4446074,300,VENCEU,PCT,1227,4.09
+"Barbante em algodão fio no.8, 240 gr.",4446075,75,DESCLASSIFICADO,ROLO,1192.5,15.9
+"Lápis colorido",4446078,30,DESCLASSIFICADO,CX,147,4.9
+"Papel cartão colorido fosco",4446079,300,VENCEU,UN,201,0.67
+"PASTA SUSPENSA",4446080,25,VENCEU,CX,1172.5,46.9
+"Papel toalha interfolhado na cor branca, 2 dobras.",4446088,3500,INABILITADO,FAR,22925,6.55

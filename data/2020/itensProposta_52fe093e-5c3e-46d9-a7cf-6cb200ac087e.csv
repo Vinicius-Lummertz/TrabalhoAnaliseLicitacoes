@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bowie Dick pronto uso",4443806,4000,VENCEU,UN,48000,12
+"Embalagens SMS 100x100cm",4443808,15000,VENCEU,UN,27000,1.8
+"Indicador Biológico",4443809,1200,VENCEU,CX,48000,40
+"Integrador químico classe V",4443810,900000,PERDEU,UN,270000,0.3

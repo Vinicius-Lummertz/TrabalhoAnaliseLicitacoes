@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coleta Convencional",13344253,25800,VENCEU," ",5253912,203.64
+"Coleta Seletiva",13344253,1200,VENCEU," ",588852,490.71
+"Destinação Final",13344253,25800,VENCEU," ",3754674,145.53

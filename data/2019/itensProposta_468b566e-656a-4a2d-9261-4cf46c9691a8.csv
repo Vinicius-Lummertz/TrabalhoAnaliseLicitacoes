@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Camisa operacional (gandola) masculina padrão CBMSC",0,55,PERDEU," ",8690,158
+"Camisa operacional (gandola) feminina padrão CBMSC",0,8,PERDEU," ",1264,158
+"Calça operacional masculina padrão CBMSC",0,55,PERDEU," ",5280,96
+"Calça operacional feminina padrão CBMSC",0,8,PERDEU," ",768,96
+"Cobertura bico de pato operacional padrão CBMSC",0,55,PERDEU," ",2172.5,39.5
+"Luva de posto masculina",0,10,PERDEU," ",220,22
+"Japona operacional dupla face padrão CBMSC",0,10,PERDEU," ",2750,275
+"Blusa de lã azul",0,5,PERDEU," ",690,138
+"Blusa Fleece Vermelho",0,20,PERDEU," ",1640,82
+"Cachecol de fleece",0,20,PERDEU," ",620,31
+"Touca de fleece",0,30,PERDEU," ",960,32
+"Camiseta vermelha gola redonda padrão CBMSC",0,150,PERDEU," ",3450,23
+"Camisa vermelha gola polo padrão CBMSC",0,70,PERDEU," ",2660,38
+"Fivela para cinto Bombeiro Militar",0,20,PERDEU," ",240,12
+"Lona de nylon cor vermelha",0,4,PERDEU," ",36,9
+"Biriba de identificação",0,20,PERDEU," ",150,7.5
+"Cobertura bico de pato operacional bombeiro comunitário padr",0,40,VENCEU," ",791.2,19.78
+"Fivela para cinto Bombeiro Comunitário",0,40,VENCEU," ",296.8,7.42
+"Camiseta vermelha gola redonda padrão bombeiro comunitário",0,100,VENCEU," ",2374,23.74
+"Calça Operacional Bombeiro Comunitário (BC) Feminina",0,40,VENCEU," ",3679.6,91.99
+"Calça Operacional Bombeiro Comunitário (BC) Masculina",0,40,VENCEU," ",3679.6,91.99
+"Gandola feminina bombeiro comunitário",0,40,VENCEU," ",4946,123.65
+"Gandola masculina bombeiro comunitário",0,40,VENCEU," ",4946,123.65
+"Tarjeta de identificação (nome) em tecido operacional",0,40,VENCEU," ",276.8,6.92
+"Bota modelo padrão CBMSC",0,55,VENCEU," ",5399.9,98.18
+"Gola Polo Estagiário",0,40,PERDEU," ",1680,42
+"Blusa de lã estagiário",0,25,PERDEU," ",3125,125

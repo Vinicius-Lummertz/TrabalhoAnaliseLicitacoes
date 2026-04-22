@@ -1,0 +1,10 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"APARELHO TELEFONICO SEM FIO",4448328,100,PERDEU,UND,12100,121
+"Tesoura Doméstica",4448336,250,VENCEU,UND,1125,4.5
+"Caixa organizadora retangular capac. 10 lt",4448339,150,PERDEU,UN,2955,19.7
+"Caixa organizadora retangular capac. 20 lt",4448340,150,PERDEU,UN,3990,26.6
+"Pasta suspensa craft 331x200",4448343,25,VENCEU,CX,1722.5,68.9
+"TNT (TECIDO NÃO TEXTURIZADO)",4448344,30,PERDEU,ROLO,2907,96.9
+"Escada tipo doméstica de alumino com mínimo de 5 degraus",4448345,70,DESCLASSIFICADO,UN,11270,161
+"Papel Higiênico 30m, fardo com 64  unidades",4448346,600,DESCLASSIFICADO,FRD,41700,69.5
+"Papel toalha interfolhado na cor branca",4448347,6000,DESCLASSIFICADO,PCT,61080,10.18

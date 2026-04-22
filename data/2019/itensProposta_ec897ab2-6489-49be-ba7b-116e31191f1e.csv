@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alimento nutricionalmente completo para nutrição enteral ou",4442205,1120,PERDEU,LAT,44688,39.9
+"Dieta nutricionalmente completa para crianças de 1 a 10 anos",4442208,492,PERDEU,LAT,11217.6,22.8
+"Nutrição enteral, em pó, à base de proteína isolada de soja",4442223,1200,VENCEU,LAT,57600,48

@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Mineral, copo 200Ml, cx com 48 unidades",1304797,4,812,ATIVO,CAIXA,17052,21
+"BOMBONA AGUA MINERAL 20 LITROS",1304798,1,13500,ATIVO,UNIDADE,147150,10.9
+"Água Mineral, com gás, 500 Ml em garrafa fardo com 12 uni",1308834,3,1080,ATIVO,FARDO,15120,14
+"Água Mineral, sem gás, 500 Ml em garrafa fardo com 12 uni",1308835,2,1340,ATIVO,FARDO,17420,13

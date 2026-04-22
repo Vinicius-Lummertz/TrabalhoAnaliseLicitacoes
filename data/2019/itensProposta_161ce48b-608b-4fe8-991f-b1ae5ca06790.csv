@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adesivo educação do condutor",0,2000,PERDEU," ",1700,0.85
+"Auto de Infracao de Transito",0,400,PERDEU," ",5600,14
+"Envelope retenção",0,500,PERDEU," ",350,0.7
+"Auto de Constatação de embriaguez",0,200,PERDEU," ",2880,14.4
+"Auto de Retirada e veículo de circulação",0,200,PERDEU," ",2960,14.8
+"Relatório avarias motocicletas",0,100,PERDEU," ",1200,12
+"Relatório avarias automóveis",0,200,PERDEU," ",2400,12
+"Boletim de ocorrência acidente de trânsito",0,150,PERDEU," ",1950,13
+"Constatação de acidente de trânsito",0,150,PERDEU," ",1950,13
+"Dados dos envolvidos e dos veículos",0,100,PERDEU," ",1300,13
+Recibo,0,150,PERDEU," ",600,4
+"REQUISIÇÃO DE BOLETIM DE ACIDENTE DE TRÂNSITO",0,100,PERDEU," ",430,4.3
+"Recibo de retenção documentos",0,100,PERDEU," ",450,4.5
+"Bloco de advertência",0,2000,PERDEU," ",9200,4.6
+"Cartão Estacionamento Rotativo",0,350000,PERDEU," ",16100,0.046
+"Cartaz do trânsito",0,1000,PERDEU," ",950,0.95
+"Folder educação no trânsito",0,10000,PERDEU," ",3300,0.33
+"Folheto educação no trânsito",0,15000,PERDEU," ",1500,0.1
+"Selo holográfico",0,3000,PERDEU," ",2850,0.95
+"Pasta Timbrada DTT",0,1500,PERDEU," ",3900,2.6
+"Matrizes para folders e folhetos",0,20,PERDEU," ",2600,130
+"Pasta Defesa de Autuação",0,1700,PERDEU," ",1615,0.95
+"ENVELOPE GRANDE",0,1200,PERDEU," ",1200,1
+"Pasta Processo administrativo",0,1300,PERDEU," ",1456,1.12

@@ -1,0 +1,65 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"ÁGUA SANITÁRIA",4403113,120,VENCEU,GAL,816,6.8
+Alvejante,4403114,30,VENCEU,GAL,309,10.3
+"Amaciante para tecidos",4403115,50,VENCEU,GAL,495,9.9
+"Desinfetante de uso geral",4403116,180,VENCEU,GAL,1296,7.2
+"Detergente Neutro Líquido de Uso Geral",4403117,180,VENCEU,GAL,1854,10.3
+"Sabão liquido de coco",4403118,50,VENCEU,GAL,550,11
+"Detergente com Cera Para Veículos",4403119,120,VENCEU,GAL,1584,13.2
+"Limpa pneus com silicone",4403120,60,VENCEU,GAL,2415,40.25
+"Desinfetante limpador de uso geral",4403121,12,INABILITADO,GAL,1104,92
+"Sabonete Líquido com Bico Dosador Pump",4403122,150,VENCEU,EMB,1620,10.8
+"Sabonete líquido Galão",4403123,50,VENCEU,GAL,850,17
+"Saboneteira de Mesa com Pump",4403124,10,DESCLASSIFICADO,UND,150,15
+"Álcool etílico em gel 70% (70 INPM)",4403125,400,PERDEU,GR,3600,9
+"Álcool etílico hidratado 96% (92,8º INPM)",4403126,20,VENCEU,LT,146,7.3
+"Lustra móveis.",4403127,15,VENCEU,FRA,72,4.8
+"Desodorizador de ambientes",4403128,30,DESCLASSIFICADO,ML,360,12
+"Escova Sanitária",4403129,30,DESCLASSIFICADO,UND,300,10
+"Sabão em barra",4403130,30,DESCLASSIFICADO,PCT,390,13
+"SABAO EM PO",4403131,80,VENCEU,KG,408,5.1
+"SAPONACEO EM PO",4403132,5,VENCEU,GR,13,2.6
+"Saponáceo cremoso",4403133,60,VENCEU,ML,276,4.6
+"Escova para lavar roupas",4403134,20,DESCLASSIFICADO,UND,70,3.5
+"Escova para higienização de mãos e unhas",4403135,10,DESCLASSIFICADO,UND,60,6
+"Esfregão de Aço",4403136,250,DESCLASSIFICADO,UND,1250,5
+"Esponja de lã de Aço.",4403137,100,DESCLASSIFICADO,PCT,300,3
+"Esponja Multiuso",4403138,60,DESCLASSIFICADO,PCT,2160,36
+"FLANELA PARA LIMPEZA.",4403139,30,DESCLASSIFICADO,UND,90,3
+"LUVA PARA LIMPEZA",4403140,20,DESCLASSIFICADO,UND,80,4
+"Balde Espremedor",4403141,2,DESCLASSIFICADO,UND,1590,795
+"REFIL MOP UMIDO",4403142,60,DESCLASSIFICADO,UND,1380,23
+"Cabo de aluminio para suporte de Mop Úmido",4403143,10,DESCLASSIFICADO,UND,450,45
+"Balde com espremedor giratório",4403144,6,DESCLASSIFICADO,UND,1740,290
+"Refil para balde giratório",4403145,40,DESCLASSIFICADO,UND,1760,44
+"Pá coletora plástica.",4403146,10,DESCLASSIFICADO,UND,450,45
+"Pá de lixo plástica.",4403147,10,PERDEU,UND,120,12
+"Pano de copa e cozinha",4403148,100,DESCLASSIFICADO,UND,600,6
+"Pano Multiúso",4403149,50,DESCLASSIFICADO,RL,17050,341
+"Bobina de Papel Toalha",4403150,80,DESCLASSIFICADO,CX,7760,97
+"DISPENSER PARA PAPEL TOALHA",4403151,2,NAO_COTOU,UND,0,0
+"Papel higiênico",4403152,6,PERDEU,FRD,420,70
+"Papel Higiênico Rolão",4403153,60,DESCLASSIFICADO,FRD,3234,53.9
+"Porta Papel Higiênico Rolão",4403154,4,NAO_COTOU,UND,0,0
+"RODO PLASTICO",4403155,10,PERDEU,UND,150,15
+"Saca de tecido crua",4403156,10,INABILITADO,PCT,90,9
+"Saco plástico de lixo doméstico de polietileno 300 L",4403157,30,PERDEU,UND,5520,184
+"Saco plástico de lixo doméstico de polietileno 240 L",4403158,30,PERDEU,UND,4560,152
+"Saco plástico de lixo doméstico de polietileno 150 L",4403159,30,DESCLASSIFICADO,UND,3600,120
+"Saco plástico de lixo doméstico de polietileno 100 L",4403160,15,DESCLASSIFICADO,UND,1335,89
+"Saco plástico de lixo doméstico de polietileno 50 L",4403161,15,PERDEU,UND,270,18
+"Saco plástico de lixo doméstico de polietileno 30 L",4403162,15,PERDEU,UND,210,14
+"Saco plástico de lixo doméstico de polietileno 20 L",4403163,15,DESCLASSIFICADO,UND,120,8
+"Vassoura Nylon",4403164,30,PERDEU,UND,930,31
+"VASSOURA PALHA",4403165,20,PERDEU,UND,580,29
+"Copo descartavel 180 ml",4403166,7,DESCLASSIFICADO,CX,1183,169
+"Copo descartável 300 ml Transparente",4403167,7,PERDEU,CX,1288,184
+"Guardanapo de papel folha simples.",4403168,200,DESCLASSIFICADO,EMB,600,3
+"Balde com separador de partículas 19L",4403169,4,DESCLASSIFICADO,UND,640,160
+"Desentupidor Sanitário de Borracha",4403170,4,DESCLASSIFICADO,UND,52,13
+"Lixeira Escritório 15L sem tampa",4403171,30,NAO_COTOU,UND,0,0
+"Lixeira com pedal 15L",4403172,10,DESCLASSIFICADO,UND,950,95
+"Lixeira com tampa basculante 30L",4403173,8,DESCLASSIFICADO,UND,880,110
+"Lixeiras com pedal e roda 100L",4403174,8,DESCLASSIFICADO,UND,5200,650
+"Balde Multiuso 20L Reforçado",4403175,10,NAO_COTOU,UND,0,0
+"Mop Auto Torção",4403176,5,NAO_COTOU,UND,0,0

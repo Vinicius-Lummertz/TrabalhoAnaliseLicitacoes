@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"CARNE - PALETA GROSSA EM CUBOS",1,2500,Venceu,KG,74975,29.99
+"FILE DE PEIXE CONGELADO (TILÁPIA)",2,2200,Venceu,KG,71280,32.4
+"FILÉ DE FRANGO CONGELADO (SASSAMI)",3,2500,Perdeu,KG,32675,13.07
+"SOBRECOXA DESOSSADA",4,2500,Perdeu,KG,33150,13.26
+"Acém Bovino Moído",5,2500,Desclassificado,KG,77500,31
+"Acém Bovino",6,2500,Desclassificado,KG,80000,32
+"COXA E SOBRECOXA DE FRANGO",7,2500,Perdeu,KG,26850,10.74

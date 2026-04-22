@@ -1,0 +1,45 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aminofilina 100mg, em blister.",1267914,19,1000,ATIVO,COMPRIMIDO,73.5,0.0735
+"Aminofilina 24mg/mL, injetável, ampola 10ml.",1267915,20,200,ATIVO,AMP,189,0.945
+"Amiodarona, cloridrato 50mg/mL, injetável, ampola 3ml.",1267916,22,1000,ATIVO,AMP,1753.5,1.7535
+"Anlodipino, besilato 5mg cpr, em blister.",1267917,29,1800000,ATIVO,COMPRIMIDO,52920,0.0294
+"Benzilpenicilina Benzatina 600.000 UI.",1267918,39,300,ATIVO,"Frasco ampola",2581.74,8.6058
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",1267919,44,2000,ATIVO,FRASCO,1320,0.66
+"Captopril 25mg cpr, em blister.",1267920,52,1500000,ATIVO,COMPRIMIDO,39300,0.0262
+"Carbonato de lítio 300mg cpr, em blister.",1267921,57,400000,ATIVO,COMPRIMIDO,163800,0.4095
+"Cefalexina 500mg, capsula ou comprimido, em blister.",1267922,63,350000,ATIVO,"capsula ou comprimid",126770,0.3622
+"Cloreto de potássio 19,1%, injetável, ampola 10ml.",1267923,78,600,ATIVO,AMP,163.8,0.273
+"Cloreto de sódio 0,9%, solução nasal, frasco 30ml.",1267924,79,4000,ATIVO,FRASCO,2940,0.735
+"Dexametasona 0,1% creme, bsinaga 10g.",1267925,87,30000,ATIVO,BISNAGA,24900,0.83
+"Diclofenaco sódico 50mg cpr, em blister.",1267926,93,600000,ATIVO,COMPRIMIDO,36000,0.06
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",1267927,16,18000,ATIVO,FRASCO,15120,0.84
+"Dipirona 500mg/ml, injetável, ampola 2ml.",1267928,99,30000,ATIVO,AMP,15120,0.504
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",1267929,100,18000,ATIVO,FRASCO,15480,0.86
+"Dopamina 5mg/ml, injetável, ampola 10ml.",1267930,101,400,ATIVO,AMP,612,1.53
+"Enalapril, maleato 10mg cpr, em blister.",1267931,104,2000000,ATIVO,COMPRIMIDO,56000,0.028
+"Enantoato de noretisterona + valerato de estradiol, injetáve",1267932,107,6000,ATIVO,AMP,76167,12.6945
+"Fenitoina 100mg cpr, em blister.",1267933,114,320000,ATIVO,COMPRIMIDO,39296,0.1228
+"Fitomenadiona 10mg/mL , injetável, ampola 1ml.",1267934,121,200,ATIVO,AMP,250,1.25
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",1267935,123,120,ATIVO,AMP,787.5,6.5625
+"Fluoxetina, cloridrato 20mg capsula, em blister.",1267936,125,2000000,ATIVO,CAPSULA,115400,0.0577
+"Glibenclamida 5mg cpr, em blister.",1267937,129,1500000,ATIVO,COMPRIMIDO,37500,0.025
+"Dexametasona, fosfato de dissódico 4mg/ml injetável, ampola",1267938,88,24000,ATIVO,AMP,22680,0.945
+"Adrenalina 1mg/mL, injetável, ampola 1ml.",1267939,12,2000,ATIVO,AMP,3400,1.7
+"Ácido Acetilsalicilico 100mg cpr, em blister.",1267940,3,2000000,ATIVO,COMPRIMIDO,63000,0.0315
+"Hidrocortisona 500mg pó para suspensão injetável.",1267941,142,4000,ATIVO,"Frasco ampola",18824.4,4.7061
+"Ácido folinico 15mg (folinato de cálcio) cpr, em blister.",1267967,7,10000,ATIVO,COMPRIMIDO,12000,1.2
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",1267968,150,220000,ATIVO,COMPRIMIDO,47586,0.2163
+"Lidocaina sem vaso constritor 2% 20ml, frasco de vidro âmbar",1267969,170,4000,ATIVO,"Frasco ampola",10920,2.73
+"Metildopa 250mg cpr, em blister.",1267999,178,350000,ATIVO,COMPRIMIDO,135975,0.3885
+"Metoclopramida 5mg/mL, injetável, ampola 2ml.",1268000,181,24000,ATIVO,AMP,10584,0.441
+"Metoclopramida, cloridrato 10mg cpr, em blister.",1268001,182,200000,ATIVO,COMPRIMIDO,16380,0.0819
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",1268002,188,10000,ATIVO,BISNAGA,48825,4.8825
+"Nitrofurantoína 100 mg capsula, em blister.",1268003,199,2000,ATIVO,CAPSULA,420,0.21
+"Óleo Mineral, frasco 100ml.",1268004,204,12000,ATIVO,FRASCO,22428,1.869
+"Omeprazol 20mg capsula, em blister.",1268005,205,3800000,ATIVO,CAPSULA,272460,0.0717
+"Prometazina 25mg/mL injetável, ampola 2ml.",1268006,219,10000,ATIVO,AMP,16800,1.68
+"Prometazina, cloridrato 25mg cpr, em blister.",1268007,220,450000,ATIVO,COMPRIMIDO,44100,0.098
+"Salbutamol 0,5mg/mL, injetável, ampola 1ml.",1268008,228,200,ATIVO,AMP,298,1.49
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",1268009,246,12000,ATIVO,AMP,9223.2,0.7686
+"Levonorgestrel 0,75mg cpr, blister com dois comprimidos.",1268024,164,200,ATIVO,BLISTER,240,1.2
+"Nortriptilina 50 mg capsula, em blister.",1268026,203,4000,ATIVO,CAPSULA,1600,0.4

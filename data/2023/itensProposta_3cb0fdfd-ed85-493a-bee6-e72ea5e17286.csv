@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bola de Futebol de Campo P.U.",13710961,135,PERDEU,UN,13500,100
+"Bola de Futsal Adulto",13710963,80,PERDEU,UN,18240,228
+"Bola de Futsal Infantil para Treinamento",13710964,110,PERDEU,UN,15708,142.8
+"Rede de Traves de Futsal",13710965,10,PERDEU,PAR,5000,500
+"Rede de Traves de Handebol",13710966,10,PERDEU,PAR,4200,420
+"Bola de Basquete OFICIAL",13710967,60,PERDEU,UN,3900,65
+"Bola de Handebol H1L",13710969,25,PERDEU,UN,6000,240
+"Bola de Handebol H2",13710970,35,PERDEU,UN,8400,240
+"Bola de Handebol H3L",13710971,30,PERDEU,UN,7200,240
+"Bola de Voleibol de Quadra para Treinamento",13710972,80,PERDEU,UN,22800,285
+"Bola de Voleibol de Praia/Areia",13710973,20,PERDEU,UN,4300,215
+"Raquete de Tênis de Mesa para Iniciação",13710977,120,PERDEU,UN,3360,28
+"Rede para Mesa de Tênis de Mesa",13710978,20,PERDEU,UN,1980,99
+"Jogo de Peças de Xadrez Oficial",13710979,55,PERDEU,JGO,5225,95
+"Tabuleiro de Xadrez Oficial",13710980,55,PERDEU,UN,2750,50
+"Touca de Natação",13710984,100,PERDEU,UN,2501,25.01
+"Óculos de Natação",13710985,100,PERDEU,UN,3901,39.01
+"Luva de Boxe",13710990,30,PERDEU,PAR,6300,210
+"Saco de Pancada",13710991,6,PERDEU,UN,900.06,150.01
+"Sacos para Bola",13710995,30,PERDEU,UN,2250,75
+"CONE CHAPÉU CHINÊS",13710996,200,PERDEU,UND,800,4
+"Bomba de Ar para Bolas",13710998,26,PERDEU,UN,910.26,35.01
+"Calibrador de Bola tipo Caneta",13710999,26,PERDEU,UN,1014,39
+"Skate para Iniciantes",13711003,80,PERDEU,UN,16800,210

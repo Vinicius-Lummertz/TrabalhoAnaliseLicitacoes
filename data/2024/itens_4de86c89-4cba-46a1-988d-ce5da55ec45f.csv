@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fralda descartável infantil tamanho M (médio), formato anatômico, antialérgica.",5600871,6,1000,ATIVO,UNIDADE,480,0.48
+"Fralda descartável infantil tamanho G (grande), formato anatômico, antialérgica.",5600872,7,6000,ATIVO,UNIDADE,3360,0.56
+"Fralda descartável infantil tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",5600873,8,8000,ATIVO,UNIDADE,4960,0.62

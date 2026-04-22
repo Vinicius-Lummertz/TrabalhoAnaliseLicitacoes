@@ -1,0 +1,47 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",16295801,2200000,PERDEU,COMP,110000,0.05
+"Ácido Ascórbico 100mg/mL, injetável, ampola 5ml.",16295802,8000,PERDEU,AMP,8320,1.04
+"Ácido fólico 5mg cpr, em blister.",16295803,550000,PERDEU,COMP,22000,0.04
+"Ácido tranexâmico 50mg/ml amp 5ml.",16295806,1000,PERDEU,AM,4010,4.01
+"Epinefrina 1mg/mL (adrenalina), injetável, ampola 1ml.",16295811,5000,PERDEU,AMP,7800,1.56
+"Água destilada 10mL ampola.",16295812,30000,PERDEU,AMP,9900,0.33
+"Amoxicilina 250mg+ Ácido clavulânico 62,5mg/mL, acompanha copo-medida, 75ml após reconstituição",16295824,20000,PERDEU,FRA,440000,22
+"Amoxicilina 500mg+ Ácido clavulânico 125mg, comprimido, em blister.",16295826,550000,PERDEU,COMP,1578500,2.87
+"Anlodipino, besilato 5mg cpr, em blister.",16295828,2200000,PERDEU,COMP,88000,0.04
+"Atenolol 50mg cpr, em blister.",16295829,1500000,PERDEU,COMP,90000,0.06
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500mg, injetável, ampola 5ml.",16295843,14000,PERDEU,AM,31780,2.27
+"Carbamazepina 200mg cpr. Blíster com 10 ou 15 comprimidos.",16295850,1300000,PERDEU,COMP,273000,0.21
+"Claritromicina 500mg capsula ou comprimido, em blister.",16295868,90000,PERDEU,COMP,179100,1.99
+"Clonazepam 2,5mg/mL , 20ml, FRASCO 20ml.",16295870,8000,PERDEU,FRA,21280,2.66
+"Cloreto de sódio 0,9%, ampola 10ml.",16295880,28000,PERDEU,AMP,13440,0.48
+"Dexametasona 4mg cpr, em blister.",16295889,20000,PERDEU,COMP,5000,0.25
+"Diazepam 5mg/mL solução injetável, ampola 2ml.",16295892,4000,PERDEU,AMP,4000,1
+"Diclofenaco sódico 25mg/mL, ampola 3ml.",16295893,15000,PERDEU,AMP,15000,1
+"Simeticona 75mg/mL solução oral, frasco 10ml.",16295898,18000,PERDEU,FR.,31860,1.77
+"Enalapril, maleato 10mg cpr, em blister.",16295906,2000000,PERDEU,COMP,100000,0.05
+"Enalapril, maleato 20mg cpr, em blister.",16295907,1500000,PERDEU,COMP,105000,0.07
+"Enalapril, maleato 5mg cpr, em blister.",16295908,300000,PERDEU,COMP,15000,0.05
+"Espironolactona 25mg cpr, em blister.",16295913,800000,PERDEU,COMP,192000,0.24
+"Finasterida 5 mg cpr, em blister.",16295923,150000,PERDEU,COMP,57000,0.38
+"Flumazenil 0,1mg/mL, injetável, ampola 5ml.",16295926,500,PERDEU,AMP,3500,7
+"Fluoxetina, cloridrato 20mg capsula, em blister.",16295928,2000000,PERDEU,CPLA,200000,0.1
+"Furosemida 10mg/mL injetável, ampola 2ml.",16295930,5000,PERDEU,AMP,8600,1.72
+"Glibenclamida 5mg cpr, em blister.",16295932,1200000,PERDEU,COMP,60000,0.05
+"Glicose 25% , ampola 10ml.",16295934,4000,PERDEU,AMP,2800,0.7
+"Hidroclorotiazida 25mg cpr, em blister.",16295943,3200000,PERDEU,COMP,96000,0.03
+"Hidrocortisona 500mg pó para suspensão injetável.",16295945,5000,PERDEU,FR/AM,30250,6.05
+"Isossorbida, dinitrato 5mg cpr sublingual, em blister.",16295952,180000,PERDEU,COMP,59400,0.33
+"Ivermectina 6mg cpr, em blister.",16295955,60000,PERDEU,COMP,27000,0.45
+"Lidocaína 2% gel, bisnaga 30g.",16295970,10000,DESCLASSIFICADO,BIS,34300,3.43
+"Loratadina 10mg cpr, em blister.",16295973,700000,PERDEU,COMP,70000,0.1
+"Loratadina 1mg/mL xarope, frasco de 100ml.",16295974,10000,PERDEU,FR,41600,4.16
+"Medroxiprogesterona 150mg/mL, injetável, ampola 1ml.",16295976,2000,PERDEU,AMP,25160,12.58
+"Metildopa 250mg cpr, em blister.",16295979,400000,PERDEU,COMP,252000,0.63
+"Metilfenidato 10 mg cpr, em blister.",16295980,800000,PERDEU,COMP,648000,0.81
+"Ondansetrona 2mg/ml injetável, ampola 2mL.",16296007,10000,PERDEU,AMP,19100,1.91
+"Paracetamol 500mg  blister com 10 comprimidos ou acondicionado de forma unitarizada. Embalagem hospitalar.",16296010,1200000,PERDEU,COMP,108000,0.09
+"Sais de reidratação oral (Clor Sódio3,5g + Clor Potássio 1,5g + Citrato de Sódio 2,9g + Glicose 20gr/sachê). Sachê 27,9g.",16296023,55000,PERDEU,SACH,58850,1.07
+"Tramadol, cloridrato 50mg capsula, em blister.",16296040,1200000,PERDEU,COMP,240000,0.2
+"Tramadol, cloridrato 50mg/mL injetável, ampola 1ml.",16296041,4000,PERDEU,AMP,7200,1.8
+"Tramadol, cloridrato 50mg/mL injetável, ampola 2ml.",16296042,7000,PERDEU,AMP,13020,1.86
+"Verapamil 80mg cpr, em blister.",16296045,300000,PERDEU,COMP,102000,0.34

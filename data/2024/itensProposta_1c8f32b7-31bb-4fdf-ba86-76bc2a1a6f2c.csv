@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Monitor Grande",14940411,5,PERDEU,UND,6832.05,1366.41
+"Monitor Médio",14940412,5,PERDEU,UND,6065,1213
+"Monitor Tela Curva",14940413,1,PERDEU,UND,9713,9713
+"Ponto de Acesso (Roteador Wireless)",14940427,5,PERDEU,UND,2940,588
+"Switch Concentrador Roteador",14940435,5,VENCEU,UND,8800,1760

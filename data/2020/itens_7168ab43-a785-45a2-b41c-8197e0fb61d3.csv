@@ -1,0 +1,11 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carvedilol 25 mg cpr, em blister.",1268014,60,120000,ATIVO,COMPRIMIDO,18960,0.158
+"Carvedilol 3,125 mg cpr, em blister.",1268015,61,50000,ATIVO,COMPRIMIDO,3950,0.079
+"Carvedilol 6,25 mg cpr, em blister.",1268016,62,90000,ATIVO,COMPRIMIDO,7830,0.087
+"Clonidina 0,1mg cpr, em blister.",1268017,73,1000,ATIVO,COMPRIMIDO,219,0.219
+"Clorpromazina, cloridrato 5mg/mL, injetável, ampola 5ml.",1268018,85,500,ATIVO,AMP,505,1.01
+"Espiramicina 500 mg cpr.",1268019,110,1000,ATIVO,COMPRIMIDO,3790,3.79
+"Insulina NPH 100UI/mL, frasco 10ml.",1268020,148,100,ATIVO,FRASCO,1915,19.15
+"Insulina regular 100 UI/mL , frasco 10ml.",1268021,149,100,ATIVO,FRASCO,1915,19.15
+"Metronidazol 200mg/5mL suspensão oral, frasco 80ml.",1268022,185,4000,ATIVO,FRASCO,22000,5.5
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% c",1268023,242,200,ATIVO,FRASCO,1700,8.5

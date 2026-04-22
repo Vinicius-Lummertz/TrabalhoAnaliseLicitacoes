@@ -1,0 +1,158 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Álcool Aerossol 70º INPM",4402595,7725,NAO_COTOU,UND,0,0
+"Álcool Aerossol 70º INPM",4402596,2575,NAO_COTOU,UND,0,0
+"Álcool etílico 70° antisséptico",4402597,38075,PERDEU,FRA,196847.75,5.17
+"Álcool etílico 70° antisséptico",4402598,10025,PERDEU,FRA,53132.5,5.3
+"Álcool etílico em gel 70% (70 INPM) 500 gramas;",4402599,51499,DESCLASSIFICADO,FRA,617988,12
+"Álcool etílico em gel 70% (70 INPM) 500 gramas;",4402600,6201,DESCLASSIFICADO,FRA,74412,12
+"Álcool etílico hidratado 96% (92,8º INPM) 1 litro;",4402601,8150,DESCLASSIFICADO,LT,48085,5.9
+"Agua Sanitária 1 Litro.",4402602,5100,NAO_COTOU,UND,0,0
+"Água Sanitária 5 Litros;",4402603,10665,PERDEU,GAL,74655,7
+"Água Sanitária 5 Litros;",4402604,3555,PERDEU,GAL,24885,7
+"Alvejante a base de hipoclorito de sódio 5 litros.",4402605,8903,PERDEU,GAL,89475.15,10.05
+"Alvejante a base de hipoclorito de sódio 5 litros.",4402606,2967,PERDEU,GAL,29818.35,10.05
+"Amaciante para tecidos 5 litros.",4402607,1100,NAO_COTOU,GAL,0,0
+"Balde Mop",4402608,210,PERDEU,UND,15330,73
+"Balde Plástico com tampa e Alça 10 Litros",4402609,640,NAO_COTOU,UND,0,0
+"Balde Plástico Resistente 26.3 x 22,08 cor AZUL",4402610,1505,PERDEU,UND,15335.95,10.19
+"Balde Plástico Resistente 26.3 x 22,08 na cor VERMELHA",4402611,555,NAO_COTOU,UND,0,0
+"Cabo de alumínio com extensor de 1,60m.",4402612,1030,NAO_COTOU,UND,0,0
+"Cera auto brilho, peso liquido minimo 750 ml, máximo 01 litr",4402613,1470,DESCLASSIFICADO,CX,163170,111
+"Cera em pasta, peso minimo de  4,5 quilos, para pisos quente",4402614,535,PERDEU,GAL,59385,111
+"Conjunto Balde/Espremedor",4402615,229,PERDEU,CJT,121141,529
+"Conjunto Balde/Espremedor",4402616,76,PERDEU,CJT,44004,579
+"Conjunto COMPLETO MOP 60cm",4402617,322,PERDEU,CJ,17806.6,55.3
+"Conjunto COMPLETO MOP 80cm",4402618,30,PERDEU,CJ,2502,83.4
+"DESINCRUSTANTE 1litro",4402619,1600,NAO_COTOU,UND,0,0
+"Desinfetante à base de quaternário de amônio de 5a geração",4402620,1163,NAO_COTOU,GL,0,0
+"Desinfetante à base de quaternário de amônio de 5a geração",4402621,387,NAO_COTOU,GL,0,0
+"Desinfetante de uso geral 5 Litros.",4402622,9249,NAO_COTOU,GAL,0,0
+"Desinfetante de uso geral 5 Litros.",4402623,2431,NAO_COTOU,GAL,0,0
+"Desinfetante de uso geral 500mL.",4402624,7220,NAO_COTOU,UND,0,0
+"Desinfetante Desengordurante - 5 litros.",4402625,1493,NAO_COTOU,GAL,0,0
+"Desinfetante Desengordurante - 5 litros.",4402626,497,NAO_COTOU,GAL,0,0
+"Desinfetante Hospitalar de Nível Intermediário",4402627,150,NAO_COTOU,GAL,0,0
+"Desinfetante para hortifruticulas",4402628,500,NAO_COTOU,UND,0,0
+"Desodorizador de ambientes 360 ml.",4402629,4200,VENCEU,FRA,25158,5.99
+"Desodorizador sanitário em gel",4402630,4200,PERDEU,UND,36120,8.6
+"DETERGENTE DESENGRAXANTE BIODEGRADÁVEL 5 Litros",4402631,3249,NAO_COTOU,UND,0,0
+"DETERGENTE DESENGRAXANTE BIODEGRADÁVEL 5 Litros",4402632,571,NAO_COTOU,UND,0,0
+"Detergente Líquido de uso geral 5 litros;",4402633,7125,NAO_COTOU,GAL,0,0
+"Detergente Líquido de uso geral 5 litros;",4402634,2375,NAO_COTOU,GAL,0,0
+"Detergente Líquido Neutro de uso geral 500 mL.",4402635,8280,NAO_COTOU,UND,0,0
+"Detergente para gorduras carbonizadas",4402636,280,NAO_COTOU,UND,0,0
+"Dispensador COPO SUJO ÁGUA",4402637,170,VENCEU,UND,4282.3,25.19
+"Dispenser plástico de parede para papel Toalha",4402638,595,PERDEU,UND,10412.5,17.5
+"Escova para higienização de mãos e unhas",4402639,1630,NAO_COTOU,UND,0,0
+"Escova para Lavar Roupa em Madeira",4402640,1625,DESCLASSIFICADO,UND,3380,2.08
+"Escova para limpeza em vaso sanitário",4402641,2535,DESCLASSIFICADO,UND,13638.3,5.38
+"Escovão para Limpeza de chão",4402642,1530,PERDEU,UND,8568,5.6
+"Esfregão de Aço",4402643,7120,NAO_COTOU,UND,0,0
+"Espanador eletrostático",4402644,470,VENCEU,UND,7943,16.9
+"Esponja de fibra sintética  100mmX75mmX42mm",4402645,21820,NAO_COTOU,UND,0,0
+"Esponja de fibra sintética 110mmX75mmX20mm",4402646,21280,NAO_COTOU,UND,0,0
+"Esponja de lã de Aço",4402647,8880,PERDEU,PCT,11366.4,1.28
+"Fibra para LIMPEZA PESADA",4402648,580,PERDEU,PCT,9280,16
+"FLANELA PARA LIMPEZA.",4402649,7850,INABILITADO,UND,6358.5,0.81
+"Garra mop plástica",4402650,610,NAO_COTOU,PCT,0,0
+"LIMPADOR BACTERICIDA CONCENTRADO BIODEGRADAVEL .",4402651,2403,NAO_COTOU,UND,0,0
+"LIMPADOR BACTERICIDA CONCENTRADO BIODEGRADAVEL .",4402652,567,NAO_COTOU,UND,0,0
+"LIMPADOR E DESINFETANTE DE USO GERAL A BASE DE QUARTENARIO D",4402653,2355,NAO_COTOU,UND,0,0
+"LIMPADOR E DESINFETANTE DE USO GERAL A BASE DE QUARTENARIO D",4402654,785,NAO_COTOU,UND,0,0
+"LIMPADOR E NEUTRALIZADOR DE ODORES. Embalagem 5 litros",4402655,1588,NAO_COTOU,GAL,0,0
+"LIMPADOR E NEUTRALIZADOR DE ODORES. Embalagem 5 litros",4402656,492,NAO_COTOU,GAL,0,0
+"Lixeira 100 litros",4402657,265,DESCLASSIFICADO,UND,70808,267.2
+"Lixeira 15 litros",4402658,769,NAO_COTOU,UND,0,0
+"Lixeira 15 litros",4402659,256,NAO_COTOU,UND,0,0
+"Lixeira 25 litros",4402660,270,PERDEU,UND,20763,76.9
+"Lixeira 50 litros",4402661,410,NAO_COTOU,UND,0,0
+"Lixeira 75 litros",4402662,230,NAO_COTOU,UND,0,0
+"Lustra móveis 200mL.",4402663,275,PERDEU,UND,737,2.68
+"Luva Látex não Estéril,Tamanho G",4402664,1643,DESCLASSIFICADO,CX,106630.7,64.9
+"Luva Látex não Estéril,Tamanho G",4402665,547,PERDEU,CX,35500.3,64.9
+"Luva Látex não Estéril,Tamanho M",4402666,1718,DESCLASSIFICADO,CX,111498.2,64.9
+"Luva Látex não Estéril,Tamanho M",4402667,572,DESCLASSIFICADO,CX,37122.8,64.9
+"Luva Nitrilica não Estéril, Tamanho G",4402668,140,PERDEU,CX,11900,85
+"Luva Nitrilica não Estéril, Tamanho M",4402669,210,PERDEU,CX,17850,85
+"Luva para Limpeza tamanho Grande cano longo (40 cm)",4402670,3750,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Grande cano 3/4 (35 cm)",4402671,3750,PERDEU,PAR,10050,2.68
+"Luva para Limpeza Tamanho Médio cano longo",4402672,3745,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Médio cano 3/4 (35 cm)",4402673,5280,PERDEU,PAR,14150.4,2.68
+"Luva para Limpeza Tamanho pequeno cano longo (40 cm)",4402674,3780,NAO_COTOU,PAR,0,0
+"Luva para Limpeza Tamanho Pequeno cano 3/4 (35 cm)",4402675,4780,DESCLASSIFICADO,PAR,16252,3.4
+"Luva para Limpeza, NITRILICA tamanho Grande cano 3/4 (35 cm)",4402676,800,PERDEU,PAR,6200,7.75
+"Luva para Limpeza, NITRILICA tamanho Médio cano 3/4 (35 cm)",4402677,1400,PERDEU,PAR,10850,7.75
+"Luva para Limpeza, NITRILICA tamanho Pequeno cano 3/4 (35 cm",4402678,1050,PERDEU,PAR,8137.5,7.75
+"Luva Plástica transparente",4402679,2050,VENCEU,PCT,4018,1.96
+"Maço de Fósforo",4402680,2630,NAO_COTOU,MA,0,0
+"Máscara cirúrgica tripla",4402681,1200,PERDEU,CX,19440,16.2
+"Máscara de proteção respiratória (respirador particulado - N",4402682,4000,PERDEU,UND,9280,2.32
+"Mop úmido (refil)",4402683,5097,PERDEU,UND,54435.96,10.68
+"Mop úmido (refil)",4402684,1698,PERDEU,UND,18134.64,10.68
+"NEUTRALIZADOR DE ODORES 300 ml",4402685,1395,NAO_COTOU,UND,0,0
+"Óculos para proteção profissional",4402686,810,NAO_COTOU,UND,0,0
+"Pá coletora plástica",4402687,760,NAO_COTOU,UND,0,0
+"Pá de lixo plástica",4402688,160,NAO_COTOU,UND,0,0
+"Pano de Prato.",4402689,17775,VENCEU,UND,66123,3.72
+"Pano de Prato.",4402690,5925,VENCEU,UND,22041,3.72
+"Papel filme PVC",4402691,450,NAO_COTOU,RL,0,0
+"Pastilhas de agente de conservação para forno",4402692,6,NAO_COTOU,BLD,0,0
+"Pastilhas de detergente para forno",4402693,6,NAO_COTOU,BLD,0,0
+"Placas de banheiro com acessibilidade",4402694,170,NAO_COTOU,UND,0,0
+"Placas de rota de fuga de incêndio fotoluminescente",4402695,500,NAO_COTOU,UND,0,0
+"Polidor de alumínio",4402696,360,NAO_COTOU,UND,0,0
+"Porta Detergente.",4402697,700,NAO_COTOU,UND,0,0
+"Porta papel higiênico plástico",4402698,425,PERDEU,UND,7480,17.6
+"Protetor Solar, fator 30, frasco com 200ml",4402699,3700,PERDEU,UND,54020,14.6
+"Pulverizador 2 em 1",4402700,2550,NAO_COTOU,UND,0,0
+PULVERIZADOR,4402701,120,NAO_COTOU,UND,0,0
+"Refil Mop seco 60 cm",4402702,1430,VENCEU,UND,32275.1,22.57
+"Refil Mop seco 80 cm",4402703,1480,VENCEU,UND,40996,27.7
+"Refil para espanador",4402704,235,PERDEU,UND,2848.2,12.12
+"Reservatório para sabonete liquido 630ml",4402705,70,NAO_COTOU,UND,0,0
+"Reservatório plástico para saboneteira",4402706,240,NAO_COTOU,UND,0,0
+"Rodo com propulsor",4402707,118,VENCEU,UND,67260,570
+"Rodo com propulsor",4402708,39,PERDEU,UND,22425,575
+"Rodo, base em aluminio, 30cm",4402709,960,NAO_COTOU,UND,0,0
+"Rodo, base em alumínio, 55cm",4402710,1960,NAO_COTOU,UND,0,0
+"Sabão em barra",4402711,6788,DESCLASSIFICADO,PCT,67880,10
+"Sabão em barra",4402712,2262,DESCLASSIFICADO,PCT,22620,10
+"Sabão em pó, grão azul, em embalagens plásticas com 1Kg",4402713,10688,NAO_COTOU,UND,0,0
+"Sabão em pó, grão azul, em embalagens plásticas com 1Kg",4402714,3562,NAO_COTOU,UND,0,0
+"Sabonete líquido.",4402715,8888,NAO_COTOU,GAL,0,0
+"Sabonete líquido.",4402716,2962,NAO_COTOU,GAL,0,0
+"Saboneteira com RESERVATÓRIO",4402717,820,PERDEU,UND,14350,17.5
+"Saca de tecido 100 % alvejado",4402718,11850,VENCEU,UND,50362.5,4.25
+"Saca de tecido 100 % alvejado",4402719,3950,VENCEU,UND,16787.5,4.25
+"Saca de tecido crua",4402720,14025,VENCEU,PCT,59606.25,4.25
+"Saca de tecido crua",4402721,4675,VENCEU,PCT,19868.75,4.25
+"Saco para coleta de resíduos sólidos infectantes 100 Litros",4402722,2250,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 100 Litros",4402723,750,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 30 Litros",4402724,2250,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 30 Litros",4402725,750,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 50 Litros",4402726,2250,NAO_COTOU,PCT,0,0
+"Saco para coleta de resíduos sólidos infectantes 50 Litros",4402727,750,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 100 litros",4402728,4560,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 100 litros",4402729,1520,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 150 litros",4402730,3435,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 150 litros",4402731,1145,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 200 litros",4402732,1935,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 200 litros",4402733,645,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 30 litros.",4402734,4410,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 30 litros.",4402735,1470,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 50 litros.",4402736,4185,NAO_COTOU,PCT,0,0
+"Saco plástico de lixo 50 litros.",4402737,1395,NAO_COTOU,PCT,0,0
+"Saponáceo cremoso",4402738,13260,PERDEU,ML,30630.6,2.31
+"Silicone em Gel automotivo",4402739,340,NAO_COTOU,UND,0,0
+"SODA CAUSTICA",4402740,360,NAO_COTOU,UND,0,0
+"Suporte de fixação para coletor Tamanho 13 litros",4402741,50,NAO_COTOU,UND,0,0
+"Suporte de fixação para coletor Tamanho 7 litros",4402742,50,NAO_COTOU,UND,0,0
+"Suporte limpa tudo",4402743,640,NAO_COTOU,UND,0,0
+"Suporte para copo 180 ml",4402744,720,VENCEU,UND,19872,27.6
+"Touca descartável.",4402745,1350,PERDEU,PCT,17145,12.7
+"Tratamento Biológico de fossa",4402746,225,NAO_COTOU,POT,0,0
+"Vassoura de nylon.",4402747,9075,DESCLASSIFICADO,UND,125235,13.8
+"Vassoura de nylon.",4402748,3025,DESCLASSIFICADO,UND,41745,13.8
+"VASSOURA DE PALHA",4402749,10093,PERDEU,UND,178646.1,17.7
+"VASSOURA DE PALHA",4402750,3007,VENCEU,UND,53223.9,17.7
+"Vassoura extensível com entrada para água",4402751,265,NAO_COTOU,UND,0,0

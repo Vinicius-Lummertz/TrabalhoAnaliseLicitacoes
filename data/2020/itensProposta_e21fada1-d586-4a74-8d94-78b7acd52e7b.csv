@@ -1,0 +1,43 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cantoneira - 1/4 x 1",0,20,NAO_COTOU," ",0,0
+"Cantoneira - 1/8 x 3/4 - (SER 3/4)",0,20,NAO_COTOU," ",0,0
+"Cantoneira - 1/8 x 5/8 - (SER 5/8)",0,20,NAO_COTOU," ",0,0
+"Cantoneira - 3/16 x 2",0,20,NAO_COTOU," ",0,0
+"Cantoneira - 1/4x 2",0,40,NAO_COTOU," ",0,0
+"Cantoneira - 3/4 x 6",0,5,NAO_COTOU," ",0,0
+"Cantoneira - 5/16 x 2",0,40,NAO_COTOU," ",0,0
+"Chapa FQ",0,4000,NAO_COTOU," ",0,0
+"Chapa Piso",0,500,NAO_COTOU," ",0,0
+"Ferro Chato - 1/2 x 1",0,80,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 1",0,80,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 1/2 - (SER. 1/2)",0,80,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 2",0,70,NAO_COTOU," ",0,0
+"Ferro Chato - 1/8 x 3/4",0,70,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 1/2",0,70,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 1",0,50,NAO_COTOU," ",0,0
+"Ferro Chato - 3/16 x 2",0,50,NAO_COTOU," ",0,0
+"Ferro Redondo 1020 (12.70) - 1/2",0,100,NAO_COTOU," ",0,0
+"Ferro Redondo 1020 (19.05) - 3/4",0,100,NAO_COTOU," ",0,0
+"Ferro Redondo  1020 (25.40) - 1",0,200,NAO_COTOU," ",0,0
+"Tubo Quad. 30x30x2.00x6000",0,100,NAO_COTOU," ",0,0
+"Tubo Quad. 50x50x2.00x6000",0,50,NAO_COTOU," ",0,0
+"Tubo Ret. 30x70x2.00x6000",0,50,NAO_COTOU," ",0,0
+"Tubo Ret. 40x80x3.00x6000",0,40,NAO_COTOU," ",0,0
+"Tubo Ret. 40x60x2.65x6000",0,40,NAO_COTOU," ",0,0
+"Arame Mig 1,00mm CC - ER 70S6 ROLO COM 18 KG",0,30,NAO_COTOU," ",0,0
+"Spay Anti Respingo",0,30,NAO_COTOU," ",0,0
+"Disco de Corte 230x3.0x22.22 A30Q-BF",0,100,NAO_COTOU," ",0,0
+"Disco de Corte Bsic - Xpert 115x1.0",0,200,NAO_COTOU," ",0,0
+"Disco Premium 230x1.9",0,60,NAO_COTOU," ",0,0
+"Disco de Corte Standard 178x3.2",0,60,NAO_COTOU," ",0,0
+"Disco de Desbaste 115x6x22.22 A30R",0,60,NAO_COTOU," ",0,0
+"Disco de Desbaste Secur 178x7.0",0,60,NAO_COTOU," ",0,0
+"Eletrodo 2.0 - Eletron Inox",0,15,NAO_COTOU," ",0,0
+"Eletrodo 3.25 70x18",0,15,NAO_COTOU," ",0,0
+"Eletrodo 3.25 60x13",0,30,NAO_COTOU," ",0,0
+"Eletrodo 2.5mm 60x13",0,30,NAO_COTOU," ",0,0
+"Eletrodo de Corte - Chanfro",0,30,NAO_COTOU," ",0,0
+"Lixa Ferro Tipo Grão 180gr 275x225",0,200,NAO_COTOU," ",0,0
+ACETILENO,0,50,VENCEU," ",1950,39
+Mistura,0,135,VENCEU," ",2403,17.8
+OXIGENIO,0,220,VENCEU," ",2354,10.7

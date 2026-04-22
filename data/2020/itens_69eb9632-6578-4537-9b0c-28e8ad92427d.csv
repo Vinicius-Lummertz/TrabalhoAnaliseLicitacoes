@@ -1,0 +1,10 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agulha  preta 22G1 nº 7210",1268613,1,5000,ATIVO,UNIDADE,5450,1.09
+"Agulha verde 21G1 nº 7212",1268614,2,20000,ATIVO,UNIDADE,21800,1.09
+"Scalp  25 G azul-cx",1268615,3,60,ATIVO,CAIXA,14625,243.75
+"Scalp 21 G verde-cx",1268616,4,40,ATIVO,CAIXA,9352,233.8
+"Tubo plástico sistema a vácuo p/ glicose 4 ml",1268617,5,5000,ATIVO,UNIDADE,4850,0.97
+"Tubo plástico sistema a vácuo p/ hemograma 4ml",1268618,6,10000,ATIVO,UNIDADE,6000,0.6
+"Tubo plástico sistema a vácuo p/ coagulação 4ml com Citrato",1268619,7,500,ATIVO,UNIDADE,575,1.15
+"Adaptador universal  que se adapte aos itens deste lote núme",1268620,8,200,ATIVO,UNIDADE,92,0.46
+"Beta HCG teste rápido imunocromatografico",1268621,13,1900,ATIVO,TESTE,1520,0.8

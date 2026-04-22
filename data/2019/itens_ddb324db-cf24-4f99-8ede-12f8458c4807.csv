@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carvedilol 12,5 mg cpr, em blister.",1265428,59,75000,ATIVO,COMPRIMIDO,7125,0.095
+"Carvedilol 25 mg cpr, em blister.",1265429,60,75000,ATIVO,COMPRIMIDO,9750,0.13
+"Ceftriaxona 500 mg intramuscular (IM) injetável, com diluent",1265430,65,1000,ATIVO,"Frasco ampola",8500,8.5

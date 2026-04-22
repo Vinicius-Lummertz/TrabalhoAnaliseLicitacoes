@@ -1,0 +1,24 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"9º ano - Prova de Língua Portuguesa",14018974,7904,VENCEU,UND,10670.4,1.35
+"9º ano - Prova de Matemática",14018975,7904,VENCEU,UNI,10670.4,1.35
+"8º ano - Prova de Língua Portuguesa",14018976,7904,VENCEU,UND,10670.4,1.35
+"8º ano - Prova de Matemática",14018977,7904,VENCEU,UNI,10670.4,1.35
+"7º ano - Prova de Língua Portuguesa",14018978,7904,VENCEU,UND,10670.4,1.35
+"7º ano - Prova de Matemática",14018979,7904,VENCEU,UNI,10670.4,1.35
+"6º ano - Prova de Língua Portuguesa",14018980,8360,VENCEU,UND,11286,1.35
+"6º ano - Prova de Matemática",14018981,8360,VENCEU,UND,11286,1.35
+"5º ano - Prova de Língua Portuguesa",14018982,19800,PERDEU,UND,34650,1.75
+"5º ano - Prova de Matemática",14018983,19800,PERDEU,UND,34650,1.75
+"3º ano - Prova de Língua Portuguesa",14018984,10880,PERDEU,UND,19040,1.75
+"3º ano - Prova de Matemática",14018985,10880,PERDEU,UNI,19040,1.75
+"Adesivos  10x15cm",14018986,2000,PERDEU,UND,4200,2.1
+"Adesivos 20x25cm",14018987,2000,PERDEU,UNI,9600,4.8
+"Adesivo 30x45cm",14018988,2000,PERDEU,UNI,25600,12.8
+AGENDA,14018989,500,PERDEU,UND,19900,39.8
+"Apostila  Libras",14018990,300,PERDEU,UND,17400,58
+"Capa de Transferência.",14018995,20000,PERDEU,UND,69600,3.48
+CONVITE,14018997,800,PERDEU,UND,3520,4.4
+"Diretriz curricular integral",14018998,500,PERDEU,UND,44950,89.9
+"Impressão colorida digital tamanho A3",14019001,2000,PERDEU,UND,13600,6.8
+"Placa de  plano de emergência",14019008,500,PERDEU,UND,20900,41.8
+CERTIFICADOS,14019010,10000,PERDEU,UNI,58000,5.8

@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Hidráulica - peso operacional 21 toneladas",14904314,3000,PERDEU,H,1200000,400
+"Escavadeira Hidráulica - peso operacional 14 toneladas",14904315,1500,PERDEU,H,546000,364
+Retroescavadeira,14904316,3000,PERDEU,H,555000,185
+"Trator de Esteiras",14904318,3000,VENCEU,H,1131000,377

@@ -1,0 +1,42 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cabo PP 4x2,5mm",0,150,DESCLASSIFICADO," ",1335,8.9
+"cobre ½",0,60,DESCLASSIFICADO," ",1848,30.8
+"Cano cobre ¼",0,60,DESCLASSIFICADO," ",876.6,14.61
+"Cano cobre ¾",0,60,DESCLASSIFICADO," ",2160,36
+"Cano cobre 3/8",0,60,DESCLASSIFICADO," ",1120.2,18.67
+"Cano cobre 5/8",0,60,DESCLASSIFICADO," ",1620,27
+"Cano esponjoso ¼",0,70,DESCLASSIFICADO," ",560,8
+"Cano esponjoso ½",0,70,DESCLASSIFICADO," ",581,8.3
+"Cano esponjoso ¾",0,70,DESCLASSIFICADO," ",595,8.5
+"Cano esponjoso 3/8",0,70,DESCLASSIFICADO," ",574,8.2
+"Cano esponjoso 5/8",0,70,DESCLASSIFICADO," ",595,8.5
+"Capacitor 380V 2 UF",0,10,DESCLASSIFICADO," ",187,18.7
+"Capacitor 380V 4 UF",0,10,DESCLASSIFICADO," ",231,23.1
+"Capacitor 380V 6 UF",0,10,DESCLASSIFICADO," ",219,21.9
+"Capacitor 380V 25 UF",0,10,DESCLASSIFICADO," ",281,28.1
+"Capacitor 380V 30 UF",0,10,DESCLASSIFICADO," ",310,31
+"Capacitor 380V 35 UF",0,10,DESCLASSIFICADO," ",295,29.5
+"Capacitor 380V 40 UF",0,10,DESCLASSIFICADO," ",283,28.3
+"Capacitor 380V 45 UF",0,10,DESCLASSIFICADO," ",386,38.6
+"Capacitor 380V 55 UF",0,10,DESCLASSIFICADO," ",320,32
+"Chave contactora CWM 09",0,10,DESCLASSIFICADO," ",2200,220
+"Chave contactora CWM 10",0,10,DESCLASSIFICADO," ",2200,220
+"Compressor para Split 9000 BTUS",0,3,DESCLASSIFICADO," ",816,272
+"Compressor para Split 12000 BTUS",0,3,DESCLASSIFICADO," ",855,285
+"Compressor para Split 18000 BTUS",0,3,DESCLASSIFICADO," ",1100.4,366.8
+"Compressor para Split 24000 BTUS",0,3,DESCLASSIFICADO," ",1260,420
+"Compressor para Split 30000 BTUS",0,3,DESCLASSIFICADO," ",1857.06,619.02
+"Compressor para Split 60000 BTUS",0,3,DESCLASSIFICADO," ",2841,947
+"Controle remoto univ. ar split",0,10,DESCLASSIFICADO," ",709.2,70.92
+"Gás R22 (carga)",0,120,DESCLASSIFICADO," ",19200,160
+"Gas R410 A (carga)",0,100,DESCLASSIFICADO," ",19102,191.02
+"Hélice ar cond. 7000 a 24.000 BTUS",0,15,DESCLASSIFICADO," ",1823.4,121.56
+"PLACA ELETRONICA",0,10,DESCLASSIFICADO," ",3510,351
+"Motor do ventilador",0,10,DESCLASSIFICADO," ",4140,414
+"Suporte split 7/12000btus",0,50,DESCLASSIFICADO," ",1810.5,36.21
+"Suporte split 18/30000btus",0,50,DESCLASSIFICADO," ",2231.5,44.63
+"Termostato do ar condicionado",0,10,DESCLASSIFICADO," ",1058.3,105.83
+"Turbina  do ventilador",0,10,DESCLASSIFICADO," ",2516.7,251.67
+"Limpeza de ar split 9/24.000 btus sem retirada do aparelho",0,200,DESCLASSIFICADO," ",35534,177.67
+"Limpeza completa do ar split com retirada do aparelho",0,220,DESCLASSIFICADO," ",50967.4,231.67
+"Serviços de Manutenção, Conserto e Instalação dos Aparelhos",0,250,DESCLASSIFICADO," ",32082.5,128.33

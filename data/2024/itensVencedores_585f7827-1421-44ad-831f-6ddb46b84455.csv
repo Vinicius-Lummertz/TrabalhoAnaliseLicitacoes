@@ -1,0 +1,9 @@
+cnpjCpfVencedor,codigo,descricao,numero,participanteVencedor,quantidade,unidadeMedida,valorTotalReferencia,valorTotalVencedor,valorUnitarioReferencia,valorUnitarioVencedor
+00.802.002/0001-02,3401028348,"Fralda descartável infantil tamanho P (pequeno), formato anatômico, antialérgica.",5,"ALTERMED MATERIAL MEDICO HOSPITALAR LTDA",1000,UND,600,430,0.6,0.43
+30.888.187/0001-72,3401028349,"Fralda descartável infantil tamanho M (médio), formato anatômico, antialérgica.",6,"PEROLA IMPORTADORA E DISTRIBUIDORA HOSPITALAR EIRELI",1000,UND,670,480,0.67,0.48
+30.888.187/0001-72,3401028350,"Fralda descartável infantil tamanho G (grande), formato anatômico, antialérgica.",7,"PEROLA IMPORTADORA E DISTRIBUIDORA HOSPITALAR EIRELI",6000,UND,4800,3360,0.8,0.56
+30.888.187/0001-72,3401028351,"Fralda descartável infantil tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",8,"PEROLA IMPORTADORA E DISTRIBUIDORA HOSPITALAR EIRELI",8000,UND,8240,4960,1.03,0.62
+43.192.344/0001-52,3401028344,"Fralda descartável adulto tamanho P (pequeno), formato anatômico, antialérgica.",1,"LA VITTA PRODUTOS HIGIENICOS LTDA",35000,UND,51800,36400,1.48,1.04
+43.192.344/0001-52,3401028345,"Fralda descartável adulto tamanho M (médio), formato anatômico, antialérgica.",2,"LA VITTA PRODUTOS HIGIENICOS LTDA",75000,UND,129750,79500,1.73,1.06
+43.192.344/0001-52,3401028346,"Fralda descartável adulto tamanho G (grande), formato anatômico, antialérgica.",3,"LA VITTA PRODUTOS HIGIENICOS LTDA",300000,UND,540000,342000,1.8,1.14
+43.192.344/0001-52,3401028347,"Fralda descartável adulto tamanho XG/GG (extra-grande), formato anatômico, antialérgica.",4,"LA VITTA PRODUTOS HIGIENICOS LTDA",400000,UND,768000,484000,1.92,1.21

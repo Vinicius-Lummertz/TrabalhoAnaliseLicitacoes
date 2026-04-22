@@ -1,0 +1,5 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lençol hospitalar descartável em papel",1353736,122,2500,ATIVO,ROLO,24900,9.96
+"HIPOCLORITO DE SÓDIO 1%",1353742,106,1800,ATIVO,LITRO,4428,2.46
+"Clorexidina alcoólica",1353753,47,1200,ATIVO,LITRO,10788,8.99
+"Agua oxigenada 10% (peróxido de hidrogênio)",1353768,3,250,ATIVO,LITRO,972.5,3.89

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ração seca especial para cães adultos;",7545745,42,10000,ATIVO,kg,42900,4.29
+"Ração seca especial para cães filhotes;",7545746,43,600,ATIVO,kg,5040,8.4
+"Ração seca especial para Gatos adultos,",7545747,63,7500,ATIVO,kg,56250,7.5
+"Ração seca especial para Gatos adultos,",7545748,64,2500,ATIVO,kg,18750,7.5
+"Ração seca especial para Gatos Filhotes,",7545749,65,600,ATIVO,kg,9360,15.6

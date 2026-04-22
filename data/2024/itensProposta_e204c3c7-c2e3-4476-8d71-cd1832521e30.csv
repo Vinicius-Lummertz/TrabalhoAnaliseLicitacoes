@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bloco de concreto estrutural, dimensões 14 x 19 x 39 cm, Fck",15251604,10000,PERDEU,UND,50000,5
+"Bloco de concreto modelo paver/tijolinho, com 20 x 10 x 6 cm",15251606,3000,PERDEU,M2,174000,58
+"Bloco de concreto modelo unistein/16 faces/onda, com 22 x 11 x 8 cm",15251607,2000,PERDEU,M2,145500,72.75
+"Meio-fio de concreto pré-moldado, dimensões: 100x12x10x30 cm",15251608,6000,PERDEU,m,194700,32.45

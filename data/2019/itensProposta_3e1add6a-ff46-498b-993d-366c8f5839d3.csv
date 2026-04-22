@@ -1,0 +1,36 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Agua Sanitária  com 5 Litros.",4385494,180,PERDEU,GAL,975.6,5.42
+Alvejante,4385495,120,PERDEU,GAL,1341.6,11.18
+"Amaciante para tecidos",4385496,70,PERDEU,GAL,734.3,10.49
+"Desinfetante de uso geral",4385497,180,PERDEU,GAL,1260,7
+"Detergente Neutro Líquido de Uso Geral",4385498,180,PERDEU,GAL,1688.4,9.38
+"Sabão liquido de coco",4385499,60,DESCLASSIFICADO,GAL,925.2,15.42
+"Detergente com Cera Para Veículos",4385500,120,PERDEU,GAL,1164,9.7
+"Limpa pneus com silicone",4385501,80,VENCEU,GAL,1600.8,20.01
+"Sabonete Líquido com Bico Dosador Pump",4385503,300,VENCEU,EMB,1734,5.78
+"Sabonete líquido, perfumado galão contendo 5 litros",4385504,60,PERDEU,UND,886.2,14.77
+"Álcool etílico em gel 70% (70 INPM)",4385506,100,PERDEU,GR,414,4.14
+"Álcool etílico hidratado 96% (92,8º INPM)",4385507,60,PERDEU,LT,355.8,5.93
+"Desodorizador de ambientes 360 ml.",4385509,60,DESCLASSIFICADO,FRA,631.2,10.52
+"Pedra Sanitária",4385510,300,DESCLASSIFICADO,UND,753,2.51
+"Sabão em barra",4385511,30,DESCLASSIFICADO,PCT,316.5,10.55
+"Saponáceo em pó;",4385513,30,PERDEU,CXA,53.7,1.79
+"Saponáceo cremoso 300gr.",4385514,60,DESCLASSIFICADO,FRA,431.4,7.19
+"Esponja de lã de Aço.",4385518,120,DESCLASSIFICADO,PCT,358.8,2.99
+ESPONJA,4385519,180,PERDEU,PCT,374.4,2.08
+"Flanela para limpeza",4385520,30,VENCEU,UND,28.2,0.94
+"Luva para Limpeza.",4385521,40,VENCEU,UND,74.8,1.87
+"Refil Mopi úmido (refil)",4385523,60,PERDEU,UND,1289.4,21.49
+"Pano de copa e cozinha",4385529,30,PERDEU,UND,63.6,2.12
+"Pano Multiúso",4385530,60,VENCEU,RL,6318,105.3
+"Bobina de Papel Toalha",4385531,80,PERDEU,CX,6995.2,87.44
+"Papel higiênico",4385533,6,DESCLASSIFICADO,FRD,708.18,118.03
+"Papel Higiênico Rolão",4385534,60,PERDEU,FRD,2272.2,37.87
+"Porta Papel Higiênico Rolão",4385535,4,VENCEU,UND,99,24.75
+"Saco plástico de lixo doméstico de polietileno 240 L",4385538,20,PERDEU,UND,2538,126.9
+"Saco plástico de lixo domestico de polietileno,100 litros",4385539,10,DESCLASSIFICADO,PCT,600,60
+"Saco plástico de lixo domestico,com capacidade de 50 litros",4385540,15,PERDEU,PCT,375,25
+"Saco plástico de lixo domestico de polietileno 30 litros",4385541,15,PERDEU,PCT,330,22
+"VASSOURA PALHA",4385543,20,DESCLASSIFICADO,UND,538,26.9
+"Copo descartavel 180 ml",4385544,15,PERDEU,CX,848.25,56.55
+"copo descartavel 300ml CX transparente",4385545,15,PERDEU,CX,1434,95.6

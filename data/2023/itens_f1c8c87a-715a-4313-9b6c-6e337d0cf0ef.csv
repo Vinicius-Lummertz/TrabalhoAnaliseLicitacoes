@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Lâmina de bisturi nº 12",4222098,364,20,ATIVO,CXA,626,31.3
+"Lâmina de bisturi nº 15, em aço inox.caixa com 100 und",4222099,365,50,ATIVO,CAIXA,1565,31.3
+"Lâmina de bisturi nº 15C",4222100,366,10,ATIVO,CAIXA,349,34.9
+"Seringa descartável 20ml com Agulha LuerLock 25x7 22G",4222101,502,500,ATIVO,UNIDADE,305,0.61
+"Seringa hipodérmica 5ml com agulha Luer Lock 25x7 22G",4222102,503,100,ATIVO,Pacote,41,0.41

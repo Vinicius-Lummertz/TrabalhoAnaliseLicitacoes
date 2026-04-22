@@ -1,0 +1,15 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 100W  Branco, Vida útil 25,000 Horas",0,150,PERDEU," ",5310,35.4
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 100W  Verde, Vida útil 25,000 Horas",0,50,PERDEU," ",3105,62.1
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 150W  Branco, Vida útil 25,000 Horas",0,250,PERDEU," ",11425,45.7
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 200W  Branco, Vida útil 25,000 Horas",0,250,PERDEU," ",14812.5,59.25
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 30W  Verde, Vida útil: 25,000 Horas",0,50,PERDEU," ",1945,38.9
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 400W  Branco frio luminosidade mínima 3600 80",0,150,PERDEU," ",21180,141.2
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 50W  Branco, Vida útil 25,000 Horas",0,150,PERDEU," ",3555,23.7
+"Refletor em LED com grau de proteção IP 65, Tensão 220V Potência 50W Verde, Vida útil 25,000 Horas",0,50,PERDEU," ",1670,33.4
+"Luminária LED potência máxima 120W",0,300,DESCLASSIFICADO," ",184380,614.6
+"Luminária LED potência máxima 150W",0,300,DESCLASSIFICADO," ",211560,705.2
+"Luminária LED potência máxima 190W.",0,300,DESCLASSIFICADO," ",218940,729.8
+"Luminária LED potência máxima 50W",0,500,DESCLASSIFICADO," ",222650,445.3
+"Luminária LED potência máxima 70W",0,500,DESCLASSIFICADO," ",226600,453.2
+"Luminária LED potência máxima 90W",0,500,DESCLASSIFICADO," ",268850,537.7

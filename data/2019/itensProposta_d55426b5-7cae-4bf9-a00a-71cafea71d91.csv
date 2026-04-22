@@ -1,0 +1,25 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Água destilada galão de 5 litros para uso em autoclave",4440627,500,DESCLASSIFICADO,GL,3680,7.36
+"Álcool etílico 70° antisséptico",4440636,3000,PERDEU,FRA,10470,3.49
+"Alcool Gel 70% frasco com valvula pump, de 400 a 500",4440637,2000,PERDEU,FR.,13700,6.85
+"Clorexidina alcoólica",4440675,1200,VENCEU,L,9432,7.86
+"Clorexidina aquosa",4440676,1200,DESCLASSIFICADO,UND,2004,1.67
+"Coletor para materiais perfuro cortante (capacidade 13 Litro",4440678,3000,DESCLASSIFICADO,UNI,11100,3.7
+"Coletor para materiais perfuro cortante (capacidade 7 Litros",4440679,3000,DESCLASSIFICADO,UNI,8370,2.79
+"Compressa Cirúrgica 45x50, tipo campo operatório, não descar",4440680,600,DESCLASSIFICADO,PCT,59310,98.85
+"Compressa Cirúrgica, 23x25, tipo campo operatório, não desca",4440681,300,DESCLASSIFICADO,PCT,11553,38.51
+"Compressa de gaze (tipo queijo) em rolo",4440682,100,DESCLASSIFICADO,ROLO,8173,81.73
+"Compressa de gaze Hidrófila 7,5 X 7,5 com 9 fios",4440683,1200,PERDEU,PCT,18060,15.05
+"Compressa de Gaze Hidrófila Estéril 7,5 x 7,5 cm c/ 11 fios",4440685,100000,DESCLASSIFICADO,PCT,57000,0.57
+"Detergente enzimático.",4440687,250,VENCEU,GL,16225,64.9
+"Filtro Solar, fator 30, frasco com 120ml ou 125ml",4440714,1000,PERDEU,UNI,7830,7.83
+"Gel condutor para exames de Ultra-sonografia/Eletrocardiogra",4440731,1000,PERDEU,UNI,1160,1.16
+"GLICERINA LIQUIDA",4440733,30,VENCEU,LT,504,16.8
+"Haste flexível de algodão.",4440734,800,DESCLASSIFICADO,CXA,968,1.21
+"Hipoclorito de sódio 1%.",4440735,300,VENCEU,L,732,2.44
+"Lençol hospitalar descartável em papel",4440747,1000,VENCEU,ROLO,8210,8.21
+"oleo de girassol",4440770,6000,DESCLASSIFICADO,UN,23880,3.98
+"Preservativos Masculinos de 52 mm, com lubrificante",4440776,337500,INABILITADO,UN,70875,0.21
+"Preservativos Masculinos de 52 mm, com lubrificante",4440777,112500,INABILITADO,UN,23625,0.21
+"Solução degermante de gluconato de clorexidina a 2% ou 4%.",4440791,500,PERDEU,L,7675,15.35
+Vaselina,4440848,30,PERDEU,LIT,516.6,17.22

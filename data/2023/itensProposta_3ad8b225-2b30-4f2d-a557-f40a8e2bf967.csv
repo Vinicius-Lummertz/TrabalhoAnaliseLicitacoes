@@ -1,0 +1,4 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Avental RX para Paciente Adulto",10971244,1,PERDEU,UN,489.99,489.99
+"Avental RX para Paciente Infantil",10971245,1,VENCEU,UN,484.99,484.99
+"Câmara Escura Para Revelação",10971317,2,PERDEU,UN,696.5,348.25

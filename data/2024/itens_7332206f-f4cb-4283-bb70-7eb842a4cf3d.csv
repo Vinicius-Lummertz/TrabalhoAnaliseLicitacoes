@@ -1,0 +1,13 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Escavadeira Doosan DX225LC",5973159,1,1,ATIVO,UNIDADE,13235.43,68.5
+"Minicarregadeira Caterpillar 246C",5973160,4,1,ATIVO,UNIDADE,13235.29,61.5
+"Motoniveladora New Holland RG170",5973161,6,2,ATIVO,UNIDADE,26470.58,40.5
+"Pá Carregadeira Doosan SD200-3",5973162,8,1,ATIVO,UNIDADE,13235.29,43.5
+"Pá Carregadeira Michigan 55C",5973163,10,1,ATIVO,UNIDADE,13235.29,62.5
+"Retroescavadeira JCB 3CXB",5973164,13,1,ATIVO,UNIDADE,13235.29,60.5
+"Retroescavadeira XCMG XT870BR-I",5973165,17,1,ATIVO,UNIDADE,13235.29,65.5
+"Rolo Compactador Hamm",5973166,19,1,ATIVO,UNIDADE,13235.29,65.5
+"Rolo Compactador Liu Gong",5973167,20,1,ATIVO,UNIDADE,13235.29,68.5
+"Rolo Compactador Tema Terra SP8000",5973168,21,1,ATIVO,UNIDADE,13235.29,65.5
+"Trator Agrícola LS PLUS100",5973169,24,1,ATIVO,UNIDADE,13235.29,69.5
+"Trator Agrícola New Holland TT4030",5973170,26,1,ATIVO,UNIDADE,13235.29,74

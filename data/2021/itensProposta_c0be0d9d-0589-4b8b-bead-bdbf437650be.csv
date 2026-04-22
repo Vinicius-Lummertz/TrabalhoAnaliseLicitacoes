@@ -1,0 +1,16 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"FOLDERS 21 x 20",1,10000,Desclassificado,UNI,6300,0.63
+"FOLDERS 30 X 21",2,5000,Desclassificado,UNI,3450,0.69
+"FOLDERS 30 X 21",3,30000,Desclassificado,UNI,7200,0.24
+"IMPRESSOS - 15X21 - 10 MODELOS",4,10000,Desclassificado,UNI,5000,0.5
+"CARTAZES - 64x46 - 5 modelos",5,2000,Perdeu,UNI,4540,2.27
+"PASTA - sem bolso",6,3000,Desclassificado,UNI,4950,1.65
+"ENVELOPES GRANDES",7,2500,Desclassificado,UNI,1725,0.69
+"ENVELOPES MÉDIOS",8,2500,Perdeu,UNI,1150,0.46
+"ENVELOPES PEQUENOS",9,2000,Desclassificado,UNI,940,0.47
+"CARTILHAS - A5 - 44 Páginas + capa",10,2500,Desclassificado,UNI,13525,5.41
+"FAIXA - Faixa 300x70",11,25,Venceu,UNI,1861.75,74.47
+"ADESIVO - Adesivo 50x40",12,25,Venceu,UNI,431.25,17.25
+"BLOCOS F.A.F",13,2000,Desclassificado,BLC,50000,25
+"BANNERS 100x200",14,30,Perdeu,UNI,2150.4,71.68
+"BANNERS  90X120",15,30,Perdeu,UNI,1470,49

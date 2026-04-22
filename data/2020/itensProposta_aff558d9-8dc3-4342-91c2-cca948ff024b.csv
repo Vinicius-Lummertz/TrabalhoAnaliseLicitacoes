@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Carne bovina: Acém resfriado",4444683,1100,VENCEU,KG,22660,20.6
+"Carne bovina: Coxão de fora resfriado (coxão duro)",4444684,1000,VENCEU,KG,23380,23.38
+"Carne bovina: Fígado",4444685,80,VENCEU,KG,1276,15.95
+"Carne bovina: Moída - Lombo-acém sem osso",4444686,1200,VENCEU,KG,23244,19.37
+"Carne bovina: músculo",4444687,220,VENCEU,KG,4371.4,19.87
+"Carne bovina: Tatu",4444688,220,VENCEU,KG,5471.4,24.87
+"Carne de frango congelada: Coxa e sobrecoxa",4444689,1300,PERDEU,KG,10582,8.14
+"Carne de frango congelada: Filé de peito (sassami)",4444690,850,PERDEU,KG,9503,11.18
+"Carne de frango congelada: Galinha caipira",4444691,150,PERDEU,KG,1288.5,8.59
+"Carne de frango congelada: Moela",4444692,100,PERDEU,KG,837,8.37
+"Carne suína congelada: Lombo médio sem osso",4444693,140,PERDEU,KG,2625,18.75
+"Lingüiça de frango",4444694,140,PERDEU,KG,1870.4,13.36
+"Pescado: peixe em posta",4444695,140,PERDEU,KG,2800,20
+"AMIDO DE MILHO",4444696,50,PERDEU,KG,212.5,4.25
+"Arroz Parbolizado;",4444697,2200,PERDEU,KG,7678,3.49
+"Arroz Polido;",4444698,120,PERDEU,KG,445.2,3.71
+"Biscoito doce sem recheio",4444700,450,PERDEU,UNI,1791,3.98
+"BISCOITO SALGADO INTEGRAL",4444701,450,PERDEU,PCT,1876.5,4.17
+"FARINHA DE TRIGO",4444702,550,PERDEU,KG,1424.5,2.59
+"Fermento em Pó Químico",4444704,150,PERDEU,UN,604.5,4.03
+"Macarrão Tipo Conchinha",4444705,140,VENCEU,KG,544.6,3.89
+"Macarrão Tipo Parafuso",4444706,400,PERDEU,KG,1476,3.69
+"Leite Integral UHT",4444710,3300,INABILITADO,CX,12771,3.87
+"ACUCAR REFINADO",4444711,800,PERDEU,KG,2072,2.59
+"DOCE DE FRUTAS",4444713,250,PERDEU,POT,995,3.98
+"Doce de Leite em Pasta",4444714,250,PERDEU,UNI,865,3.46
+"Margarina (Creme Vegetal)",4444716,400,PERDEU,UNI,1556,3.89
+"CAFE EXTRA FORTE",4444717,350,VENCEU,KG,2621.5,7.49
+"Sal Refinado",4444730,200,PERDEU,KG,242,1.21
+Vinagre,4444731,300,PERDEU,FRA,576,1.92

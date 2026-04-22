@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Botas (EPI)",4442961,90,VENCEU,PAR,2488.5,27.65
+"Conjunto de roupa de chuva para motoqueiro: blusa/jaqueta +",4442962,44,VENCEU,CNJ,2901.8,65.95
+"Máscara facial inteira (completa) com dois filtros (EPI)",4442965,6,VENCEU,UN,3780,630
+"Cartucho químico para respiradores de máscara facial inteira",4442966,15,VENCEU,UN,1484.85,98.99
+"Luvas de vaqueta com punho de raspa (EPI)",4442967,15,VENCEU,PAR,225,15
+Coletes,4442969,40,PERDEU,UN,1960,49

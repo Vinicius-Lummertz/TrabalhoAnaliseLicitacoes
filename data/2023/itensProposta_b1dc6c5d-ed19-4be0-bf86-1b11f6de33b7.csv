@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,150000,0.06
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,PERDEU,FR,158400,9.9
+"Cloreto de sódio 0,9%, sistema ABERTO, frasco 100ml",11967238,8000,VENCEU,FRA,17920,2.24
+"Dexametasona 0,1% creme, bisnaga 10 a 15g.",11967246,24000,PERDEU,BIS,39120,1.63
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,44000,0.08
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,507000,0.169
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,6200,1.55
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,47700,1.59
+"Fosfato de sódio monobásico + Fosfato de Sódio dibásico 16 g + 6 g enema pronto para uso (solução retal) com 130 ml.",11967287,4000,PERDEU,FR,27160,6.79
+"Hidroxido de aluminio 60mg + hidroxido de magnésio 40mg/mL,",11967304,12000,PERDEU,FR.,33960,2.83
+"Loratadina 1mg/mL xarope, frasco de 100ml.",11967335,12000,PERDEU,FR,49920,4.16
+"Metoclopramida, cloridrato 10mg cpr, em blister.",11967343,850000,PERDEU,COMP,85000,0.1
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",11967357,20000,PERDEU,BIS,46800,2.34
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,46800,3.9
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,24540,40.9
+"Sulfato ferroso 125mg/mL solução oral, frasco 30ml.",11967397,7000,PERDEU,FR.,8414,1.202
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,37200,0.031
+"Vitaminas do Complexo B cpr ( B3 16mg, B5 5mg, B6 1,3mg, B2",11967411,600000,PERDEU,COMP,36000,0.06

@@ -1,0 +1,66 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+Abraçadeiras,0,100,VENCEU," ",28,0.28
+"CABO PP",0,100,VENCEU," ",425,4.25
+"Caixa de Passagem Split",0,4,VENCEU," ",15.12,3.78
+"Cano cobre ½",0,4,VENCEU," ",302.28,75.57
+"Cano cobre ¼",0,4,VENCEU," ",302.28,75.57
+"Cano cobre 3/8",0,4,VENCEU," ",302.28,75.57
+"Cano cobre 5/8",0,4,VENCEU," ",302.28,75.57
+"Cano cobre ¾",0,4,VENCEU," ",302.28,75.57
+"Cano esponjoso ½ - barra de 2 metros",0,40,VENCEU," ",113.2,2.83
+"Cano esponjoso ¼ - barra de 2 metros",0,40,VENCEU," ",113.2,2.83
+"Cano esponjoso 3/8 - barra de 2 metros",0,40,VENCEU," ",113.2,2.83
+"Cano esponjoso 5/8 - barra de 2 metros",0,40,VENCEU," ",113.2,2.83
+"Cano esponjoso 3/4 - barra de 2 metros",0,40,VENCEU," ",113.2,2.83
+"Capacitor 380V 2 MF",0,10,VENCEU," ",37.8,3.78
+"Capacitor 380V 3 MF",0,10,VENCEU," ",66.1,6.61
+"Capacitor 380V 4 MF",0,10,VENCEU," ",66.1,6.61
+"Capacitor 380V 5 MF",0,10,VENCEU," ",75.6,7.56
+"Capacitor 380V 8 MF",0,4,VENCEU," ",30.24,7.56
+"Capacitor 380V 10 MF",0,4,VENCEU," ",37.8,9.45
+"Capacitor 380V 15 MF",0,10,VENCEU," ",113.4,11.34
+"Capacitor 380V 20 MF",0,10,VENCEU," ",141.7,14.17
+"Capacitor 380V 25 MF",0,10,VENCEU," ",141.7,14.17
+"Capacitor 380V 30 MF",0,10,VENCEU," ",141.7,14.17
+"Capacitor 380V 35 MF",0,10,VENCEU," ",188.9,18.89
+"Capacitor 380V 40 MF",0,10,VENCEU," ",188.9,18.89
+"Capacitor 380V 45 MF",0,10,VENCEU," ",226.7,22.67
+"Capacitor 380V 55 MF",0,10,VENCEU," ",226.7,22.67
+"Chave contactora CWM 09",0,4,VENCEU," ",491.2,122.8
+"Chave contactora CWM 10",0,5,VENCEU," ",614,122.8
+"Chave contactora CWM 80",0,4,VENCEU," ",3118.28,779.57
+"Compressor 9.000 BTUs R22 220V",0,5,VENCEU," ",2597.65,519.53
+"Compressor 12.000 BTUs R22 220V",0,5,VENCEU," ",2833.8,566.76
+"Compressor 18.000 BTUs R22 220V",0,5,VENCEU," ",3306.1,661.22
+"Compressor 24.000 BTUs R22 220V",0,5,VENCEU," ",3778.4,755.68
+"Compressor 30.000 BTUs R22 220V",0,5,VENCEU," ",5195.35,1039.07
+"Compressor 36.000 BTUs R22 MONO 220V",0,5,VENCEU," ",11547.8,2309.56
+"Compressor 36.000 BTUs R22 380V",0,5,VENCEU," ",8501.45,1700.29
+"Compressor 48.000 BTUs R22 380V",0,5,VENCEU," ",8501.45,1700.29
+"Compressor 60.000 BTUs R22 380V",0,5,VENCEU," ",8501.45,1700.29
+"Compressor 9.000 BTUs R410A 220V",0,5,VENCEU," ",2597.65,519.53
+"Compressor 12.000 BTUs R410A 220V",0,5,VENCEU," ",2833.8,566.76
+"Compressor 18.000 BTUs R410A 220V",0,5,VENCEU," ",3306.1,661.22
+"Compressor 24.000 BTUs R410A 220V",0,5,VENCEU," ",3778.4,755.68
+"Compressor 30.000 BTUs R410A 220V",0,5,VENCEU," ",6139.95,1227.99
+"Compressor 36.000 BTUs R410A MONO 220V",0,5,VENCEU," ",8501.45,1700.29
+"Compressor 36.000 BTUs R410A 380V",0,5,VENCEU," ",7084.55,1416.91
+"Compressor 48.000 BTUs R410A 380V",0,5,VENCEU," ",8501.45,1700.29
+"Compressor 60.000 BTUs R410A 380V",0,5,VENCEU," ",8501.45,1700.29
+"Controle remoto universal ar condicionado",0,10,VENCEU," ",236.2,23.62
+"Dreno ar condicionado",0,10,VENCEU," ",94.5,9.45
+"Espuma de vedação ar cond.",0,6,VENCEU," ",56.7,9.45
+"Filtro de nylon ar condicionado",0,10,VENCEU," ",330.6,33.06
+"Fita PVC 100mm branca",0,100,VENCEU," ",378,3.78
+"Fluído Refrigerante (Gás) R22",0,50,VENCEU," ",5288,105.76
+"Fluído Refrigerante (Gás) R410A",0,50,VENCEU," ",4433.5,88.67
+"Mangueira cristal",0,400,VENCEU," ",1324,3.31
+"Placa eletrônica Ar Condicionado Universal",0,10,VENCEU," ",1322.4,132.24
+"Sensor de temperatura ambiente",0,4,VENCEU," ",262.96,65.74
+"Sensor temperatura externo",0,4,VENCEU," ",278.56,69.64
+"Suporte split 7/12000btus - FIBRA",0,15,VENCEU," ",730.05,48.67
+"Suporte split 18/30000btus - FIBRA",0,15,VENCEU," ",1004.7,66.98
+"Suporte split CONDENSADORA 36.000 - 60.000btus - METAL",0,10,VENCEU," ",1228,122.8
+"Suporte split EVAPORADORA 36.000 - 60.000btus - METAL",0,10,VENCEU," ",661.2,66.12
+"Termostato ar cond. 1601",0,4,VENCEU," ",419.48,104.87
+"Serviço de instalação, limpeza e manutenção dos aparelhos",0,700,VENCEU," ",83755,119.65

@@ -1,0 +1,8 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Tubo de concreto com d = 200 mm",11137076,6000,PERDEU,M,149400,24.9
+"Tubo de concreto com d = 300 mm",11137077,8500,PERDEU,M,229075,26.95
+"Tubo de concreto com d = 400 mm",11137078,8500,VENCEU,M,300900,35.4
+"Tubo de concreto com d = 500 mm",11137079,1500,VENCEU,M,66750,44.5
+"Tubo de concreto com d = 600 mm",11137080,600,VENCEU,M,38970,64.95
+"tubo de concreto D: 800 mm CA1",11137081,800,PERDEU,M,176000,220
+"tubo de concreto D: 1000 mm CA1",11137082,800,PERDEU,M,240000,300

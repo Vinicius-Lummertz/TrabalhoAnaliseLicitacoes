@@ -1,0 +1,31 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",4440892,12000,VENCEU,BIS,24600,2.05
+"Ácido Valproico 50mg/mL, xarope, com copo-medida, frasco 100",4440900,11000,DESCLASSIFICADO,FR.,40150,3.65
+"Albendazol 400mg comprimido mastigável, em blister.",4440906,15000,VENCEU,COMP,5025,0.335
+"Albendazol 400mg/mL suspensão oral, frasco 10ml.",4440907,25000,VENCEU,FR.,25750,1.03
+"Alopurinol 100mg cpr, em blister.",4440909,600000,VENCEU,COMP,41400,0.069
+"Amoxicilina 250mg/5mL (50mg/ml) suspensão oral",4440915,20000,VENCEU,FR.,65000,3.25
+"Ampicilina 500mg, capsula, em blister.",4440919,5000,VENCEU,CPLA,1375,0.275
+"Atenolol 50mg cpr, em blister.",4440921,1500000,VENCEU,COMP,52500,0.035
+"Azitromicina 500mg  blister com 01 comprimido",4440924,100000,DESCLASSIFICADO,COMP,85000,0.85
+"Brometo de ipratrópio 0,250mg/mL solução para inalação, fras",4440935,2000,DESCLASSIFICADO,FR.,1900,0.95
+"Dexametasona 0,1% creme, bsinaga 10g.",4440979,30000,PERDEU,BIS,29400,0.98
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4440989,16000,DESCLASSIFICADO,FR.,20000,1.25
+"Dipirona 500mg cpr, em blister.",4440990,1200000,VENCEU,COMP,81600,0.068
+"Eritromicina 50mg/mL suspensão oral,  frasco 60ml.",4441000,200,VENCEU,FR.,826,4.13
+"Furosemida 40mg cpr, em blister.",4441022,680000,VENCEU,COMP,20400,0.03
+"Levofloxacino 500mg cpr, em blister.",4441054,6000,VENCEU,COMP,2700,0.45
+"Loratadina 1mg/mL xarope, frasco de 60ml.",4441067,8000,VENCEU,FR.,18800,2.35
+"Losartana 50mg cpr revestido, em blister.",4441068,3200000,DESCLASSIFICADO,COMP,198400,0.062
+"Metformina 500mg cpr, em blister.",4441070,1400000,VENCEU,COMP,88200,0.063
+"Metformina 850mg cpr, em blister.",4441071,3000000,VENCEU,COMP,174000,0.058
+"Metronidazol 250mg cpr, em blister.",4441080,250000,VENCEU,COMP,22500,0.09
+"Metronidazol 500mg/5g geleia vaginal, com no minimo 7 aplica",4441081,5000,VENCEU,BIS,20500,4.1
+"Miconazol 20mg/g (2%) creme vaginal, com no minimo 7 aplicad",4441082,10000,VENCEU,BIS,50000,5
+"Neomicina 5mg + Bacitracina 250 UI/g pomada, bisnaga 10g.",4441089,30000,VENCEU,BIS,42000,1.4
+"Nistatina 100.000 UI/mL suspensão oral, frasco 50ml.",4441092,6000,VENCEU,FR.,20940,3.49
+"Prednisolona 3mg/mL solução oral, com copo medida, frasco 60",4441110,10000,PERDEU,FR.,32000,3.2
+"Risperidona 1mg/ml, solução oral, frasco 30ml.",4441120,1000,VENCEU,FR.,4980,4.98
+"Sulfametoxazol 400mg + trimetoprima 80mg cpr, em blister.",4441130,180000,VENCEU,COMP,17640,0.098
+"Sulfato ferroso 40mg cpr, em blister.",4441133,900000,PERDEU,COMP,31500,0.035
+"Tiamina 300 mg cpr, em blister.",4441137,12000,PERDEU,COMP,2280,0.19

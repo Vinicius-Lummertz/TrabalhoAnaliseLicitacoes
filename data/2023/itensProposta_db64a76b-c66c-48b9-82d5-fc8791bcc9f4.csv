@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Bebedouro elétrico de coluna (para bombona de 20 lt d´àgua)",10949690,15,VENCEU,UNI,11010,734
+"Chaleira Elétrica 1,8L",10949695,15,VENCEU,UNI,1499.25,99.95
+"Aspirador de pó/água profissional, para Sólidos/Líquidos,   220V, 30 lt, 1.600W em aço inox",10949696,2,VENCEU,UND,2158,1079
+"Lavadora de alta pressão profissional, potência de 2500W pressão de 2300 PSI/Libras, tensão 220 V",10949697,2,PERDEU,UND,5474,2737

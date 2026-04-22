@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Herbicida não-seletivo e não-agrícola - GLIFOSATO",1309451,7,700,ATIVO,LITRO,16240,23.2
+"estabilizador/neutralizador de pH",1315644,4,5,ATIVO,LITRO,465,93
+"Adubo químico - composição NPK 10-10-10 - Saco de 50kg",1317696,1,60,ATIVO,SACA,8593.8,143.23

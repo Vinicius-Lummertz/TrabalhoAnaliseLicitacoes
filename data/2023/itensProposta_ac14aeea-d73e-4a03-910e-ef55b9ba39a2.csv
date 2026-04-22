@@ -1,0 +1,12 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Adesivo cirúrgico Non-Woven Tamanho 10x5cm",11178729,20,VENCEU,ROLO,3960,198
+"Adesivo cirúrgico Non-Woven Tamanho 5x5cm",11178730,25,VENCEU,ROLO,3125,125
+"Filme de poliuretano transparente e impermeável 10cmx10m",11178733,30,VENCEU,ROL,6120,204
+"Filme de poliuretano transparente e impermeável 15cmx10m",11178734,20,VENCEU,ROL,6090,304.5
+"Curativo antimicrobiano composto de tecido acetato impregnado com primária  Carbamoil (DACC), Tamanho: de 7x9cm - Compressa (tecido de acetato).",11178735,800,VENCEU,UNI,40640,50.8
+"Líquido incolor e inodoro composto por siloxanos e sílica trimetilada (ingredientes 100% silicone)",11178762,30,VENCEU,UNI,2607,86.9
+"Cobertura composta a partir de 4 camadas, Tamanho mínimo 10x10 cm.",11178766,50,VENCEU,UN,2145,42.9
+"Cobertura composta mínimo de 4 camadas, Tamanho mínimo 12,5x12,5 cm.",11178767,100,PERDEU,UN,5399,53.99
+"Curativo de espuma para região Sacral 22x25cm com borda, Tamanhos mínimo 22cm (lado menor) e 25cm (lado maior)",11178768,50,PERDEU,UNI,7200,144
+"Curativo de espuma para região sacral com borda, tamanhos 24x21,5 cm",11178769,50,PERDEU,UN,7200,144
+"Curativo de espuma com bordas, multicamadas, sem  adição de carboximetilcelulose (1,2% prata iônica), sem prata iônica, tamanhos 15x15 cm",11178773,50,PERDEU,UNI,3775,75.5

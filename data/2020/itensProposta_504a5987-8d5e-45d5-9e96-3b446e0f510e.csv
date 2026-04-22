@@ -1,0 +1,5 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Fio dental bucal",4445045,100,VENCEU,UN,849,8.49
+"Kit odontológico de higiene dental adulto",4445074,3000,PERDEU,KIT,12600,4.2
+"Kit odontológico de higiene dental adulto",4445075,9000,PERDEU,KIT,37800,4.2
+"Kit odontológico de higiene dental infantil",4445076,7000,VENCEU,KIT,32200,4.6

@@ -1,0 +1,6 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Ácido fólico 0,2mg/ml, solução oral, frasco 30ml.",4525752,7,5000,ATIVO,FRASCO,14999.5,2.9999
+"Alopurinol 100mg cpr, em blister.",4525753,20,680000,ATIVO,COMPRIMIDO,88332,0.1299
+"Carvedilol 3,125 mg cpr, em blister.",4525754,61,60000,ATIVO,COMPRIMIDO,5160,0.086
+"Simeticona 75mg/mL solução oral, frasco 10ml.",4525755,102,15000,ATIVO,FRASCO,25198.5,1.6799
+"Metilfenidato 10 mg cpr, em blister.",5348252,186,409200,ATIVO,COMPRIMIDO,114576,0.28

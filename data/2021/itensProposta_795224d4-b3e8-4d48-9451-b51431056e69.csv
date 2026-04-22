@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de Ar Condicionado tipo Split HI-WALL 9.000",4447089,25,INABILITADO,UN,53655,2146.2
+"Aparelho de Ar Condicionado tipo Split HI-WALL 12.000",4447090,10,PERDEU,UN,25000,2500
+"Aparelho de Ar Condicionado tipo Split HI-WALL 18.000",4447091,1,PERDEU,UN,3400,3400
+"Aparelho de Ar Condicionado tipo Split HI-WALL 30.000",4447092,2,DESCLASSIFICADO,UN,14996,7498
+"Cortina de Ar Condicionado",4447093,2,PERDEU,UN,1470,735

@@ -1,0 +1,7 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Compressor odontológico em ferro fundido",10971614,2,VENCEU,UN,9990,4995
+"Fotopolimerizador sem fio",10971615,15,VENCEU,UN,26250,1750
+"Localizador apical eletrônico",10971616,2,VENCEU,UN,3315,1657.5
+"Mini incubadora biológica",10971619,50,PERDEU,UN,15250,305
+"Motor Endodôntico Elétrico",10971620,2,PERDEU,UN,13700,6850
+"Seladora térmica digital",10971621,15,PERDEU,UNI,11175,745

@@ -1,0 +1,6 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aparelho de ultrassom odontológico",7474541,3,PERDEU,UN,10500,3500
+"BOMBA DE VACUO",7474544,4,PERDEU,UN,13260,3315
+"Compressor odontológico em ferro fundido",7474545,10,PERDEU,UN,52000,5200
+"Consultório Odontológico;",7474546,5,PERDEU,CNJ,129000,25800
+"Sensor digital de radiografia periapical T2",7474548,2,VENCEU,UN,22980,11490

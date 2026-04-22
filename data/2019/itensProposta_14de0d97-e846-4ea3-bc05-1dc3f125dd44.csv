@@ -1,0 +1,80 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Alicate Ortodôntico Corte Pesado 266G",4441337,5,PERDEU,UNI,1860.75,372.15
+"Espátula Para Resina com Calcador N° 2",4441338,100,PERDEU,UN,3000,30
+"Alicate Perfurador Ainsworth",4441339,3,VENCEU,UN,228,76
+"Bandeja para esterelizacao",4441340,100,VENCEU,UN,1500,15
+"Espátula de inserção dupla, para resina composta, n° 1.",4441341,120,DESCLASSIFICADO,UN,7320,61
+"Suporte de fixação para caixa de luvas",4441342,20,VENCEU,UN,900,45
+"Jogo de Moldeira para desdentado lisa tipo Vernes",4441343,5,PERDEU,PCT,1175,235
+"Cabo Para Bisturi redondo Para Lâmina Dupla",4441344,5,VENCEU,UN,395,79
+"Cabo Para Bisturi Redondo lâmina unica",4441345,5,VENCEU,UN,250,50
+"Acrilico autopolimerizavel liquido",4441346,10,PERDEU,FR.,730,73
+"Abaixador de lingua descartável",4441347,120,INABILITADO,PCT,576,4.8
+"Amalgama em cápsula - 2 Porções",4441348,1,PERDEU,KIT,1070,1070
+"AVENTAL CIRURGICO",4441349,10,VENCEU,UN,980,98
+"Broca JET Carbide FG 957",4441350,30,PERDEU,UN,244.5,8.15
+"Broca de Gates Glidden nº1 de 25 mm",4441352,20,PERDEU,UN,150,7.5
+"Broca de Gates Glidden nº3 de 25 mm",4441353,20,PERDEU,UN,170,8.5
+"Broca n° 1112 F, acabamento fino",4441357,150,PERDEU,UN,300,2
+"Broca nº 1190 F, acabamento fino",4441358,150,PERDEU,UN,300,2
+"Cone de guta percha, #50/02",4441362,20,PERDEU,CX,398,19.9
+"Cuba de borracha para manipulação de alginato ou gesso",4441367,20,DESCLASSIFICADO,UN,156,7.8
+"Espátula para Gesso",4441368,15,PERDEU,UN,222,14.8
+"Cunhas de madeira interdental",4441369,80,PERDEU,CX,1208,15.1
+"DISCO DE LIXA DE ÓXIDO DE ALUMÍNIO",4441370,150,VENCEU,CX,4575,30.5
+"Edta gel 24%. Embalagem com 2 seringas com 3g de gel cada.",4441371,30,PERDEU,CX,675,22.5
+"Espaçador Digital nº30 de 21 mm",4441372,5,PERDEU,CX,355,71
+"Espaçador Digital nº30 de 25 mm",4441373,5,PERDEU,CX,222.25,44.45
+"Hemostático Líquido",4441375,40,VENCEU,UN,548,13.7
+"Lâmina de bisturi nº 12",4441377,10,DESCLASSIFICADO,CXA,383,38.3
+"Lâmina de bisturi nº 15",4441378,20,DESCLASSIFICADO,CX,840,42
+"Lâmina de bisturi nº 15C",4441379,10,PERDEU,CX,376,37.6
+"LENÇOL DE BORRACHA PURO LÁTEX",4441380,90,PERDEU,UN,1818,20.2
+"Lima tipo K nº 10 de 31 mm",4441382,50,DESCLASSIFICADO,CX,1092.5,21.85
+"Lima tipo K nº 08 de 25 mm",4441383,50,DESCLASSIFICADO,CX,1092.5,21.85
+"Lima tipo K nº 08 de 31 mm",4441384,50,DESCLASSIFICADO,CX,1092.5,21.85
+"Lima tipo K nº 10 de 21 mm",4441385,30,DESCLASSIFICADO,CX,655.5,21.85
+"Lima tipo K nº 10 de 25 mm",4441387,30,DESCLASSIFICADO,CX,655.5,21.85
+"Lima tipo K nº 8 de 21 mm",4441388,30,DESCLASSIFICADO,CX,655.5,21.85
+"Óculos de proteção de plástico",4441389,100,DESCLASSIFICADO,UNI,2185,21.85
+"Organizador multi uso 50 litros.",4441390,40,VENCEU,UN,2664,66.6
+"Organizador multi uso 15 litros",4441391,10,VENCEU,UN,280,28
+"Cimento Endodôntico para obturação",4441392,80,PERDEU,UN,19760,247
+"Papel Crepado em folhas 40 x 40 cm gramatura 60g/m²",4441393,30,DESCLASSIFICADO,CX,5040,168
+"Papel grau cirúrgico; medindo 25 cm x 100 m",4441394,200,PERDEU,BO,19200,96
+"Pasta para polimento de resina composta",4441395,200,PERDEU,SRS,3000,15
+"Pavio para lamparina",4441396,2,DESCLASSIFICADO,PCT,14.6,7.3
+"Pedra de afiar Arkansas fina",4441397,15,PERDEU,UN,411,27.4
+"Escova de Polimento MSH78WH-PR",4441398,15,VENCEU,UN,188.1,12.54
+"Ponta Capillary tips (roxa)",4441399,50,DESCLASSIFICADO,CX,3150,63
+"Ponta Irrigadora  (Agulha Endo-Eze)",4441400,50,PERDEU,PCT,2150,43
+"Seringa hipodérmica sem agulha",4441401,40,DESCLASSIFICADO,EM,4715.2,117.88
+"Régua de Fox com arco",4441402,2,PERDEU,UNI,49.6,24.8
+"Espelho de mão com cabo",4441405,20,VENCEU,UN,398,19.9
+"Solda de Prata 0,5mm em Rolo",4441410,20,DESCLASSIFICADO,UN,980,49
+"Ponta de ultrasson nº 37 Perio Sub Inserto",4441420,30,VENCEU,UN,1980,66
+"Ponta de ultrasson nº 32 Perio E- Inserto",4441421,30,VENCEU,UN,1980,66
+"Ponta de ultrasson nº 39 Perio Supra - Inserto",4441422,30,VENCEU,UN,1980,66
+"Ponta de ultrasson E18D - istmo D para Endodontia - Inserto",4441423,10,VENCEU,UN,1765.6,176.56
+"Ponta de ultrasson E18",4441424,10,VENCEU,UN,1367.5,136.75
+"Ponta de ultrasson E11",4441425,10,VENCEU,UN,1561.5,156.15
+"Ponta de ultrasson R1",4441426,15,VENCEU,UN,2342.25,156.15
+"Ponta de ultrasson R2",4441427,15,VENCEU,UN,2342.25,156.15
+"Mocho portatil",4441428,2,CANCELADO,UN,5060,2530
+"Cadeira odontologica portatil",4441429,2,VENCEU,UN,6260,3130
+"Alicate ortodôntico universal 325",4441430,5,PERDEU,UN,353.5,70.7
+"Espatula 24.",4441433,5,DESCLASSIFICADO,UN,60.9,12.18
+"Dobrador de amarilho",4441434,5,PERDEU,UN,68.75,13.75
+"Casquete para Tracionador tamanho pequeno.",4441439,30,DESCLASSIFICADO,UN,690,23
+"Casquete para Tracionador tamanho medio.",4441441,30,DESCLASSIFICADO,UN,690,23
+"Máscara Facial Petit.Na cor azul.",4441443,50,DESCLASSIFICADO,UN,2000,40
+"Máscara Facial Petit.Na cor rosa.",4441444,50,DESCLASSIFICADO,UN,2050,41
+"Elástico Intraoral Látex 1/4 - médio",4441445,30,PERDEU,EM,450,15
+"Elástico Intraoral Látex 1/8 - médio",4441446,30,PERDEU,EM,495,16.5
+"Elástico Intraoral Látex 3/16 - médio",4441447,30,PERDEU,EM,495,16.5
+"Elástico Intraoral Látex 5/16 - médio",4441448,30,PERDEU,EM,495,16.5
+"Ponta de pedra Arkansas  para metal",4441452,15,VENCEU,EM,119.25,7.95
+"Ponta pedra Arkansas para metal",4441453,15,VENCEU,EM,119.25,7.95
+"Compasso de ponta seca",4441454,5,CANCELADO,UN,600,120
+"Régua Plástica Flexível",4441455,20,VENCEU,UN,17.6,0.88
+"Conjunto de Aspiração Endodôntico",4441456,20,PERDEU,UN,726,36.3

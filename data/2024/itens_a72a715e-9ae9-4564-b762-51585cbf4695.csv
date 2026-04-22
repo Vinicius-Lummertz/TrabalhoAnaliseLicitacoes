@@ -1,0 +1,58 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Açúcar branco refinado 1Kg",5915130,1,1200,ATIVO,kg,6096,5.08
+"Açúcar Mascavo 1kg.",5915131,2,300,ATIVO,Quilograma/Kilograma,3231,10.77
+"Adoçante liquido 80 Ml (Stevia)",5915133,3,50,ATIVO,UNIDADE,946.5,18.93
+"Água de Coco 1 Lt",5915135,4,400,ATIVO,LITRO,4384,10.96
+"Agua de coco 200ml cx c/ 12 und",5915137,5,60,ATIVO,CAIXA,3052.2,50.87
+"Azeite de oliva extra virgem",5915139,6,40,ATIVO,UNIDADE,1449.2,36.23
+"Balas (chocolate, Coco, Caramelo) embalagem 750g",5915141,7,80,ATIVO,PACOTE,1347.2,16.84
+"Banana Branca",5915142,8,260,ATIVO,kg,1362.4,5.24
+"BISCOITO AGUA E SAL",5915144,9,350,ATIVO,PACOTE,2877,8.22
+"Biscoito amanteigado sabores diversos embalagem 400g",5915146,10,300,ATIVO,PACOTE,2649,8.83
+"Biscoito Chocolate 330g",5915148,11,120,ATIVO,PACOTE,1033.2,8.61
+"Biscoito coco embalagem 400g",5915149,12,100,ATIVO,PACOTE,865,8.65
+"Biscoito milho embalagem 400g",5915151,13,100,ATIVO,PACOTE,879,8.79
+"Biscoito wafer sabores diversos embalagem 160g",5915153,14,150,ATIVO,PACOTE,510,3.4
+"Bolachão mel 400 g",5915155,15,100,ATIVO,PACOTE,923,9.23
+"Bomboniere em vidro com tampe e pé 2,5 litros",5915157,16,20,ATIVO,UNIDADE,1958.2,97.91
+"bule de 3 litros de aluminio",5915159,17,10,ATIVO,UNIDADE,972.6,97.26
+"Café em pó pacote 500gr, homogêneo, torrado, moído com padrão global tradicional.",5915160,18,1200,ATIVO,Quilograma/Kilograma,31080,25.9
+"Chá Diversos Caixa com 10 Sachets",5915162,19,250,ATIVO,CAIXA,1255,5.02
+"Chaleira elétrica",5915164,20,10,ATIVO,UNIDADE,1643.2,164.32
+"Coador de café em flanela 100% algodão",5915166,21,10,ATIVO,UNIDADE,169.2,16.92
+"Filtro de Papel 103 caixa com 30 unidades",5915168,22,300,ATIVO,CAIXA,1593,5.31
+"Garfo descartavel sobremesa",5915170,23,150,ATIVO,PACOTE,846,5.64
+"Garrafa térmica de 1 litro",5915172,24,100,ATIVO,UNIDADE,7051,70.51
+"Garrafa térmica de 1.8 litro",5915173,25,100,ATIVO,UNIDADE,9485,94.85
+"Guardanapo 23x23cm com 50 unidades",5915175,26,200,ATIVO,PACOTE,596,2.98
+"Jogo Talher com 24 unidades",5915177,27,10,ATIVO,JOGO,985.3,98.53
+"Leite em pó 400g instantâneo",5915179,28,90,ATIVO,LATA,1887.3,20.97
+"Leite Integral caixa com 12 litros",5915181,29,350,ATIVO,CAIXA,22190,63.4
+"Maça Fugi",5915183,30,80,ATIVO,kg,850.4,10.63
+"Manteiga Com Sal Tablet 200 g",5915185,31,50,ATIVO,UNIDADE,539.5,10.79
+"Mexedor descartável para café (emb.com 200 unidades)",5915187,32,20,ATIVO,PACOTE,185.2,9.26
+"OLEO DE SOJA",5915189,33,80,ATIVO,UNIDADE,793.6,9.92
+"Ovos Tipo Colonial",5915191,34,240,ATIVO,DUZIA,2433.6,10.14
+"Palito caixa com 100 und",5915192,35,30,ATIVO,CAIXA,62.1,2.07
+"Pano de louça para copa",5915194,36,200,ATIVO,UNIDADE,1130,5.65
+"Papel Toalha de copa e cozinha",5915196,37,80,ATIVO,PACOTE,440,5.5
+"Pêra D'agua Nacional",5915198,38,90,ATIVO,Quilograma/Kilograma,921.6,10.24
+"Pratos plastico desc medio pc com 10 un",5915200,39,300,ATIVO,PACOTE,1794,5.98
+"Pratos plastico descartavel pequeno com 10 un",5915202,40,700,ATIVO,PACOTE,1974,2.82
+"Refrigerante 2 Litros",5915204,41,300,ATIVO,UNIDADE,2877,9.59
+"Refrigerante Sabores Diversos 350 ml",5915206,42,600,ATIVO,LATA,2448,4.08
+"Sal Refinado",5915208,43,30,ATIVO,kg,68.7,2.29
+"Salgados assados sortidos",5915210,44,280,ATIVO,CENTO,28162.4,100.58
+"Suco Natural Sabores Variados 1 Litro",5915212,45,520,ATIVO,LITRO,3946.8,7.59
+"Suporte para filtro café 103",5915214,46,20,ATIVO,UNIDADE,301.2,15.06
+Vinagre,5915216,47,30,ATIVO,FRASCO,80.1,2.67
+"Forno micro-ondas 20 Litros",5915217,48,10,ATIVO,UNIDADE,7356.6,735.66
+"Forno micro-ondas 32 Litros",5915220,49,10,ATIVO,UNIDADE,9379.6,937.96
+Liquidificador,5915222,50,6,ATIVO,UNIDADE,3146.1,524.35
+"Bombom embalagem de 1 kg",5915224,51,100,ATIVO,PACOTE,6188,61.88
+"Caixa de bombom",5915226,52,200,ATIVO,CAIXA,2882,14.41
+"Tapetes personalizados pintados 2,00X1,20",5915227,53,20,ATIVO,UNIDADE,5515.6,275.78
+"Sanduicheira elétrica",5915229,54,10,ATIVO,UNIDADE,1578.5,157.85
+"Refil para limpar garrafa térmica",5915231,55,10,ATIVO,UNIDADE,113,11.3
+"Toalhas de rosto felpuda",5915233,56,120,ATIVO,UNIDADE,1970.4,16.42
+"Toalhas de banho felpuda",5915235,57,30,ATIVO,UNIDADE,1045.5,34.85

@@ -1,0 +1,8 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Amiodarona 200mg cpr, em blister.",2218744,23,220000,ATIVO,COMPRIMIDO,66000,0.3
+"Ceftriaxona 500 mg intramuscular (IM) injetável.",2218745,67,3500,ATIVO,"Frasco ampola",25550,7.3
+"Ceftriaxona 1G intramuscular (IM) injetável.",2218746,68,5000,ATIVO,"Frasco ampola",36000,7.2
+"Espiramicina 1.500 UI, comp",2218747,116,1000,ATIVO,COMPRIMIDO,3740,3.74
+"Metilfenidato 10 mg cpr, em blister.",2218748,187,240000,ATIVO,COMPRIMIDO,72000,0.3
+"Stryphnodendron adstringens coville pomada (fitoscar), bisna",2218749,240,500,ATIVO,BISNAGA,28770,57.54
+"Tetracaina, Cloridrato + Fenilefrina, Cloridrato 1% + 0,1% c",2218750,251,200,ATIVO,FRASCO,1626,8.13

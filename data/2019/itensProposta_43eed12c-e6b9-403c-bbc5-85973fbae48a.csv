@@ -1,0 +1,14 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Apostila  Libras",4389180,400,DESCLASSIFICADO,UND,30000,75
+"Banner Tamanho 0,50 cm x 1,00 m",4389181,50,PERDEU,UND,3000,60
+"Banner Tamanho 1,20 cm x 1,30 m",4389182,80,PERDEU,UND,9600,120
+"Banner Tamanho 1,20 cm x 1,50 m",4389183,80,PERDEU,UND,9600,120
+"Caderno para baixa visão",4389184,100,VENCEU,UND,940,9.4
+"Capa de Transferência.",4389185,5000,VENCEU,UND,2050,0.41
+"Cartões (Dia do Professor, Diretor)",4389186,2500,PERDEU,UND,625,0.25
+CERTIFICADO,4389187,6000,PERDEU,UND,1200,0.2
+Convites.,4389188,800,PERDEU,UND,656,0.82
+"Diretriz Curricular da Educação Infantil.",4389189,500,DESCLASSIFICADO,UND,24925,49.85
+informativo,4389190,3000,VENCEU,UND,780,0.26
+"Provas alunos 1 º ano do Ensino Fundamental",4389191,14000,DESCLASSIFICADO,UND,16800,1.2
+"Provas alunos 2 º ano do Ensino Fundamental",4389192,13000,DESCLASSIFICADO,UND,15600,1.2

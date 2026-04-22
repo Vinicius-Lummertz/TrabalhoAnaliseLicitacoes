@@ -1,0 +1,19 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Coletor para materiais perfuro cortante (capacidade 13 Litros).",14877948,4000,PERDEU,UNI,26400,6.6
+"Coletor para materiais perfuro cortante (capacidade 7 Litros).",14877949,3000,PERDEU,UNI,17700,5.9
+"Gel condutor para exames de Ultrassonografia/Eletrocardiograma.",14878016,1200,PERDEU,UNI,2880,2.4
+"Saco plástico para acondicionamento de resíduo INFECTANTE 100 litros tipo HOSPITALAR BRANCO LEITOSO",14878088,1200,VENCEU,PCT,61200,51
+"Saco plástico para acondicionamento de resíduo INFECTANTE 30 litros tipo HOSPITALAR BRANCO LEITOSO",14878089,600,PERDEU,PCT,13800,23
+"Saco plástico para acondicionamento de resíduo INFECTANTE 50 litros, tipo HOSPITALAR BRANCO LEITOSO",14878090,1000,PERDEU,PCT,32990,32.99
+"Soro Fisiológico 1000ml sistema fechado (solução de cloreto de sódio 0,9%)",14878153,1200,VENCEU,UND,14388,11.99
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14878154,28500,PERDEU,UND,171000,6
+"Soro Fisiológico 100ml sistema fechado (solução de cloreto de sódio 0,9%)",14883318,9500,PERDEU,UND,57000,6
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14878156,30000,PERDEU,UND,183000,6.1
+"Soro Fisiológico 250ml sistema fechado (solução de cloreto de sódio 0,9%)",14883323,10000,PERDEU,UND,60900,6.09
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14878157,11250,PERDEU,UND,93375,8.3
+"Soro Fisiológico 500ml sistema fechado (solução de cloreto de sódio 0,9%)",14883334,3750,PERDEU,UND,31312.5,8.35
+"SORO GLICOFISIOLOGICO 250ml",14878159,600,PERDEU,UN,3570,5.95
+"Soro Glicofisiológico 500ml sistema fechado",14878160,800,PERDEU,UND,6360,7.95
+"Soro Glicosado 250ml (solução de glicose a 5%) sistema fechado",14878162,600,PERDEU,UND,4320,7.2
+"Soro Glicosado 500ml (solução de glicose a 5%) sistema fechado",14878163,600,PERDEU,UND,4464,7.44
+"Soro ringer lactato  500 ml sistema fechado.",14878165,200,PERDEU,UND,1980,9.9

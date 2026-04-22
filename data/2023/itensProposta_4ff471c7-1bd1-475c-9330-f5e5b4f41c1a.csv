@@ -1,0 +1,53 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Aciclovir 200 mg cpr, em blister.",11967157,180000,PERDEU,COMP,82800,0.46
+"Aciclovir 50 mg/g creme, bisnaga 10gr.",11967158,5000,PERDEU,BIS,35000,7
+"Ácido Acetilsalicilico 100mg cpr, em blister.",11967159,2500000,PERDEU,COMP,105000,0.042
+"Ácido fólico 5mg cpr, em blister.",11967161,700000,PERDEU,COMP,34300,0.049
+"Albendazol 400mg comprimido mastigável, em blister.",11967172,18000,PERDEU,COMP,21600,1.2
+"Albendazol 400mg/mL suspensão oral 10ml",11967173,30000,PERDEU,FR.,40770,1.359
+"Alendronato de sódio 70mg, blister com 4cpr.",11967174,30000,PERDEU,COMP,7800,0.26
+"Alopurinol 100mg cpr, em blister.",11967175,680000,PERDEU,COMP,102068,0.1501
+"Amiodarona 200mg cpr, em blister.",11967178,250000,PERDEU,COMP,107475,0.4299
+"Anlodipino, besilato 5mg cpr, em blister.",11967186,2500000,PERDEU,COMP,83750,0.0335
+"Atenolol 50mg cpr, em blister.",11967187,1500000,PERDEU,COMP,103500,0.069
+"Azitromicina 200mg/5mL (40mg/ml) suspensão oral, 15ml após reconstituição.",11967189,16000,VENCEU,FR,103518.4,6.4699
+"Brometo de N-butilescopolamina 20mg/mL injetável 1ml",11967200,5000,PERDEU,AMP,6100,1.22
+"Brometo de N-butilescopolamina 4mg/mL + dipirona sódica 500m",11967201,3000,PERDEU,AMP,8400,2.8
+"Captopril 25mg cpr, em blister.",11967207,1500000,PERDEU,COMP,63000,0.042
+"Carbamazepina 20mg/mL (2 %) - suspensão oral, frasco 100ml.",11967209,4000,PERDEU,FR.,40400,10.1
+"Claritromicina 500mg comprimido, em blister.",11967226,5000,PERDEU,COMP,9850,1.97
+"Clonazepam 2,5mg/mL 20ml",11967228,6000,PERDEU,FR.,34800,5.8
+"Diclofenaco sódico 50mg cpr, em blister.",11967253,550000,PERDEU,COMP,35200,0.064
+"Dipirona 500mg cpr, em blister",11967258,3000000,PERDEU,CP,468000,0.156
+"Dipirona 500mg/ml, injetável, ampola 2ml.",11967259,4000,PERDEU,AMP,7960,1.99
+"Dipirona sódica 500mg/mL solução oral, frasco 10ml.",11967260,30000,PERDEU,FR.,72000,2.4
+"Enalapril, maleato 10mg cpr, em blister.",11967264,2000000,PERDEU,COMP,66400,0.0332
+"Enalapril, maleato 20mg cpr, em blister.",11967265,1500000,PERDEU,COMP,102000,0.068
+"Enantoato de noretisterona + valerato de estradiol / AMP 1ml",11967267,6000,PERDEU,AMP,95940,15.99
+"Estrogênios conjugados 0,625mg cpr, em blister.",11967272,70000,PERDEU,COMP,65093,0.9299
+"Fenitoina 100mg cpr, em blister.",11967274,400000,PERDEU,COMP,80000,0.2
+"Finasterida 5 mg cpr, em blister.",11967281,180000,PERDEU,COMP,63000,0.35
+"Fluconazol 150mg capsula.",11967283,70000,PERDEU,CPLA,44800,0.64
+"Fluoxetina, cloridrato 20mg capsula, em blister.",11967286,2000000,PERDEU,CPLA,196000,0.098
+"Furosemida 40mg cpr, em blister.",11967289,850000,PERDEU,COMP,119000,0.14
+"Glibenclamida 5mg cpr, em blister.",11967290,1200000,PERDEU,COMP,37200,0.031
+"Hidroclorotiazida 25mg cpr, em blister.",11967301,3000000,PERDEU,COMP,180000,0.06
+"Ibuprofeno 50mg/mL, solução oral, frasco 30ml.",11967306,24000,PERDEU,FR.,71760,2.99
+"Ivermectina 6mg cpr, em blister.",11967314,60000,PERDEU,COMP,72000,1.2
+"Loratadina 10mg cpr, em blister.",11967334,800000,PERDEU,COMP,111920,0.1399
+"Losartana 50mg cpr revestido, em blister.",11967336,5000000,PERDEU,COMP,600000,0.12
+"Metoclopramida, cloridrato 10mg cpr, em blister.",11967343,850000,PERDEU,COMP,57800,0.068
+"Mikania glomerata Spreng, sem açucar, frasco 120ml.",11967353,18000,PERDEU,FR.,50040,2.78
+"Nifedipino retard 20mg, comprimido de liberação prolongada,",11967359,400000,PERDEU,COMP,58000,0.145
+"Óleo Mineral, frasco 100ml.",11967365,12000,PERDEU,FR.,57600,4.8
+"Omeprazol 20mg capsula, em blister.",11967366,4000000,PERDEU,CPLA,276000,0.069
+"Paracetamol 500mg  blister com 10 comprimidos ou acondiciona",11967371,1600000,PERDEU,COMP,158400,0.099
+"Propranolol 40mg cpr, em blister.",11967381,1000000,PERDEU,COMP,33000,0.033
+"Risperidona 1mg cpr, em blister.",11967382,480000,PERDEU,COMP,67152,0.1399
+"Risperidona 2mg cpr, em blister.",11967383,600000,PERDEU,COMP,83400,0.139
+"Sais de reidratação oral",11967386,50000,PERDEU,SACH,47000,0.94
+"Sinvastatina 20mg cpr, em blister.",11967389,2000000,PERDEU,COMP,198000,0.099
+"Sinvastatina 40 mg cpr, em blister.",11967390,1800000,PERDEU,COMP,576000,0.32
+"Sulfadiazina de prata 1% pomada, pote com 400g.",11967393,600,PERDEU,POT,44280,73.8
+"sulfadiazina de prata 1% pomada, bisnaga",11967394,6000,PERDEU,BIS,41940,6.99
+"Sulfato ferroso 40mg cpr, em blister.",11967399,1200000,PERDEU,COMP,192000,0.16

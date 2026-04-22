@@ -1,0 +1,28 @@
+descricao,id,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Jaleco branco manga longa Atenção Básica",4500071,800,DESCLASSIFICADO,UN,71920,89.9
+"Jaleco branco manga longa NASF",4500072,120,DESCLASSIFICADO,UN,10788,89.9
+"Jaleco branco manga longa Atenção Especializada",4500073,240,DESCLASSIFICADO,UN,21576,89.9
+"Jaleco branco manga longa Odontologia CEO",4500074,100,DESCLASSIFICADO,UN,8990,89.9
+"Jaleco branco manga longa Odontologia Atenção Básica",4500075,300,DESCLASSIFICADO,UN,26970,89.9
+"Jaleco branco manga longa Urgência e Emergência",4500076,120,DESCLASSIFICADO,UN,9594,79.95
+"Jaleco branco manga longa Laboratório Municipal",4500077,60,DESCLASSIFICADO,UN,4797,79.95
+"Jaleco branco manga longa  Farmaceuticos",4500078,100,DESCLASSIFICADO,UN,8990,89.9
+"Jaleco azul manga longa  Almoxarifado",4500079,45,DESCLASSIFICADO,UN,4317.75,95.95
+"Jaleco consultório na rua",4500080,15,DESCLASSIFICADO,UN,1348.5,89.9
+"Calça Brim Higienizadora",4500081,270,DESCLASSIFICADO,UN,13486.5,49.95
+"Camiseta manga curta higienizadora",4500082,270,DESCLASSIFICADO,UN,8086.5,29.95
+"Camisa Polo PROFISSIONAL(a ser definido pela secretaria de",4500083,120,DESCLASSIFICADO,UN,5874,48.95
+"Camiseta manga curta Agente Comunitário de Saúde",4500084,1200,DESCLASSIFICADO,UN,34800,29
+"Colete Consultório na rua",4500085,15,DESCLASSIFICADO,UN,1575,105
+"Camiseta Consultório na rua branca",4500086,15,DESCLASSIFICADO,UN,464.25,30.95
+Vestido,4500087,110,VENCEU,UN,7150,65
+"Camiseta CAPS Branca",4500088,190,DESCLASSIFICADO,UN,6260.5,32.95
+"Camisa Polo CAPS",4500089,190,DESCLASSIFICADO,UN,8360,44
+"Camiseta Secretaria de Saúde Branca estagiários",4500090,40,DESCLASSIFICADO,UN,1318,32.95
+"Camisa Polo  Atenção Básica, Especializada, Urgência e Emerg",4500091,170,VENCEU,UN,5270,31
+Cardigã,4500092,110,VENCEU,UN,8085,73.5
+"Camisa / Camisete manga longa",4500093,170,VENCEU,UN,11900,70
+"Jaqueta Social",4500094,50,DESCLASSIFICADO,UN,7600,152
+"Camiseta  Vigilância em Saúde",4500095,130,DESCLASSIFICADO,UN,4023.5,30.95
+"Camisa Polo Vigilância em Saúde",4500096,130,DESCLASSIFICADO,UN,5713.5,43.95
+"Colete Vigilância Sanitária",4500097,50,DESCLASSIFICADO,UN,4997.5,99.95

@@ -1,0 +1,4 @@
+descricao,idItem,numero,quantidade,situacao,unidadeMedida,valorTotal,valorUnitario
+"Cimento CP-IV 32 50 Kg",7245677,1,2250,ATIVO,UNIDADE,77400,34.4
+"Cimento CP-IV 32 50 Kg",7245678,2,750,ATIVO,UNIDADE,25800,34.4
+"Cimento CP V ARI - Saca 50KG",7245679,3,200,ATIVO,UNIDADE,10400,52
