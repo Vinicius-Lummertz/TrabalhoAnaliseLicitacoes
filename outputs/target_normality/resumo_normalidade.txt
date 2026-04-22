@@ -1,0 +1,49 @@
+Arquivo de entrada: outputs\unified_base\licitacoes_unificadas.parquet
+Nível de significância (alpha): 0.05
+Registros na base expandida por item: 186361
+Série usada no SW Teste: 1950 licitações únicas
+IDs com alvo inconsistente entre linhas duplicadas: 0
+Regra do teste:
+H0 = a distribuição é normal.
+Rejeitar H0 quando p-value < alpha.
+
+Resultado da série original:
+W = 0.165011
+p-value = 1.168942e-68
+Skewness = 18.951501
+Kurtosis = 514.692008
+Normal a 5%? não
+
+Transformação mais próxima da normalidade:
+boxcox_shifted
+W = 0.964664
+p-value = 1.957707e-21
+Skewness = 0.112826
+Kurtosis = 2.045112
+Normal a 5%? não
+
+Parâmetros usados na normalização por outlier:
+Q1 = 44336.015000
+Q3 = 499500.000000
+AIQ = 455163.985000
+Limite inferior = -638409.962500
+Limite superior = 1182245.977500
+
+Leitura estatística:
+A série original do valor homologado não é normal pelo SW Teste.
+As transformações de log, raiz, Box-Cox e o tratamento de outliers reduzem a assimetria e melhoram W.
+Mesmo assim, com 1.950 licitações válidas, nenhuma transformação atingiu p-value >= 0.05.
+Para as próximas etapas preditivas, a melhor candidata para estabilizar a distribuição é a transformação com maior W.
+
+Variância anual da série-alvo:
+- 2015: n=105, media=376417.64, mediana=59940.00, variancia=2565785654402.86, desvio_padrao=1601807.00
+- 2016: n=95, media=201475.38, mediana=62075.00, variancia=241692417261.88, desvio_padrao=491622.23
+- 2017: n=83, media=3025907.61, mediana=68106.84, variancia=324179719646108.75, desvio_padrao=18004991.52
+- 2018: n=113, media=420994.17, mediana=75804.00, variancia=2043839113039.98, desvio_padrao=1429629.01
+- 2019: n=480, media=683174.77, mediana=115800.00, variancia=6376378450938.52, desvio_padrao=2525149.19
+- 2020: n=125, media=342667.15, mediana=101572.42, variancia=922658323803.43, desvio_padrao=960551.05
+- 2021: n=112, media=1748743.23, mediana=157842.85, variancia=49689424398805.55, desvio_padrao=7049072.59
+- 2022: n=42, media=528688.10, mediana=173500.00, variancia=1541451639606.28, desvio_padrao=1241552.11
+- 2023: n=303, media=1185030.02, mediana=329222.89, variancia=8436285165866.24, desvio_padrao=2904528.39
+- 2024: n=255, media=1582835.78, mediana=249900.00, variancia=15613602812719.67, desvio_padrao=3951405.17
+- 2025: n=237, media=1034720.79, mediana=177750.00, variancia=7445419276202.47, desvio_padrao=2728629.56
