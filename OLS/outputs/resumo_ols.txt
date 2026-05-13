@@ -1,0 +1,20 @@
+Arquivo de entrada: outputs/unified_base/licitacoes_unificadas.parquet
+Variável alvo: valor_homologado
+População elegível (alvo não nulo): 186361
+Amostra recomendada (Cochran, 95% confiança, erro 0.05): 384
+Variáveis correlacionadas usadas no OLS: 10
+Registros usados no OLS: 12000
+R²: 1.0000
+R² ajustado: 1.0000
+
+Top 10 coeficientes absolutos:
+- diferenca_estimado_homologado: coef=-1.000000, std_err=0.000000
+- valor_estimado: coef=1.000000, std_err=0.000000
+- has_contrato: coef=-0.008610, std_err=0.000079
+- const: coef=-0.004832, std_err=0.000058
+- has_despesa: coef=-0.004829, std_err=0.000066
+- has_ata_registro_precos: coef=0.003757, std_err=0.000052
+- registro_precos_bool: coef=0.003748, std_err=0.000050
+- mes_publicacao: coef=0.000581, std_err=0.000018
+- num_participantes_licitacao: coef=0.000067, std_err=0.000004
+- valor_estimado_por_participante: coef=0.000000, std_err=0.000000
