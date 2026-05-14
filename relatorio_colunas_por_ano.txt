@@ -1,0 +1,537 @@
+RELATÓRIO DE COLUNAS POR ANO
+================================================================================
+
+ANO: 2015
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 88
+
+Primeiro ano analisado. Colunas encontradas:
+  - acao
+  - adesao
+  - ano
+  - anoLicitacao
+  - anoProcesso
+  - arquivo
+  - atasRegistroPrecos
+  - cidadeCertame
+  - cnpjCpfContratado
+  - cnpjCpfFornecedor
+  - cnpjCpfVencedor
+  - codigo
+  - contratos
+  - data
+  - dataAberturaEnvelopes
+  - dataAnulacao
+  - dataAssinatura
+  - dataCriacao
+  - dataHomologacao
+  - dataJulgamento
+  - dataPublicacao
+  - dataRevogacao
+  - dataVencimento
+  - dataVigenciaFinal
+  - dataVigenciaInicial
+  - descricao
+  - descricaoElemento
+  - despesas
+  - documentosRelacionados
+  - emailContato
+  - empenhos
+  - enderecoCertame
+  - enderecoEntrega
+  - estadoCertame
+  - fonteRecurso
+  - formaContratacao
+  - formaJulgamento
+  - formaParticipacao
+  - funcao
+  - fundamentoLegal
+  - id
+  - idFornecedor
+  - idItem
+  - inicioRecebimentoEnvelopes
+  - itens
+  - itensProposta
+  - itensVencedores
+  - meioDivulgacao
+  - modalidade
+  - motivoAnulacao
+  - motivoRevogacao
+  - nomeContato
+  - nomeContratado
+  - nomeEntidade
+  - nomeFonecedor
+  - numero
+  - numeroElemento
+  - numeroLicitacao
+  - numeroProcesso
+  - objeto
+  - ocorrencias
+  - orgao
+  - participanteVencedor
+  - participantes
+  - portaria
+  - programa
+  - quantidade
+  - registroPrecos
+  - representanteCertame
+  - responsavelFornecedor
+  - situacao
+  - socios
+  - subfuncao
+  - telefoneContato
+  - terminoRecebimentoEnvelopes
+  - tipo
+  - tipoObjeto
+  - unidade
+  - unidadeMedida
+  - valor
+  - valorEstimado
+  - valorHomologado
+  - valorTotal
+  - valorTotalReferencia
+  - valorTotalVencedor
+  - valorUnitario
+  - valorUnitarioReferencia
+  - valorUnitarioVencedor
+
+================================================================================
+
+ANO: 2016
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 88
+
+Comparação com 2015:
+Colunas mantidas: 88
+Colunas novas: 0
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2017
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 88
+
+Comparação com 2016:
+Colunas mantidas: 88
+Colunas novas: 0
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2018
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 90
+
+Comparação com 2017:
+Colunas mantidas: 88
+Colunas novas: 2
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  + dataEmissao
+  + nomeCredor
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2019
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 88
+
+Comparação com 2018:
+Colunas mantidas: 88
+Colunas novas: 0
+Colunas que sumiram: 2
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  - dataEmissao
+  - nomeCredor
+
+================================================================================
+
+ANO: 2020
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 92
+
+Comparação com 2019:
+Colunas mantidas: 88
+Colunas novas: 4
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  + dataEmissao
+  + justificativa
+  + nomeCredor
+  + responsavel
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2021
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 92
+
+Comparação com 2020:
+Colunas mantidas: 92
+Colunas novas: 0
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2022
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 92
+
+Comparação com 2021:
+Colunas mantidas: 92
+Colunas novas: 0
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2023
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 103
+
+Comparação com 2022:
+Colunas mantidas: 92
+Colunas novas: 11
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  + anoProcessoOrigem
+  + cnpjOrgaoOrigem
+  + dataAtaOrigem
+  + dataAutorizacao
+  + dataAvisoProcessoOrigem
+  + dataValidadeAta
+  + modalidadeProcessoOrigem
+  + numeroAtaOrigem
+  + numeroLicitacaoOrigem
+  + numeroProcessoOrigem
+  + orgaoOrigem
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: 2024
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 92
+
+Comparação com 2023:
+Colunas mantidas: 92
+Colunas novas: 0
+Colunas que sumiram: 11
+
+Colunas novas neste ano:
+  Nenhuma coluna nova.
+
+Colunas que sumiram neste ano:
+  - anoProcessoOrigem
+  - cnpjOrgaoOrigem
+  - dataAtaOrigem
+  - dataAutorizacao
+  - dataAvisoProcessoOrigem
+  - dataValidadeAta
+  - modalidadeProcessoOrigem
+  - numeroAtaOrigem
+  - numeroLicitacaoOrigem
+  - numeroProcessoOrigem
+  - orgaoOrigem
+
+================================================================================
+
+ANO: 2025
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 103
+
+Comparação com 2024:
+Colunas mantidas: 92
+Colunas novas: 11
+Colunas que sumiram: 0
+
+Colunas novas neste ano:
+  + anoProcessoOrigem
+  + cnpjOrgaoOrigem
+  + dataAtaOrigem
+  + dataAutorizacao
+  + dataAvisoProcessoOrigem
+  + dataValidadeAta
+  + modalidadeProcessoOrigem
+  + numeroAtaOrigem
+  + numeroLicitacaoOrigem
+  + numeroProcessoOrigem
+  + orgaoOrigem
+
+Colunas que sumiram neste ano:
+  Nenhuma coluna sumiu.
+
+================================================================================
+
+ANO: support
+--------------------------------------------------------------------------------
+Total de colunas únicas no ano: 4
+
+Comparação com 2025:
+Colunas mantidas: 1
+Colunas novas: 3
+Colunas que sumiram: 102
+
+Colunas novas neste ano:
+  + fator_ipca
+  + fonte
+  + ipca_percentual
+
+Colunas que sumiram neste ano:
+  - acao
+  - adesao
+  - anoLicitacao
+  - anoProcesso
+  - anoProcessoOrigem
+  - arquivo
+  - atasRegistroPrecos
+  - cidadeCertame
+  - cnpjCpfContratado
+  - cnpjCpfFornecedor
+  - cnpjCpfVencedor
+  - cnpjOrgaoOrigem
+  - codigo
+  - contratos
+  - data
+  - dataAberturaEnvelopes
+  - dataAnulacao
+  - dataAssinatura
+  - dataAtaOrigem
+  - dataAutorizacao
+  - dataAvisoProcessoOrigem
+  - dataCriacao
+  - dataEmissao
+  - dataHomologacao
+  - dataJulgamento
+  - dataPublicacao
+  - dataRevogacao
+  - dataValidadeAta
+  - dataVencimento
+  - dataVigenciaFinal
+  - dataVigenciaInicial
+  - descricao
+  - descricaoElemento
+  - despesas
+  - documentosRelacionados
+  - emailContato
+  - empenhos
+  - enderecoCertame
+  - enderecoEntrega
+  - estadoCertame
+  - fonteRecurso
+  - formaContratacao
+  - formaJulgamento
+  - formaParticipacao
+  - funcao
+  - fundamentoLegal
+  - id
+  - idFornecedor
+  - idItem
+  - inicioRecebimentoEnvelopes
+  - itens
+  - itensProposta
+  - itensVencedores
+  - justificativa
+  - meioDivulgacao
+  - modalidade
+  - modalidadeProcessoOrigem
+  - motivoAnulacao
+  - motivoRevogacao
+  - nomeContato
+  - nomeContratado
+  - nomeCredor
+  - nomeEntidade
+  - nomeFonecedor
+  - numero
+  - numeroAtaOrigem
+  - numeroElemento
+  - numeroLicitacao
+  - numeroLicitacaoOrigem
+  - numeroProcesso
+  - numeroProcessoOrigem
+  - objeto
+  - ocorrencias
+  - orgao
+  - orgaoOrigem
+  - participanteVencedor
+  - participantes
+  - portaria
+  - programa
+  - quantidade
+  - registroPrecos
+  - representanteCertame
+  - responsavel
+  - responsavelFornecedor
+  - situacao
+  - socios
+  - subfuncao
+  - telefoneContato
+  - terminoRecebimentoEnvelopes
+  - tipo
+  - tipoObjeto
+  - unidade
+  - unidadeMedida
+  - valor
+  - valorEstimado
+  - valorHomologado
+  - valorTotal
+  - valorTotalReferencia
+  - valorTotalVencedor
+  - valorUnitario
+  - valorUnitarioReferencia
+  - valorUnitarioVencedor
+
+================================================================================
+
+
+RESUMO GERAL
+================================================================================
+Total de anos analisados: 12
+Total de colunas diferentes encontradas na base inteira: 106
+
+Todas as colunas encontradas na base inteira:
+  - acao
+  - adesao
+  - ano
+  - anoLicitacao
+  - anoProcesso
+  - anoProcessoOrigem
+  - arquivo
+  - atasRegistroPrecos
+  - cidadeCertame
+  - cnpjCpfContratado
+  - cnpjCpfFornecedor
+  - cnpjCpfVencedor
+  - cnpjOrgaoOrigem
+  - codigo
+  - contratos
+  - data
+  - dataAberturaEnvelopes
+  - dataAnulacao
+  - dataAssinatura
+  - dataAtaOrigem
+  - dataAutorizacao
+  - dataAvisoProcessoOrigem
+  - dataCriacao
+  - dataEmissao
+  - dataHomologacao
+  - dataJulgamento
+  - dataPublicacao
+  - dataRevogacao
+  - dataValidadeAta
+  - dataVencimento
+  - dataVigenciaFinal
+  - dataVigenciaInicial
+  - descricao
+  - descricaoElemento
+  - despesas
+  - documentosRelacionados
+  - emailContato
+  - empenhos
+  - enderecoCertame
+  - enderecoEntrega
+  - estadoCertame
+  - fator_ipca
+  - fonte
+  - fonteRecurso
+  - formaContratacao
+  - formaJulgamento
+  - formaParticipacao
+  - funcao
+  - fundamentoLegal
+  - id
+  - idFornecedor
+  - idItem
+  - inicioRecebimentoEnvelopes
+  - ipca_percentual
+  - itens
+  - itensProposta
+  - itensVencedores
+  - justificativa
+  - meioDivulgacao
+  - modalidade
+  - modalidadeProcessoOrigem
+  - motivoAnulacao
+  - motivoRevogacao
+  - nomeContato
+  - nomeContratado
+  - nomeCredor
+  - nomeEntidade
+  - nomeFonecedor
+  - numero
+  - numeroAtaOrigem
+  - numeroElemento
+  - numeroLicitacao
+  - numeroLicitacaoOrigem
+  - numeroProcesso
+  - numeroProcessoOrigem
+  - objeto
+  - ocorrencias
+  - orgao
+  - orgaoOrigem
+  - participanteVencedor
+  - participantes
+  - portaria
+  - programa
+  - quantidade
+  - registroPrecos
+  - representanteCertame
+  - responsavel
+  - responsavelFornecedor
+  - situacao
+  - socios
+  - subfuncao
+  - telefoneContato
+  - terminoRecebimentoEnvelopes
+  - tipo
+  - tipoObjeto
+  - unidade
+  - unidadeMedida
+  - valor
+  - valorEstimado
+  - valorHomologado
+  - valorTotal
+  - valorTotalReferencia
+  - valorTotalVencedor
+  - valorUnitario
+  - valorUnitarioReferencia
+  - valorUnitarioVencedor
